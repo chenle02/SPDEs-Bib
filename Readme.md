@@ -6,7 +6,7 @@
    to handle the bibliography.
 4. There are about 2.6K entries so far.
 5. How entries are selected: Here are some general principles that have been used
-  1. All papers from some authors whose research interest is close to mine are included.
-  2. References from some interesting papers, whenever there is a MR number, are included.
-  3. References that I come across will be included.
+    1. All papers from some authors whose research interest is close to mine are included.
+    2. References from some interesting papers, whenever there is a MR number, are included.
+    3. References that I come across will be included.
 
