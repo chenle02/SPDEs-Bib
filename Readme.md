@@ -13,9 +13,12 @@
     1. All papers from some authors whose research interest is close to mine are included.
     2. References from some interesting papers, whenever there is a MR number, are included.
     3. References that I come across will be included.
+6. [Sample setup using neovim](Sample_setup_using_neovim.md)
 
 ## Some other related tools
 1. [papis](https://github.com/papis/papis)
 
-
+## Others
+1. If you use this bank and want to include some entries, please let me know. I will add them to the
+   bank.
 
