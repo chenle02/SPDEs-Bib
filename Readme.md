@@ -1,4 +1,8 @@
-# SPDEs bibliography maintained by Le Chen
+# SPDEs bibliography maintained by [Le Chen](http://webhome.auburn.edu/~lzc0090/)
+
+## The bib file: [All.bib](All.bib).
+
+## Explanations
 1. Most entries downloaded from [MathSciNet](https://mathscinet.ams.org/mathscinet) to keep the
    records consistent.
 2. The [BibTool](https://ctan.org/pkg/bibtool?lang=en) is used to generate the citation keys.
@@ -9,9 +13,8 @@
     1. All papers from some authors whose research interest is close to mine are included.
     2. References from some interesting papers, whenever there is a MR number, are included.
     3. References that I come across will be included.
-6. The main file for bib entries is [All.bib](All.bib).
 
-# Some other related tools
+## Some other related tools
 1. [papis](https://github.com/papis/papis)
 
 
