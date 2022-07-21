@@ -1,0 +1,16 @@
+# ----
+# Automatically Generated .dropboxignore file at Tue 08 Mar 2022 08:33:04 AM CST
+# ----
+*.aux
+*.bak
+*.fdb_latexmk
+*.fls
+*.gz
+*.log
+*.nav
+*.out
+*.snm
+*.syntex.gz
+*.toc
+rd8.*
+# ----

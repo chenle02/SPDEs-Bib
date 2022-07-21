@@ -1,0 +1,16 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.gz
+*.gz
+*.log
+*.nav
+*.out
+*.snm
+*.xml
+*.bcf
+*.blg
+*.syntex.gz
+*.toc
+rd8.*
+
