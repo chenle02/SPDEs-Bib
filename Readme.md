@@ -22,3 +22,6 @@
 1. If you use this bank and want to include some entries, please let me know. I will add them to the
    bank.
 
+## License
+
+[CC-BY-SA 4.0](LICENSE.txt)
