@@ -1,5 +1,12 @@
 # SPDEs bibliography maintained by [Le Chen](http://webhome.auburn.edu/~lzc0090/)
 
+## Motivation
+
+When writing a paper, it is not an easy task to keep the bibliography part correct and updated. This
+process is also very time-consuming. Through this repo, we provide a uniform access to the latest
+bibliography entries related to the research area of the author: _Stochastic Partial Differential
+Equations (SPDEs)_.
+
 ## The bib file: [All.bib](All.bib).
 
 ## Explanations
