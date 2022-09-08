@@ -13,6 +13,8 @@ Equations (SPDEs)_.
 1. Most entries downloaded from [MathSciNet](https://mathscinet.ams.org/mathscinet) to keep the
    records consistent.
 2. The [BibTool](https://ctan.org/pkg/bibtool?lang=en) is used to generate the citation keys.
+  * The convention is two last names separated with period and two digit for year surrounded by :,
+      and the first word in the title. For example, `dalang:99:extending`.
 3. All references are listed in [All.pdf](All.pdf), check [All.tex](All.tex) for the usage of biber
    to handle the bibliography.
 4. There are about 2.6K entries so far.
@@ -21,6 +23,10 @@ Equations (SPDEs)_.
     2. References from some interesting papers, whenever there is a MR number, are included.
     3. References that I come across will be included.
 6. [Sample setup using neovim](Sample_setup_using_neovim.md)
+
+## How to contribute
+1. If you want to include some reference in this bank, you may create an issue or contact me via email
+   (chenle02@gmail.com).
 
 ## Some other related tools
 1. [papis](https://github.com/papis/papis)
