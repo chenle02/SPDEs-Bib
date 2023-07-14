@@ -1,0 +1,40 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=1in, left=2.5in]{geometry}
+\RequirePackage[colorlinks,citecolor=blue,urlcolor=blue]{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm,mathrsfs}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{url}
+\usepackage[strict=true,style=english]{csquotes}
+\usepackage[style=authoryear,
+            bibstyle=authoryear,
+            citestyle=authoryear,
+            natbib=true,
+            hyperref=true,
+            backref=true,
+            abbreviate=true]{biblatex}
+\usepackage{citeall}
+\usepackage[notref,notcite]{showkeys}
+
+\addbibresource{../All.bib}
+
+\def\polhk#1{\setbox0=\hbox{#1}{\ooalign{\hidewidth
+  \lower1.5ex\hbox{`}\hidewidth\crcr\unhbox0}}} \def\cprime{$'$}
+
+\title{SPDE reference bank \\
+--- Demonstration}
+\author{Le Chen\footnote{Email: \url{le.chen@auburn.edu}, \url{chenle02@gmail.com}.}}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+This is a demonstration: ~\cite{chen.dalang:12:nonlinear}
+
+\printbibliography
+
+\end{document}
