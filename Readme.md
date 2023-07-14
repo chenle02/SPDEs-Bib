@@ -7,6 +7,10 @@ process is also very time-consuming. Through this repo, we provide a uniform acc
 bibliography entries related to the research area of the author: _Stochastic Partial Differential
 Equations (SPDEs)_.
 
+## Demo using nvim
+
+[![asciicast](https://asciinema.org/a/596819.svg)](https://asciinema.org/a/596819)
+
 ## The bib file: [All.bib](All.bib).
 
 ## Explanations
