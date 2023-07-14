@@ -11,6 +11,8 @@ Equations (SPDEs)_.
 
 [![asciicast](https://asciinema.org/a/596819.svg)](https://asciinema.org/a/596819)
 
+* Similar auto completion function exists in [Overleaf](https://www.overleaf.com/).
+
 ## The bib file: [All.bib](All.bib).
 
 ## Explanations
