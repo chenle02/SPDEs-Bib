@@ -49,30 +49,37 @@ Here is a reference bank. The biblatex entries were mostly downloaded from
 
 \subsection{Naming convention}
 
-The naming convention is shown as follows:
+The naming convention consists of three cases:
 \begin{enumerate}
   \item Single authored paper, such as:
-  \item[] Einstein, Albert. \textit{Random PDE for special relativities}, Journal,
-    Volume, Number, 2023.
+  \item[] Einstein, Albert. Random PDE for special relativities.
+    \textit{Annals of Probability}, Volume, Number, 2023.
     \begin{center}
       einstein:23:random
     \end{center}
     \bigskip
 
   \item Paper with two authors, such as:
-  \item[] Einstein, Albert and Grothendieck, Alexandre. \textit{A stochastic PDE
-      model for general relativities}, Journal, Volume, Number, 2024.
+  \item[] Einstein, Albert and Grothendieck, Alexandre. A stochastic PDE
+    model for general relativities. \textit{Electronic Journal of Probability},
+    Volume, Number, 2024.
     \begin{center}
       einstein.grothendieck:24:stochastic
     \end{center}
     
   \item Paper with more than two authors, such as:
   \item[] Einstein, Albert and Grothendieck, Alexandre and Newton, Isaac.
-    \textit{A private communication on interemittency}, Journal, Volume, Number, 2025.
+    A private communication on interemittency. \textit{Transactions of AMS},
+    Volume, Number, 2025.
     \begin{center}
       einstein.grothendieck.ea:25:private
     \end{center}
 \end{enumerate}
+
+Here is a demonstration how to use it in neovim:
+\begin{center}
+  \url{https://asciinema.org/a/596819}
+\end{center}
 
 % \cite{MR428626}
 
