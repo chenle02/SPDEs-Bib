@@ -25,13 +25,14 @@
 \def\polhk#1{\setbox0=\hbox{#1}{\ooalign{\hidewidth
   \lower1.5ex\hbox{`}\hidewidth\crcr\unhbox0}}} \def\cprime{$'$}
 
-\title{My feference bank}
+\title{SPDE reference bib bank}
 \author{Le Chen\footnote{Email: \url{le.chen@auburn.edu}, \url{chenle02@gmail.com}.}}
 
 \date{\today}
 
 \begin{document}
 
+\maketitle
 \tableofcontents
 
 \section{Introduction}
@@ -43,7 +44,12 @@ Here is a reference bank. The biblatex entries were mostly downloaded from
   \url{https://mathscinet.ams.org/mathscinet}
 \end{center}
 
-\noindent and from the \textit{arXiv}.
+\noindent and from the \textit{arXiv}. \bigskip
+
+The GitHub repo is at
+\begin{center}
+  \url{https://github.com/chenle02/SPDEs-Bib}.
+\end{center}
 
 \subsection{Naming convention}
 
@@ -92,7 +98,6 @@ Here is a demonstration how to use it in neovim:
 % \printbibheading
 % \printbibliography[keyword=major,heading=subbibliography,title={Major Sources}]
 % \printbibliography[keyword=minor,heading=subbibliography,title={Minor Sources}]
-\tableofcontents
 
 \citeall
 
