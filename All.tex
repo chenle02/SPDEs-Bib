@@ -34,11 +34,45 @@
 
 \maketitle
 
-Here is a reference bank. The biblatex entries were downloaded from
+\tableofcontents
+
+\section{Introduction}
+
+\subsection{Source}
+Here is a reference bank. The biblatex entries were mostly downloaded from
 
 \begin{center}
-  \url{https://mathscinet.ams.org/mathscinet}.
+  \url{https://mathscinet.ams.org/mathscinet}
 \end{center}
+
+\noindent and from the \textit{arXiv}.
+
+\subsection{Naming convention}
+
+The naming convention is shown as follows:
+\begin{enumerate}
+  \item Single authored paper, such as:
+  \item[] Einstein, Albert. \textit{Random PDE for special relativities}, Journal,
+    Volume, Number, 2023.
+    \begin{center}
+      einstein:23:random
+    \end{center}
+    \bigskip
+
+  \item Paper with two authors, such as:
+  \item[] Einstein, Albert and Grothendieck, Alexandre. \textit{A stochastic PDE
+      model for general relativities}, Journal, Volume, Number, 2024.
+    \begin{center}
+      einstein.grothendieck:24:stochastic
+    \end{center}
+    
+  \item Paper with more than two authors, such as:
+  \item[] Einstein, Albert and Grothendieck, Alexandre and Newton, Isaac.
+    \textit{A private communication on interemittency}, Journal, Volume, Number, 2025.
+    \begin{center}
+      einstein.grothendieck.ea:25:private
+    \end{center}
+\end{enumerate}
 
 % \cite{MR428626}
 
@@ -49,7 +83,6 @@ Here is a reference bank. The biblatex entries were downloaded from
 % \printbibheading
 % \printbibliography[keyword=major,heading=subbibliography,title={Major Sources}]
 % \printbibliography[keyword=minor,heading=subbibliography,title={Minor Sources}]
-\tableofcontents
 
 \citeall
 
