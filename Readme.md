@@ -39,7 +39,7 @@ Equations (SPDEs)_.
 
 ## Some other related tools
 1. [papis](https://github.com/papis/papis)
-2. [bibtex-tidy](https://github.com/bajinsheng/bibtidy)
+2. [bibtex-tidy](https://github.com/FlamingTempura/bibtex-tidy)
 
 ## Others
 1. If you use this bank and want to include some entries, please let me know. I will add them to the bank.
