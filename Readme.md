@@ -41,8 +41,19 @@ Equations (SPDEs)_.
 1. [papis](https://github.com/papis/papis)
 2. [bibtex-tidy](https://github.com/FlamingTempura/bibtex-tidy)
 
-## Cite this GitHub repository?
-```
+
+## How to contribute?
+
+If you use this bank and want to include some entries, please let me know. I will add them to the bank.
+
+# Acknowledgments
+
+If the resources in this repository have assisted in your research, I would be grateful if you would acknowledge it in your work. You could include something like the following in your acknowledgments section:
+
+"This research was supported by resources provided by the GitHub repository chenle02/SPDEs-Bib curated by Le Chen."
+
+Or, if you wish to cite the repository directly, please use the BibTeX reference below:
+```bibtex
 @misc{chen:22:comprenhensive,
   author       = {Chen, Le},
   title        = {A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
@@ -52,8 +63,8 @@ Equations (SPDEs)_.
   note         = {Accessed: 11/11/2023, V1.0},
 }
 ```
-## Others
-1. If you use this bank and want to include some entries, please let me know. I will add them to the bank.
+
+Your support in recognizing the effort put into compiling and maintaining this repository is much appreciated.
 
 ## License
 
