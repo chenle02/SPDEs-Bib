@@ -14,6 +14,8 @@ jobs:
     - name: Compile LaTeX document
       run: |
         pdflatex All.tex
+        bibtex All
+        pdflatex All.tex
         pdflatex All.tex
 
     - name: Upload PDF
