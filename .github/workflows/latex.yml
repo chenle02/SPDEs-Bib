@@ -1,0 +1,23 @@
+name: Compile All.tex LaTeX Document
+on: push
+
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Git repository
+      uses: actions/checkout@v2
+
+    - name: Install LaTeX
+      run: sudo apt-get install -y texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra texlive-bibtex-extra biber
+
+    - name: Compile LaTeX document
+      run: |
+        pdflatex All.tex
+        pdflatex All.tex
+
+    - name: Upload PDF
+      uses: actions/upload-artifact@v2
+      with:
+        name: Compiled-PDF
+        path: ./All.pdf
