@@ -8,16 +8,31 @@ jobs:
     - name: Set up Git repository
       uses: actions/checkout@v2
 
+    - name: Cache LaTeX packages
+      uses: actions/cache@v2
+      with:
+        path: |
+          /var/cache/apt
+          /var/lib/apt/lists
+        key: ${{ runner.os }}-apt-cache-${{ hashFiles('**/*.tex') }}
+        restore-keys: |
+          ${{ runner.os }}-apt-cache-
+
     - name: Install LaTeX
-      run: sudo apt-get install -y texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra texlive-bibtex-extra biber
+      run: |
+        if [ ! -f "/var/cache/apt/archives/lock" ]; then
+          sudo apt-get update
+          sudo apt-get install -y texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra texlive-bibtex-extra biber texlive-lang-european
+        else
+          echo "LaTeX packages are cached."
+        fi
 
     - name: Compile LaTeX document
       run: |
-        pdflatex All.tex
-        biber --output_format=bibtex --output_resolve All.bcf
+        lualatex All.tex
         biber All
-        pdflatex All.tex
-        pdflatex All.tex
+        lualatex All.tex
+        lualatex All.tex
 
     - name: Upload PDF
       uses: actions/upload-artifact@v2
