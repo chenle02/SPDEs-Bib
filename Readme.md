@@ -49,11 +49,15 @@ If you use this bank and want to include some entries, please let me know. I wil
 
 # Acknowledgments
 
-If the resources in this repository have assisted in your research, I would be grateful if you would acknowledge it in your work. You could include something like the following in your acknowledgments section:
+We hope that the resources compiled in this bibliography bank have been supportive in your research endeavors. We are sincerely grateful for any form of acknowledgment you might extend. Should you wish to mention this work, a statement such as the one below could be included in your acknowledgments section or as a footnote:
 
-"This research was supported by resources provided by the GitHub repository chenle02/SPDEs-Bib curated by Le Chen."
+```
+  The author(s) would like to recognize the contribution of the GitHub
+  repository chenle02/SPDEs-Bib curated by Le Chen, which has supported this
+  research.
+```
 
-Or, if you wish to cite the repository directly, please use the BibTeX reference below:
+Or, if you prefer to directly cite this repository, please feel free to use the following BibTeX entry:
 ```bibtex
 @misc{chen:22:spdes-bib,
   author       = {Chen, Le},
