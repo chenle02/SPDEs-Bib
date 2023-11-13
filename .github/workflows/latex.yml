@@ -1,28 +1,42 @@
-
 name: Compile All.tex LaTeX Document
-on: push
-
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '**.pdf'
+  pull_request:
+    branches:
+      - main
 jobs:
   build_latex:
     runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
     steps:
-    - name: Set up Git repository
-      uses: actions/checkout@v2
+      - name: Set up Git repository
+        uses: actions/checkout@v3
 
-    - name: Install LaTeX full
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y texlive-full
+      - name: Install LaTeX full
+        run: sudo apt-get install -y texlive-full
 
-    - name: Compile LaTeX document
-      run: |
-        lualatex All.tex
-        biber All
-        lualatex All.tex
-        lualatex All.tex
+      - name: Compile LaTeX document
+        run: |
+          lualatex All.tex
+          biber All
+          lualatex All.tex
+          lualatex All.tex
 
-    - name: Upload PDF
-      uses: actions/upload-artifact@v2
-      with:
-        name: Compiled-PDF
-        path: ./All.pdf
+      - name: Upload PDF
+        uses: actions/upload-artifact@v3
+        with:
+          name: Compiled-PDF
+          path: ./All.pdf
+
+      - name: Commit and Push PDF
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git fetch --unshallow || true
+          git add -f All.pdf
+          git commit -m "Update compiled PDF via the GitHub Action."
+          git push origin HEAD:main
