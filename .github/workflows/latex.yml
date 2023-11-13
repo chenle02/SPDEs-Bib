@@ -16,8 +16,21 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v3
 
+      - name: Cache LaTeX packages
+        id: cache-latex
+        uses: actions/cache@v2
+        with:
+          path: |
+            /usr/share/texlive
+          key: ${{ runner.os }}-texlive-${{ hashFiles('**/*.tex') }}
+          restore-keys: |
+            ${{ runner.os }}-texlive-
+
       - name: Install LaTeX full
-        run: sudo apt-get install -y texlive-full
+        if: steps.cache-latex.outputs.cache-hit != 'true'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y texlive-full
 
       - name: Compile LaTeX document
         run: |
@@ -38,5 +51,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git fetch --unshallow || true
           git add -f All.pdf
-          git commit -m "Update compiled PDF via the GitHub Action."
+          git commit -m "Update compiled PDF via GitHub Action"
           git push origin HEAD:main
