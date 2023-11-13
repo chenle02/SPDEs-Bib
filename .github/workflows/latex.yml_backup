@@ -1,4 +1,3 @@
-
 name: Compile All.tex LaTeX Document
 on: push
 
@@ -9,10 +8,24 @@ jobs:
     - name: Set up Git repository
       uses: actions/checkout@v2
 
-    - name: Install LaTeX full
+    - name: Cache LaTeX packages
+      uses: actions/cache@v2
+      with:
+        path: |
+          /var/cache/apt
+          /var/lib/apt/lists
+        key: ${{ runner.os }}-apt-cache-${{ hashFiles('**/*.tex') }}
+        restore-keys: |
+          ${{ runner.os }}-apt-cache-
+
+    - name: Install LaTeX
       run: |
-        sudo apt-get update
-        sudo apt-get install -y texlive-full
+        if [ ! -f "/var/cache/apt/archives/lock" ]; then
+          sudo apt-get update
+          sudo apt-get install -y texlive-full
+        else
+          echo "LaTeX packages are cached."
+        fi
 
     - name: Compile LaTeX document
       run: |
