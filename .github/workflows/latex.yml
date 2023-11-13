@@ -22,7 +22,7 @@ jobs:
       run: |
         if [ ! -f "/var/cache/apt/archives/lock" ]; then
           sudo apt-get update
-          sudo apt-get install -y texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra texlive-bibtex-extra biber texlive-lang-european
+          sudo apt-get install -y texlive-full
         else
           echo "LaTeX packages are cached."
         fi
