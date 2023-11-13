@@ -17,7 +17,7 @@ Equations (SPDEs)_.
 
 ## The bib file: [All.bib](All.bib).
 
-* A GPT model was created to query the database on Nov. 12th 2023. You may have fun. The results are far from being usable but you can may fun. Here is the [link](https://chat.openai.com/g/g-7ILEucNag-spdes-bib).
+* A GPT model was created to query the database on Nov. 12th 2023. The results are far from being usable, actually a little disappointed, but you can may some fun to play with it. Here is the [link](https://chat.openai.com/g/g-7ILEucNag-spdes-bib).
 
 ## Explanations
 1. Most entries downloaded from [MathSciNet](https://mathscinet.ams.org/mathscinet) to keep the
