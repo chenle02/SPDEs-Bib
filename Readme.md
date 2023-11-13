@@ -55,9 +55,9 @@ If the resources in this repository have assisted in your research, I would be g
 
 Or, if you wish to cite the repository directly, please use the BibTeX reference below:
 ```bibtex
-@misc{chen:22:comprenhensive,
+@misc{chen:22:spdes-bib,
   author       = {Chen, Le},
-  title        = {A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
+  title        = {SPDEs-Bib: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
   year         = {2022},
   publisher    = {GitHub Repository},
   howpublished = {\url{https://github.com/chenle02/SPDEs-Bib}},
