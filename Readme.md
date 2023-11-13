@@ -1,4 +1,7 @@
+![Logo](./SPDE-Logo.png)
+
 # SPDEs bibliography maintained by [Le Chen](http://webhome.auburn.edu/~lzc0090/)
+# 
 
 ## Motivation
 
