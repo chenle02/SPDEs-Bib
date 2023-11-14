@@ -18,7 +18,7 @@ jobs:
 
       - name: Cache LaTeX packages
         id: cache-latex
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: |
             /usr/share/texlive
