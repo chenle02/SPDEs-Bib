@@ -1,3 +1,4 @@
+
 name: Compile All.tex LaTeX Document
 on:
   push:

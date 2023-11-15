@@ -1,55 +1,41 @@
 name: Compile All.tex LaTeX Document
-on:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - '**.pdf'
-  pull_request:
-    branches:
-      - main
+on: push
+
 jobs:
   build_latex:
     runs-on: ubuntu-latest
-    if: github.actor != 'github-actions[bot]'
     steps:
-      - name: Set up Git repository
-        uses: actions/checkout@v3
+    - name: Set up Git repository
+      uses: actions/checkout@v2
 
-      - name: Cache LaTeX packages
-        id: cache-latex
-        uses: actions/cache@v3
-        with:
-          path: |
-            /usr/share/texlive
-          key: ${{ runner.os }}-texlive-${{ hashFiles('**/*.tex') }}
-          restore-keys: |
-            ${{ runner.os }}-texlive-
+    - name: Cache LaTeX packages
+      uses: actions/cache@v2
+      with:
+        path: |
+          /var/cache/apt
+          /var/lib/apt/lists
+        key: ${{ runner.os }}-apt-cache-${{ hashFiles('**/*.tex') }}
+        restore-keys: |
+          ${{ runner.os }}-apt-cache-
 
-      - name: Install LaTeX full
-        if: steps.cache-latex.outputs.cache-hit != 'true'
-        run: |
+    - name: Install LaTeX
+      run: |
+        if [ ! -f "/var/cache/apt/archives/lock" ]; then
           sudo apt-get update
           sudo apt-get install -y texlive-full
+        else
+          echo "LaTeX packages are cached."
+        fi
 
-      - name: Compile LaTeX document
-        run: |
-          lualatex All.tex
-          biber All
-          lualatex All.tex
-          lualatex All.tex
+    - name: Compile LaTeX document
+      run: |
+        lualatex All.tex
+        biber All
+        lualatex All.tex
+        lualatex All.tex
 
-      - name: Upload PDF
-        uses: actions/upload-artifact@v3
-        with:
-          name: Compiled-PDF
-          path: ./All.pdf
-
-      - name: Commit and Push PDF
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git fetch --unshallow || true
-          git add -f All.pdf
-          git commit -m "Update compiled PDF via GitHub Action"
-          git push origin HEAD:main
+    - name: Upload PDF
+      uses: actions/upload-artifact@v2
+      with:
+        name: Compiled-PDF
+        path: ./All.pdf
