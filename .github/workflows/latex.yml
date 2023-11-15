@@ -1,41 +1,30 @@
 name: Compile All.tex LaTeX Document
-on: push
+on:
+  push:
+    branches:
+      - main  # Or any specific branch you want
 
 jobs:
   build_latex:
     runs-on: ubuntu-latest
     steps:
     - name: Set up Git repository
-      uses: actions/checkout@v2
-
-    - name: Cache LaTeX packages
-      uses: actions/cache@v2
-      with:
-        path: |
-          /var/cache/apt
-          /var/lib/apt/lists
-        key: ${{ runner.os }}-apt-cache-${{ hashFiles('**/*.tex') }}
-        restore-keys: |
-          ${{ runner.os }}-apt-cache-
+      uses: actions/checkout@v3
 
     - name: Install LaTeX
       run: |
-        if [ ! -f "/var/cache/apt/archives/lock" ]; then
           sudo apt-get update
           sudo apt-get install -y texlive-full
-        else
-          echo "LaTeX packages are cached."
-        fi
 
     - name: Compile LaTeX document
       run: |
-        lualatex All.tex
-        biber All
-        lualatex All.tex
-        lualatex All.tex
+        lualatex All.tex || exit 1
+        biber All || exit 1
+        lualatex All.tex || exit 1
+        lualatex All.tex || exit 1
 
     - name: Upload PDF
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: Compiled-PDF
         path: ./All.pdf
