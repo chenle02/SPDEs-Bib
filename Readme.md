@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/516400216.svg)](https://zenodo.org/doi/10.5281/zenodo.10143431)
 ![Logo](./SPDE-Logo.png)
 
 # SPDEs bibliography maintained by [Le Chen](http://webhome.auburn.edu/~lzc0090/)
