@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/516400216.svg)](https://zenodo.org/doi/10.5281/zenodo.10143431)
+
 ![Logo](./SPDE-Logo.png)
 
 # SPDEs bibliography maintained by [Le Chen](http://webhome.auburn.edu/~lzc0090/)
@@ -70,13 +71,15 @@ Or, if you prefer to directly cite this repository, please feel free to use the
 following BibTeX entry:
 
 ```bibtex
-@misc{chen:22:spdes-bib,
-  author       = {Chen, Le},
-  title        = {SPDEs-Bib: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
-  year         = {2022},
-  publisher    = {GitHub Repository},
-  howpublished = {\url{https://github.com/chenle02/SPDEs-Bib}},
-  note         = {Accessed: 11/11/2023, V1.0},
+@misc{le_chen_2023_10143432,
+  author        = {Le Chen},
+  title         = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
+  month         = nov,
+  year          = 2023,
+  publisher     = {Zenodo},
+  version       = {V1.1},
+  doi           = {10.5281/zenodo.10143432},
+  url           = {https://doi.org/10.5281/zenodo.10143432}
 }
 ```
 
