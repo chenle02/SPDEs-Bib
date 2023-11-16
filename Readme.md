@@ -3,7 +3,7 @@
 ![Logo](./SPDE-Logo.png)
 
 # SPDEs bibliography maintained by [Le Chen](http://webhome.auburn.edu/~lzc0090/)
-# 
+#
 
 ## Motivation
 
@@ -23,7 +23,7 @@ the research area of the author: _Stochastic Partial Differential Equations
 
 ## The bib file: [All.bib](All.bib).
 
-* A GPT model was created to query the database on Nov. 12th 2023. The results are far from being usable, actually a little disappointed, but you can may some fun to play with it. Here is the [link](https://chat.openai.com/g/g-7ILEucNag-spdes-bib). 
+* A GPT model was created to query the database on Nov. 12th 2023. The results are far from being usable, actually a little disappointed, but you can may some fun to play with it. Here is the [link](https://chat.openai.com/g/g-7ILEucNag-spdes-bib).
 
 ## Explanations
 1. Most entries downloaded from [MathSciNet](https://mathscinet.ams.org/mathscinet) to keep the
@@ -69,6 +69,7 @@ section or as a footnote:
 
 Or, if you prefer to directly cite this repository, please feel free to use the
 following BibTeX entry:
+  * Le Chen (2023) “SPDEs-Bib: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics”. Zenodo. doi: 10.5281/zenodo.10143432.
 
 ```bibtex
 @misc{le_chen_2023_10143432,
