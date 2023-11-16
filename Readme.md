@@ -78,9 +78,8 @@ following BibTeX entry:
   month         = nov,
   year          = 2023,
   publisher     = {Zenodo},
-  version       = {V1.1},
-  doi           = {10.5281/zenodo.10143432},
-  url           = {https://doi.org/10.5281/zenodo.10143432}
+  doi           = {10.5281/zenodo.10143431},
+  url           = {https://doi.org/10.5281/zenodo.10143431}
 }
 ```
 
