@@ -69,15 +69,15 @@ section or as a footnote:
 
 Or, if you prefer to directly cite this repository, please feel free to use the
 following BibTeX entry:
-  * Le Chen (2023) “SPDEs-Bib: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics”. Zenodo. doi: 10.5281/zenodo.10143432.
+  * Le Chen (2023) “SPDEs-Bib: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics”. GitHub & Zenodo. doi: 10.5281/zenodo.10143432.
 
 ```bibtex
 @misc{le_chen_2023_10143432,
   author        = {Le Chen},
-  title         = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},\
-  month         = nov,\
+  title         = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
+  month         = nov,
   year          = 2023,
-  publisher     = {Zenodo},
+  publisher     = {GitHub \& Zenodo},
   doi           = {10.5281/zenodo.10143431},
   url           = {https://doi.org/10.5281/zenodo.10143431}
 }
