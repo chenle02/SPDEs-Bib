@@ -68,11 +68,11 @@ section or as a footnote:
 ```
 
 Or, if you prefer to directly cite this repository, please feel free to use the
-following BibTeX entry:
+following BibTeX entry[^1]:
   * Le Chen (2023) “SPDEs-Bib: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics”. GitHub & Zenodo. doi: 10.5281/zenodo.10143432.
 
 ```bibtex
-@misc{le_chen_2023_10143432,
+@misc{chen:23:spdes-bib,
   author        = {Le Chen},
   title         = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
   month         = nov,
@@ -85,6 +85,8 @@ following BibTeX entry:
 
 Your support in recognizing the effort put into compiling and maintaining this
 repository is much appreciated.
+
+[^1]: To properly show the entry, one may replace `misc` by `book`.
 
 ## License
 
