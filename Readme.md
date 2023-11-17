@@ -74,8 +74,8 @@ following BibTeX entry:
 ```bibtex
 @misc{le_chen_2023_10143432,
   author        = {Le Chen},
-  title         = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
-  month         = nov,
+  title         = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},\
+  month         = nov,\
   year          = 2023,
   publisher     = {Zenodo},
   doi           = {10.5281/zenodo.10143431},
@@ -89,3 +89,4 @@ repository is much appreciated.
 ## License
 
 [CC-BY-SA 4.0](LICENSE.txt)
+
