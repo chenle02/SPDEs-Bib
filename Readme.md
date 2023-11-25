@@ -53,7 +53,7 @@ invaluable to the enhancement of this resource. Please feel free to open an
 issue in the repository or reach out directly via email (chenle02@gmail.com) for
 any such matters. We aim to address all feedback promptly.
 
-# Acknowledgments
+# Cite this work?
 
 We hope that the resources compiled in this bibliography bank have been
 supportive in your research endeavors. We are sincerely grateful for any form of
@@ -75,9 +75,10 @@ following BibTeX entry[^1]:
 @misc{chen:23:spdes-bib,
   author        = {Le Chen},
   title         = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
-  month         = nov,
-  year          = 2023,
+  month         = {nov},
+  year          = {2023},
   publisher     = {GitHub \& Zenodo},
+  journal       = {GitHub repository},
   doi           = {10.5281/zenodo.10143431},
   url           = {https://doi.org/10.5281/zenodo.10143431}
 }
