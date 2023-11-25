@@ -67,8 +67,9 @@ section or as a footnote:
   research.
 ```
 
-Or, if you prefer to directly cite this repository, please feel free to use the
-following BibTeX entry[^1]:
+Or, if you prefer to directly cite this repository, please use the following
+BibTeX entry[^1]:
+
   * Le Chen (2023) “SPDEs-Bib: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics”. GitHub & Zenodo. doi: 10.5281/zenodo.10143432.
 
 ```bibtex
