@@ -143,13 +143,14 @@ to use the following BibTeX entry:
 \begin{verbatim}
 @misc{chen:22:spdes-bib,
   author       = {Chen, Le},
-  title        = {SPDEs-Bib: A Comprehensive Bibliography of
+  title        = {{SPDEs-Bib}: A Comprehensive Bibliography of
                   Stochastic Partial Differential Equations
                   and Related Topics},
-  year         = {2022},
-  publisher    = {GitHub Repository},
+  year         = {2023},
+  publisher    = {GitHub \& Zenodo},
+  journal      = {GitHub repository},
   howpublished = {\url{https://github.com/chenle02/SPDEs-Bib}},
-  note         = {Accessed: 11/11/2023, V1.0},
+  url          = {https://doi.org/10.5281/zenodo.10143431}
 }
 \end{verbatim}
 
@@ -163,23 +164,33 @@ to use the following BibTeX entry:
 
 \section{All references}
 
-\subsection{Articles}%
-\label{sec:Articles}
-
-\printbibliography[type=article,title={Articles}]
 \subsection{Books}%
 \label{ssec:Books}
 
 \printbibliography[type=book,title={Books}]
+
+\subsection{Articles}%
+\label{sec:Articles}
+
+\printbibliography[type=article,title={Articles}]
+\subsection{In collections}%
+\label{ssec:In collections}
+
+\printbibliography[type=incollection,title={In collection}]
 
 \subsection{In proceedings}%
 \label{ssec:In proceedings}
 
 \printbibliography[type=inproceedings,title={In proceedings}]
 
-\subsection{In collections}%
-\label{ssec:In collections}
+\subsection{Misc}%
+\label{ssec:Misc}
 
-\printbibliography[type=incollection,title={In collection}]
+\printbibliography[type=misc,title={Misc}]
+
+\subsection{Proceedings}%
+\label{ssec:Proceedings}
+
+\printbibliography[type=proceedings,title={Proceedings}]
 
 \end{document}
