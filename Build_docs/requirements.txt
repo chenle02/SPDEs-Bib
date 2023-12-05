@@ -1,6 +1,5 @@
 sphinx>=7.2.6
 sphinxcontrib-bibtex
-sphinx_nature_theme
 # myst_parser
 # numpy
 # matplotlib
