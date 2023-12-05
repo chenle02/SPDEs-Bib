@@ -1,0 +1,9 @@
+sphinx>=7.2.6
+sphinxcontrib-bibtex
+# myst_parser
+# numpy
+# matplotlib
+# pandas
+# seaborn
+# imageio
+# recommonmark  # Only include this if you're using Markdown files

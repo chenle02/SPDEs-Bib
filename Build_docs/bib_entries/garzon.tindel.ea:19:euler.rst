@@ -1,0 +1,26 @@
+garzon.tindel.ea:19:euler
+=========================
+
+:cite:t:`garzon.tindel.ea:19:euler`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{garzon.tindel.ea:19:euler,
+    author = {Garz\'{o}n, Johanna and Tindel, Samy and Torres, Soledad},
+    doi = {10.1007/s10473-019-0308-1},
+    fjournal = {Acta Mathematica Scientia. Series B. English Edition},
+    issn = {0252-9602},
+    journal = {Acta Math. Sci. Ser. B (Engl. Ed.)},
+    mrclass = {60H15 (65C30)},
+    mrnumber = {4066503},
+    number = {3},
+    pages = {747--763},
+    title = {Euler scheme for fractional delay stochastic differential equations by rough paths techniques},
+    url = {https://doi.org/10.1007/s10473-019-0308-1},
+    volume = {39},
+    year = {2019}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

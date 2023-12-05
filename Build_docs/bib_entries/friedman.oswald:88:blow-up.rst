@@ -1,0 +1,27 @@
+friedman.oswald:88:blow-up
+==========================
+
+:cite:t:`friedman.oswald:88:blow-up`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{friedman.oswald:88:blow-up,
+    author = {Friedman, Avner and Oswald, Luc},
+    doi = {10.2307/2000968},
+    fjournal = {Transactions of the American Mathematical Society},
+    issn = {0002-9947},
+    journal = {Trans. Amer. Math. Soc.},
+    mrclass = {35L70 (35B40)},
+    mrnumber = {946448},
+    mrreviewer = {Pavel Krej\v{c}\'{i}},
+    number = {1},
+    pages = {349--367},
+    title = {The blow-up surface for nonlinear wave equations with small spatial velocity},
+    url = {https://doi.org/10.2307/2000968},
+    volume = {308},
+    year = {1988}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

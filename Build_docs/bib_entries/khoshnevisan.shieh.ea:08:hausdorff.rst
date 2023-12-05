@@ -1,0 +1,27 @@
+khoshnevisan.shieh.ea:08:hausdorff
+==================================
+
+:cite:t:`khoshnevisan.shieh.ea:08:hausdorff`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{khoshnevisan.shieh.ea:08:hausdorff,
+    author = {Khoshnevisan, Davar and Shieh, Narn-Rueih and Xiao, Yimin},
+    doi = {10.1007/s00440-007-0060-7},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60G51 (28A80 60D05 60G17 60J25)},
+    mrnumber = {2357673},
+    mrreviewer = {Ren\'{e} L. Schilling},
+    number = {1-2},
+    pages = {129--167},
+    title = {Hausdorff dimension of the contours of symmetric additive {L}\'{e}vy processes},
+    url = {https://doi.org/10.1007/s00440-007-0060-7},
+    volume = {140},
+    year = {2008}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

@@ -1,0 +1,29 @@
+chen.khoshnevisan.ea:23:central
+===============================
+
+.. :cite:t:`chen.khoshnevisan.ea:23:central`
+
+.. bibliography:: ../../All.bib
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{chen.khoshnevisan.ea:23:central,
+   url = {https://doi.org/10.1007/s40072-021-00224-8},
+   doi = {10.1007/s40072-021-00224-8},
+   mrnumber = {4563698},
+   mrclass = {60H15 (35K05 60F05 60H07)},
+   issn = {2194-0401},
+   pages = {122--176},
+   number = {1},
+   year = {2023},
+   volume = {11},
+   fjournal = {Stochastic Partial Differential Equations. Analysis and Computations},
+   journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
+   title = {Central limit theorems for spatial averages of the stochastic heat equation via {M}alliavin-{S}tein's method},
+   author = {Chen, Le and Khoshnevisan, Davar and Nualart, David and Pu, Fei},
+   ID = {chen.khoshnevisan.ea:23:central},
+   }
+
+`Back to index <../index>`_

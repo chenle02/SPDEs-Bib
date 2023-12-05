@@ -1,0 +1,27 @@
+lyons:91:on
+===========
+
+:cite:t:`lyons:91:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lyons:91:on,
+    author = {Lyons, Terry},
+    doi = {10.1098/rspa.1991.0017},
+    fjournal = {Proceedings of the Royal Society. London. Series A. Mathematical, Physical and Engineering Sciences},
+    issn = {0962-8444},
+    journal = {Proc. Roy. Soc. London Ser. A},
+    mrclass = {60H05},
+    mrnumber = {1116958},
+    mrreviewer = {Kiyosi It\^{o}},
+    number = {1885},
+    pages = {281--290},
+    title = {On the nonexistence of path integrals},
+    url = {https://doi.org/10.1098/rspa.1991.0017},
+    volume = {432},
+    year = {1991}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

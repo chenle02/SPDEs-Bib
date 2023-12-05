@@ -1,0 +1,26 @@
+capitaine.hsu.ea:97:martingale
+==============================
+
+:cite:t:`capitaine.hsu.ea:97:martingale`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{capitaine.hsu.ea:97:martingale,
+    author = {Capitaine, Mireille and Hsu, Elton P. and Ledoux, Michel},
+    doi = {10.1214/ECP.v2-986},
+    fjournal = {Electronic Communications in Probability},
+    issn = {1083-589X},
+    journal = {Electron. Comm. Probab.},
+    mrclass = {60J65 (58D20 58G32 60B15 60D05 60H07)},
+    mrnumber = {1484557},
+    mrreviewer = {Shi Zan Fang},
+    pages = {71--81},
+    title = {Martingale representation and a simple proof of logarithmic {S}obolev inequalities on path spaces},
+    url = {https://doi.org/10.1214/ECP.v2-986},
+    volume = {2},
+    year = {1997}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

@@ -1,0 +1,24 @@
+chen:08:intersection
+====================
+
+:cite:t:`chen:08:intersection`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{chen:08:intersection,
+    author = {Chen, Xia},
+    booktitle = {Asymptotic theory in probability and statistics with applications},
+    mrclass = {60J55 (60F10 60F15)},
+    mrnumber = {2466987},
+    mrreviewer = {Peter M\"{o}rters},
+    pages = {195--253},
+    publisher = {Int. Press, Somerville, MA},
+    series = {Adv. Lect. Math. (ALM)},
+    title = {Intersection local times: large deviations and laws of the iterated logarithm},
+    volume = {2},
+    year = {2008}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_
