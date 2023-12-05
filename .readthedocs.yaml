@@ -12,7 +12,7 @@ build:
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
-  configuration: Build_Docs/conf.py
+  configuration: Build_docs/conf.py
   # You can configure Sphinx to use a different builder, for instance use the dirhtml builder for simpler URLs
   builder: "html"
   # Fail on all warnings to avoid broken references
@@ -28,4 +28,4 @@ formats:
 # See https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
 python:
   install:
-    - requirements: ./Build_Docs/requirements.txt
+    - requirements: ./Build_docs/requirements.txt
