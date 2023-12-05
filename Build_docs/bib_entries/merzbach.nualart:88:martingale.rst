@@ -1,0 +1,26 @@
+merzbach.nualart:88:martingale
+==============================
+
+:cite:t:`merzbach.nualart:88:martingale`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{merzbach.nualart:88:martingale,
+    author = {Merzbach, Ely and Nualart, David},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60G55},
+    mrnumber = {920270},
+    mrreviewer = {A. N. Al-Hussaini},
+    number = {1},
+    pages = {265--274},
+    title = {A martingale approach to point processes in the plane},
+    url = {http://links.jstor.org/sici?sici=0091-1798(198801)16:1<265:AMATPP>2.0.CO;2-8&origin=MSN},
+    volume = {16},
+    year = {1988}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

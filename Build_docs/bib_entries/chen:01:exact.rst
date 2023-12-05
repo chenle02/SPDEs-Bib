@@ -1,0 +1,27 @@
+chen:01:exact
+=============
+
+:cite:t:`chen:01:exact`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{chen:01:exact,
+    author = {Chen, Xia},
+    doi = {10.1214/aoap/1015345402},
+    fjournal = {The Annals of Applied Probability},
+    issn = {1050-5164},
+    journal = {Ann. Appl. Probab.},
+    mrclass = {60J80 (60F15 60F25 60G50)},
+    mrnumber = {1878297},
+    mrreviewer = {M. Iosifescu},
+    number = {4},
+    pages = {1242--1262},
+    title = {Exact convergence rates for the distribution of particles in branching random walks},
+    url = {https://doi.org/10.1214/aoap/1015345402},
+    volume = {11},
+    year = {2001}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

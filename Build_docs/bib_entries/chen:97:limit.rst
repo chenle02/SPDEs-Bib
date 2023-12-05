@@ -1,0 +1,23 @@
+chen:97:limit
+=============
+
+:cite:t:`chen:97:limit`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{chen:97:limit,
+    author = {Chen, Xia},
+    isbn = {978-0591-63876-9},
+    mrclass = {Thesis},
+    mrnumber = {2696713},
+    note = {Thesis (Ph.D.)--Case Western Reserve University},
+    pages = {200},
+    publisher = {ProQuest LLC, Ann Arbor, MI},
+    title = {Limit theorems for functionals of ergodic {M}arkov chains with general state space},
+    url = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:9813015},
+    year = {1997}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

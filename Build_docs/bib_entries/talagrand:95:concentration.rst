@@ -1,0 +1,25 @@
+talagrand:95:concentration
+==========================
+
+:cite:t:`talagrand:95:concentration`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{talagrand:95:concentration,
+    author = {Talagrand, Michel},
+    fjournal = {Institut des Hautes \'{E}tudes Scientifiques. Publications Math\'{e}matiques},
+    issn = {0073-8301},
+    journal = {Inst. Hautes \'{E}tudes Sci. Publ. Math.},
+    mrclass = {60E15 (60D05)},
+    mrnumber = {1361756},
+    mrreviewer = {G. Schechtman},
+    number = {81},
+    pages = {73--205},
+    title = {Concentration of measure and isoperimetric inequalities in product spaces},
+    url = {http://www.numdam.org/item?id=PMIHES_1995__81__73_0},
+    year = {1995}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

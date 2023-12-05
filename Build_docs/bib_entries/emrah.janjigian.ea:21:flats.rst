@@ -1,0 +1,24 @@
+emrah.janjigian.ea:21:flats
+===========================
+
+:cite:t:`emrah.janjigian.ea:21:flats`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{emrah.janjigian.ea:21:flats,
+    author = {Emrah, Elnur and Janjigian, Christopher and Sepp\"{a}l\"{a}inen, Timo},
+    doi = {10.1214/21-EJP595},
+    fjournal = {Electronic Journal of Probability},
+    journal = {Electron. J. Probab.},
+    mrclass = {60K35 (60K37)},
+    mrnumber = {4235484},
+    pages = {Paper No. 33, 45},
+    title = {Flats, spikes and crevices: the evolving shape of the inhomogeneous corner growth model},
+    url = {https://doi.org/10.1214/21-EJP595},
+    volume = {26},
+    year = {2021}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

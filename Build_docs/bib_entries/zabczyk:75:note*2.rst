@@ -1,0 +1,25 @@
+zabczyk:75:note*2
+=================
+
+:cite:t:`zabczyk:75:note*2`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{zabczyk:75:note*2,
+    author = {Zabczyk, J.},
+    fjournal = {Bulletin de l'Acad\'{e}mie Polonaise des Sciences. S\'{e}rie des Sciences Math\'{e}matiques, Astronomiques et Physiques},
+    issn = {0001-4117},
+    journal = {Bull. Acad. Polon. Sci. S\'{e}r. Sci. Math. Astronom. Phys.},
+    mrclass = {47D05},
+    mrnumber = {383144},
+    mrreviewer = {Marshall\ Slemrod},
+    number = {8},
+    pages = {895--898},
+    title = {A note on {$C\sb{0}$}-semigroups},
+    volume = {23},
+    year = {1975}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

@@ -1,0 +1,23 @@
+bourgain:95:harmonic
+====================
+
+:cite:t:`bourgain:95:harmonic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @inproceedings{bourgain:95:harmonic,
+    author = {Bourgain, Jean},
+    booktitle = {Proceedings of the {I}nternational {C}ongress of {M}athematicians, {V}ol. 1, 2 ({Z}\"{u}rich, 1994)},
+    isbn = {3-7643-5153-5},
+    mrclass = {35K22 (35Q53 35Q55)},
+    mrnumber = {1403913},
+    mrreviewer = {Ya.\ P.\ Pugay},
+    pages = {31--44},
+    publisher = {Birkh\"{a}user, Basel},
+    title = {Harmonic analysis and nonlinear partial differential equations},
+    year = {1995}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

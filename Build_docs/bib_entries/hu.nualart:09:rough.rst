@@ -1,0 +1,27 @@
+hu.nualart:09:rough
+===================
+
+:cite:t:`hu.nualart:09:rough`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{hu.nualart:09:rough,
+    author = {Hu, Yaozhong and Nualart, David},
+    doi = {10.1090/S0002-9947-08-04631-X},
+    fjournal = {Transactions of the American Mathematical Society},
+    issn = {0002-9947},
+    journal = {Trans. Amer. Math. Soc.},
+    mrclass = {60H05 (26A33 26A42 46E35 60H10)},
+    mrnumber = {2471936},
+    mrreviewer = {Tina M. Marquardt},
+    number = {5},
+    pages = {2689--2718},
+    title = {Rough path analysis via fractional calculus},
+    url = {https://doi.org/10.1090/S0002-9947-08-04631-X},
+    volume = {361},
+    year = {2009}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

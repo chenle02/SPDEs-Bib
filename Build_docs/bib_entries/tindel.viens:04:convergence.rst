@@ -1,0 +1,27 @@
+tindel.viens:04:convergence
+===========================
+
+:cite:t:`tindel.viens:04:convergence`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{tindel.viens:04:convergence,
+    author = {Tindel, Samy and Viens, Frederi},
+    doi = {10.1163/156939704323074692},
+    fjournal = {Random Operators and Stochastic Equations},
+    issn = {0926-6364},
+    journal = {Random Oper. Stochastic Equations},
+    mrclass = {60K35 (60H15)},
+    mrnumber = {2065167},
+    mrreviewer = {Maria E. Vares},
+    number = {2},
+    pages = {129--144},
+    title = {Convergence of a branching and interacting particle system to the solution of a nonlinear stochastic {PDE}},
+    url = {https://doi.org/10.1163/156939704323074692},
+    volume = {12},
+    year = {2004}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

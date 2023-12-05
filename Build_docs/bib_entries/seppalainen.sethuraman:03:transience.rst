@@ -1,0 +1,27 @@
+seppalainen.sethuraman:03:transience
+====================================
+
+:cite:t:`seppalainen.sethuraman:03:transience`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{seppalainen.sethuraman:03:transience,
+    author = {Sepp\"{a}l\"{a}inen, Timo and Sethuraman, Sunder},
+    doi = {10.1214/aop/1046294307},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60K35 (60F05)},
+    mrnumber = {1959789},
+    mrreviewer = {Boualem Djehiche},
+    number = {1},
+    pages = {148--169},
+    title = {Transience of second-class particles and diffusive bounds for additive functionals in one-dimensional asymmetric exclusion processes},
+    url = {https://doi.org/10.1214/aop/1046294307},
+    volume = {31},
+    year = {2003}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

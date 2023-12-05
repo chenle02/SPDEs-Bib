@@ -1,0 +1,25 @@
+sanz-sole:10:hitting
+====================
+
+:cite:t:`sanz-sole:10:hitting`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{sanz-sole:10:hitting,
+    author = {Sanz-Sol\'{e}, Marta},
+    fjournal = {Butllet\'{i} de la Societat Catalana de Matem\`atiques},
+    issn = {0214-316X},
+    journal = {Butl. Soc. Catalana Mat.},
+    mrclass = {60H15 (60G15 60G17 60G46 60G60 60J45)},
+    mrnumber = {2731272},
+    mrreviewer = {Llu\'{i}s Quer-Sardanyons},
+    number = {1},
+    pages = {81--99, 103},
+    title = {Hitting the bull's eye with random paths},
+    volume = {25},
+    year = {2010}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

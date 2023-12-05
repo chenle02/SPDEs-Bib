@@ -1,0 +1,26 @@
+baudoin.ouyang:13:gradient
+==========================
+
+:cite:t:`baudoin.ouyang:13:gradient`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{baudoin.ouyang:13:gradient,
+    author = {Baudoin, Fabrice and Ouyang, Cheng},
+    booktitle = {Malliavin calculus and stochastic analysis},
+    doi = {10.1007/978-1-4614-5906-4\_18},
+    mrclass = {60H10 (60G22 60H07)},
+    mrnumber = {3070454},
+    mrreviewer = {Mireia Besal\'{u}},
+    pages = {413--426},
+    publisher = {Springer, New York},
+    series = {Springer Proc. Math. Stat.},
+    title = {Gradient bounds for solutions of stochastic differential equations driven by fractional {B}rownian motions},
+    url = {https://doi.org/10.1007/978-1-4614-5906-4_18},
+    volume = {34},
+    year = {2013}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

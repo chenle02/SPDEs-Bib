@@ -24,7 +24,7 @@ Contents
 Bibliography
 ------------
 
-.. bibliography:: ../All-test.bib
+.. bibliography:: ../All.bib
 
 Indices and tables
 ==================

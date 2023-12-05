@@ -1,0 +1,26 @@
+nualart.ustunel.ea:90:some
+==========================
+
+:cite:t:`nualart.ustunel.ea:90:some`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{nualart.ustunel.ea:90:some,
+    author = {Nualart, D. and \"{U}st\"{u}nel, A. S. and Zakai, M.},
+    booktitle = {Stochastic analysis and related topics, {II} ({S}ilivri, 1988)},
+    doi = {10.1007/BFb0083612},
+    mrclass = {60H99 (60G15)},
+    mrnumber = {1078845},
+    mrreviewer = {Denis R. Bell},
+    pages = {122--127},
+    publisher = {Springer, Berlin},
+    series = {Lecture Notes in Math.},
+    title = {Some remarks on independence and conditioning on {W}iener space},
+    url = {https://doi.org/10.1007/BFb0083612},
+    volume = {1444},
+    year = {1990}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_

@@ -1,0 +1,26 @@
+nualart:89:remarque
+===================
+
+:cite:t:`nualart:89:remarque`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{nualart:89:remarque,
+    author = {Nualart, David},
+    booktitle = {S\'{e}minaire de {P}robabilit\'{e}s, {XXIII}},
+    doi = {10.1007/BFb0083969},
+    mrclass = {60J60 (60H07)},
+    mrnumber = {1022907},
+    mrreviewer = {Patrick Cattiaux},
+    pages = {165--168},
+    publisher = {Springer, Berlin},
+    series = {Lecture Notes in Math.},
+    title = {Une remarque sur le d\'{e}veloppement en chaos d'une diffusion},
+    url = {https://doi.org/10.1007/BFb0083969},
+    volume = {1372},
+    year = {1989}
+   }
+
+`Back to index <../By-Cite-Keys.rst>`_
