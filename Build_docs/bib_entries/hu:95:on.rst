@@ -8,18 +8,18 @@ hu:95:on
 .. code-block:: bibtex
 
    @incollection{hu:95:on,
-    author = {Hu, YaoZhong},
-    booktitle = {S\'{e}minaire de {P}robabilit\'{e}s, {XXIX}},
-    doi = {10.1007/BFb0094213},
-    mrclass = {47A63 (47A60 60H30)},
-    mrnumber = {1459462},
-    pages = {218--219},
-    publisher = {Springer, Berlin},
-    series = {Lecture Notes in Math.},
-    title = {On the differentiability of functions of an operator. {A}ddendum to: ``{S}ome operator inequalities'' [in {it {S}\'{e}minaire de {P}robabilit\'{e}s, {XXVIII}}, 316--333, {L}ecture {N}otes in {M}ath., 1583, {S}pringer, {B}erlin, 1994; {MR}1329122 (96c:47021)]},
-    url = {https://doi.org/10.1007/BFb0094213},
-    volume = {1613},
-    year = {1995}
+     author        = {Hu, YaoZhong},
+     booktitle     = {S\'{e}minaire de {P}robabilit\'{e}s, {XXIX}},
+     doi           = {10.1007/BFb0094213},
+     mrclass       = {47A63 (47A60 60H30)},
+     mrnumber      = {1459462},
+     pages         = {218--219},
+     publisher     = {Springer, Berlin},
+     series        = {Lecture Notes in Math.},
+     title         = {On the differentiability of functions of an operator. {A}ddendum to: ``{S}ome operator inequalities'' [in {it {S}\'{e}minaire de {P}robabilit\'{e}s, {XXVIII}}, 316--333, {L}ecture {N}otes in {M}ath., 1583, {S}pringer, {B}erlin, 1994; {MR}1329122 (96c:47021)]},
+     url           = {https://doi.org/10.1007/BFb0094213},
+     volume        = {1613},
+     year          = {1995}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

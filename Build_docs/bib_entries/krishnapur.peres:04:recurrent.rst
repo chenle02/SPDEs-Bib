@@ -8,19 +8,19 @@ krishnapur.peres:04:recurrent
 .. code-block:: bibtex
 
    @article{krishnapur.peres:04:recurrent,
-    author = {Krishnapur, Manjunath and Peres, Yuval},
-    doi = {10.1214/ECP.v9-1111},
-    fjournal = {Electronic Communications in Probability},
-    issn = {1083-589X},
-    journal = {Electron. Comm. Probab.},
-    mrclass = {60B99 (60G50 60J10)},
-    mrnumber = {2081461},
-    mrreviewer = {Kyle Siegrist},
-    pages = {72--81},
-    title = {Recurrent graphs where two independent random walks collide finitely often},
-    url = {https://doi.org/10.1214/ECP.v9-1111},
-    volume = {9},
-    year = {2004}
+     author        = {Krishnapur, Manjunath and Peres, Yuval},
+     doi           = {10.1214/ECP.v9-1111},
+     fjournal      = {Electronic Communications in Probability},
+     issn          = {1083-589X},
+     journal       = {Electron. Comm. Probab.},
+     mrclass       = {60B99 (60G50 60J10)},
+     mrnumber      = {2081461},
+     mrreviewer    = {Kyle Siegrist},
+     pages         = {72--81},
+     title         = {Recurrent graphs where two independent random walks collide finitely often},
+     url           = {https://doi.org/10.1214/ECP.v9-1111},
+     volume        = {9},
+     year          = {2004}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

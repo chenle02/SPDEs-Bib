@@ -8,19 +8,19 @@ howison.lacey.ea:88:hele-shaw
 .. code-block:: bibtex
 
    @article{howison.lacey.ea:88:hele-shaw,
-    author = {Howison, S. D. and Lacey, A. A. and Ockendon, J. R.},
-    doi = {10.1093/qjmam/41.2.183},
-    fjournal = {The Quarterly Journal of Mechanics and Applied Mathematics},
-    issn = {0033-5614},
-    journal = {Quart. J. Mech. Appl. Math.},
-    mrclass = {76E99},
-    mrnumber = {957040},
-    number = {2},
-    pages = {183--193},
-    title = {Hele-{S}haw free-boundary problems with suction},
-    url = {https://doi.org/10.1093/qjmam/41.2.183},
-    volume = {41},
-    year = {1988}
+     author        = {Howison, S. D. and Lacey, A. A. and Ockendon, J. R.},
+     doi           = {10.1093/qjmam/41.2.183},
+     fjournal      = {The Quarterly Journal of Mechanics and Applied Mathematics},
+     issn          = {0033-5614},
+     journal       = {Quart. J. Mech. Appl. Math.},
+     mrclass       = {76E99},
+     mrnumber      = {957040},
+     number        = {2},
+     pages         = {183--193},
+     title         = {Hele-{S}haw free-boundary problems with suction},
+     url           = {https://doi.org/10.1093/qjmam/41.2.183},
+     volume        = {41},
+     year          = {1988}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

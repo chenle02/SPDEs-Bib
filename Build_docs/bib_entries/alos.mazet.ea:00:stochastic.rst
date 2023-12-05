@@ -8,20 +8,20 @@ alos.mazet.ea:00:stochastic
 .. code-block:: bibtex
 
    @article{alos.mazet.ea:00:stochastic,
-    author = {Al\`os, Elisa and Mazet, Olivier and Nualart, David},
-    doi = {10.1016/S0304-4149(99)00089-7},
-    fjournal = {Stochastic Processes and their Applications},
-    issn = {0304-4149},
-    journal = {Stochastic Process. Appl.},
-    mrclass = {60H05},
-    mrnumber = {1741199},
-    mrreviewer = {Laurent Decreusefond},
-    number = {1},
-    pages = {121--139},
-    title = {Stochastic calculus with respect to fractional {B}rownian motion with {H}urst parameter lesser than {$\frac 12$}},
-    url = {https://doi.org/10.1016/S0304-4149(99)00089-7},
-    volume = {86},
-    year = {2000}
+     author        = {Al\`os, Elisa and Mazet, Olivier and Nualart, David},
+     doi           = {10.1016/S0304-4149(99)00089-7},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60H05},
+     mrnumber      = {1741199},
+     mrreviewer    = {Laurent Decreusefond},
+     number        = {1},
+     pages         = {121--139},
+     title         = {Stochastic calculus with respect to fractional {B}rownian motion with {H}urst parameter lesser than {$\frac 12$}},
+     url           = {https://doi.org/10.1016/S0304-4149(99)00089-7},
+     volume        = {86},
+     year          = {2000}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

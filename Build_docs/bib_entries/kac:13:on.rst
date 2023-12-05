@@ -8,20 +8,20 @@ kac:13:on
 .. code-block:: bibtex
 
    @article{kac:13:on,
-    author = {Kac, Mark},
-    doi = {10.1007/s10955-012-0675-7},
-    fjournal = {Journal of Statistical Physics},
-    issn = {0022-4715},
-    journal = {J. Stat. Phys.},
-    mrclass = {82B05 (01A75 15B05 60B20 70H40)},
-    mrnumber = {3055375},
-    mrreviewer = {Keivan Aghababaei Samani},
-    number = {5},
-    pages = {785--795},
-    title = {On certain {T}oeplitz-like matrices and their relation to the problem of lattice vibrations},
-    url = {https://doi.org/10.1007/s10955-012-0675-7},
-    volume = {151},
-    year = {2013}
+     author        = {Kac, Mark},
+     doi           = {10.1007/s10955-012-0675-7},
+     fjournal      = {Journal of Statistical Physics},
+     issn          = {0022-4715},
+     journal       = {J. Stat. Phys.},
+     mrclass       = {82B05 (01A75 15B05 60B20 70H40)},
+     mrnumber      = {3055375},
+     mrreviewer    = {Keivan Aghababaei Samani},
+     number        = {5},
+     pages         = {785--795},
+     title         = {On certain {T}oeplitz-like matrices and their relation to the problem of lattice vibrations},
+     url           = {https://doi.org/10.1007/s10955-012-0675-7},
+     volume        = {151},
+     year          = {2013}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

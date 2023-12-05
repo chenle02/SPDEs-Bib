@@ -8,19 +8,19 @@ greven.hollander:93:variational
 .. code-block:: bibtex
 
    @article{greven.hollander:93:variational,
-    author = {Greven, Andreas and den Hollander, Frank},
-    fjournal = {The Annals of Applied Probability},
-    issn = {1050-5164},
-    journal = {Ann. Appl. Probab.},
-    mrclass = {60J15 (60F10)},
-    mrnumber = {1241035},
-    mrreviewer = {Bernard Ycart},
-    number = {4},
-    pages = {1067--1099},
-    title = {A variational characterization of the speed of a one-dimensional self-repellent random walk},
-    url = {http://links.jstor.org/sici?sici=1050-5164(199311)3:4<1067:AVCOTS>2.0.CO;2-Q&origin=MSN},
-    volume = {3},
-    year = {1993}
+     author        = {Greven, Andreas and den Hollander, Frank},
+     fjournal      = {The Annals of Applied Probability},
+     issn          = {1050-5164},
+     journal       = {Ann. Appl. Probab.},
+     mrclass       = {60J15 (60F10)},
+     mrnumber      = {1241035},
+     mrreviewer    = {Bernard Ycart},
+     number        = {4},
+     pages         = {1067--1099},
+     title         = {A variational characterization of the speed of a one-dimensional self-repellent random walk},
+     url           = {http://links.jstor.org/sici?sici=1050-5164(199311)3:4<1067:AVCOTS>2.0.CO;2-Q\&origin=MSN},
+     volume        = {3},
+     year          = {1993}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

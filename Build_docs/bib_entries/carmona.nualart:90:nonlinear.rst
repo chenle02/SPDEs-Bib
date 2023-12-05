@@ -8,17 +8,17 @@ carmona.nualart:90:nonlinear
 .. code-block:: bibtex
 
    @book{carmona.nualart:90:nonlinear,
-    author = {Carmona, Ren\'{e} A. and Nualart, David},
-    isbn = {2-88124-733-4},
-    mrclass = {60H05 (60G48 60H10)},
-    mrnumber = {1056476},
-    mrreviewer = {Yves Le Jan},
-    pages = {x+159},
-    publisher = {Gordon and Breach Science Publishers, New York},
-    series = {Stochastics Monographs},
-    title = {Nonlinear stochastic integrators, equations and flows},
-    volume = {6},
-    year = {1990}
+     author        = {Carmona, Ren\'{e} A. and Nualart, David},
+     isbn          = {2-88124-733-4},
+     mrclass       = {60H05 (60G48 60H10)},
+     mrnumber      = {1056476},
+     mrreviewer    = {Yves Le Jan},
+     pages         = {x+159},
+     publisher     = {Gordon and Breach Science Publishers, New York},
+     series        = {Stochastics Monographs},
+     title         = {Nonlinear stochastic integrators, equations and flows},
+     volume        = {6},
+     year          = {1990}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

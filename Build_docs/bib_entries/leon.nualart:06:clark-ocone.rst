@@ -8,20 +8,20 @@ leon.nualart:06:clark-ocone
 .. code-block:: bibtex
 
    @article{leon.nualart:06:clark-ocone,
-    author = {Le\'{o}n, Jorge A. and Nualart, David},
-    doi = {10.1080/07362990500522460},
-    fjournal = {Stochastic Analysis and Applications},
-    issn = {0736-2994},
-    journal = {Stoch. Anal. Appl.},
-    mrclass = {60H07 (60H05)},
-    mrnumber = {2204721},
-    mrreviewer = {Michal Vyoral},
-    number = {2},
-    pages = {427--449},
-    title = {Clark-{O}cone formula for fractional {B}rownian motion with {H}urst parameter less than 1/2},
-    url = {https://doi.org/10.1080/07362990500522460},
-    volume = {24},
-    year = {2006}
+     author        = {Le\'{o}n, Jorge A. and Nualart, David},
+     doi           = {10.1080/07362990500522460},
+     fjournal      = {Stochastic Analysis and Applications},
+     issn          = {0736-2994},
+     journal       = {Stoch. Anal. Appl.},
+     mrclass       = {60H07 (60H05)},
+     mrnumber      = {2204721},
+     mrreviewer    = {Michal Vyoral},
+     number        = {2},
+     pages         = {427--449},
+     title         = {Clark-{O}cone formula for fractional {B}rownian motion with {H}urst parameter less than 1/2},
+     url           = {https://doi.org/10.1080/07362990500522460},
+     volume        = {24},
+     year          = {2006}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

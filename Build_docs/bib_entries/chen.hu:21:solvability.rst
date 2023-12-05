@@ -8,12 +8,12 @@ chen.hu:21:solvability
 .. code-block:: bibtex
 
    @article{chen.hu:21:solvability,
-    author = {Zhen-Qing Chen and Yaozhong Hu},
-    journal = {To appear in Comm. in Math. Stat., preprint arXiv:2101.05997},
-    month = {January},
-    title = {Solvability of parabolic Anderson equation with fractional Gaussian noise},
-    url = {https://www.arxiv.org/abs/2101.05997},
-    year = {2021}
+     author        = {Zhen-Qing Chen and Yaozhong Hu},
+     journal       = {To appear in Comm. in Math. Stat., preprint arXiv:2101.05997},
+     month         = {January},
+     title         = {Solvability of parabolic Anderson equation with fractional Gaussian noise},
+     url           = {https://www.arxiv.org/abs/2101.05997},
+     year          = {2021}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

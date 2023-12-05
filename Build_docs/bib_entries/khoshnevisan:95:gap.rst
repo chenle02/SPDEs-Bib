@@ -8,19 +8,19 @@ khoshnevisan:95:gap
 .. code-block:: bibtex
 
    @incollection{khoshnevisan:95:gap,
-    author = {Khoshnevisan, Davar},
-    booktitle = {S\'{e}minaire de {P}robabilit\'{e}s, {XXIX}},
-    doi = {10.1007/BFb0094214},
-    mrclass = {60J65 (60G17)},
-    mrnumber = {1459463},
-    mrreviewer = {Zhan Shi},
-    pages = {220--230},
-    publisher = {Springer, Berlin},
-    series = {Lecture Notes in Math.},
-    title = {The gap between the past supremum and the future infimum of a transient {B}essel process},
-    url = {https://doi.org/10.1007/BFb0094214},
-    volume = {1613},
-    year = {1995}
+     author        = {Khoshnevisan, Davar},
+     booktitle     = {S\'{e}minaire de {P}robabilit\'{e}s, {XXIX}},
+     doi           = {10.1007/BFb0094214},
+     mrclass       = {60J65 (60G17)},
+     mrnumber      = {1459463},
+     mrreviewer    = {Zhan Shi},
+     pages         = {220--230},
+     publisher     = {Springer, Berlin},
+     series        = {Lecture Notes in Math.},
+     title         = {The gap between the past supremum and the future infimum of a transient {B}essel process},
+     url           = {https://doi.org/10.1007/BFb0094214},
+     volume        = {1613},
+     year          = {1995}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

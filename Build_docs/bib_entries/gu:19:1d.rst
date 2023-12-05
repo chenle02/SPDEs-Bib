@@ -8,18 +8,18 @@ gu:19:1d
 .. code-block:: bibtex
 
    @article{gu:19:1d,
-    author = {Gu, Yu},
-    doi = {10.1051/ps/2019010},
-    fjournal = {ESAIM. Probability and Statistics},
-    issn = {1292-8100},
-    journal = {ESAIM Probab. Stat.},
-    mrclass = {35R60 (35Q40 60H15)},
-    mrnumber = {3963531},
-    pages = {338--349},
-    title = {The 1{D} {S}chr\"{o}dinger equation with a spacetime white noise: the average wave function},
-    url = {https://doi.org/10.1051/ps/2019010},
-    volume = {23},
-    year = {2019}
+     author        = {Gu, Yu},
+     doi           = {10.1051/ps/2019010},
+     fjournal      = {ESAIM. Probability and Statistics},
+     issn          = {1292-8100},
+     journal       = {ESAIM Probab. Stat.},
+     mrclass       = {35R60 (35Q40 60H15)},
+     mrnumber      = {3963531},
+     pages         = {338--349},
+     title         = {The 1{D} {S}chr\"{o}dinger equation with a spacetime white noise: the average wave function},
+     url           = {https://doi.org/10.1051/ps/2019010},
+     volume        = {23},
+     year          = {2019}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

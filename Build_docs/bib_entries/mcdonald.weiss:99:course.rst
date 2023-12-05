@@ -8,16 +8,16 @@ mcdonald.weiss:99:course
 .. code-block:: bibtex
 
    @book{mcdonald.weiss:99:course,
-    author = {McDonald, John N. and Weiss, Neil A.},
-    isbn = {0-12-742830-5},
-    mrclass = {00A05 (26-01 28-01 46-01 54-01)},
-    mrnumber = {1680810},
-    mrreviewer = {Sherif T. El-Helaly},
-    note = {Biographies by Carol A. Weiss},
-    pages = {xx+745},
-    publisher = {Academic Press, Inc., San Diego, CA},
-    title = {A course in real analysis},
-    year = {1999}
+     author        = {McDonald, John N. and Weiss, Neil A.},
+     isbn          = {0-12-742830-5},
+     mrclass       = {00A05 (26-01 28-01 46-01 54-01)},
+     mrnumber      = {1680810},
+     mrreviewer    = {Sherif T. El-Helaly},
+     note          = {Biographies by Carol A. Weiss},
+     pages         = {xx+745},
+     publisher     = {Academic Press, Inc., San Diego, CA},
+     title         = {A course in real analysis},
+     year          = {1999}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

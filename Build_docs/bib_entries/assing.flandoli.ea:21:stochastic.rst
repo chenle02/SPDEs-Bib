@@ -8,19 +8,19 @@ assing.flandoli.ea:21:stochastic
 .. code-block:: bibtex
 
    @article{assing.flandoli.ea:21:stochastic,
-    author = {Assing, Sigurd and Flandoli, Franco and Pappalettera, Umberto},
-    doi = {10.1007/s00028-021-00708-z},
-    fjournal = {Journal of Evolution Equations},
-    issn = {1424-3199},
-    journal = {J. Evol. Equ.},
-    mrclass = {60H10 (34E13 60G15 86A08)},
-    mrnumber = {4350564},
-    number = {4},
-    pages = {3813--3848},
-    title = {Stochastic model reduction: convergence and applications to climate equations},
-    url = {https://doi.org/10.1007/s00028-021-00708-z},
-    volume = {21},
-    year = {2021}
+     author        = {Assing, Sigurd and Flandoli, Franco and Pappalettera, Umberto},
+     doi           = {10.1007/s00028-021-00708-z},
+     fjournal      = {Journal of Evolution Equations},
+     issn          = {1424-3199},
+     journal       = {J. Evol. Equ.},
+     mrclass       = {60H10 (34E13 60G15 86A08)},
+     mrnumber      = {4350564},
+     number        = {4},
+     pages         = {3813--3848},
+     title         = {Stochastic model reduction: convergence and applications to climate equations},
+     url           = {https://doi.org/10.1007/s00028-021-00708-z},
+     volume        = {21},
+     year          = {2021}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

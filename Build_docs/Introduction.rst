@@ -110,7 +110,7 @@ issue in the repository or reach out directly via email
 (`chenle02@gmail.com <mailto:chenle02@gmail.com>`) for any such matters. We aim to address all feedback
 promptly.
 
-Acknowledgments
+Cite this work?
 ---------------
 
 We hope that the resources compiled in this bibliography bank have been

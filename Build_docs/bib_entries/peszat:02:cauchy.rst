@@ -8,20 +8,20 @@ peszat:02:cauchy
 .. code-block:: bibtex
 
    @article{peszat:02:cauchy,
-    author = {Peszat, Szymon},
-    doi = {10.1007/PL00013197},
-    fjournal = {Journal of Evolution Equations},
-    issn = {1424-3199},
-    journal = {J. Evol. Equ.},
-    mrclass = {60H15 (35L70 35R60)},
-    mrnumber = {1930613},
-    mrreviewer = {B. G. Pachpatte},
-    number = {3},
-    pages = {383--394},
-    title = {The {C}auchy problem for a nonlinear stochastic wave equation in any dimension},
-    url = {https://doi.org/10.1007/PL00013197},
-    volume = {2},
-    year = {2002}
+     author        = {Peszat, Szymon},
+     doi           = {10.1007/PL00013197},
+     fjournal      = {Journal of Evolution Equations},
+     issn          = {1424-3199},
+     journal       = {J. Evol. Equ.},
+     mrclass       = {60H15 (35L70 35R60)},
+     mrnumber      = {1930613},
+     mrreviewer    = {B. G. Pachpatte},
+     number        = {3},
+     pages         = {383--394},
+     title         = {The {C}auchy problem for a nonlinear stochastic wave equation in any dimension},
+     url           = {https://doi.org/10.1007/PL00013197},
+     volume        = {2},
+     year          = {2002}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

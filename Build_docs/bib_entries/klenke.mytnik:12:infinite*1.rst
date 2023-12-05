@@ -8,20 +8,20 @@ klenke.mytnik:12:infinite*1
 .. code-block:: bibtex
 
    @article{klenke.mytnik:12:infinite*1,
-    author = {Klenke, Achim and Mytnik, Leonid},
-    doi = {10.1007/s00440-011-0376-1},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60K35 (60H20 60J80 60K37)},
-    mrnumber = {3000554},
-    mrreviewer = {Siva R. Athreya},
-    number = {3-4},
-    pages = {533--584},
-    title = {Infinite rate mutually catalytic branching in infinitely many colonies: construction, characterization and convergence},
-    url = {https://doi.org/10.1007/s00440-011-0376-1},
-    volume = {154},
-    year = {2012}
+     author        = {Klenke, Achim and Mytnik, Leonid},
+     doi           = {10.1007/s00440-011-0376-1},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60K35 (60H20 60J80 60K37)},
+     mrnumber      = {3000554},
+     mrreviewer    = {Siva R. Athreya},
+     number        = {3-4},
+     pages         = {533--584},
+     title         = {Infinite rate mutually catalytic branching in infinitely many colonies: construction, characterization and convergence},
+     url           = {https://doi.org/10.1007/s00440-011-0376-1},
+     volume        = {154},
+     year          = {2012}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

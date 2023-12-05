@@ -8,20 +8,20 @@ zambotti:02:integration
 .. code-block:: bibtex
 
    @article{zambotti:02:integration,
-    author = {Zambotti, Lorenzo},
-    doi = {10.1007/s004400200203},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60H07 (60H15 60J55)},
-    mrnumber = {1921014},
-    mrreviewer = {Catherine Donati-Martin},
-    number = {4},
-    pages = {579--600},
-    title = {Integration by parts formulae on convex sets of paths and applications to {SPDE}s with reflection},
-    url = {https://doi.org/10.1007/s004400200203},
-    volume = {123},
-    year = {2002}
+     author        = {Zambotti, Lorenzo},
+     doi           = {10.1007/s004400200203},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60H07 (60H15 60J55)},
+     mrnumber      = {1921014},
+     mrreviewer    = {Catherine Donati-Martin},
+     number        = {4},
+     pages         = {579--600},
+     title         = {Integration by parts formulae on convex sets of paths and applications to {SPDE}s with reflection},
+     url           = {https://doi.org/10.1007/s004400200203},
+     volume        = {123},
+     year          = {2002}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

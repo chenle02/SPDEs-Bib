@@ -8,19 +8,19 @@ levy.somekh.ea:09:on
 .. code-block:: bibtex
 
    @article{levy.somekh.ea:09:on,
-    author = {Levy, Nathan and Somekh, Oren and Shamai, Shlomo and Zeitouni, Ofer},
-    doi = {10.1109/TIT.2009.2013046},
-    fjournal = {Institute of Electrical and Electronics Engineers. Transactions on Information Theory},
-    issn = {0018-9448,1557-9654},
-    journal = {IEEE Trans. Inform. Theory},
-    mrclass = {94A05 (15B52)},
-    mrnumber = {2582744},
-    number = {4},
-    pages = {1534--1554},
-    title = {On certain large random {H}ermitian {J}acobi matrices with applications to wireless communications},
-    url = {https://doi.org/10.1109/TIT.2009.2013046},
-    volume = {55},
-    year = {2009}
+     author        = {Levy, Nathan and Somekh, Oren and Shamai, Shlomo and Zeitouni, Ofer},
+     doi           = {10.1109/TIT.2009.2013046},
+     fjournal      = {Institute of Electrical and Electronics Engineers. Transactions on Information Theory},
+     issn          = {0018-9448,1557-9654},
+     journal       = {IEEE Trans. Inform. Theory},
+     mrclass       = {94A05 (15B52)},
+     mrnumber      = {2582744},
+     number        = {4},
+     pages         = {1534--1554},
+     title         = {On certain large random {H}ermitian {J}acobi matrices with applications to wireless communications},
+     url           = {https://doi.org/10.1109/TIT.2009.2013046},
+     volume        = {55},
+     year          = {2009}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

@@ -8,20 +8,20 @@ bourgain.gamburd.ea:16:markoff
 .. code-block:: bibtex
 
    @article{bourgain.gamburd.ea:16:markoff,
-    author = {Bourgain, Jean and Gamburd, Alexander and Sarnak, Peter},
-    doi = {10.1016/j.crma.2015.12.006},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
-    issn = {1631-073X,1778-3569},
-    journal = {C. R. Math. Acad. Sci. Paris},
-    mrclass = {11G05 (14G15)},
-    mrnumber = {3456887},
-    mrreviewer = {John\ L.\ Boxall},
-    number = {2},
-    pages = {131--135},
-    title = {Markoff triples and strong approximation},
-    url = {https://doi.org/10.1016/j.crma.2015.12.006},
-    volume = {354},
-    year = {2016}
+     author        = {Bourgain, Jean and Gamburd, Alexander and Sarnak, Peter},
+     doi           = {10.1016/j.crma.2015.12.006},
+     fjournal      = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+     issn          = {1631-073X,1778-3569},
+     journal       = {C. R. Math. Acad. Sci. Paris},
+     mrclass       = {11G05 (14G15)},
+     mrnumber      = {3456887},
+     mrreviewer    = {John\ L.\ Boxall},
+     number        = {2},
+     pages         = {131--135},
+     title         = {Markoff triples and strong approximation},
+     url           = {https://doi.org/10.1016/j.crma.2015.12.006},
+     volume        = {354},
+     year          = {2016}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

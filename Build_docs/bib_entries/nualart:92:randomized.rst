@@ -8,19 +8,19 @@ nualart:92:randomized
 .. code-block:: bibtex
 
    @article{nualart:92:randomized,
-    author = {Nualart, David},
-    fjournal = {The Annals of Probability},
-    issn = {0091-1798},
-    journal = {Ann. Probab.},
-    mrclass = {60G40 (60G07 60G60)},
-    mrnumber = {1159578},
-    mrreviewer = {Robert C. Dalang},
-    number = {2},
-    pages = {883--900},
-    title = {Randomized stopping points and optimal stopping on the plane},
-    url = {http://links.jstor.org/sici?sici=0091-1798(199204)20:2<883:RSPAOS>2.0.CO;2-7&origin=MSN},
-    volume = {20},
-    year = {1992}
+     author        = {Nualart, David},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60G40 (60G07 60G60)},
+     mrnumber      = {1159578},
+     mrreviewer    = {Robert C. Dalang},
+     number        = {2},
+     pages         = {883--900},
+     title         = {Randomized stopping points and optimal stopping on the plane},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199204)20:2<883:RSPAOS>2.0.CO;2-7\&origin=MSN},
+     volume        = {20},
+     year          = {1992}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

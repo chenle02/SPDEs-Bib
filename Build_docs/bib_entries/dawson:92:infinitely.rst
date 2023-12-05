@@ -8,17 +8,17 @@ dawson:92:infinitely
 .. code-block:: bibtex
 
    @incollection{dawson:92:infinitely,
-    author = {Dawson, Donald A.},
-    booktitle = {Stochastic analysis and related topics ({S}ilivri, 1990)},
-    mrclass = {60G57 (60H15 60J80)},
-    mrnumber = {1203373},
-    mrreviewer = {Luis G. Gorostiza},
-    pages = {1--129},
-    publisher = {Birkh\"{a}user Boston, Boston, MA},
-    series = {Progr. Probab.},
-    title = {Infinitely divisible random measures and superprocesses},
-    volume = {31},
-    year = {1992}
+     author        = {Dawson, Donald A.},
+     booktitle     = {Stochastic analysis and related topics ({S}ilivri, 1990)},
+     mrclass       = {60G57 (60H15 60J80)},
+     mrnumber      = {1203373},
+     mrreviewer    = {Luis G. Gorostiza},
+     pages         = {1--129},
+     publisher     = {Birkh\"{a}user Boston, Boston, MA},
+     series        = {Progr. Probab.},
+     title         = {Infinitely divisible random measures and superprocesses},
+     volume        = {31},
+     year          = {1992}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

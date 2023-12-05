@@ -8,16 +8,16 @@ xiong:13:three
 .. code-block:: bibtex
 
    @book{xiong:13:three,
-    author = {Xiong, Jie},
-    doi = {10.1142/8728},
-    isbn = {978-981-4452-35-9},
-    mrclass = {60H15 (35R60 60G35 60J68 60J80)},
-    mrnumber = {3235846},
-    pages = {xii+164},
-    publisher = {World Scientific Publishing Co. Pte. Ltd., Hackensack, NJ},
-    title = {Three classes of nonlinear stochastic partial differential equations},
-    url = {https://doi.org/10.1142/8728},
-    year = {2013}
+     author        = {Xiong, Jie},
+     doi           = {10.1142/8728},
+     isbn          = {978-981-4452-35-9},
+     mrclass       = {60H15 (35R60 60G35 60J68 60J80)},
+     mrnumber      = {3235846},
+     pages         = {xii+164},
+     publisher     = {World Scientific Publishing Co. Pte. Ltd., Hackensack, NJ},
+     title         = {Three classes of nonlinear stochastic partial differential equations},
+     url           = {https://doi.org/10.1142/8728},
+     year          = {2013}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_
