@@ -8,12 +8,12 @@ chen.eisenberg:22:interpolating
 .. code-block:: bibtex
 
    @article{chen.eisenberg:22:interpolating,
-    author = {Le Chen and Nicholas Eisenberg},
-    journal = {Stoch. Partial Differ. Equ. Anal. Comput. (in press)},
-    month = {August},
-    title = {Interpolating the stochastic heat and wave equations with time-independent noise: solvability and exact asymptotics},
-    url = {https://www.arxiv.org/abs/2108.11473},
-    year = {2022}
+     author        = {Le Chen and Nicholas Eisenberg},
+     journal       = {Stoch. Partial Differ. Equ. Anal. Comput. (in press)},
+     month         = {August},
+     title         = {Interpolating the stochastic heat and wave equations with time-independent noise: solvability and exact asymptotics},
+     url           = {https://www.arxiv.org/abs/2108.11473},
+     year          = {2022}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

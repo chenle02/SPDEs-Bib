@@ -9,6 +9,7 @@ import bibtexparser
 from bibtexparser.bwriter import BibTexWriter
 import os
 import glob
+import subprocess
 
 # Set BibTeX and parent RST file names
 bib_file_name = "../All.bib"
@@ -48,6 +49,8 @@ with open(parent_rst_name, "w") as parent_rst:
             db.entries = [entry]
             bibfile.write(writer.write(db))
 
+        subprocess.run(["bibtex-tidy",  "-m", bib_entry_filename])
+
         # Create corresponding RST file
         rst_entry_filename = f"bib_entries/{cite_key}.rst"
         with open(rst_entry_filename, "w") as file:
@@ -58,8 +61,10 @@ with open(parent_rst_name, "w") as parent_rst:
             # Write the raw BibTeX entry
             file.write("**BibTeX Entry:**\n\n")
             file.write(".. code-block:: bibtex\n\n")
-            for line in writer.write(db).splitlines():
-                file.write(f"   {line}\n")
+            # Read and write the content of the .bib file
+            with open(bib_entry_filename, "r") as bibfile:
+                for line in bibfile:
+                    file.write(f"   {line}")
             file.write(f"\n`Back to index <../{parent_rst_name}>`_\n")
 
         # Add entry to the parent RST file

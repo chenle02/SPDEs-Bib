@@ -8,12 +8,12 @@ chen.deya.ea:21:solving
 .. code-block:: bibtex
 
    @article{chen.deya.ea:21:solving,
-    author = {Xia Chen and Aur\'elien Deya and Jian Song and Samy Tindel},
-    journal = {Preprint arXiv:2112.04954},
-    month = {December},
-    title = {Solving the hyperbolic Anderson model 1: Skorohod setting},
-    url = {https://www.arxiv.org/abs/2112.04954},
-    year = {2021}
+     author        = {Xia Chen and Aur\'elien Deya and Jian Song and Samy Tindel},
+     journal       = {Preprint arXiv:2112.04954},
+     month         = {December},
+     title         = {Solving the hyperbolic Anderson model 1: Skorohod setting},
+     url           = {https://www.arxiv.org/abs/2112.04954},
+     year          = {2021}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

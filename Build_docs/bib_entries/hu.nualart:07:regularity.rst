@@ -8,19 +8,19 @@ hu.nualart:07:regularity
 .. code-block:: bibtex
 
    @article{hu.nualart:07:regularity,
-    author = {Hu, Yaozhong and Nualart, David},
-    fjournal = {Communications in Information and Systems},
-    issn = {1526-7555},
-    journal = {Commun. Inf. Syst.},
-    mrclass = {60J55 (60G15)},
-    mrnumber = {2346577},
-    mrreviewer = {Tina M. Marquardt},
-    number = {1},
-    pages = {21--30},
-    title = {Regularity of renormalized self-intersection local time for fractional {B}rownian motion},
-    url = {http://projecteuclid.org/euclid.cis/1184963896},
-    volume = {7},
-    year = {2007}
+     author        = {Hu, Yaozhong and Nualart, David},
+     fjournal      = {Communications in Information and Systems},
+     issn          = {1526-7555},
+     journal       = {Commun. Inf. Syst.},
+     mrclass       = {60J55 (60G15)},
+     mrnumber      = {2346577},
+     mrreviewer    = {Tina M. Marquardt},
+     number        = {1},
+     pages         = {21--30},
+     title         = {Regularity of renormalized self-intersection local time for fractional {B}rownian motion},
+     url           = {http://projecteuclid.org/euclid.cis/1184963896},
+     volume        = {7},
+     year          = {2007}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

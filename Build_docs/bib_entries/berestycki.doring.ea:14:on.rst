@@ -8,20 +8,20 @@ berestycki.doring.ea:14:on
 .. code-block:: bibtex
 
    @article{berestycki.doring.ea:14:on,
-    author = {Berestycki, J. and D\"{o}ring, L. and Mytnik, L. and Zambotti, L.},
-    doi = {10.1007/s40072-014-0026-6},
-    fjournal = {Stochastic Partial Differential Equations. Analysis and Computations},
-    issn = {2194-0401},
-    journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
-    mrclass = {60J80 (60G18 60G57)},
-    mrnumber = {3249581},
-    mrreviewer = {Anna Talarczyk},
-    number = {1},
-    pages = {84--120},
-    title = {On exceptional times for generalized {F}leming-{V}iot processes with mutations},
-    url = {https://doi.org/10.1007/s40072-014-0026-6},
-    volume = {2},
-    year = {2014}
+     author        = {Berestycki, J. and D\"{o}ring, L. and Mytnik, L. and Zambotti, L.},
+     doi           = {10.1007/s40072-014-0026-6},
+     fjournal      = {Stochastic Partial Differential Equations. Analysis and Computations},
+     issn          = {2194-0401},
+     journal       = {Stoch. Partial Differ. Equ. Anal. Comput.},
+     mrclass       = {60J80 (60G18 60G57)},
+     mrnumber      = {3249581},
+     mrreviewer    = {Anna Talarczyk},
+     number        = {1},
+     pages         = {84--120},
+     title         = {On exceptional times for generalized {F}leming-{V}iot processes with mutations},
+     url           = {https://doi.org/10.1007/s40072-014-0026-6},
+     volume        = {2},
+     year          = {2014}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

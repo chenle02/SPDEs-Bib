@@ -8,19 +8,19 @@ mazya:09:boundedness
 .. code-block:: bibtex
 
    @article{mazya:09:boundedness,
-    author = {Maz'ya, Vladimir},
-    doi = {10.1016/j.crma.2009.03.001},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
-    issn = {1631-073X},
-    journal = {C. R. Math. Acad. Sci. Paris},
-    mrclass = {35J05 (35B45)},
-    mrnumber = {2576900},
-    number = {9-10},
-    pages = {517--520},
-    title = {Boundedness of the gradient of a solution to the {N}eumann-{L}aplace problem in a convex domain},
-    url = {https://doi.org/10.1016/j.crma.2009.03.001},
-    volume = {347},
-    year = {2009}
+     author        = {Maz'ya, Vladimir},
+     doi           = {10.1016/j.crma.2009.03.001},
+     fjournal      = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+     issn          = {1631-073X},
+     journal       = {C. R. Math. Acad. Sci. Paris},
+     mrclass       = {35J05 (35B45)},
+     mrnumber      = {2576900},
+     number        = {9-10},
+     pages         = {517--520},
+     title         = {Boundedness of the gradient of a solution to the {N}eumann-{L}aplace problem in a convex domain},
+     url           = {https://doi.org/10.1016/j.crma.2009.03.001},
+     volume        = {347},
+     year          = {2009}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

@@ -8,20 +8,20 @@ cheridito.nualart:05:stochastic
 .. code-block:: bibtex
 
    @article{cheridito.nualart:05:stochastic,
-    author = {Cheridito, Patrick and Nualart, David},
-    doi = {10.1016/j.anihpb.2004.09.004},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
-    issn = {0246-0203},
-    journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
-    mrclass = {60G15 (60H05 60H07)},
-    mrnumber = {2172209},
-    mrreviewer = {Giovanni Peccati},
-    number = {6},
-    pages = {1049--1081},
-    title = {Stochastic integral of divergence type with respect to fractional {B}rownian motion with {H}urst parameter {$Hin(0,{1\over2})$}},
-    url = {https://doi.org/10.1016/j.anihpb.2004.09.004},
-    volume = {41},
-    year = {2005}
+     author        = {Cheridito, Patrick and Nualart, David},
+     doi           = {10.1016/j.anihpb.2004.09.004},
+     fjournal      = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
+     issn          = {0246-0203},
+     journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
+     mrclass       = {60G15 (60H05 60H07)},
+     mrnumber      = {2172209},
+     mrreviewer    = {Giovanni Peccati},
+     number        = {6},
+     pages         = {1049--1081},
+     title         = {Stochastic integral of divergence type with respect to fractional {B}rownian motion with {H}urst parameter {$Hin(0,{1\over2})$}},
+     url           = {https://doi.org/10.1016/j.anihpb.2004.09.004},
+     volume        = {41},
+     year          = {2005}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

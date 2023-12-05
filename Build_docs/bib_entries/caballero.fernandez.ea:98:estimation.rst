@@ -8,20 +8,20 @@ caballero.fernandez.ea:98:estimation
 .. code-block:: bibtex
 
    @article{caballero.fernandez.ea:98:estimation,
-    author = {Caballero, Mar\'{i}a Emilia and Fern\'{a}ndez, Bego\~{n}a and Nualart, David},
-    doi = {10.1023/A:1022614917458},
-    fjournal = {Journal of Theoretical Probability},
-    issn = {0894-9840},
-    journal = {J. Theoret. Probab.},
-    mrclass = {60H07 (60H15 60J60)},
-    mrnumber = {1633411},
-    mrreviewer = {Shi Zan Fang},
-    number = {3},
-    pages = {831--851},
-    title = {Estimation of densities and applications},
-    url = {https://doi.org/10.1023/A:1022614917458},
-    volume = {11},
-    year = {1998}
+     author        = {Caballero, Mar\'{i}a Emilia and Fern\'{a}ndez, Bego\~{n}a and Nualart, David},
+     doi           = {10.1023/A:1022614917458},
+     fjournal      = {Journal of Theoretical Probability},
+     issn          = {0894-9840},
+     journal       = {J. Theoret. Probab.},
+     mrclass       = {60H07 (60H15 60J60)},
+     mrnumber      = {1633411},
+     mrreviewer    = {Shi Zan Fang},
+     number        = {3},
+     pages         = {831--851},
+     title         = {Estimation of densities and applications},
+     url           = {https://doi.org/10.1023/A:1022614917458},
+     volume        = {11},
+     year          = {1998}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

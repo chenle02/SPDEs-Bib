@@ -8,18 +8,18 @@ huang.khoshnevisan:20:analysis
 .. code-block:: bibtex
 
    @article{huang.khoshnevisan:20:analysis,
-    author = {Huang, Jingyu and Khoshnevisan, Davar},
-    doi = {10.1214/20-ejp524},
-    fjournal = {Electronic Journal of Probability},
-    journal = {Electron. J. Probab.},
-    mrclass = {60H15 (28A80 35R60 60K37)},
-    mrnumber = {4161132},
-    mrreviewer = {Xinghua Zheng},
-    pages = {Paper No. 122, 67},
-    title = {Analysis of a stratified {K}raichnan flow},
-    url = {https://doi.org/10.1214/20-ejp524},
-    volume = {25},
-    year = {2020}
+     author        = {Huang, Jingyu and Khoshnevisan, Davar},
+     doi           = {10.1214/20-ejp524},
+     fjournal      = {Electronic Journal of Probability},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {60H15 (28A80 35R60 60K37)},
+     mrnumber      = {4161132},
+     mrreviewer    = {Xinghua Zheng},
+     pages         = {Paper No. 122, 67},
+     title         = {Analysis of a stratified {K}raichnan flow},
+     url           = {https://doi.org/10.1214/20-ejp524},
+     volume        = {25},
+     year          = {2020}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

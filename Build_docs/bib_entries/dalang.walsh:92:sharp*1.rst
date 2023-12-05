@@ -8,20 +8,20 @@ dalang.walsh:92:sharp*1
 .. code-block:: bibtex
 
    @article{dalang.walsh:92:sharp*1,
-    author = {Dalang, Robert C. and Walsh, John B.},
-    doi = {10.1007/BF02392978},
-    fjournal = {Acta Mathematica},
-    issn = {0001-5962},
-    journal = {Acta Math.},
-    mrclass = {60G60 (60G20 60J25 60J30)},
-    mrnumber = {1161265},
-    mrreviewer = {Peter Imkeller},
-    number = {3-4},
-    pages = {153--218},
-    title = {The sharp {M}arkov property of the {B}rownian sheet and related processes},
-    url = {https://doi.org/10.1007/BF02392978},
-    volume = {168},
-    year = {1992}
+     author        = {Dalang, Robert C. and Walsh, John B.},
+     doi           = {10.1007/BF02392978},
+     fjournal      = {Acta Mathematica},
+     issn          = {0001-5962},
+     journal       = {Acta Math.},
+     mrclass       = {60G60 (60G20 60J25 60J30)},
+     mrnumber      = {1161265},
+     mrreviewer    = {Peter Imkeller},
+     number        = {3-4},
+     pages         = {153--218},
+     title         = {The sharp {M}arkov property of the {B}rownian sheet and related processes},
+     url           = {https://doi.org/10.1007/BF02392978},
+     volume        = {168},
+     year          = {1992}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

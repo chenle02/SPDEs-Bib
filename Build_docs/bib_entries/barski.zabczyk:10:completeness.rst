@@ -8,20 +8,20 @@ barski.zabczyk:10:completeness
 .. code-block:: bibtex
 
    @article{barski.zabczyk:10:completeness,
-    author = {Barski, Micha\l and Zabczyk, Jerzy},
-    doi = {10.1142/S0219024910005942},
-    fjournal = {International Journal of Theoretical and Applied Finance},
-    issn = {0219-0249},
-    journal = {Int. J. Theor. Appl. Finance},
-    mrclass = {91G20 (60G51 60H30 91B25 91G30 91G80)},
-    mrnumber = {2684596},
-    mrreviewer = {Giuseppe Castellacci},
-    number = {5},
-    pages = {635--656},
-    title = {Completeness of bond market driven by {L}\'{e}vy process},
-    url = {https://doi.org/10.1142/S0219024910005942},
-    volume = {13},
-    year = {2010}
+     author        = {Barski, Micha\l and Zabczyk, Jerzy},
+     doi           = {10.1142/S0219024910005942},
+     fjournal      = {International Journal of Theoretical and Applied Finance},
+     issn          = {0219-0249},
+     journal       = {Int. J. Theor. Appl. Finance},
+     mrclass       = {91G20 (60G51 60H30 91B25 91G30 91G80)},
+     mrnumber      = {2684596},
+     mrreviewer    = {Giuseppe Castellacci},
+     number        = {5},
+     pages         = {635--656},
+     title         = {Completeness of bond market driven by {L}\'{e}vy process},
+     url           = {https://doi.org/10.1142/S0219024910005942},
+     volume        = {13},
+     year          = {2010}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

@@ -8,20 +8,20 @@ nualart.tindel:11:construction
 .. code-block:: bibtex
 
    @article{nualart.tindel:11:construction,
-    author = {Nualart, David and Tindel, Samy},
-    doi = {10.1214/10-AOP578},
-    fjournal = {The Annals of Probability},
-    issn = {0091-1798},
-    journal = {Ann. Probab.},
-    mrclass = {60G22 (60G15 60H05 60H07)},
-    mrnumber = {2789583},
-    mrreviewer = {Ciprian A. Tudor},
-    number = {3},
-    pages = {1061--1096},
-    title = {A construction of the rough path above fractional {B}rownian motion using {V}olterra's representation},
-    url = {https://doi.org/10.1214/10-AOP578},
-    volume = {39},
-    year = {2011}
+     author        = {Nualart, David and Tindel, Samy},
+     doi           = {10.1214/10-AOP578},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60G22 (60G15 60H05 60H07)},
+     mrnumber      = {2789583},
+     mrreviewer    = {Ciprian A. Tudor},
+     number        = {3},
+     pages         = {1061--1096},
+     title         = {A construction of the rough path above fractional {B}rownian motion using {V}olterra's representation},
+     url           = {https://doi.org/10.1214/10-AOP578},
+     volume        = {39},
+     year          = {2011}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

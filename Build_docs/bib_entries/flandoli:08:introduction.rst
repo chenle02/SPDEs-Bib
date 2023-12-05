@@ -8,19 +8,19 @@ flandoli:08:introduction
 .. code-block:: bibtex
 
    @incollection{flandoli:08:introduction,
-    author = {Flandoli, Franco},
-    booktitle = {S{PDE} in hydrodynamic: recent progress and prospects},
-    doi = {10.1007/978-3-540-78493-7\_2},
-    mrclass = {76M35 (35Q35 35R60 60H15 76D03 76D05)},
-    mrnumber = {2459085},
-    mrreviewer = {Piotr Biler},
-    pages = {51--150},
-    publisher = {Springer, Berlin},
-    series = {Lecture Notes in Math.},
-    title = {An introduction to 3{D} stochastic fluid dynamics},
-    url = {https://doi.org/10.1007/978-3-540-78493-7_2},
-    volume = {1942},
-    year = {2008}
+     author        = {Flandoli, Franco},
+     booktitle     = {S{PDE} in hydrodynamic: recent progress and prospects},
+     doi           = {10.1007/978-3-540-78493-7\_2},
+     mrclass       = {76M35 (35Q35 35R60 60H15 76D03 76D05)},
+     mrnumber      = {2459085},
+     mrreviewer    = {Piotr Biler},
+     pages         = {51--150},
+     publisher     = {Springer, Berlin},
+     series        = {Lecture Notes in Math.},
+     title         = {An introduction to 3{D} stochastic fluid dynamics},
+     url           = {https://doi.org/10.1007/978-3-540-78493-7\_2},
+     volume        = {1942},
+     year          = {2008}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

@@ -8,19 +8,19 @@ derrida:81:random-energy
 .. code-block:: bibtex
 
    @article{derrida:81:random-energy,
-    author = {Derrida, Bernard},
-    doi = {10.1103/physrevb.24.2613},
-    fjournal = {Physical Review. B. Condensed Matter. Third Series},
-    issn = {0163-1829},
-    journal = {Phys. Rev. B (3)},
-    mrclass = {82A57 (60K99 82A42)},
-    mrnumber = {627810},
-    number = {5},
-    pages = {2613--2626},
-    title = {Random-energy model: an exactly solvable model of disordered systems},
-    url = {https://doi.org/10.1103/physrevb.24.2613},
-    volume = {24},
-    year = {1981}
+     author        = {Derrida, Bernard},
+     doi           = {10.1103/physrevb.24.2613},
+     fjournal      = {Physical Review. B. Condensed Matter. Third Series},
+     issn          = {0163-1829},
+     journal       = {Phys. Rev. B (3)},
+     mrclass       = {82A57 (60K99 82A42)},
+     mrnumber      = {627810},
+     number        = {5},
+     pages         = {2613--2626},
+     title         = {Random-energy model: an exactly solvable model of disordered systems},
+     url           = {https://doi.org/10.1103/physrevb.24.2613},
+     volume        = {24},
+     year          = {1981}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

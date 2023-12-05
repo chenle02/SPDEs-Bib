@@ -8,19 +8,19 @@ goldys.rockner.ea:09:martingale
 .. code-block:: bibtex
 
    @article{goldys.rockner.ea:09:martingale,
-    author = {Goldys, Benjamin and R\"{o}ckner, Michael and Zhang, Xicheng},
-    doi = {10.1016/j.spa.2008.08.009},
-    fjournal = {Stochastic Processes and their Applications},
-    issn = {0304-4149},
-    journal = {Stochastic Process. Appl.},
-    mrclass = {60H15 (35R60 60G44 76S05)},
-    mrnumber = {2513126},
-    number = {5},
-    pages = {1725--1764},
-    title = {Martingale solutions and {M}arkov selections for stochastic partial differential equations},
-    url = {https://doi.org/10.1016/j.spa.2008.08.009},
-    volume = {119},
-    year = {2009}
+     author        = {Goldys, Benjamin and R\"{o}ckner, Michael and Zhang, Xicheng},
+     doi           = {10.1016/j.spa.2008.08.009},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60H15 (35R60 60G44 76S05)},
+     mrnumber      = {2513126},
+     number        = {5},
+     pages         = {1725--1764},
+     title         = {Martingale solutions and {M}arkov selections for stochastic partial differential equations},
+     url           = {https://doi.org/10.1016/j.spa.2008.08.009},
+     volume        = {119},
+     year          = {2009}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

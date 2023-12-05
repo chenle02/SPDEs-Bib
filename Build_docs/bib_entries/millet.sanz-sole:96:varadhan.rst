@@ -8,15 +8,15 @@ millet.sanz-sole:96:varadhan
 .. code-block:: bibtex
 
    @incollection{millet.sanz-sole:96:varadhan,
-    author = {Millet, Annie and Sanz-Sol\'{e}, Marta},
-    booktitle = {Stochastic analysis and applications ({P}owys, 1995)},
-    mrclass = {60H15 (35R60 60F10)},
-    mrnumber = {1453142},
-    mrreviewer = {R\'{e}mi L\'{e}andre},
-    pages = {330--342},
-    publisher = {World Sci. Publ., River Edge, NJ},
-    title = {Varadhan estimates for the density of the solution to a parabolic stochastic partial differential equation},
-    year = {1996}
+     author        = {Millet, Annie and Sanz-Sol\'{e}, Marta},
+     booktitle     = {Stochastic analysis and applications ({P}owys, 1995)},
+     mrclass       = {60H15 (35R60 60F10)},
+     mrnumber      = {1453142},
+     mrreviewer    = {R\'{e}mi L\'{e}andre},
+     pages         = {330--342},
+     publisher     = {World Sci. Publ., River Edge, NJ},
+     title         = {Varadhan estimates for the density of the solution to a parabolic stochastic partial differential equation},
+     year          = {1996}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

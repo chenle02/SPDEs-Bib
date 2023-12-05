@@ -8,17 +8,17 @@ bierme.bonami.ea:12:optimal
 .. code-block:: bibtex
 
    @article{bierme.bonami.ea:12:optimal,
-    author = {Bierm\'{e}, Hermine and Bonami, Aline and Nourdin, Ivan and Peccati, Giovanni},
-    fjournal = {ALEA. Latin American Journal of Probability and Mathematical Statistics},
-    journal = {ALEA Lat. Am. J. Probab. Math. Stat.},
-    mrclass = {60F05 (60G15 60H07 62E17)},
-    mrnumber = {3069374},
-    mrreviewer = {Ciprian A. Tudor},
-    number = {2},
-    pages = {473--500},
-    title = {Optimal {B}erry-{E}sseen rates on the {W}iener space: the barrier of third and fourth cumulants},
-    volume = {9},
-    year = {2012}
+     author        = {Bierm\'{e}, Hermine and Bonami, Aline and Nourdin, Ivan and Peccati, Giovanni},
+     fjournal      = {ALEA. Latin American Journal of Probability and Mathematical Statistics},
+     journal       = {ALEA Lat. Am. J. Probab. Math. Stat.},
+     mrclass       = {60F05 (60G15 60H07 62E17)},
+     mrnumber      = {3069374},
+     mrreviewer    = {Ciprian A. Tudor},
+     number        = {2},
+     pages         = {473--500},
+     title         = {Optimal {B}erry-{E}sseen rates on the {W}iener space: the barrier of third and fourth cumulants},
+     volume        = {9},
+     year          = {2012}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

@@ -8,19 +8,19 @@ costabel.dauge:98:resultat
 .. code-block:: bibtex
 
    @article{costabel.dauge:98:resultat,
-    author = {Costabel, Martin and Dauge, Monique},
-    doi = {10.1016/S0764-4442(99)80117-7},
-    fjournal = {Comptes Rendus de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
-    issn = {0764-4442},
-    journal = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
-    mrclass = {46E35 (35B65 35Q60 78A25)},
-    mrnumber = {1663758},
-    number = {9},
-    pages = {849--854},
-    title = {Un r\'{e}sultat de densit\'{e} pour les \'{e}quations de {M}axwell r\'{e}gularis\'{e}es dans un domaine lipschitzien},
-    url = {https://doi.org/10.1016/S0764-4442(99)80117-7},
-    volume = {327},
-    year = {1998}
+     author        = {Costabel, Martin and Dauge, Monique},
+     doi           = {10.1016/S0764-4442(99)80117-7},
+     fjournal      = {Comptes Rendus de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
+     issn          = {0764-4442},
+     journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
+     mrclass       = {46E35 (35B65 35Q60 78A25)},
+     mrnumber      = {1663758},
+     number        = {9},
+     pages         = {849--854},
+     title         = {Un r\'{e}sultat de densit\'{e} pour les \'{e}quations de {M}axwell r\'{e}gularis\'{e}es dans un domaine lipschitzien},
+     url           = {https://doi.org/10.1016/S0764-4442(99)80117-7},
+     volume        = {327},
+     year          = {1998}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

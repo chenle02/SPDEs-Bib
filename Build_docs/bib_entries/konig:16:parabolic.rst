@@ -8,19 +8,19 @@ konig:16:parabolic
 .. code-block:: bibtex
 
    @book{konig:16:parabolic,
-    author = {K\"{o}nig, Wolfgang},
-    doi = {10.1007/978-3-319-33596-4},
-    isbn = {978-3-319-33595-7; 978-3-319-33596-4},
-    mrclass = {60-02 (60F10 60J55 60J80 60K35 60K37 82B41 82C41)},
-    mrnumber = {3526112},
-    mrreviewer = {Xia Chen},
-    note = {Random walk in random potential},
-    pages = {xi+192},
-    publisher = {Birkh\"{a}user/Springer, [Cham]},
-    series = {Pathways in Mathematics},
-    title = {The parabolic {A}nderson model},
-    url = {https://doi.org/10.1007/978-3-319-33596-4},
-    year = {2016}
+     author        = {K\"{o}nig, Wolfgang},
+     doi           = {10.1007/978-3-319-33596-4},
+     isbn          = {978-3-319-33595-7; 978-3-319-33596-4},
+     mrclass       = {60-02 (60F10 60J55 60J80 60K35 60K37 82B41 82C41)},
+     mrnumber      = {3526112},
+     mrreviewer    = {Xia Chen},
+     note          = {Random walk in random potential},
+     pages         = {xi+192},
+     publisher     = {Birkh\"{a}user/Springer, [Cham]},
+     series        = {Pathways in Mathematics},
+     title         = {The parabolic {A}nderson model},
+     url           = {https://doi.org/10.1007/978-3-319-33596-4},
+     year          = {2016}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

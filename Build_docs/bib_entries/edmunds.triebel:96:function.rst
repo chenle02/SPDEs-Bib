@@ -8,19 +8,19 @@ edmunds.triebel:96:function
 .. code-block:: bibtex
 
    @book{edmunds.triebel:96:function,
-    author = {Edmunds, D. E. and Triebel, H.},
-    doi = {10.1017/CBO9780511662201},
-    isbn = {0-521-56036-5},
-    mrclass = {46E35 (35J70 35P15 35P20 47B06 47G30)},
-    mrnumber = {1410258},
-    mrreviewer = {Georgi E. Karadzhov},
-    pages = {xii+252},
-    publisher = {Cambridge University Press, Cambridge},
-    series = {Cambridge Tracts in Mathematics},
-    title = {Function spaces, entropy numbers, differential operators},
-    url = {https://doi.org/10.1017/CBO9780511662201},
-    volume = {120},
-    year = {1996}
+     author        = {Edmunds, D. E. and Triebel, H.},
+     doi           = {10.1017/CBO9780511662201},
+     isbn          = {0-521-56036-5},
+     mrclass       = {46E35 (35J70 35P15 35P20 47B06 47G30)},
+     mrnumber      = {1410258},
+     mrreviewer    = {Georgi E. Karadzhov},
+     pages         = {xii+252},
+     publisher     = {Cambridge University Press, Cambridge},
+     series        = {Cambridge Tracts in Mathematics},
+     title         = {Function spaces, entropy numbers, differential operators},
+     url           = {https://doi.org/10.1017/CBO9780511662201},
+     volume        = {120},
+     year          = {1996}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

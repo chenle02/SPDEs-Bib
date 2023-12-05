@@ -8,20 +8,20 @@ delgado-vences.sanz-sole:14:approximation
 .. code-block:: bibtex
 
    @article{delgado-vences.sanz-sole:14:approximation,
-    author = {Delgado-Vences, Francisco J. and Sanz-Sol\'{e}, Marta},
-    doi = {10.3150/13-BEJ554},
-    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
-    issn = {1350-7265},
-    journal = {Bernoulli},
-    mrclass = {60H15 (65M75)},
-    mrnumber = {3263102},
-    mrreviewer = {Markus Kunze},
-    number = {4},
-    pages = {2169--2216},
-    title = {Approximation of a stochastic wave equation in dimension three, with application to a support theorem in {H}\"{o}lder norm},
-    url = {https://doi.org/10.3150/13-BEJ554},
-    volume = {20},
-    year = {2014}
+     author        = {Delgado-Vences, Francisco J. and Sanz-Sol\'{e}, Marta},
+     doi           = {10.3150/13-BEJ554},
+     fjournal      = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+     issn          = {1350-7265},
+     journal       = {Bernoulli},
+     mrclass       = {60H15 (65M75)},
+     mrnumber      = {3263102},
+     mrreviewer    = {Markus Kunze},
+     number        = {4},
+     pages         = {2169--2216},
+     title         = {Approximation of a stochastic wave equation in dimension three, with application to a support theorem in {H}\"{o}lder norm},
+     url           = {https://doi.org/10.3150/13-BEJ554},
+     volume        = {20},
+     year          = {2014}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

@@ -8,19 +8,19 @@ guttorp.gneiting:06:studies
 .. code-block:: bibtex
 
    @article{guttorp.gneiting:06:studies,
-    author = {Guttorp, Peter and Gneiting, Tilmann},
-    doi = {10.1093/biomet/93.4.989},
-    fjournal = {Biometrika},
-    issn = {0006-3444},
-    journal = {Biometrika},
-    mrclass = {62-03 (01A05)},
-    mrnumber = {2285084},
-    number = {4},
-    pages = {989--995},
-    title = {Studies in the history of probability and statistics. {XLIX}. {O}n the {M}at\'{e}rn correlation family},
-    url = {https://doi.org/10.1093/biomet/93.4.989},
-    volume = {93},
-    year = {2006}
+     author        = {Guttorp, Peter and Gneiting, Tilmann},
+     doi           = {10.1093/biomet/93.4.989},
+     fjournal      = {Biometrika},
+     issn          = {0006-3444},
+     journal       = {Biometrika},
+     mrclass       = {62-03 (01A05)},
+     mrnumber      = {2285084},
+     number        = {4},
+     pages         = {989--995},
+     title         = {Studies in the history of probability and statistics. {XLIX}. {O}n the {M}at\'{e}rn correlation family},
+     url           = {https://doi.org/10.1093/biomet/93.4.989},
+     volume        = {93},
+     year          = {2006}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_

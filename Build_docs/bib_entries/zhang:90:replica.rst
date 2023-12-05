@@ -8,18 +8,18 @@ zhang:90:replica
 .. code-block:: bibtex
 
    @article{zhang:90:replica,
-    author = {Zhang, Yi-Cheng},
-    doi = {10.1103/PhysRevB.42.4897},
-    issue = {7},
-    journal = {Phys. Rev. B},
-    month = {Sep},
-    numpages = {0},
-    pages = {4897--4900},
-    publisher = {American Physical Society},
-    title = {Replica scaling analysis of interfaces in random media},
-    url = {https://link.aps.org/doi/10.1103/PhysRevB.42.4897},
-    volume = {42},
-    year = {1990}
+     author        = {Zhang, Yi-Cheng},
+     doi           = {10.1103/PhysRevB.42.4897},
+     issue         = {7},
+     journal       = {Phys. Rev. B},
+     month         = {Sep},
+     numpages      = {0},
+     pages         = {4897--4900},
+     publisher     = {American Physical Society},
+     title         = {Replica scaling analysis of interfaces in random media},
+     url           = {https://link.aps.org/doi/10.1103/PhysRevB.42.4897},
+     volume        = {42},
+     year          = {1990}
    }
 
 `Back to index <../By-Cite-Keys.rst>`_
