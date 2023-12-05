@@ -8,6 +8,7 @@
 import bibtexparser
 from bibtexparser.bwriter import BibTexWriter
 import os
+import glob
 
 # Set BibTeX and parent RST file names
 bib_file_name = "../All.bib"
@@ -17,9 +18,17 @@ parent_rst_name = "By-Cite-Keys.rst"
 with open(bib_file_name) as bibtex_file:
     bib_database = bibtexparser.load(bibtex_file)
 
-# Ensure directories for individual entries and bib files exist
+# Ensure directories for individual entries and bib files exist and empty them
+# before writing new files
 os.makedirs("bib_entries", exist_ok=True)
 os.makedirs("bib_files", exist_ok=True)
+directories = ["bib_entries", "bib_files"]
+for directory in directories:
+    # Get all file paths in the directory
+    files = glob.glob(os.path.join(directory, '*'))
+    # Remove each file
+    for f in files:
+        os.remove(f)
 
 # BibTeX writer for creating individual bib files
 writer = BibTexWriter()
