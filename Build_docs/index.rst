@@ -6,6 +6,11 @@
 Welcome to SPDEs-Bib's documentation!
 =====================================
 
+.. image:: ../SPDE-Logo.png
+   :alt: Statistics of the SPDEs-Bib
+   :width: 300px
+   :align: center
+
 Contents
 --------
 
@@ -13,7 +18,8 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   citations-test.rst
+   Introduction
+   By-Cite-Keys.rst
 
 Bibliography
 ------------
@@ -23,6 +29,4 @@ Bibliography
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
