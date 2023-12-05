@@ -1,0 +1,30 @@
+yau:04:t23
+==========
+
+.. :cite:t:`yau:04:t23`
+
+.. bibliography:: ../../All.bib
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{yau:04:t23,
+   url = {https://doi.org/10.4007/annals.2004.159.377},
+   doi = {10.4007/annals.2004.159.377},
+   mrreviewer = {Laurent Miclo},
+   mrnumber = {2052358},
+   mrclass = {60K35 (60J25 60J35)},
+   issn = {0003-486X},
+   pages = {377--405},
+   number = {1},
+   year = {2004},
+   volume = {159},
+   fjournal = {Annals of Mathematics. Second Series},
+   journal = {Ann. of Math. (2)},
+   title = {{$(\log t)^{2/3}$} law of the two dimensional asymmetric simple exclusion process},
+   author = {Yau, Horng-Tzer},
+   ID = {yau:04:t23},
+   }
+
+`Back to index <../index>`_

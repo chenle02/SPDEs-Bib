@@ -13,12 +13,12 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   citations.rst
+   citations-test.rst
 
 Bibliography
 ------------
 
-.. bibliography:: ../All.bib
+.. bibliography:: ../All-test.bib
 
 Indices and tables
 ==================
