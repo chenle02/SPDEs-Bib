@@ -15,19 +15,20 @@ Sources
 
 Here is a reference bank. The biblatex entries were mostly obtained from
 
-.. centered:: `MathSciNet <https://mathscinet.ams.org/mathscinet>`
+.. centered:: `MathSciNet <https://mathscinet.ams.org/mathscinet>`_ : `https://mathscinet.ams.org/`
 
 for the published mathematics papers and from the *arXiv* for
 the preprint. Some physics papers are obtained from
 
-.. centered:: `APS Journals <https://journals.aps.org/search/>`
+.. centered:: `APS Journals <https://journals.aps.org/search/>`_ : `https://journals.aps.org/`
 
 For papers that do not originate from the aforementioned sources, we
 endeavor to retrieve the bibliography entry directly from the official journal
-website to ensure maximum accuracy of the records.
+website to ensure maximum accuracy of the records. We also include many preprint
+from the *arXiv*.
 
-Status and Satistics
---------------------
+Status and Statistics
+----------------------
 
 The current statistics of the bibliography bank is shown in the following
 figure:
@@ -90,6 +91,13 @@ The naming convention consists of three makeup cases:
       \cite{einstein.grothendieck.ea:25:private}
 
 Here is a demonstration how to use it in neovim: `Asciinema Demo <https://asciinema.org/a/596819>`_.
+
+Download
+--------
+
+Download all the biblatex entries from the following link:
+
+.. centered:: `All.bib <https://raw.githubusercontent.com/chenle02/SPDEs-Bib/main/All.bib>`_ : `https://raw.githubusercontent.com/chenle02/SPDEs-Bib/main/All.bib`
 
 How to contribute
 -----------------
