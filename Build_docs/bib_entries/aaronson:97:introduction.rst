@@ -5,7 +5,7 @@ aaronson:97:introduction
 
 **BibTeX Entry:**
 
-.. code-block:: latex
+.. code-block:: bibtex
 
    @book{aaronson:97:introduction,
     author = {Aaronson, Jon},

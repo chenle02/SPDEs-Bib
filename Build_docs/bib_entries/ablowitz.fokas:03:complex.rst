@@ -5,7 +5,7 @@ ablowitz.fokas:03:complex
 
 **BibTeX Entry:**
 
-.. code-block:: latex
+.. code-block:: bibtex
 
    @book{ablowitz.fokas:03:complex,
     author = {Ablowitz, Mark J. and Fokas, Athanassios S.},

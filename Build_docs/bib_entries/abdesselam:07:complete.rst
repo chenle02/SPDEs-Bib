@@ -5,7 +5,7 @@ abdesselam:07:complete
 
 **BibTeX Entry:**
 
-.. code-block:: latex
+.. code-block:: bibtex
 
    @article{abdesselam:07:complete,
     author = {Abdesselam, Abdelmalek},
