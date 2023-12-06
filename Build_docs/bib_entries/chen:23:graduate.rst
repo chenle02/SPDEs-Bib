@@ -14,7 +14,7 @@ chen:23:graduate
      month         = {nov},
      publisher     = {GitHub \& Zenodo},
      title         = {Graduate Student Seminars by {Le Chen}},
-     url           = {https://doi.org/10.5281/zenodo.10206966},
+     url           = {https://github.com/chenle02/Graduate\_Student\_Seminars\_by\_Le\_Chen},
      year          = {2023}
    }
 

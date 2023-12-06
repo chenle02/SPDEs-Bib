@@ -14,7 +14,7 @@ chen:23:statistics
      month         = {nov},
      publisher     = {GitHub \& Zenodo},
      title         = {Statistics: Open Slides},
-     url           = {https://doi.org/10.5281/zenodo.10206720},
+     url           = {https://github.com/chenle02/Open\_Slides\_Statistics},
      year          = {2023}
    }
 

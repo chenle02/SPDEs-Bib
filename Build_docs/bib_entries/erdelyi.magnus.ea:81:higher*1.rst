@@ -11,11 +11,11 @@ erdelyi.magnus.ea:81:higher*1
      author        = {Erd\'{e}lyi, Arthur and Magnus, Wilhelm and Oberhettinger, Fritz and Tricomi, Francesco G.},
      isbn          = {0-89874-069-X},
      mrclass       = {33-02 (01A75)},
-     mrnumber      = {698780},
-     note          = {Based on notes left by Harry Bateman, Reprint of the 1953 original},
-     pages         = {xviii+396},
+     mrnumber      = {698779},
+     note          = {Based on notes left by Harry Bateman, With a preface by Mina Rees, With a foreword by E. C. Watson, Reprint of the 1953 original},
+     pages         = {xiii+302},
      publisher     = {Robert E. Krieger Publishing Co., Inc., Melbourne, Fla.},
-     title         = {Higher transcendental functions. {V}ol. {II}},
+     title         = {Higher transcendental functions. {V}ol. {I}},
      year          = {1981}
    }
 

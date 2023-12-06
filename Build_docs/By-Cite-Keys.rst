@@ -3270,7 +3270,6 @@ Here is a list of all entries in the SPDEs-Bib database:
 - :cite:t:`mckean:63:brownian` : `mckean:63:brownian <bib_entries/mckean:63:brownian.html>`_
 - :cite:t:`mckean:67:exponential` : `mckean:67:exponential <bib_entries/mckean:67:exponential.html>`_
 - :cite:t:`mckean:94:limit` : `mckean:94:limit <bib_entries/mckean:94:limit.html>`_
-- :cite:t:`meakin.jullien.ea:86:large-scale` : `meakin.jullien.ea:86:large-scale <bib_entries/meakin.jullien.ea:86:large-scale.html>`_
 - :cite:t:`meakin.jullien:89:spatially` : `meakin.jullien:89:spatially <bib_entries/meakin.jullien:89:spatially.html>`_
 - :cite:t:`meakin.jullien:90:spatially` : `meakin.jullien:90:spatially <bib_entries/meakin.jullien:90:spatially.html>`_
 - :cite:t:`meakin.ramanlal.ea:86:ballistic` : `meakin.ramanlal.ea:86:ballistic <bib_entries/meakin.ramanlal.ea:86:ballistic.html>`_
@@ -4591,7 +4590,6 @@ Here is a list of all entries in the SPDEs-Bib database:
 - :cite:t:`zabczyk:97:stopping` : `zabczyk:97:stopping <bib_entries/zabczyk:97:stopping.html>`_
 - :cite:t:`zabczyk:99:infinite-dimensional` : `zabczyk:99:infinite-dimensional <bib_entries/zabczyk:99:infinite-dimensional.html>`_
 - :cite:t:`zabczyk:99:parabolic` : `zabczyk:99:parabolic <bib_entries/zabczyk:99:parabolic.html>`_
-- :cite:t:`zabolitzky.stauffer:86:simulation` : `zabolitzky.stauffer:86:simulation <bib_entries/zabolitzky.stauffer:86:simulation.html>`_
 - :cite:t:`zabrodin:11:random` : `zabrodin:11:random <bib_entries/zabrodin:11:random.html>`_
 - :cite:t:`zaidi.nualart:99:burgers` : `zaidi.nualart:99:burgers <bib_entries/zaidi.nualart:99:burgers.html>`_
 - :cite:t:`zakai.zeitouni:92:when` : `zakai.zeitouni:92:when <bib_entries/zakai.zeitouni:92:when.html>`_
@@ -4625,7 +4623,7 @@ Here is a list of all entries in the SPDEs-Bib database:
 - :cite:t:`zeitouni:16:branching` : `zeitouni:16:branching <bib_entries/zeitouni:16:branching.html>`_
 - :cite:t:`zeitouni:16:filtering` : `zeitouni:16:filtering <bib_entries/zeitouni:16:filtering.html>`_
 - :cite:t:`zeitouni:18:conversation` : `zeitouni:18:conversation <bib_entries/zeitouni:18:conversation.html>`_
-- :cite:t:`zeitouni:22:it-the-random-matrix-theory-of-the-classical-compact-groups` : `zeitouni:22:it-the-random-matrix-theory-of-the-classical-compact-groups <bib_entries/zeitouni:22:it-the-random-matrix-theory-of-the-classical-compact-groups.html>`_
+- :cite:t:`zeitouni:22:random` : `zeitouni:22:random <bib_entries/zeitouni:22:random.html>`_
 - :cite:t:`zeitouni:83:on` : `zeitouni:83:on <bib_entries/zeitouni:83:on.html>`_
 - :cite:t:`zeitouni:84:extension` : `zeitouni:84:extension <bib_entries/zeitouni:84:extension.html>`_
 - :cite:t:`zeitouni:84:on` : `zeitouni:84:on <bib_entries/zeitouni:84:on.html>`_

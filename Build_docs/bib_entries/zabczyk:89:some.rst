@@ -7,20 +7,15 @@ zabczyk:89:some
 
 .. code-block:: bibtex
 
-   @article{zabczyk:89:some,
-     author        = {Zabczyk, J.},
-     doi           = {10.1007/BF01448189},
-     fjournal      = {Applied Mathematics and Optimization},
-     issn          = {0095-4616},
-     journal       = {Appl. Math. Optim.},
-     mrclass       = {93D15 (93C15 93D20)},
-     mrnumber      = {955087},
-     mrreviewer    = {Enrique Zuazua},
-     number        = {1},
-     pages         = {1--9},
-     title         = {Some comments on stabilizability},
-     url           = {https://doi.org/10.1007/BF01448189},
-     volume        = {19},
+   @inproceedings{zabczyk:89:some,
+     author        = {Zabczyk, Jerzy},
+     booktitle     = {Proceedings of the 28th {IEEE} {C}onference on {D}ecision and {C}ontrol, {V}ol. 1--3 ({T}ampa, {FL}, 1989)},
+     mrclass       = {93E03 (93C25)},
+     mrnumber      = {1038935},
+     mrreviewer    = {Akira Ichikawa},
+     pages         = {229--231},
+     publisher     = {IEEE, New York},
+     title         = {Some interplays between control theory and stochastic systems},
      year          = {1989}
    }
 

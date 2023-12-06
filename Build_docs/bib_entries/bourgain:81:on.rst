@@ -9,18 +9,16 @@ bourgain:81:on
 
    @article{bourgain:81:on,
      author        = {Bourgain, J.},
-     doi           = {10.2307/2044207},
-     fjournal      = {Proceedings of the American Mathematical Society},
-     issn          = {0002-9939,1088-6826},
-     journal       = {Proc. Amer. Math. Soc.},
-     mrclass       = {46E40 (28B99 46B20)},
-     mrnumber      = {593470},
-     mrreviewer    = {J.\ J.\ Uhl, Jr.},
+     fjournal      = {Bulletin de la Soci\'{e}t\'{e} Math\'{e}matique de Belgique. S\'{e}rie B},
+     issn          = {0037-9476},
+     journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
+     mrclass       = {10G05 (10H15 42A45)},
+     mrnumber      = {682653},
+     mrreviewer    = {Ekkehard\ Kr\"{a}tzel},
      number        = {2},
-     pages         = {265--272},
-     title         = {On the {D}unford-{P}ettis property},
-     url           = {https://doi.org/10.2307/2044207},
-     volume        = {81},
+     pages         = {289--294},
+     title         = {On trigonometric sums with prime frequencies},
+     volume        = {33},
      year          = {1981}
    }
 

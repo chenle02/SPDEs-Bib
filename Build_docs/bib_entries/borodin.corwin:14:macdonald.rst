@@ -7,20 +7,14 @@ borodin.corwin:14:macdonald
 
 .. code-block:: bibtex
 
-   @article{borodin.corwin:14:macdonald,
-     author        = {Borodin, Alexei and Corwin, Ivan},
-     doi           = {10.1007/s00440-013-0482-3},
-     fjournal      = {Probability Theory and Related Fields},
-     issn          = {0178-8051},
-     journal       = {Probab. Theory Related Fields},
-     mrclass       = {60K35 (33D52 60H15 82B23 82C22)},
-     mrnumber      = {3152785},
-     mrreviewer    = {Rongfeng Sun},
-     number        = {1-2},
-     pages         = {225--400},
+   @incollection{borodin.corwin:14:macdonald,
+     author        = {Borodin, A. and Corwin, I.},
+     booktitle     = {X{VII}th {I}nternational {C}ongress on {M}athematical {P}hysics},
+     mrclass       = {60K35 (60B99 82B23 82C22)},
+     mrnumber      = {3204480},
+     pages         = {292--316},
+     publisher     = {World Sci. Publ., Hackensack, NJ},
      title         = {Macdonald processes},
-     url           = {https://doi.org/10.1007/s00440-013-0482-3},
-     volume        = {158},
      year          = {2014}
    }
 
