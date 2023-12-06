@@ -21,4 +21,4 @@ balazs.busani.ea:20:non-existence
      year          = {2020}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

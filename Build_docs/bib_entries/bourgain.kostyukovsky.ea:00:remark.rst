@@ -22,4 +22,4 @@ bourgain.kostyukovsky.ea:00:remark
      year          = {2000/01}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,4 @@ da-prato.goldys.ea:97:ornstein-uhlenbeck
      year          = {1997}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

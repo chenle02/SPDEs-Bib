@@ -22,4 +22,4 @@ duplantier:81:linking
      year          = {1981/82}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

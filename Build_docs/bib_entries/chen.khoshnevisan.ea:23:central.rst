@@ -23,4 +23,4 @@ chen.khoshnevisan.ea:23:central
      year          = {2023}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

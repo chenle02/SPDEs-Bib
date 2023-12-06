@@ -24,4 +24,4 @@ jolis:10:wiener
      year          = {2010}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

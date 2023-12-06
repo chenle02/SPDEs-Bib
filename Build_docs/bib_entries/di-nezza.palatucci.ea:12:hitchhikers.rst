@@ -24,4 +24,4 @@ di-nezza.palatucci.ea:12:hitchhikers
      year          = {2012}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

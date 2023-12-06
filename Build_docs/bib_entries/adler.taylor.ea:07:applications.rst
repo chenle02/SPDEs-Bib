@@ -15,4 +15,4 @@ adler.taylor.ea:07:applications
      year          = {2007}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

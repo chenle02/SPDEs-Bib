@@ -24,4 +24,4 @@ comets.quastel.ea:07:fluctuations
      year          = {2007}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

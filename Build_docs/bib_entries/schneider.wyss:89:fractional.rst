@@ -24,4 +24,4 @@ schneider.wyss:89:fractional
      year          = {1989}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

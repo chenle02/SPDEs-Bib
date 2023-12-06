@@ -18,4 +18,4 @@ gelfand.shilov:64:generalized
      year          = {1964}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

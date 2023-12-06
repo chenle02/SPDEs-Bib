@@ -24,4 +24,4 @@ kim.sowers:12:numerical
      year          = {2012}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

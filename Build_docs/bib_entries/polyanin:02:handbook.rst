@@ -18,4 +18,4 @@ polyanin:02:handbook
      year          = {2002}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

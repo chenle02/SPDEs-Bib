@@ -22,4 +22,4 @@ sinaui:82:limit
      year          = {1982}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

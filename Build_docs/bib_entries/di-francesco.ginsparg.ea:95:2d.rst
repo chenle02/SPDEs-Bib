@@ -24,4 +24,4 @@ di-francesco.ginsparg.ea:95:2d
      year          = {1995}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

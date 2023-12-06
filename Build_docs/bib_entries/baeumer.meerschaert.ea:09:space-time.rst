@@ -24,4 +24,4 @@ baeumer.meerschaert.ea:09:space-time
      year          = {2009}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

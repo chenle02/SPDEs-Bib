@@ -23,4 +23,4 @@ garsia.rodemich.ea:70:real
      year          = {1970/71}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

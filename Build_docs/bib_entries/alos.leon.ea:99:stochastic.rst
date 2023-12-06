@@ -24,4 +24,4 @@ alos.leon.ea:99:stochastic
      year          = {1999}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

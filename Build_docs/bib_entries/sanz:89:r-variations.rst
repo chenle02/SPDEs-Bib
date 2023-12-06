@@ -24,4 +24,4 @@ sanz:89:r-variations
      year          = {1989}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

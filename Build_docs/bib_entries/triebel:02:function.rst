@@ -24,4 +24,4 @@ triebel:02:function
      year          = {2002}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

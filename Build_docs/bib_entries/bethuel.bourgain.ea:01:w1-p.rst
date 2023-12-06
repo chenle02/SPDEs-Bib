@@ -24,4 +24,4 @@ bethuel.bourgain.ea:01:w1-p
      year          = {2001}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

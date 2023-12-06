@@ -24,4 +24,4 @@ quer-sardanyons.tindel:07:1-d
      year          = {2007}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

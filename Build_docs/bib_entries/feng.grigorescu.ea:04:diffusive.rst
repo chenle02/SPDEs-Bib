@@ -24,4 +24,4 @@ feng.grigorescu.ea:04:diffusive
      year          = {2004}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

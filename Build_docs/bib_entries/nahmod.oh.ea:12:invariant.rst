@@ -23,4 +23,4 @@ nahmod.oh.ea:12:invariant
      year          = {2012}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

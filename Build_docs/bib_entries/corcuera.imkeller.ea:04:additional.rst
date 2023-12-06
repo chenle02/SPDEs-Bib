@@ -23,4 +23,4 @@ corcuera.imkeller.ea:04:additional
      year          = {2004}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,4 @@ palmer.tracy:83:two-dimensional
      year          = {1983}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

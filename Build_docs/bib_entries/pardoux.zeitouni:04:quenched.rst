@@ -24,4 +24,4 @@ pardoux.zeitouni:04:quenched
      year          = {2004/05}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,4 @@ cannizzaro.erhard.ea:21:2d
      year          = {2021}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

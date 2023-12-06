@@ -20,4 +20,4 @@ mueller.tribe:02:measure-valued
      year          = {2002}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

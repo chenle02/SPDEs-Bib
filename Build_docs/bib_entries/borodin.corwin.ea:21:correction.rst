@@ -23,4 +23,4 @@ borodin.corwin.ea:21:correction
      year          = {2021}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

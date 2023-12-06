@@ -22,4 +22,4 @@ nourdin.peccati.ea:19:berry-esseen
      year          = {2019}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

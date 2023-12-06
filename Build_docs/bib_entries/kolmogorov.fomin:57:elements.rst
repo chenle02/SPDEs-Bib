@@ -18,4 +18,4 @@ kolmogorov.fomin:57:elements
      year          = {1957}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

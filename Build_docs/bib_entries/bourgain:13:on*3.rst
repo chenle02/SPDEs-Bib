@@ -23,4 +23,4 @@ bourgain:13:on*3
      year          = {2013}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

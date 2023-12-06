@@ -23,4 +23,4 @@ celledoni.di-nunno.ea:18:computation
      year          = {2018}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

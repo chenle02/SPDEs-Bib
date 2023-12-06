@@ -23,4 +23,4 @@ cairoli.walsh:75:stochastic
      year          = {1975}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

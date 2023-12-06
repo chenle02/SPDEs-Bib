@@ -22,4 +22,4 @@ tamborenea.das-sarma:93:surface-diffusion-driven
      year          = {1993}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

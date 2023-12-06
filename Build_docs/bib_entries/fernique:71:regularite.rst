@@ -23,4 +23,4 @@ fernique:71:regularite
      year          = {1971}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

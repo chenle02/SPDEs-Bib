@@ -24,4 +24,4 @@ rassoul-agha.seppalainen:11:process-level
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

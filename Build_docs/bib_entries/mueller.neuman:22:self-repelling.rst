@@ -20,4 +20,4 @@ mueller.neuman:22:self-repelling
      year          = {2022}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

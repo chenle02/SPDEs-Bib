@@ -24,4 +24,4 @@ caruana.friz.ea:11:rough
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

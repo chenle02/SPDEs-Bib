@@ -22,4 +22,4 @@ hu.lu.ea:13:non-degeneracy
      year          = {2013}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

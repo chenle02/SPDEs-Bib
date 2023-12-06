@@ -25,4 +25,4 @@ dalang.sanz-sole:09:holder-sobolev
      year          = {2009}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

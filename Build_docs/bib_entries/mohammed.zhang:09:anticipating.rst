@@ -24,4 +24,4 @@ mohammed.zhang:09:anticipating
      year          = {2009}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

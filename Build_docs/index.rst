@@ -19,7 +19,8 @@ Contents
    :caption: Contents:
 
    Introduction
-   By-Cite-Keys.rst
+   By-Cite-Keys
+   Contact
 
 Bibliography
 ------------

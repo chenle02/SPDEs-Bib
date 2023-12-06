@@ -24,4 +24,4 @@ darses.nourdin.ea:09:differentiating
      year          = {2009}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

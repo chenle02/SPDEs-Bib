@@ -24,4 +24,4 @@ ledoux.talagrand:91:probability
      year          = {1991}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

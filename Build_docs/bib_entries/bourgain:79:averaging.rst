@@ -24,4 +24,4 @@ bourgain:79:averaging
      year          = {1979}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

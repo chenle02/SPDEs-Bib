@@ -24,4 +24,4 @@ del-moral.tindel:05:berry-esseen
      year          = {2005}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

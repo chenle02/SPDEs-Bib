@@ -24,4 +24,4 @@ corwin.quastel.ea:15:renormalization
      year          = {2015}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

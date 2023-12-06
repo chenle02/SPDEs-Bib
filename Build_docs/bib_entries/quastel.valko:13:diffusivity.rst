@@ -24,4 +24,4 @@ quastel.valko:13:diffusivity
      year          = {2013}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

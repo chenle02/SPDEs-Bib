@@ -24,4 +24,4 @@ das.dhar.ea:90:new
      year          = {1990}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

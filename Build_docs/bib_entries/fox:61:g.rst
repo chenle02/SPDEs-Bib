@@ -23,4 +23,4 @@ fox:61:g
      year          = {1961}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,4 @@ sanz-sole.vuillermot:02:holder-sobolev
      year          = {2002}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

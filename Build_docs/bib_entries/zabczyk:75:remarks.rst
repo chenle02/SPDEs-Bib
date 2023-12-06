@@ -23,4 +23,4 @@ zabczyk:75:remarks
      year          = {1975/76}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

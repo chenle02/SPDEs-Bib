@@ -24,4 +24,4 @@ geng.ouyang.ea:22:precise
      year          = {2022}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

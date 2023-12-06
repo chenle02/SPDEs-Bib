@@ -24,4 +24,4 @@ nourdin.peccati.ea:09:second
      year          = {2009}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

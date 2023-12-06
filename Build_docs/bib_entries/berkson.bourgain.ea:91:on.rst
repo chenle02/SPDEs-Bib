@@ -24,4 +24,4 @@ berkson.bourgain.ea:91:on
      year          = {1991}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

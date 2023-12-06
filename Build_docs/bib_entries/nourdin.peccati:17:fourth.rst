@@ -21,4 +21,4 @@ nourdin.peccati:17:fourth
      year          = {2017}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

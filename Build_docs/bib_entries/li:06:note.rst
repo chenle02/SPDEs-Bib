@@ -23,4 +23,4 @@ li:06:note
      year          = {2006/07}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

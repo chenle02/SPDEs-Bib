@@ -24,4 +24,4 @@ breuer.simon.ea:18:large*1
      year          = {2018}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

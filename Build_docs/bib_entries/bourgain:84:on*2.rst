@@ -23,4 +23,4 @@ bourgain:84:on*2
      year          = {1984}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

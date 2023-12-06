@@ -19,4 +19,4 @@ stein:70:singular
      year          = {1970}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -19,4 +19,4 @@ widder:41:laplace
      year          = {1941}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

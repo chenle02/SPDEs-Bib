@@ -24,4 +24,4 @@ polchinski:90:critical
      year          = {1990}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

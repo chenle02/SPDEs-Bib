@@ -24,4 +24,4 @@ dembo.peres.ea:01:thick
      year          = {2001}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

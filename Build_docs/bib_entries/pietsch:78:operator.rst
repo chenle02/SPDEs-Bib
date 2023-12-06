@@ -20,4 +20,4 @@ pietsch:78:operator
      year          = {1978}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

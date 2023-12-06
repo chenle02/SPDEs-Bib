@@ -23,4 +23,4 @@ andreoli.caravenna.ea:12:scaling
      year          = {2012}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

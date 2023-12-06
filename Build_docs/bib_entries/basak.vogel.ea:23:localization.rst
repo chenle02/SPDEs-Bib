@@ -23,4 +23,4 @@ basak.vogel.ea:23:localization
      year          = {2023}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

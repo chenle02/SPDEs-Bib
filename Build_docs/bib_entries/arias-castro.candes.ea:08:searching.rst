@@ -23,4 +23,4 @@ arias-castro.candes.ea:08:searching
      year          = {2008}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

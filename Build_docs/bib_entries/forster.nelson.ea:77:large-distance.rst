@@ -24,4 +24,4 @@ forster.nelson.ea:77:large-distance
      year          = {1977}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

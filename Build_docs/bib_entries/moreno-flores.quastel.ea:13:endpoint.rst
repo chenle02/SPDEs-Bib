@@ -24,4 +24,4 @@ moreno-flores.quastel.ea:13:endpoint
      year          = {2013}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

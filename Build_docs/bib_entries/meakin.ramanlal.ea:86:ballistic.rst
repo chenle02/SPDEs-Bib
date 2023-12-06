@@ -22,4 +22,4 @@ meakin.ramanlal.ea:86:ballistic
      year          = {1986}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

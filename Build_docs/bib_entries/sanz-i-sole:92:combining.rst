@@ -20,4 +20,4 @@ sanz-i-sole:92:combining
      year          = {1992}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

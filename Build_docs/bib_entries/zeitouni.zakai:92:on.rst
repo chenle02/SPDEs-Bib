@@ -24,4 +24,4 @@ zeitouni.zakai:92:on
      year          = {1992}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

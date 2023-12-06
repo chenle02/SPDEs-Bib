@@ -24,4 +24,4 @@ priola.zabczyk:11:structural
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

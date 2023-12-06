@@ -23,4 +23,4 @@ pardoux.protter:90:stochastic
      year          = {1990}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

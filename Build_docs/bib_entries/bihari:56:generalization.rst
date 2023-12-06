@@ -23,4 +23,4 @@ bihari:56:generalization
      year          = {1956}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

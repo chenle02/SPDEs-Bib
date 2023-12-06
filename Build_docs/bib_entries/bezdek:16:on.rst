@@ -24,4 +24,4 @@ bezdek:16:on
      year          = {2016}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

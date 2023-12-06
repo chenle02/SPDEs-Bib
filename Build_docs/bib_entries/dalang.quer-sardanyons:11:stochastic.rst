@@ -24,4 +24,4 @@ dalang.quer-sardanyons:11:stochastic
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

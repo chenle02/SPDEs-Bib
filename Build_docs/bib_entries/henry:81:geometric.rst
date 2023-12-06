@@ -21,4 +21,4 @@ henry:81:geometric
      year          = {1981}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

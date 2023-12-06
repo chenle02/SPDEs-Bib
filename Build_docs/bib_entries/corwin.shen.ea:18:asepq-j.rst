@@ -24,4 +24,4 @@ corwin.shen.ea:18:asepq-j
      year          = {2018}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

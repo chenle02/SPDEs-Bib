@@ -24,4 +24,4 @@ bourgain.brezis:07:new
      year          = {2007}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

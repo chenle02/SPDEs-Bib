@@ -21,4 +21,4 @@ lieb.liniger:63:exact
      year          = {1963}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

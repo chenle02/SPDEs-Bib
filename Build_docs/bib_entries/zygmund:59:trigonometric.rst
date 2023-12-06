@@ -18,4 +18,4 @@ zygmund:59:trigonometric
      year          = {1959}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

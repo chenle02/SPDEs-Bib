@@ -24,4 +24,4 @@ przytycki.rivera-letelier.ea:04:equality
      year          = {2004}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

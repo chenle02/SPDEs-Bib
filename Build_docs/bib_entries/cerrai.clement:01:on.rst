@@ -25,4 +25,4 @@ cerrai.clement:01:on
      year          = {2001}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

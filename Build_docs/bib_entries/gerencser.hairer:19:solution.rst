@@ -24,4 +24,4 @@ gerencser.hairer:19:solution
      year          = {2019}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

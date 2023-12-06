@@ -21,4 +21,4 @@ mainardi.mura.ea:10:m-wright
      year          = {2010}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

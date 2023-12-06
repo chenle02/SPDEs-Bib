@@ -24,4 +24,4 @@ nualart.zakai:86:generalized
      year          = {1986}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

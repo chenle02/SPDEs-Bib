@@ -24,4 +24,4 @@ hu.lee.ea:15:parameter
      year          = {2015}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

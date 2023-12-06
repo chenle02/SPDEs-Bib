@@ -24,4 +24,4 @@ bennett.carbery.ea:08:brascamp-lieb
      year          = {2008}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

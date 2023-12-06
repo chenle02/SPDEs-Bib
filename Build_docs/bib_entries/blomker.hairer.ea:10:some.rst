@@ -20,4 +20,4 @@ blomker.hairer.ea:10:some
      year          = {2010}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

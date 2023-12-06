@@ -21,4 +21,4 @@ da-prato.fuhrman.ea:02:note
      year          = {2002}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

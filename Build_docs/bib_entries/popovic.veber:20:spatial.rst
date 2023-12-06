@@ -16,4 +16,4 @@ popovic.veber:20:spatial
      year          = {2020}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

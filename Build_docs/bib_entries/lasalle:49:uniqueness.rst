@@ -23,4 +23,4 @@ lasalle:49:uniqueness
      year          = {1949}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

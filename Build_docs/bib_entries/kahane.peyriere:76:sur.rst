@@ -24,4 +24,4 @@ kahane.peyriere:76:sur
      year          = {1976}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

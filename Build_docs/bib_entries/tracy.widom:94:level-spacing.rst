@@ -23,4 +23,4 @@ tracy.widom:94:level-spacing
      year          = {1994}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

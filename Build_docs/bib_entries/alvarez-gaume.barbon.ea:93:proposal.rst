@@ -24,4 +24,4 @@ alvarez-gaume.barbon.ea:93:proposal
      year          = {1993}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

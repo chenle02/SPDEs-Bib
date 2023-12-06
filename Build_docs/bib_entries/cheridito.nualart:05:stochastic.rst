@@ -24,4 +24,4 @@ cheridito.nualart:05:stochastic
      year          = {2005}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -21,4 +21,4 @@ borecki.caravenna:10:localization
      year          = {2010}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

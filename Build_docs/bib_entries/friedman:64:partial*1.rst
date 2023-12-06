@@ -18,4 +18,4 @@ friedman:64:partial*1
      year          = {1964}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

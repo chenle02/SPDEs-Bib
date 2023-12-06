@@ -22,4 +22,4 @@ caravenna.giacomin.ea:07:infinite
      year          = {2007}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,4 @@ georgiou.rassoul-agha.ea:17:geodesics
      year          = {2017}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

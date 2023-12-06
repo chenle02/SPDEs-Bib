@@ -24,4 +24,4 @@ fleischmann.mueller:04:super-brownian
      year          = {2004/05}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

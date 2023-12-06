@@ -24,4 +24,4 @@ tuan.nane.ea:20:approximation
      year          = {2020}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

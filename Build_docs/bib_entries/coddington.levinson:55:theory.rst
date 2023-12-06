@@ -18,4 +18,4 @@ coddington.levinson:55:theory
      year          = {1955}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

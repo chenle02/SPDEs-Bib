@@ -19,4 +19,4 @@ dembo.zeitouni:93:large
      year          = {1993}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

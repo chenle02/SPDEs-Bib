@@ -23,4 +23,4 @@ young:36:inequality
      year          = {1936}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,4 @@ oksendal.zhang:07:ito-ventzell
      year          = {2007}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,4 @@ gu.komorowski.ea:18:fluctuations
      year          = {2018}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

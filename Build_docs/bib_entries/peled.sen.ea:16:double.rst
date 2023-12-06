@@ -24,4 +24,4 @@ peled.sen.ea:16:double
      year          = {2016}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

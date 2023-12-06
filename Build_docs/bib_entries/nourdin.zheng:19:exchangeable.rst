@@ -22,4 +22,4 @@ nourdin.zheng:19:exchangeable
      year          = {[2019] \copyright 2019}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

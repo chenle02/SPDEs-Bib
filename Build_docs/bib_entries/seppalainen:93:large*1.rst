@@ -24,4 +24,4 @@ seppalainen:93:large*1
      year          = {1993}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,4 @@ kardar.zhang:87:scaling
      year          = {1987}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

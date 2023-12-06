@@ -23,4 +23,4 @@ foondun.mijena.ea:16:non-linear
      year          = {2016}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

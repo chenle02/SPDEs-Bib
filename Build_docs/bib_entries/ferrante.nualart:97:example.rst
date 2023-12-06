@@ -23,4 +23,4 @@ ferrante.nualart:97:example
      year          = {1997}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

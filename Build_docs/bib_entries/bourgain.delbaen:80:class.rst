@@ -24,4 +24,4 @@ bourgain.delbaen:80:class
      year          = {1980}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

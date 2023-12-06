@@ -23,4 +23,4 @@ hormander:67:hypoelliptic
      year          = {1967}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,4 @@ marquez-carreras.rovira.ea:06:asymptotic
      year          = {2006}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

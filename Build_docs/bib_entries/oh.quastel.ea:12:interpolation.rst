@@ -24,4 +24,4 @@ oh.quastel.ea:12:interpolation
      year          = {2012}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,4 @@ viens.zhang:08:almost
      year          = {2008}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_

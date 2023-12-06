@@ -24,4 +24,4 @@ bourgain:00:holder
      year          = {2000}
    }
 
-`Back to index <../By-Cite-Keys.rst>`_
+`Back to index <../By-Cite-Keys.html>`_
