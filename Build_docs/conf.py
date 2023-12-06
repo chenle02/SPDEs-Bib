@@ -7,12 +7,14 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "SPDEs-Bib: A Bibliography for Stochastic Partial Differential Equations and Related Topics"
-copyright = "2023, Le Chen @ Auburn"
-author = "Le Chen (陈乐), Department of Mathematics and Statistics, Auburn University, Alabama, USA"
+copyright = "2023, Le Chen (陈乐) @ Auburn"
+author = "Le Chen (陈乐)"
 # email = "le.chen@auburn.edu, chenle02@gmail.com"
 # affiliation = (
 #     "Department of Mathematics and Statistics, Auburn University, Alabama, USA"
 # )
+
+bibtex_bibfiles = ["../All.bib"]
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -36,6 +38,24 @@ html_theme_options = {
 
 # -- Options for latex pdf output -------------------------------------------------
 # bibtex_bibfiles = ["../All-test.bib"]
-bibtex_bibfiles = ["../All.bib"]
-latex_engine = "xelatex"  # or 'lualatex'
 
+title = "SPDEs-Bib"
+subtitle = "A Bibliography for Stochastic Partial Differential Equations and Related Topics"
+
+latex_engine = "xelatex"  # or 'lualatex'
+latex_elements = {
+    "preamble": f"""
+    \\usepackage{{xeCJK}}
+    \\setCJKmainfont{{Noto Sans CJK SC}}
+    \\usepackage{{titling}}
+    \\pretitle{{\\begin{{center}}\\Huge\\bfseries}}
+    \\posttitle{{\\par\\end{{center}}\\vskip 0.5em}}
+    \\preauthor{{\\begin{{center}}\\large\\lineskip 0.5em%
+                \\begin{{tabular}}[t]{{c}}}}
+    \\postauthor{{\\end{{tabular}}\\par\\end{{center}}}}
+    \\predate{{\\begin{{center}}\\large}}
+    \\postdate{{\\par\\end{{center}}}}
+
+    \\title{{{title} \\vskip 0.5em \\normalsize {subtitle}}}
+    """
+}

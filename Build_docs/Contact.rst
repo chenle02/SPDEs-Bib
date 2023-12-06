@@ -1,6 +1,6 @@
 
-Contact and Affiliation
-=======================
+Contact and Misc
+=================
 
 Author
 ------
@@ -16,7 +16,15 @@ Contact Information
 
 **Alternate Email:** chenle02@gmail.com
 
-**Homepage:** `Le Chen's Homepage <http://webhome.auburn.edu/~lzc0090/>`_
+**Homepage:** `Homepage of Le Chen <http://webhome.auburn.edu/~lzc0090/>`_
+
+
+Project related links
+---------------------
+
+**Bib Bank hosted on Read the Docs:** `https://spdes-bib.readthedocs.io <https://spdes-bib.readthedocs.io>`_
+**Source codes at GitHub Page:** `https://github.com/chenle02/SPDEs-Bib <https://github.com/chenle02/SPDEs-Bib>`_
+**Source codes cross hosted at Zenodo:** `https://zenodo.org/records/10143432 <https://zenodo.org/records/10143432>`_
 
 Acknowledgments
 ----------------

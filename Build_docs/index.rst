@@ -19,8 +19,8 @@ Contents
    :caption: Contents:
 
    Introduction
-   By-Cite-Keys
    Contact
+   By-Cite-Keys
 
 Bibliography
 ------------
