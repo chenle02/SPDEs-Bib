@@ -128,14 +128,13 @@ to use the following BibTeX entry:
 
 .. code-block:: bibtex
 
-   @misc{chen:22:spdes-bib,
-     author       = {Chen, Le},
-     title        = {{SPDEs-Bib}: A Comprehensive Bibliography of
-                     Stochastic Partial Differential Equations
-                     and Related Topics},
-     year         = {2023},
-     publisher    = {GitHub & Zenodo},
-     journal      = {GitHub repository},
-     howpublished = {https://github.com/chenle02/SPDEs-Bib},
-     url          = {https://doi.org/10.5281/zenodo.10143431}
+   @misc{chen:23:spdes-bib,
+     author        = {Le Chen},
+     title         = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
+     month         = {nov},
+     year          = {2023},
+     publisher     = {GitHub, Zenodo, \& Read the Docs},
+     journal       = {GitHub repository},
+     doi           = {10.5281/zenodo.10143431},
+     url           = {https://spdes-bib.readthedocs.io}
    }
