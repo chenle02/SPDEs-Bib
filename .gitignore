@@ -10,6 +10,9 @@
 *.xml
 *.bcf
 *.blg
+*.bbl
+*.toc
+*.run.xml
 *.syntex.gz
 *.toc
 rd8.*
