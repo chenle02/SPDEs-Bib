@@ -2,10 +2,12 @@
 
 ![Logo](./SPDE-Logo.png)
 
+
 <!-- vim-markdown-toc GFM -->
 
 * [SPDEs bibliography maintained by Le Chen](#spdes-bibliography-maintained-by-le-chen)
   * [Motivation](#motivation)
+  * [Current Statistics](#current-statistics)
   * [Demo using nvim](#demo-using-nvim)
   * [The bib file: All.bib.](#the-bib-file-allbib)
   * [Explanations](#explanations)
@@ -27,6 +29,8 @@ correct and updated. This process is also very time-consuming. Through this
 repo, we provide a uniform access to the latest bibliography entries related to
 the research area of the author: _Stochastic Partial Differential Equations
 (SPDEs)_ and related fields.
+
+## Current Statistics
 
 ![Statistics](./Statistics.png)
 
