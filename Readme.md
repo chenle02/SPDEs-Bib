@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/516400216.svg)](https://zenodo.org/doi/10.5281/zenodo.10143431)
+[![DOI](https://zenodo.org/badge/516400216.svg)](https://zenodo.org/doi/10.5281/zenodo.10143431) ![GitHub search hit counter](https://img.shields.io/github/search/chenle02/https%3A%2F%2Fgithub.com%2Fchenle02%2FSPDEs-Bib/:query)
+
 
 <!-- ![Logo](./SPDE-Logo.png) -->
 
