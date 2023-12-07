@@ -29,3 +29,4 @@ All.bbl
 Build_docs/_build
 
 Search_Algolia/test.py
+Build_docs/_templates
