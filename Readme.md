@@ -2,7 +2,7 @@
 
 <!-- ![Logo](./SPDE-Logo.png) -->
 
-<img align="right" width="100" height="100" src="./SPDE-Logo.png">
+<img align="right" width="120" height="120" src="./SPDE-Logo.png">
 <!-- vim-markdown-toc GFM -->
 
 * [SPDEs bibliography maintained by Le Chen](#spdes-bibliography-maintained-by-le-chen)
