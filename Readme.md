@@ -1,27 +1,23 @@
-[![DOI](https://zenodo.org/badge/516400216.svg)](https://zenodo.org/doi/10.5281/zenodo.10143431)
-
-<!-- ![Logo](./SPDE-Logo.png) -->
-
-<img align="right" width="160" height="160" src="./SPDE-Logo.png">
-<!-- vim-markdown-toc GFM -->
-
-* [SPDEs bibliography maintained by Le Chen](#spdes-bibliography-maintained-by-le-chen)
-  * [Motivation](#motivation)
-  * [Current Statistics](#current-statistics)
-  * [Demo using nvim](#demo-using-nvim)
-  * [The bib file: All.bib.](#the-bib-file-allbib)
-  * [Explanations](#explanations)
-  * [Documentation](#documentation)
-  * [Some other related tools](#some-other-related-tools)
-  * [How to contribute](#how-to-contribute)
-  * [Cite this work?](#cite-this-work)
-  * [License](#license)
-
 <!-- vim-markdown-toc -->
 
 # SPDEs bibliography maintained by [Le Chen](http://webhome.auburn.edu/~lzc0090/)
 
-#
+[![DOI](https://zenodo.org/badge/516400216.svg)](https://zenodo.org/doi/10.5281/zenodo.10143431) ![Version](https://img.shields.io/github/v/release/chenle02/SPDEs-Bib) ![License](https://img.shields.io/github/license/chenle02/SPDEs-Bib) ![Downloads](https://img.shields.io/npm/dm/package-name) ![GitHub stars](https://img.shields.io/github/stars/chenle02/SPDEs-Bib) ![GitHub forks](https://img.shields.io/github/forks/chenle02/SPDEs-Bib) ![Twitter Follow](https://img.shields.io/twitter/follow/twitter-chenle02?style=social)
+
+<img align="right" width="160" height="160" src="./SPDE-Logo.png">
+<!-- vim-markdown-toc GFM -->
+
+- [SPDEs bibliography maintained by Le Chen](#spdes-bibliography-maintained-by-le-chen)
+  - [Motivation](#motivation)
+  - [Current Statistics](#current-statistics)
+  - [Demo using nvim](#demo-using-nvim)
+  - [The bib file: All.bib.](#the-bib-file-allbib)
+  - [Explanations](#explanations)
+  - [Documentation](#documentation)
+  - [Some other related tools](#some-other-related-tools)
+  - [How to contribute](#how-to-contribute)
+  - [Cite this work?](#cite-this-work)
+  - [License](#license)
 
 ## Motivation
 
