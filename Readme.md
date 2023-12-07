@@ -2,6 +2,21 @@
 
 ![Logo](./SPDE-Logo.png)
 
+<!-- vim-markdown-toc GFM -->
+
+* [SPDEs bibliography maintained by Le Chen](#spdes-bibliography-maintained-by-le-chen)
+  * [Motivation](#motivation)
+  * [Demo using nvim](#demo-using-nvim)
+  * [The bib file: All.bib.](#the-bib-file-allbib)
+  * [Explanations](#explanations)
+  * [Documentation](#documentation)
+  * [Some other related tools](#some-other-related-tools)
+  * [How to contribute](#how-to-contribute)
+  * [Cite this work?](#cite-this-work)
+  * [License](#license)
+
+<!-- vim-markdown-toc -->
+
 # SPDEs bibliography maintained by [Le Chen](http://webhome.auburn.edu/~lzc0090/)
 #
 
@@ -58,7 +73,7 @@ invaluable to the enhancement of this resource. Please feel free to open an
 issue in the repository or reach out directly via email (chenle02@gmail.com) for
 any such matters. We aim to address all feedback promptly.
 
-# Cite this work?
+## Cite this work?
 
 We hope that the resources compiled in this bibliography bank have been
 supportive in your research endeavors. We are sincerely grateful for any form of
