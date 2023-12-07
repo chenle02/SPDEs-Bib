@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/516400216.svg)](https://zenodo.org/doi/10.5281/zenodo.10143431)
 
-![Logo](./SPDE-Logo.png)
+<!-- ![Logo](./SPDE-Logo.png) -->
 
-
+<img align="right" width="100" height="100" src="./SPDE-Logo.png">
 <!-- vim-markdown-toc GFM -->
 
 * [SPDEs bibliography maintained by Le Chen](#spdes-bibliography-maintained-by-le-chen)
