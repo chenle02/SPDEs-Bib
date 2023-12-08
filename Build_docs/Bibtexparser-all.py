@@ -25,6 +25,7 @@ parent_rst_name = "By-Cite-Keys.rst"
 parent_rst_html = os.path.splitext(parent_rst_name)[0] + '.html'
 
 # Load BibTeX file
+print(f"\nLoading {bib_file_name}...")
 with open(bib_file_name) as bibtex_file:
     bib_database = bibtexparser.load(bibtex_file)
 
@@ -44,6 +45,8 @@ if not args.fast:
 # BibTeX writer for creating individual bib files
 writer = BibTexWriter()
 
+print(f"\nWorking on {len(bib_database.entries)} entries...")
+count = 0
 # Create/Open the parent RST file
 with open(parent_rst_name, "w") as parent_rst:
     # Add an introductory line or description if needed
@@ -53,12 +56,15 @@ with open(parent_rst_name, "w") as parent_rst:
     parent_rst.write("=" * len("References listed by cite keys") + "\n\n")
 
     # Sort entries by cite_key
-    sorted_entries = sorted(bib_database.entries,
-                            key=lambda x: x['ID'].upper())
+    sorted_entries = sorted(
+        bib_database.entries,
+        key=lambda x: x['ID'].upper())
 
     current_letter = ''
     for entry in sorted_entries:
+        count += 1
         cite_key = entry["ID"]
+        print(f"Processing {count}/{len(bib_database.entries)}: {cite_key}")
 
         # Check if the first letter has changed
         first_letter = cite_key[0].upper()
@@ -79,7 +85,10 @@ with open(parent_rst_name, "w") as parent_rst:
                 db = bibtexparser.bibdatabase.BibDatabase()
                 db.entries = [entry]
                 bibfile.write(writer.write(db))
-            subprocess.run(["bibtex-tidy", "-m", bib_entry_filename])
+            # subprocess.run(["bibtex-tidy", "-m", bib_entry_filename])
+            subprocess.run(["bibtex-tidy", "-m", bib_entry_filename],
+                           stdout=subprocess.DEVNULL,
+                           stderr=subprocess.DEVNULL)
 
         # Create corresponding RST file
         rst_entry_filename = f"bib_entries/{cite_key}.rst"
