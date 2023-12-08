@@ -22,8 +22,7 @@ corwin.deift.ea:22:harold
      volume        = {59},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1090/bull/1757},>`_
+`The URL link to the source <https://doi.org/10.1090/bull/1757>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

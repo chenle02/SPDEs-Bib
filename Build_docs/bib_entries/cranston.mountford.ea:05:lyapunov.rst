@@ -23,8 +23,7 @@ cranston.mountford.ea:05:lyapunov
      volume        = {132},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-004-0346-y},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-004-0346-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

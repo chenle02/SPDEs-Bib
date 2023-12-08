@@ -23,8 +23,7 @@ bourgain.milman.ea:86:on
      volume        = {294},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.2307/2000132},>`_
+`The URL link to the source <https://doi.org/10.2307/2000132>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

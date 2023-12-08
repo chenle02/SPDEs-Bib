@@ -23,8 +23,7 @@ gu.bal:16:weak
      volume        = {52},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1214/14-AIHP637},>`_
+`The URL link to the source <https://doi.org/10.1214/14-AIHP637>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ cerrai:94:hille-yosida
      volume        = {49},
      year          = {1994}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02573496},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02573496>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

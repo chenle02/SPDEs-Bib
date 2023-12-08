@@ -22,8 +22,7 @@ tracy.widom:96:fredholm
      volume        = {179},
      year          = {1996}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.cmp/1104286868},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104286868>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ gantert.zeitouni:98:large
      volume        = {34},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1016/S0246-0203(98)80004-6},>`_
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(98)80004-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

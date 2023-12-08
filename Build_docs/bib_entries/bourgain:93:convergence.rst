@@ -22,8 +22,7 @@ bourgain:93:convergence
      volume        = {37},
      year          = {1993}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.ijm/1255986988},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255986988>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

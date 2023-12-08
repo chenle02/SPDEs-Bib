@@ -23,8 +23,7 @@ ben-arous.tannenbaum.ea:03:crystalline
      volume        = {134},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1007/978-0-387-21696-6\_2},>`_
+`The URL link to the source <https://doi.org/10.1007/978-0-387-21696-6\_2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

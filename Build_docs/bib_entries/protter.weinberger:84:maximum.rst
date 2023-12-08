@@ -20,8 +20,7 @@ protter.weinberger:84:maximum
      url           = {https://doi.org/10.1007/978-1-4612-5282-5},
      year          = {1984}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4612-5282-5},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-5282-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

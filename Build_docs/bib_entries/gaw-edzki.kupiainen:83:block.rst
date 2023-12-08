@@ -22,8 +22,7 @@ gaw-edzki.kupiainen:83:block
      volume        = {147},
      year          = {1983}
    }
-
-`Link to Source <https://doi.org/10.1016/0003-4916(83)90071-4},>`_
+`The URL link to the source <https://doi.org/10.1016/0003-4916(83)90071-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

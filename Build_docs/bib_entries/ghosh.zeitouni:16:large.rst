@@ -22,8 +22,7 @@ ghosh.zeitouni:16:large
      url           = {https://doi.org/10.1093/imrn/rnv174},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1093/imrn/rnv174},>`_
+`The URL link to the source <https://doi.org/10.1093/imrn/rnv174>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

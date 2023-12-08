@@ -23,8 +23,7 @@ foondun:09:harmonic
      volume        = {31},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1007/s11118-009-9121-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s11118-009-9121-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

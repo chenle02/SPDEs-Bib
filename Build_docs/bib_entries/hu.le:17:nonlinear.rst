@@ -23,8 +23,7 @@ hu.le:17:nonlinear
      volume        = {369},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1090/tran/6774},>`_
+`The URL link to the source <https://doi.org/10.1090/tran/6774>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

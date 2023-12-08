@@ -21,8 +21,7 @@ wang.zhang:19:pathwise
      volume        = {150},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spl.2019.02.010},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spl.2019.02.010>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

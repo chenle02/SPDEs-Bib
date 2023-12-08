@@ -22,8 +22,7 @@ cranston.mueller:88:review
      volume        = {73},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1090/conm/073/954624},>`_
+`The URL link to the source <https://doi.org/10.1090/conm/073/954624>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ taylor.mitrea.ea:05:lipschitz
      volume        = {30},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1080/03605300500299547},>`_
+`The URL link to the source <https://doi.org/10.1080/03605300500299547>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

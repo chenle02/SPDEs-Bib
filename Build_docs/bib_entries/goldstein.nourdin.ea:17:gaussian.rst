@@ -23,8 +23,7 @@ goldstein.nourdin.ea:17:gaussian
      volume        = {27},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1214/16-AAP1195},>`_
+`The URL link to the source <https://doi.org/10.1214/16-AAP1195>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ luan.xiao:12:spectral
      volume        = {18},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/s00041-011-9193-2},>`_
+`The URL link to the source <https://doi.org/10.1007/s00041-011-9193-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -17,8 +17,7 @@ chen:23:awards
      url           = {https://github.com/chenle02/NSF-Awards},
      year          = {2023}
    }
-
-`Link to Source <https://github.com/chenle02/NSF-Awards},>`_
+`The URL link to the source <https://github.com/chenle02/NSF-Awards>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ hu:92:sur
      volume        = {1526},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0084348},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0084348>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

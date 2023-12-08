@@ -23,8 +23,7 @@ zabczyk:21:controllable*1
      volume        = {127},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.4064/ap200421-29-9},>`_
+`The URL link to the source <https://doi.org/10.4064/ap200421-29-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

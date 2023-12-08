@@ -22,8 +22,7 @@ benjamini.yadin.ea:07:maximal
      volume        = {12},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1214/ECP.v12-1321},>`_
+`The URL link to the source <https://doi.org/10.1214/ECP.v12-1321>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

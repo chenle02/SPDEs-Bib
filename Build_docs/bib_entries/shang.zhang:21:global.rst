@@ -15,8 +15,7 @@ shang.zhang:21:global
      url           = {http://arXiv.org/abs/2106.02879},
      year          = {2021}
    }
-
-`Link to Source <http://arXiv.org/abs/2106.02879},>`_
+`The URL link to the source <http://arXiv.org/abs/2106.02879>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

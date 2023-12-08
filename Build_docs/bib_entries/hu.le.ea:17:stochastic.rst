@@ -23,8 +23,7 @@ hu.le.ea:17:stochastic
      volume        = {127},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2016.10.010},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2016.10.010>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

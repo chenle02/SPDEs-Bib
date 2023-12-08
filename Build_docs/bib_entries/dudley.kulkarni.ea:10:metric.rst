@@ -21,8 +21,7 @@ dudley.kulkarni.ea:10:metric
      url           = {https://doi.org/10.1007/978-1-4419-5821-1\_28},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4419-5821-1\_28},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4419-5821-1\_28>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

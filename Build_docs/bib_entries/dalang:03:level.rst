@@ -22,8 +22,7 @@ dalang:03:level
      volume        = {1802},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-540-36259-3\_5},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-540-36259-3\_5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

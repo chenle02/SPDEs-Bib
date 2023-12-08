@@ -22,8 +22,7 @@ barral.jin.ea:13:gaussian
      volume        = {323},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-013-1769-z},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-013-1769-z>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

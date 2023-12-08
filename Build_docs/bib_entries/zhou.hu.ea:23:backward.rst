@@ -22,8 +22,7 @@ zhou.hu.ea:23:backward
      volume        = {63},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.1007/s10543-023-00981-z},>`_
+`The URL link to the source <https://doi.org/10.1007/s10543-023-00981-z>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ filipovic.zabczyk:02:markovian
      volume        = {12},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1214/aoap/1026915622},>`_
+`The URL link to the source <https://doi.org/10.1214/aoap/1026915622>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

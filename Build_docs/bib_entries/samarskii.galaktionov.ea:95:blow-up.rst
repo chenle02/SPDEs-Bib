@@ -22,8 +22,7 @@ samarskii.galaktionov.ea:95:blow-up
      volume        = {19},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1515/9783110889864.535},>`_
+`The URL link to the source <https://doi.org/10.1515/9783110889864.535>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

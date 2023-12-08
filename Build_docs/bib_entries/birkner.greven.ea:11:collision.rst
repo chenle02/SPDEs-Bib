@@ -21,8 +21,7 @@ birkner.greven.ea:11:collision
      volume        = {16},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v16-878},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v16-878>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

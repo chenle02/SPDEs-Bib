@@ -23,8 +23,7 @@ bourgain:81:stabilization
      volume        = {112},
      year          = {1981}
    }
-
-`Link to Source <https://doi.org/10.4064/fm-112-1-25-44},>`_
+`The URL link to the source <https://doi.org/10.4064/fm-112-1-25-44>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ bourgain.brezis:07:new
      volume        = {9},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.4171/JEMS/80},>`_
+`The URL link to the source <https://doi.org/10.4171/JEMS/80>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

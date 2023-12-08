@@ -20,8 +20,7 @@ khoshnevisan.shi:98:gaussian
      url           = {https://doi.org/10.1016/B978-044450083-0/50030-7},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1016/B978-044450083-0/50030-7},>`_
+`The URL link to the source <https://doi.org/10.1016/B978-044450083-0/50030-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

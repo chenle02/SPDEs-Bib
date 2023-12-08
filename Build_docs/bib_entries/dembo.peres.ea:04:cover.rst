@@ -23,8 +23,7 @@ dembo.peres.ea:04:cover
      volume        = {160},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.4007/annals.2004.160.433},>`_
+`The URL link to the source <https://doi.org/10.4007/annals.2004.160.433>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ hu.nualart:09:rough
      volume        = {361},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1090/S0002-9947-08-04631-X},>`_
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-08-04631-X>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -20,8 +20,7 @@ assing.herman:21:extension
      volume        = {26},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1214/21-ejp624},>`_
+`The URL link to the source <https://doi.org/10.1214/21-ejp624>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

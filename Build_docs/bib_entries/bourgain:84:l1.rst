@@ -22,8 +22,7 @@ bourgain:84:l1
      volume        = {29},
      year          = {1984}
    }
-
-`Link to Source <https://doi.org/10.1112/jlms/s2-29.2.283},>`_
+`The URL link to the source <https://doi.org/10.1112/jlms/s2-29.2.283>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

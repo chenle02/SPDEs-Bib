@@ -22,8 +22,7 @@ hara.slade:92:self-avoiding
      volume        = {147},
      year          = {1992}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.cmp/1104250528},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104250528>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

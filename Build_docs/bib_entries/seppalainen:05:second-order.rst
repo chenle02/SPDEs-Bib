@@ -23,8 +23,7 @@ seppalainen:05:second-order
      volume        = {33},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1214/009117904000000946},>`_
+`The URL link to the source <https://doi.org/10.1214/009117904000000946>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

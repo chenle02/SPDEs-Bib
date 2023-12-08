@@ -22,8 +22,7 @@ nualart.vuillermot:06:stabilization
      volume        = {245},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1201/9781420028720.ch18},>`_
+`The URL link to the source <https://doi.org/10.1201/9781420028720.ch18>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

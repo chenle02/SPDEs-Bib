@@ -20,8 +20,7 @@ domb.joyce:72:cluster
      volume        = {5},
      year          = {1972}
    }
-
-`Link to Source <https://dx.doi.org/10.1088/0022-3719/5/9/009},>`_
+`The URL link to the source <https://dx.doi.org/10.1088/0022-3719/5/9/009>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

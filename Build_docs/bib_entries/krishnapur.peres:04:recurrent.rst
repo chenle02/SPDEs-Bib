@@ -22,8 +22,7 @@ krishnapur.peres:04:recurrent
      volume        = {9},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1214/ECP.v9-1111},>`_
+`The URL link to the source <https://doi.org/10.1214/ECP.v9-1111>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

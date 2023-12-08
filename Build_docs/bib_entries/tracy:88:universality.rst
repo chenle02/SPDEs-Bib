@@ -23,8 +23,7 @@ tracy:88:universality
      volume        = {51},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01028467},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01028467>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

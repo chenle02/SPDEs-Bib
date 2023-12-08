@@ -22,8 +22,7 @@ bourgain.konyagin.ea:12:distribution
      url           = {https://doi.org/10.1093/imrn/rnr097},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1093/imrn/rnr097},>`_
+`The URL link to the source <https://doi.org/10.1093/imrn/rnr097>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

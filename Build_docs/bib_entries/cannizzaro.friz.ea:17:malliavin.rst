@@ -23,8 +23,7 @@ cannizzaro.friz.ea:17:malliavin
      volume        = {272},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2016.09.024},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2016.09.024>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

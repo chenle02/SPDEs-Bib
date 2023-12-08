@@ -22,8 +22,7 @@ basu.dembo.ea:20:exponential
      url           = {https://doi.org/10.1093/imrn/rny277},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1093/imrn/rny277},>`_
+`The URL link to the source <https://doi.org/10.1093/imrn/rny277>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

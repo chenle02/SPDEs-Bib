@@ -22,8 +22,7 @@ hammersley.welsh:62:further
      volume        = {13},
      year          = {1962}
    }
-
-`Link to Source <https://doi.org/10.1093/qmath/13.1.108},>`_
+`The URL link to the source <https://doi.org/10.1093/qmath/13.1.108>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

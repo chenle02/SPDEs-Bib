@@ -22,8 +22,7 @@ fukushima.oshima.ea:94:dirichlet
      volume        = {19},
      year          = {1994}
    }
-
-`Link to Source <https://doi.org/10.1515/9783110889741},>`_
+`The URL link to the source <https://doi.org/10.1515/9783110889741>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

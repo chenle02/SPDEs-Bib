@@ -21,8 +21,7 @@ huang.khoshnevisan:17:on
      volume        = {22},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1214/17-ECP86},>`_
+`The URL link to the source <https://doi.org/10.1214/17-ECP86>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

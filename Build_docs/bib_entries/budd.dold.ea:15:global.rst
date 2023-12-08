@@ -22,8 +22,7 @@ budd.dold.ea:15:global
      volume        = {145},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1017/S0308210515000256},>`_
+`The URL link to the source <https://doi.org/10.1017/S0308210515000256>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

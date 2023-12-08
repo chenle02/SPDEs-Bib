@@ -22,8 +22,7 @@ nourdin:13:lectures
      volume        = {2078},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-319-00321-4\_1},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-319-00321-4\_1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

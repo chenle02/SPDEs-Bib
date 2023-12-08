@@ -23,8 +23,7 @@ tracy.widom:18:blocks
      volume        = {59},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1063/1.5021353},>`_
+`The URL link to the source <https://doi.org/10.1063/1.5021353>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

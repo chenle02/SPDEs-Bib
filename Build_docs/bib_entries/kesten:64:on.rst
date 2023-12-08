@@ -22,8 +22,7 @@ kesten:64:on
      volume        = {5},
      year          = {1964}
    }
-
-`Link to Source <https://doi.org/10.1063/1.1704216},>`_
+`The URL link to the source <https://doi.org/10.1063/1.1704216>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

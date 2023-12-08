@@ -23,8 +23,7 @@ csaki.khoshnevisan.ea:00:boundary
      volume        = {90},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1016/S0304-4149(00)00031-4},>`_
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(00)00031-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

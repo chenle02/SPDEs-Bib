@@ -23,8 +23,7 @@ dawson.iscoe.ea:89:super-brownian
      volume        = {83},
      year          = {1989}
    }
-
-`Link to Source <https://doi.org/10.1007/BF00333147},>`_
+`The URL link to the source <https://doi.org/10.1007/BF00333147>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

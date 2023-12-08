@@ -22,5 +22,7 @@ merzbach.nualart:88:martingale
      volume        = {16},
      year          = {1988}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198801)16:1<265:AMATPP>2.0.CO;2-8\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

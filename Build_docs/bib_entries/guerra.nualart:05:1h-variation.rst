@@ -23,8 +23,7 @@ guerra.nualart:05:1h-variation
      volume        = {115},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2004.07.008},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2004.07.008>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

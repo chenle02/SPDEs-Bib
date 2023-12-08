@@ -23,8 +23,7 @@ bourgain:80:characterization
      volume        = {37},
      year          = {1980}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02762867},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02762867>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

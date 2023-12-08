@@ -23,8 +23,7 @@ bourgain:86:on*2
      volume        = {54},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02764943},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02764943>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

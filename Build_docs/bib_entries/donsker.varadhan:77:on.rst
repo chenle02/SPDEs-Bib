@@ -23,8 +23,7 @@ donsker.varadhan:77:on
      volume        = {30},
      year          = {1977}
    }
-
-`Link to Source <https://doi.org/10.1002/cpa.3160300603},>`_
+`The URL link to the source <https://doi.org/10.1002/cpa.3160300603>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

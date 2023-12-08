@@ -22,8 +22,7 @@ kim:19:on
      volume        = {129},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2018.07.006},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2018.07.006>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

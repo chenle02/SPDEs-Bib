@@ -23,8 +23,7 @@ bal.gu.ea:18:radiative
      volume        = {43},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1080/03605302.2018.1472105},>`_
+`The URL link to the source <https://doi.org/10.1080/03605302.2018.1472105>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

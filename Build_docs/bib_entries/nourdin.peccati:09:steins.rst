@@ -23,8 +23,7 @@ nourdin.peccati:09:steins
      volume        = {145},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-008-0162-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-008-0162-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

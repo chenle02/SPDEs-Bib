@@ -23,8 +23,7 @@ fang.zhang:06:isotropic
      volume        = {85},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1016/j.matpur.2005.10.012},>`_
+`The URL link to the source <https://doi.org/10.1016/j.matpur.2005.10.012>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

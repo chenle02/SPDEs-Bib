@@ -22,8 +22,7 @@ foondun.khoshnevisan:14:corrections
      volume        = {366},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1090/S0002-9947-2013-06201-0},>`_
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-2013-06201-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

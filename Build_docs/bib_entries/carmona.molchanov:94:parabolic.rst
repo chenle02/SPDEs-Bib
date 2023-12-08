@@ -23,8 +23,7 @@ carmona.molchanov:94:parabolic
      volume        = {108},
      year          = {1994}
    }
-
-`Link to Source <https://doi.org/10.1090/memo/0518},>`_
+`The URL link to the source <https://doi.org/10.1090/memo/0518>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

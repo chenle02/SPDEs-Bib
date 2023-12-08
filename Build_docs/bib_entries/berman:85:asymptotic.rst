@@ -22,5 +22,7 @@ berman:85:asymptotic
      volume        = {21},
      year          = {1985}
    }
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1985\_\_21\_1\_47\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

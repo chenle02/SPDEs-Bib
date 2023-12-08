@@ -22,8 +22,7 @@ hu:93:hypercontractivite
      volume        = {1557},
      year          = {1993}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0087966},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0087966>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

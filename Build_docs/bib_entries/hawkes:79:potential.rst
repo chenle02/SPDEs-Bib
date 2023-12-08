@@ -23,8 +23,7 @@ hawkes:79:potential
      volume        = {38},
      year          = {1979}
    }
-
-`Link to Source <https://doi.org/10.1112/plms/s3-38.2.335},>`_
+`The URL link to the source <https://doi.org/10.1112/plms/s3-38.2.335>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

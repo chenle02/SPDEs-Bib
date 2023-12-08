@@ -22,8 +22,7 @@ duplantier.guttmann:20:statistical
      volume        = {180},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-020-02584-2},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-020-02584-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

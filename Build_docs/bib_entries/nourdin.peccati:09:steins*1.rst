@@ -23,8 +23,7 @@ nourdin.peccati:09:steins*1
      volume        = {37},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1214/09-AOP461},>`_
+`The URL link to the source <https://doi.org/10.1214/09-AOP461>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

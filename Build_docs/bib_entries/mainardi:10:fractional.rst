@@ -20,8 +20,7 @@ mainardi:10:fractional
      url           = {https://doi.org/10.1142/9781848163300},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1142/9781848163300},>`_
+`The URL link to the source <https://doi.org/10.1142/9781848163300>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

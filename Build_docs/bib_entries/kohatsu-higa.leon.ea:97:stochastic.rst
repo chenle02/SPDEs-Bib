@@ -23,8 +23,7 @@ kohatsu-higa.leon.ea:97:stochastic
      volume        = {3},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.2307/3318589},>`_
+`The URL link to the source <https://doi.org/10.2307/3318589>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

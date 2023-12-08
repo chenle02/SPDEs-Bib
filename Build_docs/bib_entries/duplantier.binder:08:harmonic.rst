@@ -23,8 +23,7 @@ duplantier.binder:08:harmonic
      volume        = {802},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1016/j.nuclphysb.2008.05.020},>`_
+`The URL link to the source <https://doi.org/10.1016/j.nuclphysb.2008.05.020>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

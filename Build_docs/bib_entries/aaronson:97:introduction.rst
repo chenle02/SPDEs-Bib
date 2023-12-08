@@ -22,8 +22,7 @@ aaronson:97:introduction
      volume        = {50},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.1090/surv/050},>`_
+`The URL link to the source <https://doi.org/10.1090/surv/050>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

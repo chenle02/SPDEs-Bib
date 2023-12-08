@@ -23,8 +23,7 @@ mueller:91:on
      volume        = {37},
      year          = {1991}
    }
-
-`Link to Source <https://doi.org/10.1080/17442509108833738},>`_
+`The URL link to the source <https://doi.org/10.1080/17442509108833738>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

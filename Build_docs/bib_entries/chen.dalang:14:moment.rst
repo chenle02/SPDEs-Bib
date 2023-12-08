@@ -15,8 +15,7 @@ chen.dalang:14:moment
      url           = {https://www.arxiv.org/abs/1401.6506},
      year          = {2014}
    }
-
-`Link to Source <https://www.arxiv.org/abs/1401.6506},>`_
+`The URL link to the source <https://www.arxiv.org/abs/1401.6506>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

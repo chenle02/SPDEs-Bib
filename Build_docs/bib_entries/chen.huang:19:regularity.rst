@@ -15,8 +15,7 @@ chen.huang:19:regularity
      url           = {https://www.arxiv.org/abs/1902.02382},
      year          = {2019}
    }
-
-`Link to Source <https://www.arxiv.org/abs/1902.02382},>`_
+`The URL link to the source <https://www.arxiv.org/abs/1902.02382>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

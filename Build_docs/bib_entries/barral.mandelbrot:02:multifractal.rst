@@ -23,8 +23,7 @@ barral.mandelbrot:02:multifractal
      volume        = {124},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1007/s004400200220},>`_
+`The URL link to the source <https://doi.org/10.1007/s004400200220>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

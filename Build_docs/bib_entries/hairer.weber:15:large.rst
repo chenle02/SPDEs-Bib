@@ -23,8 +23,7 @@ hairer.weber:15:large
      volume        = {24},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.5802/afst.1442},>`_
+`The URL link to the source <https://doi.org/10.5802/afst.1442>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

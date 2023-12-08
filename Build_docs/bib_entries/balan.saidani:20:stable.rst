@@ -23,8 +23,7 @@ balan.saidani:20:stable
      volume        = {33},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1007/s10959-019-00897-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s10959-019-00897-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

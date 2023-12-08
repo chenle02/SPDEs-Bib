@@ -23,8 +23,7 @@ lacey.tzanetis:88:complete
      volume        = {41},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1093/imamat/41.3.207},>`_
+`The URL link to the source <https://doi.org/10.1093/imamat/41.3.207>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

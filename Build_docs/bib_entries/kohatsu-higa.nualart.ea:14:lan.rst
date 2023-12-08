@@ -22,8 +22,7 @@ kohatsu-higa.nualart.ea:14:lan
      volume        = {352},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2014.08.013},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2014.08.013>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ dembo.peres.ea:96:tail
      volume        = {181},
      year          = {1996}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.cmp/1104287907},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104287907>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

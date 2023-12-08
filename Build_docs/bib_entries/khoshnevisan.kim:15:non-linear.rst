@@ -23,8 +23,7 @@ khoshnevisan.kim:15:non-linear
      volume        = {143},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1090/S0002-9939-2015-12517-8},>`_
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-2015-12517-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

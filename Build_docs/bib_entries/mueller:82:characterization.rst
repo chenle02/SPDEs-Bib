@@ -22,8 +22,7 @@ mueller:82:characterization
      volume        = {72},
      year          = {1982}
    }
-
-`Link to Source <https://doi.org/10.4064/sm-72-1-47-57},>`_
+`The URL link to the source <https://doi.org/10.4064/sm-72-1-47-57>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

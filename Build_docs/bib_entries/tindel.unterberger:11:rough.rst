@@ -23,8 +23,7 @@ tindel.unterberger:11:rough
      volume        = {62},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1007/s13348-010-0021-9},>`_
+`The URL link to the source <https://doi.org/10.1007/s13348-010-0021-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ kotelenez:92:comparison
      volume        = {93},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01195385},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01195385>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

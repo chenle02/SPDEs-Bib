@@ -24,8 +24,7 @@ bass.chen.ea:09:moderate
      volume        = {198},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1090/memo/0929},>`_
+`The URL link to the source <https://doi.org/10.1090/memo/0929>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

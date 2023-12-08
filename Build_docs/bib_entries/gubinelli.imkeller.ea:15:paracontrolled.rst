@@ -20,8 +20,7 @@ gubinelli.imkeller.ea:15:paracontrolled
      volume        = {3},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1017/fmp.2015.2},>`_
+`The URL link to the source <https://doi.org/10.1017/fmp.2015.2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

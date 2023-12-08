@@ -22,8 +22,7 @@ bourgain:86:problem
      volume        = {121},
      year          = {1986}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.pjm/1102702795},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102702795>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

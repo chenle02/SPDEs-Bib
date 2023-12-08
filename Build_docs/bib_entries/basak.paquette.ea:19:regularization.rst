@@ -22,8 +22,7 @@ basak.paquette.ea:19:regularization
      volume        = {7},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1017/fms.2018.29},>`_
+`The URL link to the source <https://doi.org/10.1017/fms.2018.29>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

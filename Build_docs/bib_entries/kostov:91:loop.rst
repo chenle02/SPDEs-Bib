@@ -22,8 +22,7 @@ kostov:91:loop
      volume        = {266},
      year          = {1991}
    }
-
-`Link to Source <https://doi.org/10.1016/0370-2693(91)91047-Y},>`_
+`The URL link to the source <https://doi.org/10.1016/0370-2693(91)91047-Y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ gu:16:central
      volume        = {4},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-016-0075-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-016-0075-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

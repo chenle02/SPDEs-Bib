@@ -20,8 +20,7 @@ meakin.jullien:89:spatially
      volume        = {9},
      year          = {1989}
    }
-
-`Link to Source <https://dx.doi.org/10.1209/0295-5075/9/1/013},>`_
+`The URL link to the source <https://dx.doi.org/10.1209/0295-5075/9/1/013>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

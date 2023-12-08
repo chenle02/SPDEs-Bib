@@ -21,8 +21,7 @@ nualart.song.ea:21:spatial
      volume        = {18},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.30757/alea.v18-33},>`_
+`The URL link to the source <https://doi.org/10.30757/alea.v18-33>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ song.tindel:22:skorohod
      volume        = {150},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2022.05.002},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2022.05.002>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

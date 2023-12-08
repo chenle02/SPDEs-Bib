@@ -23,8 +23,7 @@ ma.nualart:20:rate
      volume        = {33},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1007/s10959-019-00940-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s10959-019-00940-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

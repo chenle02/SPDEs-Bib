@@ -22,8 +22,7 @@ grimmett.li:17:self-avoiding
      volume        = {24},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.37236/6577},>`_
+`The URL link to the source <https://doi.org/10.37236/6577>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

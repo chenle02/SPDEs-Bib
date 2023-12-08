@@ -22,8 +22,7 @@ bourgain:97:gibbs
      volume        = {60},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.1090/pspum/060/1460274},>`_
+`The URL link to the source <https://doi.org/10.1090/pspum/060/1460274>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

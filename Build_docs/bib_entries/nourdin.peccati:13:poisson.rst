@@ -23,8 +23,7 @@ nourdin.peccati:13:poisson
      volume        = {41},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1214/12-AOP815},>`_
+`The URL link to the source <https://doi.org/10.1214/12-AOP815>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

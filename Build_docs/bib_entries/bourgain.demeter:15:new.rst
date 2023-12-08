@@ -22,8 +22,7 @@ bourgain.demeter:15:new
      url           = {https://doi.org/10.1093/imrn/rnu036},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1093/imrn/rnu036},>`_
+`The URL link to the source <https://doi.org/10.1093/imrn/rnu036>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

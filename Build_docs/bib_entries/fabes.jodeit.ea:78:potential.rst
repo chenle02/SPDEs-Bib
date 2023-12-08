@@ -23,8 +23,7 @@ fabes.jodeit.ea:78:potential
      volume        = {141},
      year          = {1978}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02545747},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02545747>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

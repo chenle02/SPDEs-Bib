@@ -23,8 +23,7 @@ brzezniak.cerrai.ea:15:quasipotential
      volume        = {162},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-014-0584-6},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-014-0584-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

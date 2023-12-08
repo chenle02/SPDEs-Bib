@@ -22,8 +22,7 @@ lehec:14:short
      volume        = {57},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.4153/CMB-2013-040-x},>`_
+`The URL link to the source <https://doi.org/10.4153/CMB-2013-040-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

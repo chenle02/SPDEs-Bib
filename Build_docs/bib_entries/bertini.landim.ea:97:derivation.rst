@@ -23,8 +23,7 @@ bertini.landim.ea:97:derivation
      volume        = {88},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02508476},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02508476>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ davies:95:spectral
      volume        = {42},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1017/CBO9780511623721},>`_
+`The URL link to the source <https://doi.org/10.1017/CBO9780511623721>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

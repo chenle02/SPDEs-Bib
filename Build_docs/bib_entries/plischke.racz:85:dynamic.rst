@@ -21,8 +21,7 @@ plischke.racz:85:dynamic
      volume        = {32},
      year          = {1985}
    }
-
-`Link to Source <https://link.aps.org/doi/10.1103/PhysRevA.32.3825},>`_
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.32.3825>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

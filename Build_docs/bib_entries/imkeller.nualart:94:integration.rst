@@ -22,5 +22,7 @@ imkeller.nualart:94:integration
      volume        = {22},
      year          = {1994}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199401)22:1<469:IBPOWS>2.0.CO;2-N\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

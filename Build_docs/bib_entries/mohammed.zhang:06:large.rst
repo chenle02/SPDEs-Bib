@@ -23,8 +23,7 @@ mohammed.zhang:06:large
      volume        = {6},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.3934/dcdsb.2006.6.881},>`_
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2006.6.881>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

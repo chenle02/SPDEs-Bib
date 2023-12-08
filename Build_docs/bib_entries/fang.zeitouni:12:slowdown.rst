@@ -23,8 +23,7 @@ fang.zeitouni:12:slowdown
      volume        = {149},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-012-0581-z},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-012-0581-z>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

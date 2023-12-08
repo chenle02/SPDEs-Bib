@@ -23,8 +23,7 @@ hu.zhou:05:stochastic
      volume        = {43},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1137/S0363012903426045},>`_
+`The URL link to the source <https://doi.org/10.1137/S0363012903426045>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ bourgain:05:mordells
      volume        = {18},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1090/S0894-0347-05-00476-5},>`_
+`The URL link to the source <https://doi.org/10.1090/S0894-0347-05-00476-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

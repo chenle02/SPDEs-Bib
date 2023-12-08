@@ -23,8 +23,7 @@ dawson.li:12:stochastic
      volume        = {40},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1214/10-AOP629},>`_
+`The URL link to the source <https://doi.org/10.1214/10-AOP629>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

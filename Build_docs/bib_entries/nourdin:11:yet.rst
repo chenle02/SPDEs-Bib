@@ -21,8 +21,7 @@ nourdin:11:yet
      volume        = {16},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1214/ECP.v16-1642},>`_
+`The URL link to the source <https://doi.org/10.1214/ECP.v16-1642>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

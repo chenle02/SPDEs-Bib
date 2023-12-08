@@ -22,8 +22,7 @@ etheridge:00:introduction
      volume        = {20},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1090/ulect/020},>`_
+`The URL link to the source <https://doi.org/10.1090/ulect/020>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

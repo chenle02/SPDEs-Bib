@@ -22,8 +22,7 @@ bourgain:76:strongly
      volume        = {58},
      year          = {1976}
    }
-
-`Link to Source <https://doi.org/10.2307/2041384},>`_
+`The URL link to the source <https://doi.org/10.2307/2041384>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

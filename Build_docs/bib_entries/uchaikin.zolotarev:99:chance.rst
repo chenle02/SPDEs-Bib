@@ -22,8 +22,7 @@ uchaikin.zolotarev:99:chance
      url           = {https://doi.org/10.1515/9783110935974},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1515/9783110935974},>`_
+`The URL link to the source <https://doi.org/10.1515/9783110935974>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

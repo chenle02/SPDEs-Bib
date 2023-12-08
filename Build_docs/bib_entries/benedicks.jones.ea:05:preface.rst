@@ -22,8 +22,7 @@ benedicks.jones.ea:05:preface
      volume        = {27},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1007/3-540-30434-7},>`_
+`The URL link to the source <https://doi.org/10.1007/3-540-30434-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

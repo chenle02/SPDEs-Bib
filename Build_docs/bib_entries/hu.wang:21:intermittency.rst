@@ -15,8 +15,7 @@ hu.wang:21:intermittency
      url           = {https://www.arxiv.org/abs/2109.03473},
      year          = {2021}
    }
-
-`Link to Source <https://www.arxiv.org/abs/2109.03473},>`_
+`The URL link to the source <https://www.arxiv.org/abs/2109.03473>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

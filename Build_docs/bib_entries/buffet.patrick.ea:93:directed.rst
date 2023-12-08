@@ -22,8 +22,7 @@ buffet.patrick.ea:93:directed
      volume        = {26},
      year          = {1993}
    }
-
-`Link to Source <http://stacks.iop.org/0305-4470/26/1823},>`_
+`The URL link to the source <http://stacks.iop.org/0305-4470/26/1823>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

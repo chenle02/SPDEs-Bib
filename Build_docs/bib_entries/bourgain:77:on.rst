@@ -23,8 +23,7 @@ bourgain:77:on
      volume        = {28},
      year          = {1977}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02760634},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02760634>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

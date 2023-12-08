@@ -23,8 +23,7 @@ guionnet.zeitouni:02:large
      volume        = {188},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1006/jfan.2001.3833},>`_
+`The URL link to the source <https://doi.org/10.1006/jfan.2001.3833>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ panchenko:10:connection
      volume        = {38},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1214/09-AOP484},>`_
+`The URL link to the source <https://doi.org/10.1214/09-AOP484>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

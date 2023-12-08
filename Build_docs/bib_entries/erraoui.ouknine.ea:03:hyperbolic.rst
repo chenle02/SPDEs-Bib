@@ -23,8 +23,7 @@ erraoui.ouknine.ea:03:hyperbolic
      volume        = {3},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1142/S0219493703000681},>`_
+`The URL link to the source <https://doi.org/10.1142/S0219493703000681>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

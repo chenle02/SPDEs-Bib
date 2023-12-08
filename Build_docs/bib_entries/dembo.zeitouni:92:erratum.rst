@@ -23,8 +23,7 @@ dembo.zeitouni:92:erratum
      volume        = {40},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1016/0304-4149(92)90019-M},>`_
+`The URL link to the source <https://doi.org/10.1016/0304-4149(92)90019-M>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

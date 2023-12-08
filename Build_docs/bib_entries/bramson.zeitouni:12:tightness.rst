@@ -23,8 +23,7 @@ bramson.zeitouni:12:tightness
      volume        = {65},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1002/cpa.20390},>`_
+`The URL link to the source <https://doi.org/10.1002/cpa.20390>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

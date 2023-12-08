@@ -22,5 +22,7 @@ pitt.robeva.ea:95:error
      volume        = {5},
      year          = {1995}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=1050-5164(199502)5:1<171:AEAFTN>2.0.CO;2-3\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

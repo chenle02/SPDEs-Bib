@@ -23,8 +23,7 @@ hu.oksendal:98:optimal
      volume        = {2},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1007/s007800050042},>`_
+`The URL link to the source <https://doi.org/10.1007/s007800050042>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

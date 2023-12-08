@@ -23,8 +23,7 @@ tracy:86:zn
      volume        = {44},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01010910},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01010910>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

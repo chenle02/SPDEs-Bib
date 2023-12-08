@@ -23,8 +23,7 @@ kuelbs.li:93:small
      volume        = {6},
      year          = {1993}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01066717},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01066717>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

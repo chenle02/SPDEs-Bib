@@ -23,8 +23,7 @@ yue.zhang:14:elliptic
      volume        = {17},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1142/S0219025714500258},>`_
+`The URL link to the source <https://doi.org/10.1142/S0219025714500258>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ yang.zhang:14:mixed
      volume        = {124},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2014.02.009},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2014.02.009>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

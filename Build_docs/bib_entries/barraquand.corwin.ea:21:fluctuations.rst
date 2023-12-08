@@ -22,8 +22,7 @@ barraquand.corwin.ea:21:fluctuations
      volume        = {181},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-021-01073-1},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-021-01073-1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

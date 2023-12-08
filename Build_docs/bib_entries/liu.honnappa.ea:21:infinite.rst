@@ -22,8 +22,7 @@ liu.honnappa.ea:21:infinite
      volume        = {98},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1007/s11134-021-09704-z},>`_
+`The URL link to the source <https://doi.org/10.1007/s11134-021-09704-z>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

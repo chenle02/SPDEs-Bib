@@ -21,8 +21,7 @@ martin.ouyang.ea:18:purposely
      volume        = {134},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spl.2017.10.013},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spl.2017.10.013>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

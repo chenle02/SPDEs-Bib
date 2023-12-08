@@ -23,8 +23,7 @@ zhai.zhang:17:large
      volume        = {75},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1007/s00245-016-9338-4},>`_
+`The URL link to the source <https://doi.org/10.1007/s00245-016-9338-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

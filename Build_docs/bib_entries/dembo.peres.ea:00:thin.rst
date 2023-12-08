@@ -23,8 +23,7 @@ dembo.peres.ea:00:thin
      volume        = {36},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1016/S0246-0203(00)00139-4},>`_
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(00)00139-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

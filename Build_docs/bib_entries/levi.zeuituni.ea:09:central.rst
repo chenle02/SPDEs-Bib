@@ -22,8 +22,7 @@ levi.zeuituni.ea:09:central
      volume        = {45},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1134/S0032946009010025},>`_
+`The URL link to the source <https://doi.org/10.1134/S0032946009010025>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

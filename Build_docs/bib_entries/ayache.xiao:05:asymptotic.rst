@@ -23,8 +23,7 @@ ayache.xiao:05:asymptotic
      volume        = {11},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1007/s00041-005-4048-3},>`_
+`The URL link to the source <https://doi.org/10.1007/s00041-005-4048-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

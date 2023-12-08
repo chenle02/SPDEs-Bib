@@ -21,8 +21,7 @@ tuan.nane:17:inverse
      volume        = {120},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spl.2016.09.026},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spl.2016.09.026>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

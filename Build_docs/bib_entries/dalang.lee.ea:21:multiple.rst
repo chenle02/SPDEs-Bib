@@ -21,8 +21,7 @@ dalang.lee.ea:21:multiple
      volume        = {26},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1214/21-EJP589},>`_
+`The URL link to the source <https://doi.org/10.1214/21-EJP589>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

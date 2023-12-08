@@ -21,8 +21,7 @@ zabczyk:73:optimal
      volume        = {45},
      year          = {1973}
    }
-
-`Link to Source <https://doi.org/10.4064/sm-45-2-161-171},>`_
+`The URL link to the source <https://doi.org/10.4064/sm-45-2-161-171>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

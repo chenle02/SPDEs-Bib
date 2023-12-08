@@ -23,8 +23,7 @@ balazs.rassoul-agha.ea:07:existence
      volume        = {35},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1214/009117906000000971},>`_
+`The URL link to the source <https://doi.org/10.1214/009117906000000971>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

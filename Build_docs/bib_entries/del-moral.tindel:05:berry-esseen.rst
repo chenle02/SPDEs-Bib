@@ -23,8 +23,7 @@ del-moral.tindel:05:berry-esseen
      volume        = {15},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1214/105051604000000792},>`_
+`The URL link to the source <https://doi.org/10.1214/105051604000000792>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

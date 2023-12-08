@@ -23,8 +23,7 @@ bourgain:00:positive
      volume        = {1745},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0107207},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0107207>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ khoshnevisan.shi:00:fast
      volume        = {1729},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0103816},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0103816>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ bourgain.li:14:on
      volume        = {27},
      year          = {2014}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.die/1408366784},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.die/1408366784>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

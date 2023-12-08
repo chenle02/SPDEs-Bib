@@ -23,8 +23,7 @@ khoshnevisan:03:intersections
      volume        = {21},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1016/S0723-0869(03)80013-0},>`_
+`The URL link to the source <https://doi.org/10.1016/S0723-0869(03)80013-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

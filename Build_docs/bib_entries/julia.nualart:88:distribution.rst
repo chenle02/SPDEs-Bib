@@ -23,8 +23,7 @@ julia.nualart:88:distribution
      volume        = {25},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1080/17442508808833538},>`_
+`The URL link to the source <https://doi.org/10.1080/17442508808833538>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

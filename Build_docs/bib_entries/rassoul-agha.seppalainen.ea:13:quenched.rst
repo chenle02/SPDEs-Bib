@@ -23,8 +23,7 @@ rassoul-agha.seppalainen.ea:13:quenched
      volume        = {66},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1002/cpa.21417},>`_
+`The URL link to the source <https://doi.org/10.1002/cpa.21417>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

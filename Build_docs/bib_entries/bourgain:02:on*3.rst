@@ -23,8 +23,7 @@ bourgain:02:on*3
      volume        = {99},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1073/pnas.222494399},>`_
+`The URL link to the source <https://doi.org/10.1073/pnas.222494399>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

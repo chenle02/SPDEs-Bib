@@ -20,8 +20,7 @@ mainardi.mura.ea:10:m-wright
      url           = {https://doi.org/10.1155/2010/104505},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1155/2010/104505},>`_
+`The URL link to the source <https://doi.org/10.1155/2010/104505>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

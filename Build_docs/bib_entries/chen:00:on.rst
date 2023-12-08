@@ -22,8 +22,7 @@ chen:00:on
      volume        = {116},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/PL00008724},>`_
+`The URL link to the source <https://doi.org/10.1007/PL00008724>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

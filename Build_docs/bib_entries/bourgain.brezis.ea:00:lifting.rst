@@ -22,8 +22,7 @@ bourgain.brezis.ea:00:lifting
      volume        = {80},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02791533},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02791533>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

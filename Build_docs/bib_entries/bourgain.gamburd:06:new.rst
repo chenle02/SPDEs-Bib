@@ -23,8 +23,7 @@ bourgain.gamburd:06:new
      volume        = {342},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2006.02.032},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2006.02.032>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

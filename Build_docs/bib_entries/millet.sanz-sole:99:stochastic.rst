@@ -23,8 +23,7 @@ millet.sanz-sole:99:stochastic
      volume        = {27},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1022677387},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1022677387>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

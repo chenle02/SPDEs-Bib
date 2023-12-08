@@ -21,5 +21,7 @@ dembo.karlin.ea:94:limit
      volume        = {22},
      year          = {1994}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199410)22:4<2022:LDOMNT>2.0.CO;2-B\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

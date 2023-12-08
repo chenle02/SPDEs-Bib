@@ -22,8 +22,7 @@ oksendal.sulem.ea:12:optimal
      volume        = {13},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1142/9789814383585\_0018},>`_
+`The URL link to the source <https://doi.org/10.1142/9789814383585\_0018>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

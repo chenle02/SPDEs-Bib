@@ -22,8 +22,7 @@ bourgain.glibichuk:11:exponential
      volume        = {115},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1007/s11854-011-0023-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s11854-011-0023-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

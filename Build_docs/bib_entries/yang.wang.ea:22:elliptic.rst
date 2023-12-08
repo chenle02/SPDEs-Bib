@@ -22,8 +22,7 @@ yang.wang.ea:22:elliptic
      volume        = {10},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1007/s40304-020-00213-8},>`_
+`The URL link to the source <https://doi.org/10.1007/s40304-020-00213-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

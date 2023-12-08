@@ -23,8 +23,7 @@ oksendal.sulem.ea:14:singular
      volume        = {39},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1287/moor.2013.0602},>`_
+`The URL link to the source <https://doi.org/10.1287/moor.2013.0602>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

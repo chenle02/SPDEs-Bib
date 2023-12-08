@@ -23,8 +23,7 @@ kim:96:on
      volume        = {76},
      year          = {1996}
    }
-
-`Link to Source <https://doi.org/10.1006/jcta.1996.0095},>`_
+`The URL link to the source <https://doi.org/10.1006/jcta.1996.0095>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

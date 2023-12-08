@@ -23,8 +23,7 @@ baxter.brosamler:76:energy
      volume        = {38},
      year          = {1976}
    }
-
-`Link to Source <https://doi.org/10.7146/math.scand.a-11622},>`_
+`The URL link to the source <https://doi.org/10.7146/math.scand.a-11622>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

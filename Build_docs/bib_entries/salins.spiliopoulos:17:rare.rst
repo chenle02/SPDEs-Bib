@@ -22,8 +22,7 @@ salins.spiliopoulos:17:rare
      volume        = {5},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-017-0100-y},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-017-0100-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

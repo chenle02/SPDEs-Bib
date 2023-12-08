@@ -23,8 +23,7 @@ khoshnevisan.lewis.ea:96:on
      volume        = {24},
      year          = {1996}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1039639361},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1039639361>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

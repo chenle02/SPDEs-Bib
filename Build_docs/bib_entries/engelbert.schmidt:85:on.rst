@@ -23,8 +23,7 @@ engelbert.schmidt:85:on
      volume        = {68},
      year          = {1985}
    }
-
-`Link to Source <https://doi.org/10.1007/BF00532642},>`_
+`The URL link to the source <https://doi.org/10.1007/BF00532642>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

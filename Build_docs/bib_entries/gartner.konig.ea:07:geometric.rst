@@ -23,8 +23,7 @@ gartner.konig.ea:07:geometric
      volume        = {35},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1214/009117906000000764},>`_
+`The URL link to the source <https://doi.org/10.1214/009117906000000764>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

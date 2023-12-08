@@ -20,8 +20,7 @@ brunet.derrida:00:ground
      volume        = {279},
      year          = {2000}
    }
-
-`Link to Source <https://www.sciencedirect.com/science/article/pii/S0378437199005269},>`_
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0378437199005269>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

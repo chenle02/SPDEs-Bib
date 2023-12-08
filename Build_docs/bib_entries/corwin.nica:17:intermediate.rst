@@ -21,8 +21,7 @@ corwin.nica:17:intermediate
      volume        = {22},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1214/17-EJP32},>`_
+`The URL link to the source <https://doi.org/10.1214/17-EJP32>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

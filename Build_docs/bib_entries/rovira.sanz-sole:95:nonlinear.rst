@@ -22,8 +22,7 @@ rovira.sanz-sole:95:nonlinear
      volume        = {216},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1017/CBO9780511526213.016},>`_
+`The URL link to the source <https://doi.org/10.1017/CBO9780511526213.016>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

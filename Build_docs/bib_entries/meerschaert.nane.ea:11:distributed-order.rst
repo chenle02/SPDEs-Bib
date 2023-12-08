@@ -23,8 +23,7 @@ meerschaert.nane.ea:11:distributed-order
      volume        = {379},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jmaa.2010.12.056},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2010.12.056>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

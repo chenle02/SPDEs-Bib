@@ -22,8 +22,7 @@ dalang:09:stochastic
      volume        = {1962},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-540-85994-9\_2},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-540-85994-9\_2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

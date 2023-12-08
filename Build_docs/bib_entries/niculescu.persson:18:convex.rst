@@ -22,8 +22,7 @@ niculescu.persson:18:convex
      url           = {https://doi.org/10.1007/978-3-319-78337-6},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-319-78337-6},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-319-78337-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

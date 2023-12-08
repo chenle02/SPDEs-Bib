@@ -22,8 +22,7 @@ varadhan:07:stochastic
      volume        = {16},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1090/cln/016},>`_
+`The URL link to the source <https://doi.org/10.1090/cln/016>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

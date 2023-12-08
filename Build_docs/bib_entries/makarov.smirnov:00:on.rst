@@ -23,8 +23,7 @@ makarov.smirnov:00:on
      volume        = {211},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/s002200050833},>`_
+`The URL link to the source <https://doi.org/10.1007/s002200050833>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

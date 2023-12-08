@@ -23,8 +23,7 @@ quer-sardanyons.tindel:12:pathwise
      volume        = {122},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2011.08.014},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2011.08.014>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

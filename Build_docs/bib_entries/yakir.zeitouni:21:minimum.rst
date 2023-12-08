@@ -23,8 +23,7 @@ yakir.zeitouni:21:minimum
      volume        = {245},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1007/s11856-021-2218-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s11856-021-2218-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

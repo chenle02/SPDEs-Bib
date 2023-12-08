@@ -23,8 +23,7 @@ sritharan.sundar:06:large
      volume        = {116},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2006.04.001},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2006.04.001>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

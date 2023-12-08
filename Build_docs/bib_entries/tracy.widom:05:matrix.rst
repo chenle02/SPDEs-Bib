@@ -22,5 +22,7 @@ tracy.widom:05:matrix
      volume        = {55},
      year          = {2005}
    }
+`The URL link to the source <http://aif.cedram.org/item?id=AIF\_2005\_\_55\_6\_2197\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

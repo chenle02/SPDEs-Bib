@@ -22,8 +22,7 @@ duplantier.ludwig:91:multifractals
      volume        = {66},
      year          = {1991}
    }
-
-`Link to Source <https://doi.org/10.1103/PhysRevLett.66.247},>`_
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.66.247>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

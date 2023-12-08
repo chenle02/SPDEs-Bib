@@ -23,8 +23,7 @@ beffara.duminil-copin.ea:15:on
      volume        = {48},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1088/1751-8113/48/48/484003},>`_
+`The URL link to the source <https://doi.org/10.1088/1751-8113/48/48/484003>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

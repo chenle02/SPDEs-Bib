@@ -23,8 +23,7 @@ bourgain.nguyen:06:new
      volume        = {343},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2006.05.021},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2006.05.021>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

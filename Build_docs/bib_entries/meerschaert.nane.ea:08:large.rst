@@ -23,8 +23,7 @@ meerschaert.nane.ea:08:large
      volume        = {346},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jmaa.2008.05.087},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2008.05.087>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

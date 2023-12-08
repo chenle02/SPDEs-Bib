@@ -23,8 +23,7 @@ barlow.yor:82:semimartingale
      volume        = {49},
      year          = {1982}
    }
-
-`Link to Source <https://doi.org/10.1016/0022-1236(82)90080-5},>`_
+`The URL link to the source <https://doi.org/10.1016/0022-1236(82)90080-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

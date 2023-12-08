@@ -21,8 +21,7 @@ mai.nane.ea:22:terminal
      volume        = {30},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.3934/era.2022072},>`_
+`The URL link to the source <https://doi.org/10.3934/era.2022072>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ noreddine.nourdin:11:on
      volume        = {102},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jmva.2011.02.001},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jmva.2011.02.001>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

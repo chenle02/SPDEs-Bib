@@ -23,8 +23,7 @@ friedman.oswald:88:blow-up
      volume        = {308},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.2307/2000968},>`_
+`The URL link to the source <https://doi.org/10.2307/2000968>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

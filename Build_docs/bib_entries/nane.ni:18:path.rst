@@ -22,8 +22,7 @@ nane.ni:18:path
      volume        = {15},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.30757/alea.v15-20},>`_
+`The URL link to the source <https://doi.org/10.30757/alea.v15-20>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

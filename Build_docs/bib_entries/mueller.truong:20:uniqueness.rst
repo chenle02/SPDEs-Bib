@@ -23,8 +23,7 @@ mueller.truong:20:uniqueness
      volume        = {13},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.2140/involve.2020.13.433},>`_
+`The URL link to the source <https://doi.org/10.2140/involve.2020.13.433>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

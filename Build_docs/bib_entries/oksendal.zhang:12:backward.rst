@@ -22,8 +22,7 @@ oksendal.zhang:12:backward
      volume        = {6},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.31390/cosa.6.4.13},>`_
+`The URL link to the source <https://doi.org/10.31390/cosa.6.4.13>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

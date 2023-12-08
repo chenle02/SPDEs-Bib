@@ -23,8 +23,7 @@ tracy.widom:16:on*1
      volume        = {57},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1063/1.4964252},>`_
+`The URL link to the source <https://doi.org/10.1063/1.4964252>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ bourgain:13:on*3
      volume        = {120},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1007/s11854-013-0016-z},>`_
+`The URL link to the source <https://doi.org/10.1007/s11854-013-0016-z>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

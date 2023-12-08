@@ -23,8 +23,7 @@ bourgain:13:on
      volume        = {280},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1134/s0081543813010045},>`_
+`The URL link to the source <https://doi.org/10.1134/s0081543813010045>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

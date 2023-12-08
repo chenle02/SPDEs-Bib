@@ -22,8 +22,7 @@ lee:22:local
      volume        = {28},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1007/s00041-022-09914-w},>`_
+`The URL link to the source <https://doi.org/10.1007/s00041-022-09914-w>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

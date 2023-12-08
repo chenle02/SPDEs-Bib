@@ -23,8 +23,7 @@ mathieu:06:carne-varopoulos
      volume        = {34},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1214/009117906000000052},>`_
+`The URL link to the source <https://doi.org/10.1214/009117906000000052>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ chen:15:limit
      volume        = {28},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1007/s10959-013-0481-4},>`_
+`The URL link to the source <https://doi.org/10.1007/s10959-013-0481-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

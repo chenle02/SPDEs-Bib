@@ -23,8 +23,7 @@ kawohl.kersner:92:on
      volume        = {15},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1002/mma.1670150703},>`_
+`The URL link to the source <https://doi.org/10.1002/mma.1670150703>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

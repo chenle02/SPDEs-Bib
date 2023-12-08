@@ -23,8 +23,7 @@ dalang.khoshnevisan:04:recurrent
      volume        = {114},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2004.05.008},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2004.05.008>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

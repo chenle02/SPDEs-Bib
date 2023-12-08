@@ -15,8 +15,7 @@ chen.foondun.ea:23:global
      url           = {http://arXiv.org/abs/2310.02153},
      year          = {2023}
    }
-
-`Link to Source <http://arXiv.org/abs/2310.02153},>`_
+`The URL link to the source <http://arXiv.org/abs/2310.02153>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

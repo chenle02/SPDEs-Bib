@@ -23,8 +23,7 @@ jacka.tribe:03:comparisons
      volume        = {31},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1055425794},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1055425794>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

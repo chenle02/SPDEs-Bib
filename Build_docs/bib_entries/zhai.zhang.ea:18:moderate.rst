@@ -22,8 +22,7 @@ zhai.zhang.ea:18:moderate
      volume        = {18},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1142/S0219493718500260},>`_
+`The URL link to the source <https://doi.org/10.1142/S0219493718500260>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

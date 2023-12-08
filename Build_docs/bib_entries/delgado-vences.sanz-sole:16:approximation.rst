@@ -23,8 +23,7 @@ delgado-vences.sanz-sole:16:approximation
      volume        = {22},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.3150/15-BEJ704},>`_
+`The URL link to the source <https://doi.org/10.3150/15-BEJ704>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

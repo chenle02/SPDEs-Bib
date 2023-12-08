@@ -17,8 +17,7 @@ chen:23:spdes-bib
      url           = {https://spdes-bib.readthedocs.io},
      year          = {2023}
    }
-
-`Link to Source <https://spdes-bib.readthedocs.io},>`_
+`The URL link to the source <https://spdes-bib.readthedocs.io>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

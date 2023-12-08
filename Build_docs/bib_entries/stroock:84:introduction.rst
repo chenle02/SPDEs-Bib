@@ -21,8 +21,7 @@ stroock:84:introduction
      url           = {https://doi.org/10.1007/978-1-4613-8514-1},
      year          = {1984}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4613-8514-1},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4613-8514-1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

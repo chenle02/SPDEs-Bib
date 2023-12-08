@@ -23,8 +23,7 @@ bourgain:97:on*1
      volume        = {4},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.4310/MRL.1997.v4.n4.a1},>`_
+`The URL link to the source <https://doi.org/10.4310/MRL.1997.v4.n4.a1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ magnen.unterberger:18:scaling
      volume        = {171},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-018-2014-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-018-2014-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

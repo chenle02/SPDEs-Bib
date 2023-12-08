@@ -20,8 +20,7 @@ brzezniak:03:some
      url           = {https://doi.org/10.1142/9789812703989\_0004},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1142/9789812703989\_0004},>`_
+`The URL link to the source <https://doi.org/10.1142/9789812703989\_0004>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ metzler.klafter:04:restaurant
      volume        = {37},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1088/0305-4470/37/31/R01},>`_
+`The URL link to the source <https://doi.org/10.1088/0305-4470/37/31/R01>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

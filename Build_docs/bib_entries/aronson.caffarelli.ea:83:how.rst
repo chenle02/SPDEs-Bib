@@ -23,8 +23,7 @@ aronson.caffarelli.ea:83:how
      volume        = {14},
      year          = {1983}
    }
-
-`Link to Source <https://doi.org/10.1137/0514049},>`_
+`The URL link to the source <https://doi.org/10.1137/0514049>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

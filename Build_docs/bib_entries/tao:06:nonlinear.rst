@@ -23,8 +23,7 @@ tao:06:nonlinear
      volume        = {106},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1090/cbms/106},>`_
+`The URL link to the source <https://doi.org/10.1090/cbms/106>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

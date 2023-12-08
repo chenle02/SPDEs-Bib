@@ -23,8 +23,7 @@ hu.salins.ea:19:large
      volume        = {7},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-019-00140-y},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-019-00140-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

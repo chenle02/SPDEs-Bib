@@ -22,8 +22,7 @@ mourrat.weber:17:dynamic
      volume        = {356},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-017-2997-4},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-017-2997-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

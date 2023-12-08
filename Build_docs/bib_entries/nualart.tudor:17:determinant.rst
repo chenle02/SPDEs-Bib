@@ -23,8 +23,7 @@ nualart.tudor:17:determinant
      volume        = {45},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1214/15-AOP1015},>`_
+`The URL link to the source <https://doi.org/10.1214/15-AOP1015>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

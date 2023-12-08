@@ -15,8 +15,7 @@ caravenna.sun.ea:22:critical
      url           = {http://arXiv.org/abs/2206.08766},
      year          = {2022}
    }
-
-`Link to Source <http://arXiv.org/abs/2206.08766},>`_
+`The URL link to the source <http://arXiv.org/abs/2206.08766>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ wu.zeitouni:19:subsequential
      volume        = {24},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1214/19-ECP215},>`_
+`The URL link to the source <https://doi.org/10.1214/19-ECP215>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

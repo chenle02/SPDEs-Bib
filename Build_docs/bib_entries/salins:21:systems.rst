@@ -21,8 +21,7 @@ salins:21:systems
      volume        = {142},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2021.08.010},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2021.08.010>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

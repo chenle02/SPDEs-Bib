@@ -23,8 +23,7 @@ bourgain.guth:11:bounds
      volume        = {349},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2010.12.004},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2010.12.004>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

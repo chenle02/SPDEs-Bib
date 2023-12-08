@@ -23,8 +23,7 @@ bercu.nourdin.ea:10:almost
      volume        = {120},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2010.05.004},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2010.05.004>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

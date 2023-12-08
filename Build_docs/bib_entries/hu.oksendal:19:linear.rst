@@ -23,8 +23,7 @@ hu.oksendal:19:linear
      volume        = {129},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2018.03.016},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2018.03.016>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

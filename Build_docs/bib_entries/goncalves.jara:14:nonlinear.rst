@@ -23,8 +23,7 @@ goncalves.jara:14:nonlinear
      volume        = {212},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1007/s00205-013-0693-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s00205-013-0693-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

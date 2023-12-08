@@ -22,8 +22,7 @@ adolfsson:93:lp-integrability
      volume        = {159},
      year          = {1993}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.pjm/1102634261},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102634261>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

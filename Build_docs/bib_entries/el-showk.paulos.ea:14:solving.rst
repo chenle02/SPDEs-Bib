@@ -22,8 +22,7 @@ el-showk.paulos.ea:14:solving
      volume        = {157},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-014-1042-7},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-014-1042-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

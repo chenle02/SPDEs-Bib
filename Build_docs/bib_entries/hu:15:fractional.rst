@@ -19,5 +19,7 @@ hu:15:fractional
      url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:10005032},
      year          = {2015}
    }
+`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:10005032>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ gershenzon.lacroix-a-chez-toine.ea:23:on-site
      volume        = {130},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.1103/physrevlett.130.237103},>`_
+`The URL link to the source <https://doi.org/10.1103/physrevlett.130.237103>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

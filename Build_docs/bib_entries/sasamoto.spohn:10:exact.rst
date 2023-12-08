@@ -22,8 +22,7 @@ sasamoto.spohn:10:exact
      volume        = {834},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1016/j.nuclphysb.2010.03.026},>`_
+`The URL link to the source <https://doi.org/10.1016/j.nuclphysb.2010.03.026>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

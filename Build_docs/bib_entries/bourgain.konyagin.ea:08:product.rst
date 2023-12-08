@@ -21,8 +21,7 @@ bourgain.konyagin.ea:08:product
      url           = {https://doi.org/10.1093/imrn/rnn090},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1093/imrn/rnn090},>`_
+`The URL link to the source <https://doi.org/10.1093/imrn/rnn090>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

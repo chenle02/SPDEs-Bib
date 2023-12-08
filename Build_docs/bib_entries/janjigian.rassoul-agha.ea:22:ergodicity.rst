@@ -15,8 +15,7 @@ janjigian.rassoul-agha.ea:22:ergodicity
      url           = {http://arXiv.org/abs/2211.06779},
      year          = {2022}
    }
-
-`Link to Source <http://arXiv.org/abs/2211.06779},>`_
+`The URL link to the source <http://arXiv.org/abs/2211.06779>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

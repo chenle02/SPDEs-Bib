@@ -23,8 +23,7 @@ guerra.toninelli:02:thermodynamic
      volume        = {230},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-002-0699-y},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-002-0699-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

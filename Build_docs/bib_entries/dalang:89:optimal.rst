@@ -23,8 +23,7 @@ dalang:89:optimal
      volume        = {313},
      year          = {1989}
    }
-
-`Link to Source <https://doi.org/10.2307/2001425},>`_
+`The URL link to the source <https://doi.org/10.2307/2001425>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

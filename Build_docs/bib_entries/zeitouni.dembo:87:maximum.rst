@@ -23,8 +23,7 @@ zeitouni.dembo:87:maximum
      volume        = {20},
      year          = {1987}
    }
-
-`Link to Source <https://doi.org/10.1080/17442508708833444},>`_
+`The URL link to the source <https://doi.org/10.1080/17442508708833444>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ dembo.lubetzky.ea:21:universality
      volume        = {31},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1214/21-aap1665},>`_
+`The URL link to the source <https://doi.org/10.1214/21-aap1665>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

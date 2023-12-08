@@ -23,8 +23,7 @@ chen.zhang:09:time-reversal
      volume        = {37},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1214/08-AOP427},>`_
+`The URL link to the source <https://doi.org/10.1214/08-AOP427>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

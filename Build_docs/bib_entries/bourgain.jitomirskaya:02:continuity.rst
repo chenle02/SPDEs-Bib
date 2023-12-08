@@ -23,8 +23,7 @@ bourgain.jitomirskaya:02:continuity
      volume        = {108},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1023/A:1019751801035},>`_
+`The URL link to the source <https://doi.org/10.1023/A:1019751801035>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

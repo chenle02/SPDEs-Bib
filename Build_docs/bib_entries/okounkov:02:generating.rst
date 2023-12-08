@@ -22,8 +22,7 @@ okounkov:02:generating
      url           = {https://doi.org/10.1155/S1073792802110099},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1155/S1073792802110099},>`_
+`The URL link to the source <https://doi.org/10.1155/S1073792802110099>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

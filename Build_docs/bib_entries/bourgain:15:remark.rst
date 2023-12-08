@@ -22,8 +22,7 @@ bourgain:15:remark
      url           = {https://doi.org/10.1093/imrn/rnu023},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1093/imrn/rnu023},>`_
+`The URL link to the source <https://doi.org/10.1093/imrn/rnu023>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

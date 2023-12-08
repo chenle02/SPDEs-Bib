@@ -23,8 +23,7 @@ brydges.munoz-maya:91:application
      volume        = {4},
      year          = {1991}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01258743},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01258743>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

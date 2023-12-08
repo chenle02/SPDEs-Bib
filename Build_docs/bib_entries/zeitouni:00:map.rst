@@ -23,8 +23,7 @@ zeitouni:00:map
      volume        = {518},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4615-5223-9\_11},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4615-5223-9\_11>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ hu.lu.ea:14:convergence
      volume        = {266},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2013.09.024},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2013.09.024>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ dareiotis.gerencser:15:on
      volume        = {3},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-014-0043-5},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-014-0043-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

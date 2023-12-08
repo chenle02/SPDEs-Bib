@@ -22,8 +22,7 @@ beijeren.kutner.ea:85:excess
      volume        = {54},
      year          = {1985}
    }
-
-`Link to Source <https://doi.org/10.1103/PhysRevLett.54.2026},>`_
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.54.2026>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

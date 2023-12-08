@@ -23,8 +23,7 @@ berestycki.schramm.ea:11:mixing
      volume        = {39},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1214/10-AOP634},>`_
+`The URL link to the source <https://doi.org/10.1214/10-AOP634>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

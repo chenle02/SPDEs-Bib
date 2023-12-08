@@ -22,8 +22,7 @@ bourgain.brezis:04:new
      volume        = {338},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2003.12.031},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2003.12.031>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

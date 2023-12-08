@@ -22,8 +22,7 @@ mccoy.tracy.ea:77:painleve
      volume        = {18},
      year          = {1977}
    }
-
-`Link to Source <https://doi.org/10.1063/1.523367},>`_
+`The URL link to the source <https://doi.org/10.1063/1.523367>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

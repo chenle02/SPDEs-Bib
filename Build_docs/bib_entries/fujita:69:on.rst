@@ -22,8 +22,7 @@ fujita:69:on
      volume        = {75},
      year          = {1969}
    }
-
-`Link to Source <https://doi.org/10.1090/S0002-9904-1969-12175-0},>`_
+`The URL link to the source <https://doi.org/10.1090/S0002-9904-1969-12175-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

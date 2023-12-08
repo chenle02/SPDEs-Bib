@@ -23,8 +23,7 @@ feng.grigorescu.ea:04:diffusive
      volume        = {35},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1137/S0036141002409520},>`_
+`The URL link to the source <https://doi.org/10.1137/S0036141002409520>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

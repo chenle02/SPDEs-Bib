@@ -21,5 +21,7 @@ hoeffding:63:probability
      volume        = {58},
      year          = {1963}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0162-1459(196303)58:301<13:PIFSOB>2.0.CO;2-D\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

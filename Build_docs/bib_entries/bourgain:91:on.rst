@@ -23,8 +23,7 @@ bourgain:91:on
      volume        = {1469},
      year          = {1991}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0089219},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0089219>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

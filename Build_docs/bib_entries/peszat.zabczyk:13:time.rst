@@ -23,8 +23,7 @@ peszat.zabczyk:13:time
      volume        = {123},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2012.10.012},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2012.10.012>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

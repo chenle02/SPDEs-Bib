@@ -22,8 +22,7 @@ zhang.lin.ea:22:two-dimensional
      volume        = {478},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1098/rspa.2022.0346},>`_
+`The URL link to the source <https://doi.org/10.1098/rspa.2022.0346>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

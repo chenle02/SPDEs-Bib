@@ -22,5 +22,7 @@ nualart:84:formule
      volume        = {20},
      year          = {1984}
    }
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1984\_\_20\_3\_251\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

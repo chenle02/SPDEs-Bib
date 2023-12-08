@@ -18,8 +18,7 @@ chen:13:moments
      url           = {http://infoscience.epfl.ch/record/185885},
      year          = {2013}
    }
-
-`Link to Source <http://infoscience.epfl.ch/record/185885},>`_
+`The URL link to the source <http://infoscience.epfl.ch/record/185885>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

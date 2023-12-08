@@ -23,8 +23,7 @@ bourgain.li:15:strong*1
      volume        = {25},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1007/s00039-015-0311-1},>`_
+`The URL link to the source <https://doi.org/10.1007/s00039-015-0311-1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

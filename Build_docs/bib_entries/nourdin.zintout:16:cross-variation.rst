@@ -23,8 +23,7 @@ nourdin.zintout:16:cross-variation
      volume        = {36},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1109/mcs.2015.2495000},>`_
+`The URL link to the source <https://doi.org/10.1109/mcs.2015.2495000>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

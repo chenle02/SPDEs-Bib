@@ -22,8 +22,7 @@ wang.yang.ea:21:reflected
      volume        = {27},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.3150/20-bej1258},>`_
+`The URL link to the source <https://doi.org/10.3150/20-bej1258>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ bardina.rovira.ea:02:asymptotic
      volume        = {29},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.4064/am29-2-3},>`_
+`The URL link to the source <https://doi.org/10.4064/am29-2-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

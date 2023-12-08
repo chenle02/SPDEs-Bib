@@ -23,8 +23,7 @@ bourgain:07:new
      volume        = {76, Part 2},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1090/pspum/076.2/2307745},>`_
+`The URL link to the source <https://doi.org/10.1090/pspum/076.2/2307745>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

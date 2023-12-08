@@ -23,8 +23,7 @@ zambotti:03:integration
      volume        = {31},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1046294313},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1046294313>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,5 +22,7 @@ spitzer:81:infinite
      volume        = {9},
      year          = {1981}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198106)9:3<349:ISWLIC>2.0.CO;2-P\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

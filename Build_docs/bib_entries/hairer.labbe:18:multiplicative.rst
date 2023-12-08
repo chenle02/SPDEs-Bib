@@ -23,8 +23,7 @@ hairer.labbe:18:multiplicative
      volume        = {20},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.4171/JEMS/781},>`_
+`The URL link to the source <https://doi.org/10.4171/JEMS/781>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

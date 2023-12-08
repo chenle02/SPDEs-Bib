@@ -23,8 +23,7 @@ kilbas.saigo:04:h-transforms
      volume        = {9},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1201/9780203487372},>`_
+`The URL link to the source <https://doi.org/10.1201/9780203487372>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

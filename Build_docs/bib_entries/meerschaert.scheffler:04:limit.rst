@@ -23,8 +23,7 @@ meerschaert.scheffler:04:limit
      volume        = {41},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1239/jap/1091543414},>`_
+`The URL link to the source <https://doi.org/10.1239/jap/1091543414>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

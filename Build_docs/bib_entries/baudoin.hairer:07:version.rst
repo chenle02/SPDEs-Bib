@@ -23,8 +23,7 @@ baudoin.hairer:07:version
      volume        = {139},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-006-0035-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-006-0035-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

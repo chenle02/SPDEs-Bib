@@ -23,8 +23,7 @@ quer-sardanyons.sanz-sole:04:absolute
      volume        = {206},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1016/S0022-1236(03)00065-X},>`_
+`The URL link to the source <https://doi.org/10.1016/S0022-1236(03)00065-X>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

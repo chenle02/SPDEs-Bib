@@ -22,8 +22,7 @@ dunlap.gu.ea:20:fluctuations
      volume        = {176},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-019-00938-w},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-019-00938-w>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

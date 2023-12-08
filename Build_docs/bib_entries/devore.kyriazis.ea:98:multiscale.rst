@@ -23,8 +23,7 @@ devore.kyriazis.ea:98:multiscale
      volume        = {93},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1006/jath.1997.3142},>`_
+`The URL link to the source <https://doi.org/10.1006/jath.1997.3142>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

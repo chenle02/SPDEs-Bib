@@ -22,8 +22,7 @@ komatsu:84:on
      volume        = {21},
      year          = {1984}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.ojm/1200776873},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200776873>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

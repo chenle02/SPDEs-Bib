@@ -21,5 +21,7 @@ talagrand:95:concentration
      url           = {http://www.numdam.org/item?id=PMIHES\_1995\_\_81\_\_73\_0},
      year          = {1995}
    }
+`The URL link to the source <http://www.numdam.org/item?id=PMIHES\_1995\_\_81\_\_73\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

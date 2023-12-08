@@ -24,8 +24,7 @@ varadhan:03:large
      volume        = {56},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1002/cpa.10093},>`_
+`The URL link to the source <https://doi.org/10.1002/cpa.10093>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

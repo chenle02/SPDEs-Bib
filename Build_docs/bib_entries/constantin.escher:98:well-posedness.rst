@@ -23,8 +23,7 @@ constantin.escher:98:well-posedness
      volume        = {51},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1002/(SICI)1097-0312(199805)51:5<475::AID-CPA2>3.0.CO;2-5},>`_
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199805)51:5<475::AID-CPA2>3.0.CO;2-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

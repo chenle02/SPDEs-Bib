@@ -23,8 +23,7 @@ bourgain:79:decompositions
      volume        = {105},
      year          = {1979/80}
    }
-
-`Link to Source <https://doi.org/10.4064/fm-105-1-61-71},>`_
+`The URL link to the source <https://doi.org/10.4064/fm-105-1-61-71>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

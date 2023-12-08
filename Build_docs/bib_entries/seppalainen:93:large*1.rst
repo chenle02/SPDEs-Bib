@@ -23,8 +23,7 @@ seppalainen:93:large*1
      volume        = {97},
      year          = {1993}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01199314},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01199314>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

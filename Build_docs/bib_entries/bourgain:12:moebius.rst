@@ -23,8 +23,7 @@ bourgain:12:moebius
      volume        = {2050},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-642-29849-3\_8},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-642-29849-3\_8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

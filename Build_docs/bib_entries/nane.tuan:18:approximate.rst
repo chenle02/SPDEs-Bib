@@ -22,8 +22,7 @@ nane.tuan:18:approximate
      volume        = {6},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1137/17M1111139},>`_
+`The URL link to the source <https://doi.org/10.1137/17M1111139>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

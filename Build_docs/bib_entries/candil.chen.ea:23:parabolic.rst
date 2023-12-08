@@ -15,8 +15,7 @@ candil.chen.ea:23:parabolic
      url           = {http://arXiv.org/abs/2301.06435},
      year          = {2023}
    }
-
-`Link to Source <http://arXiv.org/abs/2301.06435},>`_
+`The URL link to the source <http://arXiv.org/abs/2301.06435>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

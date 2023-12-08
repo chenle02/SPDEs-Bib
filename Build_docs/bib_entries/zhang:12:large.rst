@@ -23,8 +23,7 @@ zhang:12:large
      volume        = {122},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2012.06.003},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2012.06.003>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

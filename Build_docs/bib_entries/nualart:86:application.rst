@@ -22,8 +22,7 @@ nualart:86:application
      volume        = {1204},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0075730},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0075730>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

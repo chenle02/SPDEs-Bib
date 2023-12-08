@@ -23,8 +23,7 @@ alabert.nualart:97:second-order
      volume        = {68},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.1016/S0304-4149(97)00021-5},>`_
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(97)00021-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

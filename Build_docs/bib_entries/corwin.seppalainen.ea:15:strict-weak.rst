@@ -23,8 +23,7 @@ corwin.seppalainen.ea:15:strict-weak
      volume        = {160},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-015-1267-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-015-1267-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

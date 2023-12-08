@@ -23,8 +23,7 @@ dalang.quer-sardanyons:11:stochastic
      volume        = {29},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1016/j.exmath.2010.09.005},>`_
+`The URL link to the source <https://doi.org/10.1016/j.exmath.2010.09.005>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

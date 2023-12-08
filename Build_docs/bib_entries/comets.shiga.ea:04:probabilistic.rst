@@ -22,8 +22,7 @@ comets.shiga.ea:04:probabilistic
      volume        = {39},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.2969/aspm/03910115},>`_
+`The URL link to the source <https://doi.org/10.2969/aspm/03910115>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

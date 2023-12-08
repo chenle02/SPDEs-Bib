@@ -23,8 +23,7 @@ bourgain.goldstein.ea:01:anderson
      volume        = {220},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.1007/PL00005570},>`_
+`The URL link to the source <https://doi.org/10.1007/PL00005570>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

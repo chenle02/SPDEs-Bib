@@ -20,8 +20,7 @@ biswas.cherayil:95:dynamics
      volume        = {99},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1021/j100002a052},>`_
+`The URL link to the source <https://doi.org/10.1021/j100002a052>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

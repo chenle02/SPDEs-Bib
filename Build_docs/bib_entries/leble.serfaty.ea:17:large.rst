@@ -22,8 +22,7 @@ leble.serfaty.ea:17:large
      volume        = {350},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-016-2735-3},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-016-2735-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ carmona.nualart:88:random*1
      volume        = {79},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1007/BF00318783},>`_
+`The URL link to the source <https://doi.org/10.1007/BF00318783>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

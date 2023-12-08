@@ -21,8 +21,7 @@ sutherland:04:beautiful
      url           = {https://doi.org/10.1142/5552},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1142/5552},>`_
+`The URL link to the source <https://doi.org/10.1142/5552>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

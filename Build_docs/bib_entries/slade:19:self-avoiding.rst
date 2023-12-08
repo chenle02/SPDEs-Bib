@@ -22,8 +22,7 @@ slade:19:self-avoiding
      volume        = {475},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1098/rspa.2018.0549},>`_
+`The URL link to the source <https://doi.org/10.1098/rspa.2018.0549>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

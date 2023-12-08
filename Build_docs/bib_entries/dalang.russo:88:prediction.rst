@@ -23,8 +23,7 @@ dalang.russo:88:prediction
      volume        = {26},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1016/0047-259X(88)90071-1},>`_
+`The URL link to the source <https://doi.org/10.1016/0047-259X(88)90071-1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

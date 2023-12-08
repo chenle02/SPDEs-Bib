@@ -23,8 +23,7 @@ nourdin.tudor:06:some
      volume        = {78},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1080/17442500600688997},>`_
+`The URL link to the source <https://doi.org/10.1080/17442500600688997>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

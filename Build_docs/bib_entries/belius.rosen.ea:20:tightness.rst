@@ -23,8 +23,7 @@ belius.rosen.ea:20:tightness
      volume        = {176},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-019-00940-2},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-019-00940-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

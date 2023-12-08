@@ -22,8 +22,7 @@ khoshnevisan:97:some
      volume        = {1655},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0119303},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0119303>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

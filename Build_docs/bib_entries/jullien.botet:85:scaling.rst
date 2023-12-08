@@ -19,8 +19,7 @@ jullien.botet:85:scaling
      volume        = {18},
      year          = {1985}
    }
-
-`Link to Source <https://dx.doi.org/10.1088/0305-4470/18/12/026},>`_
+`The URL link to the source <https://dx.doi.org/10.1088/0305-4470/18/12/026>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ chelkak.duminil-copin.ea:14:convergence
      volume        = {352},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2013.12.002},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2013.12.002>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

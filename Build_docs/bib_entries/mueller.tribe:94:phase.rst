@@ -23,8 +23,7 @@ mueller.tribe:94:phase
      volume        = {100},
      year          = {1994}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01199262},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01199262>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

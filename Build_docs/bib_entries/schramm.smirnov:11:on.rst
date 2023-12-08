@@ -24,8 +24,7 @@ schramm.smirnov:11:on
      volume        = {39},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1214/11-AOP659},>`_
+`The URL link to the source <https://doi.org/10.1214/11-AOP659>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

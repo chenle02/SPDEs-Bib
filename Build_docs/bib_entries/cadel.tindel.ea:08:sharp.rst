@@ -22,8 +22,7 @@ cadel.tindel.ea:08:sharp
      volume        = {29},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1007/s11118-008-9092-6},>`_
+`The URL link to the source <https://doi.org/10.1007/s11118-008-9092-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

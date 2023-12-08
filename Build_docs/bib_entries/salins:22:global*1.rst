@@ -22,8 +22,7 @@ salins:22:global*1
      volume        = {375},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1090/tran/8763},>`_
+`The URL link to the source <https://doi.org/10.1090/tran/8763>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

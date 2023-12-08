@@ -23,8 +23,7 @@ bourgain:79:sets
      volume        = {66},
      year          = {1979/80}
    }
-
-`Link to Source <https://doi.org/10.4064/sm-66-3-291-297},>`_
+`The URL link to the source <https://doi.org/10.4064/sm-66-3-291-297>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ baudoin.ouyang.ea:15:varadhan
      volume        = {125},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2014.09.012},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2014.09.012>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

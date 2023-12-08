@@ -15,8 +15,7 @@ khoshnevisan.swanson.ea:13:weak
      url           = {http://arXiv.org/abs/1309.3613},
      year          = {2013}
    }
-
-`Link to Source <http://arXiv.org/abs/1309.3613},>`_
+`The URL link to the source <http://arXiv.org/abs/1309.3613>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ bal:11:convergence
      url           = {https://doi.org/10.1093/amrx/abr006},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1093/amrx/abr006},>`_
+`The URL link to the source <https://doi.org/10.1093/amrx/abr006>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

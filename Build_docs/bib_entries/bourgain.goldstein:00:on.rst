@@ -23,8 +23,7 @@ bourgain.goldstein:00:on
      volume        = {152},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.2307/2661356},>`_
+`The URL link to the source <https://doi.org/10.2307/2661356>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

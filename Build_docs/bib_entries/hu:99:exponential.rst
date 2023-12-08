@@ -22,8 +22,7 @@ hu:99:exponential
      volume        = {234},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1090/conm/234/03446},>`_
+`The URL link to the source <https://doi.org/10.1090/conm/234/03446>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

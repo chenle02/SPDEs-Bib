@@ -23,8 +23,7 @@ hairer.stuart.ea:14:spectral
      volume        = {24},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1214/13-AAP982},>`_
+`The URL link to the source <https://doi.org/10.1214/13-AAP982>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

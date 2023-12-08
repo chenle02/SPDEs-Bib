@@ -23,8 +23,7 @@ khoshnevisan.xiao.ea:03:local
      volume        = {104},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1016/S0304-4149(02)00237-5},>`_
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(02)00237-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

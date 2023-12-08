@@ -23,8 +23,7 @@ bourgain:05:estimates
      volume        = {15},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1007/s00039-005-0500-4},>`_
+`The URL link to the source <https://doi.org/10.1007/s00039-005-0500-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ flandoli.russo.ea:03:some
      volume        = {40},
      year          = {2003}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.ojm/1153493096},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1153493096>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

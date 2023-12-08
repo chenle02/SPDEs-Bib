@@ -21,8 +21,7 @@ nualart:95:malliavin
      url           = {https://doi.org/10.1007/978-1-4757-2437-0},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4757-2437-0},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4757-2437-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

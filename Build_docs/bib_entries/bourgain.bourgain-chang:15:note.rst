@@ -23,8 +23,7 @@ bourgain.bourgain-chang:15:note
      volume        = {5},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.4171/JST/89},>`_
+`The URL link to the source <https://doi.org/10.4171/JST/89>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

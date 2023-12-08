@@ -23,8 +23,7 @@ hu.zhang:22:functional
      volume        = {17},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1214/21-ba1290},>`_
+`The URL link to the source <https://doi.org/10.1214/21-ba1290>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

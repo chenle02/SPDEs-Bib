@@ -23,8 +23,7 @@ bourgain:88:remark
      volume        = {79},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1016/0022-1236(88)90033-X},>`_
+`The URL link to the source <https://doi.org/10.1016/0022-1236(88)90033-X>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ sugitani:89:some
      volume        = {41},
      year          = {1989}
    }
-
-`Link to Source <https://doi.org/10.2969/jmsj/04130437},>`_
+`The URL link to the source <https://doi.org/10.2969/jmsj/04130437>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -20,8 +20,7 @@ bourgain:00:harmonic
      url           = {https://doi.org/10.1007/bf02791532},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/bf02791532},>`_
+`The URL link to the source <https://doi.org/10.1007/bf02791532>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

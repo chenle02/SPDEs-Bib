@@ -23,8 +23,7 @@ comets.zeitouni:04:law
      volume        = {32},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1079021467},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1079021467>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

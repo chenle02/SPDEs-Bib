@@ -23,8 +23,7 @@ rassoul-agha.seppalainen.ea:17:variational
      volume        = {23},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.3150/15-BEJ747},>`_
+`The URL link to the source <https://doi.org/10.3150/15-BEJ747>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

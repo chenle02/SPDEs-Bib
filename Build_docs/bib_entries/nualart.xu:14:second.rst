@@ -23,8 +23,7 @@ nualart.xu:14:second
      volume        = {86},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1080/17442508.2014.895360},>`_
+`The URL link to the source <https://doi.org/10.1080/17442508.2014.895360>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

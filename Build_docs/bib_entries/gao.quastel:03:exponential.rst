@@ -23,8 +23,7 @@ gao.quastel:03:exponential
      volume        = {13},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1214/aoap/1069786512},>`_
+`The URL link to the source <https://doi.org/10.1214/aoap/1069786512>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

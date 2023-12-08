@@ -22,8 +22,7 @@ liu.selk.ea:23:convergence
      volume        = {59},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.1214/22-aihp1282},>`_
+`The URL link to the source <https://doi.org/10.1214/22-aihp1282>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

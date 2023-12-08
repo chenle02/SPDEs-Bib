@@ -23,8 +23,7 @@ herrero.velazquez:92:approaching
      volume        = {170},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1016/0022-247X(92)90024-8},>`_
+`The URL link to the source <https://doi.org/10.1016/0022-247X(92)90024-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

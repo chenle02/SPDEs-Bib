@@ -23,8 +23,7 @@ corwin.shen:20:some
      volume        = {57},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1090/bull/1670},>`_
+`The URL link to the source <https://doi.org/10.1090/bull/1670>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

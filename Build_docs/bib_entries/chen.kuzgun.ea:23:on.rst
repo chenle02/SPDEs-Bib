@@ -15,8 +15,7 @@ chen.kuzgun.ea:23:on
      url           = {http://arXiv.org/abs/2308.10889},
      year          = {2023}
    }
-
-`Link to Source <http://arXiv.org/abs/2308.10889},>`_
+`The URL link to the source <http://arXiv.org/abs/2308.10889>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ mazya:09:boundedness
      volume        = {347},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2009.03.001},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2009.03.001>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

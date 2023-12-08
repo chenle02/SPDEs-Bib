@@ -23,8 +23,7 @@ bourgain:06:nonlinear
      volume        = {50},
      year          = {2006}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.ijm/1258059474},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1258059474>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

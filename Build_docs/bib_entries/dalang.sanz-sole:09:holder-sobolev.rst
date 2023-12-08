@@ -24,8 +24,7 @@ dalang.sanz-sole:09:holder-sobolev
      volume        = {199},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1090/memo/0931},>`_
+`The URL link to the source <https://doi.org/10.1090/memo/0931>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

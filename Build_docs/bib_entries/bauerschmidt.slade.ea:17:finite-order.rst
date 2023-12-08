@@ -23,8 +23,7 @@ bauerschmidt.slade.ea:17:finite-order
      volume        = {18},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1007/s00023-016-0499-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s00023-016-0499-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

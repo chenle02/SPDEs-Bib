@@ -22,8 +22,7 @@ balan.nualart.ea:22:hyperbolic
      volume        = {10},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-021-00227-5},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-021-00227-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

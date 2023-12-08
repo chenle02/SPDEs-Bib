@@ -23,8 +23,7 @@ bourgain.burq.ea:13:control
      volume        = {15},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.4171/JEMS/399},>`_
+`The URL link to the source <https://doi.org/10.4171/JEMS/399>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

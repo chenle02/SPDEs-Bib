@@ -23,8 +23,7 @@ bourgain:80:nondentable
      volume        = {68},
      year          = {1980}
    }
-
-`Link to Source <https://doi.org/10.4064/sm-68-2-131-139},>`_
+`The URL link to the source <https://doi.org/10.4064/sm-68-2-131-139>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

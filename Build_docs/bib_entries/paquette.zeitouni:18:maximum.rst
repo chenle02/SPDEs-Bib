@@ -22,8 +22,7 @@ paquette.zeitouni:18:maximum
      url           = {https://doi.org/10.1093/imrn/rnx033},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1093/imrn/rnx033},>`_
+`The URL link to the source <https://doi.org/10.1093/imrn/rnx033>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

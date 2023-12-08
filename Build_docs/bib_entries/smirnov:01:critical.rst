@@ -22,8 +22,7 @@ smirnov:01:critical
      volume        = {333},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.1016/S0764-4442(01)01991-7},>`_
+`The URL link to the source <https://doi.org/10.1016/S0764-4442(01)01991-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

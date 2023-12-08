@@ -23,8 +23,7 @@ hu:90:symmetric
      volume        = {10},
      year          = {1990}
    }
-
-`Link to Source <https://doi.org/10.1016/S0252-9602(18)30419-3},>`_
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(18)30419-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

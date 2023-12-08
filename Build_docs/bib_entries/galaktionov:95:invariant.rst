@@ -23,8 +23,7 @@ galaktionov:95:invariant
      volume        = {125},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1017/S0308210500028018},>`_
+`The URL link to the source <https://doi.org/10.1017/S0308210500028018>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ mckane:80:reformulation
      volume        = {76},
      year          = {1980}
    }
-
-`Link to Source <https://doi.org/10.1016/0375-9601(80)90136-X},>`_
+`The URL link to the source <https://doi.org/10.1016/0375-9601(80)90136-X>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

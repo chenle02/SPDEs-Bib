@@ -23,8 +23,7 @@ hu.nualart.ea:15:density
      volume        = {21},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.3150/14-BEJ646},>`_
+`The URL link to the source <https://doi.org/10.3150/14-BEJ646>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ cranston.koralov.ea:09:continuous
      volume        = {256},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2008.07.019},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2008.07.019>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

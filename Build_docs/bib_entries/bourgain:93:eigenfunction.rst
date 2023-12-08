@@ -22,8 +22,7 @@ bourgain:93:eigenfunction
      url           = {https://doi.org/10.1155/S1073792893000066},
      year          = {1993}
    }
-
-`Link to Source <https://doi.org/10.1155/S1073792893000066},>`_
+`The URL link to the source <https://doi.org/10.1155/S1073792893000066>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

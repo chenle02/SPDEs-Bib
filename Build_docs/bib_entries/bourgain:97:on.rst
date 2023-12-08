@@ -22,8 +22,7 @@ bourgain:97:on
      url           = {https://doi.org/10.1155/S1073792897000305},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.1155/S1073792897000305},>`_
+`The URL link to the source <https://doi.org/10.1155/S1073792897000305>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

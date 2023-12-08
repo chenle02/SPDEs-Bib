@@ -22,8 +22,7 @@ gu.komorowski:23:another
      volume        = {376},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.1090/tran/8847},>`_
+`The URL link to the source <https://doi.org/10.1090/tran/8847>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

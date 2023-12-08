@@ -23,8 +23,7 @@ kulkarni.zeitouni:91:can
      volume        = {12},
      year          = {1991}
    }
-
-`Link to Source <https://doi.org/10.1016/0167-7152(91)90100-6},>`_
+`The URL link to the source <https://doi.org/10.1016/0167-7152(91)90100-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

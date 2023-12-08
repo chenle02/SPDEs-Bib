@@ -22,5 +22,7 @@ bernard.nualart:90:regularite
      volume        = {26},
      year          = {1990}
    }
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1990\_\_26\_2\_287\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ glimm.jaffe.ea:75:phase
      volume        = {45},
      year          = {1975}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.cmp/1103899492},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103899492>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

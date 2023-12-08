@@ -23,8 +23,7 @@ bourgain.shao.ea:15:on
      volume        = {333},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-014-2077-y},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-014-2077-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

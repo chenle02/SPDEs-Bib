@@ -23,8 +23,7 @@ hairer:13:solving
      volume        = {178},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.4007/annals.2013.178.2.4},>`_
+`The URL link to the source <https://doi.org/10.4007/annals.2013.178.2.4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

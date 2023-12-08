@@ -22,5 +22,7 @@ seppalainen:94:large
      volume        = {22},
      year          = {1994}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199404)22:2<713:LDFMCW>2.0.CO;2-9\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

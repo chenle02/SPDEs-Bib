@@ -23,8 +23,7 @@ dalang:06:demonstration
      volume        = {61},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.4171/EM/34},>`_
+`The URL link to the source <https://doi.org/10.4171/EM/34>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

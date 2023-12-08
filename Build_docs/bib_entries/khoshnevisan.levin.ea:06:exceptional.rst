@@ -23,8 +23,7 @@ khoshnevisan.levin.ea:06:exceptional
      volume        = {134},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-005-0435-6},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-005-0435-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

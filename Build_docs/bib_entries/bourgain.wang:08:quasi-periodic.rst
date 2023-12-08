@@ -23,8 +23,7 @@ bourgain.wang:08:quasi-periodic
      volume        = {10},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.4171/JEMS/102},>`_
+`The URL link to the source <https://doi.org/10.4171/JEMS/102>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

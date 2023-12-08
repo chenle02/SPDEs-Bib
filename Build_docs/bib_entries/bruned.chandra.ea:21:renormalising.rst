@@ -23,8 +23,7 @@ bruned.chandra.ea:21:renormalising
      volume        = {23},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.4171/jems/1025},>`_
+`The URL link to the source <https://doi.org/10.4171/jems/1025>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

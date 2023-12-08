@@ -15,8 +15,7 @@ chen.eisenberg:22:interpolating
      url           = {https://www.arxiv.org/abs/2108.11473},
      year          = {2022}
    }
-
-`Link to Source <https://www.arxiv.org/abs/2108.11473},>`_
+`The URL link to the source <https://www.arxiv.org/abs/2108.11473>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

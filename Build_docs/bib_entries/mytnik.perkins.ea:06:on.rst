@@ -23,8 +23,7 @@ mytnik.perkins.ea:06:on
      volume        = {34},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1214/009117906000000331},>`_
+`The URL link to the source <https://doi.org/10.1214/009117906000000331>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

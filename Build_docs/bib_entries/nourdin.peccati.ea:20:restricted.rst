@@ -23,8 +23,7 @@ nourdin.peccati.ea:20:restricted
      volume        = {148},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1090/proc/14964},>`_
+`The URL link to the source <https://doi.org/10.1090/proc/14964>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

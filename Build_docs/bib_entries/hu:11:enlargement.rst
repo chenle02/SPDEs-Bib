@@ -23,8 +23,7 @@ hu:11:enlargement
      volume        = {31},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1016/S0252-9602(11)60352-4},>`_
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(11)60352-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

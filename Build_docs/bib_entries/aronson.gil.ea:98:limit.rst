@@ -22,8 +22,7 @@ aronson.gil.ea:98:limit
      volume        = {23},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1080/03605309808821347},>`_
+`The URL link to the source <https://doi.org/10.1080/03605309808821347>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ han.hu.ea:19:on
      volume        = {19},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1080/14697688.2018.1480835},>`_
+`The URL link to the source <https://doi.org/10.1080/14697688.2018.1480835>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

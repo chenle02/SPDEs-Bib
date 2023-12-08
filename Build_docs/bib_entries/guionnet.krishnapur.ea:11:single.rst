@@ -23,8 +23,7 @@ guionnet.krishnapur.ea:11:single
      volume        = {174},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.4007/annals.2011.174.2.10},>`_
+`The URL link to the source <https://doi.org/10.4007/annals.2011.174.2.10>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

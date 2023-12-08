@@ -23,8 +23,7 @@ delgado.sanz:92:hu-meyer
      volume        = {38},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1080/17442509208833752},>`_
+`The URL link to the source <https://doi.org/10.1080/17442509208833752>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

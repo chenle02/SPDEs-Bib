@@ -22,8 +22,7 @@ gurel-gurevich.peres.ea:14:localization
      volume        = {19},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1214/ECP.v19-3081},>`_
+`The URL link to the source <https://doi.org/10.1214/ECP.v19-3081>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

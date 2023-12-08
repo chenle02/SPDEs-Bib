@@ -23,8 +23,7 @@ cerrai.clement:03:schauder
      volume        = {127},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1016/S0007-4497(03)00058-7},>`_
+`The URL link to the source <https://doi.org/10.1016/S0007-4497(03)00058-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

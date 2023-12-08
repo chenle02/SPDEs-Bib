@@ -23,8 +23,7 @@ bourgain:80:dentability
      volume        = {67},
      year          = {1980}
    }
-
-`Link to Source <https://doi.org/10.4064/sm-67-2-135-148},>`_
+`The URL link to the source <https://doi.org/10.4064/sm-67-2-135-148>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

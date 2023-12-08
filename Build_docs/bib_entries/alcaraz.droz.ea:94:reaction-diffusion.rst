@@ -23,8 +23,7 @@ alcaraz.droz.ea:94:reaction-diffusion
      volume        = {230},
      year          = {1994}
    }
-
-`Link to Source <https://doi.org/10.1006/aphy.1994.1026},>`_
+`The URL link to the source <https://doi.org/10.1006/aphy.1994.1026>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

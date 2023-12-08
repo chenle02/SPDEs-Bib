@@ -21,8 +21,7 @@ schram.barkema.ea:11:exact
      url           = {https://doi.org/10.1088/1742-5468/2011/06/p06019},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1088/1742-5468/2011/06/p06019},>`_
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2011/06/p06019>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

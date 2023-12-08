@@ -23,8 +23,7 @@ dawson.fleischmann.ea:00:finite
      volume        = {28},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1019160254},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1019160254>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

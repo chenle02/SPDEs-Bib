@@ -23,8 +23,7 @@ bourgain:03:random
      volume        = {1807},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-540-36428-3\_7},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-540-36428-3\_7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ jolis:10:wiener
      volume        = {366},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jmaa.2010.01.058},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2010.01.058>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

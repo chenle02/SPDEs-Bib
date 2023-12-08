@@ -21,8 +21,7 @@ sznitman:98:brownian
      url           = {https://doi.org/10.1007/978-3-662-11281-6},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-662-11281-6},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-662-11281-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

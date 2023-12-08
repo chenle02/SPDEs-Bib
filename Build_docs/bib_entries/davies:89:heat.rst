@@ -22,8 +22,7 @@ davies:89:heat
      volume        = {92},
      year          = {1989}
    }
-
-`Link to Source <https://doi.org/10.1017/CBO9780511566158},>`_
+`The URL link to the source <https://doi.org/10.1017/CBO9780511566158>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

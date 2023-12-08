@@ -23,8 +23,7 @@ farre.nualart:93:nonlinear
      volume        = {46},
      year          = {1993}
    }
-
-`Link to Source <https://doi.org/10.1016/0304-4149(93)90004-N},>`_
+`The URL link to the source <https://doi.org/10.1016/0304-4149(93)90004-N>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

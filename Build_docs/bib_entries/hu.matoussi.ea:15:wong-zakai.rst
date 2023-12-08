@@ -23,8 +23,7 @@ hu.matoussi.ea:15:wong-zakai
      volume        = {125},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2015.07.003},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2015.07.003>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

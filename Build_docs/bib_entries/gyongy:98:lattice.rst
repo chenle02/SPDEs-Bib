@@ -23,8 +23,7 @@ gyongy:98:lattice
      volume        = {9},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1023/A:1008615012377},>`_
+`The URL link to the source <https://doi.org/10.1023/A:1008615012377>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

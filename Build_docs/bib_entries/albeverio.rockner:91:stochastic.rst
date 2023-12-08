@@ -23,8 +23,7 @@ albeverio.rockner:91:stochastic
      volume        = {89},
      year          = {1991}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01198791},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01198791>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

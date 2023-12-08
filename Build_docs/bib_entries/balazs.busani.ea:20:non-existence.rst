@@ -20,8 +20,7 @@ balazs.busani.ea:20:non-existence
      volume        = {8},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1017/fms.2020.31},>`_
+`The URL link to the source <https://doi.org/10.1017/fms.2020.31>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

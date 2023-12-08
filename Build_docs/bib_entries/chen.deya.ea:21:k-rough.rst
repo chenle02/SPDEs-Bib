@@ -22,8 +22,7 @@ chen.deya.ea:21:k-rough
      volume        = {9},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-020-00186-3},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-020-00186-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

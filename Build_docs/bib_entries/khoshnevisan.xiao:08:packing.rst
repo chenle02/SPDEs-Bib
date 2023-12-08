@@ -23,8 +23,7 @@ khoshnevisan.xiao:08:packing
      volume        = {136},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1090/S0002-9939-08-09163-6},>`_
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-08-09163-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

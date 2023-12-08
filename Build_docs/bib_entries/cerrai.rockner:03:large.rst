@@ -22,8 +22,7 @@ cerrai.rockner:03:large
      volume        = {337},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2003.09.015},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2003.09.015>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ hu.khoshnevisan:10:strong
      volume        = {61},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1007/s10998-010-3213-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s10998-010-3213-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -21,8 +21,7 @@ matsumoto.yor:05:exponential
      volume        = {2},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1214/154957805100000168},>`_
+`The URL link to the source <https://doi.org/10.1214/154957805100000168>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

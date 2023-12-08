@@ -22,8 +22,7 @@ nualart:14:normal
      volume        = {100},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-319-11292-3\_14},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-319-11292-3\_14>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

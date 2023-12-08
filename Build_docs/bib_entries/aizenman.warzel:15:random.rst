@@ -22,8 +22,7 @@ aizenman.warzel:15:random
      volume        = {168},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1090/gsm/168},>`_
+`The URL link to the source <https://doi.org/10.1090/gsm/168>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

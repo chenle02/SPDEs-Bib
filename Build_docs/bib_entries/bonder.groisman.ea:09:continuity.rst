@@ -23,8 +23,7 @@ bonder.groisman.ea:09:continuity
      volume        = {27},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1080/07362990903136504},>`_
+`The URL link to the source <https://doi.org/10.1080/07362990903136504>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ malliavin.nualart:93:quasi-sure
      volume        = {96},
      year          = {1993}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01195882},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01195882>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

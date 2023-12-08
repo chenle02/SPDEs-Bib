@@ -22,8 +22,7 @@ balan.kulik:09:weak
      volume        = {46},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1556/SScMath.2009.1093},>`_
+`The URL link to the source <https://doi.org/10.1556/SScMath.2009.1093>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

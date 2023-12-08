@@ -21,8 +21,7 @@ bornales.oliveira.ea:13:self-repelling
      volume        = {30},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1142/9789814460026\_0033},>`_
+`The URL link to the source <https://doi.org/10.1142/9789814460026\_0033>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ bardina.marquez-carreras.ea:04:p-spin
      volume        = {21},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1023/B:POTA.0000034325.04634.f5},>`_
+`The URL link to the source <https://doi.org/10.1023/B:POTA.0000034325.04634.f5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

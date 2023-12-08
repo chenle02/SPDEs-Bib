@@ -22,8 +22,7 @@ bass.chen.ea:06:moderate
      volume        = {11},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v11-362},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v11-362>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

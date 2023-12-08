@@ -22,8 +22,7 @@ brydges.spencer:85:self-avoiding
      volume        = {97},
      year          = {1985}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.cmp/1103941982},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103941982>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

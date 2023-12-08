@@ -23,8 +23,7 @@ memin.mishura.ea:01:inequalities
      volume        = {51},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.1016/S0167-7152(00)00157-7},>`_
+`The URL link to the source <https://doi.org/10.1016/S0167-7152(00)00157-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

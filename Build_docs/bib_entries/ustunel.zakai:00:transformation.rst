@@ -21,8 +21,7 @@ ustunel.zakai:00:transformation
      url           = {https://doi.org/10.1007/978-3-662-13225-8},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-662-13225-8},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-662-13225-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

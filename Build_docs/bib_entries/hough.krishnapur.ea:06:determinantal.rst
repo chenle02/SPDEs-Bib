@@ -21,8 +21,7 @@ hough.krishnapur.ea:06:determinantal
      volume        = {3},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1214/154957806000000078},>`_
+`The URL link to the source <https://doi.org/10.1214/154957806000000078>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

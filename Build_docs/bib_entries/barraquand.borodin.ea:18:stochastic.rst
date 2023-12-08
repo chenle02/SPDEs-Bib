@@ -22,8 +22,7 @@ barraquand.borodin.ea:18:stochastic
      volume        = {167},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1215/00127094-2018-0019},>`_
+`The URL link to the source <https://doi.org/10.1215/00127094-2018-0019>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

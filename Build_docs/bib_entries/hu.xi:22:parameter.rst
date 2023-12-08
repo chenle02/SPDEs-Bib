@@ -22,8 +22,7 @@ hu.xi:22:parameter
      volume        = {411},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1016/j.cam.2022.114264},>`_
+`The URL link to the source <https://doi.org/10.1016/j.cam.2022.114264>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

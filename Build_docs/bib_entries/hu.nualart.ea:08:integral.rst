@@ -23,8 +23,7 @@ hu.nualart.ea:08:integral
      volume        = {255},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2008.06.016},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2008.06.016>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

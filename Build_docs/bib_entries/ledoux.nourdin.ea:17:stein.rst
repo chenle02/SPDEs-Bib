@@ -23,8 +23,7 @@ ledoux.nourdin.ea:17:stein
      volume        = {60},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1007/s11425-016-0134-7},>`_
+`The URL link to the source <https://doi.org/10.1007/s11425-016-0134-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

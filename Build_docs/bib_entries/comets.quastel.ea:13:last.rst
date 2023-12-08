@@ -23,8 +23,7 @@ comets.quastel.ea:13:last
      volume        = {152},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-013-0779-8},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-013-0779-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

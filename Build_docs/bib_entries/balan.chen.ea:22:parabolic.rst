@@ -20,8 +20,7 @@ balan.chen.ea:22:parabolic
      volume        = {27},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1214/22-ecp506},>`_
+`The URL link to the source <https://doi.org/10.1214/22-ecp506>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

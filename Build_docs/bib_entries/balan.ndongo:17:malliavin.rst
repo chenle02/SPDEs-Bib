@@ -21,8 +21,7 @@ balan.ndongo:17:malliavin
      url           = {https://doi.org/10.1155/2017/9693153},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1155/2017/9693153},>`_
+`The URL link to the source <https://doi.org/10.1155/2017/9693153>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

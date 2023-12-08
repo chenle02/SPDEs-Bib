@@ -23,8 +23,7 @@ hu.liu.ea:16:taylor
      volume        = {21},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.3934/dcdsb.2016090},>`_
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2016090>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

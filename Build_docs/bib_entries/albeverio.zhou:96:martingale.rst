@@ -23,8 +23,7 @@ albeverio.zhou:96:martingale
      volume        = {9},
      year          = {1996}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02213739},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02213739>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

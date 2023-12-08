@@ -23,8 +23,7 @@ fleischmann.mueller:04:super-brownian
      volume        = {36},
      year          = {2004/05}
    }
-
-`Link to Source <https://doi.org/10.1137/S0036141002419473},>`_
+`The URL link to the source <https://doi.org/10.1137/S0036141002419473>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

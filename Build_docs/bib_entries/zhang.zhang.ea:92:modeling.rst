@@ -20,8 +20,7 @@ zhang.zhang.ea:92:modeling
      volume        = {189},
      year          = {1992}
    }
-
-`Link to Source <https://www.sciencedirect.com/science/article/pii/037843719290050Z},>`_
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/037843719290050Z>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

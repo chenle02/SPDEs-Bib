@@ -22,8 +22,7 @@ corcuera.imkeller.ea:04:additional
      volume        = {8},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1007/s00780-003-0119-y},>`_
+`The URL link to the source <https://doi.org/10.1007/s00780-003-0119-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

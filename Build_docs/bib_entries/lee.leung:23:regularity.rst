@@ -22,8 +22,7 @@ lee.leung:23:regularity
      volume        = {517},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jmaa.2022.126589},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2022.126589>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

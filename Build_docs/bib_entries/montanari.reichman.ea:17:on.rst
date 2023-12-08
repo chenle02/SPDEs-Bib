@@ -23,8 +23,7 @@ montanari.reichman.ea:17:on
      volume        = {63},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1109/TIT.2016.2637959},>`_
+`The URL link to the source <https://doi.org/10.1109/TIT.2016.2637959>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

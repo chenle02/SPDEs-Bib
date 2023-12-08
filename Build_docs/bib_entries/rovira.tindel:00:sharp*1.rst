@@ -23,8 +23,7 @@ rovira.tindel:00:sharp*1
      volume        = {124},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1016/S0007-4497(00)01062-9},>`_
+`The URL link to the source <https://doi.org/10.1016/S0007-4497(00)01062-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

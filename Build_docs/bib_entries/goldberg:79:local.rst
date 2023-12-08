@@ -22,8 +22,7 @@ goldberg:79:local
      volume        = {46},
      year          = {1979}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.dmj/1077313253},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077313253>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

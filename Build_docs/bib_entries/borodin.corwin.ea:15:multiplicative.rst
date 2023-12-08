@@ -23,8 +23,7 @@ borodin.corwin.ea:15:multiplicative
      volume        = {51},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1214/13-AIHP579},>`_
+`The URL link to the source <https://doi.org/10.1214/13-AIHP579>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

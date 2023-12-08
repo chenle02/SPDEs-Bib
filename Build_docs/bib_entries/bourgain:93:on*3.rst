@@ -22,8 +22,7 @@ bourgain:93:on*3
      volume        = {60},
      year          = {1993}
    }
-
-`Link to Source <https://doi.org/10.1007/BF03341964},>`_
+`The URL link to the source <https://doi.org/10.1007/BF03341964>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

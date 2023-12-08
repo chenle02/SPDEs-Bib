@@ -23,8 +23,7 @@ bourgain:79:averaging
      volume        = {32},
      year          = {1979}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02760458},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02760458>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

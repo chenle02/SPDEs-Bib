@@ -23,8 +23,7 @@ hu:94:pathwise
      volume        = {14},
      year          = {1994}
    }
-
-`Link to Source <https://doi.org/10.1016/S0252-9602(18)30136-X},>`_
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(18)30136-X>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

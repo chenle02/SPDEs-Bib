@@ -23,8 +23,7 @@ visan:07:defocusing
      volume        = {138},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1215/S0012-7094-07-13825-0},>`_
+`The URL link to the source <https://doi.org/10.1215/S0012-7094-07-13825-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

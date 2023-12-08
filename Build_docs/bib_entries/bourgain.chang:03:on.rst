@@ -23,8 +23,7 @@ bourgain.chang:03:on
      volume        = {337},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2003.08.010},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2003.08.010>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

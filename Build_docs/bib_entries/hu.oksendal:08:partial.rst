@@ -23,8 +23,7 @@ hu.oksendal:08:partial
      volume        = {47},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1137/060667566},>`_
+`The URL link to the source <https://doi.org/10.1137/060667566>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

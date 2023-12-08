@@ -21,8 +21,7 @@ nourdin.zheng:19:exchangeable
      volume        = {74},
      year          = {[2019] \copyright 2019}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-030-26391-1\_14},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-030-26391-1\_14>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

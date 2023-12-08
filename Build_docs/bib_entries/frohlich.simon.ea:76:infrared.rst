@@ -22,8 +22,7 @@ frohlich.simon.ea:76:infrared
      volume        = {50},
      year          = {1976}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.cmp/1103900151},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103900151>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ brzezniak.ondrejat:07:strong
      volume        = {253},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2007.03.034},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.03.034>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

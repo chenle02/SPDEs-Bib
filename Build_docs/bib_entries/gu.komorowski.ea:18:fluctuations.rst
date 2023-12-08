@@ -22,8 +22,7 @@ gu.komorowski.ea:18:fluctuations
      volume        = {50},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1137/18M116842X},>`_
+`The URL link to the source <https://doi.org/10.1137/18M116842X>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

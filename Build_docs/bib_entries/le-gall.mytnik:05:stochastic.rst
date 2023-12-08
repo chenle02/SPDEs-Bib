@@ -23,8 +23,7 @@ le-gall.mytnik:05:stochastic
      volume        = {33},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1214/009117904000000612},>`_
+`The URL link to the source <https://doi.org/10.1214/009117904000000612>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

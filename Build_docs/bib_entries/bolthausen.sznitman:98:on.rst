@@ -23,8 +23,7 @@ bolthausen.sznitman:98:on
      volume        = {197},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1007/s002200050450},>`_
+`The URL link to the source <https://doi.org/10.1007/s002200050450>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

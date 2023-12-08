@@ -22,8 +22,7 @@ basor.tracy.ea:92:asymptotics
      volume        = {69},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1103/PhysRevLett.69.5},>`_
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.69.5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

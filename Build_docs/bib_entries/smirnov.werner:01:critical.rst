@@ -22,8 +22,7 @@ smirnov.werner:01:critical
      volume        = {8},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.4310/MRL.2001.v8.n6.a4},>`_
+`The URL link to the source <https://doi.org/10.4310/MRL.2001.v8.n6.a4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

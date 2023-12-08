@@ -23,8 +23,7 @@ chen.huang:19:comparison
      volume        = {47},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1214/18-AOP1277},>`_
+`The URL link to the source <https://doi.org/10.1214/18-AOP1277>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ cerrai.wehr.ea:20:averaging
      volume        = {181},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-020-02570-8},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-020-02570-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

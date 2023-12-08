@@ -23,8 +23,7 @@ bourgain:00:invariant
      volume        = {210},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/s002200050792},>`_
+`The URL link to the source <https://doi.org/10.1007/s002200050792>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

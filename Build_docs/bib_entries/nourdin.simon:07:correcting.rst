@@ -22,8 +22,7 @@ nourdin.simon:07:correcting
      volume        = {13},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.3150/07-BEJ6015},>`_
+`The URL link to the source <https://doi.org/10.3150/07-BEJ6015>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

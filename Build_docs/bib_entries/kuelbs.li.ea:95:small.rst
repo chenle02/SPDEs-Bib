@@ -23,8 +23,7 @@ kuelbs.li.ea:95:small
      volume        = {8},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02212884},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02212884>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

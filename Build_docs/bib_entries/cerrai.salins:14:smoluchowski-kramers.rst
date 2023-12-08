@@ -23,8 +23,7 @@ cerrai.salins:14:smoluchowski-kramers
      volume        = {88},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.3233/asy-141220},>`_
+`The URL link to the source <https://doi.org/10.3233/asy-141220>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

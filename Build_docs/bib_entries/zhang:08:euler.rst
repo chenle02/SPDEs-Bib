@@ -23,8 +23,7 @@ zhang:08:euler
      volume        = {244},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jde.2008.02.019},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jde.2008.02.019>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

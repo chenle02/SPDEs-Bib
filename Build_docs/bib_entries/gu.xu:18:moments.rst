@@ -22,8 +22,7 @@ gu.xu:18:moments
      volume        = {108},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.3233/asy-171460},>`_
+`The URL link to the source <https://doi.org/10.3233/asy-171460>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

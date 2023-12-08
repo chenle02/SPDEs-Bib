@@ -23,8 +23,7 @@ duminil-copin.smirnov:12:connective
      volume        = {175},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.4007/annals.2012.175.3.14},>`_
+`The URL link to the source <https://doi.org/10.4007/annals.2012.175.3.14>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

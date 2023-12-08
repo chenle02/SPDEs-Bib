@@ -23,8 +23,7 @@ mattingly.pardoux:06:malliavin
      volume        = {59},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1002/cpa.20136},>`_
+`The URL link to the source <https://doi.org/10.1002/cpa.20136>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

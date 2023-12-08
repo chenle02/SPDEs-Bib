@@ -23,8 +23,7 @@ tracy.widom:13:on
      volume        = {54},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1063/1.4836779},>`_
+`The URL link to the source <https://doi.org/10.1063/1.4836779>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

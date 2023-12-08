@@ -23,8 +23,7 @@ hairer:18:renormalisation
      volume        = {13},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1007/s11537-018-1742-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s11537-018-1742-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

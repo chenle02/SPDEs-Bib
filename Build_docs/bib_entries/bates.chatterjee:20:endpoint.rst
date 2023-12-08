@@ -23,8 +23,7 @@ bates.chatterjee:20:endpoint
      volume        = {48},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1214/19-AOP1376},>`_
+`The URL link to the source <https://doi.org/10.1214/19-AOP1376>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

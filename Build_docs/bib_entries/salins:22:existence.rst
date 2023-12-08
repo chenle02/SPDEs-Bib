@@ -22,8 +22,7 @@ salins:22:existence
      volume        = {22},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1142/S0219493722500149},>`_
+`The URL link to the source <https://doi.org/10.1142/S0219493722500149>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

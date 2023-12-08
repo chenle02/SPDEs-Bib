@@ -22,8 +22,7 @@ mayer-wolf.zakai.ea:88:on
      volume        = {10},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4613-8762-6\_20},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4613-8762-6\_20>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

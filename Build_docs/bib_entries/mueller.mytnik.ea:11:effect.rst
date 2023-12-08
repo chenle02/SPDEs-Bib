@@ -22,8 +22,7 @@ mueller.mytnik.ea:11:effect
      volume        = {184},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1007/s00222-010-0292-5},>`_
+`The URL link to the source <https://doi.org/10.1007/s00222-010-0292-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

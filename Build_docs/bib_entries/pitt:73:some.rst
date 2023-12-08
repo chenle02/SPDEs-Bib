@@ -22,8 +22,7 @@ pitt:73:some
      volume        = {23},
      year          = {1973}
    }
-
-`Link to Source <https://doi.org/10.1512/iumj.1973.23.23028},>`_
+`The URL link to the source <https://doi.org/10.1512/iumj.1973.23.23028>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ lanjri-zaidi.nualart:02:backward
      volume        = {16},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1023/A:1014878129265},>`_
+`The URL link to the source <https://doi.org/10.1023/A:1014878129265>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

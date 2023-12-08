@@ -22,8 +22,7 @@ berger.zeitouni:08:quenched
      volume        = {60},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-7643-8786-0\_7},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-7643-8786-0\_7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

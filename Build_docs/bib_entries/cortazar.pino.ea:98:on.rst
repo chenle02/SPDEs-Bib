@@ -22,8 +22,7 @@ cortazar.pino.ea:98:on
      volume        = {47},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1512/iumj.1998.47.1399},>`_
+`The URL link to the source <https://doi.org/10.1512/iumj.1998.47.1399>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

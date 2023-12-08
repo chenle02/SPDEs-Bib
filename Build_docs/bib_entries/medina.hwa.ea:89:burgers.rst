@@ -22,8 +22,7 @@ medina.hwa.ea:89:burgers
      volume        = {39},
      year          = {1989}
    }
-
-`Link to Source <https://doi.org/10.1103/PhysRevA.39.3053},>`_
+`The URL link to the source <https://doi.org/10.1103/PhysRevA.39.3053>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

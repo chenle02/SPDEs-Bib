@@ -20,8 +20,7 @@ isogami.matsushita:92:structural
      volume        = {61},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1143/JPSJ.61.1445},>`_
+`The URL link to the source <https://doi.org/10.1143/JPSJ.61.1445>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

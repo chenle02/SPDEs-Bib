@@ -23,8 +23,7 @@ zhang:16:lattice
      volume        = {26},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1214/16-AAP1186},>`_
+`The URL link to the source <https://doi.org/10.1214/16-AAP1186>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

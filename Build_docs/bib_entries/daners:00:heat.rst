@@ -22,8 +22,7 @@ daners:00:heat
      volume        = {217},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1002/1522-2616(200009)217:1<13::AID-MANA13>3.3.CO;2-Y},>`_
+`The URL link to the source <https://doi.org/10.1002/1522-2616(200009)217:1<13::AID-MANA13>3.3.CO;2-Y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ chen.khoshnevisan.ea:22:spatial
      volume        = {282},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2021.109290},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2021.109290>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

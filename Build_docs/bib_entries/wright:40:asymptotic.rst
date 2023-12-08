@@ -22,8 +22,7 @@ wright:40:asymptotic
      volume        = {238},
      year          = {1940}
    }
-
-`Link to Source <https://doi.org/10.1098/rsta.1940.0002},>`_
+`The URL link to the source <https://doi.org/10.1098/rsta.1940.0002>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

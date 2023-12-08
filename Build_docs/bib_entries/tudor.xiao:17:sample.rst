@@ -23,8 +23,7 @@ tudor.xiao:17:sample
      volume        = {17},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1142/S0219493717500046},>`_
+`The URL link to the source <https://doi.org/10.1142/S0219493717500046>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

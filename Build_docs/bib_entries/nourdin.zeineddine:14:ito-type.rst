@@ -21,8 +21,7 @@ nourdin.zeineddine:14:ito-type
      volume        = {19},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v19-3184},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v19-3184>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

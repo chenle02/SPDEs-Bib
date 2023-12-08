@@ -23,8 +23,7 @@ asogwa.foondun.ea:20:critical
      volume        = {27},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1007/s00030-020-00629-9},>`_
+`The URL link to the source <https://doi.org/10.1007/s00030-020-00629-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

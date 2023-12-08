@@ -22,8 +22,7 @@ sasamoto:05:spatial
      volume        = {38},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1088/0305-4470/38/33/L01},>`_
+`The URL link to the source <https://doi.org/10.1088/0305-4470/38/33/L01>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

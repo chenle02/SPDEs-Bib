@@ -21,8 +21,7 @@ bourgain:01:p-sets
      url           = {https://doi.org/10.1016/S1874-5849(01)80007-3},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.1016/S1874-5849(01)80007-3},>`_
+`The URL link to the source <https://doi.org/10.1016/S1874-5849(01)80007-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

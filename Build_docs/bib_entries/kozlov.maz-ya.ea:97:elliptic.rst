@@ -22,8 +22,7 @@ kozlov.maz-ya.ea:97:elliptic
      volume        = {52},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.1090/surv/052},>`_
+`The URL link to the source <https://doi.org/10.1090/surv/052>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

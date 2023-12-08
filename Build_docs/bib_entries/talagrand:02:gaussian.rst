@@ -24,8 +24,7 @@ talagrand:02:gaussian
      volume        = {21},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1002/rsa.10059},>`_
+`The URL link to the source <https://doi.org/10.1002/rsa.10059>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

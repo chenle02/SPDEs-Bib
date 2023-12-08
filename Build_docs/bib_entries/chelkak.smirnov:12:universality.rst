@@ -23,8 +23,7 @@ chelkak.smirnov:12:universality
      volume        = {189},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/s00222-011-0371-2},>`_
+`The URL link to the source <https://doi.org/10.1007/s00222-011-0371-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

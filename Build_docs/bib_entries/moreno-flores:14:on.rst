@@ -23,8 +23,7 @@ moreno-flores:14:on
      volume        = {42},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1214/14-AOP911},>`_
+`The URL link to the source <https://doi.org/10.1214/14-AOP911>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

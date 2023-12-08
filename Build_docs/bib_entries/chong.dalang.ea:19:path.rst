@@ -23,8 +23,7 @@ chong.dalang.ea:19:path
      volume        = {7},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-018-0124-y},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-018-0124-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ nualart.rovira.ea:03:probabilistic
      volume        = {31},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1068646369},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1068646369>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

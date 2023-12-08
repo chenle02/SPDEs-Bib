@@ -22,8 +22,7 @@ bernoff.bertozzi:95:singularities
      volume        = {85},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1016/0167-2789(95)00054-8},>`_
+`The URL link to the source <https://doi.org/10.1016/0167-2789(95)00054-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

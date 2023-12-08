@@ -23,8 +23,7 @@ peccati.taqqu:11:wiener
      volume        = {1},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1007/978-88-470-1679-8},>`_
+`The URL link to the source <https://doi.org/10.1007/978-88-470-1679-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

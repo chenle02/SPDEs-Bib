@@ -23,8 +23,7 @@ khoshnevisan.lewis:03:optimal
      volume        = {40},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1017/s0021900200020209},>`_
+`The URL link to the source <https://doi.org/10.1017/s0021900200020209>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

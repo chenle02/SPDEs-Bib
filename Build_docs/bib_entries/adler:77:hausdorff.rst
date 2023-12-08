@@ -23,8 +23,7 @@ adler:77:hausdorff
      volume        = {5},
      year          = {1977}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1176995900},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1176995900>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

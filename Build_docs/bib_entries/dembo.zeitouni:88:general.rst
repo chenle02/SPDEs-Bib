@@ -22,8 +22,7 @@ dembo.zeitouni:88:general
      volume        = {37},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1103/PhysRevA.37.2134},>`_
+`The URL link to the source <https://doi.org/10.1103/PhysRevA.37.2134>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

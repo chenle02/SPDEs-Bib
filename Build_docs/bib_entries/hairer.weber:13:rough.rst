@@ -23,8 +23,7 @@ hairer.weber:13:rough
      volume        = {155},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-011-0392-1},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-011-0392-1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

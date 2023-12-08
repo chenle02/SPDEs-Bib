@@ -22,8 +22,7 @@ mueller.tribe:02:hitting
      volume        = {7},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v7-109},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v7-109>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

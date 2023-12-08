@@ -23,8 +23,7 @@ mueller:89:probability
      volume        = {38},
      year          = {1989}
    }
-
-`Link to Source <https://doi.org/10.1512/iumj.1989.38.38046},>`_
+`The URL link to the source <https://doi.org/10.1512/iumj.1989.38.38046>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

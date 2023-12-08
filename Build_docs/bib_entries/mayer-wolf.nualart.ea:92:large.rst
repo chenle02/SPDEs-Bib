@@ -22,8 +22,7 @@ mayer-wolf.nualart.ea:92:large
      volume        = {1526},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0084307},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0084307>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

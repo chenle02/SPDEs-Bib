@@ -23,8 +23,7 @@ balazs.seppalainen:07:exact
      volume        = {127},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-007-9291-3},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-007-9291-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ hu.oksendal.ea:04:general
      volume        = {29},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1081/PDE-120028841},>`_
+`The URL link to the source <https://doi.org/10.1081/PDE-120028841>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

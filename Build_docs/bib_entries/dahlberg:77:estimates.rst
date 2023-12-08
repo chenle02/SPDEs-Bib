@@ -23,8 +23,7 @@ dahlberg:77:estimates
      volume        = {65},
      year          = {1977}
    }
-
-`Link to Source <https://doi.org/10.1007/BF00280445},>`_
+`The URL link to the source <https://doi.org/10.1007/BF00280445>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -21,8 +21,7 @@ hu.rang:14:identification
      url           = {https://doi.org/10.1155/2014/219876},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1155/2014/219876},>`_
+`The URL link to the source <https://doi.org/10.1155/2014/219876>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

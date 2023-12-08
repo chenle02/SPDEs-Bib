@@ -23,8 +23,7 @@ bourgain:85:applications
      volume        = {93},
      year          = {1985}
    }
-
-`Link to Source <https://doi.org/10.2307/2044761},>`_
+`The URL link to the source <https://doi.org/10.2307/2044761>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

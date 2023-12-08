@@ -23,8 +23,7 @@ duplantier:03:conformal
      volume        = {4},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1007/s00023-003-0931-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s00023-003-0931-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

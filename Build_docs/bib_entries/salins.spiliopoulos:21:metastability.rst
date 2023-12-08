@@ -22,8 +22,7 @@ salins.spiliopoulos:21:metastability
      volume        = {49},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1214/21-aop1509},>`_
+`The URL link to the source <https://doi.org/10.1214/21-aop1509>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

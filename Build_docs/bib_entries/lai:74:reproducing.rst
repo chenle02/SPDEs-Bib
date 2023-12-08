@@ -21,8 +21,7 @@ lai:74:reproducing
      volume        = {29},
      year          = {1974}
    }
-
-`Link to Source <https://doi.org/10.1007/BF00533181},>`_
+`The URL link to the source <https://doi.org/10.1007/BF00533181>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

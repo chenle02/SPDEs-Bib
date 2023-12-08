@@ -22,8 +22,7 @@ bourgain.fuchs:12:on
      url           = {https://doi.org/10.1093/imrn/rnr253},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1093/imrn/rnr253},>`_
+`The URL link to the source <https://doi.org/10.1093/imrn/rnr253>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

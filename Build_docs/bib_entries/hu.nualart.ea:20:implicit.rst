@@ -23,8 +23,7 @@ hu.nualart.ea:20:implicit
      volume        = {130},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2019.09.014},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2019.09.014>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

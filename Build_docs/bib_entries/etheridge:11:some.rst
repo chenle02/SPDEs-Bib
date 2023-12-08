@@ -22,8 +22,7 @@ etheridge:11:some
      volume        = {2012},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-642-16632-7},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-642-16632-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

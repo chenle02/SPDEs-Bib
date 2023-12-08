@@ -23,8 +23,7 @@ dalang.walsh:92:sharp*1
      volume        = {168},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02392978},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02392978>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

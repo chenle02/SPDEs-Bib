@@ -23,8 +23,7 @@ khoshnevisan.revesz.ea:04:on
      volume        = {40},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1016/S0246-0203(03)00057-8},>`_
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(03)00057-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

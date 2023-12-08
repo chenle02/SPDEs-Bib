@@ -19,8 +19,7 @@ family:86:scaling
      volume        = {19},
      year          = {1986}
    }
-
-`Link to Source <https://dx.doi.org/10.1088/0305-4470/19/8/006},>`_
+`The URL link to the source <https://dx.doi.org/10.1088/0305-4470/19/8/006>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -15,8 +15,7 @@ liu.hu.ea:23:stochastic
      url           = {http://arXiv.org/abs/2305.02425},
      year          = {2023}
    }
-
-`Link to Source <http://arXiv.org/abs/2305.02425},>`_
+`The URL link to the source <http://arXiv.org/abs/2305.02425>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

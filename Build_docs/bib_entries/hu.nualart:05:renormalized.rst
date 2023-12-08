@@ -23,8 +23,7 @@ hu.nualart:05:renormalized
      volume        = {33},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1214/009117905000000017},>`_
+`The URL link to the source <https://doi.org/10.1214/009117905000000017>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ chen.khoshnevisan.ea:23:central
      volume        = {11},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-021-00224-8},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-021-00224-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

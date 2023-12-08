@@ -23,8 +23,7 @@ yang.zhang:18:backward
      volume        = {49},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1007/s11118-017-9654-6},>`_
+`The URL link to the source <https://doi.org/10.1007/s11118-017-9654-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

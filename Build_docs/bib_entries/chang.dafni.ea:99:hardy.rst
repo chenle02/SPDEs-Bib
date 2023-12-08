@@ -23,8 +23,7 @@ chang.dafni.ea:99:hardy
      volume        = {351},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1090/S0002-9947-99-02111-X},>`_
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-99-02111-X>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

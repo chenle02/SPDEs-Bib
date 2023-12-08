@@ -23,8 +23,7 @@ barski.zabczyk:12:heath-jarrow-morton-musiela
      volume        = {253},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jde.2012.06.022},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jde.2012.06.022>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

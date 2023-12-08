@@ -23,8 +23,7 @@ tao:85:analyticity
      volume        = {38},
      year          = {1985}
    }
-
-`Link to Source <https://doi.org/10.1093/qjmam/38.3.447},>`_
+`The URL link to the source <https://doi.org/10.1093/qjmam/38.3.447>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

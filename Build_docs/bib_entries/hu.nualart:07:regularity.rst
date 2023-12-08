@@ -22,8 +22,7 @@ hu.nualart:07:regularity
      volume        = {7},
      year          = {2007}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.cis/1184963896},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.cis/1184963896>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

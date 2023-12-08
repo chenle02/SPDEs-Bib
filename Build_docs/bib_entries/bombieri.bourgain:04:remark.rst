@@ -22,8 +22,7 @@ bombieri.bourgain:04:remark
      url           = {https://doi.org/10.1155/S1073792804143444},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1155/S1073792804143444},>`_
+`The URL link to the source <https://doi.org/10.1155/S1073792804143444>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

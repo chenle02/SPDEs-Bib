@@ -23,8 +23,7 @@ bourgain:16:on*1
      volume        = {138},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1353/ajm.2016.0018},>`_
+`The URL link to the source <https://doi.org/10.1353/ajm.2016.0018>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

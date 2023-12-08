@@ -22,8 +22,7 @@ durrett.mytnik.ea:05:competing
      volume        = {10},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v10-229},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v10-229>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

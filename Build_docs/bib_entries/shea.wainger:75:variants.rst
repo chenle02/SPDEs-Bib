@@ -22,8 +22,7 @@ shea.wainger:75:variants
      volume        = {97},
      year          = {1975}
    }
-
-`Link to Source <https://doi.org/10.2307/2373715},>`_
+`The URL link to the source <https://doi.org/10.2307/2373715>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

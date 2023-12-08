@@ -22,8 +22,7 @@ klebanov.hashimoto:95:non-perturbative
      volume        = {434},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1016/0550-3213(94)00518-J},>`_
+`The URL link to the source <https://doi.org/10.1016/0550-3213(94)00518-J>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

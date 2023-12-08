@@ -23,8 +23,7 @@ richey.tracy:90:algorithms
      volume        = {330},
      year          = {1990}
    }
-
-`Link to Source <https://doi.org/10.1016/0550-3213(90)90127-Y},>`_
+`The URL link to the source <https://doi.org/10.1016/0550-3213(90)90127-Y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

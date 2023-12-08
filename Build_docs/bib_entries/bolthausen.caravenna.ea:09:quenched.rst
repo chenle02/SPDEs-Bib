@@ -23,8 +23,7 @@ bolthausen.caravenna.ea:09:quenched
      volume        = {119},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2008.07.008},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2008.07.008>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

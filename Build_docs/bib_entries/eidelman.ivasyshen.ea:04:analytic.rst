@@ -22,8 +22,7 @@ eidelman.ivasyshen.ea:04:analytic
      volume        = {152},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-0348-7844-9},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-0348-7844-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

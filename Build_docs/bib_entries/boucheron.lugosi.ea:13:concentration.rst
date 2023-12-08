@@ -21,8 +21,7 @@ boucheron.lugosi.ea:13:concentration
      url           = {https://doi.org/10.1093/acprof:oso/9780199535255.001.0001},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1093/acprof:oso/9780199535255.001.0001},>`_
+`The URL link to the source <https://doi.org/10.1093/acprof:oso/9780199535255.001.0001>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

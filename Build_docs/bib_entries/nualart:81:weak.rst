@@ -23,8 +23,7 @@ nualart:81:weak
      volume        = {55},
      year          = {1981}
    }
-
-`Link to Source <https://doi.org/10.1007/BF00532118},>`_
+`The URL link to the source <https://doi.org/10.1007/BF00532118>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

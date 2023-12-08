@@ -23,8 +23,7 @@ bourgain:87:on*2
      volume        = {1267},
      year          = {1987}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0078144},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0078144>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

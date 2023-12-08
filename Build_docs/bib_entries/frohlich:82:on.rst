@@ -23,8 +23,7 @@ frohlich:82:on
      volume        = {200},
      year          = {1982}
    }
-
-`Link to Source <https://doi.org/10.1016/0550-3213(82)90088-8},>`_
+`The URL link to the source <https://doi.org/10.1016/0550-3213(82)90088-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ bourgain:07:normal
      volume        = {446},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1090/conm/446/08629},>`_
+`The URL link to the source <https://doi.org/10.1090/conm/446/08629>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

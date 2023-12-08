@@ -22,8 +22,7 @@ dembo.zeitouni:89:corrigendum
      volume        = {31},
      year          = {1989}
    }
-
-`Link to Source <https://doi.org/10.1016/0304-4149(89)90110-5},>`_
+`The URL link to the source <https://doi.org/10.1016/0304-4149(89)90110-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

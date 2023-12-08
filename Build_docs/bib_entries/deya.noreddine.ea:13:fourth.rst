@@ -23,8 +23,7 @@ deya.noreddine.ea:13:fourth
      volume        = {321},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-012-1631-8},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-012-1631-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ pisier:86:probabilistic
      volume        = {1206},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0076302},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0076302>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

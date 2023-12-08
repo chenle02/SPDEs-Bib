@@ -23,8 +23,7 @@ dalang.humeau:17:levy
      volume        = {45},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1214/16-AOP1168},>`_
+`The URL link to the source <https://doi.org/10.1214/16-AOP1168>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

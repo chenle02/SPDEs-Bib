@@ -23,8 +23,7 @@ hu.nualart.ea:19:smoothness
      volume        = {24},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.3934/dcdsb.2018307},>`_
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2018307>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

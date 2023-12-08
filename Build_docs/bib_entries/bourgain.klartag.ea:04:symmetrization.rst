@@ -23,8 +23,7 @@ bourgain.klartag.ea:04:symmetrization
      volume        = {1850},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-540-44489-3\_10},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-540-44489-3\_10>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

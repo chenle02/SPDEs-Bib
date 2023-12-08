@@ -23,8 +23,7 @@ cerrai:03:stochastic
      volume        = {125},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-002-0230-6},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-002-0230-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

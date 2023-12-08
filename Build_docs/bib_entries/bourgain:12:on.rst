@@ -22,8 +22,7 @@ bourgain:12:on
      volume        = {117},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/s11854-012-0022-6},>`_
+`The URL link to the source <https://doi.org/10.1007/s11854-012-0022-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

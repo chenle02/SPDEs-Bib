@@ -21,8 +21,7 @@ foondun.khoshnevisan:09:intermittence
      volume        = {14},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v14-614},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v14-614>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

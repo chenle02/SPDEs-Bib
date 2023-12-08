@@ -22,8 +22,7 @@ tracy.widom:99:random
      volume        = {207},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1007/s002200050741},>`_
+`The URL link to the source <https://doi.org/10.1007/s002200050741>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

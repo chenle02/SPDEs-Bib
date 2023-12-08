@@ -22,8 +22,7 @@ baxter.jain.ea:93:large
      volume        = {37},
      year          = {1993}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.ijm/1255987149},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255987149>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

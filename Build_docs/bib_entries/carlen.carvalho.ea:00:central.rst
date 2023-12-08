@@ -23,8 +23,7 @@ carlen.carvalho.ea:00:central
      volume        = {53},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1002/(SICI)1097-0312(200003)53:3<370::AID-CPA4>3.0.CO;2-0},>`_
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(200003)53:3<370::AID-CPA4>3.0.CO;2-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

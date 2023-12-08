@@ -22,8 +22,7 @@ gu.mourrat:16:pointwise
      volume        = {166},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-015-0667-z},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-015-0667-z>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

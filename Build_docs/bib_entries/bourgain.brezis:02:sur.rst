@@ -22,5 +22,7 @@ bourgain.brezis:02:sur
      volume        = {334},
      year          = {2002}
    }
+`The URL link to the source <http://www.sciencedirect.com/science?\_ob=GatewayURL\&\_origin=MR\&\_method=citationSearch\&\_piikey=s1631073x02023440\&\_version=1\&md5=9387465a4b7a738e05d6d04dd98a60d0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

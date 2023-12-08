@@ -22,8 +22,7 @@ li:06:note
      volume        = {32},
      year          = {2006/07}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.rae/1184700051},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.rae/1184700051>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

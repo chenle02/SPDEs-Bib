@@ -23,8 +23,7 @@ donsker.varadhan:83:asymptotics
      volume        = {36},
      year          = {1983}
    }
-
-`Link to Source <https://doi.org/10.1002/cpa.3160360408},>`_
+`The URL link to the source <https://doi.org/10.1002/cpa.3160360408>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

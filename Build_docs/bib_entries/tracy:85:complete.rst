@@ -23,8 +23,7 @@ tracy:85:complete
      volume        = {14},
      year          = {1985}
    }
-
-`Link to Source <https://doi.org/10.1016/0167-2789(85)90183-6},>`_
+`The URL link to the source <https://doi.org/10.1016/0167-2789(85)90183-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

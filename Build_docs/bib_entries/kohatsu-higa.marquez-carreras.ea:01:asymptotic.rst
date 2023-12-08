@@ -23,8 +23,7 @@ kohatsu-higa.marquez-carreras.ea:01:asymptotic
      volume        = {14},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.1023/A:1011163714298},>`_
+`The URL link to the source <https://doi.org/10.1023/A:1011163714298>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

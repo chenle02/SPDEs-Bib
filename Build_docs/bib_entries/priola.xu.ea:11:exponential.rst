@@ -23,8 +23,7 @@ priola.xu.ea:11:exponential
      volume        = {11},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1142/S0219493711003425},>`_
+`The URL link to the source <https://doi.org/10.1142/S0219493711003425>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

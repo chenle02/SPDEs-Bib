@@ -23,8 +23,7 @@ adolfsson:92:l2-integrability
      volume        = {70},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.7146/math.scand.a-12391},>`_
+`The URL link to the source <https://doi.org/10.7146/math.scand.a-12391>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

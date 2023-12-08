@@ -21,8 +21,7 @@ nourdin.peccati:08:weighted
      volume        = {13},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v13-534},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v13-534>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

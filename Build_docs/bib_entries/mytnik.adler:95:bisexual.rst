@@ -23,8 +23,7 @@ mytnik.adler:95:bisexual
      volume        = {27},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.2307/1427932},>`_
+`The URL link to the source <https://doi.org/10.2307/1427932>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

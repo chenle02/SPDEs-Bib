@@ -23,8 +23,7 @@ ledoux.nourdin.ea:15:steins
      volume        = {25},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1007/s00039-015-0312-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s00039-015-0312-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

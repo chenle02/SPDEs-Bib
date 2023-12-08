@@ -23,8 +23,7 @@ zabczyk:87:stable
      volume        = {125},
      year          = {1987}
    }
-
-`Link to Source <https://doi.org/10.1016/0022-247X(87)90107-7},>`_
+`The URL link to the source <https://doi.org/10.1016/0022-247X(87)90107-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

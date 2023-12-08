@@ -22,5 +22,7 @@ deuschel.zeitouni:95:limiting
      volume        = {23},
      year          = {1995}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199504)23:2<852:LCFIR>2.0.CO;2-U\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

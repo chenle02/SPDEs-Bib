@@ -23,8 +23,7 @@ smirnov:10:conformal
      volume        = {172},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.4007/annals.2010.172.1441},>`_
+`The URL link to the source <https://doi.org/10.4007/annals.2010.172.1441>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

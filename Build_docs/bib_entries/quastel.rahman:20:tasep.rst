@@ -21,8 +21,7 @@ quastel.rahman:20:tasep
      volume        = {3},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.5802/ahl.52},>`_
+`The URL link to the source <https://doi.org/10.5802/ahl.52>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

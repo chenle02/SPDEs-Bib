@@ -22,8 +22,7 @@ burgeuin:04:recent
      volume        = {59},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1070/RM2004v059n02ABEH000716},>`_
+`The URL link to the source <https://doi.org/10.1070/RM2004v059n02ABEH000716>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ nourdin.peccati.ea:16:multidimensional
      volume        = {20},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1051/ps/2016014},>`_
+`The URL link to the source <https://doi.org/10.1051/ps/2016014>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

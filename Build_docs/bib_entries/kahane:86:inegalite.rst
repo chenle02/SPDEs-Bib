@@ -23,8 +23,7 @@ kahane:86:inegalite
      volume        = {55},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02772698},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02772698>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

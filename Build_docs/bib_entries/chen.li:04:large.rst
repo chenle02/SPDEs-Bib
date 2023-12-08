@@ -23,8 +23,7 @@ chen.li:04:large
      volume        = {128},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-003-0298-7},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-003-0298-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

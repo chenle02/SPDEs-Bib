@@ -22,8 +22,7 @@ baudoin.ouyang:13:gradient
      volume        = {34},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4614-5906-4\_18},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4614-5906-4\_18>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

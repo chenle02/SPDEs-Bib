@@ -22,8 +22,7 @@ leoni:17:first
      volume        = {181},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1090/gsm/181},>`_
+`The URL link to the source <https://doi.org/10.1090/gsm/181>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

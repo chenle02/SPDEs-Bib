@@ -22,8 +22,7 @@ wong.zhao:02:exponential
      volume        = {18},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1007/s00365-001-0019-3},>`_
+`The URL link to the source <https://doi.org/10.1007/s00365-001-0019-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

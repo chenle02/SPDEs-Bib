@@ -22,8 +22,7 @@ swi-ech.zabczyk:13:uniqueness
      volume        = {38},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1007/s11118-011-9271-8},>`_
+`The URL link to the source <https://doi.org/10.1007/s11118-011-9271-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

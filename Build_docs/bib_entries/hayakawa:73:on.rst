@@ -21,8 +21,7 @@ hayakawa:73:on
      volume        = {49},
      year          = {1973}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.pja/1195519254},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.pja/1195519254>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

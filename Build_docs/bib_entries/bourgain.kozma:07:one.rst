@@ -23,8 +23,7 @@ bourgain.kozma:07:one
      volume        = {9},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.4171/JEMS/91},>`_
+`The URL link to the source <https://doi.org/10.4171/JEMS/91>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

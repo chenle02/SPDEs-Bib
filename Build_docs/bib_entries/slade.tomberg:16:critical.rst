@@ -23,8 +23,7 @@ slade.tomberg:16:critical
      volume        = {342},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-015-2488-4},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-015-2488-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

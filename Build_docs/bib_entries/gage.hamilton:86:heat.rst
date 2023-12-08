@@ -22,8 +22,7 @@ gage.hamilton:86:heat
      volume        = {23},
      year          = {1986}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.jdg/1214439902},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.jdg/1214439902>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

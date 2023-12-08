@@ -23,8 +23,7 @@ han.hu.ea:16:optimal
      volume        = {16},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1080/14697688.2015.1034163},>`_
+`The URL link to the source <https://doi.org/10.1080/14697688.2015.1034163>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

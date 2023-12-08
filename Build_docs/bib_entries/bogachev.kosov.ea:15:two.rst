@@ -23,8 +23,7 @@ bogachev.kosov.ea:15:two
      volume        = {59},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1137/S0040585X97T987041},>`_
+`The URL link to the source <https://doi.org/10.1137/S0040585X97T987041>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

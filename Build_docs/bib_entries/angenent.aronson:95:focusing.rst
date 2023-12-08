@@ -23,8 +23,7 @@ angenent.aronson:95:focusing
      volume        = {20},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1080/03605309508821130},>`_
+`The URL link to the source <https://doi.org/10.1080/03605309508821130>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

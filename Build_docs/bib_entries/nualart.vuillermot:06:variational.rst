@@ -23,8 +23,7 @@ nualart.vuillermot:06:variational
      volume        = {232},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2005.06.015},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2005.06.015>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

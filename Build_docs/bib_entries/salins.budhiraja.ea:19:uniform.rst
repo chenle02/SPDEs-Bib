@@ -23,8 +23,7 @@ salins.budhiraja.ea:19:uniform
      volume        = {372},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1090/tran/7872},>`_
+`The URL link to the source <https://doi.org/10.1090/tran/7872>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

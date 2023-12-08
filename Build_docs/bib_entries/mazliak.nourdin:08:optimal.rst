@@ -23,8 +23,7 @@ mazliak.nourdin:08:optimal
      volume        = {8},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1142/S021949370800224X},>`_
+`The URL link to the source <https://doi.org/10.1142/S021949370800224X>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

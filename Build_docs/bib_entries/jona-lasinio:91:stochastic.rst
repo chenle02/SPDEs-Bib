@@ -22,5 +22,7 @@ jona-lasinio:91:stochastic
      volume        = {55},
      year          = {1991}
    }
+`The URL link to the source <http://www.numdam.org/item?id=AIHPA\_1991\_\_55\_2\_751\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

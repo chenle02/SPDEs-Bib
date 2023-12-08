@@ -23,8 +23,7 @@ johansson:00:transversal
      volume        = {116},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1007/s004400050258},>`_
+`The URL link to the source <https://doi.org/10.1007/s004400050258>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

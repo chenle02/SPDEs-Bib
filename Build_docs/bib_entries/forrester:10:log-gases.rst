@@ -22,8 +22,7 @@ forrester:10:log-gases
      volume        = {34},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1515/9781400835416},>`_
+`The URL link to the source <https://doi.org/10.1515/9781400835416>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

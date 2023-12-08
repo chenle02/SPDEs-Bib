@@ -23,8 +23,7 @@ zeitouni.bobrovsky:86:on*1
      volume        = {7},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.1016/0167-6911(86)90046-0},>`_
+`The URL link to the source <https://doi.org/10.1016/0167-6911(86)90046-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

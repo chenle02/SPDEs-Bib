@@ -22,5 +22,7 @@ bourgain:78:geometric
      volume        = {36},
      year          = {1978}
    }
+`The URL link to the source <http://www.numdam.org/item?id=CM\_1978\_\_36\_1\_3\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

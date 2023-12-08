@@ -22,8 +22,7 @@ nualart:88:noncausal
      volume        = {1316},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0081930},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0081930>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

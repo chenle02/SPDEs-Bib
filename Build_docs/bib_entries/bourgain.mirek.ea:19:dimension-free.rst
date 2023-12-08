@@ -23,8 +23,7 @@ bourgain.mirek.ea:19:dimension-free
      volume        = {141},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1353/ajm.2019.0023},>`_
+`The URL link to the source <https://doi.org/10.1353/ajm.2019.0023>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

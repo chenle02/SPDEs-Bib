@@ -22,5 +22,7 @@ liu.mueller:89:on
      volume        = {17},
      year          = {1989}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198910)17:4<1463:OTEOMC>2.0.CO;2-N\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

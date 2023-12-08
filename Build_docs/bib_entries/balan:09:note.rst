@@ -21,8 +21,7 @@ balan:09:note
      volume        = {14},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1214/ECP.v14-1468},>`_
+`The URL link to the source <https://doi.org/10.1214/ECP.v14-1468>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

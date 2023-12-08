@@ -20,8 +20,7 @@ bourgain:10:new
      url           = {https://doi.org/10.4171/077-1/11},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.4171/077-1/11},>`_
+`The URL link to the source <https://doi.org/10.4171/077-1/11>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

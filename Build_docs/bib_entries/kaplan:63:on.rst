@@ -22,8 +22,7 @@ kaplan:63:on
      volume        = {16},
      year          = {1963}
    }
-
-`Link to Source <https://doi.org/10.1002/cpa.3160160307},>`_
+`The URL link to the source <https://doi.org/10.1002/cpa.3160160307>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

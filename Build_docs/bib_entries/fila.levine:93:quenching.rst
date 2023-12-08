@@ -23,8 +23,7 @@ fila.levine:93:quenching
      volume        = {21},
      year          = {1993}
    }
-
-`Link to Source <https://doi.org/10.1016/0362-546X(93)90124-B},>`_
+`The URL link to the source <https://doi.org/10.1016/0362-546X(93)90124-B>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

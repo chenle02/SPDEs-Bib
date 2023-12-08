@@ -23,8 +23,7 @@ tessitore.zabczyk:01:trotters
      volume        = {63},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.1007/s002330010047},>`_
+`The URL link to the source <https://doi.org/10.1007/s002330010047>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

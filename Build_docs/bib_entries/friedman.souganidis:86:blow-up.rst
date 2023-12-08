@@ -23,8 +23,7 @@ friedman.souganidis:86:blow-up
      volume        = {11},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.1080/03605308608820429},>`_
+`The URL link to the source <https://doi.org/10.1080/03605308608820429>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ priola.zabczyk:11:structural
      volume        = {149},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-009-0243-5},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-009-0243-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

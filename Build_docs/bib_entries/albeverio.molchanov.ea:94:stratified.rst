@@ -22,8 +22,7 @@ albeverio.molchanov.ea:94:stratified
      volume        = {100},
      year          = {1994}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01268990},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01268990>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

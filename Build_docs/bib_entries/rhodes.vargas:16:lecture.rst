@@ -15,8 +15,7 @@ rhodes.vargas:16:lecture
      url           = {https://www.arxiv.org/abs/1602.07323},
      year          = {2016}
    }
-
-`Link to Source <https://www.arxiv.org/abs/1602.07323},>`_
+`The URL link to the source <https://www.arxiv.org/abs/1602.07323>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

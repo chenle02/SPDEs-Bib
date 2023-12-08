@@ -21,8 +21,7 @@ tracy:88:universality*1
      volume        = {21},
      year          = {1988}
    }
-
-`Link to Source <http://stacks.iop.org/0305-4470/21/L603},>`_
+`The URL link to the source <http://stacks.iop.org/0305-4470/21/L603>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

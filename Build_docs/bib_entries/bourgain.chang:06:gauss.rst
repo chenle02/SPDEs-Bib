@@ -23,8 +23,7 @@ bourgain.chang:06:gauss
      volume        = {342},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2006.01.022},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2006.01.022>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

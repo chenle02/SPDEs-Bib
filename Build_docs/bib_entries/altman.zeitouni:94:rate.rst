@@ -23,8 +23,7 @@ altman.zeitouni:94:rate
      volume        = {19},
      year          = {1994}
    }
-
-`Link to Source <https://doi.org/10.1287/moor.19.4.955},>`_
+`The URL link to the source <https://doi.org/10.1287/moor.19.4.955>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ bourgain.bulut:14:invariant
      volume        = {266},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2013.06.002},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2013.06.002>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

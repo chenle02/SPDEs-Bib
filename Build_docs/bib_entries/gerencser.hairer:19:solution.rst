@@ -23,8 +23,7 @@ gerencser.hairer:19:solution
      volume        = {72},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1002/cpa.21816},>`_
+`The URL link to the source <https://doi.org/10.1002/cpa.21816>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

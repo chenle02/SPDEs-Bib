@@ -23,8 +23,7 @@ giacomin.olla.ea:01:equilibrium
      volume        = {29},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1015345600},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1015345600>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

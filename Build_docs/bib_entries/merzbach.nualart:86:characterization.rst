@@ -22,5 +22,7 @@ merzbach.nualart:86:characterization
      volume        = {14},
      year          = {1986}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198610)14:4<1380:ACOTSP>2.0.CO;2-S\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

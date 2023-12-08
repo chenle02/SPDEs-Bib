@@ -22,8 +22,7 @@ bourgain:96:spherical
      url           = {https://doi.org/10.1155/S1073792896000098},
      year          = {1996}
    }
-
-`Link to Source <https://doi.org/10.1155/S1073792896000098},>`_
+`The URL link to the source <https://doi.org/10.1155/S1073792896000098>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

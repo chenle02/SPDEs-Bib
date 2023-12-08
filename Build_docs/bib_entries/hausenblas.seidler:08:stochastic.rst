@@ -23,8 +23,7 @@ hausenblas.seidler:08:stochastic
      volume        = {26},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1080/07362990701673047},>`_
+`The URL link to the source <https://doi.org/10.1080/07362990701673047>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

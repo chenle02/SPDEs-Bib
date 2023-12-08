@@ -23,8 +23,7 @@ etheridge.kurtz:19:genealogical
      volume        = {47},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1214/18-AOP1266},>`_
+`The URL link to the source <https://doi.org/10.1214/18-AOP1266>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ giga:95:interior
      volume        = {1},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.3934/dcds.1995.1.449},>`_
+`The URL link to the source <https://doi.org/10.3934/dcds.1995.1.449>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

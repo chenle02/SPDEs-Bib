@@ -22,5 +22,7 @@ dahlberg.kenig.ea:97:area
      volume        = {47},
      year          = {1997}
    }
+`The URL link to the source <http://www.numdam.org/item?id=AIF\_1997\_\_47\_5\_1425\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ balan.jankovic:19:asymptotic
      volume        = {28},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.3103/S1066530719020017},>`_
+`The URL link to the source <https://doi.org/10.3103/S1066530719020017>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ khoshnevisan.shieh.ea:08:hausdorff
      volume        = {140},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-007-0060-7},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-007-0060-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

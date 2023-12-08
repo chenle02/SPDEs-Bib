@@ -19,8 +19,7 @@ ortiz-lopez.sanz-sole:11:laplace
      url           = {https://doi.org/10.1007/978-3-642-15358-7\_3},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-642-15358-7\_3},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-642-15358-7\_3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

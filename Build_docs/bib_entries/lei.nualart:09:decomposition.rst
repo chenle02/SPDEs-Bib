@@ -23,8 +23,7 @@ lei.nualart:09:decomposition
      volume        = {79},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spl.2008.10.009},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spl.2008.10.009>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

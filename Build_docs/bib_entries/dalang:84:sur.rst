@@ -22,8 +22,7 @@ dalang:84:sur
      volume        = {1059},
      year          = {1984}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0100055},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0100055>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

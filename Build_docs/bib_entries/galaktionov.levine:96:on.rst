@@ -22,8 +22,7 @@ galaktionov.levine:96:on
      volume        = {94},
      year          = {1996}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02762700},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02762700>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ applebaum:04:levy
      volume        = {93},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1017/CBO9780511755323},>`_
+`The URL link to the source <https://doi.org/10.1017/CBO9780511755323>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

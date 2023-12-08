@@ -22,8 +22,7 @@ nienhuis:82:exact
      volume        = {49},
      year          = {1982}
    }
-
-`Link to Source <https://doi.org/10.1103/PhysRevLett.49.1062},>`_
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.49.1062>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

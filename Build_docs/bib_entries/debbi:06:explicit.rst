@@ -20,8 +20,7 @@ debbi:06:explicit
      url           = {https://doi.org/10.1155/JAMSA/2006/93502},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1155/JAMSA/2006/93502},>`_
+`The URL link to the source <https://doi.org/10.1155/JAMSA/2006/93502>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

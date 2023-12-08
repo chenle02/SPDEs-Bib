@@ -22,8 +22,7 @@ davis:76:on
      volume        = {43},
      year          = {1976}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.dmj/1077311944},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077311944>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

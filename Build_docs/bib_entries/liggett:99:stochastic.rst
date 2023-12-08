@@ -22,8 +22,7 @@ liggett:99:stochastic
      volume        = {324},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-662-03990-8},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-662-03990-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

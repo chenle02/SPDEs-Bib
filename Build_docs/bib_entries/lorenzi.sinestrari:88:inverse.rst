@@ -23,8 +23,7 @@ lorenzi.sinestrari:88:inverse
      volume        = {12},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1016/0362-546X(88)90080-6},>`_
+`The URL link to the source <https://doi.org/10.1016/0362-546X(88)90080-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

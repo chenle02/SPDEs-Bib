@@ -23,8 +23,7 @@ chang:96:large
      volume        = {76},
      year          = {1996}
    }
-
-`Link to Source <https://doi.org/10.1016/0096-3003(95)00150-6},>`_
+`The URL link to the source <https://doi.org/10.1016/0096-3003(95)00150-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

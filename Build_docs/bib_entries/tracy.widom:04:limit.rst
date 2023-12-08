@@ -23,8 +23,7 @@ tracy.widom:04:limit
      volume        = {123},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1215/S0012-7094-04-12316-4},>`_
+`The URL link to the source <https://doi.org/10.1215/S0012-7094-04-12316-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

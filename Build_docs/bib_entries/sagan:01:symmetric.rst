@@ -23,8 +23,7 @@ sagan:01:symmetric
      volume        = {203},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4757-6804-6},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4757-6804-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

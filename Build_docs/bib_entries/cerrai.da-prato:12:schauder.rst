@@ -23,8 +23,7 @@ cerrai.da-prato:12:schauder
      volume        = {12},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/s00028-011-0124-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s00028-011-0124-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

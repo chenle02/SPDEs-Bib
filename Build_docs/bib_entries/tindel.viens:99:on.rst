@@ -23,8 +23,7 @@ tindel.viens:99:on
      volume        = {169},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1006/jfan.1999.3486},>`_
+`The URL link to the source <https://doi.org/10.1006/jfan.1999.3486>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

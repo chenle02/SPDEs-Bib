@@ -23,8 +23,7 @@ winter.xu.ea:16:dynamics
      volume        = {260},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jde.2015.08.047},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jde.2015.08.047>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

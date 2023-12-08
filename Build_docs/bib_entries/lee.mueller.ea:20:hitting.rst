@@ -23,8 +23,7 @@ lee.mueller.ea:20:hitting
      volume        = {48},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1214/19-AOP1368},>`_
+`The URL link to the source <https://doi.org/10.1214/19-AOP1368>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

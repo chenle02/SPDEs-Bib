@@ -23,8 +23,7 @@ janjigian:15:large
      volume        = {160},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-015-1269-y},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-015-1269-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

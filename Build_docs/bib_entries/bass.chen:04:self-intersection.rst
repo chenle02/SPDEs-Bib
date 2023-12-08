@@ -23,8 +23,7 @@ bass.chen:04:self-intersection
      volume        = {32},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1214/009117904000000504},>`_
+`The URL link to the source <https://doi.org/10.1214/009117904000000504>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

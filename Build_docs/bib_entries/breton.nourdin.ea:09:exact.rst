@@ -21,8 +21,7 @@ breton.nourdin.ea:09:exact
      volume        = {3},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1214/09-EJS366},>`_
+`The URL link to the source <https://doi.org/10.1214/09-EJS366>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

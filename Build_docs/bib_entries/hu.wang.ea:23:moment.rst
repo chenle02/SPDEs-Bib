@@ -15,8 +15,7 @@ hu.wang.ea:23:moment
      url           = {http://arXiv.org/abs/2303.12994},
      year          = {2023}
    }
-
-`Link to Source <http://arXiv.org/abs/2303.12994},>`_
+`The URL link to the source <http://arXiv.org/abs/2303.12994>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

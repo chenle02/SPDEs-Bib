@@ -23,8 +23,7 @@ assing.schmidt:98:continuous
      volume        = {1688},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0096151},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0096151>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

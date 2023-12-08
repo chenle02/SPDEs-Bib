@@ -22,8 +22,7 @@ tracy.widom:93:level-spacing
      volume        = {305},
      year          = {1993}
    }
-
-`Link to Source <https://doi.org/10.1016/0370-2693(93)91114-3},>`_
+`The URL link to the source <https://doi.org/10.1016/0370-2693(93)91114-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

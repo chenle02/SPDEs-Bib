@@ -22,8 +22,7 @@ subag.zeitouni:17:extremal
      volume        = {168},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-016-0724-2},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-016-0724-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

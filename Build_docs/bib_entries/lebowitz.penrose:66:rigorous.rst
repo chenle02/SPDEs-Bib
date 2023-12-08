@@ -22,8 +22,7 @@ lebowitz.penrose:66:rigorous
      volume        = {7},
      year          = {1966}
    }
-
-`Link to Source <https://doi.org/10.1063/1.1704821},>`_
+`The URL link to the source <https://doi.org/10.1063/1.1704821>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

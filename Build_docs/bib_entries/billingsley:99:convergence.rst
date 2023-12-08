@@ -22,8 +22,7 @@ billingsley:99:convergence
      url           = {https://doi.org/10.1002/9780470316962},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1002/9780470316962},>`_
+`The URL link to the source <https://doi.org/10.1002/9780470316962>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

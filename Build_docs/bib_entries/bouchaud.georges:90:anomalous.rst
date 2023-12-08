@@ -22,8 +22,7 @@ bouchaud.georges:90:anomalous
      volume        = {195},
      year          = {1990}
    }
-
-`Link to Source <https://doi.org/10.1016/0370-1573(90)90099-N},>`_
+`The URL link to the source <https://doi.org/10.1016/0370-1573(90)90099-N>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

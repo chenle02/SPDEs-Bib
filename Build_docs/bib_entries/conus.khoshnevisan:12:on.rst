@@ -23,8 +23,7 @@ conus.khoshnevisan:12:on
      volume        = {152},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-010-0333-4},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-010-0333-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

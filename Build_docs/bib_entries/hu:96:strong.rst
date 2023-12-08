@@ -21,8 +21,7 @@ hu:96:strong
      volume        = {1626},
      year          = {1996}
    }
-
-`Link to Source <https://doi.org/10.1007/BFb0094650},>`_
+`The URL link to the source <https://doi.org/10.1007/BFb0094650>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

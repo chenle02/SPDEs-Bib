@@ -23,8 +23,7 @@ erhard.hairer:19:discretisation
      volume        = {55},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1214/18-AIHP947},>`_
+`The URL link to the source <https://doi.org/10.1214/18-AIHP947>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

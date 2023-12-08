@@ -23,8 +23,7 @@ bourgain:09:approach
      volume        = {134},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-009-9729-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-009-9729-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

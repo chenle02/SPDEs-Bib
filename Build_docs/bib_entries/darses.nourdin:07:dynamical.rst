@@ -22,8 +22,7 @@ darses.nourdin:07:dynamical
      volume        = {12},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1214/ECP.v12-1324},>`_
+`The URL link to the source <https://doi.org/10.1214/ECP.v12-1324>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ dalang:99:extending
      volume        = {4},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v4-43},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v4-43>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

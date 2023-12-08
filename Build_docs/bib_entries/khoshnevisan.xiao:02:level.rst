@@ -23,8 +23,7 @@ khoshnevisan.xiao:02:level
      volume        = {30},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1214/aop/1020107761},>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1020107761>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

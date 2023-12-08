@@ -21,8 +21,7 @@ hairer.quastel:18:class
      volume        = {6},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1017/fmp.2018.2},>`_
+`The URL link to the source <https://doi.org/10.1017/fmp.2018.2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

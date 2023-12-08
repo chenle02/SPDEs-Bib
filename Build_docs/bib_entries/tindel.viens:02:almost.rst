@@ -22,8 +22,7 @@ tindel.viens:02:almost
      volume        = {100},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1016/S0304-4149(02)00102-3},>`_
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(02)00102-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

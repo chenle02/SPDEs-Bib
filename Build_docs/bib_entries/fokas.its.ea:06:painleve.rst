@@ -23,8 +23,7 @@ fokas.its.ea:06:painleve
      volume        = {128},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1090/surv/128},>`_
+`The URL link to the source <https://doi.org/10.1090/surv/128>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

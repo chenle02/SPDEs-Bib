@@ -22,8 +22,7 @@ panchenko:05:question
      volume        = {10},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1214/ECP.v10-1145},>`_
+`The URL link to the source <https://doi.org/10.1214/ECP.v10-1145>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

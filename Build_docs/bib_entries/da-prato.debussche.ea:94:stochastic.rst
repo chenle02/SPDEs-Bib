@@ -23,8 +23,7 @@ da-prato.debussche.ea:94:stochastic
      volume        = {1},
      year          = {1994}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01194987},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01194987>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ dalang.khoshnevisan.ea:13:hitting
      volume        = {1},
      year          = {2013}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-013-0005-3},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-013-0005-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

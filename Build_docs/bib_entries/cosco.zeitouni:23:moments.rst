@@ -22,8 +22,7 @@ cosco.zeitouni:23:moments
      volume        = {403},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-023-04799-2},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-023-04799-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

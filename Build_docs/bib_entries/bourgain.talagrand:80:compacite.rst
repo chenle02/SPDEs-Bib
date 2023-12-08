@@ -23,8 +23,7 @@ bourgain.talagrand:80:compacite
      volume        = {80},
      year          = {1980}
    }
-
-`Link to Source <https://doi.org/10.2307/2042147},>`_
+`The URL link to the source <https://doi.org/10.2307/2042147>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

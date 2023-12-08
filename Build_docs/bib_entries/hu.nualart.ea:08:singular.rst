@@ -23,8 +23,7 @@ hu.nualart.ea:08:singular
      volume        = {78},
      year          = {2008}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spl.2008.01.080},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spl.2008.01.080>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

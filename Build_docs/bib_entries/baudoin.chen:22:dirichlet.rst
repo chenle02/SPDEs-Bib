@@ -15,8 +15,7 @@ baudoin.chen:22:dirichlet
      url           = {https://www.arxiv.org/abs/2201.03970},
      year          = {2022}
    }
-
-`Link to Source <https://www.arxiv.org/abs/2201.03970},>`_
+`The URL link to the source <https://www.arxiv.org/abs/2201.03970>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

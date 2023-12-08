@@ -23,8 +23,7 @@ bolthausen:90:on
      volume        = {86},
      year          = {1990}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01198167},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01198167>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

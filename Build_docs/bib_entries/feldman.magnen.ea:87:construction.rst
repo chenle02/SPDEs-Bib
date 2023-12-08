@@ -22,8 +22,7 @@ feldman.magnen.ea:87:construction
      volume        = {109},
      year          = {1987}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.cmp/1104116964},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104116964>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

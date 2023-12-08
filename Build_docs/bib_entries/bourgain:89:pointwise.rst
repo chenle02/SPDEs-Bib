@@ -22,5 +22,7 @@ bourgain:89:pointwise
      url           = {http://www.numdam.org/item?id=PMIHES\_1989\_\_69\_\_5\_0},
      year          = {1989}
    }
+`The URL link to the source <http://www.numdam.org/item?id=PMIHES\_1989\_\_69\_\_5\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

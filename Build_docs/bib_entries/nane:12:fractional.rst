@@ -19,8 +19,7 @@ nane:12:fractional
      url           = {https://doi.org/10.1007/978-1-4614-0457-6\_15},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4614-0457-6\_15},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4614-0457-6\_15>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ bourgain.ford.ea:10:on
      volume        = {59},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1307/mmj/1281531459},>`_
+`The URL link to the source <https://doi.org/10.1307/mmj/1281531459>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

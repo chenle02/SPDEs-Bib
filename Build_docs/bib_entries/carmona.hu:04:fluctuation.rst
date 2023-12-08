@@ -23,8 +23,7 @@ carmona.hu:04:fluctuation
      volume        = {112},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2004.03.006},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2004.03.006>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

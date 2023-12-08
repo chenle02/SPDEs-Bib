@@ -23,8 +23,7 @@ balazs.komjathy.ea:12:microscopic
      volume        = {48},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1214/11-AIHP415},>`_
+`The URL link to the source <https://doi.org/10.1214/11-AIHP415>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

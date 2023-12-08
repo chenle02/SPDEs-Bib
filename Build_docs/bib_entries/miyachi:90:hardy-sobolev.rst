@@ -23,8 +23,7 @@ miyachi:90:hardy-sobolev
      volume        = {42},
      year          = {1990}
    }
-
-`Link to Source <https://doi.org/10.2969/jmsj/04210073},>`_
+`The URL link to the source <https://doi.org/10.2969/jmsj/04210073>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

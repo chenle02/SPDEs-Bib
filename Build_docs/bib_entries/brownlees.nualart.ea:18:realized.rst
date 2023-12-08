@@ -22,8 +22,7 @@ brownlees.nualart.ea:18:realized
      volume        = {33},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1002/jae.2642},>`_
+`The URL link to the source <https://doi.org/10.1002/jae.2642>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

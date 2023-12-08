@@ -23,8 +23,7 @@ baldi.roynette:92:some
      volume        = {93},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01192717},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01192717>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

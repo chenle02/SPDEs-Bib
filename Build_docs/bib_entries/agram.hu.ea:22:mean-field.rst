@@ -21,8 +21,7 @@ agram.hu.ea:22:mean-field
      volume        = {162},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1016/j.sysconle.2022.105196},>`_
+`The URL link to the source <https://doi.org/10.1016/j.sysconle.2022.105196>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ tracy.widom:09:asymptotics
      volume        = {290},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-009-0761-0},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-009-0761-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

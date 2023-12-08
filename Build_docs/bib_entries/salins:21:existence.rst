@@ -23,8 +23,7 @@ salins:21:existence
      volume        = {9},
      year          = {2021}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-020-00182-7},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-020-00182-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

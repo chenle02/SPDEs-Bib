@@ -23,8 +23,7 @@ borodin.corwin.ea:16:stochastic
      volume        = {165},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1215/00127094-3166843},>`_
+`The URL link to the source <https://doi.org/10.1215/00127094-3166843>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

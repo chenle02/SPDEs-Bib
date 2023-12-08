@@ -20,8 +20,7 @@ zeitouni:12:random
      url           = {https://doi.org/10.1007/978-1-4614-1800-9\_157},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/978-1-4614-1800-9\_157},>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4614-1800-9\_157>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

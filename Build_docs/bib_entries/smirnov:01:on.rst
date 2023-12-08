@@ -23,8 +23,7 @@ smirnov:01:on
      volume        = {87},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.4064/cm87-2-11},>`_
+`The URL link to the source <https://doi.org/10.4064/cm87-2-11>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

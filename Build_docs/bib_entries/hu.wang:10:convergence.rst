@@ -23,8 +23,7 @@ hu.wang:10:convergence
      volume        = {30},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1016/S0252-9602(10)60095-1},>`_
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(10)60095-1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

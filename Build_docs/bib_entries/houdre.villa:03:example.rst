@@ -22,8 +22,7 @@ houdre.villa:03:example
      volume        = {336},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1090/conm/336/06034},>`_
+`The URL link to the source <https://doi.org/10.1090/conm/336/06034>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

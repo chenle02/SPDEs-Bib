@@ -23,8 +23,7 @@ levine.park.ea:98:global
      volume        = {142},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1006/jdeq.1997.3362},>`_
+`The URL link to the source <https://doi.org/10.1006/jdeq.1997.3362>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

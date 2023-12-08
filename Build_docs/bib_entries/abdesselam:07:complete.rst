@@ -23,8 +23,7 @@ abdesselam:07:complete
      volume        = {276},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-007-0352-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-007-0352-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

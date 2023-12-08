@@ -23,8 +23,7 @@ comets.yoshida:05:brownian
      volume        = {254},
      year          = {2005}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-004-1203-7},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-004-1203-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

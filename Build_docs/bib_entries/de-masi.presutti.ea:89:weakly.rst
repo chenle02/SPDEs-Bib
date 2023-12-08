@@ -22,5 +22,7 @@ de-masi.presutti.ea:89:weakly
      volume        = {25},
      year          = {1989}
    }
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1989\_\_25\_1\_1\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

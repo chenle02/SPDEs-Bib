@@ -23,8 +23,7 @@ flandoli.russo.ea:04:some
      volume        = {12},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1163/156939704323074700},>`_
+`The URL link to the source <https://doi.org/10.1163/156939704323074700>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

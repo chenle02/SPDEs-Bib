@@ -22,8 +22,7 @@ khoshnevisan.waymire:17:conversation
      volume        = {64},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1090/noti1533},>`_
+`The URL link to the source <https://doi.org/10.1090/noti1533>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

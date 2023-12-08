@@ -21,8 +21,7 @@ li.tai.ea:17:stochastic
      volume        = {70},
      year          = {2017}
    }
-
-`Link to Source <https://proceedings.mlr.press/v70/li17f.html},>`_
+`The URL link to the source <https://proceedings.mlr.press/v70/li17f.html>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

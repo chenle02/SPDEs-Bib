@@ -23,8 +23,7 @@ bauerschmidt.brydges.ea:14:scaling
      volume        = {157},
      year          = {2014}
    }
-
-`Link to Source <https://doi.org/10.1007/s10955-014-1060-5},>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-014-1060-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

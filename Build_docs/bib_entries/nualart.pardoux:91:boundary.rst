@@ -22,5 +22,7 @@ nualart.pardoux:91:boundary
      volume        = {19},
      year          = {1991}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199107)19:3<1118:BVPFSD>2.0.CO;2-B\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

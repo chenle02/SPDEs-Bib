@@ -23,8 +23,7 @@ dembo.peres.ea:06:late
      volume        = {34},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1214/009117905000000387},>`_
+`The URL link to the source <https://doi.org/10.1214/009117905000000387>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

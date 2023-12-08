@@ -21,8 +21,7 @@ kardar.zhang:87:scaling
      volume        = {58},
      year          = {1987}
    }
-
-`Link to Source <https://link.aps.org/doi/10.1103/PhysRevLett.58.2087},>`_
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.58.2087>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

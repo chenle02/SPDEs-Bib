@@ -23,8 +23,7 @@ bourgain.dvir.ea:16:affine
      volume        = {25},
      year          = {2016}
    }
-
-`Link to Source <https://doi.org/10.1007/s00037-015-0108-5},>`_
+`The URL link to the source <https://doi.org/10.1007/s00037-015-0108-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

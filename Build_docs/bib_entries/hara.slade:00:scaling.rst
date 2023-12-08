@@ -23,8 +23,7 @@ hara.slade:00:scaling
      volume        = {99},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1023/A:1018628503898},>`_
+`The URL link to the source <https://doi.org/10.1023/A:1018628503898>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

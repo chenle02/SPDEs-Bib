@@ -23,8 +23,7 @@ derriennic.hachem:88:sur
      volume        = {198},
      year          = {1988}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01163292},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01163292>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ ouvrard:75:representation
      volume        = {33},
      year          = {1975/76}
    }
-
-`Link to Source <https://doi.org/10.1007/BF00534964},>`_
+`The URL link to the source <https://doi.org/10.1007/BF00534964>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ duplantier:91:can
      volume        = {66},
      year          = {1991}
    }
-
-`Link to Source <https://doi.org/10.1103/PhysRevLett.66.1555},>`_
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.66.1555>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ balazs.quastel.ea:11:fluctuation
      volume        = {24},
      year          = {2011}
    }
-
-`Link to Source <https://doi.org/10.1090/S0894-0347-2011-00692-9},>`_
+`The URL link to the source <https://doi.org/10.1090/S0894-0347-2011-00692-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

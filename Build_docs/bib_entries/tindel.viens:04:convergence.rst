@@ -23,8 +23,7 @@ tindel.viens:04:convergence
      volume        = {12},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1163/156939704323074692},>`_
+`The URL link to the source <https://doi.org/10.1163/156939704323074692>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

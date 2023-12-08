@@ -22,8 +22,7 @@ zabczyk:75:remarks
      volume        = {2},
      year          = {1975/76}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01464270},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01464270>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

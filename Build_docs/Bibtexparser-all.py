@@ -98,21 +98,16 @@ with open(parent_rst_name, "w") as parent_rst:
                 for line in bibfile:
                     file.write(f"   {line}")
                     # Check if the line contains a URL key
-                    # Stripping the line of whitespace and checking if it contains 'url'
+                    normalized_line = line.strip().lower()
                     if 'url' in line.strip().lower():
-                        # Splitting the line by '=' and stripping spaces from each part
-                        parts = line.split('=')
-                        if len(parts) == 2:
-                            key, value = parts[0].strip().lower(
-                            ), parts[1].strip()
-                            if key == 'url':
-                                url = value.strip(
-                                    '{} '
-                                )  # Removing potential braces and spaces
+                        start = normalized_line.find('{') + 3
+                        end = normalized_line.find('}') + 2
+                        if start > 0 and end > start:
+                            url = line[start:end].strip()
 
             # If a URL is found, append a clickable link
             if url:
-                file.write(f"\n`Link to Source <{url}>`_\n\n")
+                file.write(f"`The URL link to the source <{url}>`_\n\n")
 
             file.write(f"\n`Back to index <../{parent_rst_html}>`_\n")
 

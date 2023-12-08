@@ -23,8 +23,7 @@ bourgain:86:real
      volume        = {96},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.2307/2046157},>`_
+`The URL link to the source <https://doi.org/10.2307/2046157>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

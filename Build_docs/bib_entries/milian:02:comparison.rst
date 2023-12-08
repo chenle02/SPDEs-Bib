@@ -23,8 +23,7 @@ milian:02:comparison
      volume        = {72},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1080/10451120290008566},>`_
+`The URL link to the source <https://doi.org/10.1080/10451120290008566>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

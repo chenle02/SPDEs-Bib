@@ -21,8 +21,7 @@ tamborenea.das-sarma:93:surface-diffusion-driven
      volume        = {48},
      year          = {1993}
    }
-
-`Link to Source <https://link.aps.org/doi/10.1103/PhysRevE.48.2575},>`_
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevE.48.2575>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

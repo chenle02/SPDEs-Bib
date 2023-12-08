@@ -23,8 +23,7 @@ galaktionov.vazquez:91:asymptotic
      volume        = {100},
      year          = {1991}
    }
-
-`Link to Source <https://doi.org/10.1016/0022-1236(91)90120-T},>`_
+`The URL link to the source <https://doi.org/10.1016/0022-1236(91)90120-T>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

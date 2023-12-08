@@ -22,8 +22,7 @@ da-prato.zabczyk:92:stochastic
      volume        = {44},
      year          = {1992}
    }
-
-`Link to Source <https://doi.org/10.1017/CBO9780511666223},>`_
+`The URL link to the source <https://doi.org/10.1017/CBO9780511666223>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,5 +22,7 @@ zeitouni:89:on
      volume        = {17},
      year          = {1989}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198907)17:3<1037:OTOFOD>2.0.CO;2-6\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

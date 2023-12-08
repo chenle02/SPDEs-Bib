@@ -22,5 +22,7 @@ liskevich.rockner:98:strong
      volume        = {27},
      year          = {1998}
    }
+`The URL link to the source <http://www.numdam.org/item?id=ASNSP\_1998\_4\_27\_1\_69\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

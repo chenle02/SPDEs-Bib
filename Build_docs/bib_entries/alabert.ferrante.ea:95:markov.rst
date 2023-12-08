@@ -22,5 +22,7 @@ alabert.ferrante.ea:95:markov
      volume        = {23},
      year          = {1995}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199507)23:3<1262:MFPOSD>2.0.CO;2-O\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

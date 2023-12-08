@@ -20,8 +20,7 @@ edwards.wilkinson:82:surface
      volume        = {381},
      year          = {1982}
    }
-
-`Link to Source <https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1982.0056},>`_
+`The URL link to the source <https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1982.0056>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

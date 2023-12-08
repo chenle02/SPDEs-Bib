@@ -22,8 +22,7 @@ galaktionov.shmarev.ea:99:second-order
      volume        = {1},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1142/S0219199799000031},>`_
+`The URL link to the source <https://doi.org/10.1142/S0219199799000031>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

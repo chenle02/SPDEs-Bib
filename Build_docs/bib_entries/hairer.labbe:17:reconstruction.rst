@@ -23,8 +23,7 @@ hairer.labbe:17:reconstruction
      volume        = {273},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2017.07.002},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2017.07.002>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ da-prato.goldys.ea:97:ornstein-uhlenbeck
      volume        = {325},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.1016/S0764-4442(97)85631-5},>`_
+`The URL link to the source <https://doi.org/10.1016/S0764-4442(97)85631-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -21,8 +21,7 @@ zhai.zhang:20:2d
      volume        = {138},
      year          = {2020}
    }
-
-`Link to Source <https://doi.org/10.1016/j.matpur.2019.12.009},>`_
+`The URL link to the source <https://doi.org/10.1016/j.matpur.2019.12.009>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

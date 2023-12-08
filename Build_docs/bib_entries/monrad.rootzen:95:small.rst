@@ -23,8 +23,7 @@ monrad.rootzen:95:small
      volume        = {101},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1007/BF01375823},>`_
+`The URL link to the source <https://doi.org/10.1007/BF01375823>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

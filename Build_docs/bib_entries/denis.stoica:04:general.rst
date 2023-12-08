@@ -22,8 +22,7 @@ denis.stoica:04:general
      volume        = {9},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v9-223},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v9-223>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

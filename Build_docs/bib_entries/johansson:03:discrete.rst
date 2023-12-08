@@ -23,8 +23,7 @@ johansson:03:discrete
      volume        = {242},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1007/s00220-003-0945-y},>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-003-0945-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

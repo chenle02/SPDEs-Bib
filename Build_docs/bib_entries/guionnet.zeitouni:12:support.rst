@@ -23,8 +23,7 @@ guionnet.zeitouni:12:support
      volume        = {154},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1007/s00440-011-0380-5},>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-011-0380-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

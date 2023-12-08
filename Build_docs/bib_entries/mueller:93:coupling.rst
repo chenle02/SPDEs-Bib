@@ -21,5 +21,7 @@ mueller:93:coupling
      volume        = {21},
      year          = {1993}
    }
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199310)21:4<2189:CAIMFT>2.0.CO;2-L\&origin=MSN>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ viens:09:steins
      volume        = {119},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1016/j.spa.2009.07.002},>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2009.07.002>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

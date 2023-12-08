@@ -21,8 +21,7 @@ foondun.guerngar.ea:17:some
      volume        = {102},
      year          = {2017}
    }
-
-`Link to Source <https://doi.org/10.1016/j.chaos.2017.03.064},>`_
+`The URL link to the source <https://doi.org/10.1016/j.chaos.2017.03.064>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

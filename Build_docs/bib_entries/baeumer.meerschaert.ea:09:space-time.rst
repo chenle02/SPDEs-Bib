@@ -23,8 +23,7 @@ baeumer.meerschaert.ea:09:space-time
      volume        = {46},
      year          = {2009}
    }
-
-`Link to Source <https://doi.org/10.1239/jap/1261670691},>`_
+`The URL link to the source <https://doi.org/10.1239/jap/1261670691>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ bourgain:02:on*4
      volume        = {88},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1007/BF02786578},>`_
+`The URL link to the source <https://doi.org/10.1007/BF02786578>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,8 +22,7 @@ hammersley:62:generalization
      volume        = {58},
      year          = {1962}
    }
-
-`Link to Source <https://doi.org/10.1017/s030500410003646x},>`_
+`The URL link to the source <https://doi.org/10.1017/s030500410003646x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

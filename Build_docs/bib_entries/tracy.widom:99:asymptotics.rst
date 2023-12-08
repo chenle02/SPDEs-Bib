@@ -21,8 +21,7 @@ tracy.widom:99:asymptotics
      volume        = {237},
      year          = {1999}
    }
-
-`Link to Source <https://doi.org/10.1090/conm/237/1710795},>`_
+`The URL link to the source <https://doi.org/10.1090/conm/237/1710795>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ peral.vazquez:95:on
      volume        = {129},
      year          = {1995}
    }
-
-`Link to Source <https://doi.org/10.1007/BF00383673},>`_
+`The URL link to the source <https://doi.org/10.1007/BF00383673>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ lesigne.volny:01:large
      volume        = {96},
      year          = {2001}
    }
-
-`Link to Source <https://doi.org/10.1016/S0304-4149(01)00112-0},>`_
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(01)00112-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

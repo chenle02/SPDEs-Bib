@@ -23,8 +23,7 @@ atar.zeitouni:98:note
      volume        = {35},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1016/S0167-6911(98)00045-0},>`_
+`The URL link to the source <https://doi.org/10.1016/S0167-6911(98)00045-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,8 +23,7 @@ bourgain:10:on
      volume        = {21},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-642-14444-8\_4},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-642-14444-8\_4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

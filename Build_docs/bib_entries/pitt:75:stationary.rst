@@ -23,8 +23,7 @@ pitt:75:stationary
      volume        = {5},
      year          = {1975}
    }
-
-`Link to Source <https://doi.org/10.1016/0047-259X(75)90048-2},>`_
+`The URL link to the source <https://doi.org/10.1016/0047-259X(75)90048-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

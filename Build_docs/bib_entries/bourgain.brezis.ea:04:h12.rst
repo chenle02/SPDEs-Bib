@@ -22,8 +22,7 @@ bourgain.brezis.ea:04:h12
      url           = {https://doi.org/10.1007/s10240-004-0019-5},
      year          = {2004}
    }
-
-`Link to Source <https://doi.org/10.1007/s10240-004-0019-5},>`_
+`The URL link to the source <https://doi.org/10.1007/s10240-004-0019-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

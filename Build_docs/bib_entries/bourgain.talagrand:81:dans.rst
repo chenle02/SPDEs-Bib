@@ -23,8 +23,7 @@ bourgain.talagrand:81:dans
      volume        = {81},
      year          = {1981}
    }
-
-`Link to Source <https://doi.org/10.2307/2043994},>`_
+`The URL link to the source <https://doi.org/10.2307/2043994>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

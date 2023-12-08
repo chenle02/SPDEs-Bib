@@ -22,8 +22,7 @@ lee.xiao:23:chung-type
      volume        = {29},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.3150/22-bej1467},>`_
+`The URL link to the source <https://doi.org/10.3150/22-bej1467>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

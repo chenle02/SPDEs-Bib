@@ -21,8 +21,7 @@ guerngar.nane.ea:23:uniqueness
      volume        = {13},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.7153/fdc-2023-13-04},>`_
+`The URL link to the source <https://doi.org/10.7153/fdc-2023-13-04>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

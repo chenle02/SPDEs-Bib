@@ -22,8 +22,7 @@ chaleyat-maurel.nualart:98:points
      volume        = {3},
      year          = {1998}
    }
-
-`Link to Source <https://doi.org/10.1214/EJP.v3-23},>`_
+`The URL link to the source <https://doi.org/10.1214/EJP.v3-23>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

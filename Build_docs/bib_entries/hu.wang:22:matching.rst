@@ -14,8 +14,7 @@ hu.wang:22:matching
      url           = {https://doi.org/10.1007/s40072-022-00278-2},
      year          = {2022}
    }
-
-`Link to Source <https://doi.org/10.1007/s40072-022-00278-2},>`_
+`The URL link to the source <https://doi.org/10.1007/s40072-022-00278-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

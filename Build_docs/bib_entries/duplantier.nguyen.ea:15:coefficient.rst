@@ -23,8 +23,7 @@ duplantier.nguyen.ea:15:coefficient
      volume        = {16},
      year          = {2015}
    }
-
-`Link to Source <https://doi.org/10.1007/s00023-014-0351-3},>`_
+`The URL link to the source <https://doi.org/10.1007/s00023-014-0351-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

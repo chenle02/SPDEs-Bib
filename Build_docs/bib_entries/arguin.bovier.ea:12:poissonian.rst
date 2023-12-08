@@ -23,8 +23,7 @@ arguin.bovier.ea:12:poissonian
      volume        = {22},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1214/11-AAP809},>`_
+`The URL link to the source <https://doi.org/10.1214/11-AAP809>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

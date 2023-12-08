@@ -22,8 +22,7 @@ yilmaz.zeitouni:19:nonconvex
      volume        = {29},
      year          = {2019}
    }
-
-`Link to Source <https://doi.org/10.1214/18-AAP1395},>`_
+`The URL link to the source <https://doi.org/10.1214/18-AAP1395>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

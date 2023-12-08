@@ -23,8 +23,7 @@ bourgain.furman.ea:07:invariant
      volume        = {344},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1016/j.crma.2007.04.017},>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2007.04.017>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

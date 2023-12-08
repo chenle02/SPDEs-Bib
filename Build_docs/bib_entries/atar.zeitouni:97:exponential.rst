@@ -23,8 +23,7 @@ atar.zeitouni:97:exponential
      volume        = {33},
      year          = {1997}
    }
-
-`Link to Source <https://doi.org/10.1016/S0246-0203(97)80110-0},>`_
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(97)80110-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

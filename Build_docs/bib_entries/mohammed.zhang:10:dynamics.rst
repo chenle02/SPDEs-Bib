@@ -23,8 +23,7 @@ mohammed.zhang:10:dynamics
      volume        = {258},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.1016/j.jfa.2009.11.007},>`_
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2009.11.007>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

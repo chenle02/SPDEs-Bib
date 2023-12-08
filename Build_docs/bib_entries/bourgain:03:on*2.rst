@@ -23,8 +23,7 @@ bourgain:03:on*2
      volume        = {1807},
      year          = {2003}
    }
-
-`Link to Source <https://doi.org/10.1007/978-3-540-36428-3\_9},>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-540-36428-3\_9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

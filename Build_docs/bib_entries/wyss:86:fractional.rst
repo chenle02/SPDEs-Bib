@@ -23,8 +23,7 @@ wyss:86:fractional
      volume        = {27},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.1063/1.527251},>`_
+`The URL link to the source <https://doi.org/10.1063/1.527251>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

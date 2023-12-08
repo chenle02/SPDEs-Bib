@@ -22,8 +22,7 @@ jakubowski.zabczyk:07:exponential
      volume        = {11},
      year          = {2007}
    }
-
-`Link to Source <https://doi.org/10.1007/s00780-007-0040-x},>`_
+`The URL link to the source <https://doi.org/10.1007/s00780-007-0040-x>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

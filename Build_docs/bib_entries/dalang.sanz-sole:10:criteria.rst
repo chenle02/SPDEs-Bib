@@ -23,8 +23,7 @@ dalang.sanz-sole:10:criteria
      volume        = {16},
      year          = {2010}
    }
-
-`Link to Source <https://doi.org/10.3150/09-BEJ247},>`_
+`The URL link to the source <https://doi.org/10.3150/09-BEJ247>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

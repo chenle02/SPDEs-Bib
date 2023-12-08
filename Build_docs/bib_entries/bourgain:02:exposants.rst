@@ -22,8 +22,7 @@ bourgain:02:exposants
      volume        = {335},
      year          = {2002}
    }
-
-`Link to Source <https://doi.org/10.1016/S1631-073X(02)02525-6},>`_
+`The URL link to the source <https://doi.org/10.1016/S1631-073X(02)02525-6>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

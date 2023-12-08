@@ -23,8 +23,7 @@ leon.nualart:06:clark-ocone
      volume        = {24},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1080/07362990500522460},>`_
+`The URL link to the source <https://doi.org/10.1080/07362990500522460>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

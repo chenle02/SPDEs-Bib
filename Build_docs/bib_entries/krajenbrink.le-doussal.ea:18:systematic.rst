@@ -21,8 +21,7 @@ krajenbrink.le-doussal.ea:18:systematic
      volume        = {936},
      year          = {2018}
    }
-
-`Link to Source <https://doi.org/10.1016/j.nuclphysb.2018.09.019},>`_
+`The URL link to the source <https://doi.org/10.1016/j.nuclphysb.2018.09.019>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

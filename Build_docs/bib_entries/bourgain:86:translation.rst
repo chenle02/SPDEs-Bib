@@ -22,5 +22,7 @@ bourgain:86:translation
      volume        = {36},
      year          = {1986}
    }
+`The URL link to the source <http://www.numdam.org/item?id=AIF\_1986\_\_36\_1\_97\_0>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

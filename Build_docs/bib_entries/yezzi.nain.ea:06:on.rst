@@ -20,8 +20,7 @@ yezzi.nain.ea:06:on
      url           = {https://doi.org/10.1007/0-387-28831-7\_10},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1007/0-387-28831-7\_10},>`_
+`The URL link to the source <https://doi.org/10.1007/0-387-28831-7\_10>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

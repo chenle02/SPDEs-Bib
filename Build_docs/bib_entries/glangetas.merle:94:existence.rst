@@ -22,8 +22,7 @@ glangetas.merle:94:existence
      volume        = {160},
      year          = {1994}
    }
-
-`Link to Source <http://projecteuclid.org/euclid.cmp/1104269518},>`_
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104269518>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

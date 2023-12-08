@@ -22,8 +22,7 @@ dunlap.gu.ea:23:localization
      volume        = {24},
      year          = {2023}
    }
-
-`Link to Source <https://doi.org/10.1007/s00023-023-01288-z},>`_
+`The URL link to the source <https://doi.org/10.1007/s00023-023-01288-z>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -20,8 +20,7 @@ duplantier:06:conformal
      url           = {https://doi.org/10.1016/S0924-8099(06)80040-5},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1016/S0924-8099(06)80040-5},>`_
+`The URL link to the source <https://doi.org/10.1016/S0924-8099(06)80040-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

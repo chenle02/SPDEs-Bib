@@ -23,8 +23,7 @@ cattiaux.guillin:06:on
      volume        = {86},
      year          = {2006}
    }
-
-`Link to Source <https://doi.org/10.1016/j.matpur.2006.06.003},>`_
+`The URL link to the source <https://doi.org/10.1016/j.matpur.2006.06.003>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

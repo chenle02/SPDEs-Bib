@@ -23,8 +23,7 @@ derrida:80:random
      volume        = {67},
      year          = {1980}
    }
-
-`Link to Source <https://doi.org/10.1016/0370-1573(80)90076-9},>`_
+`The URL link to the source <https://doi.org/10.1016/0370-1573(80)90076-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

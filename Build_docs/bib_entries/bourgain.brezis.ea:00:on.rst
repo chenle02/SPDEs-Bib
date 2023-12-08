@@ -23,8 +23,7 @@ bourgain.brezis.ea:00:on
      volume        = {331},
      year          = {2000}
    }
-
-`Link to Source <https://doi.org/10.1016/S0764-4442(00)00513-9},>`_
+`The URL link to the source <https://doi.org/10.1016/S0764-4442(00)00513-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

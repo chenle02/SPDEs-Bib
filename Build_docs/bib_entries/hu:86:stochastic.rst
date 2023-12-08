@@ -23,8 +23,7 @@ hu:86:stochastic
      volume        = {6},
      year          = {1986}
    }
-
-`Link to Source <https://doi.org/10.1016/S0252-9602(18)30534-4},>`_
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(18)30534-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

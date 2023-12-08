@@ -23,8 +23,7 @@ deya.neuenkirch.ea:12:milstein-type
      volume        = {48},
      year          = {2012}
    }
-
-`Link to Source <https://doi.org/10.1214/10-AIHP392},>`_
+`The URL link to the source <https://doi.org/10.1214/10-AIHP392>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_
