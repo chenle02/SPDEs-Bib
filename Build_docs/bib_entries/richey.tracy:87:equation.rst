@@ -22,4 +22,7 @@ richey.tracy:87:equation
      year          = {1987}
    }
 
+`Link to Source <http://stacks.iop.org/0305-4470/20/L1121},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ nualart:98:stochastic
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4612-2224-8\_15},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

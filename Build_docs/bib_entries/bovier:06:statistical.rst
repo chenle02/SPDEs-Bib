@@ -24,4 +24,7 @@ bovier:06:statistical
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1017/CBO9780511616808},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

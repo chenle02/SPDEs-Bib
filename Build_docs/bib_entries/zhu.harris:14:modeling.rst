@@ -21,4 +21,7 @@ zhu.harris:14:modeling
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1190/geo2013-0245.1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,7 @@ nourdin.zheng:19:exchangeable
      year          = {[2019] \copyright 2019}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-030-26391-1\_14},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -25,4 +25,7 @@ quastel.jankowski.ea:02:central
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.4310/MAA.2002.v9.n3.a6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

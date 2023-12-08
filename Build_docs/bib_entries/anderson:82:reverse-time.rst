@@ -24,4 +24,7 @@ anderson:82:reverse-time
      year          = {1982}
    }
 
+`Link to Source <https://doi.org/10.1016/0304-4149(82)90051-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

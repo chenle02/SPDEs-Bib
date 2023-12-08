@@ -24,4 +24,7 @@ karczewska.lizama:07:stochastic
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1007/s00028-007-0302-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

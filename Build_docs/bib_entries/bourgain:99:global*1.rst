@@ -24,4 +24,7 @@ bourgain:99:global*1
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1090/S0894-0347-99-00283-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

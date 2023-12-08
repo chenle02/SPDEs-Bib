@@ -24,4 +24,7 @@ sznitman:93:brownian
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01192268},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

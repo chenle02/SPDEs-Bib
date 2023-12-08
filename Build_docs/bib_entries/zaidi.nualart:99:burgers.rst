@@ -23,4 +23,7 @@ zaidi.nualart:99:burgers
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1080/17442509908834197},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ sugitani:89:some
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.2969/jmsj/04130437},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

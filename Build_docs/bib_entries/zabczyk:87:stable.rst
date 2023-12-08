@@ -24,4 +24,7 @@ zabczyk:87:stable
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1016/0022-247X(87)90107-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

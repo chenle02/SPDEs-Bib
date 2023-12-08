@@ -23,4 +23,7 @@ oksendal.zhang:07:ito-ventzell
      year          = {2007}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.ojm/1174324333},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

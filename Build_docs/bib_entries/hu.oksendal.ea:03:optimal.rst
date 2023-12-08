@@ -24,4 +24,7 @@ hu.oksendal.ea:03:optimal
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1142/S0219025703001432},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

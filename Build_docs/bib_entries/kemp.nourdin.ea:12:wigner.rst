@@ -24,4 +24,7 @@ kemp.nourdin.ea:12:wigner
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1214/11-AOP657},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

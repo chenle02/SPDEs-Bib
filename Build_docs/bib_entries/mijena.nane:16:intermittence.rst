@@ -24,4 +24,7 @@ mijena.nane:16:intermittence
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1007/s11118-015-9512-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

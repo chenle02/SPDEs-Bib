@@ -23,4 +23,7 @@ hu.oksendal:08:optimal
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.4064/bc83-0-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

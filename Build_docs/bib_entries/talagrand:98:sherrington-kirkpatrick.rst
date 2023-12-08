@@ -24,4 +24,7 @@ talagrand:98:sherrington-kirkpatrick
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1007/s004400050147},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

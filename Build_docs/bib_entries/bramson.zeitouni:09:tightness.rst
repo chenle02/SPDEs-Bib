@@ -24,4 +24,7 @@ bramson.zeitouni:09:tightness
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1214/08-AOP414},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

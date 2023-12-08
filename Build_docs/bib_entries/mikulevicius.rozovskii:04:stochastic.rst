@@ -24,4 +24,7 @@ mikulevicius.rozovskii:04:stochastic
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1137/S0036141002409167},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

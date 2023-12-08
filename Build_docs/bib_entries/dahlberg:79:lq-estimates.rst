@@ -24,4 +24,7 @@ dahlberg:79:lq-estimates
      year          = {1979}
    }
 
+`Link to Source <https://doi.org/10.7146/math.scand.a-11800},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

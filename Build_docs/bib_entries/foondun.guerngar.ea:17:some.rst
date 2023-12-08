@@ -22,4 +22,7 @@ foondun.guerngar.ea:17:some
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1016/j.chaos.2017.03.064},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

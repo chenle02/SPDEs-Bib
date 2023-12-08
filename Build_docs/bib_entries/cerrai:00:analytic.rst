@@ -24,4 +24,7 @@ cerrai:00:analytic
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1006/jdeq.2000.3788},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

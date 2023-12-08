@@ -24,4 +24,7 @@ wang:08:existence
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2007.10.007},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

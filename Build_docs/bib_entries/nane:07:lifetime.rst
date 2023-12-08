@@ -23,4 +23,7 @@ nane:07:lifetime
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1051/ps:2007012},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

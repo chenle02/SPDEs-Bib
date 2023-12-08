@@ -24,4 +24,7 @@ dembo.peres.ea:02:thick
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9947-02-03080-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

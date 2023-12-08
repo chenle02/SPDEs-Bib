@@ -23,4 +23,7 @@ davis:76:on
      year          = {1976}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.dmj/1077311944},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

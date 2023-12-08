@@ -24,4 +24,7 @@ paquette.zeitouni:17:extremal
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1214/16-AOP1161},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

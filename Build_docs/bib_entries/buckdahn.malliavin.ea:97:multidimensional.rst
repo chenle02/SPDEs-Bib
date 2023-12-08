@@ -23,4 +23,7 @@ buckdahn.malliavin.ea:97:multidimensional
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1080/17442509708834130},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ baeumer.meerschaert.ea:09:brownian
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9947-09-04678-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

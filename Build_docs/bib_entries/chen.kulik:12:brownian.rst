@@ -24,4 +24,7 @@ chen.kulik:12:brownian
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1214/11-AIHP419},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ mitrea:08:generalization
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9947-08-04384-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ nualart.pardoux:91:second
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1016/0304-4149(91)90028-B},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

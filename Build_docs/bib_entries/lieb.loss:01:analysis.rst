@@ -23,4 +23,7 @@ lieb.loss:01:analysis
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1090/gsm/014},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

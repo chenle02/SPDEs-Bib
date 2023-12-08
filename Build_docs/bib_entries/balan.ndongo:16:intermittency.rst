@@ -22,4 +22,7 @@ balan.ndongo:16:intermittency
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2015.09.027},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

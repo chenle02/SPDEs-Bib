@@ -21,4 +21,7 @@ bogachev:07:measure
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-540-34514-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

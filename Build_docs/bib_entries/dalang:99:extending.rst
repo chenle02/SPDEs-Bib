@@ -23,4 +23,7 @@ dalang:99:extending
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v4-43},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

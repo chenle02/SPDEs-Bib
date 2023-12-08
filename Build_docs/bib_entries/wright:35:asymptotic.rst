@@ -22,4 +22,7 @@ wright:35:asymptotic
      year          = {1935}
    }
 
+`Link to Source <https://doi.org/10.1112/plms/s2-38.1.257},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

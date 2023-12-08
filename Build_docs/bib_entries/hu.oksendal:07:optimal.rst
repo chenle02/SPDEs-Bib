@@ -24,4 +24,7 @@ hu.oksendal:07:optimal
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1239/jap/1189717542},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ peszat.tindel:10:stochastic
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1080/07362994.2010.482840},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

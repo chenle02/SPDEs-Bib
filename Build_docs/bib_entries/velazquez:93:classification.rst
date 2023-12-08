@@ -24,4 +24,7 @@ velazquez:93:classification
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.2307/2154464},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

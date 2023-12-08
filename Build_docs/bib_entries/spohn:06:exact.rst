@@ -24,4 +24,7 @@ spohn:06:exact
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1016/j.physa.2006.04.006},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

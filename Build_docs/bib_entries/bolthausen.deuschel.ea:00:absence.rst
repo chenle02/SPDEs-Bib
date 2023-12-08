@@ -25,4 +25,7 @@ bolthausen.deuschel.ea:00:absence
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1063/1.533184},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

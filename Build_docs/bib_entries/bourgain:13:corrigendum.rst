@@ -22,4 +22,7 @@ bourgain:13:corrigendum
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s11854-013-0025-y},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

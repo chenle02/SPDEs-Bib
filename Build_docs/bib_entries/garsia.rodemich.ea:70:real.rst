@@ -23,4 +23,7 @@ garsia.rodemich.ea:70:real
      year          = {1970/71}
    }
 
+`Link to Source <https://doi.org/10.1512/iumj.1970.20.20046},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

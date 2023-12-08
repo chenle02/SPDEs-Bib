@@ -22,4 +22,7 @@ stroock:84:introduction
      year          = {1984}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4613-8514-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

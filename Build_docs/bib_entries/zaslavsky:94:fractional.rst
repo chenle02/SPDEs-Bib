@@ -25,4 +25,7 @@ zaslavsky:94:fractional
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1016/0167-2789(94)90254-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

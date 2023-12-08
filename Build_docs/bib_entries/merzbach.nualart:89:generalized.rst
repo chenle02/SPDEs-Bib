@@ -24,4 +24,7 @@ merzbach.nualart:89:generalized
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01051875},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

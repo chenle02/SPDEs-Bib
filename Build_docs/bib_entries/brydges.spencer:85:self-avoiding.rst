@@ -23,4 +23,7 @@ brydges.spencer:85:self-avoiding
      year          = {1985}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1103941982},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

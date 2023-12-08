@@ -24,4 +24,7 @@ imamura.sasamoto:11:replica
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1088/1751-8113/44/38/385001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

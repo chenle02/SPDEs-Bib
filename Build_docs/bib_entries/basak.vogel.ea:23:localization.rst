@@ -23,4 +23,7 @@ basak.vogel.ea:23:localization
      year          = {2023}
    }
 
+`Link to Source <https://doi.org/10.2140/pmp.2023.4.477},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

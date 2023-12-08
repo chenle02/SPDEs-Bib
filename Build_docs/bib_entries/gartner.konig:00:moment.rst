@@ -24,4 +24,7 @@ gartner.konig:00:moment
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1214/aoap/1019737669},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

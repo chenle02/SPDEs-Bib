@@ -23,4 +23,7 @@ kurtz:07:yamada-watanabe-engelbert
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v12-431},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

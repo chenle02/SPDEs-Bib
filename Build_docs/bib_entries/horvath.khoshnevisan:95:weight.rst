@@ -24,4 +24,7 @@ horvath.khoshnevisan:95:weight
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1016/0304-4149(95)00021-X},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

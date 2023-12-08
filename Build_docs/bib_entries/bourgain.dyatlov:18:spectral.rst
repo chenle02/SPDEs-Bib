@@ -24,4 +24,7 @@ bourgain.dyatlov:18:spectral
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.4007/annals.2018.187.3.5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

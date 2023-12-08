@@ -24,4 +24,7 @@ hairer.manson:10:periodic
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2010.03.016},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

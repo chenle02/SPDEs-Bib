@@ -24,4 +24,7 @@ kardar:87:replica
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1016/0550-3213(87)90203-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

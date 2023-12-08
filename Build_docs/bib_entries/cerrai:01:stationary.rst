@@ -24,4 +24,7 @@ cerrai:01:stationary
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1137/S0363012999359949},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

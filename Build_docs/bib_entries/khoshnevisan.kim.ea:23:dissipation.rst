@@ -23,4 +23,7 @@ khoshnevisan.kim.ea:23:dissipation
      year          = {2023}
    }
 
+`Link to Source <https://doi.org/10.1214/22-aihp1289},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ hu.nualart.ea:11:malliavin
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1214/11-AAP762},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

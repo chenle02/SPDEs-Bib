@@ -24,4 +24,7 @@ gerencser.hairer:19:solution
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1002/cpa.21816},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,7 @@ mueller:15:stochastic
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-0348-0909-2\_10},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

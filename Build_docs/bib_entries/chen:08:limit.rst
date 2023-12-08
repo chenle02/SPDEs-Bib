@@ -24,4 +24,7 @@ chen:08:limit
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1214/07-AIHP120},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ chen.kim.ea:10:heat
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.4171/JEMS/231},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

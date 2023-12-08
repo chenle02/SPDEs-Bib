@@ -24,4 +24,7 @@ nualart.xu:14:central
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2014.07.002},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ lou.ouyang:16:fractal
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2016.02.005},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

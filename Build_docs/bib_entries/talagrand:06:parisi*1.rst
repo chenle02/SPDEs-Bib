@@ -24,4 +24,7 @@ talagrand:06:parisi*1
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.4007/annals.2006.163.221},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

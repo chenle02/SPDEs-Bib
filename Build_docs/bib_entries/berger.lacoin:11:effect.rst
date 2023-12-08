@@ -24,4 +24,7 @@ berger.lacoin:11:effect
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-010-0110-x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

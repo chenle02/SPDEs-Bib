@@ -24,4 +24,7 @@ deya.gubinelli.ea:19:priori
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2019.03.008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

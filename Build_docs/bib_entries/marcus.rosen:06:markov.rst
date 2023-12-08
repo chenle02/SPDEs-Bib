@@ -23,4 +23,7 @@ marcus.rosen:06:markov
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1017/CBO9780511617997},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

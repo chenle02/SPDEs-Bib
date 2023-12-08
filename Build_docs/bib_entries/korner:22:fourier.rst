@@ -22,4 +22,7 @@ korner:22:fourier
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1017/9781009230063},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

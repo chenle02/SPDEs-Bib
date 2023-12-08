@@ -24,4 +24,7 @@ bauerschmidt.brydges.ea:14:scaling
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-014-1060-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

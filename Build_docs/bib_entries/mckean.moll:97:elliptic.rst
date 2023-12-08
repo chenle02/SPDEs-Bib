@@ -22,4 +22,7 @@ mckean.moll:97:elliptic
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1017/CBO9781139174879},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

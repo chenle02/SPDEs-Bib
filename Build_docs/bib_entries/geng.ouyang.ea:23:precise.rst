@@ -23,4 +23,7 @@ geng.ouyang.ea:23:precise
      year          = {2023}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-022-01208-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

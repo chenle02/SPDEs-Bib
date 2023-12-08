@@ -24,4 +24,7 @@ bourgain.chang:06:gauss
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1016/j.crma.2006.01.022},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

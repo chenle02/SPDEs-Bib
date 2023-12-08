@@ -21,4 +21,7 @@ emrah.janjigian.ea:21:flats
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1214/21-EJP595},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

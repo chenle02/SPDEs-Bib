@@ -24,4 +24,7 @@ hairer.mattingly:08:spectral
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1214/08-AOP392},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

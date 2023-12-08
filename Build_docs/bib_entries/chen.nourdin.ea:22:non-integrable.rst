@@ -23,4 +23,7 @@ chen.nourdin.ea:22:non-integrable
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-021-01094-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

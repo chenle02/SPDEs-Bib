@@ -24,4 +24,7 @@ carmona.koralov.ea:01:asymptotics
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1515/rose.2001.9.1.77},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

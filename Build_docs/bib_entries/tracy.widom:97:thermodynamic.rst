@@ -24,4 +24,7 @@ tracy.widom:97:thermodynamic
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1142/S0217979297000095},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

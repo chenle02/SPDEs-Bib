@@ -23,4 +23,7 @@ wong:01:asymptotic
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1137/1.9780898719260},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

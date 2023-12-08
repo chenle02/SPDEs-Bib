@@ -23,4 +23,7 @@ davies:02:integral
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4684-9283-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

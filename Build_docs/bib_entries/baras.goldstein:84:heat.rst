@@ -24,4 +24,7 @@ baras.goldstein:84:heat
      year          = {1984}
    }
 
+`Link to Source <https://doi.org/10.2307/1999277},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

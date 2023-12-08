@@ -24,4 +24,7 @@ armstrong.serfaty.ea:14:remarks
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s11118-014-9402-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

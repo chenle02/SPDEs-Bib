@@ -18,4 +18,7 @@ chen:23:open
      year          = {2023}
    }
 
+`Link to Source <https://github.com/chenle02/Open\_Slides\_for\_Linear\_Algebra},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

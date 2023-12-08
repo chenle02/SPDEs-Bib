@@ -24,4 +24,7 @@ distler.kawai:89:conformal
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.1016/0550-3213(89)90354-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

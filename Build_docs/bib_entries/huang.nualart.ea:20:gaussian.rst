@@ -24,4 +24,7 @@ huang.nualart.ea:20:gaussian
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.1007/s40072-019-00149-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

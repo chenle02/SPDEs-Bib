@@ -23,4 +23,7 @@ nourdin.peccati.ea:16:classical
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-014-0590-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

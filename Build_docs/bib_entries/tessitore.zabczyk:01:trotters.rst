@@ -24,4 +24,7 @@ tessitore.zabczyk:01:trotters
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1007/s002330010047},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

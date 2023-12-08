@@ -23,4 +23,7 @@ bertsch.bisegna:97:blow-up
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1017/S0956792500002977},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

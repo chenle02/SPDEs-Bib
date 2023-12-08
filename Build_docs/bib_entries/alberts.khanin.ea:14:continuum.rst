@@ -23,4 +23,7 @@ alberts.khanin.ea:14:continuum
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-013-0872-z},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

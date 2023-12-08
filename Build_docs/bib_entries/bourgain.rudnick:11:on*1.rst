@@ -24,4 +24,7 @@ bourgain.rudnick:11:on*1
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s00222-010-0307-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

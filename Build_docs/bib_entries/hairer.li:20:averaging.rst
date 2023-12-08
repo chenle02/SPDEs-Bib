@@ -24,4 +24,7 @@ hairer.li:20:averaging
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.1214/19-AOP1408},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

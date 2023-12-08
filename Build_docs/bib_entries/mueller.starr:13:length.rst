@@ -23,4 +23,7 @@ mueller.starr:13:length
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-011-0364-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

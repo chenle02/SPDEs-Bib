@@ -22,4 +22,7 @@ zhang:90:replica
      year          = {1990}
    }
 
+`Link to Source <https://link.aps.org/doi/10.1103/PhysRevB.42.4897},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

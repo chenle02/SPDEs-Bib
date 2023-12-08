@@ -25,4 +25,7 @@ dalang.sanz-sole:09:holder-sobolev
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1090/memo/0931},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

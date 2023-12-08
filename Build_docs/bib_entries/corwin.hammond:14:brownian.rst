@@ -23,4 +23,7 @@ corwin.hammond:14:brownian
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s00222-013-0462-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

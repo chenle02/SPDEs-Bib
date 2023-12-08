@@ -24,4 +24,7 @@ galaktionov.vazquez:96:blow-up
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1006/jdeq.1996.0059},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

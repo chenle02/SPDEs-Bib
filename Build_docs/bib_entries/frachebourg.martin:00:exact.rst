@@ -23,4 +23,7 @@ frachebourg.martin:00:exact
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1017/S0022112000001142},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

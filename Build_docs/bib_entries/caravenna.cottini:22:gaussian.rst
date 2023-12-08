@@ -21,4 +21,7 @@ caravenna.cottini:22:gaussian
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1214/22-ejp798},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

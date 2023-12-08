@@ -24,4 +24,7 @@ hu.huang.ea:17:stochastic
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1214/16-AOP1172},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

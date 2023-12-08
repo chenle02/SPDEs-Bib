@@ -24,4 +24,7 @@ kurtz.xiong:99:particle
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1016/S0304-4149(99)00024-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ duplantier:99:harmonic
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1103/PhysRevLett.82.3940},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

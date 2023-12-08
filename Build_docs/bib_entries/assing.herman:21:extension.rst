@@ -21,4 +21,7 @@ assing.herman:21:extension
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1214/21-ejp624},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

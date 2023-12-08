@@ -23,4 +23,7 @@ chaleyat-maurel.sanz-sole:03:positivity
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1051/ps:2003002},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

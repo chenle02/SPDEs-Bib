@@ -24,4 +24,7 @@ martinez.sanz-sole:06:lattice
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/s00245-006-0874-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

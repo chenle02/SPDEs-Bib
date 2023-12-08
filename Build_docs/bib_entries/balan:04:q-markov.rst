@@ -24,4 +24,7 @@ balan:04:q-markov
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2003.09.011},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

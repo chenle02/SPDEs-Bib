@@ -24,4 +24,7 @@ nualart.quer-sardanyons:09:gaussian
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2009.09.001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

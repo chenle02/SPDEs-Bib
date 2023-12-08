@@ -24,4 +24,7 @@ palmer.tracy:83:two-dimensional
      year          = {1983}
    }
 
+`Link to Source <https://doi.org/10.1016/0196-8858(83)90005-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

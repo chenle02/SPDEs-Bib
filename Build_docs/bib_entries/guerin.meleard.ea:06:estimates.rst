@@ -24,4 +24,7 @@ guerin.meleard.ea:06:estimates
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2006.01.017},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,7 @@ nourdin.zeineddine:14:ito-type
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v19-3184},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ gartner:88:convergence
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1016/0304-4149(87)90040-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

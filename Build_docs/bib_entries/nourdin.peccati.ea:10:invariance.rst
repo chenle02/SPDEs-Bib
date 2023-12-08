@@ -23,4 +23,7 @@ nourdin.peccati.ea:10:invariance
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1214/10-AOP531},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

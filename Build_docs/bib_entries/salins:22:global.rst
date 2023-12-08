@@ -21,4 +21,7 @@ salins:22:global
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1214/22-ejp740},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ balan.jakubowski.ea:16:functional
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-014-0581-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ duminil-copin:20:lectures
      year          = {[2020] \copyright 2020}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-030-32011-9\_2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

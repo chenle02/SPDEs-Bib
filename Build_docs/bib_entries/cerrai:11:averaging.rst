@@ -24,4 +24,7 @@ cerrai:11:averaging
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1137/100806710},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

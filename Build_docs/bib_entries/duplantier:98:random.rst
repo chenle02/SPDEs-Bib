@@ -23,4 +23,7 @@ duplantier:98:random
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1103/PhysRevLett.81.5489},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

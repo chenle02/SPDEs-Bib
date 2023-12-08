@@ -24,4 +24,7 @@ edmunds.triebel:89:entropy
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.1112/plms/s3-58.1.137},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

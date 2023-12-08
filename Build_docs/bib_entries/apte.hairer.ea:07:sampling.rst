@@ -23,4 +23,7 @@ apte.hairer.ea:07:sampling
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.physd.2006.06.009},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

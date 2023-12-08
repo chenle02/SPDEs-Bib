@@ -24,4 +24,7 @@ yang.zhang.ea:20:reflected
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2020.05.002},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

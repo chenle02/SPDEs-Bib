@@ -24,4 +24,7 @@ deya.gubinelli.ea:12:non-linear
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-011-0341-z},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

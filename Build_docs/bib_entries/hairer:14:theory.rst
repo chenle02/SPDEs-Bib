@@ -24,4 +24,7 @@ hairer:14:theory
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s00222-014-0505-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

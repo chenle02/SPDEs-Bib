@@ -24,4 +24,7 @@ bourgain.talagrand:81:dans
      year          = {1981}
    }
 
+`Link to Source <https://doi.org/10.2307/2043994},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

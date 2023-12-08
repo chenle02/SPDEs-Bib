@@ -23,4 +23,7 @@ gyongy:82:on
      year          = {1982}
    }
 
+`Link to Source <https://doi.org/10.1080/17442508208833220},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

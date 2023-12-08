@@ -24,4 +24,7 @@ basor.tracy:93:variance
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01052770},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

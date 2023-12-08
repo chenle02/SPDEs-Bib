@@ -23,4 +23,7 @@ wright:33:on
      year          = {1933}
    }
 
+`Link to Source <https://doi.org/10.1112/jlms/s1-8.1.71},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

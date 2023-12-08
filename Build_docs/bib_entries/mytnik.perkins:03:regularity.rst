@@ -24,4 +24,7 @@ mytnik.perkins:03:regularity
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1055425785},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

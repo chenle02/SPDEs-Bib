@@ -23,4 +23,7 @@ heydenreich:11:long-range
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1214/09-AIHP350},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

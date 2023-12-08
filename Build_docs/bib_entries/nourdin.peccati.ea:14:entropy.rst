@@ -24,4 +24,7 @@ nourdin.peccati.ea:14:entropy
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2013.09.017},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

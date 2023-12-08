@@ -24,4 +24,7 @@ kemppainen.smirnov:17:random
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1214/15-AOP1074},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

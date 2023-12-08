@@ -21,4 +21,7 @@ fyodorov.le-doussal.ea:09:statistical
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1088/1742-5468/2009/10/p10005},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

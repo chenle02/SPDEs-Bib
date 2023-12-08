@@ -23,4 +23,7 @@ tracy.widom:04:differential
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-004-1182-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ liggett:85:interacting
      year          = {1985}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4613-8542-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

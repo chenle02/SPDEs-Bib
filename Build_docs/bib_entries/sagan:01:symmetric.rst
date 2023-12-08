@@ -24,4 +24,7 @@ sagan:01:symmetric
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4757-6804-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

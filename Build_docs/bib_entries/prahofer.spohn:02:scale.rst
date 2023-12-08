@@ -25,4 +25,7 @@ prahofer.spohn:02:scale
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1023/A:1019791415147},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ hu.le.ea:17:stochastic
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2016.10.010},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

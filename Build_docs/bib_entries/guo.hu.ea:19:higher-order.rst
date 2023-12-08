@@ -24,4 +24,7 @@ guo.hu.ea:19:higher-order
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-017-0800-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

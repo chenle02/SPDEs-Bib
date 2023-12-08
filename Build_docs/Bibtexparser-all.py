@@ -14,7 +14,9 @@ import argparse
 
 # Set up argument parser
 parser = argparse.ArgumentParser(description='Fast processing.')
-parser.add_argument('--fast', action='store_true', help='Run the script in fast mode')
+parser.add_argument('--fast',
+                    action='store_true',
+                    help='Run the script in fast mode')
 args = parser.parse_args()
 
 # Set BibTeX and parent RST file names
@@ -45,12 +47,14 @@ writer = BibTexWriter()
 # Create/Open the parent RST file
 with open(parent_rst_name, "w") as parent_rst:
     # Add an introductory line or description if needed
-    parent_rst.write("Here is a list of all entries in the SPDEs-Bib database:\n\n")
+    parent_rst.write(
+        "Here is a list of all entries in the SPDEs-Bib database:\n\n")
     parent_rst.write("References listed by cite keys\n")
     parent_rst.write("=" * len("References listed by cite keys") + "\n\n")
 
     # Sort entries by cite_key
-    sorted_entries = sorted(bib_database.entries, key=lambda x: x['ID'].upper())
+    sorted_entries = sorted(bib_database.entries,
+                            key=lambda x: x['ID'].upper())
 
     current_letter = ''
     for entry in sorted_entries:
@@ -75,7 +79,7 @@ with open(parent_rst_name, "w") as parent_rst:
                 db = bibtexparser.bibdatabase.BibDatabase()
                 db.entries = [entry]
                 bibfile.write(writer.write(db))
-            subprocess.run(["bibtex-tidy",  "-m", bib_entry_filename])
+            subprocess.run(["bibtex-tidy", "-m", bib_entry_filename])
 
         # Create corresponding RST file
         rst_entry_filename = f"bib_entries/{cite_key}.rst"
@@ -87,16 +91,36 @@ with open(parent_rst_name, "w") as parent_rst:
             # Write the raw BibTeX entry
             file.write("**BibTeX Entry:**\n\n")
             file.write(".. code-block:: bibtex\n\n")
+
+            url = None
             # Read and write the content of the .bib file
             with open(bib_entry_filename, "r") as bibfile:
                 for line in bibfile:
                     file.write(f"   {line}")
+                    # Check if the line contains a URL key
+                    # Stripping the line of whitespace and checking if it contains 'url'
+                    if 'url' in line.strip().lower():
+                        # Splitting the line by '=' and stripping spaces from each part
+                        parts = line.split('=')
+                        if len(parts) == 2:
+                            key, value = parts[0].strip().lower(
+                            ), parts[1].strip()
+                            if key == 'url':
+                                url = value.strip(
+                                    '{} '
+                                )  # Removing potential braces and spaces
+
+            # If a URL is found, append a clickable link
+            if url:
+                file.write(f"\n`Link to Source <{url}>`_\n\n")
+
             file.write(f"\n`Back to index <../{parent_rst_html}>`_\n")
 
         # Add entry to the parent RST file under the correct section
         # parent_rst.write(f"- `{cite_key} <{rst_entry_filename}>`_\n")
-        parent_rst.write(f"- :cite:t:`{cite_key}` : `{cite_key} <bib_entries/{cite_key}.html>`_\n")
-
+        parent_rst.write(
+            f"- :cite:t:`{cite_key}` : `{cite_key} <bib_entries/{cite_key}.html>`_\n"
+        )
 
 # # Create or open the index file
 # with open(parent_rst_name, "w") as index_file:

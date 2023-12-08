@@ -24,4 +24,7 @@ mazziotto.stettner.ea:88:on
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1137/0326052},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ assing.manthey:95:behavior
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01246336},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

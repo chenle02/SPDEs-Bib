@@ -24,4 +24,7 @@ aizenman.warzel:06:canopy
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/s11040-007-9018-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

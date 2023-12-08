@@ -24,4 +24,7 @@ mytnik.adler:95:bisexual
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.2307/1427932},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

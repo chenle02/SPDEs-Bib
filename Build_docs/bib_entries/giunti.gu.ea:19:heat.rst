@@ -23,4 +23,7 @@ giunti.gu.ea:19:heat
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1214/18-AOP1279},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

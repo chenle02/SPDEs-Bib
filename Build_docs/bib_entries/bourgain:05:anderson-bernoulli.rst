@@ -24,4 +24,7 @@ bourgain:05:anderson-bernoulli
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.17323/1609-4514-2005-5-3-523-536},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

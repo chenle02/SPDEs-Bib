@@ -24,4 +24,7 @@ budd.galaktionov:98:stability
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1098/rspa.1998.0263},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

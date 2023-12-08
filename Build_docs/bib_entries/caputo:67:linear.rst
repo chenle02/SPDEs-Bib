@@ -22,4 +22,7 @@ caputo:67:linear
      year          = {1967}
    }
 
+`Link to Source <https://doi.org/10.1111/j.1365-246X.1967.tb02303.x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

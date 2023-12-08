@@ -24,4 +24,7 @@ luttinger:83:asymptotic
      year          = {1983}
    }
 
+`Link to Source <https://doi.org/10.1063/1.525949},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

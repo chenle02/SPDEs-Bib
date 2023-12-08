@@ -24,4 +24,7 @@ bernardi.bousquet-melou:11:counting
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jctb.2011.02.003},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ marinelli.quer-sardanyons:12:existence
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1137/110826667},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ hairer.mattingly:04:ergodic
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1016/j.crma.2004.09.035},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

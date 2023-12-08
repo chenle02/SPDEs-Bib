@@ -22,4 +22,7 @@ gartner.molchanov:90:parabolic
      year          = {1990}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104201232},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

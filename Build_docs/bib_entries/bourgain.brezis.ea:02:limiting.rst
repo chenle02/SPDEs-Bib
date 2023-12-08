@@ -24,4 +24,7 @@ bourgain.brezis.ea:02:limiting
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02868470},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

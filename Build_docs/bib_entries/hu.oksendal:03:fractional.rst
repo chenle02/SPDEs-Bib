@@ -24,4 +24,7 @@ hu.oksendal:03:fractional
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1142/S0219025703001110},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -19,4 +19,7 @@ burgers:74:nonlinear
      year          = {1974}
    }
 
+`Link to Source <https://doi.org/10.1007/978-94-010-1745-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

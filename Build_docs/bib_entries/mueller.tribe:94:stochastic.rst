@@ -22,4 +22,7 @@ mueller.tribe:94:stochastic
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1090/crmp/005/14},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,7 @@ zabczyk:08:mathematical
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1007/978-0-8176-4733-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

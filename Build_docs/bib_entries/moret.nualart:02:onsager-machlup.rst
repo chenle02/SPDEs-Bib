@@ -24,4 +24,7 @@ moret.nualart:02:onsager-machlup
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1007/s004400200211},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

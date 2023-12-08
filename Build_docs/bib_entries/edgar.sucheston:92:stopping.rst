@@ -23,4 +23,7 @@ edgar.sucheston:92:stopping
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1017/CBO9780511574740},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

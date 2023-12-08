@@ -24,4 +24,7 @@ hairer:09:how
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-009-0857-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

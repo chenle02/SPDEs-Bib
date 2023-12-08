@@ -24,4 +24,7 @@ hu.nualart:98:continuity
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1016/S0167-7152(97)00118-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

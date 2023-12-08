@@ -24,4 +24,7 @@ hu:12:stochastic
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/s11425-012-4523-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

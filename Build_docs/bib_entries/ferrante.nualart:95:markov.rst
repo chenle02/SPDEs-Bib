@@ -24,4 +24,7 @@ ferrante.nualart:95:markov
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1080/17442509508834018},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ nualart:87:some
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1016/0167-7152(87)90046-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

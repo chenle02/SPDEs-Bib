@@ -23,4 +23,7 @@ gyongy.krylov:81:on
      year          = {1981/82}
    }
 
+`Link to Source <https://doi.org/10.1080/17442508208833202},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

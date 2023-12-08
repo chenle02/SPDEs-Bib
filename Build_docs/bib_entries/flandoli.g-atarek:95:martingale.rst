@@ -24,4 +24,7 @@ flandoli.g-atarek:95:martingale
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01192467},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

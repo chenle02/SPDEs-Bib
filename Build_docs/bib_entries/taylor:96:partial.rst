@@ -24,4 +24,7 @@ taylor:96:partial
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4757-4187-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ zakany.smirnov.ea:22:lizard
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1103/physrevlett.128.048102},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

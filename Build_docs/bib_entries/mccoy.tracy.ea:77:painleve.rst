@@ -23,4 +23,7 @@ mccoy.tracy.ea:77:painleve
      year          = {1977}
    }
 
+`Link to Source <https://doi.org/10.1063/1.523367},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ bourgain.konyagin.ea:15:character
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1090/mcom/2946},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

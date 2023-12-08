@@ -23,4 +23,7 @@ brownlees.nualart.ea:18:realized
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1002/jae.2642},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ burdzy.nualart.ea:14:joint
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-013-0511-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

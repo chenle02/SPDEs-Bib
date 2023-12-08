@@ -23,4 +23,7 @@ baxter.jain.ea:93:large
      year          = {1993}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.ijm/1255987149},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

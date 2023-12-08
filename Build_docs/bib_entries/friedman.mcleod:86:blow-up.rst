@@ -24,4 +24,7 @@ friedman.mcleod:86:blow-up
      year          = {1986}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00251413},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

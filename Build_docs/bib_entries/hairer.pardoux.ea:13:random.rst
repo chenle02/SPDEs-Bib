@@ -23,4 +23,7 @@ hairer.pardoux.ea:13:random
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s40072-013-0018-y},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ li.wang.ea:12:joint
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-011-0351-x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

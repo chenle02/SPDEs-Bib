@@ -24,4 +24,7 @@ mueller:96:singular
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1042644721},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

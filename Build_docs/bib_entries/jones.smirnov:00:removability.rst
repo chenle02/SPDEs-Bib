@@ -24,4 +24,7 @@ jones.smirnov:00:removability
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02384320},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

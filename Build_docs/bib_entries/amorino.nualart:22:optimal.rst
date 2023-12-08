@@ -22,4 +22,7 @@ amorino.nualart:22:optimal
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1051/ps/2022001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

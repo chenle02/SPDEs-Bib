@@ -24,4 +24,7 @@ bennett.carbery.ea:10:finite
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.4310/MRL.2010.v17.n4.a6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ nane:06:iterated*1
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/s11118-005-2611-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

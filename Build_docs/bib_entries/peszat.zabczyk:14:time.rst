@@ -24,4 +24,7 @@ peszat.zabczyk:14:time
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jmaa.2013.07.055},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

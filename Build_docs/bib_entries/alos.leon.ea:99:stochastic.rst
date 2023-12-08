@@ -24,4 +24,7 @@ alos.leon.ea:99:stochastic
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1007/s004400050236},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

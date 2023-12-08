@@ -22,4 +22,7 @@ buckdahn.pardoux:90:monotonicity
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4684-0564-4\_13},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

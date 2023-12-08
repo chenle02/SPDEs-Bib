@@ -24,4 +24,7 @@ kohatsu-higa.leon.ea:97:stochastic
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.2307/3318589},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

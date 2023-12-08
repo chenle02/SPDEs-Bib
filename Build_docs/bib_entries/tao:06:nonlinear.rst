@@ -24,4 +24,7 @@ tao:06:nonlinear
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1090/cbms/106},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

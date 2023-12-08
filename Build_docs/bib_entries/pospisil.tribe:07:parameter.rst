@@ -24,4 +24,7 @@ pospisil.tribe:07:parameter
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1080/07362990701282849},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

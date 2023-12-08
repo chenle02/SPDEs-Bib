@@ -23,4 +23,7 @@ kallenberg:02:foundations
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4757-4015-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

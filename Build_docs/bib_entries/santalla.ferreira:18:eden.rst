@@ -22,4 +22,7 @@ santalla.ferreira:18:eden
      year          = {2018}
    }
 
+`Link to Source <https://link.aps.org/doi/10.1103/PhysRevE.98.022405},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ dalang.zhang:13:holder
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s40304-013-0009-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

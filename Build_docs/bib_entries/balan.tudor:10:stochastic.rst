@@ -24,4 +24,7 @@ balan.tudor:10:stochastic
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-009-0237-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

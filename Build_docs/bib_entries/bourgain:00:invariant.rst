@@ -24,4 +24,7 @@ bourgain:00:invariant
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200050792},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

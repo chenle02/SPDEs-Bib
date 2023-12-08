@@ -24,4 +24,7 @@ hairer.maas:12:spatial
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1214/11-AOP662},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

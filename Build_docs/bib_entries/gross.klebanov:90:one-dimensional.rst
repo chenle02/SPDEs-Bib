@@ -23,4 +23,7 @@ gross.klebanov:90:one-dimensional
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1016/0550-3213(90)90667-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

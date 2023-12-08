@@ -24,4 +24,7 @@ brehier.hairer.ea:18:weak
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.4208/jcm.1607-m2016-0539},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

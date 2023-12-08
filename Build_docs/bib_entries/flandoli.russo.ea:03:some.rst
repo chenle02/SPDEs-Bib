@@ -23,4 +23,7 @@ flandoli.russo.ea:03:some
      year          = {2003}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.ojm/1153493096},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

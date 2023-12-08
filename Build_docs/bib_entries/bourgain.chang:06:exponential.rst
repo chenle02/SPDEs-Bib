@@ -24,4 +24,7 @@ bourgain.chang:06:exponential
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/s00039-006-0558-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

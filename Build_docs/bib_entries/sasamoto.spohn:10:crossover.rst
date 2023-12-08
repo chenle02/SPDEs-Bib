@@ -24,4 +24,7 @@ sasamoto.spohn:10:crossover
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-010-9990-z},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

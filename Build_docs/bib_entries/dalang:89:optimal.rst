@@ -24,4 +24,7 @@ dalang:89:optimal
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.2307/2001425},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

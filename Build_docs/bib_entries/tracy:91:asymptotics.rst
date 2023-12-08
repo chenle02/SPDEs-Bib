@@ -23,4 +23,7 @@ tracy:91:asymptotics
      year          = {1991}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104248587},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

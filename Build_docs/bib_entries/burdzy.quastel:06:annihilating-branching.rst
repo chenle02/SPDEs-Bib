@@ -24,4 +24,7 @@ burdzy.quastel:06:annihilating-branching
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1214/009117906000000511},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

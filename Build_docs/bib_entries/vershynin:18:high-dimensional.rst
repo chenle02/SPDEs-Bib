@@ -24,4 +24,7 @@ vershynin:18:high-dimensional
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1017/9781108231596},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

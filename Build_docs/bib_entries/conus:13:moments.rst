@@ -23,4 +23,7 @@ conus:13:moments
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.31390/cosa.7.1.08},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

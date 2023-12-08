@@ -24,4 +24,7 @@ feng.shao.ea:21:self-normalized
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-019-00965-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

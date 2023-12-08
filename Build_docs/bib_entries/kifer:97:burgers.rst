@@ -24,4 +24,7 @@ kifer:97:burgers
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1007/s004400050100},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ gruter.widman:82:green
      year          = {1982}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01166225},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

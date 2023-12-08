@@ -22,4 +22,7 @@ dalang.pu:20:optimal
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.1214/20-ejp438},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

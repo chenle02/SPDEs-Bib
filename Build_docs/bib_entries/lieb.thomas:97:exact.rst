@@ -24,4 +24,7 @@ lieb.thomas:97:exact
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200050040},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

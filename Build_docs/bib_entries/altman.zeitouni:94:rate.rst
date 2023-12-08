@@ -24,4 +24,7 @@ altman.zeitouni:94:rate
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1287/moor.19.4.955},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

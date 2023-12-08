@@ -24,4 +24,7 @@ tkocz.smaczynski.ea:12:tensor
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1142/S2010326312500098},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ lee.xiao:22:propagation
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2021.09.013},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

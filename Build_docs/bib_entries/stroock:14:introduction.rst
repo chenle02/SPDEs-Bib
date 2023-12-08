@@ -23,4 +23,7 @@ stroock:14:introduction
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-642-40523-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

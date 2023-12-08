@@ -23,4 +23,7 @@ blumenthal.getoor:60:some
      year          = {1960}
    }
 
+`Link to Source <https://doi.org/10.2307/1993291},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ mueller:98:heat
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1016/S0304-4149(97)00120-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

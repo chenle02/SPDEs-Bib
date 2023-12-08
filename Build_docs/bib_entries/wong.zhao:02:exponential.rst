@@ -23,4 +23,7 @@ wong.zhao:02:exponential
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1007/s00365-001-0019-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ peszat.zabczyk:07:stochastic
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1017/CBO9780511721373},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

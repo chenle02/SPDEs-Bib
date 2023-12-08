@@ -24,4 +24,7 @@ beliaev.smirnov:10:random
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.4007/annals.2010.172.597},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

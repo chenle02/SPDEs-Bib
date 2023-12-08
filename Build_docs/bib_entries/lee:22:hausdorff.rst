@@ -24,4 +24,7 @@ lee:22:hausdorff
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.3150/21-bej1342},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

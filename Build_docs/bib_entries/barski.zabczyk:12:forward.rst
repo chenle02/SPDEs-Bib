@@ -24,4 +24,7 @@ barski.zabczyk:12:forward
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/s00780-011-0163-y},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

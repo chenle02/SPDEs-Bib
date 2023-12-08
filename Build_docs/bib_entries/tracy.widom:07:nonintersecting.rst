@@ -24,4 +24,7 @@ tracy.widom:07:nonintersecting
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1214/105051607000000041},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

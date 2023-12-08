@@ -24,4 +24,7 @@ duplantier:00:conformally
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1103/PhysRevLett.84.1363},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

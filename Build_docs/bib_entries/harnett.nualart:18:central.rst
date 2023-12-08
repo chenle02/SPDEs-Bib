@@ -24,4 +24,7 @@ harnett.nualart:18:central
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2017.04.014},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

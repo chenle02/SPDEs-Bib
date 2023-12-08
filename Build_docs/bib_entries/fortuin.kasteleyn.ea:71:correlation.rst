@@ -22,4 +22,7 @@ fortuin.kasteleyn.ea:71:correlation
      year          = {1971}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1103857443},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

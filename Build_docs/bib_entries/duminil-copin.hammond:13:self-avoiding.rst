@@ -24,4 +24,7 @@ duminil-copin.hammond:13:self-avoiding
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-013-1811-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ kalbasi.mountford:15:feynman-kac
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2015.06.003},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

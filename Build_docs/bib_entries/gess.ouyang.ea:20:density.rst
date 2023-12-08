@@ -24,4 +24,7 @@ gess.ouyang.ea:20:density
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-019-00967-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

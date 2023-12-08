@@ -24,4 +24,7 @@ bacry.muzy:03:log-infinitely
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-003-0827-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

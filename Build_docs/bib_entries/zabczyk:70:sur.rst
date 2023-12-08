@@ -23,4 +23,7 @@ zabczyk:70:sur
      year          = {1970}
    }
 
+`Link to Source <https://doi.org/10.4064/sm-35-3-227-247},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

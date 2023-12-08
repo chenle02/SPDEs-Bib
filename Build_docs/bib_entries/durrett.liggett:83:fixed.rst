@@ -24,4 +24,7 @@ durrett.liggett:83:fixed
      year          = {1983}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00532962},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

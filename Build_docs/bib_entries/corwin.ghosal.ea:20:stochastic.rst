@@ -23,4 +23,7 @@ corwin.ghosal.ea:20:stochastic
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-019-03678-z},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

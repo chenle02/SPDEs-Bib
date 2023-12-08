@@ -21,4 +21,7 @@ zel-dovich.barenblatt.ea:85:mathematical
      year          = {1985}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4613-2349-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

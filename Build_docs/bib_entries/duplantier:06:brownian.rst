@@ -23,4 +23,7 @@ duplantier:06:brownian
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/3-7643-7436-5\_8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

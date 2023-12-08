@@ -24,4 +24,7 @@ hu.nualart.ea:11:feynman-kac
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1214/10-AOP547},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ quer-sardanyons.tindel:07:1-d
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2007.01.009},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

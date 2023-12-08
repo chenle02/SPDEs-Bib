@@ -24,4 +24,7 @@ corwin.petrov:16:stochastic
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-015-2479-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ sanz-sole.su:16:non-elliptic
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-319-23425-0\_5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

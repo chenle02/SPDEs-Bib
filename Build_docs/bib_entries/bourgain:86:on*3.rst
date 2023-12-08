@@ -23,4 +23,7 @@ bourgain:86:on*3
      year          = {1986}
    }
 
+`Link to Source <https://doi.org/10.2307/2374532},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

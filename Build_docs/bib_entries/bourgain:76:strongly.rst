@@ -23,4 +23,7 @@ bourgain:76:strongly
      year          = {1976}
    }
 
+`Link to Source <https://doi.org/10.2307/2041384},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

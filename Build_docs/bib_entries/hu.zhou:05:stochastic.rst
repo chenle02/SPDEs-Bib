@@ -24,4 +24,7 @@ hu.zhou:05:stochastic
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1137/S0363012903426045},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

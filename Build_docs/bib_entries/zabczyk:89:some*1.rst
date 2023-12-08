@@ -24,4 +24,7 @@ zabczyk:89:some*1
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01448189},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

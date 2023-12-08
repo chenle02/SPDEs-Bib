@@ -24,4 +24,7 @@ imamura.sasamoto:04:fluctuations
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1016/j.nuclphysb.2004.07.030},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

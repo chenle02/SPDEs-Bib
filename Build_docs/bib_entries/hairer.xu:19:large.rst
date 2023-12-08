@@ -24,4 +24,7 @@ hairer.xu:19:large
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1214/18-aop1317},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ watanabe:68:limit
      year          = {1968}
    }
 
+`Link to Source <https://doi.org/10.1215/kjm/1250524180},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

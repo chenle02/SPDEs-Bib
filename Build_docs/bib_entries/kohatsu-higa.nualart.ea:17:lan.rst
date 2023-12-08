@@ -24,4 +24,7 @@ kohatsu-higa.nualart.ea:17:lan
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1080/02331888.2016.1239727},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

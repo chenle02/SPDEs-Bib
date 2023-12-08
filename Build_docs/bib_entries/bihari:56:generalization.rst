@@ -23,4 +23,7 @@ bihari:56:generalization
      year          = {1956}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02022967},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

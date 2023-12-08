@@ -24,4 +24,7 @@ brosamler:83:laws
      year          = {1983}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00534997},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

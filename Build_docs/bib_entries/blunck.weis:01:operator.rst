@@ -24,4 +24,7 @@ blunck.weis:01:operator
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.4064/sm146-1-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

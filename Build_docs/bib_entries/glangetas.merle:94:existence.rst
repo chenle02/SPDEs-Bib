@@ -23,4 +23,7 @@ glangetas.merle:94:existence
      year          = {1994}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104269518},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

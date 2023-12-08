@@ -23,4 +23,7 @@ zeitouni:22:random
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.2307/1970008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

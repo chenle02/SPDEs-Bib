@@ -23,4 +23,7 @@ sanz-sole.torrecilla-tarantino:07:probability
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1051/ps:2007024},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ da-prato.zabczyk:92:nonexplosion
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1016/0022-0396(92)90111-Y},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

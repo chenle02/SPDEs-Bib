@@ -24,4 +24,7 @@ mueller.mytnik.ea:14:nonuniqueness
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1214/13-AOP870},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

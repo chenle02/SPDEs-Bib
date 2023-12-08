@@ -23,4 +23,7 @@ nualart.vuillermot:06:stabilization
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1201/9781420028720.ch18},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

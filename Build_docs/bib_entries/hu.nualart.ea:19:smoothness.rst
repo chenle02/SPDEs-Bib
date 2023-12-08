@@ -24,4 +24,7 @@ hu.nualart.ea:19:smoothness
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.3934/dcdsb.2018307},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

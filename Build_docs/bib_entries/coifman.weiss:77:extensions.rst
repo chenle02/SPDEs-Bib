@@ -24,4 +24,7 @@ coifman.weiss:77:extensions
      year          = {1977}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9904-1977-14325-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

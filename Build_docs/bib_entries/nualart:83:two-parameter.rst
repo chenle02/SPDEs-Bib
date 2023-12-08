@@ -24,4 +24,7 @@ nualart:83:two-parameter
      year          = {1983}
    }
 
+`Link to Source <https://doi.org/10.1016/0304-4149(83)90020-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

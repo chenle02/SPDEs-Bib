@@ -22,4 +22,7 @@ romito:18:simple
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1214/18-EJP242},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

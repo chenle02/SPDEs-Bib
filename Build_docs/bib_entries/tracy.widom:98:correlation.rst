@@ -24,4 +24,7 @@ tracy.widom:98:correlation
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1023/A:1023084324803},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

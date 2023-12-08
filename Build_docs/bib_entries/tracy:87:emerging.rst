@@ -24,4 +24,7 @@ tracy:87:emerging
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1016/0167-2789(87)90094-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

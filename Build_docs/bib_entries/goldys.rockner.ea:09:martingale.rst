@@ -23,4 +23,7 @@ goldys.rockner.ea:09:martingale
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2008.08.009},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

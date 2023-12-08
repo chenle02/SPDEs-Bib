@@ -24,4 +24,7 @@ zhang.zhang:21:quadratic
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jmaa.2021.125230},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

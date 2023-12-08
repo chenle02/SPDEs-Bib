@@ -24,4 +24,7 @@ goldberg.mueller:82:brownian
      year          = {1982}
    }
 
+`Link to Source <https://doi.org/10.1090/S0273-0979-1982-15028-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ balan.zamfirescu:06:strong
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1214/ECP.v11-1175},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ balan.chen:18:parabolic
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-017-0772-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

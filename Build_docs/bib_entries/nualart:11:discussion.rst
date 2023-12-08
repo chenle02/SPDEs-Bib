@@ -24,4 +24,7 @@ nualart:11:discussion
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s13171-011-0007-z},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

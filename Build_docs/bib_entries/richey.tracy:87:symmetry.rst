@@ -23,4 +23,7 @@ richey.tracy:87:symmetry
      year          = {1987}
    }
 
+`Link to Source <http://stacks.iop.org/0305-4470/20/2667},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

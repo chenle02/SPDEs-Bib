@@ -23,4 +23,7 @@ cerrai.clement:05:corrigendum
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1016/j.bulsci.2004.11.006},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

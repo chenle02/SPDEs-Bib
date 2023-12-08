@@ -24,4 +24,7 @@ khoshnevisan.shi:98:chungs
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9947-98-02011-X},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

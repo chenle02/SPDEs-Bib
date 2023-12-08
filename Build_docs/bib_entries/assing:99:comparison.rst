@@ -24,4 +24,7 @@ assing:99:comparison
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1016/S0304-4149(99)00031-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

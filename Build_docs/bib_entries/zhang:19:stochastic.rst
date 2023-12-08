@@ -23,4 +23,7 @@ zhang:19:stochastic
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jde.2019.05.008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

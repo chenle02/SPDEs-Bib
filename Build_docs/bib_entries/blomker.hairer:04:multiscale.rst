@@ -24,4 +24,7 @@ blomker.hairer:04:multiscale
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-004-1130-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

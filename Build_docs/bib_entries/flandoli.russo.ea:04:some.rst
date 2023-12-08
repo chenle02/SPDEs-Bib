@@ -24,4 +24,7 @@ flandoli.russo.ea:04:some
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1163/156939704323074700},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

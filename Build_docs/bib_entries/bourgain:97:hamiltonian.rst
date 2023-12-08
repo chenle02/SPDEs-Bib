@@ -24,4 +24,7 @@ bourgain:97:hamiltonian
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1142/9789812385215\_0059},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

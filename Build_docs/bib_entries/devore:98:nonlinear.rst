@@ -23,4 +23,7 @@ devore:98:nonlinear
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1017/S0962492900002816},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

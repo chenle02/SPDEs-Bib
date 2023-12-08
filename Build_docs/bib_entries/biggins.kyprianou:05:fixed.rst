@@ -22,4 +22,7 @@ biggins.kyprianou:05:fixed
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v10-255},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

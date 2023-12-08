@@ -23,4 +23,7 @@ bourgain.glibichuk:11:exponential
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s11854-011-0023-x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

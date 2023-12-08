@@ -23,4 +23,7 @@ balazs.cator.ea:06:cube
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v11-366},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

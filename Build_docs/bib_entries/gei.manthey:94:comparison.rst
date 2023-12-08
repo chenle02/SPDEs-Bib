@@ -24,4 +24,7 @@ gei.manthey:94:comparison
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1016/0304-4149(94)90055-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -21,4 +21,7 @@ seppalainen:08:directed
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1093/acprof:oso/9780199239252.003.0001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

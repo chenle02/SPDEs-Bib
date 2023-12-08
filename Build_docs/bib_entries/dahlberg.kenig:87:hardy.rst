@@ -24,4 +24,7 @@ dahlberg.kenig:87:hardy
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.2307/1971407},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

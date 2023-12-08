@@ -24,4 +24,7 @@ sasamoto.spohn:09:superdiffusivity
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-009-9831-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

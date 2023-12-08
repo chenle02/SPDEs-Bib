@@ -24,4 +24,7 @@ da-prato.kwapien.ea:87:regularity
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1080/17442508708833480},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

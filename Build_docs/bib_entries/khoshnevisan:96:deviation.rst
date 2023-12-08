@@ -24,4 +24,7 @@ khoshnevisan:96:deviation
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1016/S0304-4149(96)00100-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

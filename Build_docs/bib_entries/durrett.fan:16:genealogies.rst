@@ -24,4 +24,7 @@ durrett.fan:16:genealogies
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1214/16-AAP1181},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

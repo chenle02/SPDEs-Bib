@@ -24,4 +24,7 @@ hollander:09:random
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-642-00333-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

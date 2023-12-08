@@ -24,4 +24,7 @@ bourgain.demeter.ea:20:decouplings
      year          = {[2020] \copyright 2020}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-030-36020-7\_7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

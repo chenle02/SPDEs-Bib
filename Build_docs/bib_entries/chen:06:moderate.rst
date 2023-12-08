@@ -24,4 +24,7 @@ chen:06:moderate
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-006-0032-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

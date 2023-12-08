@@ -22,4 +22,7 @@ pruss:93:evolutionary
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-0348-8570-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

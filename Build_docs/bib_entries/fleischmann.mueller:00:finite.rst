@@ -23,4 +23,7 @@ fleischmann.mueller:00:finite
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1019160254},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

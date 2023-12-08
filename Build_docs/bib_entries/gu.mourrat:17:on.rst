@@ -21,4 +21,7 @@ gu.mourrat:17:on
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1214/17-EJP51},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

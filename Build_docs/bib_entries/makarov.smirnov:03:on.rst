@@ -24,4 +24,7 @@ makarov.smirnov:03:on
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1112/S0024610702003964},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ oldham.myland.ea:09:atlas
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1007/978-0-387-48807-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

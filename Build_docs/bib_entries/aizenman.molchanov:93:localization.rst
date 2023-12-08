@@ -23,4 +23,7 @@ aizenman.molchanov:93:localization
      year          = {1993}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104253939},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

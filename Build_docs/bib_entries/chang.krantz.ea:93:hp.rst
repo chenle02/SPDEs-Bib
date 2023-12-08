@@ -23,4 +23,7 @@ chang.krantz.ea:93:hp
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1006/jfan.1993.1069},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

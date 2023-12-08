@@ -24,4 +24,7 @@ shiga.shimizu:80:infinite-dimensional
      year          = {1980}
    }
 
+`Link to Source <https://doi.org/10.1215/kjm/1250522207},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

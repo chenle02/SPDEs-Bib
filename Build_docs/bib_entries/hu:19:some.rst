@@ -23,4 +23,7 @@ hu:19:some
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s10473-019-0315-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

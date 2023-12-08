@@ -23,4 +23,7 @@ hu.le:19:joint
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s10473-019-0309-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

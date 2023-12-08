@@ -24,4 +24,7 @@ hu:01:heat
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1007/s00245-001-0001-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

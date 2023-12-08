@@ -23,4 +23,7 @@ hu.lindstr-m.ea:95:inverse
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1090/pspum/057/1335488},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

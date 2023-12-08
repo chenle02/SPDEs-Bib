@@ -24,4 +24,7 @@ chen.guillin:04:functional
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1016/S0246-0203(03)00061-X},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

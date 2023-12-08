@@ -23,4 +23,7 @@ hammersley:62:generalization
      year          = {1962}
    }
 
+`Link to Source <https://doi.org/10.1017/s030500410003646x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

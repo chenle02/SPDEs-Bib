@@ -23,4 +23,7 @@ burkholder.gundy:70:extrapolation
      year          = {1970}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02394573},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

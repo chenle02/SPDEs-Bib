@@ -23,4 +23,7 @@ allouba:13:time-fractional
      year          = {2013}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.ijm/1417442557},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

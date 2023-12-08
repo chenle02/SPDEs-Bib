@@ -24,4 +24,7 @@ yang.zhang:14:existence
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-012-0448-x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

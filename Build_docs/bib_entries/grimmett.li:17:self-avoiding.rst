@@ -23,4 +23,7 @@ grimmett.li:17:self-avoiding
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.37236/6577},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

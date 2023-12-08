@@ -23,4 +23,7 @@ chelkak.duminil-copin.ea:14:convergence
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1016/j.crma.2013.12.002},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ beckner:75:inequalities
      year          = {1975}
    }
 
+`Link to Source <https://doi.org/10.2307/1970980},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

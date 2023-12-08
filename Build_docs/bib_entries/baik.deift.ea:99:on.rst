@@ -24,4 +24,7 @@ baik.deift.ea:99:on
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1090/S0894-0347-99-00307-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

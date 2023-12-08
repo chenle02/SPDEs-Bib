@@ -24,4 +24,7 @@ berryman.holland:80:stability
      year          = {1980}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00249681},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

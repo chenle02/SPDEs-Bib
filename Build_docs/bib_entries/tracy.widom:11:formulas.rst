@@ -24,4 +24,7 @@ tracy.widom:11:formulas
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s11040-011-9095-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ ferrante.sanz-sole:06:spdes
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1051/ps:2006016},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

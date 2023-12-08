@@ -24,4 +24,7 @@ shiga:94:two
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.4153/CJM-1994-022-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ caravenna.giacomin.ea:12:copolymers
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-642-23811-6\_12},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

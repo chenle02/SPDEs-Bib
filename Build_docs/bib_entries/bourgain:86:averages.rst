@@ -23,4 +23,7 @@ bourgain:86:averages
      year          = {1986}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02792533},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

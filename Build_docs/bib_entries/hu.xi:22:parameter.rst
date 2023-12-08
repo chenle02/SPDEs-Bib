@@ -23,4 +23,7 @@ hu.xi:22:parameter
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1016/j.cam.2022.114264},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ madaule:15:maximum
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1214/14-AIHP633},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

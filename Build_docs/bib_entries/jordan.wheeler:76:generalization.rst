@@ -24,4 +24,7 @@ jordan.wheeler:76:generalization
      year          = {1976}
    }
 
+`Link to Source <https://doi.org/10.2307/2040875},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

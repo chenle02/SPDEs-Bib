@@ -23,4 +23,7 @@ tsai:22:exact
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1215/00127094-2022-0008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

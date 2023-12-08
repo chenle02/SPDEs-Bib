@@ -24,4 +24,7 @@ blomker.hairer.ea:07:multiscale
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1088/0951-7715/20/7/009},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

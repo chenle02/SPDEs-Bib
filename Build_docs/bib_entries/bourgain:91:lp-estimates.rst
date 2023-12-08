@@ -24,4 +24,7 @@ bourgain:91:lp-estimates
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01895639},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

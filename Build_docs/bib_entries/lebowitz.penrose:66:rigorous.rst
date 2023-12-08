@@ -23,4 +23,7 @@ lebowitz.penrose:66:rigorous
      year          = {1966}
    }
 
+`Link to Source <https://doi.org/10.1063/1.1704821},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

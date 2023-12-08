@@ -23,4 +23,7 @@ angenent.tannenbaum.ea:06:curve
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/0-8176-4481-4\_12},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

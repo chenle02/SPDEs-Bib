@@ -24,4 +24,7 @@ dupuis.zeitouni:96:nonstandard
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1016/0304-4149(95)00084-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

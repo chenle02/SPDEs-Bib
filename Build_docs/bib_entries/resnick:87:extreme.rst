@@ -23,4 +23,7 @@ resnick:87:extreme
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1007/978-0-387-75953-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

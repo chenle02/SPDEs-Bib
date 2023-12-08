@@ -24,4 +24,7 @@ meerschaert.nane.ea:13:transient
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9939-2012-11362-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,7 @@ dettweiler:84:stochastic
      year          = {1984}
    }
 
+`Link to Source <https://doi.org/10.1007/BFb0099783},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

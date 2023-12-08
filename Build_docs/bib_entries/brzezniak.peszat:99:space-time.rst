@@ -24,4 +24,7 @@ brzezniak.peszat:99:space-time
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.4064/sm-137-3-261-299},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

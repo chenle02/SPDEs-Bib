@@ -24,4 +24,7 @@ hu.huang.ea:15:smoothness
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.2969/jmsj/06741605},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

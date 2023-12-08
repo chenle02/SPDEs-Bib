@@ -24,4 +24,7 @@ alos.nualart.ea:00:stochastic
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1016/S0246-0203(00)00122-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

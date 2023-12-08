@@ -24,4 +24,7 @@ marinelli.nualart.ea:13:existence
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s11118-012-9330-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

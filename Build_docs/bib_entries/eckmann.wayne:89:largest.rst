@@ -23,4 +23,7 @@ eckmann.wayne:89:largest
      year          = {1989}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104178008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

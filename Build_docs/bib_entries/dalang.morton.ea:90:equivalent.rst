@@ -24,4 +24,7 @@ dalang.morton.ea:90:equivalent
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1080/17442509008833613},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

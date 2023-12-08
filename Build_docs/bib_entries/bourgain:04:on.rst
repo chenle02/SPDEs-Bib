@@ -24,4 +24,7 @@ bourgain:04:on
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.3934/dcds.2004.10.75},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

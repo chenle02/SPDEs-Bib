@@ -23,4 +23,7 @@ hairer.mattingly:11:yet
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-0348-0021-1\_7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

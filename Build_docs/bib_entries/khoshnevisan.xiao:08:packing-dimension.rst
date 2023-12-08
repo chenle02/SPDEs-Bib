@@ -24,4 +24,7 @@ khoshnevisan.xiao:08:packing-dimension
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1017/S0305004108001394},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

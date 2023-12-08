@@ -23,4 +23,7 @@ guttorp.gneiting:06:studies
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1093/biomet/93.4.989},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

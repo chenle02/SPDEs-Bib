@@ -23,4 +23,7 @@ landman.papanicolaou.ea:88:rate
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1103/PhysRevA.38.3837},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

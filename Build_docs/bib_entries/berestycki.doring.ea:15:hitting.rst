@@ -24,4 +24,7 @@ berestycki.doring.ea:15:hitting
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2014.10.012},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

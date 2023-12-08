@@ -23,4 +23,7 @@ li.shao:00:note
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1142/s0129626499000189},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

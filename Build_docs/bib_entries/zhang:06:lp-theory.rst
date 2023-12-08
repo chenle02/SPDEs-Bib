@@ -24,4 +24,7 @@ zhang:06:lp-theory
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2006.01.014},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

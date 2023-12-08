@@ -24,4 +24,7 @@ tracy.widom:08:integral
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-008-0443-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

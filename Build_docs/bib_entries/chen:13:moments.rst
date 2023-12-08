@@ -19,4 +19,7 @@ chen:13:moments
      year          = {2013}
    }
 
+`Link to Source <http://infoscience.epfl.ch/record/185885},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

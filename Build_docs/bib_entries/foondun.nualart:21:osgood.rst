@@ -24,4 +24,7 @@ foondun.nualart:21:osgood
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.3150/20-BEJ1240},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

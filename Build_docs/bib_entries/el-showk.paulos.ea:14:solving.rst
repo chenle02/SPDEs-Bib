@@ -23,4 +23,7 @@ el-showk.paulos.ea:14:solving
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-014-1042-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

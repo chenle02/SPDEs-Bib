@@ -22,4 +22,7 @@ ustunel.zakai:00:transformation
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-662-13225-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

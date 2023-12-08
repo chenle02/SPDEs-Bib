@@ -24,4 +24,7 @@ seppalainen:99:existence
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1022677266},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

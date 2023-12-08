@@ -23,4 +23,7 @@ vaidya.tracy:78:crossover
      year          = {1978}
    }
 
+`Link to Source <https://doi.org/10.1016/0375-9601(78)90537-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

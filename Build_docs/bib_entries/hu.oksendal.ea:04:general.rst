@@ -24,4 +24,7 @@ hu.oksendal.ea:04:general
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1081/PDE-120028841},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

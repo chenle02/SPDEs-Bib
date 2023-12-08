@@ -24,4 +24,7 @@ dalang.khoshnevisan.ea:13:hitting
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s40072-013-0005-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

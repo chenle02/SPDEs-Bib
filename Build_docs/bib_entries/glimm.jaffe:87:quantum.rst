@@ -23,4 +23,7 @@ glimm.jaffe:87:quantum
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4612-4728-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

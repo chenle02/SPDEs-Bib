@@ -24,4 +24,7 @@ assing:13:rigorous
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s40072-013-0013-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

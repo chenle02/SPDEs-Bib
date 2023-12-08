@@ -23,4 +23,7 @@ balan.kulik:09:weak
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1556/SScMath.2009.1093},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

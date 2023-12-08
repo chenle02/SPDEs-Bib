@@ -21,4 +21,7 @@ dieng.tracy:11:application
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4419-9514-8\_7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ bourgain.demeter.ea:16:proof
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.4007/annals.2016.184.2.7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

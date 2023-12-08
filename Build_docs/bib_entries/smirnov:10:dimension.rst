@@ -24,4 +24,7 @@ smirnov:10:dimension
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1007/s11511-010-0053-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

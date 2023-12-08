@@ -22,4 +22,7 @@ chen.hu.ea:18:temporal
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1214/18-EJP139},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

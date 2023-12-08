@@ -24,4 +24,7 @@ dalang.mountford:03:non-independence
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9947-02-03138-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

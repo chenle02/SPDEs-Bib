@@ -24,4 +24,7 @@ kim:04:on
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2004.02.006},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

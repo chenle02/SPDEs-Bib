@@ -24,4 +24,7 @@ song.vondracek:03:potential
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-002-0251-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

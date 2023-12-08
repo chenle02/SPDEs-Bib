@@ -24,4 +24,7 @@ albeverio.hu.ea:99:stochastic
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1007/s002459900129},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

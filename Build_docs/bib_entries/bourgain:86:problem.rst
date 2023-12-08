@@ -23,4 +23,7 @@ bourgain:86:problem
      year          = {1986}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.pjm/1102702795},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ darses.nourdin:08:asymptotic
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.3150/08-BEJ124},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

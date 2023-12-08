@@ -24,4 +24,7 @@ bourgain.rosenthal.ea:81:ordinal
      year          = {1981}
    }
 
+`Link to Source <https://doi.org/10.2307/1971293},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

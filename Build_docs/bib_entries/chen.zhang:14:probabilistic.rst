@@ -24,4 +24,7 @@ chen.zhang:14:probabilistic
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9939-2014-11907-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

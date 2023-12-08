@@ -24,4 +24,7 @@ triebel:02:function
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.5209/rev\_REMA.2002.v15.n2.16910},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

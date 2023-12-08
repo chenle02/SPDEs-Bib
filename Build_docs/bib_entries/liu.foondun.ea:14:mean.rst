@@ -23,4 +23,7 @@ liu.foondun.ea:14:mean
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2014.06.002},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

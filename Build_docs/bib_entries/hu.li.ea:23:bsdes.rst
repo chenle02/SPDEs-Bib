@@ -22,4 +22,7 @@ hu.li.ea:23:bsdes
      year          = {2023}
    }
 
+`Link to Source <https://doi.org/10.1016/j.amc.2023.127979},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

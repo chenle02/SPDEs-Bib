@@ -24,4 +24,7 @@ hu.nualart:10:parameter
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2010.02.018},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

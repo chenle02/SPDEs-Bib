@@ -24,4 +24,7 @@ duplantier:03:conformal
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1007/s00023-003-0931-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

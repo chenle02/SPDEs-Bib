@@ -24,4 +24,7 @@ di-francesco.ginsparg.ea:95:2d
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1016/0370-1573(94)00084-G},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

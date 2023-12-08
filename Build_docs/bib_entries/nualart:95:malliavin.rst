@@ -22,4 +22,7 @@ nualart:95:malliavin
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4757-2437-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

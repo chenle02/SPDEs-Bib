@@ -24,4 +24,7 @@ bourgain.varju:12:expansion
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/s00222-011-0345-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ balan:07:markov
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2006.08.001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

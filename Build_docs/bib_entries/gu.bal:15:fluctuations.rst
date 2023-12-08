@@ -24,4 +24,7 @@ gu.bal:15:fluctuations
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1007/s40072-014-0040-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

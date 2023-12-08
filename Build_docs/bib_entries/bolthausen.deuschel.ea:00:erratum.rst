@@ -24,4 +24,7 @@ bolthausen.deuschel.ea:00:erratum
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200050030},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

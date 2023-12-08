@@ -24,4 +24,7 @@ eisenbaum.foondun.ea:11:dynkins
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s11118-010-9193-x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

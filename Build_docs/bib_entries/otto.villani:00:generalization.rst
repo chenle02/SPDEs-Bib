@@ -24,4 +24,7 @@ otto.villani:00:generalization
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1006/jfan.1999.3557},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ gu.mourrat:16:scaling
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1137/15M1010683},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

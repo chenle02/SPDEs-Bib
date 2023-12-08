@@ -21,4 +21,7 @@ mainardi:10:fractional
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1142/9781848163300},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

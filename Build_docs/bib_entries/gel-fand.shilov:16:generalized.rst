@@ -21,4 +21,7 @@ gel-fand.shilov:16:generalized
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1090/chel/377},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

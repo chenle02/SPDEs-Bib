@@ -24,4 +24,7 @@ chen.qian.ea:98:stability
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1006/jfan.1997.3147},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

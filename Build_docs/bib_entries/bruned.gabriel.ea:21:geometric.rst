@@ -23,4 +23,7 @@ bruned.gabriel.ea:21:geometric
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1090/jams/977},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

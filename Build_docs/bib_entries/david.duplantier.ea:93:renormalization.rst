@@ -23,4 +23,7 @@ david.duplantier.ea:93:renormalization
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1103/PhysRevLett.70.2205},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

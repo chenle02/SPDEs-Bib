@@ -24,4 +24,7 @@ dawson:78:geostochastic
      year          = {1978}
    }
 
+`Link to Source <https://doi.org/10.2307/3315044},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

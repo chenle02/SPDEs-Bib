@@ -23,4 +23,7 @@ budd.dold.ea:93:blowup
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1137/0153036},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

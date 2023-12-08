@@ -24,4 +24,7 @@ dembo.zeitouni:90:maximum
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1016/0047-259X(90)90022-A},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

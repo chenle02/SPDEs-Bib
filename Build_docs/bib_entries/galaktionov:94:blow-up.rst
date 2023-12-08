@@ -23,4 +23,7 @@ galaktionov:94:blow-up
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1017/S0308210500028766},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

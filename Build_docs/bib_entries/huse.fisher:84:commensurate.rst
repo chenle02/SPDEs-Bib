@@ -24,4 +24,7 @@ huse.fisher:84:commensurate
      year          = {1984}
    }
 
+`Link to Source <https://doi.org/10.1103/physrevb.29.239},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

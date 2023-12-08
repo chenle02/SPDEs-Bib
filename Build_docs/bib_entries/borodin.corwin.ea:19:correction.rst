@@ -23,4 +23,7 @@ borodin.corwin.ea:19:correction
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-019-03528-y},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ liu.chen:92:wave
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1088/0256-307X/9/12/014},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

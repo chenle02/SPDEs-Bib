@@ -23,4 +23,7 @@ hu.nualart:07:differential
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-540-70847-6\_17},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

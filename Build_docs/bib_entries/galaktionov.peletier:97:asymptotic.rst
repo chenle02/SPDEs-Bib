@@ -23,4 +23,7 @@ galaktionov.peletier:97:asymptotic
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1007/s002050050048},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

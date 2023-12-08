@@ -24,4 +24,7 @@ eckmann.hairer:01:invariant
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1088/0951-7715/14/1/308},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

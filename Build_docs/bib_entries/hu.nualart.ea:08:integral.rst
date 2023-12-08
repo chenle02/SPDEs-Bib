@@ -24,4 +24,7 @@ hu.nualart.ea:08:integral
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2008.06.016},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

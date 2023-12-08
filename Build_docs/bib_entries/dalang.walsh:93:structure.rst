@@ -24,4 +24,7 @@ dalang.walsh:93:structure
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01200206},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

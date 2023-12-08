@@ -23,4 +23,7 @@ goldberg:79:local
      year          = {1979}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.dmj/1077313253},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

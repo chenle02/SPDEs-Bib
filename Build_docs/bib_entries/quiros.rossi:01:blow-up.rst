@@ -24,4 +24,7 @@ quiros.rossi:01:blow-up
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1512/iumj.2001.50.1828},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

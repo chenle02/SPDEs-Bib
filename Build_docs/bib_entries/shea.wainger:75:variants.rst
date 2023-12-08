@@ -23,4 +23,7 @@ shea.wainger:75:variants
      year          = {1975}
    }
 
+`Link to Source <https://doi.org/10.2307/2373715},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

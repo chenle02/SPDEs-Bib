@@ -23,4 +23,7 @@ chen.kim:19:nonlinear
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s10473-019-0303-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

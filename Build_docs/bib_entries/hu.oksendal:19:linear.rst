@@ -24,4 +24,7 @@ hu.oksendal:19:linear
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2018.03.016},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

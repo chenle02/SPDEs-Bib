@@ -23,4 +23,7 @@ barski.jakubowski.ea:11:on
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1111/j.1467-9965.2010.00438.x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

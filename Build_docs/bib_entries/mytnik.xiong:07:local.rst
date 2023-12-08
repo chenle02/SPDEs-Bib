@@ -23,4 +23,7 @@ mytnik.xiong:07:local
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v12-457},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

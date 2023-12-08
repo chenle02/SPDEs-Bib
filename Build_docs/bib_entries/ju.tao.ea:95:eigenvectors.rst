@@ -24,4 +24,7 @@ ju.tao.ea:95:eigenvectors
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1142/S0217732395000715},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

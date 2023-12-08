@@ -25,4 +25,7 @@ mitrea.mitrea.ea:11:optimal
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s10958-010-0187-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

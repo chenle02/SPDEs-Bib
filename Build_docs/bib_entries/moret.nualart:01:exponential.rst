@@ -24,4 +24,7 @@ moret.nualart:01:exponential
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1016/S0167-7152(00)00245-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

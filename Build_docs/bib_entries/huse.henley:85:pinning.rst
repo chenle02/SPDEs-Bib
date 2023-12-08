@@ -23,4 +23,7 @@ huse.henley:85:pinning
      year          = {1985}
    }
 
+`Link to Source <https://link.aps.org/doi/10.1103/PhysRevLett.54.2708},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

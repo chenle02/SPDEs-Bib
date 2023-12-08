@@ -24,4 +24,7 @@ alcaraz.droz.ea:94:reaction-diffusion
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1006/aphy.1994.1026},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

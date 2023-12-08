@@ -24,4 +24,7 @@ zhang:07:regularities
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2007.03.018},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

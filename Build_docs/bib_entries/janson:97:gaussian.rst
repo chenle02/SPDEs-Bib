@@ -23,4 +23,7 @@ janson:97:gaussian
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1017/CBO9780511526169},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

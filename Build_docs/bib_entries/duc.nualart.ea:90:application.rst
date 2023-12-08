@@ -24,4 +24,7 @@ duc.nualart.ea:90:application
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01198319},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

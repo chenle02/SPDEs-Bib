@@ -24,4 +24,7 @@ tracy:85:embedded
      year          = {1985}
    }
 
+`Link to Source <https://doi.org/10.1016/0167-2789(85)90058-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

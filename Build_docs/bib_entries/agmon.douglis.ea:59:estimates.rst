@@ -23,4 +23,7 @@ agmon.douglis.ea:59:estimates
      year          = {1959}
    }
 
+`Link to Source <https://doi.org/10.1002/cpa.3160120405},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

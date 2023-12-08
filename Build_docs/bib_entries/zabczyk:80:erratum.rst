@@ -23,4 +23,7 @@ zabczyk:80:erratum
      year          = {1980}
    }
 
+`Link to Source <https://doi.org/10.1137/0318024},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

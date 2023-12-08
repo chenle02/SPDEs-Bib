@@ -23,4 +23,7 @@ palmer.beatty.ea:94:tau
      year          = {1994}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104271037},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

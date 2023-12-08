@@ -24,4 +24,7 @@ soshnikov:00:determinantal
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1070/rm2000v055n05ABEH000321},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

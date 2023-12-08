@@ -24,4 +24,7 @@ deya.nourdin:14:invariance
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.3150/12-BEJ498},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ arendt.batty.ea:01:vector-valued
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-0348-5075-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

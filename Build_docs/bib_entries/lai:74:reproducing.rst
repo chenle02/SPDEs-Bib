@@ -22,4 +22,7 @@ lai:74:reproducing
      year          = {1974}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00533181},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

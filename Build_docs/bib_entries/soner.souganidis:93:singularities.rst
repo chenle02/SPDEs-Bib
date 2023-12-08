@@ -24,4 +24,7 @@ soner.souganidis:93:singularities
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1080/03605309308820954},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

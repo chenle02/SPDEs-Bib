@@ -24,4 +24,7 @@ chen.song:97:intrinsic
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1006/jfan.1997.3104},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

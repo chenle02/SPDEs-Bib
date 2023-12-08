@@ -24,4 +24,7 @@ bourgain:94:hausdorff
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02772994},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

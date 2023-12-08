@@ -23,4 +23,7 @@ barski.zabczyk:21:note*1
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.4310/CIS.2021.v21.n2.a2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ bobkov.gotze:99:exponential
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1006/jfan.1998.3326},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

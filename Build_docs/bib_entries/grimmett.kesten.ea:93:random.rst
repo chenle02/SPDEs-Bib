@@ -24,4 +24,7 @@ grimmett.kesten.ea:93:random
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01195881},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

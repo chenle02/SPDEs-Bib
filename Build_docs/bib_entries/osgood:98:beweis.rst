@@ -23,4 +23,7 @@ osgood:98:beweis
      year          = {1898}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01707876},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

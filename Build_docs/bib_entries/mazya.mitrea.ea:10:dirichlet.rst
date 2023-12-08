@@ -23,4 +23,7 @@ mazya.mitrea.ea:10:dirichlet
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1007/s11854-010-0005-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

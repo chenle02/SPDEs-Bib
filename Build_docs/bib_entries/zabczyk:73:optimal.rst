@@ -22,4 +22,7 @@ zabczyk:73:optimal
      year          = {1973}
    }
 
+`Link to Source <https://doi.org/10.4064/sm-45-2-161-171},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

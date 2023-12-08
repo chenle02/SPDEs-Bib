@@ -24,4 +24,7 @@ tindel:98:quasilinear
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.2307/3318660},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

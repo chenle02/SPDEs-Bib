@@ -23,4 +23,7 @@ panchenko:12:sherrington-kirkpatrick
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-012-0586-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

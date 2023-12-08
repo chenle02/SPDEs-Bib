@@ -24,4 +24,7 @@ lacey.tzanetis:93:global
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1006/jdeq.1993.1006},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

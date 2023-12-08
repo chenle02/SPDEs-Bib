@@ -24,4 +24,7 @@ meerschaert.wang.ea:13:fernique-type
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9947-2012-05678-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

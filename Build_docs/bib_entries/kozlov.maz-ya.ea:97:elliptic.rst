@@ -23,4 +23,7 @@ kozlov.maz-ya.ea:97:elliptic
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1090/surv/052},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

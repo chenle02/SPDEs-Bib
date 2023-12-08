@@ -23,4 +23,7 @@ song:12:asymptotic
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2011.11.017},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

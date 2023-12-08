@@ -23,4 +23,7 @@ saloff-coste:92:note
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1155/S1073792892000047},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

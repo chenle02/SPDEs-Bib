@@ -23,4 +23,7 @@ umarov.sauidamatov:07:generalization
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1134/S1064562407010267},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

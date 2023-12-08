@@ -24,4 +24,7 @@ bourgain.jitomirskaya:02:absolutely
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1007/s002220100196},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

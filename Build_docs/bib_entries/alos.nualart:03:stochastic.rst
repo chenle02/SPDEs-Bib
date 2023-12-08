@@ -24,4 +24,7 @@ alos.nualart:03:stochastic
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1080/1045112031000078917},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

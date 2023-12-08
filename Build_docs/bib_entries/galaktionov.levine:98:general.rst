@@ -24,4 +24,7 @@ galaktionov.levine:98:general
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1016/S0362-546X(97)00716-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

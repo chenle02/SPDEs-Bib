@@ -24,4 +24,7 @@ abdesselam:07:complete
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-007-0352-x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_
