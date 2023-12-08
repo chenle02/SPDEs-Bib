@@ -23,4 +23,7 @@ ferrante.nualart:97:example
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.2307/3318454},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

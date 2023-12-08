@@ -22,4 +22,7 @@ foondun.khoshnevisan:09:intermittence
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v14-614},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ ambj-rn.durhuus.ea:94:solvable
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1142/S0217732394001040},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

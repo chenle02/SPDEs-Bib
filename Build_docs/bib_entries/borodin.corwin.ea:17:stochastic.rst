@@ -24,4 +24,7 @@ borodin.corwin.ea:17:stochastic
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-016-2718-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,7 @@ bauerschmidt.brydges.ea:19:introduction
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/978-981-32-9593-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

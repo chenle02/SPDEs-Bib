@@ -23,4 +23,7 @@ mayer-wolf.nualart.ea:92:large
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1007/BFb0084307},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

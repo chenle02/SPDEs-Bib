@@ -24,4 +24,7 @@ nourdin.peccati.ea:19:nodal
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-019-03432-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

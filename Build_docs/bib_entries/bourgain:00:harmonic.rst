@@ -21,4 +21,7 @@ bourgain:00:harmonic
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1007/bf02791532},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

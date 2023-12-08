@@ -24,4 +24,7 @@ rockner.zhang:07:stochastic
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1007/s11118-006-9035-z},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

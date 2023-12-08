@@ -23,4 +23,7 @@ eynard.bonnet:99:potts-q
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1016/S0370-2693(99)00925-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

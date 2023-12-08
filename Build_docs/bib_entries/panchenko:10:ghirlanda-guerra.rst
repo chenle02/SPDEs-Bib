@@ -23,4 +23,7 @@ panchenko:10:ghirlanda-guerra
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1016/j.crma.2010.02.004},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

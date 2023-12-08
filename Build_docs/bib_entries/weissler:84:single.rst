@@ -24,4 +24,7 @@ weissler:84:single
      year          = {1984}
    }
 
+`Link to Source <https://doi.org/10.1016/0022-0396(84)90081-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

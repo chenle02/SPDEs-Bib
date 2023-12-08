@@ -23,4 +23,7 @@ gu.komorowski:21:gaussian
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1080/03605302.2020.1836493},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

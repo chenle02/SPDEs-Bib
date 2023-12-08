@@ -24,4 +24,7 @@ fritz.rudiger:95:time
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01195480},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

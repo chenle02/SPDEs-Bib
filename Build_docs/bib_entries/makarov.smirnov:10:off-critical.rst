@@ -22,4 +22,7 @@ makarov.smirnov:10:off-critical
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1142/9789814304634\_0024},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

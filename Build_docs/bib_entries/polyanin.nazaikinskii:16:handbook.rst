@@ -21,4 +21,7 @@ polyanin.nazaikinskii:16:handbook
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1201/b19056},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

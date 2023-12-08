@@ -24,4 +24,7 @@ hairer.pardoux:21:fluctuations
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1007/s00205-020-01574-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

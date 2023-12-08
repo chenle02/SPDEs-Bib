@@ -22,4 +22,7 @@ hu.sharma:23:ergodic
      year          = {2023}
    }
 
+`Link to Source <https://doi.org/10.1016/j.cam.2023.115329},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

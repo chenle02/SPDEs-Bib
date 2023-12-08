@@ -24,4 +24,7 @@ greven.hollander:92:branching
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01291424},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

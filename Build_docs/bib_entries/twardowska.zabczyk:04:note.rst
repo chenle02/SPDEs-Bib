@@ -23,4 +23,7 @@ twardowska.zabczyk:04:note
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1081/SAP-200029505},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

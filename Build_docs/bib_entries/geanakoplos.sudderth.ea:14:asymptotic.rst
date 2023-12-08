@@ -24,4 +24,7 @@ geanakoplos.sudderth.ea:14:asymptotic
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s13171-013-0037-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

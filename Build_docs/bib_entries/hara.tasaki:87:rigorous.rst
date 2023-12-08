@@ -23,4 +23,7 @@ hara.tasaki:87:rigorous
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01009036},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

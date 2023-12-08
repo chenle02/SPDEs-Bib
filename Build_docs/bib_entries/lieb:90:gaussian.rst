@@ -24,4 +24,7 @@ lieb:90:gaussian
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01233426},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

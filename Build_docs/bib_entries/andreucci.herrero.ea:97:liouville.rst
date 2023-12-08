@@ -24,4 +24,7 @@ andreucci.herrero.ea:97:liouville
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1016/S0294-1449(97)80148-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

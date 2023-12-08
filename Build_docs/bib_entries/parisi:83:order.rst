@@ -23,4 +23,7 @@ parisi:83:order
      year          = {1983}
    }
 
+`Link to Source <https://doi.org/10.1103/PhysRevLett.50.1946},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ shinault.tracy:11:asymptotics
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-011-0155-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

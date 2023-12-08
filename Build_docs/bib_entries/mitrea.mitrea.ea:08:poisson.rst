@@ -24,4 +24,7 @@ mitrea.mitrea.ea:08:poisson
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.3934/cpaa.2008.7.1295},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

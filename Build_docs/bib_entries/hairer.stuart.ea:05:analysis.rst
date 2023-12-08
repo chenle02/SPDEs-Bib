@@ -23,4 +23,7 @@ hairer.stuart.ea:05:analysis
      year          = {2005}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cms/1144429334},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

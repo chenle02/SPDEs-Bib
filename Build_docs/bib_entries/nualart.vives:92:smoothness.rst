@@ -24,4 +24,7 @@ nualart.vives:92:smoothness
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00269510},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

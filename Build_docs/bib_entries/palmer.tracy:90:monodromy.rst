@@ -23,4 +23,7 @@ palmer.tracy:90:monodromy
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1090/conm/108/1068338},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

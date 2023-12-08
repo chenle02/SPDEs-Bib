@@ -23,4 +23,7 @@ conus.khoshnevisan:10:weak
      year          = {2010}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.ijm/1348505531},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

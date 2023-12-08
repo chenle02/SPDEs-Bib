@@ -24,4 +24,7 @@ hairer.pardoux:15:wong-zakai
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.2969/jmsj/06741551},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

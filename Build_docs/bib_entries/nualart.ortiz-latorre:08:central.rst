@@ -24,4 +24,7 @@ nualart.ortiz-latorre:08:central
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2007.05.004},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

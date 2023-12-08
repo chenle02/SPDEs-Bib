@@ -24,4 +24,7 @@ nualart.xu:19:asymptotic
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2018.11.009},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

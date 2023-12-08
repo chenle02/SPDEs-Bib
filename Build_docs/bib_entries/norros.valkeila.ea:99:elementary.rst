@@ -24,4 +24,7 @@ norros.valkeila.ea:99:elementary
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.2307/3318691},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

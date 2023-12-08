@@ -23,4 +23,7 @@ joseph.lundgren:72:quasilinear
      year          = {1972/73}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00250508},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

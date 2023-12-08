@@ -24,4 +24,7 @@ brzezniak:95:stochastic
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01048965},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

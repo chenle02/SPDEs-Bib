@@ -23,4 +23,7 @@ fox:61:g
      year          = {1961}
    }
 
+`Link to Source <https://doi.org/10.2307/1993339},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

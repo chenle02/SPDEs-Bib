@@ -24,4 +24,7 @@ bolthausen.zeitouni:07:multiscale
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-006-0032-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ neuenkirch.tindel.ea:10:discretizing
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2009.10.007},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

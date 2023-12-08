@@ -24,4 +24,7 @@ devore.jawerth.ea:92:compression
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.2307/2374796},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

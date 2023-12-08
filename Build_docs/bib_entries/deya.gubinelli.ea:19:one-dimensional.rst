@@ -24,4 +24,7 @@ deya.gubinelli.ea:19:one-dimensional
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2018.09.007},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

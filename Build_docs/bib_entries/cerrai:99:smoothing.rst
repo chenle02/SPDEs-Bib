@@ -24,4 +24,7 @@ cerrai:99:smoothing
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1007/s004400050203},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

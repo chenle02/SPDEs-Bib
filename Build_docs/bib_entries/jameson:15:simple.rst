@@ -24,4 +24,7 @@ jameson:15:simple
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1017/mag.2014.9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

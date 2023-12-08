@@ -23,4 +23,7 @@ paquette.zeitouni:18:maximum
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1093/imrn/rnx033},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

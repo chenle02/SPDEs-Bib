@@ -24,4 +24,7 @@ nualart.quer-sardanyons:11:optimal
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1142/S0219025711004286},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

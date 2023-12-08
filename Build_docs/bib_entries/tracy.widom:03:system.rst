@@ -23,4 +23,7 @@ tracy.widom:03:system
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1214/ECP.v8-1074},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ bourgain:88:remark
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1016/0022-1236(88)90033-X},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

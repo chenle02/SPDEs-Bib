@@ -24,4 +24,7 @@ wainwright:19:high-dimensional
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1017/9781108627771},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

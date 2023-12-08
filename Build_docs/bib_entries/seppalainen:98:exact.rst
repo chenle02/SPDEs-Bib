@@ -24,4 +24,7 @@ seppalainen:98:exact
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1022855751},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

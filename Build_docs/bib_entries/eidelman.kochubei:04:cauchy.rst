@@ -24,4 +24,7 @@ eidelman.kochubei:04:cauchy
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jde.2003.12.002},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

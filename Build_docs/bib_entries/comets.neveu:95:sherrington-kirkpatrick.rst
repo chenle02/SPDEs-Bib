@@ -23,4 +23,7 @@ comets.neveu:95:sherrington-kirkpatrick
      year          = {1995}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104271703},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

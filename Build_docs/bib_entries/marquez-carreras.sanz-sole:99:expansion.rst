@@ -24,4 +24,7 @@ marquez-carreras.sanz-sole:99:expansion
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.2307/3318435},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ fefferman.riviere.ea:74:interpolation
      year          = {1974}
    }
 
+`Link to Source <https://doi.org/10.2307/1996982},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

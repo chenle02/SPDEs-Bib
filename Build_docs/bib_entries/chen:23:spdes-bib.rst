@@ -18,4 +18,7 @@ chen:23:spdes-bib
      year          = {2023}
    }
 
+`Link to Source <https://spdes-bib.readthedocs.io},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

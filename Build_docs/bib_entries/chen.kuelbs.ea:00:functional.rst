@@ -24,4 +24,7 @@ chen.kuelbs.ea:00:functional
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1019160119},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

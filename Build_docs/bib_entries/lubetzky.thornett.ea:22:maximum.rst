@@ -24,4 +24,7 @@ lubetzky.thornett.ea:22:maximum
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1214/21-aihp1219},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

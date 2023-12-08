@@ -23,4 +23,7 @@ bouchaud.georges:90:anomalous
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1016/0370-1573(90)90099-N},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ henry:85:some
      year          = {1985}
    }
 
+`Link to Source <https://doi.org/10.1016/0022-0396(85)90153-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

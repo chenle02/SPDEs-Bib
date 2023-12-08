@@ -25,4 +25,7 @@ duplantier:90:two-dimensional
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1016/0378-4371(90)90326-N},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

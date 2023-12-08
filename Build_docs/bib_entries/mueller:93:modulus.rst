@@ -24,4 +24,7 @@ mueller:93:modulus
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.4153/CJM-1993-071-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

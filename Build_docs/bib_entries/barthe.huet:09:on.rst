@@ -23,4 +23,7 @@ barthe.huet:09:on
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.4064/sm191-3-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

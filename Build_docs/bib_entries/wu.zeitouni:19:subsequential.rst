@@ -23,4 +23,7 @@ wu.zeitouni:19:subsequential
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1214/19-ECP215},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

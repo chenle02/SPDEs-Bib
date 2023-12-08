@@ -24,4 +24,7 @@ nourdin.peccati:13:poisson
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1214/12-AOP815},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

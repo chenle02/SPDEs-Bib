@@ -23,4 +23,7 @@ zhang:09:variational
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1215/kjm/1260975036},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

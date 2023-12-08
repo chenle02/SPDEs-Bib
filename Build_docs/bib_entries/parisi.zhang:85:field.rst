@@ -24,4 +24,7 @@ parisi.zhang:85:field
      year          = {1985}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01020601},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ johansson:00:shape
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200050027},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

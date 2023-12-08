@@ -24,4 +24,7 @@ mueller.sowers:93:blowup
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01195068},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ comets.zeitouni:05:gaussian
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02775433},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

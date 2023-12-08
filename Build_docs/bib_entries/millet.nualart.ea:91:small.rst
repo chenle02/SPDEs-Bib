@@ -23,4 +23,7 @@ millet.nualart.ea:91:small
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-0348-6413-8\_12},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ hairer.matetski:18:discretisations
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1214/17-AOP1212},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

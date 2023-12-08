@@ -23,4 +23,7 @@ mariani.tweneboah.ea:19:complex
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.2478/amsil-2018-0012},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

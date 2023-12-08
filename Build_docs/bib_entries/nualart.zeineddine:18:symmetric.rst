@@ -23,4 +23,7 @@ nualart.zeineddine:18:symmetric
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.31390/cosa.12.1.04},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

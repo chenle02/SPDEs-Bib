@@ -24,4 +24,7 @@ nourdin.peccati:12:normal
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1017/CBO9781139084659},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

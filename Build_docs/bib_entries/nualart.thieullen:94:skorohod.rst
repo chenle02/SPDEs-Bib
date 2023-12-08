@@ -23,4 +23,7 @@ nualart.thieullen:94:skorohod
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1080/17442509408833917},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ caravenna.giacomin.ea:06:numerical
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-005-8081-z},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

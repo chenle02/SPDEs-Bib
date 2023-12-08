@@ -24,4 +24,7 @@ geng.ouyang.ea:22:precise
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1214/21-aop1542},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

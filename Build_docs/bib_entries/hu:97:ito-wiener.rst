@@ -24,4 +24,7 @@ hu:97:ito-wiener
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1023/A:1022654314791},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

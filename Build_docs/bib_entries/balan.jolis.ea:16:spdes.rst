@@ -23,4 +23,7 @@ balan.jolis.ea:16:spdes
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2016.09.003},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

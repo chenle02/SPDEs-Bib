@@ -24,4 +24,7 @@ cheridito.nualart:05:stochastic
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1016/j.anihpb.2004.09.004},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

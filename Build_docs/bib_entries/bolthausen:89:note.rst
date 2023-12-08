@@ -23,4 +23,7 @@ bolthausen:89:note
      year          = {1989}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104178982},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ nualart.tindel:95:quasilinear
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1016/0304-4149(95)00006-S},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,7 @@ friz.hairer:20:course
      year          = {[2020] \copyright 2020}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-030-41556-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

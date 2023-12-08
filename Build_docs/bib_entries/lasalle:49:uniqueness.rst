@@ -23,4 +23,7 @@ lasalle:49:uniqueness
      year          = {1949}
    }
 
+`Link to Source <https://doi.org/10.2307/1969559},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

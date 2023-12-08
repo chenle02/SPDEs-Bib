@@ -23,4 +23,7 @@ mueller.tribe:04:singular
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v9-189},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

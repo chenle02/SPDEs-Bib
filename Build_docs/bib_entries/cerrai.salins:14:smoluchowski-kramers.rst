@@ -24,4 +24,7 @@ cerrai.salins:14:smoluchowski-kramers
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.3233/asy-141220},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

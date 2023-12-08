@@ -23,4 +23,7 @@ bachmann.cooper.ea:87:relaxation
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1073/pnas.84.21.7529},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

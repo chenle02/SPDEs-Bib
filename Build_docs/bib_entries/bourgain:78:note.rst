@@ -24,4 +24,7 @@ bourgain:78:note
      year          = {1978}
    }
 
+`Link to Source <https://doi.org/10.1016/0315-0860(80)90077-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ bourgain:80:characterization
      year          = {1980}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02762867},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

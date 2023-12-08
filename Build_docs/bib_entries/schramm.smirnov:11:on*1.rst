@@ -23,4 +23,7 @@ schramm.smirnov:11:on*1
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4419-9675-6\_35},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

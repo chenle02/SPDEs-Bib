@@ -24,4 +24,7 @@ dalang.trotter.ea:88:on
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1016/0095-8956(88)90076-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,7 @@ georgiou.khoshnevisan.ea:18:dimension
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1214/18-EJP201},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

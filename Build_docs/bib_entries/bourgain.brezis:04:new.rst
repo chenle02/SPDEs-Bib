@@ -23,4 +23,7 @@ bourgain.brezis:04:new
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1016/j.crma.2003.12.031},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

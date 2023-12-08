@@ -24,4 +24,7 @@ nualart.taqqu:08:wick-ito
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1080/17442500801928788},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

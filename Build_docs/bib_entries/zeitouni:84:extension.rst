@@ -24,4 +24,7 @@ zeitouni:84:extension
      year          = {1984}
    }
 
+`Link to Source <https://doi.org/10.1016/0167-6911(84)90003-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ kipnis.olla.ea:89:hydrodynamics
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.1002/cpa.3160420202},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

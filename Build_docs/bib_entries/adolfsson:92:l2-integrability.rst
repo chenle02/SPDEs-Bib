@@ -24,4 +24,7 @@ adolfsson:92:l2-integrability
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.7146/math.scand.a-12391},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

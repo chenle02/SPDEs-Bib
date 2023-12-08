@@ -24,4 +24,7 @@ bass.chen:01:stochastic
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1007/s004400100151},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

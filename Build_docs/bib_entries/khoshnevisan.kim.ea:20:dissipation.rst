@@ -24,4 +24,7 @@ khoshnevisan.kim.ea:20:dissipation
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-020-02540-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

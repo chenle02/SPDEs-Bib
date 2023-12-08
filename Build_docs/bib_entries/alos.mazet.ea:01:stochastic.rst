@@ -24,4 +24,7 @@ alos.mazet.ea:01:stochastic
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1008956692},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

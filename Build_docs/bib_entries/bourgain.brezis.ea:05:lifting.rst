@@ -24,4 +24,7 @@ bourgain.brezis.ea:05:lifting
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1002/cpa.20063},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

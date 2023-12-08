@@ -22,4 +22,7 @@ khoshnevisan.kim.ea:23:phase
      year          = {2023}
    }
 
+`Link to Source <https://doi.org/10.1214/23-ejp983},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

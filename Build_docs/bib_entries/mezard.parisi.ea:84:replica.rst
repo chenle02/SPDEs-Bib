@@ -24,4 +24,7 @@ mezard.parisi.ea:84:replica
      year          = {1984}
    }
 
+`Link to Source <https://doi.org/10.1051/jphys:01984004505084300},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

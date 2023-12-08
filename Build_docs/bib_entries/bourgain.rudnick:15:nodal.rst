@@ -24,4 +24,7 @@ bourgain.rudnick:15:nodal
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1007/s11856-015-1183-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

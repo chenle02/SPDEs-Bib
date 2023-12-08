@@ -23,4 +23,7 @@ shamis.zeitouni:18:curie-weiss
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-017-1812-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

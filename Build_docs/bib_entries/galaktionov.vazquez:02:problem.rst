@@ -25,4 +25,7 @@ galaktionov.vazquez:02:problem
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.3934/dcds.2002.8.399},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

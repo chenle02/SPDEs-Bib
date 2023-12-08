@@ -24,4 +24,7 @@ bourgain:82:translation
      year          = {1982}
    }
 
+`Link to Source <https://doi.org/10.4064/sm-75-1-95-101},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

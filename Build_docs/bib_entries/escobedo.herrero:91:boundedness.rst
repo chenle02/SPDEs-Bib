@@ -23,4 +23,7 @@ escobedo.herrero:91:boundedness
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1016/0022-0396(91)90118-S},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

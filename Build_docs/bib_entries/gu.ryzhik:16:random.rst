@@ -24,4 +24,7 @@ gu.ryzhik:16:random
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1137/15M1024986},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

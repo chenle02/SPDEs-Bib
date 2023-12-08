@@ -24,4 +24,7 @@ gradinaru.nourdin.ea:05:itos-
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2005.02.008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

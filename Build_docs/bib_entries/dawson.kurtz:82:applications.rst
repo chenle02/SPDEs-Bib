@@ -23,4 +23,7 @@ dawson.kurtz:82:applications
      year          = {1982}
    }
 
+`Link to Source <https://doi.org/10.1007/BFb0004528},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

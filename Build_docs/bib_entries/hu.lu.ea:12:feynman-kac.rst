@@ -24,4 +24,7 @@ hu.lu.ea:12:feynman-kac
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1214/11-AOP649},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ chen.hu.ea:21:regularity
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1090/memo/1340},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

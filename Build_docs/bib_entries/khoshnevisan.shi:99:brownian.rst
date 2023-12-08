@@ -24,4 +24,7 @@ khoshnevisan.shi:99:brownian
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1022677442},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

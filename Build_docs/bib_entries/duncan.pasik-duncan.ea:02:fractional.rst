@@ -24,4 +24,7 @@ duncan.pasik-duncan.ea:02:fractional
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1142/S0219493702000340},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ hedberg:81:spectral
      year          = {1981}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02392874},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

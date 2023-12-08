@@ -24,4 +24,7 @@ gelbaum:14:fractional
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1090/S0002-9947-2014-06106-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

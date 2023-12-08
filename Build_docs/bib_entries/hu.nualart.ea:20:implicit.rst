@@ -24,4 +24,7 @@ hu.nualart.ea:20:implicit
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2019.09.014},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

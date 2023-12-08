@@ -24,4 +24,7 @@ dalang:06:demonstration
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.4171/EM/34},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

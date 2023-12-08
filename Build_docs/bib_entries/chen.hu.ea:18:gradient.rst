@@ -23,4 +23,7 @@ chen.hu.ea:18:gradient
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2018.07.003},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

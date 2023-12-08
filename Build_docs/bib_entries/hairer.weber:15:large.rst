@@ -24,4 +24,7 @@ hairer.weber:15:large
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.5802/afst.1442},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ seppalainen:01:hydrodynamic
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1023/A:1026508625058},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

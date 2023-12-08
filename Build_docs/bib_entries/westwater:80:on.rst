@@ -22,4 +22,7 @@ westwater:80:on
      year          = {1980}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1103907655},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

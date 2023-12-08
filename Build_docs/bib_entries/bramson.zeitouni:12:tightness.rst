@@ -24,4 +24,7 @@ bramson.zeitouni:12:tightness
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1002/cpa.20390},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

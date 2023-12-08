@@ -24,4 +24,7 @@ comets.cranston:13:overlaps
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2013.02.010},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

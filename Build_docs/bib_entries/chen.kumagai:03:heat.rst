@@ -24,4 +24,7 @@ chen.kumagai:03:heat
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1016/S0304-4149(03)00105-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ kostov:91:loop
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1016/0370-2693(91)91047-Y},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

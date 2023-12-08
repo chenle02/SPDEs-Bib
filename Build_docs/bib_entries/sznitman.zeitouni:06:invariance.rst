@@ -24,4 +24,7 @@ sznitman.zeitouni:06:invariance
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/s00222-005-0477-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

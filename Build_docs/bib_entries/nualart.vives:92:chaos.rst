@@ -24,4 +24,7 @@ nualart.vives:92:chaos
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.5565/PUBLMAT\_362B92\_07},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

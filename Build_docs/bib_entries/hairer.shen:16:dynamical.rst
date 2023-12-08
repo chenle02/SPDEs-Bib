@@ -24,4 +24,7 @@ hairer.shen:16:dynamical
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-015-2525-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

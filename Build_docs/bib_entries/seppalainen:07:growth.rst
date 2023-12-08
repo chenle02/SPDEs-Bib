@@ -23,4 +23,7 @@ seppalainen:07:growth
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1214/074921707000000373},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ marquez-carreras.rovira.ea:07:diluted
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2007.02.008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

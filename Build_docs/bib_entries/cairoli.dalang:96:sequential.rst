@@ -23,4 +23,7 @@ cairoli.dalang:96:sequential
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1002/9781118164396},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

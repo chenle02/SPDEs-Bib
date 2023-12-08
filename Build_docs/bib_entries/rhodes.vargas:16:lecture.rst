@@ -16,4 +16,7 @@ rhodes.vargas:16:lecture
      year          = {2016}
    }
 
+`Link to Source <https://www.arxiv.org/abs/1602.07323},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

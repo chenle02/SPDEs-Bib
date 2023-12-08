@@ -24,4 +24,7 @@ brascamp.lieb:76:best
      year          = {1976}
    }
 
+`Link to Source <https://doi.org/10.1016/0001-8708(76)90184-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

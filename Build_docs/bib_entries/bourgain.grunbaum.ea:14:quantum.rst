@@ -24,4 +24,7 @@ bourgain.grunbaum.ea:14:quantum
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-014-1929-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

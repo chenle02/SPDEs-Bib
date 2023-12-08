@@ -24,4 +24,7 @@ priola.shirikyan.ea:12:exponential
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2011.10.003},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

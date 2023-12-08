@@ -23,4 +23,7 @@ brownlees.nualart.ea:20:on
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.1080/07474938.2020.1735751},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

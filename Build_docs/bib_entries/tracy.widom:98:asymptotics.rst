@@ -24,4 +24,7 @@ tracy.widom:98:asymptotics
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200050257},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

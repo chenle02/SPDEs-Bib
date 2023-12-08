@@ -23,4 +23,7 @@ david:88:conformal
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1142/S0217732388001975},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

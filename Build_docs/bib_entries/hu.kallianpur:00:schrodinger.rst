@@ -24,4 +24,7 @@ hu.kallianpur:00:schrodinger
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1007/s002450010014},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

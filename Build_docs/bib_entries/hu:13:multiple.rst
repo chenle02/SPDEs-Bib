@@ -24,4 +24,7 @@ hu:13:multiple
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1080/17442508.2012.673615},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

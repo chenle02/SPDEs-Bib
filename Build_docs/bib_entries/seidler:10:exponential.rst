@@ -22,4 +22,7 @@ seidler:10:exponential
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v15-808},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

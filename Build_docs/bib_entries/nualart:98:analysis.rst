@@ -23,4 +23,7 @@ nualart:98:analysis
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1007/BFb0092538},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

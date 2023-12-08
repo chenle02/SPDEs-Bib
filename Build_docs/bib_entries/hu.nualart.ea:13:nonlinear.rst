@@ -24,4 +24,7 @@ hu.nualart.ea:13:nonlinear
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2012.11.004},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

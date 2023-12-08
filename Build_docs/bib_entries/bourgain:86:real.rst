@@ -24,4 +24,7 @@ bourgain:86:real
      year          = {1986}
    }
 
+`Link to Source <https://doi.org/10.2307/2046157},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

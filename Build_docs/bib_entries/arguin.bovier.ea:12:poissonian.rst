@@ -24,4 +24,7 @@ arguin.bovier.ea:12:poissonian
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1214/11-AAP809},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

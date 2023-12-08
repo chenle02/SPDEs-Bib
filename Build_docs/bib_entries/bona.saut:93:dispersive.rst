@@ -24,4 +24,7 @@ bona.saut:93:dispersive
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1006/jdeq.1993.1040},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

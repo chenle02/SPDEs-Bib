@@ -24,4 +24,7 @@ netrusov.safarov:05:weyl
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-004-1158-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

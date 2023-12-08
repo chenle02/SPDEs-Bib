@@ -23,4 +23,7 @@ bourgain:96:invariant
      year          = {1996}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104286005},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

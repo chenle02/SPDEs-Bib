@@ -24,4 +24,7 @@ oliveira.silva.ea:11:intersection
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s10440-010-9579-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ pipiras.taqqu:00:integration
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1007/s440-000-8016-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

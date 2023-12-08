@@ -23,4 +23,7 @@ gage.hamilton:86:heat
      year          = {1986}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.jdg/1214439902},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

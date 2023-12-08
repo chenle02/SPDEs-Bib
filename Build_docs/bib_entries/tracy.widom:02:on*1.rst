@@ -24,4 +24,7 @@ tracy.widom:02:on*1
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1137/S0895479801395367},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

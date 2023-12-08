@@ -24,4 +24,7 @@ hu.nualart:05:some
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-005-3508-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

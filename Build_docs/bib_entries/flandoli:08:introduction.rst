@@ -23,4 +23,7 @@ flandoli:08:introduction
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-540-78493-7\_2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

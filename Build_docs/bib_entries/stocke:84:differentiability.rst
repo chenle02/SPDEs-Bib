@@ -24,4 +24,7 @@ stocke:84:differentiability
      year          = {1984}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02384383},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

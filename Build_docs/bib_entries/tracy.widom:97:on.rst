@@ -24,4 +24,7 @@ tracy.widom:97:on
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1016/S0378-4371(97)00229-X},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

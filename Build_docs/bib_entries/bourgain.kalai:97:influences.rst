@@ -24,4 +24,7 @@ bourgain.kalai:97:influences
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1007/s000390050015},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

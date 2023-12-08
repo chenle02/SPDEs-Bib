@@ -23,4 +23,7 @@ bebernes.eberly:89:mathematical
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4612-4546-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

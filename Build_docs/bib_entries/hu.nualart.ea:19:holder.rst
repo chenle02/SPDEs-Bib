@@ -21,4 +21,7 @@ hu.nualart.ea:19:holder
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1214/19-ejp357},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

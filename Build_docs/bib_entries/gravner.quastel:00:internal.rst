@@ -24,4 +24,7 @@ gravner.quastel:00:internal
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1019160497},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

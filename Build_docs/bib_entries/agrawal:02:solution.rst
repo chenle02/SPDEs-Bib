@@ -24,4 +24,7 @@ agrawal:02:solution
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1023/A:1016539022492},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

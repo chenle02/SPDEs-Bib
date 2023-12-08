@@ -24,4 +24,7 @@ nourdin.peccati:10:cumulants
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2009.10.024},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

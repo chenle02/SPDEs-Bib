@@ -23,4 +23,7 @@ bourgain:83:embedding
      year          = {1983}
    }
 
+`Link to Source <https://doi.org/10.2307/1999178},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

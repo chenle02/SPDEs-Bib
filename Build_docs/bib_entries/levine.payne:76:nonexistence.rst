@@ -24,4 +24,7 @@ levine.payne:76:nonexistence
      year          = {1976}
    }
 
+`Link to Source <https://doi.org/10.1016/0022-247X(76)90163-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

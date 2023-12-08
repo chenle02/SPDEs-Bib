@@ -24,4 +24,7 @@ bourgain.gamburd:12:spectral
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.4171/JEMS/337},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

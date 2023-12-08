@@ -24,4 +24,7 @@ balan.schiopu-kratina:05:asymptotic
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1214/009053604000001255},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

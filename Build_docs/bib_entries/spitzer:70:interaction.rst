@@ -23,4 +23,7 @@ spitzer:70:interaction
      year          = {1970}
    }
 
+`Link to Source <https://doi.org/10.1016/0001-8708(70)90034-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

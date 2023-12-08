@@ -22,4 +22,7 @@ hu.long:07:parameter
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.31390/cosa.1.2.01},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

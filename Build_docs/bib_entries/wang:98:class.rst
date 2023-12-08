@@ -24,4 +24,7 @@ wang:98:class
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1080/07362999808809560},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

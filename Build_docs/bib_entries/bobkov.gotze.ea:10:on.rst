@@ -24,4 +24,7 @@ bobkov.gotze.ea:10:on
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-010-0286-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ bourgain.fremlin.ea:78:pointwise
      year          = {1978}
    }
 
+`Link to Source <https://doi.org/10.2307/2373913},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

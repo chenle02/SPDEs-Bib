@@ -23,4 +23,7 @@ panchenko:05:question
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1214/ECP.v10-1145},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

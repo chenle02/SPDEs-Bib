@@ -24,4 +24,7 @@ durhuus:94:multi-spin
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1016/0550-3213(94)90132-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

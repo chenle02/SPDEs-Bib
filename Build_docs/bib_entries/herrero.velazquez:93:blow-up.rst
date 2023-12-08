@@ -24,4 +24,7 @@ herrero.velazquez:93:blow-up
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1016/S0294-1449(16)30217-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

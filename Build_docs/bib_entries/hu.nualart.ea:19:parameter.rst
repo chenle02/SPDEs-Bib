@@ -24,4 +24,7 @@ hu.nualart.ea:19:parameter
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s11203-017-9168-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

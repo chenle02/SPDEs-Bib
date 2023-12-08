@@ -23,4 +23,7 @@ kim.mueller.ea:10:stochastic
      year          = {2010}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.ijm/1336049982},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

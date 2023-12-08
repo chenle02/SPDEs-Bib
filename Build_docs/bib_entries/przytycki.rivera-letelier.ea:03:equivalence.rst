@@ -24,4 +24,7 @@ przytycki.rivera-letelier.ea:03:equivalence
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1007/s00222-002-0243-x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ lewis.nualart:18:stochastic
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1080/17442508.2018.1478834},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ chen.fitzsimmons.ea:12:errata
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1214/11-AOP684},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

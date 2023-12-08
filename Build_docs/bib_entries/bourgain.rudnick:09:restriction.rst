@@ -23,4 +23,7 @@ bourgain.rudnick:09:restriction
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1016/j.crma.2009.08.008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ friz.victoir:06:note
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-005-0487-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

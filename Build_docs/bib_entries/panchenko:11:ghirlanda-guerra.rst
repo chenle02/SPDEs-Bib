@@ -23,4 +23,7 @@ panchenko:11:ghirlanda-guerra
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1016/j.crma.2011.06.021},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

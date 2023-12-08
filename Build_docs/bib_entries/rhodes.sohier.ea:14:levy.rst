@@ -24,4 +24,7 @@ rhodes.sohier.ea:14:levy
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1214/12-AOP810},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

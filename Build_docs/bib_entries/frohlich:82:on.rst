@@ -24,4 +24,7 @@ frohlich:82:on
      year          = {1982}
    }
 
+`Link to Source <https://doi.org/10.1016/0550-3213(82)90088-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ bourgain:08:sum-product
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1007/s11854-008-0044-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

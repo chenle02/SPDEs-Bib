@@ -24,4 +24,7 @@ caravenna.giacomin.ea:07:renewal
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1214/105051607000000159},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

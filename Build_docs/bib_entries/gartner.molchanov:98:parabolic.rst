@@ -24,4 +24,7 @@ gartner.molchanov:98:parabolic
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1007/s004400050161},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

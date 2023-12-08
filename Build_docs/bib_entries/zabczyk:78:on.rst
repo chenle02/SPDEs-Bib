@@ -24,4 +24,7 @@ zabczyk:78:on
      year          = {1978}
    }
 
+`Link to Source <https://doi.org/10.1137/0316035},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ meerschaert.straka:13:inverse
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1051/mmnp/20138201},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

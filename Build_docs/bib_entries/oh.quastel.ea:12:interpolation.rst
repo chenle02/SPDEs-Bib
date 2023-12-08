@@ -24,4 +24,7 @@ oh.quastel.ea:12:interpolation
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1016/j.matpur.2011.11.003},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

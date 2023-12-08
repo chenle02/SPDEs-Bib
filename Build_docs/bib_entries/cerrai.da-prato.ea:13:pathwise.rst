@@ -24,4 +24,7 @@ cerrai.da-prato.ea:13:pathwise
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s40072-013-0016-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

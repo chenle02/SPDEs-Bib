@@ -21,4 +21,7 @@ khoshnevisan.shi:98:gaussian
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1016/B978-044450083-0/50030-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ priola.zabczyk:03:null
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1137/S0363012902409970},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

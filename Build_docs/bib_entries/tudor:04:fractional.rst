@@ -24,4 +24,7 @@ tudor:04:fractional
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1081/SAP-200026448},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

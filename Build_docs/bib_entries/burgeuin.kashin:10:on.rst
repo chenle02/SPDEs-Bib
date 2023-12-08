@@ -23,4 +23,7 @@ burgeuin.kashin:10:on
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1134/S0001434610010360},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

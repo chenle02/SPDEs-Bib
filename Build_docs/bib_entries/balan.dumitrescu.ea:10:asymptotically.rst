@@ -24,4 +24,7 @@ balan.dumitrescu.ea:10:asymptotically
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.3103/S1066530710020018},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

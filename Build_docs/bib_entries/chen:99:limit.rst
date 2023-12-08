@@ -24,4 +24,7 @@ chen:99:limit
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1090/memo/0664},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

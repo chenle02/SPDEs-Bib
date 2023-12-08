@@ -24,4 +24,7 @@ kolokoltsov:00:symmetric
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1112/S0024611500012314},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ gu.komorowski.ea:18:schrodinger
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2018.01.015},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

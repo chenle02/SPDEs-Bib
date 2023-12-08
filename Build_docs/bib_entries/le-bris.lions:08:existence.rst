@@ -24,4 +24,7 @@ le-bris.lions:08:existence
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1080/03605300801970952},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

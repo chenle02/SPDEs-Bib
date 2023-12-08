@@ -24,4 +24,7 @@ mytnik:02:stochastic
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1007/s004400100180},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

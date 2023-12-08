@@ -24,4 +24,7 @@ carmona.molchanov:94:parabolic
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1090/memo/0518},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

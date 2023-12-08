@@ -24,4 +24,7 @@ dembo.guionnet.ea:03:moderate
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1016/S0246-0203(03)00024-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

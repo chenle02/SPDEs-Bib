@@ -24,4 +24,7 @@ chen:07:moderate
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1214/009117906000000520},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

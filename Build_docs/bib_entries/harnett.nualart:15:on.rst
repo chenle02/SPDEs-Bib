@@ -24,4 +24,7 @@ harnett.nualart:15:on
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-014-0552-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

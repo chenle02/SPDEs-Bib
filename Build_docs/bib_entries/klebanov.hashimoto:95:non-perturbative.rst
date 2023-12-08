@@ -23,4 +23,7 @@ klebanov.hashimoto:95:non-perturbative
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1016/0550-3213(94)00518-J},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ nualart.tindel:11:construction
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1214/10-AOP578},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

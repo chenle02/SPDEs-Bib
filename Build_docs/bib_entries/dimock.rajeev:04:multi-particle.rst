@@ -24,4 +24,7 @@ dimock.rajeev:04:multi-particle
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1088/0305-4470/37/39/008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ nualart.pardoux:88:stochastic
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00353876},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -25,4 +25,7 @@ derrida.spohn:88:polymers
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01014886},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ levine.park.ea:98:global
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1006/jdeq.1997.3362},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

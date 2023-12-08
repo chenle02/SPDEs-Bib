@@ -24,4 +24,7 @@ flandoli.gubinelli.ea:08:rigorous
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-007-0398-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

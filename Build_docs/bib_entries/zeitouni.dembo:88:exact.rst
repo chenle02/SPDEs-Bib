@@ -23,4 +23,7 @@ zeitouni.dembo:88:exact
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1109/18.9793},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

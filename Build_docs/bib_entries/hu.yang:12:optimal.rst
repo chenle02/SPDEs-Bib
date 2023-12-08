@@ -23,4 +23,7 @@ hu.yang:12:optimal
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/s11424-012-9254-x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

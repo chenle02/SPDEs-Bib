@@ -23,4 +23,7 @@ wright:40:generalized
      year          = {1940}
    }
 
+`Link to Source <https://doi.org/10.1093/qmath/os-11.1.36},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

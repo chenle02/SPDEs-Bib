@@ -23,4 +23,7 @@ brzezniak.ondrejat:11:weak
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1080/03605302.2011.574243},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

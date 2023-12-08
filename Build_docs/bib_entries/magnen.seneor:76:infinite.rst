@@ -24,4 +24,7 @@ magnen.seneor:76:infinite
      year          = {1976}
    }
 
+`Link to Source <https://doi.org/10.1007/s11245-005-1376-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

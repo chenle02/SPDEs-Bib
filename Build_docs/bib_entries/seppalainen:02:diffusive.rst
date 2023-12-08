@@ -24,4 +24,7 @@ seppalainen:02:diffusive
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200200660},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

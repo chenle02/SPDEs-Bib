@@ -24,4 +24,7 @@ polchinski:90:critical
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1016/0550-3213(90)90280-Q},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

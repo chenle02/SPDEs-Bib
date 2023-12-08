@@ -23,4 +23,7 @@ yamada.watanabe:71:on
      year          = {1971}
    }
 
+`Link to Source <https://doi.org/10.1215/kjm/1250523691},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

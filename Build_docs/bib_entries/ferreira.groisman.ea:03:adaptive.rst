@@ -23,4 +23,7 @@ ferreira.groisman.ea:03:adaptive
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1093/imanum/23.3.439},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

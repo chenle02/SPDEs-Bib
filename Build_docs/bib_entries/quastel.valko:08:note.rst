@@ -22,4 +22,7 @@ quastel.valko:08:note
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-7643-8786-0\_25},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

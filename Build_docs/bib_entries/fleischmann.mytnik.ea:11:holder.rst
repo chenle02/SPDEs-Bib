@@ -24,4 +24,7 @@ fleischmann.mytnik.ea:11:holder
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-010-0334-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

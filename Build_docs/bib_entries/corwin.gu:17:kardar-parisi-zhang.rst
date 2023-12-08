@@ -23,4 +23,7 @@ corwin.gu:17:kardar-parisi-zhang
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-016-1693-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

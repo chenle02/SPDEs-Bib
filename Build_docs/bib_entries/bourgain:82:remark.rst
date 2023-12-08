@@ -24,4 +24,7 @@ bourgain:82:remark
      year          = {1982}
    }
 
+`Link to Source <https://doi.org/10.4064/sm-72-3-285-289},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ hu:02:probability
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1016/S0246-0203(01)01104-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

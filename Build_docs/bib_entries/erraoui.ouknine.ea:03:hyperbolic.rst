@@ -24,4 +24,7 @@ erraoui.ouknine.ea:03:hyperbolic
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1142/S0219493703000681},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

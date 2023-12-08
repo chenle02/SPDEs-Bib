@@ -24,4 +24,7 @@ nourdin.peccati.ea:14:comparison
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2013.12.001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

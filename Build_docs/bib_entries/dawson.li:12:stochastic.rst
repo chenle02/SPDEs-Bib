@@ -24,4 +24,7 @@ dawson.li:12:stochastic
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1214/10-AOP629},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

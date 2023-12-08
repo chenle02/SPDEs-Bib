@@ -24,4 +24,7 @@ salins:19:smoluchowski-kramers
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s40072-018-0123-z},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

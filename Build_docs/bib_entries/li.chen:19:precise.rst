@@ -23,4 +23,7 @@ li.chen:19:precise
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s10473-019-0302-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

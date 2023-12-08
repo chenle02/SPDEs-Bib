@@ -24,4 +24,7 @@ dembo.zeitouni:15:matrix
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-015-1228-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ cerrai.clement:07:schauder
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jde.2007.08.002},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

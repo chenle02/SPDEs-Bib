@@ -23,4 +23,7 @@ georgiou.rassoul-agha.ea:16:variational
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-016-2613-z},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

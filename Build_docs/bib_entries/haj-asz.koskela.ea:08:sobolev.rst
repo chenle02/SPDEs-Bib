@@ -24,4 +24,7 @@ haj-asz.koskela.ea:08:sobolev
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2007.11.020},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

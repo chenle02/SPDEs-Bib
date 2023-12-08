@@ -24,4 +24,7 @@ morien:99:holder
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.2307/3318436},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

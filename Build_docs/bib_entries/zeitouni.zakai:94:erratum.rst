@@ -24,4 +24,7 @@ zeitouni.zakai:94:erratum
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1137/0332063},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

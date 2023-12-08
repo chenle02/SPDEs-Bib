@@ -24,4 +24,7 @@ cattiaux.guillin.ea:10:note
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-009-0231-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

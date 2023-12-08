@@ -24,4 +24,7 @@ stricker.yor:78:calcul
      year          = {1978}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00715187},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

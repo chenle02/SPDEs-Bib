@@ -23,4 +23,7 @@ corwin:18:commentary
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1090/bull/1623},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

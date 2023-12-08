@@ -24,4 +24,7 @@ dembo:97:information
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1024404424},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

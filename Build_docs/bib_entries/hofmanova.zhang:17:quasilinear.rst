@@ -24,4 +24,7 @@ hofmanova.zhang:17:quasilinear
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2017.01.010},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

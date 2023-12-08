@@ -24,4 +24,7 @@ phillips:87:existence
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1080/00036818708839668},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

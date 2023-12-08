@@ -24,4 +24,7 @@ comets.quastel.ea:07:fluctuations
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.anihpb.2006.01.005},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ bourgain.chang:09:sum-product
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1007/s11854-009-0033-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

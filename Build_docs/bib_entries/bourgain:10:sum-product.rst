@@ -22,4 +22,7 @@ bourgain:10:sum-product
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1007/978-0-387-68361-4\_2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

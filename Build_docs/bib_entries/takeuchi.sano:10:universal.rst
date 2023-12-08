@@ -22,4 +22,7 @@ takeuchi.sano:10:universal
      year          = {2010}
    }
 
+`Link to Source <https://link.aps.org/doi/10.1103/PhysRevLett.104.230601},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

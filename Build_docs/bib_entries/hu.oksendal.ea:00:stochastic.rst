@@ -23,4 +23,7 @@ hu.oksendal.ea:00:stochastic
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1081/pde-120028841},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -22,4 +22,7 @@ kim.kosterlitz:89:growth
      year          = {1989}
    }
 
+`Link to Source <https://link.aps.org/doi/10.1103/PhysRevLett.62.2289},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

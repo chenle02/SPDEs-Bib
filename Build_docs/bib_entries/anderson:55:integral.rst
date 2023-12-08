@@ -23,4 +23,7 @@ anderson:55:integral
      year          = {1955}
    }
 
+`Link to Source <https://doi.org/10.2307/2032333},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

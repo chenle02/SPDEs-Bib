@@ -22,4 +22,7 @@ gu.komorowski:22:gaussian*1
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.18287/2541-7525-2021-27-2-33-47},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

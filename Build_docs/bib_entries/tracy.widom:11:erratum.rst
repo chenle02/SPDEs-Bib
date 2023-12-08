@@ -23,4 +23,7 @@ tracy.widom:11:erratum
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-011-1249-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

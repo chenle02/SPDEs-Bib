@@ -23,4 +23,7 @@ derrida:80:random-energy
      year          = {1980}
    }
 
+`Link to Source <https://doi.org/10.1103/PhysRevLett.45.79},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

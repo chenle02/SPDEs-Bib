@@ -23,4 +23,7 @@ imdad.zhang:14:pricing
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1142/s2345768614500329},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

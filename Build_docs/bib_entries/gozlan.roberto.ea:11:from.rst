@@ -24,4 +24,7 @@ gozlan.roberto.ea:11:from
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2010.11.010},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

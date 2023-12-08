@@ -24,4 +24,7 @@ da-prato.zabczyk:95:regular
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1006/jfan.1995.1076},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

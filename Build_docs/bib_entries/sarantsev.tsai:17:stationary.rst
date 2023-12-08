@@ -21,4 +21,7 @@ sarantsev.tsai:17:stationary
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1214/17-EJP78},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

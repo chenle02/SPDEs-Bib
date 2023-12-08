@@ -24,4 +24,7 @@ giga.kohn:87:characterizing
      year          = {1987}
    }
 
+`Link to Source <https://doi.org/10.1512/iumj.1987.36.36001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

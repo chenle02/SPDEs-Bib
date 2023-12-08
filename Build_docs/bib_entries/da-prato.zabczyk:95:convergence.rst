@@ -24,4 +24,7 @@ da-prato.zabczyk:95:convergence
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01246338},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

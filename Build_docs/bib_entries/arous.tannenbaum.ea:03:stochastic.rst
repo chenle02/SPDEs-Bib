@@ -24,4 +24,7 @@ arous.tannenbaum.ea:03:stochastic
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1016/S0022-0396(03)00166-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

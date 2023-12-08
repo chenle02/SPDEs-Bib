@@ -23,4 +23,7 @@ zolotarev:86:one-dimensional
      year          = {1986}
    }
 
+`Link to Source <https://doi.org/10.1090/mmono/065},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

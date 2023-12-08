@@ -23,4 +23,7 @@ stewartson.stuart:71:non-linear
      year          = {1971}
    }
 
+`Link to Source <https://doi.org/10.1017/S0022112071001733},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

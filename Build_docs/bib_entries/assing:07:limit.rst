@@ -24,4 +24,7 @@ assing:07:limit
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2006.10.005},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

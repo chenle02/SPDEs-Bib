@@ -24,4 +24,7 @@ carlen.lieb.ea:04:sharp
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02922101},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

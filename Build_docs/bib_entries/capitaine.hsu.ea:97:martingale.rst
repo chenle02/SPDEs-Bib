@@ -23,4 +23,7 @@ capitaine.hsu.ea:97:martingale
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1214/ECP.v2-986},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

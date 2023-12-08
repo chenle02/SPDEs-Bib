@@ -24,4 +24,7 @@ bourgain.rudnick:12:restriction
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/s00039-012-0186-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

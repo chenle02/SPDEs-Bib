@@ -24,4 +24,7 @@ aidekon.shi:14:seneta-heyde
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1214/12-AOP809},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

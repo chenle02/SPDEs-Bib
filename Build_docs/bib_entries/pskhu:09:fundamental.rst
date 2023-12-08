@@ -24,4 +24,7 @@ pskhu:09:fundamental
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1070/IM2009v073n02ABEH002450},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

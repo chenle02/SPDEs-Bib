@@ -24,4 +24,7 @@ khoshnevisan.shieh.ea:08:hausdorff
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-007-0060-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

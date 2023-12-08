@@ -24,4 +24,7 @@ bolthausen.deuschel.ea:01:entropic
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1015345767},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

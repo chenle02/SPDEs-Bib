@@ -24,4 +24,7 @@ chow:02:stochastic
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1214/aoap/1015961168},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

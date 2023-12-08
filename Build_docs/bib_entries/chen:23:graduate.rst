@@ -18,4 +18,7 @@ chen:23:graduate
      year          = {2023}
    }
 
+`Link to Source <https://github.com/chenle02/Graduate\_Student\_Seminars\_by\_Le\_Chen},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

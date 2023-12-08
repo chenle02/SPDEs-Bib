@@ -24,4 +24,7 @@ mohammed.zhang:13:anticipating
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2013.01.002},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

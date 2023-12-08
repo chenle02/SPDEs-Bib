@@ -24,4 +24,7 @@ bolthausen.ioffe:97:harmonic
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200050148},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

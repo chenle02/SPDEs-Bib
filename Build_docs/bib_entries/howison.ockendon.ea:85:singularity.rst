@@ -24,4 +24,7 @@ howison.ockendon.ea:85:singularity
      year          = {1985}
    }
 
+`Link to Source <https://doi.org/10.1093/qjmam/38.3.343},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ nourdin.peccati.ea:11:quantitative
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2010.12.006},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

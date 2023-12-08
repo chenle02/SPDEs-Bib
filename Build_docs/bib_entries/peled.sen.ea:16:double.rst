@@ -24,4 +24,7 @@ peled.sen.ea:16:double
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1007/s11856-016-1328-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ kevorkian:00:partial
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4757-3266-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

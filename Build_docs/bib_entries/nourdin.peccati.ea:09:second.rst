@@ -24,4 +24,7 @@ nourdin.peccati.ea:09:second
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2008.12.017},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ aizenman:82:geometric
      year          = {1982}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1103921614},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

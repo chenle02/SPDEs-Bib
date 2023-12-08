@@ -24,4 +24,7 @@ panchenko:13:parisi
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.4007/annals.2013.177.1.8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

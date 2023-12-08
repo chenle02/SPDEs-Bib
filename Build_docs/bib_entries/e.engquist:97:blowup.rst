@@ -24,4 +24,7 @@ e.engquist:97:blowup
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1002/(SICI)1097-0312(199712)50:12<1287::AID-CPA4>3.0.CO;2-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

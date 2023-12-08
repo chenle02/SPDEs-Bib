@@ -24,4 +24,7 @@ bourguin.nourdin:20:freeness
      year          = {2020}
    }
 
+`Link to Source <https://doi.org/10.2140/pjm.2020.305.447},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

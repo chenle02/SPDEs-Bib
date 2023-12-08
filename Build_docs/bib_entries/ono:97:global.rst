@@ -24,4 +24,7 @@ ono:97:global
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1006/jdeq.1997.3263},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

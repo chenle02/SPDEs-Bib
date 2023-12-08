@@ -24,4 +24,7 @@ chen.matano:89:convergence
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.1016/0022-0396(89)90081-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

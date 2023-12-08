@@ -24,4 +24,7 @@ mytnik:98:collision
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1023/A:1022606715641},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

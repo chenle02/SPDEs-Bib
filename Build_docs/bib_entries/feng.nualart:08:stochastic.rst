@@ -24,4 +24,7 @@ feng.nualart:08:stochastic
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2008.02.004},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

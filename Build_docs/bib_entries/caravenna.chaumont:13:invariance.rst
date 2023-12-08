@@ -22,4 +22,7 @@ caravenna.chaumont:13:invariance
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v18-2362},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

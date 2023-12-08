@@ -24,4 +24,7 @@ dong.xiong.ea:17:moderate
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2016.10.012},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

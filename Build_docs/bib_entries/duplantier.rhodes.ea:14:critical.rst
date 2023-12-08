@@ -23,4 +23,7 @@ duplantier.rhodes.ea:14:critical
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1214/13-AOP890},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

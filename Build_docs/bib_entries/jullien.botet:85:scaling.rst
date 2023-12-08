@@ -20,4 +20,7 @@ jullien.botet:85:scaling
      year          = {1985}
    }
 
+`Link to Source <https://dx.doi.org/10.1088/0305-4470/18/12/026},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

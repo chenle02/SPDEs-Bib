@@ -23,4 +23,7 @@ wilson:85:on
      year          = {1985}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.pjm/1102707257},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

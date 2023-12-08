@@ -23,4 +23,7 @@ kupiainen.marcozzi:17:renormalization
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-016-1636-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

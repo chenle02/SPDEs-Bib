@@ -24,4 +24,7 @@ duplantier.rhodes.ea:14:renormalization
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-014-2000-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

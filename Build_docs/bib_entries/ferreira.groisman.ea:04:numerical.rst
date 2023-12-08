@@ -23,4 +23,7 @@ ferreira.groisman.ea:04:numerical
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1002/num.10103},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

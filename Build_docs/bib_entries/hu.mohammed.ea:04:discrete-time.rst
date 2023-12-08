@@ -24,4 +24,7 @@ hu.mohammed.ea:04:discrete-time
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1078415836},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ chen:17:acknowledgment
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-015-0649-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

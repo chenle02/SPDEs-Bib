@@ -24,4 +24,7 @@ hairer.stuart.ea:14:spectral
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1214/13-AAP982},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

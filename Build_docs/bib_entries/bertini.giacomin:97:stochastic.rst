@@ -24,4 +24,7 @@ bertini.giacomin:97:stochastic
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200050044},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

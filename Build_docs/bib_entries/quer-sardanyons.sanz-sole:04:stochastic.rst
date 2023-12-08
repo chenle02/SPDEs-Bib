@@ -24,4 +24,7 @@ quer-sardanyons.sanz-sole:04:stochastic
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.3150/bj/1077544607},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

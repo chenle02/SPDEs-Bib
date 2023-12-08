@@ -24,4 +24,7 @@ barlow:04:random
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1214/009117904000000748},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

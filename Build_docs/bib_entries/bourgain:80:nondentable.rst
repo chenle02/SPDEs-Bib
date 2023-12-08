@@ -24,4 +24,7 @@ bourgain:80:nondentable
      year          = {1980}
    }
 
+`Link to Source <https://doi.org/10.4064/sm-68-2-131-139},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

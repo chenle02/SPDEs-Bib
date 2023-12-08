@@ -23,4 +23,7 @@ dimitrienko:11:nonlinear
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/978-94-007-0034-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

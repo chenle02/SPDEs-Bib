@@ -24,4 +24,7 @@ leon.nualart:00:anticipating
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1023/A:1008721318212},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

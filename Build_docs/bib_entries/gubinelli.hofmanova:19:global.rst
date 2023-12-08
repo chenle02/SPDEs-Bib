@@ -24,4 +24,7 @@ gubinelli.hofmanova:19:global
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-019-03398-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

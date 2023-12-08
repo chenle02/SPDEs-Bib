@@ -24,4 +24,7 @@ sanz-sole:08:properties
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2008.04.004},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

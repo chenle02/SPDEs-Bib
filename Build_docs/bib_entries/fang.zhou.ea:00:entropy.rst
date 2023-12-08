@@ -23,4 +23,7 @@ fang.zhou.ea:00:entropy
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1080/095003400147656},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

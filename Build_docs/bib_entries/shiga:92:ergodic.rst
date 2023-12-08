@@ -23,4 +23,7 @@ shiga:92:ergodic
      year          = {1992}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.ojm/1200784090},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

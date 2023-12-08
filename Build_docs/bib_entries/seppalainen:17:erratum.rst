@@ -23,4 +23,7 @@ seppalainen:17:erratum
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1214/16-AOP1096},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

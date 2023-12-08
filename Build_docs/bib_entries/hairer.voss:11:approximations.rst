@@ -24,4 +24,7 @@ hairer.voss:11:approximations
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s00332-011-9104-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

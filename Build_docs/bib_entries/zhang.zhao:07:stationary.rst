@@ -24,4 +24,7 @@ zhang.zhao:07:stationary
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2007.06.019},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

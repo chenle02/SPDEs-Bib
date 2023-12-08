@@ -24,4 +24,7 @@ binder.makarov.ea:03:harmonic
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1215/S0012-7094-03-11725-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

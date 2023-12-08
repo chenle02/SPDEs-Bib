@@ -22,4 +22,7 @@ neveu:88:multiplicative
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4684-0550-7\_10},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

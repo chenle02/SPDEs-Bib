@@ -24,4 +24,7 @@ chen:97:moderate
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1016/S0167-7152(97)00005-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

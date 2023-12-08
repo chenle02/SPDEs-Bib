@@ -24,4 +24,7 @@ hairer.pardoux:08:homogenization
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2008.04.014},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

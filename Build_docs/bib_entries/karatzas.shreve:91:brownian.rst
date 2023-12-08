@@ -23,4 +23,7 @@ karatzas.shreve:91:brownian
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1007/978-1-4612-0949-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

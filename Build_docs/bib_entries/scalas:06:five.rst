@@ -22,4 +22,7 @@ scalas:06:five
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1007/3-540-28727-2\_1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

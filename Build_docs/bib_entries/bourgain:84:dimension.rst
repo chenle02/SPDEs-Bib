@@ -24,4 +24,7 @@ bourgain:84:dimension
      year          = {1984}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02760630},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

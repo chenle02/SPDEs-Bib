@@ -24,4 +24,7 @@ nourdin.peccati.ea:10:multivariate
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1214/08-AIHP308},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

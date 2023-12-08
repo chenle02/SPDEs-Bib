@@ -24,4 +24,7 @@ nualart.tindel:97:quasilinear
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1023/A:1008644503806},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

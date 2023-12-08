@@ -23,4 +23,7 @@ gu.bal:12:random
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jde.2012.05.007},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

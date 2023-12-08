@@ -24,4 +24,7 @@ chen:00:chungs
      year          = {2000}
    }
 
+`Link to Source <https://doi.org/10.1016/S0167-7152(99)00163-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ darses.nourdin:07:stochastic
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1214/009117906000001169},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ friedland.rider.ea:04:concentration
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1214/105051604000000396},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

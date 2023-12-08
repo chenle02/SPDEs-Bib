@@ -23,4 +23,7 @@ bouleau.hirsch:86:proprietes
      year          = {1986}
    }
 
+`Link to Source <https://doi.org/10.1007/BFb0075717},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

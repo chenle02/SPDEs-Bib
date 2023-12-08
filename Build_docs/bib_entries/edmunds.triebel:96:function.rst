@@ -23,4 +23,7 @@ edmunds.triebel:96:function
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1017/CBO9780511662201},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

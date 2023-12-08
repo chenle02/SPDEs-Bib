@@ -24,4 +24,7 @@ assing:01:infinite-dimensional
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1007/PL00008778},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

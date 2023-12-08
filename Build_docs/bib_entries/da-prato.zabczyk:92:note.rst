@@ -24,4 +24,7 @@ da-prato.zabczyk:92:note
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1080/07362999208809260},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

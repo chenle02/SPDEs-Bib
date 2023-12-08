@@ -24,4 +24,7 @@ bourgain:07:sum-product
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1016/j.crma.2007.01.019},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

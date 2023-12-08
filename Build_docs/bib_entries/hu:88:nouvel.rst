@@ -23,4 +23,7 @@ hu:88:nouvel
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1007/BFb0084120},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

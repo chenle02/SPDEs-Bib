@@ -24,4 +24,7 @@ bourgain.chang:17:nonlinear
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1007/s11856-017-1577-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

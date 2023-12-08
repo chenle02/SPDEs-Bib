@@ -23,4 +23,7 @@ seppalainen:95:entropy
      year          = {1995}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104273563},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

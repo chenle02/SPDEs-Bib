@@ -24,4 +24,7 @@ mueller.mytnik.ea:06:heat
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2005.08.001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

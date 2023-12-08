@@ -24,4 +24,7 @@ bourgain:93:fourier
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01895688},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -18,4 +18,7 @@ chen:23:some
      year          = {2023}
    }
 
+`Link to Source <https://github.com/chenle02/Fox-H\_Symbolic\_Tools},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

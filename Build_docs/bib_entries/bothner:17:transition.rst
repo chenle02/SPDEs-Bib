@@ -24,4 +24,7 @@ bothner:17:transition
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1215/00127094-3714650},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

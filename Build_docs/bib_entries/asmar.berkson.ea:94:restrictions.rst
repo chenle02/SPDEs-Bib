@@ -24,4 +24,7 @@ asmar.berkson.ea:94:restrictions
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.4064/sm-108-3-291-299},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

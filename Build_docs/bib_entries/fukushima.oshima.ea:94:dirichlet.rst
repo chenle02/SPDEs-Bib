@@ -23,4 +23,7 @@ fukushima.oshima.ea:94:dirichlet
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1515/9783110889741},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

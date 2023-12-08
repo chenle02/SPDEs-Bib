@@ -24,4 +24,7 @@ bourgain.wang:08:quasi-periodic
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.4171/JEMS/102},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

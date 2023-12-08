@@ -25,4 +25,7 @@ talagrand:02:gaussian
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1002/rsa.10059},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

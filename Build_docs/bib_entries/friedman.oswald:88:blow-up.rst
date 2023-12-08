@@ -24,4 +24,7 @@ friedman.oswald:88:blow-up
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.2307/2000968},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

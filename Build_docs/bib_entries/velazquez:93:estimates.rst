@@ -24,4 +24,7 @@ velazquez:93:estimates
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1512/iumj.1993.42.42021},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

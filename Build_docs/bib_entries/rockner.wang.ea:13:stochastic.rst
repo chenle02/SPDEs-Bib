@@ -24,4 +24,7 @@ rockner.wang.ea:13:stochastic
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2013.06.003},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

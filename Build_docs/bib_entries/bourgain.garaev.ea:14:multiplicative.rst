@@ -23,4 +23,7 @@ bourgain.garaev.ea:14:multiplicative
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s11854-014-0029-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

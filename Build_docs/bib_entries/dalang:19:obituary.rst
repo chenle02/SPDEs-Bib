@@ -23,4 +23,7 @@ dalang:19:obituary
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1016/j.exmath.2019.05.002},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

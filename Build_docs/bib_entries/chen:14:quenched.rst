@@ -24,4 +24,7 @@ chen:14:quenched
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1214/12-AOP830},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

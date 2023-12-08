@@ -23,4 +23,7 @@ sasamoto.spohn:10:exact
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1016/j.nuclphysb.2010.03.026},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

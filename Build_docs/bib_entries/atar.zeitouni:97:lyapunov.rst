@@ -24,4 +24,7 @@ atar.zeitouni:97:lyapunov
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1137/S0363012994272046},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

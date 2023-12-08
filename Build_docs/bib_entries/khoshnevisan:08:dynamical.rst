@@ -24,4 +24,7 @@ khoshnevisan:08:dynamical
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-007-0061-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

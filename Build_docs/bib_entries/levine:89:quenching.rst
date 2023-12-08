@@ -23,4 +23,7 @@ levine:89:quenching
      year          = {1989}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01765943},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

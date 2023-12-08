@@ -24,4 +24,7 @@ bourgain.pavlovic:08:ill-posedness
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2008.07.008},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

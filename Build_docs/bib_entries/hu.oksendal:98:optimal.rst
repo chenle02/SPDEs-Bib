@@ -24,4 +24,7 @@ hu.oksendal:98:optimal
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1007/s007800050042},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

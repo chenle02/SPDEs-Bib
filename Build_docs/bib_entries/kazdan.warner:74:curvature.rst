@@ -23,4 +23,7 @@ kazdan.warner:74:curvature
      year          = {1974}
    }
 
+`Link to Source <https://doi.org/10.2307/1971012},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

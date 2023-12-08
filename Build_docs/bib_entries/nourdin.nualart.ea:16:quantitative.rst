@@ -24,4 +24,7 @@ nourdin.nualart.ea:16:quantitative
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1214/14-AOP965},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

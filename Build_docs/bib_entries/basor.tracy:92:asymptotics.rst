@@ -23,4 +23,7 @@ basor.tracy:92:asymptotics
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1142/s0217751x92003732},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

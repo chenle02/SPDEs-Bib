@@ -25,4 +25,7 @@ mohammed.zhang.ea:08:stable
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1090/memo/0917},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ angenent.velazquez:97:degenerate
      year          = {1997}
    }
 
+`Link to Source <https://doi.org/10.1515/crll.1997.482.15},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

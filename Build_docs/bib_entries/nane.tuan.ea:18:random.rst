@@ -22,4 +22,7 @@ nane.tuan.ea:18:random
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2017.08.014},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ bourgain.demeter:17:decouplings
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1007/s11854-017-0034-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

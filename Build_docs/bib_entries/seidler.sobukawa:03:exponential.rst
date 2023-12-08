@@ -24,4 +24,7 @@ seidler.sobukawa:03:exponential
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1112/S0024610702003745},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

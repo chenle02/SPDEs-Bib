@@ -23,4 +23,7 @@ ouyang:17:multiplicative
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-319-59671-6\_3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

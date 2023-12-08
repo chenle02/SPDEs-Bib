@@ -24,4 +24,7 @@ liu:96:existence
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1512/iumj.1996.45.1121},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ bourgain:79:sets
      year          = {1979/80}
    }
 
+`Link to Source <https://doi.org/10.4064/sm-66-3-291-297},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

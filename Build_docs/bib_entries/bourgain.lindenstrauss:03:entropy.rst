@@ -24,4 +24,7 @@ bourgain.lindenstrauss:03:entropy
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-002-0770-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

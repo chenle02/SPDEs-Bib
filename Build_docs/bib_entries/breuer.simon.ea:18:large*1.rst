@@ -24,4 +24,7 @@ breuer.simon.ea:18:large*1
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1215/00127094-2018-0027},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

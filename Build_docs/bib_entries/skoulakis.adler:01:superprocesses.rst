@@ -24,4 +24,7 @@ skoulakis.adler:01:superprocesses
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1214/aoap/1015345302},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

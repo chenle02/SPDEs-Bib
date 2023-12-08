@@ -24,4 +24,7 @@ temple.tracy:92:from
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.2307/2324058},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

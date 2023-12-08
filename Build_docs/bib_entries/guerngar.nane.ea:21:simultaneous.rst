@@ -23,4 +23,7 @@ guerngar.nane.ea:21:simultaneous
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1515/fca-2021-0035},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ duncan.nualart:09:existence
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1142/S0219493709002725},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

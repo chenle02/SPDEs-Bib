@@ -24,4 +24,7 @@ borodin.corwin:14:macdonald*1
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-013-0482-3},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

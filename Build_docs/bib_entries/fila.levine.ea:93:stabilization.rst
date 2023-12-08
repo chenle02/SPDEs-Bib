@@ -24,4 +24,7 @@ fila.levine.ea:93:stabilization
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.2307/2159940},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

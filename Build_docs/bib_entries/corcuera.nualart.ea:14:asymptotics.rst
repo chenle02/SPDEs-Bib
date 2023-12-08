@@ -23,4 +23,7 @@ corcuera.nualart.ea:14:asymptotics
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1685/journal.caim.486},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

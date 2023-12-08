@@ -21,4 +21,7 @@ biswas.cherayil:95:dynamics
      year          = {1995}
    }
 
+`Link to Source <https://doi.org/10.1021/j100002a052},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ labbe:19:continuous
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2019.05.027},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

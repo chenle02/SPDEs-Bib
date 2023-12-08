@@ -24,4 +24,7 @@ cerrai.lunardi:17:averaging
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1137/16M1063307},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

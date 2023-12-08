@@ -24,4 +24,7 @@ heydenreich.hofstad.ea:08:mean-field
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-008-9580-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

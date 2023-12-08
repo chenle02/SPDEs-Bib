@@ -24,4 +24,7 @@ cerrai.lunardi:19:schauder
      year          = {2019}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jde.2019.08.005},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

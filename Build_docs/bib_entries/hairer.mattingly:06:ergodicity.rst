@@ -24,4 +24,7 @@ hairer.mattingly:06:ergodicity
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.4007/annals.2006.164.993},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

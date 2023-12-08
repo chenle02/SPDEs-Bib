@@ -24,4 +24,7 @@ bardina.rovira.ea:03:onsager
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1081/SAP-120026105},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

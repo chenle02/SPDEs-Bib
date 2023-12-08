@@ -24,4 +24,7 @@ vazquez:99:domain
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1512/iumj.1999.48.1581},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ mytnik:99:uniqueness
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.4153/CJM-1999-019-x},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

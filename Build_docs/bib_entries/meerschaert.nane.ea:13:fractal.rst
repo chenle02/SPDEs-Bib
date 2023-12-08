@@ -24,4 +24,7 @@ meerschaert.nane.ea:13:fractal
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2013.01.001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

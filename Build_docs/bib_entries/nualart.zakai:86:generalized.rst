@@ -24,4 +24,7 @@ nualart.zakai:86:generalized
      year          = {1986}
    }
 
+`Link to Source <https://doi.org/10.1007/BF00339940},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

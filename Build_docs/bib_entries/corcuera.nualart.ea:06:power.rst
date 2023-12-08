@@ -24,4 +24,7 @@ corcuera.nualart.ea:06:power
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.3150/bj/1155735933},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ bauerschmidt.slade.ea:17:finite-order
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1007/s00023-016-0499-0},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

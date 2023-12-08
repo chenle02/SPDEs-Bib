@@ -24,4 +24,7 @@ corcuera.nualart.ea:09:convergence
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-008-0158-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

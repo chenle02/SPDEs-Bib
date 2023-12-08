@@ -24,4 +24,7 @@ dalang.mueller.ea:06:hitting
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1214/009117905000000792},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

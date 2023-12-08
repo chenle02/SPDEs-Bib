@@ -24,4 +24,7 @@ gubser.klebanov:94:modified
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1016/0370-2693(94)91294-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

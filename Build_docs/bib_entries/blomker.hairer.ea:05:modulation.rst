@@ -24,4 +24,7 @@ blomker.hairer.ea:05:modulation
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-005-1368-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ hu.kallianpur.ea:02:approximation
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1007/s00245-001-0024-8},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -21,4 +21,7 @@ kurtz:11:equivalence
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-642-15358-7\_6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

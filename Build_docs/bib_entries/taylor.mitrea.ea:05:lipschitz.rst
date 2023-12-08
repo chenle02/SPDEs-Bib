@@ -24,4 +24,7 @@ taylor.mitrea.ea:05:lipschitz
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1080/03605300500299547},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

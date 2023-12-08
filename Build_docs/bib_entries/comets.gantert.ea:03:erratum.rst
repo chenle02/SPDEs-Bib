@@ -23,4 +23,7 @@ comets.gantert.ea:03:erratum
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-002-0234-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

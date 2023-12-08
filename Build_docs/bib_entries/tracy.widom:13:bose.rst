@@ -24,4 +24,7 @@ tracy.widom:13:bose
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-012-0686-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

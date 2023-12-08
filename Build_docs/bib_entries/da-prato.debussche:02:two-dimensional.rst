@@ -24,4 +24,7 @@ da-prato.debussche:02:two-dimensional
      year          = {2002}
    }
 
+`Link to Source <https://doi.org/10.1006/jfan.2002.3919},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

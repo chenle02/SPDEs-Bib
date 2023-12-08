@@ -23,4 +23,7 @@ bertini.cancrini:98:two-dimensional
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1088/0305-4470/31/2/019},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

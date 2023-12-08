@@ -22,4 +22,7 @@ moreno-flores.seppalainen.ea:14:fluctuation
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v19-3307},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

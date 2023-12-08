@@ -24,4 +24,7 @@ nualart.tindel:98:on
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1016/S0007-4497(98)80173-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

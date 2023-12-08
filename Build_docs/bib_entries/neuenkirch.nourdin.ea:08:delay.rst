@@ -22,4 +22,7 @@ neuenkirch.nourdin.ea:08:delay
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v13-575},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

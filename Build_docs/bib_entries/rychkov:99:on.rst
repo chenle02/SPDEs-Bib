@@ -24,4 +24,7 @@ rychkov:99:on
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1112/S0024610799007723},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

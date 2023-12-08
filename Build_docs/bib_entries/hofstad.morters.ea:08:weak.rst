@@ -23,4 +23,7 @@ hofstad.morters.ea:08:weak
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1214/08-AAP526},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

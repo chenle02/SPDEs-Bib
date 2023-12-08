@@ -24,4 +24,7 @@ merzbach.nualart:85:different
      year          = {1985}
    }
 
+`Link to Source <https://doi.org/10.1007/BF02786515},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

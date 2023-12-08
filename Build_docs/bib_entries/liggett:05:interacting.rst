@@ -23,4 +23,7 @@ liggett:05:interacting
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1007/b138374},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

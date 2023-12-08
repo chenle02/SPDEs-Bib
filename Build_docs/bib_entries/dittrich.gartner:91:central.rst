@@ -23,4 +23,7 @@ dittrich.gartner:91:central
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1002/mana.19911510107},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

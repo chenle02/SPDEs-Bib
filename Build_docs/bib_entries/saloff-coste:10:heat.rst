@@ -23,4 +23,7 @@ saloff-coste:10:heat
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.2969/aspm/05710405},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ burdzy.mueller.ea:10:nonuniqueness
      year          = {2010}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.ijm/1348505538},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

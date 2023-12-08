@@ -22,4 +22,7 @@ yi.hu.ea:21:positivity
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.1016/j.cnsns.2021.105895},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

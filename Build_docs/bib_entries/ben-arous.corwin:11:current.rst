@@ -24,4 +24,7 @@ ben-arous.corwin:11:current
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1214/10-AOP550},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

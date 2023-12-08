@@ -23,4 +23,7 @@ jain.mathur:92:world-sheet
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1016/0370-2693(92)91769-6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

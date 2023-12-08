@@ -24,4 +24,7 @@ palais:88:blowup
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1002/cpa.3160410204},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

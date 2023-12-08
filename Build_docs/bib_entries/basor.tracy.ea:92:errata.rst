@@ -23,4 +23,7 @@ basor.tracy.ea:92:errata
      year          = {1992}
    }
 
+`Link to Source <https://doi.org/10.1103/PhysRevLett.69.2880},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

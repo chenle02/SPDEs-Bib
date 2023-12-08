@@ -24,4 +24,7 @@ adler:77:hausdorff
      year          = {1977}
    }
 
+`Link to Source <https://doi.org/10.1214/aop/1176995900},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

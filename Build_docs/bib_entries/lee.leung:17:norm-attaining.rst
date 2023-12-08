@@ -24,4 +24,7 @@ lee.leung:17:norm-attaining
      year          = {2017}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jmaa.2016.07.063},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

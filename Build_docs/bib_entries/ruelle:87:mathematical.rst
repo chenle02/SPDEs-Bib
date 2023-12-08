@@ -23,4 +23,7 @@ ruelle:87:mathematical
      year          = {1987}
    }
 
+`Link to Source <http://projecteuclid.org/euclid.cmp/1104116461},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ ikhlef.cardy:09:discretely
      year          = {2009}
    }
 
+`Link to Source <https://doi.org/10.1088/1751-8113/42/10/102001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

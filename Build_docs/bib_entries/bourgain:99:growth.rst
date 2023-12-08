@@ -24,4 +24,7 @@ bourgain:99:growth
      year          = {1999}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200050644},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

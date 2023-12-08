@@ -24,4 +24,7 @@ brydges.mitter.ea:03:critical
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1007/s00220-003-0895-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ bolthausen.sznitman:98:on
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1007/s002200050450},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

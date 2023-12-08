@@ -23,4 +23,7 @@ sokolov.klafter:05:from
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1063/1.1860472},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

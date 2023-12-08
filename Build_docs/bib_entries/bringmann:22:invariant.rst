@@ -23,4 +23,7 @@ bringmann:22:invariant
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1007/s40072-021-00193-y},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

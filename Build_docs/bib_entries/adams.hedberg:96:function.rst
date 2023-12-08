@@ -23,4 +23,7 @@ adams.hedberg:96:function
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-662-03282-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

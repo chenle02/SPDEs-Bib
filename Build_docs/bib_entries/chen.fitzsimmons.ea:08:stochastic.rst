@@ -24,4 +24,7 @@ chen.fitzsimmons.ea:08:stochastic
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1214/07-AOP347},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

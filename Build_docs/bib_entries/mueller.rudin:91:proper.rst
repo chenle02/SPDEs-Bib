@@ -24,4 +24,7 @@ mueller.rudin:91:proper
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1080/17476939108814502},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

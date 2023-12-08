@@ -24,4 +24,7 @@ nualart:13:on
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1080/17442508.2011.653567},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

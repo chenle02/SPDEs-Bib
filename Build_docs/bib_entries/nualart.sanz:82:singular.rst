@@ -24,4 +24,7 @@ nualart.sanz:82:singular
      year          = {1982}
    }
 
+`Link to Source <https://doi.org/10.2307/2044413},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ chen.dalang:15:moments*1
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1214/14-AOP954},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

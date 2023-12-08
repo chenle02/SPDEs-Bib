@@ -24,4 +24,7 @@ andreoletti.diel:11:limit
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s10959-010-0314-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ shi:15:branching
      year          = {2015}
    }
 
+`Link to Source <https://doi.org/10.1007/978-3-319-25372-5},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

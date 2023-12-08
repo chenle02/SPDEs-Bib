@@ -24,4 +24,7 @@ baudoin.hairer.ea:08:ornstein-uhlenbeck
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jfa.2008.05.004},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ gu.komorowski:22:high
      year          = {2022}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-022-02899-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ tracy.widom:13:on*1
      year          = {2013}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-012-0531-9},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

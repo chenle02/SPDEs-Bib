@@ -24,4 +24,7 @@ khoshnevisan.schilling.ea:12:packing
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1112/blms/bds022},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

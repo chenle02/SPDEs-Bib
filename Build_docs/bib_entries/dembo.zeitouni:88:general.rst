@@ -23,4 +23,7 @@ dembo.zeitouni:88:general
      year          = {1988}
    }
 
+`Link to Source <https://doi.org/10.1103/PhysRevA.37.2134},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

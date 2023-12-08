@@ -23,4 +23,7 @@ corcuera.nualart.ea:05:completion
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1007/s00780-004-0139-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

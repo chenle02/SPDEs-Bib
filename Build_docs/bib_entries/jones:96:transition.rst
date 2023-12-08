@@ -24,4 +24,7 @@ jones:96:transition
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1016/0304-4149(95)00074-7},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

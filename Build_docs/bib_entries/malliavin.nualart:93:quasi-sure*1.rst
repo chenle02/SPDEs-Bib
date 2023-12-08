@@ -24,4 +24,7 @@ malliavin.nualart:93:quasi-sure*1
      year          = {1993}
    }
 
+`Link to Source <https://doi.org/10.1006/jfan.1993.1034},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

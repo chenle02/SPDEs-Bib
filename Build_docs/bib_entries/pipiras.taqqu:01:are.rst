@@ -24,4 +24,7 @@ pipiras.taqqu:01:are
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.2307/3318624},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

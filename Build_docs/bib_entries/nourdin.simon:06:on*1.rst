@@ -24,4 +24,7 @@ nourdin.simon:06:on*1
      year          = {2006}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2005.10.021},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

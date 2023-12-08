@@ -24,4 +24,7 @@ hu.nualart:05:renormalized
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1214/009117905000000017},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

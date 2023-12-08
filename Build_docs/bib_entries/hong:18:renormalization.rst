@@ -21,4 +21,7 @@ hong:18:renormalization
      year          = {2018}
    }
 
+`Link to Source <https://doi.org/10.1214/18-ejp231},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

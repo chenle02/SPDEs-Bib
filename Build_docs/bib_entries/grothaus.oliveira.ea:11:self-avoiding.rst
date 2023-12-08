@@ -24,4 +24,7 @@ grothaus.oliveira.ea:11:self-avoiding
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s10955-011-0344-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

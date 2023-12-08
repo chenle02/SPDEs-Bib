@@ -24,4 +24,7 @@ bramson.ding.ea:16:convergence
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1002/cpa.21621},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

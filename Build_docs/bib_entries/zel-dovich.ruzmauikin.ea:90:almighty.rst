@@ -24,4 +24,7 @@ zel-dovich.ruzmauikin.ea:90:almighty
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1142/9789812799197},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

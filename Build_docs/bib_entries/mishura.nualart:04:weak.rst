@@ -24,4 +24,7 @@ mishura.nualart:04:weak
      year          = {2004}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spl.2004.10.011},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -23,4 +23,7 @@ albeverio.molchanov.ea:94:stratified
      year          = {1994}
    }
 
+`Link to Source <https://doi.org/10.1007/BF01268990},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

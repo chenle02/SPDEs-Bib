@@ -24,4 +24,7 @@ dovidio.nane:14:time
      year          = {2014}
    }
 
+`Link to Source <https://doi.org/10.1016/j.spa.2014.02.001},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

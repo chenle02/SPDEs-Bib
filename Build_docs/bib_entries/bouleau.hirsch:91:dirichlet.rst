@@ -23,4 +23,7 @@ bouleau.hirsch:91:dirichlet
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1515/9783110858389},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

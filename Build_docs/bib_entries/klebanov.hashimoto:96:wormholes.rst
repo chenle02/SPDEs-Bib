@@ -24,4 +24,7 @@ klebanov.hashimoto:96:wormholes
      year          = {1996}
    }
 
+`Link to Source <https://doi.org/10.1016/0920-5632(95)00631-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

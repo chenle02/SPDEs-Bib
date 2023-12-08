@@ -24,4 +24,7 @@ fasano.primicerio.ea:90:some
      year          = {1990}
    }
 
+`Link to Source <https://doi.org/10.1090/qam/1040239},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

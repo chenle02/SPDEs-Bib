@@ -24,4 +24,7 @@ armstrong.zeitouni:16:local
      year          = {2016}
    }
 
+`Link to Source <https://doi.org/10.1214/15-AAP1123},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

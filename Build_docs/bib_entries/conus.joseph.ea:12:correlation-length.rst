@@ -22,4 +22,7 @@ conus.joseph.ea:12:correlation-length
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1214/EJP.v17-2429},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

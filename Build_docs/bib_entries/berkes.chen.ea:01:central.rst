@@ -23,4 +23,7 @@ berkes.chen.ea:01:central
      year          = {2001}
    }
 
+`Link to Source <https://doi.org/10.1556/SScMath.38.2001.1-4.6},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ pal:12:concentration
      year          = {2012}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-011-0368-1},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

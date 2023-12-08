@@ -24,4 +24,7 @@ bourgain.gamburd:10:spectral
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1016/j.crma.2010.04.024},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

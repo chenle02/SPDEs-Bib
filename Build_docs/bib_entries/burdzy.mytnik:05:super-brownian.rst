@@ -24,4 +24,7 @@ burdzy.mytnik:05:super-brownian
      year          = {2005}
    }
 
+`Link to Source <https://doi.org/10.1007/s00440-004-0413-4},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

@@ -24,4 +24,7 @@ leon.navarro.ea:03:anticipating
      year          = {2003}
    }
 
+`Link to Source <https://doi.org/10.1111/1467-9965.00012},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

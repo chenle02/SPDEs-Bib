@@ -23,4 +23,7 @@ mytnik.shlomov:21:general
      year          = {2021}
    }
 
+`Link to Source <https://doi.org/10.30757/alea.v18-02},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

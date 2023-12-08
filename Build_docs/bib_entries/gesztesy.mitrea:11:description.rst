@@ -22,4 +22,7 @@ gesztesy.mitrea:11:description
      year          = {2011}
    }
 
+`Link to Source <https://doi.org/10.1007/s11854-011-0002-2},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

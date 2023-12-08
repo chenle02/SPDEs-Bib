@@ -20,4 +20,7 @@ hairer.manson:10:periodic*1
      year          = {2010}
    }
 
+`Link to Source <https://doi.org/10.1142/9789814313179\_0053},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

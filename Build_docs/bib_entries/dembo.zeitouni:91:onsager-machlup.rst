@@ -24,4 +24,7 @@ dembo.zeitouni:91:onsager-machlup
      year          = {1991}
    }
 
+`Link to Source <https://doi.org/10.1016/0047-259X(91)90060-F},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

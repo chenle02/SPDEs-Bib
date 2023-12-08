@@ -24,4 +24,7 @@ hairer.stuart.ea:07:analysis
      year          = {2007}
    }
 
+`Link to Source <https://doi.org/10.1214/07-AAP441},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

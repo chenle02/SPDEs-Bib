@@ -24,4 +24,7 @@ hu.kallianpur:98:exponential
      year          = {1998}
    }
 
+`Link to Source <https://doi.org/10.1007/s002459900078},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_

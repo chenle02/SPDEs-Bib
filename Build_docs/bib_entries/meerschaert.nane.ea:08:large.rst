@@ -24,4 +24,7 @@ meerschaert.nane.ea:08:large
      year          = {2008}
    }
 
+`Link to Source <https://doi.org/10.1016/j.jmaa.2008.05.087},>`_
+
+
 `Back to index <../By-Cite-Keys.html>`_
