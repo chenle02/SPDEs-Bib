@@ -21,13 +21,9 @@ Contents
    Introduction
    Contact
    By-Cite-Keys
+   Bibliography
 
-Bibliography
-------------
-
-.. bibliography:: ../All.bib
-
-Indices and tables
-==================
+Search
+------
 
 * :ref:`search`
