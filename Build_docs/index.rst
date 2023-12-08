@@ -6,13 +6,11 @@
 Welcome to SPDEs-Bib's documentation!
 =====================================
 
-.. image:: ../SPDE-Logo.png
+.. image:: ../SPDE-Logo_small.png
    :alt: Statistics of the SPDEs-Bib
-   :width: 300px
+   :width: 120px
    :align: center
 
-Contents
---------
 
 .. toctree::
    :maxdepth: 3
