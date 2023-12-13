@@ -9,21 +9,21 @@ balan.tudor:10:stochastic
 
    @article{balan.tudor:10:stochastic,
     author = {Balan, Raluca M. and Tudor, Ciprian A.},
-    doi = {10.1016/j.spa.2010.08.006},
-    fjournal = {Stochastic Processes and their Applications},
-    issn = {0304-4149},
-    journal = {Stochastic Process. Appl.},
-    mrclass = {60H15 (60G60 60H05)},
-    mrnumber = {2728174},
-    mrreviewer = {Llu\'{i}s Quer-Sardanyons},
-    number = {12},
-    pages = {2468--2494},
-    title = {The stochastic wave equation with fractional noise: a random field approach},
-    url = {https://doi.org/10.1016/j.spa.2010.08.006},
-    volume = {120},
+    doi = {10.1007/s10959-009-0237-3},
+    fjournal = {Journal of Theoretical Probability},
+    issn = {0894-9840},
+    journal = {J. Theoret. Probab.},
+    mrclass = {60H15 (60G22 60H05)},
+    mrnumber = {2679959},
+    mrreviewer = {David Nualart},
+    number = {3},
+    pages = {834--870},
+    title = {Stochastic heat equation with multiplicative fractional-colored noise},
+    url = {https://doi.org/10.1007/s10959-009-0237-3},
+    volume = {23},
     year = {2010}
    }
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2010.08.006}>`_
+`The URL link to the source <ttps://doi.org/10.1007/s10959-009-0237-3}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_
