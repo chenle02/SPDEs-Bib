@@ -8,22 +8,22 @@ bogachev.kosov.ea:15:two
 .. code-block:: bibtex
 
    @article{bogachev.kosov.ea:15:two,
-     author        = {Bogachev, V. I. and Kosov, E. D. and Nourdin, I. and Poly, G.},
-     doi           = {10.1137/S0040585X97T987041},
-     fjournal      = {Theory of Probability and its Applications},
-     issn          = {0040-585X},
-     journal       = {Theory Probab. Appl.},
-     mrclass       = {60G15 (60F05 60H07)},
-     mrnumber      = {3416047},
-     mrreviewer    = {Peter Parczewski},
-     number        = {2},
-     pages         = {208--221},
-     title         = {Two properties of vectors of quadratic forms in {G}aussian random variables},
-     url           = {https://doi.org/10.1137/S0040585X97T987041},
-     volume        = {59},
-     year          = {2015}
+    author = {Bogachev, V. I. and Kosov, E. D. and Nourdin, I. and Poly, G.},
+    doi = {10.1137/S0040585X97T987041},
+    fjournal = {Theory of Probability and its Applications},
+    issn = {0040-585X},
+    journal = {Theory Probab. Appl.},
+    mrclass = {60G15 (60F05 60H07)},
+    mrnumber = {3416047},
+    mrreviewer = {Peter Parczewski},
+    number = {2},
+    pages = {208--221},
+    title = {Two properties of vectors of quadratic forms in {G}aussian random variables},
+    url = {https://doi.org/10.1137/S0040585X97T987041},
+    volume = {59},
+    year = {2015}
    }
-`The URL link to the source <https://doi.org/10.1137/S0040585X97T987041>`_
+`The URL link to the source <ttps://doi.org/10.1137/S0040585X97T987041}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

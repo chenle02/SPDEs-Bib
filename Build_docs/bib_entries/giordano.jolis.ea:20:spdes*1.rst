@@ -8,21 +8,21 @@ giordano.jolis.ea:20:spdes*1
 .. code-block:: bibtex
 
    @article{giordano.jolis.ea:20:spdes*1,
-     author        = {Giordano, Luca M. and Jolis, Maria and Quer-Sardanyons, Llu\'{i}s},
-     doi           = {10.1016/j.spa.2020.08.001},
-     fjournal      = {Stochastic Processes and their Applications},
-     issn          = {0304-4149},
-     journal       = {Stochastic Process. Appl.},
-     mrclass       = {60B10 (60G22 60H07 60H15)},
-     mrnumber      = {4167210},
-     number        = {12},
-     pages         = {7396--7430},
-     title         = {S{PDE}s with linear multiplicative fractional noise: continuity in law with respect to the {H}urst index},
-     url           = {https://doi.org/10.1016/j.spa.2020.08.001},
-     volume        = {130},
-     year          = {2020}
+    author = {Giordano, Luca M. and Jolis, Maria and Quer-Sardanyons, Llu\'{i}s},
+    doi = {10.1016/j.spa.2020.08.001},
+    fjournal = {Stochastic Processes and their Applications},
+    issn = {0304-4149},
+    journal = {Stochastic Process. Appl.},
+    mrclass = {60B10 (60G22 60H07 60H15)},
+    mrnumber = {4167210},
+    number = {12},
+    pages = {7396--7430},
+    title = {S{PDE}s with linear multiplicative fractional noise: continuity in law with respect to the {H}urst index},
+    url = {https://doi.org/10.1016/j.spa.2020.08.001},
+    volume = {130},
+    year = {2020}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2020.08.001>`_
+`The URL link to the source <ttps://doi.org/10.1016/j.spa.2020.08.001}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

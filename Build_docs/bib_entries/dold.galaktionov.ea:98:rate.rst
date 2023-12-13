@@ -8,21 +8,21 @@ dold.galaktionov.ea:98:rate
 .. code-block:: bibtex
 
    @article{dold.galaktionov.ea:98:rate,
-     author        = {Dold, J. W. and Galaktionov, V. A. and Lacey, A. A. and V\'{a}zquez, J. L.},
-     fjournal      = {Annali della Scuola Normale Superiore di Pisa. Classe di Scienze. Serie IV},
-     issn          = {0391-173X},
-     journal       = {Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4)},
-     mrclass       = {35K57 (35K65)},
-     mrnumber      = {1648562},
-     mrreviewer    = {Andreas Unterreiter},
-     number        = {4},
-     pages         = {663--687},
-     title         = {Rate of approach to a singular steady state in quasilinear reaction-diffusion equations},
-     url           = {http://www.numdam.org/item?id=ASNSP\_1998\_4\_26\_4\_663\_0},
-     volume        = {26},
-     year          = {1998}
+    author = {Dold, J. W. and Galaktionov, V. A. and Lacey, A. A. and V\'{a}zquez, J. L.},
+    fjournal = {Annali della Scuola Normale Superiore di Pisa. Classe di Scienze. Serie IV},
+    issn = {0391-173X},
+    journal = {Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4)},
+    mrclass = {35K57 (35K65)},
+    mrnumber = {1648562},
+    mrreviewer = {Andreas Unterreiter},
+    number = {4},
+    pages = {663--687},
+    title = {Rate of approach to a singular steady state in quasilinear reaction-diffusion equations},
+    url = {http://www.numdam.org/item?id=ASNSP_1998_4_26_4_663_0},
+    volume = {26},
+    year = {1998}
    }
-`The URL link to the source <http://www.numdam.org/item?id=ASNSP\_1998\_4\_26\_4\_663\_0>`_
+`The URL link to the source <ttp://www.numdam.org/item?id=ASNSP_1998_4_26_4_663_0}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

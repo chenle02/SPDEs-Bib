@@ -8,14 +8,14 @@ chen.kuzgun.ea:23:on
 .. code-block:: bibtex
 
    @article{chen.kuzgun.ea:23:on,
-     author        = {Le Chen and Sefika Kuzgun and Carl Mueller and Panqiu Xia},
-     journal       = {preprint arXiv:2308.10889},
-     month         = {August},
-     title         = {On the radius of self-repellent fractional Brownian motion},
-     url           = {http://arXiv.org/abs/2308.10889},
-     year          = {2023}
+    author = {Le Chen and Sefika Kuzgun and Carl Mueller and Panqiu Xia},
+    journal = {preprint arXiv:2308.10889},
+    month = {August},
+    title = {On the radius of self-repellent fractional Brownian motion},
+    url = {http://arXiv.org/abs/2308.10889},
+    year = {2023}
    }
-`The URL link to the source <http://arXiv.org/abs/2308.10889>`_
+`The URL link to the source <ttp://arXiv.org/abs/2308.10889}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

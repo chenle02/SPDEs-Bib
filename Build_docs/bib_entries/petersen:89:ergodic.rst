@@ -8,18 +8,18 @@ petersen:89:ergodic
 .. code-block:: bibtex
 
    @book{petersen:89:ergodic,
-     author        = {Petersen, Karl},
-     isbn          = {0-521-38997-6},
-     mrclass       = {28Dxx (28-02 47A35 54H20 58F11)},
-     mrnumber      = {1073173},
-     mrreviewer    = {Nathaniel Friedman},
-     note          = {Corrected reprint of the 1983 original},
-     pages         = {xii+329},
-     publisher     = {Cambridge University Press, Cambridge},
-     series        = {Cambridge Studies in Advanced Mathematics},
-     title         = {Ergodic theory},
-     volume        = {2},
-     year          = {1989}
+    author = {Petersen, Karl},
+    isbn = {0-521-38997-6},
+    mrclass = {28Dxx (28-02 47A35 54H20 58F11)},
+    mrnumber = {1073173},
+    mrreviewer = {Nathaniel Friedman},
+    note = {Corrected reprint of the 1983 original},
+    pages = {xii+329},
+    publisher = {Cambridge University Press, Cambridge},
+    series = {Cambridge Studies in Advanced Mathematics},
+    title = {Ergodic theory},
+    volume = {2},
+    year = {1989}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

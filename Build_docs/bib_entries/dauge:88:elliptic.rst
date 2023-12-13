@@ -8,22 +8,22 @@ dauge:88:elliptic
 .. code-block:: bibtex
 
    @book{dauge:88:elliptic,
-     author        = {Dauge, Monique},
-     doi           = {10.1007/BFb0086682},
-     isbn          = {3-540-50169-X},
-     mrclass       = {35J67 (35J40 47F05 58G20)},
-     mrnumber      = {961439},
-     mrreviewer    = {H. Triebel},
-     note          = {Smoothness and asymptotics of solutions},
-     pages         = {viii+259},
-     publisher     = {Springer-Verlag, Berlin},
-     series        = {Lecture Notes in Mathematics},
-     title         = {Elliptic boundary value problems on corner domains},
-     url           = {https://doi.org/10.1007/BFb0086682},
-     volume        = {1341},
-     year          = {1988}
+    author = {Dauge, Monique},
+    doi = {10.1007/BFb0086682},
+    isbn = {3-540-50169-X},
+    mrclass = {35J67 (35J40 47F05 58G20)},
+    mrnumber = {961439},
+    mrreviewer = {H. Triebel},
+    note = {Smoothness and asymptotics of solutions},
+    pages = {viii+259},
+    publisher = {Springer-Verlag, Berlin},
+    series = {Lecture Notes in Mathematics},
+    title = {Elliptic boundary value problems on corner domains},
+    url = {https://doi.org/10.1007/BFb0086682},
+    volume = {1341},
+    year = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0086682>`_
+`The URL link to the source <ttps://doi.org/10.1007/BFb0086682}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

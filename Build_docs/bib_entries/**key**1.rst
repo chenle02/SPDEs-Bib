@@ -1,0 +1,23 @@
+**key**1
+========
+
+:cite:t:`**key**1`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{**key**1,
+    fjournal = {Acad\'{e}mie de la R\'{e}publique Populaire Roumaine. Revue Roumaine de Math\'{e}matiques Pures et Appliqu\'{e}es},
+    issn = {0035-3965},
+    journal = {Rev. Roumaine Math. Pures Appl.},
+    mrclass = {01A70},
+    mrnumber = {427027},
+    number = {1},
+    pages = {3--5},
+    title = {L'acad\'{e}micien {M}iron {N}icolescu (1903--1975)},
+    volume = {22},
+    year = {1977}
+   }
+
+`Back to index <../By-Cite-Keys.html>`_

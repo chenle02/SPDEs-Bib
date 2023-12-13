@@ -8,22 +8,22 @@ ren.zhang:05:schilder
 .. code-block:: bibtex
 
    @article{ren.zhang:05:schilder,
-     author        = {Ren, Jiangang and Zhang, Xicheng},
-     doi           = {10.1016/j.jfa.2004.08.006},
-     fjournal      = {Journal of Functional Analysis},
-     issn          = {0022-1236},
-     journal       = {J. Funct. Anal.},
-     mrclass       = {60F10 (60H10)},
-     mrnumber      = {2139106},
-     mrreviewer    = {Zhongmin Qian},
-     number        = {1},
-     pages         = {107--133},
-     title         = {Schilder theorem for the {B}rownian motion on the diffeomorphism group of the circle},
-     url           = {https://doi.org/10.1016/j.jfa.2004.08.006},
-     volume        = {224},
-     year          = {2005}
+    author = {Ren, Jiangang and Zhang, Xicheng},
+    doi = {10.1016/j.jfa.2004.08.006},
+    fjournal = {Journal of Functional Analysis},
+    issn = {0022-1236},
+    journal = {J. Funct. Anal.},
+    mrclass = {60F10 (60H10)},
+    mrnumber = {2139106},
+    mrreviewer = {Zhongmin Qian},
+    number = {1},
+    pages = {107--133},
+    title = {Schilder theorem for the {B}rownian motion on the diffeomorphism group of the circle},
+    url = {https://doi.org/10.1016/j.jfa.2004.08.006},
+    volume = {224},
+    year = {2005}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2004.08.006>`_
+`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2004.08.006}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

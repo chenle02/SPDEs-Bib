@@ -8,21 +8,21 @@ caravenna.sun.ea:17:universality
 .. code-block:: bibtex
 
    @article{caravenna.sun.ea:17:universality,
-     author        = {Caravenna, Francesco and Sun, Rongfeng and Zygouras, Nikos},
-     doi           = {10.1214/17-AAP1276},
-     fjournal      = {The Annals of Applied Probability},
-     issn          = {1050-5164},
-     journal       = {Ann. Appl. Probab.},
-     mrclass       = {82B44 (60K35 82D60)},
-     mrnumber      = {3719953},
-     number        = {5},
-     pages         = {3050--3112},
-     title         = {Universality in marginally relevant disordered systems},
-     url           = {https://doi.org/10.1214/17-AAP1276},
-     volume        = {27},
-     year          = {2017}
+    author = {Caravenna, Francesco and Sun, Rongfeng and Zygouras, Nikos},
+    doi = {10.1214/17-AAP1276},
+    fjournal = {The Annals of Applied Probability},
+    issn = {1050-5164},
+    journal = {Ann. Appl. Probab.},
+    mrclass = {82B44 (60K35 82D60)},
+    mrnumber = {3719953},
+    number = {5},
+    pages = {3050--3112},
+    title = {Universality in marginally relevant disordered systems},
+    url = {https://doi.org/10.1214/17-AAP1276},
+    volume = {27},
+    year = {2017}
    }
-`The URL link to the source <https://doi.org/10.1214/17-AAP1276>`_
+`The URL link to the source <ttps://doi.org/10.1214/17-AAP1276}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

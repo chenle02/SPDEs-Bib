@@ -8,22 +8,22 @@ beliaev.jarvenpaa.ea:09:packing
 .. code-block:: bibtex
 
    @article{beliaev.jarvenpaa.ea:09:packing,
-     author        = {Beliaev, D. and J\"{a}rvenp\"{a}\"{a}, E. and J\"{a}rvenp\"{a}\"{a}, M. and K\"{a}enm\"{a}ki, A. and Rajala, T. and Smirnov, S. and Suomala, V.},
-     doi           = {10.1112/jlms/jdp040},
-     fjournal      = {Journal of the London Mathematical Society. Second Series},
-     issn          = {0024-6107,1469-7750},
-     journal       = {J. Lond. Math. Soc. (2)},
-     mrclass       = {28A75 (28A80)},
-     mrnumber      = {2545265},
-     mrreviewer    = {Zhi-Ying\ Wen},
-     number        = {2},
-     pages         = {514--530},
-     title         = {Packing dimension of mean porous measures},
-     url           = {https://doi.org/10.1112/jlms/jdp040},
-     volume        = {80},
-     year          = {2009}
+    author = {Beliaev, D. and J\"{a}rvenp\"{a}\"{a}, E. and J\"{a}rvenp\"{a}\"{a}, M. and K\"{a}enm\"{a}ki, A. and Rajala, T. and Smirnov, S. and Suomala, V.},
+    doi = {10.1112/jlms/jdp040},
+    fjournal = {Journal of the London Mathematical Society. Second Series},
+    issn = {0024-6107,1469-7750},
+    journal = {J. Lond. Math. Soc. (2)},
+    mrclass = {28A75 (28A80)},
+    mrnumber = {2545265},
+    mrreviewer = {Zhi-Ying\ Wen},
+    number = {2},
+    pages = {514--530},
+    title = {Packing dimension of mean porous measures},
+    url = {https://doi.org/10.1112/jlms/jdp040},
+    volume = {80},
+    year = {2009}
    }
-`The URL link to the source <https://doi.org/10.1112/jlms/jdp040>`_
+`The URL link to the source <ttps://doi.org/10.1112/jlms/jdp040}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

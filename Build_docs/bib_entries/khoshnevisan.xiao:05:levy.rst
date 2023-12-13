@@ -8,22 +8,22 @@ khoshnevisan.xiao:05:levy
 .. code-block:: bibtex
 
    @article{khoshnevisan.xiao:05:levy,
-     author        = {Khoshnevisan, Davar and Xiao, Yimin},
-     doi           = {10.1214/009117904000001026},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
-     mrclass       = {60G51 (28A78 28A80 60G17 60J25)},
-     mrnumber      = {2135306},
-     mrreviewer    = {Ren\'{e} L. Schilling},
-     number        = {3},
-     pages         = {841--878},
-     title         = {L\'{e}vy processes: capacity and {H}ausdorff dimension},
-     url           = {https://doi.org/10.1214/009117904000001026},
-     volume        = {33},
-     year          = {2005}
+    author = {Khoshnevisan, Davar and Xiao, Yimin},
+    doi = {10.1214/009117904000001026},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60G51 (28A78 28A80 60G17 60J25)},
+    mrnumber = {2135306},
+    mrreviewer = {Ren\'{e} L. Schilling},
+    number = {3},
+    pages = {841--878},
+    title = {L\'{e}vy processes: capacity and {H}ausdorff dimension},
+    url = {https://doi.org/10.1214/009117904000001026},
+    volume = {33},
+    year = {2005}
    }
-`The URL link to the source <https://doi.org/10.1214/009117904000001026>`_
+`The URL link to the source <ttps://doi.org/10.1214/009117904000001026}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

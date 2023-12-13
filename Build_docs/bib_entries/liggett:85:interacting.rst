@@ -8,21 +8,21 @@ liggett:85:interacting
 .. code-block:: bibtex
 
    @book{liggett:85:interacting,
-     author        = {Liggett, Thomas M.},
-     doi           = {10.1007/978-1-4613-8542-4},
-     isbn          = {0-387-96069-4},
-     mrclass       = {60K35},
-     mrnumber      = {776231},
-     mrreviewer    = {F. L. Spitzer},
-     pages         = {xv+488},
-     publisher     = {Springer-Verlag, New York},
-     series        = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
-     title         = {Interacting particle systems},
-     url           = {https://doi.org/10.1007/978-1-4613-8542-4},
-     volume        = {276},
-     year          = {1985}
+    author = {Liggett, Thomas M.},
+    doi = {10.1007/978-1-4613-8542-4},
+    isbn = {0-387-96069-4},
+    mrclass = {60K35},
+    mrnumber = {776231},
+    mrreviewer = {F. L. Spitzer},
+    pages = {xv+488},
+    publisher = {Springer-Verlag, New York},
+    series = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+    title = {Interacting particle systems},
+    url = {https://doi.org/10.1007/978-1-4613-8542-4},
+    volume = {276},
+    year = {1985}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4613-8542-4>`_
+`The URL link to the source <ttps://doi.org/10.1007/978-1-4613-8542-4}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

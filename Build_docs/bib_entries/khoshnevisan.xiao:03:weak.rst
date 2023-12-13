@@ -8,22 +8,22 @@ khoshnevisan.xiao:03:weak
 .. code-block:: bibtex
 
    @article{khoshnevisan.xiao:03:weak,
-     author        = {Khoshnevisan, Davar and Xiao, Yimin},
-     doi           = {10.1090/S0002-9939-02-06778-3},
-     fjournal      = {Proceedings of the American Mathematical Society},
-     issn          = {0002-9939},
-     journal       = {Proc. Amer. Math. Soc.},
-     mrclass       = {60E05 (60E07 60G51 60J45)},
-     mrnumber      = {1974662},
-     mrreviewer    = {Mamoru Kanda},
-     number        = {8},
-     pages         = {2611--2616},
-     title         = {Weak unimodality of finite measures, and an application to potential theory of additive {L}\'{e}vy processes},
-     url           = {https://doi.org/10.1090/S0002-9939-02-06778-3},
-     volume        = {131},
-     year          = {2003}
+    author = {Khoshnevisan, Davar and Xiao, Yimin},
+    doi = {10.1090/S0002-9939-02-06778-3},
+    fjournal = {Proceedings of the American Mathematical Society},
+    issn = {0002-9939},
+    journal = {Proc. Amer. Math. Soc.},
+    mrclass = {60E05 (60E07 60G51 60J45)},
+    mrnumber = {1974662},
+    mrreviewer = {Mamoru Kanda},
+    number = {8},
+    pages = {2611--2616},
+    title = {Weak unimodality of finite measures, and an application to potential theory of additive {L}\'{e}vy processes},
+    url = {https://doi.org/10.1090/S0002-9939-02-06778-3},
+    volume = {131},
+    year = {2003}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-02-06778-3>`_
+`The URL link to the source <ttps://doi.org/10.1090/S0002-9939-02-06778-3}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

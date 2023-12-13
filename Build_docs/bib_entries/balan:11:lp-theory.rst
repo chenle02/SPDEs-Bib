@@ -8,21 +8,21 @@ balan:11:lp-theory
 .. code-block:: bibtex
 
    @article{balan:11:lp-theory,
-     author        = {Balan, Raluca M.},
-     doi           = {10.1051/ps/2009006},
-     fjournal      = {ESAIM. Probability and Statistics},
-     issn          = {1292-8100},
-     journal       = {ESAIM Probab. Stat.},
-     mrclass       = {60H15 (60H07)},
-     mrnumber      = {2870508},
-     mrreviewer    = {Meng Xu},
-     pages         = {110--138},
-     title         = {{$L_p$}-theory for the stochastic heat equation with infinite-dimensional fractional noise},
-     url           = {https://doi.org/10.1051/ps/2009006},
-     volume        = {15},
-     year          = {2011}
+    author = {Balan, Raluca M.},
+    doi = {10.1051/ps/2009006},
+    fjournal = {ESAIM. Probability and Statistics},
+    issn = {1292-8100},
+    journal = {ESAIM Probab. Stat.},
+    mrclass = {60H15 (60H07)},
+    mrnumber = {2870508},
+    mrreviewer = {Meng Xu},
+    pages = {110--138},
+    title = {{$L_p$}-theory for the stochastic heat equation with infinite-dimensional fractional noise},
+    url = {https://doi.org/10.1051/ps/2009006},
+    volume = {15},
+    year = {2011}
    }
-`The URL link to the source <https://doi.org/10.1051/ps/2009006>`_
+`The URL link to the source <ttps://doi.org/10.1051/ps/2009006}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

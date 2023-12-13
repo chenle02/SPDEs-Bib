@@ -8,22 +8,22 @@ dalang.mueller.ea:06:hitting
 .. code-block:: bibtex
 
    @article{dalang.mueller.ea:06:hitting,
-     author        = {Dalang, Robert C. and Mueller, C. and Zambotti, L.},
-     doi           = {10.1214/009117905000000792},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
-     mrclass       = {60H15 (60J45)},
-     mrnumber      = {2257651},
-     mrreviewer    = {Jan I. Seidler},
-     number        = {4},
-     pages         = {1423--1450},
-     title         = {Hitting properties of parabolic s.p.d.e.'s with reflection},
-     url           = {https://doi.org/10.1214/009117905000000792},
-     volume        = {34},
-     year          = {2006}
+    author = {Dalang, Robert C. and Mueller, C. and Zambotti, L.},
+    doi = {10.1214/009117905000000792},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60H15 (60J45)},
+    mrnumber = {2257651},
+    mrreviewer = {Jan I. Seidler},
+    number = {4},
+    pages = {1423--1450},
+    title = {Hitting properties of parabolic s.p.d.e.'s with reflection},
+    url = {https://doi.org/10.1214/009117905000000792},
+    volume = {34},
+    year = {2006}
    }
-`The URL link to the source <https://doi.org/10.1214/009117905000000792>`_
+`The URL link to the source <ttps://doi.org/10.1214/009117905000000792}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

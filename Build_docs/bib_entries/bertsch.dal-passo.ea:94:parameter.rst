@@ -8,18 +8,18 @@ bertsch.dal-passo.ea:94:parameter
 .. code-block:: bibtex
 
    @article{bertsch.dal-passo.ea:94:parameter,
-     author        = {Bertsch, M. and Dal Passo, R. and Kersner, R.},
-     fjournal      = {Differential and Integral Equations. An International Journal for Theory and Applications},
-     issn          = {0893-4983},
-     journal       = {Differential Integral Equations},
-     mrclass       = {35B30 (35K55 35K65)},
-     mrnumber      = {1269651},
-     mrreviewer    = {Hong Ming Yin},
-     number        = {5-6},
-     pages         = {1195--1214},
-     title         = {Parameter dependence in the {$b$}-{\$\epsilon\$} model},
-     volume        = {7},
-     year          = {1994}
+    author = {Bertsch, M. and Dal Passo, R. and Kersner, R.},
+    fjournal = {Differential and Integral Equations. An International Journal for Theory and Applications},
+    issn = {0893-4983},
+    journal = {Differential Integral Equations},
+    mrclass = {35B30 (35K55 35K65)},
+    mrnumber = {1269651},
+    mrreviewer = {Hong Ming Yin},
+    number = {5-6},
+    pages = {1195--1214},
+    title = {Parameter dependence in the {$b$}-{$\epsilon$} model},
+    volume = {7},
+    year = {1994}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

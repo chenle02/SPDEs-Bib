@@ -8,21 +8,21 @@ mayer-wolf.zakai.ea:88:on
 .. code-block:: bibtex
 
    @incollection{mayer-wolf.zakai.ea:88:on,
-     author        = {Mayer-Wolf, E. and Zakai, M. and Zeitouni, O.},
-     booktitle     = {Stochastic differential systems, stochastic control theory and applications ({M}inneapolis, {M}inn., 1986)},
-     doi           = {10.1007/978-1-4613-8762-6\_20},
-     isbn          = {0-387-96641-2},
-     mrclass       = {93E11 (60G35)},
-     mrnumber      = {934731},
-     pages         = {311--322},
-     publisher     = {Springer, New York},
-     series        = {IMA Vol. Math. Appl.},
-     title         = {On the memory length of the optimal nonlinear filter},
-     url           = {https://doi.org/10.1007/978-1-4613-8762-6\_20},
-     volume        = {10},
-     year          = {1988}
+    author = {Mayer-Wolf, E. and Zakai, M. and Zeitouni, O.},
+    booktitle = {Stochastic differential systems, stochastic control theory and applications ({M}inneapolis, {M}inn., 1986)},
+    doi = {10.1007/978-1-4613-8762-6\_20},
+    isbn = {0-387-96641-2},
+    mrclass = {93E11 (60G35)},
+    mrnumber = {934731},
+    pages = {311--322},
+    publisher = {Springer, New York},
+    series = {IMA Vol. Math. Appl.},
+    title = {On the memory length of the optimal nonlinear filter},
+    url = {https://doi.org/10.1007/978-1-4613-8762-6_20},
+    volume = {10},
+    year = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4613-8762-6\_20>`_
+`The URL link to the source <ttps://doi.org/10.1007/978-1-4613-8762-6_20}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

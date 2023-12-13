@@ -8,21 +8,21 @@ tindel.viens:02:almost
 .. code-block:: bibtex
 
    @article{tindel.viens:02:almost,
-     author        = {Tindel, Samy and Viens, Frederi},
-     doi           = {10.1016/S0304-4149(02)00102-3},
-     fjournal      = {Stochastic Processes and their Applications},
-     issn          = {0304-4149},
-     journal       = {Stochastic Process. Appl.},
-     mrclass       = {60H15 (58J65)},
-     mrnumber      = {1919608},
-     mrreviewer    = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
-     pages         = {53--74},
-     title         = {Almost sure exponential behaviour for a parabolic {SPDE} on a manifold},
-     url           = {https://doi.org/10.1016/S0304-4149(02)00102-3},
-     volume        = {100},
-     year          = {2002}
+    author = {Tindel, Samy and Viens, Frederi},
+    doi = {10.1016/S0304-4149(02)00102-3},
+    fjournal = {Stochastic Processes and their Applications},
+    issn = {0304-4149},
+    journal = {Stochastic Process. Appl.},
+    mrclass = {60H15 (58J65)},
+    mrnumber = {1919608},
+    mrreviewer = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
+    pages = {53--74},
+    title = {Almost sure exponential behaviour for a parabolic {SPDE} on a manifold},
+    url = {https://doi.org/10.1016/S0304-4149(02)00102-3},
+    volume = {100},
+    year = {2002}
    }
-`The URL link to the source <https://doi.org/10.1016/S0304-4149(02)00102-3>`_
+`The URL link to the source <ttps://doi.org/10.1016/S0304-4149(02)00102-3}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

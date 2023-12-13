@@ -8,21 +8,21 @@ fox:61:g
 .. code-block:: bibtex
 
    @article{fox:61:g,
-     author        = {Fox, Charles},
-     doi           = {10.2307/1993339},
-     fjournal      = {Transactions of the American Mathematical Society},
-     issn          = {0002-9947},
-     journal       = {Trans. Amer. Math. Soc.},
-     mrclass       = {33.21},
-     mrnumber      = {131578},
-     mrreviewer    = {K. Chandrasekharan},
-     pages         = {395--429},
-     title         = {The {$G$} and {\$H\$} functions as symmetrical {F}ourier kernels},
-     url           = {https://doi.org/10.2307/1993339},
-     volume        = {98},
-     year          = {1961}
+    author = {Fox, Charles},
+    doi = {10.2307/1993339},
+    fjournal = {Transactions of the American Mathematical Society},
+    issn = {0002-9947},
+    journal = {Trans. Amer. Math. Soc.},
+    mrclass = {33.21},
+    mrnumber = {131578},
+    mrreviewer = {K. Chandrasekharan},
+    pages = {395--429},
+    title = {The {$G$} and {$H$} functions as symmetrical {F}ourier kernels},
+    url = {https://doi.org/10.2307/1993339},
+    volume = {98},
+    year = {1961}
    }
-`The URL link to the source <https://doi.org/10.2307/1993339>`_
+`The URL link to the source <ttps://doi.org/10.2307/1993339}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

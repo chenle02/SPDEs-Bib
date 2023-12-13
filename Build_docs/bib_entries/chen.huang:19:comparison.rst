@@ -8,22 +8,22 @@ chen.huang:19:comparison
 .. code-block:: bibtex
 
    @article{chen.huang:19:comparison,
-     author        = {Chen, Le and Huang, Jingyu},
-     doi           = {10.1214/18-AOP1277},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
-     mrclass       = {60H15 (35B51 35R60 60G60)},
-     mrnumber      = {3916940},
-     mrreviewer    = {Petru A. Cioica-Licht},
-     number        = {2},
-     pages         = {989--1035},
-     title         = {Comparison principle for stochastic heat equation on {$\Bbb R^d$}},
-     url           = {https://doi.org/10.1214/18-AOP1277},
-     volume        = {47},
-     year          = {2019}
+    author = {Chen, Le and Huang, Jingyu},
+    doi = {10.1214/18-AOP1277},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60H15 (35B51 35R60 60G60)},
+    mrnumber = {3916940},
+    mrreviewer = {Petru A. Cioica-Licht},
+    number = {2},
+    pages = {989--1035},
+    title = {Comparison principle for stochastic heat equation on {$\Bbb R^d$}},
+    url = {https://doi.org/10.1214/18-AOP1277},
+    volume = {47},
+    year = {2019}
    }
-`The URL link to the source <https://doi.org/10.1214/18-AOP1277>`_
+`The URL link to the source <ttps://doi.org/10.1214/18-AOP1277}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

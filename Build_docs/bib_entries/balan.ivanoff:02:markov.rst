@@ -8,22 +8,22 @@ balan.ivanoff:02:markov
 .. code-block:: bibtex
 
    @article{balan.ivanoff:02:markov,
-     author        = {Balan, R. M. and Ivanoff, B. G.},
-     doi           = {10.1023/A:1016296330187},
-     fjournal      = {Journal of Theoretical Probability},
-     issn          = {0894-9840},
-     journal       = {J. Theoret. Probab.},
-     mrclass       = {60G07 (35K05 60G51)},
-     mrnumber      = {1922438},
-     mrreviewer    = {Robert J. Adler},
-     number        = {3},
-     pages         = {553--588},
-     title         = {A {M}arkov property for set-indexed processes},
-     url           = {https://doi.org/10.1023/A:1016296330187},
-     volume        = {15},
-     year          = {2002}
+    author = {Balan, R. M. and Ivanoff, B. G.},
+    doi = {10.1023/A:1016296330187},
+    fjournal = {Journal of Theoretical Probability},
+    issn = {0894-9840},
+    journal = {J. Theoret. Probab.},
+    mrclass = {60G07 (35K05 60G51)},
+    mrnumber = {1922438},
+    mrreviewer = {Robert J. Adler},
+    number = {3},
+    pages = {553--588},
+    title = {A {M}arkov property for set-indexed processes},
+    url = {https://doi.org/10.1023/A:1016296330187},
+    volume = {15},
+    year = {2002}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1016296330187>`_
+`The URL link to the source <ttps://doi.org/10.1023/A:1016296330187}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

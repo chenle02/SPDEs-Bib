@@ -8,22 +8,22 @@ georgiou.rassoul-agha.ea:15:ratios
 .. code-block:: bibtex
 
    @article{georgiou.rassoul-agha.ea:15:ratios,
-     author        = {Georgiou, Nicos and Rassoul-Agha, Firas and Sepp\"{a}l\"{a}inen, Timo and Yilmaz, Atilla},
-     doi           = {10.1214/14-AOP933},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
-     mrclass       = {60K35 (60K37)},
-     mrnumber      = {3395462},
-     mrreviewer    = {Dimitri Petritis},
-     number        = {5},
-     pages         = {2282--2331},
-     title         = {Ratios of partition functions for the log-gamma polymer},
-     url           = {https://doi.org/10.1214/14-AOP933},
-     volume        = {43},
-     year          = {2015}
+    author = {Georgiou, Nicos and Rassoul-Agha, Firas and Sepp\"{a}l\"{a}inen, Timo and Yilmaz, Atilla},
+    doi = {10.1214/14-AOP933},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60K35 (60K37)},
+    mrnumber = {3395462},
+    mrreviewer = {Dimitri Petritis},
+    number = {5},
+    pages = {2282--2331},
+    title = {Ratios of partition functions for the log-gamma polymer},
+    url = {https://doi.org/10.1214/14-AOP933},
+    volume = {43},
+    year = {2015}
    }
-`The URL link to the source <https://doi.org/10.1214/14-AOP933>`_
+`The URL link to the source <ttps://doi.org/10.1214/14-AOP933}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

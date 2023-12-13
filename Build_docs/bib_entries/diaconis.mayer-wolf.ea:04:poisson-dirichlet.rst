@@ -8,22 +8,22 @@ diaconis.mayer-wolf.ea:04:poisson-dirichlet
 .. code-block:: bibtex
 
    @article{diaconis.mayer-wolf.ea:04:poisson-dirichlet,
-     author        = {Diaconis, Persi and Mayer-Wolf, Eddy and Zeitouni, Ofer and Zerner, Martin P. W.},
-     doi           = {10.1214/aop/1079021468},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798,2168-894X},
-     journal       = {Ann. Probab.},
-     mrclass       = {60K35 (60G55 60J27)},
-     mrnumber      = {2044670},
-     mrreviewer    = {Alexander\ V.\ Gnedin},
-     number        = {1B},
-     pages         = {915--938},
-     title         = {The {P}oisson-{D}irichlet law is the unique invariant distribution for uniform split-merge transformations},
-     url           = {https://doi.org/10.1214/aop/1079021468},
-     volume        = {32},
-     year          = {2004}
+    author = {Diaconis, Persi and Mayer-Wolf, Eddy and Zeitouni, Ofer and Zerner, Martin P. W.},
+    doi = {10.1214/aop/1079021468},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60K35 (60G55 60J27)},
+    mrnumber = {2044670},
+    mrreviewer = {Alexander\ V.\ Gnedin},
+    number = {1B},
+    pages = {915--938},
+    title = {The {P}oisson-{D}irichlet law is the unique invariant distribution for uniform split-merge transformations},
+    url = {https://doi.org/10.1214/aop/1079021468},
+    volume = {32},
+    year = {2004}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1079021468>`_
+`The URL link to the source <ttps://doi.org/10.1214/aop/1079021468}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

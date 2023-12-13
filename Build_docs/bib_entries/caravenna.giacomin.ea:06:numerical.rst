@@ -8,22 +8,22 @@ caravenna.giacomin.ea:06:numerical
 .. code-block:: bibtex
 
    @article{caravenna.giacomin.ea:06:numerical,
-     author        = {Caravenna, Francesco and Giacomin, Giambattista and Gubinelli, Massimiliano},
-     doi           = {10.1007/s10955-005-8081-z},
-     fjournal      = {Journal of Statistical Physics},
-     issn          = {0022-4715},
-     journal       = {J. Stat. Phys.},
-     mrclass       = {82B24 (82-08 82D60)},
-     mrnumber      = {2213950},
-     mrreviewer    = {Stuart G. Whittington},
-     number        = {4},
-     pages         = {799--832},
-     title         = {A numerical approach to copolymers at selective interfaces},
-     url           = {https://doi.org/10.1007/s10955-005-8081-z},
-     volume        = {122},
-     year          = {2006}
+    author = {Caravenna, Francesco and Giacomin, Giambattista and Gubinelli, Massimiliano},
+    doi = {10.1007/s10955-005-8081-z},
+    fjournal = {Journal of Statistical Physics},
+    issn = {0022-4715},
+    journal = {J. Stat. Phys.},
+    mrclass = {82B24 (82-08 82D60)},
+    mrnumber = {2213950},
+    mrreviewer = {Stuart G. Whittington},
+    number = {4},
+    pages = {799--832},
+    title = {A numerical approach to copolymers at selective interfaces},
+    url = {https://doi.org/10.1007/s10955-005-8081-z},
+    volume = {122},
+    year = {2006}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-005-8081-z>`_
+`The URL link to the source <ttps://doi.org/10.1007/s10955-005-8081-z}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

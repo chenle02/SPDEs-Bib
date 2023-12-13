@@ -8,22 +8,22 @@ galaktionov:95:invariant
 .. code-block:: bibtex
 
    @article{galaktionov:95:invariant,
-     author        = {Galaktionov, Victor A.},
-     doi           = {10.1017/S0308210500028018},
-     fjournal      = {Proceedings of the Royal Society of Edinburgh. Section A. Mathematics},
-     issn          = {0308-2105},
-     journal       = {Proc. Roy. Soc. Edinburgh Sect. A},
-     mrclass       = {35Q53 (35A30 35C05)},
-     mrnumber      = {1331559},
-     mrreviewer    = {B. G. Konopel{\cprime}chenko},
-     number        = {2},
-     pages         = {225--246},
-     title         = {Invariant subspaces and new explicit solutions to evolution equations with quadratic nonlinearities},
-     url           = {https://doi.org/10.1017/S0308210500028018},
-     volume        = {125},
-     year          = {1995}
+    author = {Galaktionov, Victor A.},
+    doi = {10.1017/S0308210500028018},
+    fjournal = {Proceedings of the Royal Society of Edinburgh. Section A. Mathematics},
+    issn = {0308-2105},
+    journal = {Proc. Roy. Soc. Edinburgh Sect. A},
+    mrclass = {35Q53 (35A30 35C05)},
+    mrnumber = {1331559},
+    mrreviewer = {B. G. Konopel{\cprime}chenko},
+    number = {2},
+    pages = {225--246},
+    title = {Invariant subspaces and new explicit solutions to evolution equations with quadratic nonlinearities},
+    url = {https://doi.org/10.1017/S0308210500028018},
+    volume = {125},
+    year = {1995}
    }
-`The URL link to the source <https://doi.org/10.1017/S0308210500028018>`_
+`The URL link to the source <ttps://doi.org/10.1017/S0308210500028018}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

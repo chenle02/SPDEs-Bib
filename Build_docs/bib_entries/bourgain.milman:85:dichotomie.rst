@@ -8,18 +8,18 @@ bourgain.milman:85:dichotomie
 .. code-block:: bibtex
 
    @article{bourgain.milman:85:dichotomie,
-     author        = {Bourgain, Jean and Milman, Vitali},
-     fjournal      = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
-     issn          = {0249-6291},
-     journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
-     mrclass       = {43A46 (46B99)},
-     mrnumber      = {785065},
-     mrreviewer    = {Fran\c{c}oise\ Lust-Piquard},
-     number        = {9},
-     pages         = {263--266},
-     title         = {Dichotomie du cotype pour les espaces invariants},
-     volume        = {300},
-     year          = {1985}
+    author = {Bourgain, Jean and Milman, Vitali},
+    fjournal = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
+    issn = {0249-6291},
+    journal = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
+    mrclass = {43A46 (46B99)},
+    mrnumber = {785065},
+    mrreviewer = {Fran\c{c}oise\ Lust-Piquard},
+    number = {9},
+    pages = {263--266},
+    title = {Dichotomie du cotype pour les espaces invariants},
+    volume = {300},
+    year = {1985}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

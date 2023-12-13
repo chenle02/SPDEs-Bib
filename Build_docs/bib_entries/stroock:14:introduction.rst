@@ -8,21 +8,21 @@ stroock:14:introduction
 .. code-block:: bibtex
 
    @book{stroock:14:introduction,
-     author        = {Stroock, Daniel W.},
-     doi           = {10.1007/978-3-642-40523-5},
-     edition       = {Second},
-     isbn          = {978-3-642-40522-8; 978-3-642-40523-5},
-     mrclass       = {60-01 (60J10 60J27)},
-     mrnumber      = {3137424},
-     pages         = {xviii+203},
-     publisher     = {Springer, Heidelberg},
-     series        = {Graduate Texts in Mathematics},
-     title         = {An introduction to {M}arkov processes},
-     url           = {https://doi.org/10.1007/978-3-642-40523-5},
-     volume        = {230},
-     year          = {2014}
+    author = {Stroock, Daniel W.},
+    doi = {10.1007/978-3-642-40523-5},
+    edition = {Second},
+    isbn = {978-3-642-40522-8; 978-3-642-40523-5},
+    mrclass = {60-01 (60J10 60J27)},
+    mrnumber = {3137424},
+    pages = {xviii+203},
+    publisher = {Springer, Heidelberg},
+    series = {Graduate Texts in Mathematics},
+    title = {An introduction to {M}arkov processes},
+    url = {https://doi.org/10.1007/978-3-642-40523-5},
+    volume = {230},
+    year = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-642-40523-5>`_
+`The URL link to the source <ttps://doi.org/10.1007/978-3-642-40523-5}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

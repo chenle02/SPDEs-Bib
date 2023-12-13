@@ -8,21 +8,21 @@ klebanov.hashimoto:95:non-perturbative
 .. code-block:: bibtex
 
    @article{klebanov.hashimoto:95:non-perturbative,
-     author        = {Klebanov, Igor R. and Hashimoto, Akikazu},
-     doi           = {10.1016/0550-3213(94)00518-J},
-     fjournal      = {Nuclear Physics. B. Theoretical, Phenomenological, and Experimental High Energy Physics. Quantum Field Theory and Statistical Systems},
-     issn          = {0550-3213},
-     journal       = {Nuclear Phys. B},
-     mrclass       = {81T27 (81T40)},
-     mrnumber      = {1312995},
-     number        = {1-2},
-     pages         = {264--282},
-     title         = {Non-perturbative solution of matrix models modified by trace-squared terms},
-     url           = {https://doi.org/10.1016/0550-3213(94)00518-J},
-     volume        = {434},
-     year          = {1995}
+    author = {Klebanov, Igor R. and Hashimoto, Akikazu},
+    doi = {10.1016/0550-3213(94)00518-J},
+    fjournal = {Nuclear Physics. B. Theoretical, Phenomenological, and Experimental High Energy Physics. Quantum Field Theory and Statistical Systems},
+    issn = {0550-3213},
+    journal = {Nuclear Phys. B},
+    mrclass = {81T27 (81T40)},
+    mrnumber = {1312995},
+    number = {1-2},
+    pages = {264--282},
+    title = {Non-perturbative solution of matrix models modified by trace-squared terms},
+    url = {https://doi.org/10.1016/0550-3213(94)00518-J},
+    volume = {434},
+    year = {1995}
    }
-`The URL link to the source <https://doi.org/10.1016/0550-3213(94)00518-J>`_
+`The URL link to the source <ttps://doi.org/10.1016/0550-3213(94)00518-J}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

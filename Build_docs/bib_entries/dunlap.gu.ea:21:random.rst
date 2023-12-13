@@ -8,22 +8,22 @@ dunlap.gu.ea:21:random
 .. code-block:: bibtex
 
    @article{dunlap.gu.ea:21:random,
-     author        = {Dunlap, Alexander and Gu, Yu and Ryzhik, Lenya and Zeitouni, Ofer},
-     doi           = {10.1007/s00205-021-01694-9},
-     fjournal      = {Archive for Rational Mechanics and Analysis},
-     issn          = {0003-9527},
-     journal       = {Arch. Ration. Mech. Anal.},
-     mrclass       = {60H15 (35K05)},
-     mrnumber      = {4331017},
-     mrreviewer    = {Shuang Yang},
-     number        = {2},
-     pages         = {827--873},
-     title         = {The random heat equation in dimensions three and higher: the homogenization viewpoint},
-     url           = {https://doi.org/10.1007/s00205-021-01694-9},
-     volume        = {242},
-     year          = {2021}
+    author = {Dunlap, Alexander and Gu, Yu and Ryzhik, Lenya and Zeitouni, Ofer},
+    doi = {10.1007/s00205-021-01694-9},
+    fjournal = {Archive for Rational Mechanics and Analysis},
+    issn = {0003-9527},
+    journal = {Arch. Ration. Mech. Anal.},
+    mrclass = {60H15 (35K05)},
+    mrnumber = {4331017},
+    mrreviewer = {Shuang Yang},
+    number = {2},
+    pages = {827--873},
+    title = {The random heat equation in dimensions three and higher: the homogenization viewpoint},
+    url = {https://doi.org/10.1007/s00205-021-01694-9},
+    volume = {242},
+    year = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s00205-021-01694-9>`_
+`The URL link to the source <ttps://doi.org/10.1007/s00205-021-01694-9}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

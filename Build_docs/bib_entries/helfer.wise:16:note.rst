@@ -8,20 +8,20 @@ helfer.wise:16:note
 .. code-block:: bibtex
 
    @article{helfer.wise:16:note,
-     author        = {Helfer, Joseph and Wise, Daniel T.},
-     doi           = {10.37236/5330},
-     fjournal      = {Electronic Journal of Combinatorics},
-     journal       = {Electron. J. Combin.},
-     mrclass       = {60G50 (05A19)},
-     mrnumber      = {3484722},
-     number        = {1},
-     pages         = {Paper 1.17, 10},
-     title         = {A note on maxima in random walks},
-     url           = {https://doi.org/10.37236/5330},
-     volume        = {23},
-     year          = {2016}
+    author = {Helfer, Joseph and Wise, Daniel T.},
+    doi = {10.37236/5330},
+    fjournal = {Electronic Journal of Combinatorics},
+    journal = {Electron. J. Combin.},
+    mrclass = {60G50 (05A19)},
+    mrnumber = {3484722},
+    number = {1},
+    pages = {Paper 1.17, 10},
+    title = {A note on maxima in random walks},
+    url = {https://doi.org/10.37236/5330},
+    volume = {23},
+    year = {2016}
    }
-`The URL link to the source <https://doi.org/10.37236/5330>`_
+`The URL link to the source <ttps://doi.org/10.37236/5330}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

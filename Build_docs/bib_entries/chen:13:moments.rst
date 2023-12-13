@@ -8,17 +8,17 @@ chen:13:moments
 .. code-block:: bibtex
 
    @article{chen:13:moments,
-     address       = {Lausanne},
-     author        = {Chen, Le},
-     doi           = {10.5075/epfl-thesis-5712},
-     institution   = {MATHAA},
-     journaltitle  = {EPFL Ph.D. Thesis},
-     publisher     = {EPFL},
-     title         = {Moments, Intermittency, and Growth Indices for Nonlinear Stochastic PDE's with Rough Initial Conditions},
-     url           = {http://infoscience.epfl.ch/record/185885},
-     year          = {2013}
+    address = {Lausanne},
+    author = {Chen, Le},
+    doi = {10.5075/epfl-thesis-5712},
+    institution = {MATHAA},
+    journaltitle = {EPFL Ph.D. Thesis},
+    publisher = {EPFL},
+    title = {Moments, Intermittency, and Growth Indices for Nonlinear Stochastic PDE's with Rough Initial Conditions},
+    url = {http://infoscience.epfl.ch/record/185885},
+    year = {2013}
    }
-`The URL link to the source <http://infoscience.epfl.ch/record/185885>`_
+`The URL link to the source <ttp://infoscience.epfl.ch/record/185885}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

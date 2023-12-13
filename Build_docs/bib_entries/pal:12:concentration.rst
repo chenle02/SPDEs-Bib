@@ -8,22 +8,22 @@ pal:12:concentration
 .. code-block:: bibtex
 
    @article{pal:12:concentration,
-     author        = {Pal, Soumik},
-     doi           = {10.1007/s00440-011-0368-1},
-     fjournal      = {Probability Theory and Related Fields},
-     issn          = {0178-8051},
-     journal       = {Probab. Theory Related Fields},
-     mrclass       = {60G17 (60J60)},
-     mrnumber      = {2981423},
-     mrreviewer    = {Antoine J. Lejay},
-     number        = {1-2},
-     pages         = {225--254},
-     title         = {Concentration for multidimensional diffusions and their boundary local times},
-     url           = {https://doi.org/10.1007/s00440-011-0368-1},
-     volume        = {154},
-     year          = {2012}
+    author = {Pal, Soumik},
+    doi = {10.1007/s00440-011-0368-1},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60G17 (60J60)},
+    mrnumber = {2981423},
+    mrreviewer = {Antoine J. Lejay},
+    number = {1-2},
+    pages = {225--254},
+    title = {Concentration for multidimensional diffusions and their boundary local times},
+    url = {https://doi.org/10.1007/s00440-011-0368-1},
+    volume = {154},
+    year = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-011-0368-1>`_
+`The URL link to the source <ttps://doi.org/10.1007/s00440-011-0368-1}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

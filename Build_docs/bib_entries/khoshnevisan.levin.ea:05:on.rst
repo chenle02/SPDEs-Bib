@@ -8,22 +8,22 @@ khoshnevisan.levin.ea:05:on
 .. code-block:: bibtex
 
    @article{khoshnevisan.levin.ea:05:on,
-     author        = {Khoshnevisan, Davar and Levin, David A. and M\'{e}ndez-Hern\'{a}ndez, Pedro J.},
-     doi           = {10.1214/009117904000001044},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
-     mrclass       = {60J25 (28C20 60F10 60J05)},
-     mrnumber      = {2150195},
-     mrreviewer    = {Roman Urban},
-     number        = {4},
-     pages         = {1452--1478},
-     title         = {On dynamical {G}aussian random walks},
-     url           = {https://doi.org/10.1214/009117904000001044},
-     volume        = {33},
-     year          = {2005}
+    author = {Khoshnevisan, Davar and Levin, David A. and M\'{e}ndez-Hern\'{a}ndez, Pedro J.},
+    doi = {10.1214/009117904000001044},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60J25 (28C20 60F10 60J05)},
+    mrnumber = {2150195},
+    mrreviewer = {Roman Urban},
+    number = {4},
+    pages = {1452--1478},
+    title = {On dynamical {G}aussian random walks},
+    url = {https://doi.org/10.1214/009117904000001044},
+    volume = {33},
+    year = {2005}
    }
-`The URL link to the source <https://doi.org/10.1214/009117904000001044>`_
+`The URL link to the source <ttps://doi.org/10.1214/009117904000001044}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

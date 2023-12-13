@@ -8,21 +8,21 @@ friz.hairer:14:course
 .. code-block:: bibtex
 
    @book{friz.hairer:14:course,
-     author        = {Friz, Peter K. and Hairer, Martin},
-     doi           = {10.1007/978-3-319-08332-2},
-     isbn          = {978-3-319-08331-5; 978-3-319-08332-2},
-     mrclass       = {60-02 (34F05 35R60 60H07 60H10 60H15)},
-     mrnumber      = {3289027},
-     mrreviewer    = {Fabrice Baudoin},
-     note          = {With an introduction to regularity structures},
-     pages         = {xiv+251},
-     publisher     = {Springer, Cham},
-     series        = {Universitext},
-     title         = {A course on rough paths},
-     url           = {https://doi.org/10.1007/978-3-319-08332-2},
-     year          = {2014}
+    author = {Friz, Peter K. and Hairer, Martin},
+    doi = {10.1007/978-3-319-08332-2},
+    isbn = {978-3-319-08331-5; 978-3-319-08332-2},
+    mrclass = {60-02 (34F05 35R60 60H07 60H10 60H15)},
+    mrnumber = {3289027},
+    mrreviewer = {Fabrice Baudoin},
+    note = {With an introduction to regularity structures},
+    pages = {xiv+251},
+    publisher = {Springer, Cham},
+    series = {Universitext},
+    title = {A course on rough paths},
+    url = {https://doi.org/10.1007/978-3-319-08332-2},
+    year = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-319-08332-2>`_
+`The URL link to the source <ttps://doi.org/10.1007/978-3-319-08332-2}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_
