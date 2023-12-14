@@ -9,20 +9,21 @@ dawson.etheridge.ea:02:mutually*1
 
    @article{dawson.etheridge.ea:02:mutually*1,
     author = {Dawson, Donald A. and Etheridge, Alison M. and Fleischmann, Klaus and Mytnik, Leonid and Perkins, Edwin A. and Xiong, Jie},
-    doi = {10.1214/EJP.v7-114},
-    fjournal = {Electronic Journal of Probability},
-    issn = {1083-6489},
-    journal = {Electron. J. Probab.},
+    doi = {10.1214/aop/1039548370},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
     mrclass = {60K35 (60G57 60J80)},
-    mrnumber = {1921744},
-    mrreviewer = {Achim Klenke},
-    pages = {No. 15, 61},
-    title = {Mutually catalytic branching in the plane: infinite measure states},
-    url = {https://doi.org/10.1214/EJP.v7-114},
-    volume = {7},
+    mrnumber = {1944004},
+    mrreviewer = {Roger Tribe},
+    number = {4},
+    pages = {1681--1762},
+    title = {Mutually catalytic branching in the plane: finite measure states},
+    url = {https://doi.org/10.1214/aop/1039548370},
+    volume = {30},
     year = {2002}
    }
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v7-114}>`_
+`The URL link to the source <ttps://doi.org/10.1214/aop/1039548370}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_
