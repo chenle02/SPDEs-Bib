@@ -9,17 +9,21 @@ bourgain:80:on*1
 
    @article{bourgain:80:on*1,
     author = {Bourgain, J.},
-    fjournal = {Bulletin de la Soci\'{e}t\'{e} Math\'{e}matique de Belgique. S\'{e}rie B},
-    issn = {0037-9476},
-    journal = {Bull. Soc. Math. Belg. S\'{e}r. B},
-    mrclass = {05A99},
-    mrnumber = {682989},
-    mrreviewer = {J.\ Spencer},
-    number = {1},
-    pages = {29--32},
-    title = {On lacunary sets},
-    volume = {32},
+    doi = {10.2307/2043243},
+    fjournal = {Proceedings of the American Mathematical Society},
+    issn = {0002-9939,1088-6826},
+    journal = {Proc. Amer. Math. Soc.},
+    mrclass = {46B20},
+    mrnumber = {565347},
+    mrreviewer = {Zvi\ Altshuler},
+    number = {2},
+    pages = {241--246},
+    title = {On separable {B}anach spaces, universal for all separable reflexive spaces},
+    url = {https://doi.org/10.2307/2043243},
+    volume = {79},
     year = {1980}
    }
+`The URL link to the source <ttps://doi.org/10.2307/2043243}>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -7,22 +7,23 @@ bourgain:02:on
 
 .. code-block:: bibtex
 
-   @article{bourgain:02:on,
+   @incollection{bourgain:02:on,
     author = {Bourgain, J.},
-    doi = {10.1007/BF02785861},
-    fjournal = {Israel Journal of Mathematics},
-    issn = {0021-2172,1565-8511},
-    journal = {Israel J. Math.},
-    mrclass = {43A75 (42A38)},
-    mrnumber = {1942312},
-    mrreviewer = {Colin\ C.\ Graham},
-    pages = {269--276},
-    title = {On the distributions of the {F}ourier spectrum of {B}oolean functions},
-    url = {https://doi.org/10.1007/BF02785861},
-    volume = {131},
+    doi = {10.1007/BF02868469},
+    fjournal = {Journal d'Analyse Math\'{e}matique},
+    issn = {0021-7670,1565-8538},
+    journal = {J. Anal. Math.},
+    mrclass = {47B39 (35P20 47A10 47N50 81Q10)},
+    mrnumber = {1945277},
+    mrreviewer = {David\ Damanik},
+    note = {Dedicated to the memory of Thomas H. Wolff},
+    pages = {37--75},
+    title = {On the spectrum of lattice {S}chr\"{o}dinger operators with deterministic potential},
+    url = {https://doi.org/10.1007/BF02868469},
+    volume = {87},
     year = {2002}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF02785861}>`_
+`The URL link to the source <ttps://doi.org/10.1007/BF02868469}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_
