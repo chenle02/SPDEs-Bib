@@ -9,21 +9,21 @@ zeitouni.bobrovsky:86:on
 
    @article{zeitouni.bobrovsky:86:on,
     author = {Zeitouni, O. and Bobrovsky, B. Z.},
-    doi = {10.1080/17442508608833421},
-    fjournal = {Stochastics},
-    issn = {0090-9491},
-    journal = {Stochastics},
-    mrclass = {60H15 (60G35)},
-    mrnumber = {870617},
-    mrreviewer = {Rajeeva\ L.\ Karandikar},
-    number = {3},
-    pages = {133--149},
-    title = {On the reference probability approach to the equations of nonlinear filtering},
-    url = {https://doi.org/10.1080/17442508608833421},
-    volume = {19},
+    doi = {10.1016/0167-6911(86)90046-0},
+    fjournal = {Systems \& Control Letters},
+    issn = {0167-6911,1872-7956},
+    journal = {Systems Control Lett.},
+    mrclass = {60G15 (93E11)},
+    mrnumber = {850446},
+    mrreviewer = {V\v{e}ra\ L\'{a}nsk\'{a}},
+    number = {4},
+    pages = {317--321},
+    title = {On the joint nonlinear filtering-smoothing of diffusion processes},
+    url = {https://doi.org/10.1016/0167-6911(86)90046-0},
+    volume = {7},
     year = {1986}
    }
-`The URL link to the source <ttps://doi.org/10.1080/17442508608833421}>`_
+`The URL link to the source <ttps://doi.org/10.1016/0167-6911(86)90046-0}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

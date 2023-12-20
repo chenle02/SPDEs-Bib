@@ -1,0 +1,23 @@
+tihonov:52:systems
+==================
+
+:cite:t:`tihonov:52:systems`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{tihonov:52:systems,
+    author = {Tihonov, A. N.},
+    fjournal = {Mat. Sbornik N.S.},
+    journal = {Mat. Sbornik N.S.},
+    mrclass = {36.0X},
+    mrnumber = {55515},
+    mrreviewer = {J. L. Massera},
+    pages = {575--586},
+    title = {Systems of differential equations containing small parameters in the derivatives},
+    volume = {31(73)},
+    year = {1952}
+   }
+
+`Back to index <../By-Cite-Keys.html>`_

@@ -7,16 +7,23 @@ tsai:16:infinite*1
 
 .. code-block:: bibtex
 
-   @incollection{tsai:16:infinite*1,
+   @article{tsai:16:infinite*1,
     author = {Tsai, Li-Cheng},
-    booktitle = {Stochastic analysis on large scale interacting systems},
-    mrclass = {60K35 (60J60 82C22)},
-    mrnumber = {3675932},
-    pages = {175--201},
-    publisher = {Res. Inst. Math. Sci. (RIMS), Kyoto},
-    series = {RIMS K\^{o}ky\^{u}roku Bessatsu, B59},
-    title = {Infinite dimensional stochastic differential equations by {D}yson's model},
+    doi = {10.1007/s00440-015-0672-2},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60K35 (60G55 60J60)},
+    mrnumber = {3568040},
+    mrreviewer = {Hirofumi Osada},
+    number = {3-4},
+    pages = {801--850},
+    title = {Infinite dimensional stochastic differential equations for {D}yson's model},
+    url = {https://doi.org/10.1007/s00440-015-0672-2},
+    volume = {166},
     year = {2016}
    }
+`The URL link to the source <ttps://doi.org/10.1007/s00440-015-0672-2}>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_
