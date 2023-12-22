@@ -8,15 +8,16 @@ bourgain:84:sur
 .. code-block:: bibtex
 
    @incollection{bourgain:84:sur,
-    author = {Bourgain, Jean},
-    booktitle = {Harmonic analysis: study group on translation-invariant {B}anach spaces},
-    mrclass = {11L03 (42A32)},
-    mrnumber = {740713},
-    pages = {Exp. No. 2, 7},
-    publisher = {Univ. Paris XI, Orsay},
-    series = {Publ. Math. Orsay},
-    title = {Sur le minimum de certaines sommes de cosinus},
-    volume = {84-1},
+    author = {Bourgain, J.},
+    booktitle = {Seminar on the geometry of {B}anach spaces, {V}ol. {I}, {II} ({P}aris, 1983)},
+    mrclass = {30E10 (41A35 46J15)},
+    mrnumber = {781582},
+    mrreviewer = {Burglind\ J\"{o}ricke},
+    pages = {235--254},
+    publisher = {Univ. Paris VII, Paris},
+    series = {Publ. Math. Univ. Paris VII},
+    title = {Sur l'approximation dans {$H^infty$}},
+    volume = {18},
     year = {1984}
    }
 

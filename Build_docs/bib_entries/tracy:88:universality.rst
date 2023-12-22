@@ -9,19 +9,21 @@ tracy:88:universality
 
    @article{tracy:88:universality,
     author = {Tracy, Craig A.},
-    fjournal = {Journal of Physics. A. Mathematical and General},
-    issn = {0305-4470},
-    journal = {J. Phys. A},
-    mrclass = {82A68 (82-04 82A25)},
-    mrnumber = {953188},
-    number = {11},
-    pages = {L603--L605},
-    title = {Universality classes of some aperiodic {I}sing models},
-    url = {http://stacks.iop.org/0305-4470/21/L603},
-    volume = {21},
+    doi = {10.1007/BF01028467},
+    fjournal = {Journal of Statistical Physics},
+    issn = {0022-4715},
+    journal = {J. Statist. Phys.},
+    mrclass = {82A68},
+    mrnumber = {952944},
+    mrreviewer = {Peter J. Forrester},
+    number = {3-4},
+    pages = {481--490},
+    title = {Universality class of a {F}ibonacci {I}sing model},
+    url = {https://doi.org/10.1007/BF01028467},
+    volume = {51},
     year = {1988}
    }
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/21/L603}>`_
+`The URL link to the source <ttps://doi.org/10.1007/BF01028467}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

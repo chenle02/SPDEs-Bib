@@ -1,0 +1,29 @@
+wu.xiao:09:uniform
+==================
+
+:cite:t:`wu.xiao:09:uniform`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{wu.xiao:09:uniform,
+    author = {Wu, DongSheng and Xiao, YiMin},
+    doi = {10.1007/s11425-009-0103-x},
+    fjournal = {Science in China. Series A. Mathematics},
+    issn = {1006-9283,1862-2763},
+    journal = {Sci. China Ser. A},
+    mrclass = {60G15 (28A78 28A80 43A46 60G17 60G60)},
+    mrnumber = {2520589},
+    mrreviewer = {Ren\'{e}\ L.\ Schilling},
+    number = {7},
+    pages = {1478--1496},
+    title = {Uniform dimension results for {G}aussian random fields},
+    url = {https://doi.org/10.1007/s11425-009-0103-x},
+    volume = {52},
+    year = {2009}
+   }
+`The URL link to the source <ttps://doi.org/10.1007/s11425-009-0103-x}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

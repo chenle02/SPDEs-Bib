@@ -1,0 +1,29 @@
+sun.xiao.ea:18:uniform
+======================
+
+:cite:t:`sun.xiao.ea:18:uniform`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{sun.xiao.ea:18:uniform,
+    author = {Sun, Xiaobin and Xiao, Yimin and Xu, Lihu and Zhai, Jianliang},
+    doi = {10.3150/17-BEJ994},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+    issn = {1350-7265,1573-9759},
+    journal = {Bernoulli},
+    mrclass = {60G17 (28A80 60G18 60G51 60J25)},
+    mrnumber = {3788192},
+    mrreviewer = {Marta\ Tyran-Kami\'{n}ska},
+    number = {4B},
+    pages = {3924--3951},
+    title = {Uniform dimension results for a family of {M}arkov processes},
+    url = {https://doi.org/10.3150/17-BEJ994},
+    volume = {24},
+    year = {2018}
+   }
+`The URL link to the source <ttps://doi.org/10.3150/17-BEJ994}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_
