@@ -2709,6 +2709,7 @@ H
 - :cite:t:`hedberg:81:spectral` : `hedberg:81:spectral <bib_entries/hedberg:81:spectral.html>`_
 - :cite:t:`helfer.wise:16:note` : `helfer.wise:16:note <bib_entries/helfer.wise:16:note.html>`_
 - :cite:t:`helgason:66:duality` : `helgason:66:duality <bib_entries/helgason:66:duality.html>`_
+- :cite:t:`helson.sarason:67:past` : `helson.sarason:67:past <bib_entries/helson.sarason:67:past.html>`_
 - :cite:t:`henderson.rajeev:98:renormalized` : `henderson.rajeev:98:renormalized <bib_entries/henderson.rajeev:98:renormalized.html>`_
 - :cite:t:`henkel:99:conformal` : `henkel:99:conformal <bib_entries/henkel:99:conformal.html>`_
 - :cite:t:`henrot.pierre:05:variation` : `henrot.pierre:05:variation <bib_entries/henrot.pierre:05:variation.html>`_

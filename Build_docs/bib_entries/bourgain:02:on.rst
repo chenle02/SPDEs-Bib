@@ -8,21 +8,22 @@ bourgain:02:on
 .. code-block:: bibtex
 
    @article{bourgain:02:on,
-    author = {Bourgain, J.},
-    doi = {10.1007/BF02785861},
-    fjournal = {Israel Journal of Mathematics},
-    issn = {0021-2172,1565-8511},
-    journal = {Israel J. Math.},
-    mrclass = {43A75 (42A38)},
-    mrnumber = {1942312},
-    mrreviewer = {Colin\ C.\ Graham},
-    pages = {269--276},
-    title = {On the distributions of the {F}ourier spectrum of {B}oolean functions},
-    url = {https://doi.org/10.1007/BF02785861},
-    volume = {131},
+    author = {Bourgain, Jean},
+    doi = {10.3934/dcds.2002.8.1},
+    fjournal = {Discrete and Continuous Dynamical Systems. Series A},
+    issn = {1078-0947,1553-5231},
+    journal = {Discrete Contin. Dyn. Syst.},
+    mrclass = {47B80 (35J10 35R60 47A10 47B39 47N55 82B44)},
+    mrnumber = {1877824},
+    mrreviewer = {Vadim\ V.\ Kostrykin},
+    number = {1},
+    pages = {1--15},
+    title = {On random {S}chr\"{o}dinger operators on {$\Bbb Z^2$}},
+    url = {https://doi.org/10.3934/dcds.2002.8.1},
+    volume = {8},
     year = {2002}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF02785861}>`_
+`The URL link to the source <ttps://doi.org/10.3934/dcds.2002.8.1}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_
