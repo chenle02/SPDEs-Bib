@@ -17,6 +17,7 @@
   - [Some other related tools](#some-other-related-tools)
   - [How to contribute](#how-to-contribute)
   - [Cite this work?](#cite-this-work)
+  - [Acknowledgment](#Acknowledgment)
   - [License](#license)
 
 ## Motivation
@@ -114,6 +115,26 @@ Your support in recognizing the effort put into compiling and maintaining this
 repository is much appreciated.
 
 [^1]: To properly show the entry, one may replace `misc` by `book`.
+
+## Acknowledgment
+
+I am profoundly grateful to Prof. Edward Dunne, Executive Editor of
+Mathematical Reviews at the American Mathematical Society, for his invaluable
+guidance and approval regarding the public availability of this BibTeX file.
+His willingness to support this initiative, acknowledging the potential
+benefits to the mathematical community, underscores a deep commitment to
+enhancing access to mathematical resources.
+
+In our correspondence, Prof. Dunne highlighted the value of using the default
+tools on MathSciNet (via the subscription), such as MRef and MRLookup. These
+tools represent the forefront of efforts to facilitate access to comprehensive
+mathematical reviews and references. I strongly encourage our community to
+explore and utilize these powerful resources, which can significantly aid in
+our research and scholarly pursuits.
+
+I extend my sincere thanks to Prof. Dunne for his instrumental support in this
+project and for reminding us of the importance of continually evolving our
+tools for the efficient sharing and accessing of mathematical data.
 
 ## License
 
