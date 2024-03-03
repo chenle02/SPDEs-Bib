@@ -12,7 +12,7 @@ candil:22:localization
     author = {Candil, David Jean-Michel},
     doi = {10.5075/epfl-thesis-7742},
     institution = {MATHAA},
-    journaltitle = {EPFL Ph.D. Thesis},
+    journal = {EPFL Ph.D. Thesis},
     pages = {221},
     publisher = {EPFL},
     title = {Localization errors of the stochastic heat equation},

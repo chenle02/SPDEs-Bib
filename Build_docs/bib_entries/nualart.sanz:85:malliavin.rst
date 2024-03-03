@@ -9,21 +9,16 @@ nualart.sanz:85:malliavin
 
    @article{nualart.sanz:85:malliavin,
     author = {Nualart, D. and Sanz, M.},
-    doi = {10.1007/BF00531868},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
-    issn = {0044-3719},
-    journal = {Z. Wahrsch. Verw. Gebiete},
-    mrclass = {60H15 (58G32 60G60)},
-    mrnumber = {807338},
+    fjournal = {Annales Scientifiques de l'Universit\'{e} de Clermont-Ferrand II. Probabilit\'{e}s et Applications},
+    issn = {0246-1501},
+    journal = {Ann. Sci. Univ. Clermont-Ferrand II Probab. Appl.},
+    mrclass = {60H15 (60G60 60H07)},
+    mrnumber = {790724},
     mrreviewer = {M. Zakai},
-    number = {4},
-    pages = {573--590},
-    title = {Malliavin calculus for two-parameter {W}iener functionals},
-    url = {https://doi.org/10.1007/BF00531868},
-    volume = {70},
+    number = {3},
+    pages = {73--86},
+    title = {Malliavin calculus for two-parameter processes},
     year = {1985}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF00531868}>`_
-
 
 `Back to index <../By-Cite-Keys.html>`_

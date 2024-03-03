@@ -12,7 +12,7 @@ chen:13:moments
     author = {Chen, Le},
     doi = {10.5075/epfl-thesis-5712},
     institution = {MATHAA},
-    journaltitle = {EPFL Ph.D. Thesis},
+    journal = {EPFL Ph.D. Thesis},
     publisher = {EPFL},
     title = {Moments, Intermittency, and Growth Indices for Nonlinear Stochastic PDE's with Rough Initial Conditions},
     url = {http://infoscience.epfl.ch/record/185885},

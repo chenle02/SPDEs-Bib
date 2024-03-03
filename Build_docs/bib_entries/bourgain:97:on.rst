@@ -8,22 +8,21 @@ bourgain:97:on
 .. code-block:: bibtex
 
    @article{bourgain:97:on,
-    author = {Bourgain, J.},
-    doi = {10.4310/MRL.1997.v4.n4.a1},
-    fjournal = {Mathematical Research Letters},
-    issn = {1073-2780},
-    journal = {Math. Res. Lett.},
-    mrclass = {58F27 (34C27 58F05 70H15)},
-    mrnumber = {1470416},
-    mrreviewer = {C.\ Eugene\ Wayne},
-    number = {4},
-    pages = {445--458},
-    title = {On {M}elnikov's persistency problem},
-    url = {https://doi.org/10.4310/MRL.1997.v4.n4.a1},
-    volume = {4},
+    author = {Bourgain, Jean},
+    doi = {10.1155/S1073792897000305},
+    fjournal = {International Mathematics Research Notices},
+    issn = {1073-7928,1687-0247},
+    journal = {Internat. Math. Res. Notices},
+    mrclass = {35Q53},
+    mrnumber = {1443322},
+    mrreviewer = {Spyridon\ Kamvissis},
+    number = {9},
+    pages = {437--447},
+    title = {On the compactness of the support of solutions of dispersive equations},
+    url = {https://doi.org/10.1155/S1073792897000305},
     year = {1997}
    }
-`The URL link to the source <ttps://doi.org/10.4310/MRL.1997.v4.n4.a1}>`_
+`The URL link to the source <ttps://doi.org/10.1155/S1073792897000305}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_
