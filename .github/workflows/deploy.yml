@@ -23,11 +23,11 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r Build_docs/requirements.txt
     # Build the book
     - name: Build the book
       run: |
-        cd Build_docs && make html  
+        cd Build_docs && make html
 
 
     # Deploy the book's HTML to gh-pages branch
