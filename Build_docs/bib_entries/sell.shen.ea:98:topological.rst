@@ -1,0 +1,29 @@
+sell.shen.ea:98:topological
+===========================
+
+:cite:t:`sell.shen.ea:98:topological`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{sell.shen.ea:98:topological,
+    author = {Sell, G. and Shen, W. and Yi, Y.},
+    booktitle = {Topological dynamics and applications ({M}inneapolis, {MN}, 1995)},
+    doi = {10.1090/conm/215/02948},
+    isbn = {0-8218-0608-4},
+    mrclass = {34C27 (34C28 54H20)},
+    mrnumber = {1603054},
+    mrreviewer = {Rafael\ Obaya Garc\'{i}a},
+    pages = {279--297},
+    publisher = {Amer. Math. Soc., Providence, RI},
+    series = {Contemp. Math.},
+    title = {Topological dynamics and differential equations},
+    url = {https://doi.org/10.1090/conm/215/02948},
+    volume = {215},
+    year = {1998}
+   }
+`The URL link to the source <ttps://doi.org/10.1090/conm/215/02948}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

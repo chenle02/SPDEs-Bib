@@ -9,21 +9,21 @@ dalang:88:on*1
 
    @article{dalang:88:on*1,
     author = {Dalang, Robert C.},
-    doi = {10.1080/17442508808833517},
-    fjournal = {Stochastics},
-    issn = {0090-9491},
-    journal = {Stochastics},
-    mrclass = {60G07 (90C40)},
-    mrnumber = {972476},
-    mrreviewer = {Nicholas Frangos},
+    doi = {10.1007/BF00334200},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60G40 (05C99)},
+    mrnumber = {949178},
+    mrreviewer = {U. Krengel},
     number = {3},
-    pages = {245--268},
-    title = {On stopping points in the plane that lie on a unique optional increasing path},
-    url = {https://doi.org/10.1080/17442508808833517},
-    volume = {24},
+    pages = {357--378},
+    title = {On infinite perfect graphs and randomized stopping points on the plane},
+    url = {https://doi.org/10.1007/BF00334200},
+    volume = {78},
     year = {1988}
    }
-`The URL link to the source <ttps://doi.org/10.1080/17442508808833517}>`_
+`The URL link to the source <ttps://doi.org/10.1007/BF00334200}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

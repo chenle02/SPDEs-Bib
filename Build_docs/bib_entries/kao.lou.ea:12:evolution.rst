@@ -1,0 +1,28 @@
+kao.lou.ea:12:evolution
+=======================
+
+:cite:t:`kao.lou.ea:12:evolution`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kao.lou.ea:12:evolution,
+    author = {Kao, Chiu-Yen and Lou, Yuan and Shen, Wenxian},
+    doi = {10.3934/dcdsb.2012.17.2047},
+    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A Journal Bridging Mathematics and Sciences},
+    issn = {1531-3492,1553-524X},
+    journal = {Discrete Contin. Dyn. Syst. Ser. B},
+    mrclass = {92D25 (35K57 45K05)},
+    mrnumber = {2924452},
+    number = {6},
+    pages = {2047--2072},
+    title = {Evolution of mixed dispersal in periodic environments},
+    url = {https://doi.org/10.3934/dcdsb.2012.17.2047},
+    volume = {17},
+    year = {2012}
+   }
+`The URL link to the source <ttps://doi.org/10.3934/dcdsb.2012.17.2047}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

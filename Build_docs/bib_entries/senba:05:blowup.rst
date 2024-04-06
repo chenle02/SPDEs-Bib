@@ -1,0 +1,29 @@
+senba:05:blowup
+===============
+
+:cite:t:`senba:05:blowup`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{senba:05:blowup,
+    author = {Senba, Takasi},
+    doi = {10.1619/fesi.48.247},
+    fjournal = {Funkcialaj Ekvacioj. Serio Internacia},
+    issn = {0532-8721},
+    journal = {Funkcial. Ekvac.},
+    mrclass = {35K57 (35B40 35Q80 92C17)},
+    mrnumber = {2177120},
+    mrreviewer = {Stefka N. Dimova},
+    number = {2},
+    pages = {247--271},
+    title = {Blowup behavior of radial solutions to {J}\"{a}ger-{L}uckhaus system in high dimensional domains},
+    url = {https://doi.org/10.1619/fesi.48.247},
+    volume = {48},
+    year = {2005}
+   }
+`The URL link to the source <ttps://doi.org/10.1619/fesi.48.247}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

@@ -9,14 +9,14 @@ prudnikov.brychkov.ea:92:integrals
 
    @book{prudnikov.brychkov.ea:92:integrals,
     author = {Prudnikov, A. P. and Brychkov, Yu. A. and Marichev, O. I.},
-    isbn = {2-88124-837-3},
-    mrclass = {44A10 (33-00 44-00 44A20 44A35)},
-    mrnumber = {1162979},
+    isbn = {2-88124-838-1},
+    mrclass = {44-00 (00A20 26-00 33-00 44A35)},
+    mrnumber = {1162980},
     mrreviewer = {J.\ M. H. Peters},
-    note = {Direct Laplace transforms},
-    pages = {xx+619},
+    note = {Inverse Laplace transforms},
+    pages = {xx+595},
     publisher = {Gordon and Breach Science Publishers, New York},
-    title = {Integrals and series. {V}ol. 4},
+    title = {Integrals and series. {V}ol. 5},
     year = {1992}
    }
 

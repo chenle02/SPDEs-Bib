@@ -1,0 +1,29 @@
+shen.zhang:12:stationary
+========================
+
+:cite:t:`shen.zhang:12:stationary`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{shen.zhang:12:stationary,
+    author = {Shen, Wenxian and Zhang, Aijun},
+    doi = {10.1090/S0002-9939-2011-11011-6},
+    fjournal = {Proceedings of the American Mathematical Society},
+    issn = {0002-9939,1088-6826},
+    journal = {Proc. Amer. Math. Soc.},
+    mrclass = {45K05 (45C05 45M20 47G10 92D25 92D40)},
+    mrnumber = {2869152},
+    mrreviewer = {Alfredo\ Lorenzi},
+    number = {5},
+    pages = {1681--1696},
+    title = {Stationary solutions and spreading speeds of nonlocal monostable equations in space periodic habitats},
+    url = {https://doi.org/10.1090/S0002-9939-2011-11011-6},
+    volume = {140},
+    year = {2012}
+   }
+`The URL link to the source <ttps://doi.org/10.1090/S0002-9939-2011-11011-6}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

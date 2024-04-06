@@ -1,0 +1,25 @@
+nagai:95:blow-up
+================
+
+:cite:t:`nagai:95:blow-up`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{nagai:95:blow-up,
+    author = {Nagai, Toshitaka},
+    fjournal = {Advances in Mathematical Sciences and Applications},
+    issn = {1343-4373},
+    journal = {Adv. Math. Sci. Appl.},
+    mrclass = {35Q80 (35B05 35K57 92C15)},
+    mrnumber = {1361006},
+    mrreviewer = {Yoram Schiffmann},
+    number = {2},
+    pages = {581--601},
+    title = {Blow-up of radially symmetric solutions to a chemotaxis system},
+    volume = {5},
+    year = {1995}
+   }
+
+`Back to index <../By-Cite-Keys.html>`_

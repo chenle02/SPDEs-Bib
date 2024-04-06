@@ -1,0 +1,29 @@
+burczak.granero-belinchon:17:suppression
+========================================
+
+:cite:t:`burczak.granero-belinchon:17:suppression`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{burczak.granero-belinchon:17:suppression,
+    author = {Burczak, Jan and Granero-Belinch\'{o}n, Rafael},
+    doi = {10.1016/j.jde.2017.07.007},
+    fjournal = {Journal of Differential Equations},
+    issn = {0022-0396},
+    journal = {J. Differential Equations},
+    mrclass = {35R11 (35A01 35B44 35B65 35S10 92C17)},
+    mrnumber = {3688442},
+    mrreviewer = {N. Duruk Mutluba\c{s}},
+    number = {9},
+    pages = {6115--6142},
+    title = {Suppression of blow up by a logistic source in 2{D} {K}eller-{S}egel system with fractional dissipation},
+    url = {https://doi.org/10.1016/j.jde.2017.07.007},
+    volume = {263},
+    year = {2017}
+   }
+`The URL link to the source <ttps://doi.org/10.1016/j.jde.2017.07.007}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

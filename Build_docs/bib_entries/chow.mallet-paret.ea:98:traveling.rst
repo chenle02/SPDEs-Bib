@@ -1,0 +1,29 @@
+chow.mallet-paret.ea:98:traveling
+=================================
+
+:cite:t:`chow.mallet-paret.ea:98:traveling`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{chow.mallet-paret.ea:98:traveling,
+    author = {Chow, Shui-Nee and Mallet-Paret, John and Shen, Wenxian},
+    doi = {10.1006/jdeq.1998.3478},
+    fjournal = {Journal of Differential Equations},
+    issn = {0022-0396,1090-2732},
+    journal = {J. Differential Equations},
+    mrclass = {37L60 (34C23 35Q58 37G99)},
+    mrnumber = {1646240},
+    mrreviewer = {P.\ W.\ Bates},
+    number = {2},
+    pages = {248--291},
+    title = {Traveling waves in lattice dynamical systems},
+    url = {https://doi.org/10.1006/jdeq.1998.3478},
+    volume = {149},
+    year = {1998}
+   }
+`The URL link to the source <ttps://doi.org/10.1006/jdeq.1998.3478}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_
