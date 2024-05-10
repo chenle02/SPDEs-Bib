@@ -1,0 +1,28 @@
+flandoli:20:renormalized
+========================
+
+:cite:t:`flandoli:20:renormalized`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{flandoli:20:renormalized,
+    author = {Flandoli, Franco},
+    doi = {10.1142/S0219493720400109},
+    fjournal = {Stochastics and Dynamics},
+    issn = {0219-4937,1793-6799},
+    journal = {Stoch. Dyn.},
+    mrclass = {76F55 (76B47 76D06 76M23)},
+    mrnumber = {4161974},
+    number = {6},
+    pages = {2040010, 12},
+    title = {Renormalized {O}nsager functions and merging of vortex clusters},
+    url = {https://doi.org/10.1142/S0219493720400109},
+    volume = {20},
+    year = {2020}
+   }
+`The URL link to the source <ttps://doi.org/10.1142/S0219493720400109}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

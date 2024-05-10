@@ -9,13 +9,14 @@ candil.chen.ea:23:parabolic
 
    @article{candil.chen.ea:23:parabolic,
     author = {David Candil and Le Chen and Cheuk Yin Lee},
-    journal = {preprint arXiv:2301.06435, to appear in Stoch. Partial Differ. Equ. Anal. Comput.},
-    month = {January},
+    doi = {10.1007/s40072-023-00310-z},
+    journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
+    month = {September},
     title = {Parabolic stochastic PDEs on bounded domains with rough initial conditions: moment and correlation bounds},
-    url = {http://arXiv.org/abs/2301.06435},
+    url = {https://doi.org/10.1007/s40072-023-00310-z},
     year = {2023}
    }
-`The URL link to the source <ttp://arXiv.org/abs/2301.06435}>`_
+`The URL link to the source <ttps://doi.org/10.1007/s40072-023-00310-z}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

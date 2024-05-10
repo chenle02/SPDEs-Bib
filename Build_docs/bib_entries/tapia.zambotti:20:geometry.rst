@@ -1,0 +1,29 @@
+tapia.zambotti:20:geometry
+==========================
+
+:cite:t:`tapia.zambotti:20:geometry`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{tapia.zambotti:20:geometry,
+    author = {Tapia, Nikolas and Zambotti, Lorenzo},
+    doi = {10.1112/plms.12311},
+    fjournal = {Proceedings of the London Mathematical Society. Third Series},
+    issn = {0024-6115,1460-244X},
+    journal = {Proc. Lond. Math. Soc. (3)},
+    mrclass = {60L20 (16T05 60H10 60L30)},
+    mrnumber = {4093955},
+    mrreviewer = {Keisuke\ Hara},
+    number = {2},
+    pages = {220--251},
+    title = {The geometry of the space of branched rough paths},
+    url = {https://doi.org/10.1112/plms.12311},
+    volume = {121},
+    year = {2020}
+   }
+`The URL link to the source <ttps://doi.org/10.1112/plms.12311}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_
