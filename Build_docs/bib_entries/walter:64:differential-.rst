@@ -1,0 +1,22 @@
+walter:64:differential-
+=======================
+
+:cite:t:`walter:64:differential-`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{walter:64:differential-,
+    author = {Walter, Wolfgang},
+    mrclass = {45.00},
+    mrnumber = {172076},
+    mrreviewer = {C. Corduneanu},
+    pages = {xiii+269},
+    publisher = {Springer-Verlag, Berlin-New York},
+    series = {Springer Tracts in Natural Philosophy, Vol. 2},
+    title = {Differential- und {I}ntegral-{U}ngleichungen und ihre {A}nwendung bei {A}bsch\"{a}tzungs- und {E}indeutigkeits-problemen},
+    year = {1964}
+   }
+
+`Back to index <../By-Cite-Keys.html>`_

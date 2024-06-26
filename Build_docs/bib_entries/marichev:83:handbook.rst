@@ -1,0 +1,23 @@
+marichev:83:handbook
+====================
+
+:cite:t:`marichev:83:handbook`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{marichev:83:handbook,
+    author = {Marichev, O. I.},
+    isbn = {0-85312-538-7},
+    mrclass = {00A22 (33-02 44-02 65A05)},
+    mrnumber = {689711},
+    note = {Theory and algorithmic tables, Edited by F. D. Gakhov, Translated from the Russian by L. W. Longdon},
+    pages = {336},
+    publisher = {Ellis Horwood Ltd., Chichester; John Wiley \& Sons, Inc., New York},
+    series = {Ellis Horwood Series: Mathematics and its Applications},
+    title = {Handbook of integral transforms of higher transcendental functions},
+    year = {1983}
+   }
+
+`Back to index <../By-Cite-Keys.html>`_

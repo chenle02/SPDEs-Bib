@@ -1,0 +1,25 @@
+gorenflo.iskenderov.ea:00:mapping
+=================================
+
+:cite:t:`gorenflo.iskenderov.ea:00:mapping`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{gorenflo.iskenderov.ea:00:mapping,
+    author = {Gorenflo, Rudolf and Iskenderov, Asaf and Luchko, Yuri},
+    fjournal = {Fractional Calculus \& Applied Analysis. An International Journal for Theory and Applications},
+    issn = {1311-0454},
+    journal = {Fract. Calc. Appl. Anal.},
+    mrclass = {26A33 (35R99 45K05)},
+    mrnumber = {1743407},
+    mrreviewer = {K. S. Miller},
+    number = {1},
+    pages = {75--86},
+    title = {Mapping between solutions of fractional diffusion-wave equations},
+    volume = {3},
+    year = {2000}
+   }
+
+`Back to index <../By-Cite-Keys.html>`_

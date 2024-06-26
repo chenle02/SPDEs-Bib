@@ -1,0 +1,29 @@
+hochberg.orsingher:96:composition
+=================================
+
+:cite:t:`hochberg.orsingher:96:composition`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{hochberg.orsingher:96:composition,
+    author = {Hochberg, Kenneth J. and Orsingher, Enzo},
+    doi = {10.1007/BF02214661},
+    fjournal = {Journal of Theoretical Probability},
+    issn = {0894-9840},
+    journal = {J. Theoret. Probab.},
+    mrclass = {60J99 (35K25 35L25 60J35)},
+    mrnumber = {1385409},
+    mrreviewer = {Joerg-Uwe Loebus},
+    number = {2},
+    pages = {511--532},
+    title = {Composition of stochastic processes governed by higher-order parabolic and hyperbolic equations},
+    url = {https://doi.org/10.1007/BF02214661},
+    volume = {9},
+    year = {1996}
+   }
+`The URL link to the source <ttps://doi.org/10.1007/BF02214661}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

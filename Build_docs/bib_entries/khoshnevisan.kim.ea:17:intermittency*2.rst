@@ -1,0 +1,29 @@
+khoshnevisan.kim.ea:17:intermittency*2
+======================================
+
+:cite:t:`khoshnevisan.kim.ea:17:intermittency*2`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{khoshnevisan.kim.ea:17:intermittency*2,
+    author = {Khoshnevisan, Davar and Kim, Kunwoo and Xiao, Yimin},
+    doi = {10.1214/16-AOP1147},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60H15 (35K15 35R60 60K37)},
+    mrnumber = {3729613},
+    mrreviewer = {Le Chen},
+    number = {6A},
+    pages = {3697--3751},
+    title = {Intermittency and multifractality: a case study via parabolic stochastic {PDE}s},
+    url = {https://doi.org/10.1214/16-AOP1147},
+    volume = {45},
+    year = {2017}
+   }
+`The URL link to the source <ttps://doi.org/10.1214/16-AOP1147}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

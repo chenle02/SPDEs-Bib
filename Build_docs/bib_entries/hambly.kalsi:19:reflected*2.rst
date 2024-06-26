@@ -1,0 +1,29 @@
+hambly.kalsi:19:reflected*2
+===========================
+
+:cite:t:`hambly.kalsi:19:reflected*2`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{hambly.kalsi:19:reflected*2,
+    author = {Hambly, Ben and Kalsi, Jasdeep},
+    doi = {10.1007/s40072-019-00139-5},
+    fjournal = {Stochastic Partial Differential Equations. Analysis and Computations},
+    issn = {2194-0401,2194-041X},
+    journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
+    mrclass = {35R37 (35K40 35K91 35R60 60H15)},
+    mrnumber = {4022287},
+    mrreviewer = {Le\ Chen},
+    number = {4},
+    pages = {746--807},
+    title = {A reflected moving boundary problem driven by space-time white noise},
+    url = {https://doi.org/10.1007/s40072-019-00139-5},
+    volume = {7},
+    year = {2019}
+   }
+`The URL link to the source <ttps://doi.org/10.1007/s40072-019-00139-5}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_
