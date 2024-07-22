@@ -1,0 +1,29 @@
+baik.ferrari.ea:10:limit
+========================
+
+:cite:t:`baik.ferrari.ea:10:limit`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{baik.ferrari.ea:10:limit,
+    author = {Baik, Jinho and Ferrari, Patrik L. and P\'{e}ch\'{e}, Sandrine},
+    doi = {10.1002/cpa.20316},
+    fjournal = {Communications on Pure and Applied Mathematics},
+    issn = {0010-3640},
+    journal = {Comm. Pure Appl. Math.},
+    mrclass = {60K35},
+    mrnumber = {2642384},
+    mrreviewer = {Maria E. Vares},
+    number = {8},
+    pages = {1017--1070},
+    title = {Limit process of stationary {TASEP} near the characteristic line},
+    url = {https://doi.org/10.1002/cpa.20316},
+    volume = {63},
+    year = {2010}
+   }
+`The URL link to the source <ttps://doi.org/10.1002/cpa.20316}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

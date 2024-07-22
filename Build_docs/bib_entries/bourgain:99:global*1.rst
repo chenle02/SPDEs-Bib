@@ -7,22 +7,23 @@ bourgain:99:global*1
 
 .. code-block:: bibtex
 
-   @book{bourgain:99:global*1,
+   @article{bourgain:99:global*1,
     author = {Bourgain, J.},
-    doi = {10.1090/coll/046},
-    isbn = {0-8218-1919-4},
-    mrclass = {35Q55 (35Bxx 37K55 37L50)},
-    mrnumber = {1691575},
-    mrreviewer = {Kenji\ Nakanishi},
-    pages = {viii+182},
-    publisher = {American Mathematical Society, Providence, RI},
-    series = {American Mathematical Society Colloquium Publications},
-    title = {Global solutions of nonlinear {S}chr\"{o}dinger equations},
-    url = {https://doi.org/10.1090/coll/046},
-    volume = {46},
+    doi = {10.1090/S0894-0347-99-00283-0},
+    fjournal = {Journal of the American Mathematical Society},
+    issn = {0894-0347,1088-6834},
+    journal = {J. Amer. Math. Soc.},
+    mrclass = {35Q55},
+    mrnumber = {1626257},
+    mrreviewer = {Tohru\ Ozawa},
+    number = {1},
+    pages = {145--171},
+    title = {Global wellposedness of defocusing critical nonlinear {S}chr\"{o}dinger equation in the radial case},
+    url = {https://doi.org/10.1090/S0894-0347-99-00283-0},
+    volume = {12},
     year = {1999}
    }
-`The URL link to the source <ttps://doi.org/10.1090/coll/046}>`_
+`The URL link to the source <ttps://doi.org/10.1090/S0894-0347-99-00283-0}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_
