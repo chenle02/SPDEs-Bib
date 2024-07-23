@@ -1739,7 +1739,6 @@ C
 - :cite:t:`chen.matano.ea:95:finite-point` : `chen.matano.ea:95:finite-point <bib_entries/chen.matano.ea:95:finite-point.html>`_
 - :cite:t:`chen.matano:89:convergence` : `chen.matano:89:convergence <bib_entries/chen.matano:89:convergence.html>`_
 - :cite:t:`chen.meerschaert.ea:12:space-time` : `chen.meerschaert.ea:12:space-time <bib_entries/chen.meerschaert.ea:12:space-time.html>`_
-- :cite:t:`chen.montes.ea:24:simulations` : `chen.montes.ea:24:simulations <bib_entries/chen.montes.ea:24:simulations.html>`_
 - :cite:t:`chen.morters:09:upper` : `chen.morters:09:upper <bib_entries/chen.morters:09:upper.html>`_
 - :cite:t:`chen.nourdin.ea:21:steins` : `chen.nourdin.ea:21:steins <bib_entries/chen.nourdin.ea:21:steins.html>`_
 - :cite:t:`chen.nourdin.ea:22:non-integrable` : `chen.nourdin.ea:22:non-integrable <bib_entries/chen.nourdin.ea:22:non-integrable.html>`_
