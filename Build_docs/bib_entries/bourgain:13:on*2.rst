@@ -7,22 +7,23 @@ bourgain:13:on*2
 
 .. code-block:: bibtex
 
-   @article{bourgain:13:on*2,
+   @incollection{bourgain:13:on*2,
     author = {Bourgain, J.},
-    doi = {10.1007/s11854-013-0016-z},
-    fjournal = {Journal d'Analyse Math\'{e}matique},
-    issn = {0021-7670,1565-8538},
-    journal = {J. Anal. Math.},
-    mrclass = {37A30 (11L20 11N37)},
-    mrnumber = {3095150},
-    mrreviewer = {Giulio\ Tiozzo},
-    pages = {105--130},
-    title = {On the correlation of the {M}oebius function with rank-one systems},
-    url = {https://doi.org/10.1007/s11854-013-0016-z},
-    volume = {120},
+    booktitle = {Asymptotic geometric analysis},
+    doi = {10.1007/978-1-4614-6406-8\_3},
+    isbn = {978-1-4614-6405-1; 978-1-4614-6406-8},
+    mrclass = {37D50 (37D25)},
+    mrnumber = {3076146},
+    mrreviewer = {Boris\ Hasselblatt},
+    pages = {39--44},
+    publisher = {Springer, New York},
+    series = {Fields Inst. Commun.},
+    title = {On the {L}yapunov exponents of {S}chr\"{o}dinger operators associated with the standard map},
+    url = {https://doi.org/10.1007/978-1-4614-6406-8_3},
+    volume = {68},
     year = {2013}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s11854-013-0016-z}>`_
+`The URL link to the source <ttps://doi.org/10.1007/978-1-4614-6406-8_3}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_
