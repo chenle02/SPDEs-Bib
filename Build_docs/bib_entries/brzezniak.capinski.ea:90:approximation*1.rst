@@ -7,17 +7,22 @@ brzezniak.capinski.ea:90:approximation*1
 
 .. code-block:: bibtex
 
-   @incollection{brzezniak.capinski.ea:90:approximation*1,
+   @article{brzezniak.capinski.ea:90:approximation*1,
     author = {Brze\'{z}niak, Z. and Capi\'{n}ski, M. and Flandoli, F.},
-    booktitle = {Stochastic processes, physics and geometry ({A}scona and {L}ocarno, 1988)},
-    isbn = {981-02-0019-6},
-    mrclass = {60H15 (35R60)},
-    mrnumber = {1124214},
-    mrreviewer = {Jan\ Ub\o e},
-    pages = {256--268},
-    publisher = {World Sci. Publ., Teaneck, NJ},
-    title = {Approximation of white noise in stochastic partial differential equations},
+    doi = {10.1080/07362999008809210},
+    fjournal = {Stochastic Analysis and Applications},
+    issn = {0736-2994,1532-9356},
+    journal = {Stochastic Anal. Appl.},
+    mrclass = {60H15 (60J60)},
+    mrnumber = {1066168},
+    number = {3},
+    pages = {293--313},
+    title = {Approximation for diffusion in random fields},
+    url = {https://doi.org/10.1080/07362999008809210},
+    volume = {8},
     year = {1990}
    }
+`The URL link to the source <ttps://doi.org/10.1080/07362999008809210}>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

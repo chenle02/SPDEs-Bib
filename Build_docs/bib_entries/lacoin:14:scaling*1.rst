@@ -1,0 +1,28 @@
+lacoin:14:scaling*1
+===================
+
+:cite:t:`lacoin:14:scaling*1`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lacoin:14:scaling*1,
+    author = {Lacoin, Hubert},
+    doi = {10.1007/s00220-014-2058-1},
+    fjournal = {Communications in Mathematical Physics},
+    issn = {0010-3616,1432-0916},
+    journal = {Comm. Math. Phys.},
+    mrclass = {82D60 (60F05 60J28 60K35 82C24)},
+    mrnumber = {3231995},
+    number = {1},
+    pages = {21--66},
+    title = {The scaling limit of polymer pinning dynamics and a one dimensional {S}tefan freezing problem},
+    url = {https://doi.org/10.1007/s00220-014-2058-1},
+    volume = {331},
+    year = {2014}
+   }
+`The URL link to the source <ttps://doi.org/10.1007/s00220-014-2058-1}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

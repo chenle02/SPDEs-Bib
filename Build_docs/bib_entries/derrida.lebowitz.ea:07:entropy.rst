@@ -1,0 +1,29 @@
+derrida.lebowitz.ea:07:entropy
+==============================
+
+:cite:t:`derrida.lebowitz.ea:07:entropy`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{derrida.lebowitz.ea:07:entropy,
+    author = {Derrida, B. and Lebowitz, J. L. and Speer, E. R.},
+    doi = {10.1007/s10955-006-9160-5},
+    fjournal = {Journal of Statistical Physics},
+    issn = {0022-4715,1572-9613},
+    journal = {J. Stat. Phys.},
+    mrclass = {82C20 (60K35 82C26)},
+    mrnumber = {2311899},
+    mrreviewer = {Marina\ Vachkovskaia},
+    number = {4-5},
+    pages = {1083--1108},
+    title = {Entropy of open lattice systems},
+    url = {https://doi.org/10.1007/s10955-006-9160-5},
+    volume = {126},
+    year = {2007}
+   }
+`The URL link to the source <ttps://doi.org/10.1007/s10955-006-9160-5}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_
