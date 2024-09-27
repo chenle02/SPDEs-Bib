@@ -1,0 +1,24 @@
+cerny.klimovsky:20:markovian
+============================
+
+:cite:t:`cerny.klimovsky:20:markovian`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{cerny.klimovsky:20:markovian,
+    author = {\v Cern\'y, Ji\v r\'i{} and Klimovsky, Anton},
+    booktitle = {Genealogies of interacting particle systems},
+    isbn = {978-981-120-608-5},
+    mrclass = {60J25 (60G09)},
+    mrnumber = {4448158},
+    pages = {209--228},
+    publisher = {World Sci. Publ., Hackensack, NJ},
+    series = {Lect. Notes Ser. Inst. Math. Sci. Natl. Univ. Singap.},
+    title = {Markovian dynamics of exchangeable arrays},
+    volume = {38},
+    year = {[2020] \copyright 2020}
+   }
+
+`Back to index <../By-Cite-Keys.html>`_
