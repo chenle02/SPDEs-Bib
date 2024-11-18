@@ -9,21 +9,21 @@ bourgain:86:on*1
 
    @article{bourgain:86:on*1,
     author = {Bourgain, J.},
-    doi = {10.1007/BF02764943},
+    doi = {10.1007/BF02764955},
     fjournal = {Israel Journal of Mathematics},
     issn = {0021-2172},
     journal = {Israel J. Math.},
-    mrclass = {47A65},
-    mrnumber = {852479},
-    mrreviewer = {Vern\ Paulsen},
-    number = {2},
-    pages = {227--241},
-    title = {On the similarity problem for polynomially bounded operators on {H}ilbert space},
-    url = {https://doi.org/10.1007/BF02764943},
+    mrclass = {42B25},
+    mrnumber = {853451},
+    mrreviewer = {Roger\ L.\ Jones},
+    number = {3},
+    pages = {257--265},
+    title = {On the {$L^p$}-bounds for maximal functions associated to convex bodies in {${\bf R}^n$}},
+    url = {https://doi.org/10.1007/BF02764955},
     volume = {54},
     year = {1986}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF02764943}>`_
+`The URL link to the source <ttps://doi.org/10.1007/BF02764955}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

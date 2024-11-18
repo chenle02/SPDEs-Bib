@@ -8,7 +8,7 @@ brzezniak.ondrejat:07:strong
 .. code-block:: bibtex
 
    @article{brzezniak.ondrejat:07:strong,
-    author = {Brze\'{z}niak, Zdzis\l aw and Ondrej\'{a}t, Martin},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Ondrej\'{a}t, Martin},
     doi = {10.1016/j.jfa.2007.03.034},
     fjournal = {Journal of Functional Analysis},
     issn = {0022-1236},

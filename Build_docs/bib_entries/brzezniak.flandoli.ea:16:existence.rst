@@ -8,7 +8,7 @@ brzezniak.flandoli.ea:16:existence
 .. code-block:: bibtex
 
    @article{brzezniak.flandoli.ea:16:existence,
-    author = {Brze\'{z}niak, Zdzis\l aw and Flandoli, Franco and Maurelli, Mario},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Flandoli, Franco and Maurelli, Mario},
     doi = {10.1007/s00205-015-0957-8},
     fjournal = {Archive for Rational Mechanics and Analysis},
     issn = {0003-9527,1432-0673},

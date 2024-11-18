@@ -8,7 +8,7 @@ brzezniak.peszat:00:maximal
 .. code-block:: bibtex
 
    @incollection{brzezniak.peszat:00:maximal,
-    author = {Brze\'{z}niak, Zdzis\l aw and Peszat, Szymon},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Peszat, Szymon},
     booktitle = {Stochastic processes, physics and geometry: new interplays, {I} ({L}eipzig, 1999)},
     mrclass = {60H15 (60F10 60H05)},
     mrnumber = {1803378},

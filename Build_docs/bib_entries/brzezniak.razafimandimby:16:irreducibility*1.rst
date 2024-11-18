@@ -8,7 +8,7 @@ brzezniak.razafimandimby:16:irreducibility*1
 .. code-block:: bibtex
 
    @article{brzezniak.razafimandimby:16:irreducibility*1,
-    author = {Brze\'{z}niak, Zdzis\l aw and Razafimandimby, Paul Andr\'{e}},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Razafimandimby, Paul Andr\'{e}},
     doi = {10.3934/dcdsb.2016.21.1051},
     fjournal = {Discrete and Continuous Dynamical Systems. Series B. A Journal Bridging Mathematics and Sciences},
     issn = {1531-3492,1553-524X},

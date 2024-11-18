@@ -8,7 +8,7 @@ brzezniak.flandoli:95:almost
 .. code-block:: bibtex
 
    @article{brzezniak.flandoli:95:almost,
-    author = {Brze\'{z}niak, Zdzis\l aw and Flandoli, Franco},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Flandoli, Franco},
     doi = {10.1016/0304-4149(94)00037-T},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149,1879-209X},

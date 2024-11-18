@@ -8,7 +8,7 @@ brzezniak.gatarek:99:martingale
 .. code-block:: bibtex
 
    @article{brzezniak.gatarek:99:martingale,
-    author = {Brze\'{z}niak, Zdzis\l aw and G\c{a}tarek, Dariusz},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and G\c{a}tarek, Dariusz},
     doi = {10.1016/S0304-4149(99)00034-4},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149},

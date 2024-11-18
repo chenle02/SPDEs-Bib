@@ -9,21 +9,21 @@ flandoli.gess.ea:17:synchronization*1
 
    @article{flandoli.gess.ea:17:synchronization*1,
     author = {Flandoli, Franco and Gess, Benjamin and Scheutzow, Michael},
-    doi = {10.1007/s00440-016-0716-2},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051,1432-2064},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {37H15 (37B25 37G35 60H10)},
-    mrnumber = {3663624},
-    mrreviewer = {Min\ Zhao},
-    number = {3-4},
-    pages = {511--556},
-    title = {Synchronization by noise},
-    url = {https://doi.org/10.1007/s00440-016-0716-2},
-    volume = {168},
+    doi = {10.1214/16-AOP1088},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {37B25 (37G35 37H15 60H10)},
+    mrnumber = {3630300},
+    mrreviewer = {Jos\'{e}\ A.\ Langa},
+    number = {2},
+    pages = {1325--1350},
+    title = {Synchronization by noise for order-preserving random dynamical systems},
+    url = {https://doi.org/10.1214/16-AOP1088},
+    volume = {45},
     year = {2017}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00440-016-0716-2}>`_
+`The URL link to the source <ttps://doi.org/10.1214/16-AOP1088}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

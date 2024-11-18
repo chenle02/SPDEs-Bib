@@ -8,7 +8,7 @@ brzezniak:97:on
 .. code-block:: bibtex
 
    @article{brzezniak:97:on,
-    author = {Brze\'{z}niak, Zdzis\l aw},
+    author = {Brze\'{z}niak, Zdzis{\l}aw},
     doi = {10.1080/17442509708834122},
     fjournal = {Stochastics and Stochastics Reports},
     issn = {1045-1129},

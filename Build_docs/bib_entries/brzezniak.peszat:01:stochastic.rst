@@ -8,7 +8,7 @@ brzezniak.peszat:01:stochastic
 .. code-block:: bibtex
 
    @article{brzezniak.peszat:01:stochastic,
-    author = {Brze\'{z}niak, Zdzis\l aw and Peszat, Szymon},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Peszat, Szymon},
     doi = {10.1214/aop/1015345773},
     fjournal = {The Annals of Probability},
     issn = {0091-1798,2168-894X},

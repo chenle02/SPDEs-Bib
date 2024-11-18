@@ -8,7 +8,7 @@ brzezniak.peszat:00:strong
 .. code-block:: bibtex
 
    @incollection{brzezniak.peszat:00:strong,
-    author = {Brze\'{z}niak, Zdzis\l aw and Peszat, Szymon},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Peszat, Szymon},
     booktitle = {Infinite dimensional stochastic analysis ({A}msterdam, 1999)},
     mrclass = {76D03 (35Q30 35R60 60H15 76D06)},
     mrnumber = {1831412},

@@ -8,7 +8,7 @@ brzezniak.peszat:99:space-time
 .. code-block:: bibtex
 
    @article{brzezniak.peszat:99:space-time,
-    author = {Brze\'{z}niak, Zdzis\l aw and Peszat, Szymon},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Peszat, Szymon},
     doi = {10.4064/sm-137-3-261-299},
     fjournal = {Studia Mathematica},
     issn = {0039-3223},

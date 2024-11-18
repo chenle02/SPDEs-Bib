@@ -15,7 +15,7 @@ harn.steutel:01:stationarity
     journal = {Stoch. Models},
     mrclass = {60G10 (60G51)},
     mrnumber = {1850584},
-    mrreviewer = {Zdzis\l aw Rychlik},
+    mrreviewer = {Zdzis{\l}aw Rychlik},
     number = {3},
     pages = {369--374},
     title = {Stationarity of delayed subordinators},

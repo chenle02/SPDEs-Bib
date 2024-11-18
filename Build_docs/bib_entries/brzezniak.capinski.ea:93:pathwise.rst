@@ -8,7 +8,7 @@ brzezniak.capinski.ea:93:pathwise
 .. code-block:: bibtex
 
    @article{brzezniak.capinski.ea:93:pathwise,
-    author = {Brze\'{z}niak, Zdzis\l aw and Capi\'{n}ski, Marek and Flandoli, Franco},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Capi\'{n}ski, Marek and Flandoli, Franco},
     doi = {10.1007/BF01197339},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051,1432-2064},

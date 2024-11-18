@@ -8,22 +8,21 @@ bourgain:85:on*2
 .. code-block:: bibtex
 
    @article{bourgain:85:on*2,
-    author = {Bourgain, J.},
-    doi = {10.1007/BF02776078},
-    fjournal = {Israel Journal of Mathematics},
-    issn = {0021-2172},
-    journal = {Israel J. Math.},
-    mrclass = {46B99 (05C80 58B05)},
-    mrnumber = {815600},
-    mrreviewer = {Michel\ Deza},
-    number = {1-2},
-    pages = {46--52},
-    title = {On {L}ipschitz embedding of finite metric spaces in {H}ilbert space},
-    url = {https://doi.org/10.1007/BF02776078},
-    volume = {52},
+    author = {Bourgain, Jean},
+    fjournal = {Universit\'{e} de Grenoble. Annales de l'Institut Fourier},
+    issn = {0373-0956,1777-5310},
+    journal = {Ann. Inst. Fourier (Grenoble)},
+    mrclass = {46J15 (30H05 46J20)},
+    mrnumber = {812323},
+    mrreviewer = {Richard\ Rochberg},
+    number = {4},
+    pages = {163--174},
+    title = {On finitely generated closed ideals in {$H^infty(D)$}},
+    url = {http://www.numdam.org/item?id=AIF_1985__35_4_163_0},
+    volume = {35},
     year = {1985}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF02776078}>`_
+`The URL link to the source <ttp://www.numdam.org/item?id=AIF_1985__35_4_163_0}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

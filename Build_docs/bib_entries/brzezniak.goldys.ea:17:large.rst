@@ -8,7 +8,7 @@ brzezniak.goldys.ea:17:large
 .. code-block:: bibtex
 
    @article{brzezniak.goldys.ea:17:large,
-    author = {Brze\'zniak, Zdzis\l aw and Goldys, Ben and Jegaraj, Terence},
+    author = {Brze\'zniak, Zdzis{\l}aw and Goldys, Ben and Jegaraj, Terence},
     doi = {10.1007/s00205-017-1117-0},
     fjournal = {Archive for Rational Mechanics and Analysis},
     issn = {0003-9527,1432-0673},

@@ -8,7 +8,7 @@ brzezniak.ondrejat.ea:16:invariant
 .. code-block:: bibtex
 
    @article{brzezniak.ondrejat.ea:16:invariant,
-    author = {Brze\'{z}niak, Zdzis\l aw and Ondrej\'{a}t, Martin and Seidler, Jan},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Ondrej\'{a}t, Martin and Seidler, Jan},
     doi = {10.1016/j.jde.2015.11.007},
     fjournal = {Journal of Differential Equations},
     issn = {0022-0396,1090-2732},

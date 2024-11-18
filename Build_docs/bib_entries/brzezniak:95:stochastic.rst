@@ -8,7 +8,7 @@ brzezniak:95:stochastic
 .. code-block:: bibtex
 
    @article{brzezniak:95:stochastic,
-    author = {Brze\'{z}niak, Zdzis\l aw},
+    author = {Brze\'{z}niak, Zdzis{\l}aw},
     doi = {10.1007/BF01048965},
     fjournal = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
     issn = {0926-2601},

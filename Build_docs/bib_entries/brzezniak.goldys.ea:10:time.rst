@@ -8,7 +8,7 @@ brzezniak.goldys.ea:10:time
 .. code-block:: bibtex
 
    @article{brzezniak.goldys.ea:10:time,
-    author = {Brze\'{z}niak, Zdzis\l aw and Goldys, Ben and Imkeller, Peter and Peszat, Szymon and Priola, Enrico and Zabczyk, Jerzy},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Goldys, Ben and Imkeller, Peter and Peszat, Szymon and Priola, Enrico and Zabczyk, Jerzy},
     doi = {10.1016/j.crma.2010.01.022},
     fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
     issn = {1631-073X},

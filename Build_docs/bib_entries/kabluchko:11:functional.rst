@@ -1,0 +1,29 @@
+kabluchko:11:functional
+=======================
+
+:cite:t:`kabluchko:11:functional`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kabluchko:11:functional,
+    author = {Kabluchko, Zakhar},
+    doi = {10.3150/10-BEJ299},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+    issn = {1350-7265},
+    journal = {Bernoulli},
+    mrclass = {60G51 (60F05 60F17 60G50 60G52 62G30)},
+    mrnumber = {2817612},
+    mrreviewer = {Konstantin Borovkov},
+    number = {3},
+    pages = {942--968},
+    title = {Functional limit theorems for sums of independent geometric {L}\'{e}vy processes},
+    url = {https://doi.org/10.3150/10-BEJ299},
+    volume = {17},
+    year = {2011}
+   }
+`The URL link to the source <ttps://doi.org/10.3150/10-BEJ299}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_

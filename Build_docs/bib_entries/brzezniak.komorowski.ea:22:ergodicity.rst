@@ -8,7 +8,7 @@ brzezniak.komorowski.ea:22:ergodicity
 .. code-block:: bibtex
 
    @article{brzezniak.komorowski.ea:22:ergodicity,
-    author = {Brze\'{z}niak, Zdzis\l aw and Komorowski, Tomasz and Peszat, Szymon},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Komorowski, Tomasz and Peszat, Szymon},
     doi = {10.1214/21-ecp443},
     fjournal = {Electronic Communications in Probability},
     issn = {1083-589X},

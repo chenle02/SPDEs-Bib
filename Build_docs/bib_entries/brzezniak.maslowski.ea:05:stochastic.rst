@@ -8,7 +8,7 @@ brzezniak.maslowski.ea:05:stochastic
 .. code-block:: bibtex
 
    @article{brzezniak.maslowski.ea:05:stochastic,
-    author = {Brze\'{z}niak, Zdzis\l aw and Maslowski, Bohdan and Seidler, Jan},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Maslowski, Bohdan and Seidler, Jan},
     doi = {10.1007/s00440-004-0392-5},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051,1432-2064},
