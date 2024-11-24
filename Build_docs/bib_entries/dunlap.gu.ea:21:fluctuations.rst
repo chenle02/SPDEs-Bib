@@ -9,7 +9,7 @@ dunlap.gu.ea:21:fluctuations
 
    @article{dunlap.gu.ea:21:fluctuations,
     author = {Alexander Dunlap and Yu Gu and Tomasz Komorowski},
-    journal = {preprint arXiv:2111.03650},
+    journal = {Preprint arXiv:2111.03650},
     month = {November},
     title = {Fluctuations of the KPZ equation on a large torus},
     url = {https://www.arxiv.org/abs/2111.03650},

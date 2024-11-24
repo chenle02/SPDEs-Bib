@@ -9,7 +9,7 @@ mueller.neuman:20:scaling
 
    @article{mueller.neuman:20:scaling,
     author = {Carl Mueller and Eyal Neuman},
-    journal = {preprint arXiv:2006.07189},
+    journal = {Preprint arXiv:2006.07189},
     month = {June},
     title = {Scaling Properties of a Moving Polymer},
     url = {http://arXiv.org/abs/2006.07189},

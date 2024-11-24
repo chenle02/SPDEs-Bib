@@ -9,7 +9,7 @@ jimenez:23:stochastic
 
    @article{jimenez:23:stochastic,
     author = {Juan J. Jim\'enez},
-    journal = {preprint arXiv:2310.05907},
+    journal = {Preprint arXiv:2310.05907},
     month = {October},
     title = {Stochastic wave equation with heavy-tailed noise: Uniqueness of solutions and past-light cone property},
     url = {http://arXiv.org/abs/2310.05907},

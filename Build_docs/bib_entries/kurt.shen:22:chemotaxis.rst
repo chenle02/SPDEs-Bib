@@ -9,7 +9,7 @@ kurt.shen:22:chemotaxis
 
    @article{kurt.shen:22:chemotaxis,
     author = {Halil Ibrahim Kurt and Wenxian Shen},
-    journal = {preprint arXiv:2205.00096},
+    journal = {Preprint arXiv:2205.00096},
     month = {April},
     title = {Chemotaxis systems with singular sensitivity and logistic source: Boundedness, persistence, absorbing set, and entire solutions},
     url = {http://arXiv.org/abs/2205.00096},

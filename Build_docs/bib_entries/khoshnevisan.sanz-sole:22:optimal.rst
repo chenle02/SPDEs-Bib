@@ -9,7 +9,7 @@ khoshnevisan.sanz-sole:22:optimal
 
    @article{khoshnevisan.sanz-sole:22:optimal,
     author = {Davar Khoshnevisan and Marta Sanz-Sol\'e},
-    journal = {preprint arXiv:2208.01728},
+    journal = {Preprint arXiv:2208.01728},
     month = {August},
     title = {Optimal regularity of SPDEs with additive noise},
     url = {http://arXiv.org/abs/2208.01728},

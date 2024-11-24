@@ -9,7 +9,7 @@ mayorcas.singh:23:singular
 
    @article{mayorcas.singh:23:singular,
     author = {Avi Mayorcas and Harprit Singh},
-    journal = {preprint arXiv:2301.05121},
+    journal = {Preprint arXiv:2301.05121},
     month = {January},
     title = {Singular SPDEs on Homogeneous Lie Groups},
     url = {http://arXiv.org/abs/2301.05121},

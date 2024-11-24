@@ -9,7 +9,7 @@ gu.komorowski:21:high
 
    @article{gu.komorowski:21:high,
     author = {Yu Gu and Tomasz Komorowski},
-    journal = {preprint arXiv:2110.07368},
+    journal = {Preprint arXiv:2110.07368},
     month = {October},
     title = {High temperature behaviors of the directed polymer on a cylinder},
     url = {https://www.arxiv.org/abs/2110.07368},

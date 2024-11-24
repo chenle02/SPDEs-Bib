@@ -9,7 +9,7 @@ baudoin.chen:22:dirichlet
 
    @article{baudoin.chen:22:dirichlet,
     author = {Fabrice Baudoin and Li Chen},
-    journal = {preprint arXiv:2201.03970},
+    journal = {Preprint arXiv:2201.03970},
     month = {January},
     title = {Dirichlet fractional Gaussian fields on the Sierpinski gasket and their discrete graph approximations},
     url = {https://www.arxiv.org/abs/2201.03970},

@@ -9,7 +9,7 @@ gu.komorowski:22:gaussian
 
    @article{gu.komorowski:22:gaussian,
     author = {Yu Gu and Tomasz Komorowski},
-    journal = {preprint arXiv:2201.07097},
+    journal = {Preprint arXiv:2201.07097},
     month = {January},
     title = {Gaussian fluctuations of replica overlap in directed polymers},
     url = {https://www.arxiv.org/abs/2201.07097},

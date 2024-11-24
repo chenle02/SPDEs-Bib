@@ -9,7 +9,7 @@ khoshnevisan.kim.ea:23:small-ball
 
    @article{khoshnevisan.kim.ea:23:small-ball,
     author = {Davar Khoshnevisan and Kunwoo Kim and Carl Mueller},
-    journal = {preprint arXiv:2312.05789},
+    journal = {Preprint arXiv:2312.05789},
     month = {December},
     title = {Small-ball constants, and exceptional flat points of SPDEs},
     url = {http://arXiv.org/abs/2312.05789},

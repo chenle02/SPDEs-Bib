@@ -9,7 +9,7 @@ gu.komorowski:21:kpz
 
    @article{gu.komorowski:21:kpz,
     author = {Yu Gu and Tomasz Komorowski},
-    journal = {preprint arXiv:2104.13540},
+    journal = {Preprint arXiv:2104.13540},
     month = {April},
     title = {KPZ on torus: Gaussian fluctuations},
     url = {https://www.arxiv.org/abs/2104.13540},

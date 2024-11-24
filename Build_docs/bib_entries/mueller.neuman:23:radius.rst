@@ -9,7 +9,7 @@ mueller.neuman:23:radius
 
    @article{mueller.neuman:23:radius,
     author = {Carl Mueller and Eyal Neuman},
-    journal = {preprint arXiv:2306.01537},
+    journal = {Preprint arXiv:2306.01537},
     month = {June},
     title = {The radius of a self-repelling star polymer},
     url = {http://arXiv.org/abs/2306.01537},

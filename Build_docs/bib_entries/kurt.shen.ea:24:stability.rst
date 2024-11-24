@@ -9,7 +9,7 @@ kurt.shen.ea:24:stability
 
    @article{kurt.shen.ea:24:stability,
     author = {Halil Ibrahim Kurt and Wenxian Shen and Shuwen Xue},
-    journal = {preprint arXiv:2403.14907},
+    journal = {Preprint arXiv:2403.14907},
     month = {March},
     title = {Stability, bifurcation and spikes of stationary solutions in a chemotaxis system with singular sensitivity and logistic source},
     url = {http://arXiv.org/abs/2403.14907},

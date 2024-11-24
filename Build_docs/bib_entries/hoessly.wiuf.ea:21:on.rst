@@ -9,7 +9,7 @@ hoessly.wiuf.ea:21:on
 
    @article{hoessly.wiuf.ea:21:on,
     author = {Linard Hoessly and Carsten Wiuf and Panqiu Xia},
-    journal = {preprint arXiv:2105.04353},
+    journal = {Preprint arXiv:2105.04353},
     month = {May},
     title = {On the sum of chemical reactions},
     url = {http://arXiv.org/abs/2105.04353},

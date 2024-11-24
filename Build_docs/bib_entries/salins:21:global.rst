@@ -9,7 +9,7 @@ salins:21:global
 
    @article{salins:21:global,
     author = {Michael Salins},
-    journal = {preprint arXiv:2110.10130},
+    journal = {Preprint arXiv:2110.10130},
     month = {October},
     title = {Global solutions to the stochastic heat equation with superlinear accretive reaction term and superlinear multiplicative noise term on a bounded spatial domain},
     url = {https://www.arxiv.org/abs/2110.10130},

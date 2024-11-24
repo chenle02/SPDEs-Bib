@@ -9,7 +9,7 @@ guo.song.ea:23:stochastic
 
    @article{guo.song.ea:23:stochastic,
     author = {Yuhui Guo and Jian Song and Xiaoming Song},
-    journal = {preprint arXiv:2303.11939},
+    journal = {Preprint arXiv:2303.11939},
     month = {March},
     title = {Stochastic fractional diffusion equations with Gaussian noise rough in space},
     url = {http://arXiv.org/abs/2303.11939},
