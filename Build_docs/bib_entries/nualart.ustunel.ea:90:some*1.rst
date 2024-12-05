@@ -7,22 +7,23 @@ nualart.ustunel.ea:90:some*1
 
 .. code-block:: bibtex
 
-   @incollection{nualart.ustunel.ea:90:some*1,
+   @article{nualart.ustunel.ea:90:some*1,
     author = {Nualart, D. and \"{U}st\"{u}nel, A. S. and Zakai, M.},
-    booktitle = {Stochastic analysis and related topics, {II} ({S}ilivri, 1988)},
-    doi = {10.1007/BFb0083612},
-    mrclass = {60H99 (60G15)},
-    mrnumber = {1078845},
-    mrreviewer = {Denis R. Bell},
-    pages = {122--127},
-    publisher = {Springer, Berlin},
-    series = {Lecture Notes in Math.},
-    title = {Some remarks on independence and conditioning on {W}iener space},
-    url = {https://doi.org/10.1007/BFb0083612},
-    volume = {1444},
+    doi = {10.1007/BF01377633},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60H05 (28C20 46G12 60H07)},
+    mrnumber = {1044304},
+    mrreviewer = {Ana Bela Cruzeiro},
+    number = {1},
+    pages = {119--129},
+    title = {Some relations among classes of {$\sigma$}-fields on {W}iener space},
+    url = {https://doi.org/10.1007/BF01377633},
+    volume = {85},
     year = {1990}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BFb0083612}>`_
+`The URL link to the source <ttps://doi.org/10.1007/BF01377633}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

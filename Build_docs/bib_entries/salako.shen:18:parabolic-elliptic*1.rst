@@ -9,20 +9,20 @@ salako.shen:18:parabolic-elliptic*1
 
    @article{salako.shen:18:parabolic-elliptic*1,
     author = {Salako, Rachidi B. and Shen, Wenxian},
-    doi = {10.1142/S0218202518400146},
-    fjournal = {Mathematical Models and Methods in Applied Sciences},
-    issn = {0218-2025,1793-6314},
-    journal = {Math. Models Methods Appl. Sci.},
-    mrclass = {92C17 (35B35 35B40 35K57 35M31 35Q92)},
-    mrnumber = {3864868},
-    number = {11},
-    pages = {2237--2273},
-    title = {Parabolic-elliptic chemotaxis model with space-time-dependent logistic sources on {$\Bbb{R}^N$}. {I}. {P}ersistence and asymptotic spreading},
-    url = {https://doi.org/10.1142/S0218202518400146},
-    volume = {28},
+    doi = {10.1016/j.jmaa.2018.04.034},
+    fjournal = {Journal of Mathematical Analysis and Applications},
+    issn = {0022-247X,1096-0813},
+    journal = {J. Math. Anal. Appl.},
+    mrclass = {35Q92 (35M31 92C17)},
+    mrnumber = {3794120},
+    number = {1},
+    pages = {883--910},
+    title = {Parabolic-elliptic chemotaxis model with space-time dependent logistic sources on {$\Bbb{R}^N$}. {II}. {E}xistence, uniqueness, and stability of strictly positive entire solutions},
+    url = {https://doi.org/10.1016/j.jmaa.2018.04.034},
+    volume = {464},
     year = {2018}
    }
-`The URL link to the source <ttps://doi.org/10.1142/S0218202518400146}>`_
+`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2018.04.034}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

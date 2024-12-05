@@ -11,7 +11,7 @@ derrida:80:random
     author = {Derrida, B.},
     doi = {10.1016/0370-1573(80)90076-9},
     fjournal = {Physics Reports. A Review Section of Physics Letters},
-    issn = {0370-1573},
+    issn = {0370-1573,1873-6270},
     journal = {Phys. Rep.},
     mrclass = {82A57},
     mrnumber = {600877},

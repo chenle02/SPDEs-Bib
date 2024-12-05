@@ -7,23 +7,23 @@ bourgain:03:on*2
 
 .. code-block:: bibtex
 
-   @article{bourgain:03:on*2,
+   @incollection{bourgain:03:on*2,
     author = {Bourgain, J.},
-    doi = {10.1007/s000390300008},
-    fjournal = {Geometric and Functional Analysis},
-    issn = {1016-443X,1420-8970},
-    journal = {Geom. Funct. Anal.},
-    mrclass = {11K55 (28A80)},
-    mrnumber = {1982147},
-    mrreviewer = {Ben\ Joseph\ Green},
-    number = {2},
-    pages = {334--365},
-    title = {On the {E}rd\H{o}s-{V}olkmann and {K}atz-{T}ao ring conjectures},
-    url = {https://doi.org/10.1007/s000390300008},
-    volume = {13},
+    booktitle = {Geometric aspects of functional analysis},
+    doi = {10.1007/978-3-540-36428-3\_8},
+    isbn = {3-540-00485-8},
+    mrclass = {35Q40 (35B40)},
+    mrnumber = {2083390},
+    mrreviewer = {Woodford\ W.\ Zachary},
+    pages = {99--113},
+    publisher = {Springer, Berlin},
+    series = {Lecture Notes in Math.},
+    title = {On long-time behaviour of solutions of linear {S}chr\"{o}dinger equations with smooth time-dependent potential},
+    url = {https://doi.org/10.1007/978-3-540-36428-3_8},
+    volume = {1807},
     year = {2003}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s000390300008}>`_
+`The URL link to the source <ttps://doi.org/10.1007/978-3-540-36428-3_8}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

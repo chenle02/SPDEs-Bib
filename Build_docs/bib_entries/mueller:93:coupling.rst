@@ -17,11 +17,11 @@ mueller:93:coupling
     number = {4},
     pages = {2189--2199},
     title = {Coupling and invariant measures for the heat equation with noise},
-    url = {http://links.jstor.org/sici?sici=0091-1798(199310)21:4<2189:CAIMFT>2.0.CO;2-L&origin=MSN},
+    url = {https://doi.org/10.1214/aop/1176989016},
     volume = {21},
     year = {1993}
    }
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(199310)21:4<2189:CAIMFT>2.0.CO;2-L&origin=MSN}>`_
+`The URL link to the source <ttps://doi.org/10.1214/aop/1176989016}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

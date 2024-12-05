@@ -7,16 +7,23 @@ flandoli:96:stochastic*2
 
 .. code-block:: bibtex
 
-   @incollection{flandoli:96:stochastic*2,
+   @article{flandoli:96:stochastic*2,
     author = {Flandoli, Franco},
-    booktitle = {World {C}ongress of {N}onlinear {A}nalysts '92, {V}ol. {I}--{IV} ({T}ampa, {FL}, 1992)},
-    isbn = {3-11-013215-X},
-    mrclass = {34F05 (47H15 60H10)},
-    mrnumber = {1389208},
-    pages = {1765--1777},
-    publisher = {de Gruyter, Berlin},
-    title = {Stochastic evolution equations with non-coercive monotone operators},
+    doi = {10.1214/aop/1039639354},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60H15 (35K57 35R60)},
+    mrnumber = {1404520},
+    mrreviewer = {Marek\ Capi\'{n}ski},
+    number = {2},
+    pages = {547--558},
+    title = {Stochastic flows for nonlinear second-order parabolic {SPDE}},
+    url = {https://doi.org/10.1214/aop/1039639354},
+    volume = {24},
     year = {1996}
    }
+`The URL link to the source <ttps://doi.org/10.1214/aop/1039639354}>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_
