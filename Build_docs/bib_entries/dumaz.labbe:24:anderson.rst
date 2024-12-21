@@ -15,6 +15,7 @@ dumaz.labbe:24:anderson
     journal = {J. Funct. Anal.},
     mrclass = {60H25 (35P20 82B44)},
     mrnumber = {4654015},
+    mrreviewer = {Le Chen},
     number = {1},
     pages = {Paper No. 110191, 45},
     title = {Anderson localization for the 1-d {S}chr\"{o}dinger operator with white noise potential},

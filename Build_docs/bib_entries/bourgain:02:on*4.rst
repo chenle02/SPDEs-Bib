@@ -7,7 +7,6 @@ bourgain:02:on*4
 
 .. code-block:: bibtex
 
-<<<<<<< Updated upstream
    @article{bourgain:02:on*4,
     author = {Bourgain, Jean},
     doi = {10.1073/pnas.222494399},
@@ -22,46 +21,9 @@ bourgain:02:on*4
     title = {On the global {C}auchy problem for the nonlinear {S}chr\"{o}dinger equation},
     url = {https://doi.org/10.1073/pnas.222494399},
     volume = {99},
-||||||| Stash base
-   @incollection{bourgain:02:on*4,
-    author = {Bourgain, J.},
-    doi = {10.1007/BF02786578},
-    fjournal = {Journal d'Analyse Math\'{e}matique},
-    issn = {0021-7670,1565-8538},
-    journal = {J. Anal. Math.},
-    mrclass = {47B39 (47A10 47N55 81Q10 82B44)},
-    mrnumber = {1984594},
-    mrreviewer = {David\ Damanik},
-    note = {Dedicated to the memory of Tom Wolff},
-    pages = {221--254},
-    title = {On the spectrum of lattice {S}chr\"{o}dinger operators with deterministic potential. {II}},
-    url = {https://doi.org/10.1007/BF02786578},
-    volume = {88},
-=======
-   @incollection{bourgain:02:on*4,
-    author = {Bourgain, J.},
-    doi = {10.1007/BF02868469},
-    fjournal = {Journal d'Analyse Math\'{e}matique},
-    issn = {0021-7670,1565-8538},
-    journal = {J. Anal. Math.},
-    mrclass = {47B39 (35P20 47A10 47N50 81Q10)},
-    mrnumber = {1945277},
-    mrreviewer = {David\ Damanik},
-    note = {Dedicated to the memory of Thomas H. Wolff},
-    pages = {37--75},
-    title = {On the spectrum of lattice {S}chr\"{o}dinger operators with deterministic potential},
-    url = {https://doi.org/10.1007/BF02868469},
-    volume = {87},
->>>>>>> Stashed changes
     year = {2002}
    }
-<<<<<<< Updated upstream
 `The URL link to the source <ttps://doi.org/10.1073/pnas.222494399}>`_
-||||||| Stash base
-`The URL link to the source <ttps://doi.org/10.1007/BF02786578}>`_
-=======
-`The URL link to the source <ttps://doi.org/10.1007/BF02868469}>`_
->>>>>>> Stashed changes
 
 
 `Back to index <../By-Cite-Keys.html>`_

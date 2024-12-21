@@ -12,7 +12,7 @@ reed.simon:79:methods
     isbn = {0-12-585003-4},
     mrclass = {81F99},
     mrnumber = {529429},
-    mrreviewer = {P. R. Chernoff},
+    mrreviewer = {P.\ R.\ Chernoff},
     note = {Scattering theory},
     pages = {xv+463},
     publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers], New York-London},

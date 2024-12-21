@@ -8,10 +8,10 @@ caputo.labbe.ea:20:mixing
 .. code-block:: bibtex
 
    @article{caputo.labbe.ea:20:mixing,
-    author = {Caputo, Pietro and Labb\'e, Cyril and Lacoin, Hubert},
+    author = {Caputo, Pietro and Labb\'{e}, Cyril and Lacoin, Hubert},
     doi = {10.1214/20-AOP1428},
     fjournal = {The Annals of Probability},
-    issn = {0091-1798,2168-894X},
+    issn = {0091-1798},
     journal = {Ann. Probab.},
     mrclass = {60J27 (37A25 82C22)},
     mrnumber = {4152648},

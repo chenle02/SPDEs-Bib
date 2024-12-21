@@ -11,7 +11,7 @@ gaudreau-lamarre.ghosal.ea:23:rigidity
     author = {Gaudreau Lamarre, Pierre Yves and Ghosal, Promit and Li, Wenxuan and Liao, Yuchen},
     doi = {10.1093/imrn/rnac265},
     fjournal = {International Mathematics Research Notices. IMRN},
-    issn = {1073-7928,1687-0247},
+    issn = {1073-7928},
     journal = {Int. Math. Res. Not. IMRN},
     mrclass = {60H25 (47A10 47B80 60G55)},
     mrnumber = {4681269},

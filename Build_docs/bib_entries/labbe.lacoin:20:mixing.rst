@@ -8,10 +8,10 @@ labbe.lacoin:20:mixing
 .. code-block:: bibtex
 
    @article{labbe.lacoin:20:mixing,
-    author = {Labb\'e, Cyril and Lacoin, Hubert},
+    author = {Labb\'{e}, Cyril and Lacoin, Hubert},
     doi = {10.1214/19-AAP1545},
     fjournal = {The Annals of Applied Probability},
-    issn = {1050-5164,2168-8737},
+    issn = {1050-5164},
     journal = {Ann. Appl. Probab.},
     mrclass = {60J27 (37A60 82C22)},
     mrnumber = {4132639},

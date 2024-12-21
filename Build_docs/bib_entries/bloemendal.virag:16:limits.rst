@@ -1,0 +1,29 @@
+bloemendal.virag:16:limits
+==========================
+
+:cite:t:`bloemendal.virag:16:limits`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bloemendal.virag:16:limits,
+    author = {Bloemendal, Alex and Vir\'{a}g, B\'{a}lint},
+    doi = {10.1214/15-AOP1033},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60B20 (60B12)},
+    mrnumber = {3531679},
+    mrreviewer = {Deli Li},
+    number = {4},
+    pages = {2726--2769},
+    title = {Limits of spiked random matrices {II}},
+    url = {https://doi.org/10.1214/15-AOP1033},
+    volume = {44},
+    year = {2016}
+   }
+`The URL link to the source <ttps://doi.org/10.1214/15-AOP1033}>`_
+
+
+`Back to index <../By-Cite-Keys.html>`_
