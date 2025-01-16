@@ -18,7 +18,8 @@ shen:96:lifted
     mrreviewer = {Volker\ Matthias\ Gundlach},
     number = {5},
     pages = {1379--1399},
-    title = {Lifted lattices, hyperbolic structures, and topological disorders in coupled map lattices},
+    title = {Lifted lattices, hyperbolic structures, and topological
+   disorders in coupled map lattices},
     url = {https://doi.org/10.1137/S0036139995282670},
     volume = {56},
     year = {1996}

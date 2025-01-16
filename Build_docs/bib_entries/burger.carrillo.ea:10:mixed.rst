@@ -8,7 +8,8 @@ burger.carrillo.ea:10:mixed
 .. code-block:: bibtex
 
    @article{burger.carrillo.ea:10:mixed,
-    author = {Burger, Martin and Carrillo, Jos\'{e} A. and Wolfram, Marie-Therese},
+    author = {Burger, Martin and Carrillo, Jos\'{e} A. and Wolfram,
+   Marie-Therese},
     doi = {10.3934/krm.2010.3.59},
     fjournal = {Kinetic and Related Models},
     issn = {1937-5093},
@@ -18,7 +19,8 @@ burger.carrillo.ea:10:mixed
     mrreviewer = {Temur Jangveladze},
     number = {1},
     pages = {59--83},
-    title = {A mixed finite element method for nonlinear diffusion equations},
+    title = {A mixed finite element method for nonlinear diffusion
+   equations},
     url = {https://doi.org/10.3934/krm.2010.3.59},
     volume = {3},
     year = {2010}

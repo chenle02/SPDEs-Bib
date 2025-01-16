@@ -17,7 +17,8 @@ nane.wu.ea:12:-time
     mrnumber = {2900521},
     mrreviewer = {Narn-Rueih Shieh},
     pages = {1--24},
-    title = {{$\alpha$}-time fractional {B}rownian motion: {PDE} connections and local times},
+    title = {{$\alpha$}-time fractional {B}rownian motion: {PDE}
+   connections and local times},
     url = {https://doi.org/10.1051/ps/2011103},
     volume = {16},
     year = {2012}

@@ -10,7 +10,8 @@ langlands.henry:10:fractional
    @article{langlands.henry:10:fractional,
     author = {Langlands, T. A. M. and Henry, B. I.},
     doi = {10.1103/PhysRevE.81.051102},
-    fjournal = {Physical Review E. Statistical, Nonlinear, and Soft Matter Physics},
+    fjournal = {Physical Review E. Statistical, Nonlinear, and Soft Matter
+   Physics},
     issn = {1539-3755},
     journal = {Phys. Rev. E (3)},
     mrclass = {35R11 (35K57 35Q92 92C17)},

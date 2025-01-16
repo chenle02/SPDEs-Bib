@@ -16,7 +16,8 @@ luchko:12:anomalous
     pages = {115--145},
     publisher = {Birkh\"{a}user/Springer Basel AG, Basel},
     series = {Trends Math.},
-    title = {Anomalous diffusion: models, their analysis, and interpretation},
+    title = {Anomalous diffusion: models, their analysis, and
+   interpretation},
     url = {https://doi.org/10.1007/978-3-0348-0417-2_3},
     year = {2012}
    }

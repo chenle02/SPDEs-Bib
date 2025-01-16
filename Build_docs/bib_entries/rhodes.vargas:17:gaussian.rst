@@ -16,7 +16,8 @@ rhodes.vargas:17:gaussian
     mrreviewer = {Nizar\ Demni},
     pages = {548--577},
     publisher = {Oxford Univ. Press, Oxford},
-    title = {Gaussian multiplicative chaos and {L}iouville quantum gravity},
+    title = {Gaussian multiplicative chaos and {L}iouville quantum
+   gravity},
     year = {2017}
    }
 

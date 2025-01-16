@@ -18,7 +18,8 @@ jordan.wheeler:76:generalization
     mrreviewer = {K. N. Srivastava},
     number = {1},
     pages = {109--114},
-    title = {A generalization of the {W}iener-{L}\'{e}vy theorem applicable to some {V}olterra equations},
+    title = {A generalization of the {W}iener-{L}\'{e}vy theorem
+   applicable to some {V}olterra equations},
     url = {https://doi.org/10.2307/2040875},
     volume = {57},
     year = {1976}

@@ -18,7 +18,8 @@ del-moral.tindel:05:berry-esseen
     mrreviewer = {Frederi G. Viens},
     number = {1B},
     pages = {941--962},
-    title = {A {B}erry-{E}sseen theorem for {F}eynman-{K}ac and interacting particle models},
+    title = {A {B}erry-{E}sseen theorem for {F}eynman-{K}ac and
+   interacting particle models},
     url = {https://doi.org/10.1214/105051604000000792},
     volume = {15},
     year = {2005}

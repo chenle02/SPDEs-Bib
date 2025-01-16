@@ -8,7 +8,8 @@ corwin.ghosal.ea:20:stochastic
 .. code-block:: bibtex
 
    @article{corwin.ghosal.ea:20:stochastic,
-    author = {Corwin, Ivan and Ghosal, Promit and Shen, Hao and Tsai, Li-Cheng},
+    author = {Corwin, Ivan and Ghosal, Promit and Shen, Hao and Tsai,
+   Li-Cheng},
     doi = {10.1007/s00220-019-03678-z},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},

@@ -18,7 +18,8 @@ komorowski.peszat:04:transport
     mrreviewer = {Azzouz\ Dermoune},
     number = {5-6},
     pages = {1361--1388},
-    title = {Transport of a passive tracer by an irregular velocity field},
+    title = {Transport of a passive tracer by an irregular velocity
+   field},
     url = {https://doi.org/10.1023/B:JOSS.0000028063.58764.68},
     volume = {115},
     year = {2004}

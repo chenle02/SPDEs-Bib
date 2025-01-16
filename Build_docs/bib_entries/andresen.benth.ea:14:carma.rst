@@ -8,7 +8,8 @@ andresen.benth.ea:14:carma
 .. code-block:: bibtex
 
    @article{andresen.benth.ea:14:carma,
-    author = {Andresen, Arne and Benth, Fred Espen and Koekebakker, Steen and Zakamulin, Valeriy},
+    author = {Andresen, Arne and Benth, Fred Espen and Koekebakker,
+   Steen and Zakamulin, Valeriy},
     doi = {10.1142/S0219024914500083},
     fjournal = {International Journal of Theoretical and Applied Finance},
     issn = {0219-0249},

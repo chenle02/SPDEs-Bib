@@ -8,8 +8,10 @@ mazziotto.stettner.ea:85:on
 .. code-block:: bibtex
 
    @incollection{mazziotto.stettner.ea:85:on,
-    author = {Mazziotto, G. and Stettner, \L . and Szpirglas, J. and Zabczyk, J.},
-    booktitle = {Stochastic differential systems ({M}arseille-{L}uminy, 1984)},
+    author = {Mazziotto, G. and Stettner, \L . and Szpirglas, J. and
+   Zabczyk, J.},
+    booktitle = {Stochastic differential systems ({M}arseille-{L}uminy,
+   1984)},
     doi = {10.1007/BFb0005085},
     isbn = {3-540-15176-1},
     mrclass = {93E03},

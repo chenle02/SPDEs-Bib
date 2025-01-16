@@ -18,7 +18,8 @@ binotto.nourdin.ea:18:weak
     mrreviewer = {Georgiy M. Shevchenko},
     number = {4},
     pages = {2243--2267},
-    title = {Weak symmetric integrals with respect to the fractional {B}rownian motion},
+    title = {Weak symmetric integrals with respect to the fractional
+   {B}rownian motion},
     url = {https://doi.org/10.1214/17-AOP1227},
     volume = {46},
     year = {2018}

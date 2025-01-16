@@ -17,7 +17,8 @@ cranston:87:on
     mrreviewer = {Joseph\ Glover},
     number = {3},
     pages = {1009--1013},
-    title = {On the means of approach to the boundary of {B}rownian motion},
+    title = {On the means of approach to the boundary of {B}rownian
+   motion},
     url = {http://links.jstor.org/sici?sici=0091-1798(198707)15:3<1009:OTMOAT>2.0.CO;2-#&origin=MSN},
     volume = {15},
     year = {1987}

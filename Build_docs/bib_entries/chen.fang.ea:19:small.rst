@@ -18,7 +18,8 @@ chen.fang.ea:19:small
     mrreviewer = {Qi L\"{u}},
     number = {8},
     pages = {3567--3578},
-    title = {Small time asymptotics for {B}rownian motion with singular drift},
+    title = {Small time asymptotics for {B}rownian motion with singular
+   drift},
     url = {https://doi.org/10.1090/proc/14511},
     volume = {147},
     year = {2019}

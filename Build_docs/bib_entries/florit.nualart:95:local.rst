@@ -18,7 +18,8 @@ florit.nualart:95:local
     mrreviewer = {Jean Picard},
     number = {1},
     pages = {25--31},
-    title = {A local criterion for smoothness of densities and application to the supremum of the {B}rownian sheet},
+    title = {A local criterion for smoothness of densities and
+   application to the supremum of the {B}rownian sheet},
     url = {https://doi.org/10.1016/0167-7152(94)00043-8},
     volume = {22},
     year = {1995}

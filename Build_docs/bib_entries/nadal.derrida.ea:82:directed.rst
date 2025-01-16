@@ -17,7 +17,8 @@ nadal.derrida.ea:82:directed
     mrnumber = {684783},
     number = {11},
     pages = {1561--1574},
-    title = {Directed lattice animals in {$2$}\ dimensions: numerical and exact results},
+    title = {Directed lattice animals in {$2$}\ dimensions: numerical
+   and exact results},
     url = {https://doi.org/10.1051/jphys:0198200430110156100},
     volume = {43},
     year = {1982}

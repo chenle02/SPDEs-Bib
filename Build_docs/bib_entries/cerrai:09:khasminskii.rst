@@ -17,7 +17,8 @@ cerrai:09:khasminskii
     mrnumber = {2537194},
     number = {3},
     pages = {899--948},
-    title = {A {K}hasminskii type averaging principle for stochastic reaction-diffusion equations},
+    title = {A {K}hasminskii type averaging principle for stochastic
+   reaction-diffusion equations},
     url = {https://doi.org/10.1214/08-AAP560},
     volume = {19},
     year = {2009}

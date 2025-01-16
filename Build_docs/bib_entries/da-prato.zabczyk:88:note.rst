@@ -9,7 +9,8 @@ da-prato.zabczyk:88:note
 
    @article{da-prato.zabczyk:88:note,
     author = {Da Prato, G. and Zabczyk, J.},
-    fjournal = {Differential and Integral Equations. An International Journal for Theory and Applications},
+    fjournal = {Differential and Integral Equations. An International
+   Journal for Theory and Applications},
     issn = {0893-4983},
     journal = {Differential Integral Equations},
     mrclass = {60H20 (34F05 35R60 47H20 93E03)},

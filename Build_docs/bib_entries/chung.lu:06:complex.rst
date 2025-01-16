@@ -15,7 +15,9 @@ chung.lu:06:complex
     mrnumber = {2248695},
     mrreviewer = {Colin D. Cooper},
     pages = {viii+264},
-    publisher = {Published for the Conference Board of the Mathematical Sciences, Washington, DC; by the American Mathematical Society, Providence, RI},
+    publisher = {Published for the Conference Board of the Mathematical
+   Sciences, Washington, DC; by the American Mathematical
+   Society, Providence, RI},
     series = {CBMS Regional Conference Series in Mathematics},
     title = {Complex graphs and networks},
     url = {https://doi.org/10.1090/cbms/107},

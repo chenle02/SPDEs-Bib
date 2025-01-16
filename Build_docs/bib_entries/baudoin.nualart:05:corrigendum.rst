@@ -17,7 +17,9 @@ baudoin.nualart:05:corrigendum
     mrnumber = {2128637},
     number = {4},
     pages = {701--703},
-    title = {Corrigendum to: ``{E}quivalence of {V}olterra processes'' [{S}tochastic {P}rocess. {A}ppl. {\bf 107} (2003), no. 2, 327--350; MR1999794]},
+    title = {Corrigendum to: ``{E}quivalence of {V}olterra processes''
+   [{S}tochastic {P}rocess. {A}ppl. {\bf 107} (2003), no. 2,
+   327--350; MR1999794]},
     url = {https://doi.org/10.1016/j.spa.2004.11.002},
     volume = {115},
     year = {2005}

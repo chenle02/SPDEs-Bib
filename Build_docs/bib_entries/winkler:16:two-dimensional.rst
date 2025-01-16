@@ -18,7 +18,9 @@ winkler:16:two-dimensional
     mrreviewer = {Youshan Tao},
     number = {5},
     pages = {987--1024},
-    title = {The two-dimensional {K}eller-{S}egel system with singular sensitivity and signal absorption: global large-data solutions and their relaxation properties},
+    title = {The two-dimensional {K}eller-{S}egel system with singular
+   sensitivity and signal absorption: global large-data
+   solutions and their relaxation properties},
     url = {https://doi.org/10.1142/S0218202516500238},
     volume = {26},
     year = {2016}

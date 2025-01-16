@@ -16,7 +16,8 @@ caravenna:18:on
     mrnumber = {3866042},
     mrreviewer = {Christian Webb},
     pages = {Paper No. 69, 13},
-    title = {On the maximum of conditioned random walks and tightness for pinning models},
+    title = {On the maximum of conditioned random walks and tightness
+   for pinning models},
     url = {https://doi.org/10.1214/18-ECP172},
     volume = {23},
     year = {2018}

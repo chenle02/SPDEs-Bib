@@ -17,7 +17,8 @@ chafai.peche:14:note
     mrnumber = {3215627},
     number = {2},
     pages = {368--383},
-    title = {A note on the second order universality at the edge of {C}oulomb gases on the plane},
+    title = {A note on the second order universality at the edge of
+   {C}oulomb gases on the plane},
     url = {https://doi.org/10.1007/s10955-014-1007-x},
     volume = {156},
     year = {2014}

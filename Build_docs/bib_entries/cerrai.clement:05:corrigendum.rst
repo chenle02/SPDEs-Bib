@@ -17,7 +17,9 @@ cerrai.clement:05:corrigendum
     mrnumber = {2134127},
     number = {4},
     pages = {368},
-    title = {Corrigendum to: ``{S}chauder estimates for a class of second order elliptic operators on a cube'' [{B}ull. {S}ci. {M}ath. {\bf 127} (2003), no. 8, 669--688; MR2014753]},
+    title = {Corrigendum to: ``{S}chauder estimates for a class of
+   second order elliptic operators on a cube'' [{B}ull. {S}ci.
+   {M}ath. {\bf 127} (2003), no. 8, 669--688; MR2014753]},
     url = {https://doi.org/10.1016/j.bulsci.2004.11.006},
     volume = {129},
     year = {2005}

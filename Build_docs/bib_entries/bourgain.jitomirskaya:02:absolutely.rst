@@ -18,7 +18,8 @@ bourgain.jitomirskaya:02:absolutely
     mrreviewer = {Fr\'{e}d\'{e}ric\ Klopp},
     number = {3},
     pages = {453--463},
-    title = {Absolutely continuous spectrum for 1{D} quasiperiodic operators},
+    title = {Absolutely continuous spectrum for 1{D} quasiperiodic
+   operators},
     url = {https://doi.org/10.1007/s002220100196},
     volume = {148},
     year = {2002}

@@ -18,7 +18,8 @@ beffara.duminil-copin.ea:15:on
     mrreviewer = {Lung-Chi\ Chen},
     number = {48},
     pages = {484003, 25},
-    title = {On the critical parameters of the {$q\leqslant4$} random-cluster model on isoradial graphs},
+    title = {On the critical parameters of the {$q\leqslant4$}
+   random-cluster model on isoradial graphs},
     url = {https://doi.org/10.1088/1751-8113/48/48/484003},
     volume = {48},
     year = {2015}

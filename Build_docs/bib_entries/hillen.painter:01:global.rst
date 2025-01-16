@@ -17,7 +17,8 @@ hillen.painter:01:global
     mrnumber = {1826309},
     number = {4},
     pages = {280--301},
-    title = {Global existence for a parabolic chemotaxis model with prevention of overcrowding},
+    title = {Global existence for a parabolic chemotaxis model with
+   prevention of overcrowding},
     url = {https://doi.org/10.1006/aama.2001.0721},
     volume = {26},
     year = {2001}

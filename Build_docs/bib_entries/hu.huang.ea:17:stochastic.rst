@@ -8,7 +8,8 @@ hu.huang.ea:17:stochastic
 .. code-block:: bibtex
 
    @article{hu.huang.ea:17:stochastic,
-    author = {Hu, Yaozhong and Huang, Jingyu and L\^{e}, Khoa and Nualart, David and Tindel, Samy},
+    author = {Hu, Yaozhong and Huang, Jingyu and L\^{e}, Khoa and
+   Nualart, David and Tindel, Samy},
     doi = {10.1214/16-AOP1172},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},

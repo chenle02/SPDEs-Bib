@@ -10,7 +10,8 @@ angenent.velazquez:97:degenerate
    @article{angenent.velazquez:97:degenerate,
     author = {Angenent, S. B. and Vel\'{a}zquez, J. J. L.},
     doi = {10.1515/crll.1997.482.15},
-    fjournal = {Journal f\"{u}r die Reine und Angewandte Mathematik. [Crelle's Journal]},
+    fjournal = {Journal f\"{u}r die Reine und Angewandte Mathematik.
+   [Crelle's Journal]},
     issn = {0075-4102},
     journal = {J. Reine Angew. Math.},
     mrclass = {58E12 (53A10)},

@@ -8,7 +8,8 @@ corcuera.guerra.ea:06:optimal
 .. code-block:: bibtex
 
    @article{corcuera.guerra.ea:06:optimal,
-    author = {Corcuera, Jos\'{e} Manuel and Guerra, Jo\~{a}o and Nualart, David and Schoutens, Wim},
+    author = {Corcuera, Jos\'{e} Manuel and Guerra, Jo\~{a}o and
+   Nualart, David and Schoutens, Wim},
     doi = {10.1007/s00245-005-0846-x},
     fjournal = {Applied Mathematics and Optimization},
     issn = {0095-4616},

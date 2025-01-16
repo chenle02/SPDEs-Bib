@@ -17,7 +17,8 @@ dalang:84:sur
     pages = {379--390},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Sur l'arr\^{e}t optimal de processus \`a temps multidimensionnel continu},
+    title = {Sur l'arr\^{e}t optimal de processus \`a temps
+   multidimensionnel continu},
     url = {https://doi.org/10.1007/BFb0100055},
     volume = {1059},
     year = {1984}

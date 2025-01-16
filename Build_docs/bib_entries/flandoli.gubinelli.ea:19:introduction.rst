@@ -8,7 +8,8 @@ flandoli.gubinelli.ea:19:introduction
 .. code-block:: bibtex
 
    @incollection{flandoli.gubinelli.ea:19:introduction,
-    author = {Flandoli, Franco and Gubinelli, Massimiliano and Hairer, Martin},
+    author = {Flandoli, Franco and Gubinelli, Massimiliano and Hairer,
+   Martin},
     booktitle = {Singular random dynamics},
     mrclass = {60L30 (60-02 60H17 60L40)},
     mrnumber = {3971357},

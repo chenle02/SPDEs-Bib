@@ -18,7 +18,8 @@ ai.li.ea:12:karhunen-loeve
     mrreviewer = {Xiangfeng\ Yang},
     number = {7},
     pages = {1235--1241},
-    title = {Karhunen-{L}oeve expansions for the detrended {B}rownian motion},
+    title = {Karhunen-{L}oeve expansions for the detrended {B}rownian
+   motion},
     url = {https://doi.org/10.1016/j.spl.2012.03.007},
     volume = {82},
     year = {2012}

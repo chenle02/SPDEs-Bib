@@ -18,7 +18,8 @@ nualart:85:variations
     mrreviewer = {Ely Merzbach},
     number = {1},
     pages = {51--63},
-    title = {Variations quadratiques et in\'{e}galit\'{e}s pour les martingales \`a deux indices},
+    title = {Variations quadratiques et in\'{e}galit\'{e}s pour les
+   martingales \`a deux indices},
     url = {https://doi.org/10.1080/17442508508833348},
     volume = {15},
     year = {1985}

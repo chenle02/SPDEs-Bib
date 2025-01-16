@@ -18,7 +18,8 @@ chen.hu.ea:19:nonlinear
     mrreviewer = {Latifa Debbi},
     number = {12},
     pages = {5073--5112},
-    title = {Nonlinear stochastic time-fractional slow and fast diffusion equations on {$\Bbb R^d$}},
+    title = {Nonlinear stochastic time-fractional slow and fast
+   diffusion equations on {$\Bbb R^d$}},
     url = {https://doi.org/10.1016/j.spa.2019.01.003},
     volume = {129},
     year = {2019}

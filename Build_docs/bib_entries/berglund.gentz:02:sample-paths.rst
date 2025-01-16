@@ -18,7 +18,8 @@ berglund.gentz:02:sample-paths
     mrreviewer = {Jan I. Seidler},
     number = {4},
     pages = {1419--1470},
-    title = {A sample-paths approach to noise-induced synchronization: stochastic resonance in a double-well potential},
+    title = {A sample-paths approach to noise-induced synchronization:
+   stochastic resonance in a double-well potential},
     url = {https://doi.org/10.1214/aoap/1037125869},
     volume = {12},
     year = {2002}

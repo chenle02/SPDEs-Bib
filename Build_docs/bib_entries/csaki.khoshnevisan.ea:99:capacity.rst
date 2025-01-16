@@ -17,7 +17,8 @@ csaki.khoshnevisan.ea:99:capacity
     mrnumber = {1741736},
     mrreviewer = {Shi Zan Fang},
     pages = {103--109},
-    title = {Capacity estimates, boundary crossings and the {O}rnstein-{U}hlenbeck process in {W}iener space},
+    title = {Capacity estimates, boundary crossings and the
+   {O}rnstein-{U}hlenbeck process in {W}iener space},
     url = {https://doi.org/10.1214/ECP.v4-1011},
     volume = {4},
     year = {1999}

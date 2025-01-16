@@ -18,7 +18,8 @@ kahane:86:inegalite
     mrreviewer = {Naresh C. Jain},
     number = {1},
     pages = {109--110},
-    title = {Une in\'{e}galit\'{e} du type de {S}lepian et {G}ordon sur les processus gaussiens},
+    title = {Une in\'{e}galit\'{e} du type de {S}lepian et {G}ordon sur
+   les processus gaussiens},
     url = {https://doi.org/10.1007/BF02772698},
     volume = {55},
     year = {1986}

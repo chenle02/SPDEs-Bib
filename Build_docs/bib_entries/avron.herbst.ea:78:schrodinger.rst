@@ -17,7 +17,8 @@ avron.herbst.ea:78:schrodinger
     mrreviewer = {Richard\ B.\ Lavine},
     number = {4},
     pages = {847--883},
-    title = {Schr\"odinger operators with magnetic fields. {I}. {G}eneral interactions},
+    title = {Schr\"odinger operators with magnetic fields. {I}.
+   {G}eneral interactions},
     url = {http://projecteuclid.org/euclid.dmj/1077313102},
     volume = {45},
     year = {1978}

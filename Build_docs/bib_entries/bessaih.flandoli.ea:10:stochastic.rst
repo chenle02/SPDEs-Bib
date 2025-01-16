@@ -18,7 +18,8 @@ bessaih.flandoli.ea:10:stochastic
     mrreviewer = {Benedetta\ Ferrario},
     number = {4},
     pages = {688--717},
-    title = {Stochastic attractors for shell phenomenological models of turbulence},
+    title = {Stochastic attractors for shell phenomenological models of
+   turbulence},
     url = {https://doi.org/10.1007/s10955-010-0010-0},
     volume = {140},
     year = {2010}

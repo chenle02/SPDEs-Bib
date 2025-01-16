@@ -9,7 +9,8 @@ bourgain:86:vector-valued
 
    @incollection{bourgain:86:vector-valued,
     author = {Bourgain, Jean},
-    booktitle = {Probability theory and harmonic analysis ({C}leveland, {O}hio, 1983)},
+    booktitle = {Probability theory and harmonic analysis ({C}leveland,
+   {O}hio, 1983)},
     isbn = {0-8247-7473-6},
     mrclass = {42B20 (46E40 47B10)},
     mrnumber = {830227},
@@ -17,7 +18,8 @@ bourgain:86:vector-valued
     pages = {1--19},
     publisher = {Dekker, New York},
     series = {Monogr. Textbooks Pure Appl. Math.},
-    title = {Vector-valued singular integrals and the {$H^1$}-{BMO} duality},
+    title = {Vector-valued singular integrals and the {$H^1$}-{BMO}
+   duality},
     volume = {98},
     year = {1986}
    }

@@ -18,7 +18,8 @@ tudor:04:fractional
     mrreviewer = {Rainer Buckdahn},
     number = {5},
     pages = {1209--1233},
-    title = {Fractional bilinear stochastic equations with the drift in the first fractional chaos},
+    title = {Fractional bilinear stochastic equations with the drift in
+   the first fractional chaos},
     url = {https://doi.org/10.1081/SAP-200026448},
     volume = {22},
     year = {2004}

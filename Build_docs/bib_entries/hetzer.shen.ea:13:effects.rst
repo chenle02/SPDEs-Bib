@@ -17,7 +17,9 @@ hetzer.shen.ea:13:effects
     mrnumber = {3077838},
     number = {2},
     pages = {489--513},
-    title = {Effects of spatial variations and dispersal strategies on principal eigenvalues of dispersal operators and spreading speeds of monostable equations},
+    title = {Effects of spatial variations and dispersal strategies on
+   principal eigenvalues of dispersal operators and spreading
+   speeds of monostable equations},
     url = {https://doi.org/10.1216/RMJ-2013-43-2-489},
     volume = {43},
     year = {2013}

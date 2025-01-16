@@ -8,7 +8,8 @@ dembo.shkolnikov.ea:16:large
 .. code-block:: bibtex
 
    @article{dembo.shkolnikov.ea:16:large,
-    author = {Dembo, Amir and Shkolnikov, Mykhaylo and Varadhan, S. R. Srinivasa and Zeitouni, Ofer},
+    author = {Dembo, Amir and Shkolnikov, Mykhaylo and Varadhan, S. R.
+   Srinivasa and Zeitouni, Ofer},
     doi = {10.1002/cpa.21640},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640,1097-0312},
@@ -18,7 +19,8 @@ dembo.shkolnikov.ea:16:large
     mrreviewer = {Markus\ Fischer},
     number = {7},
     pages = {1259--1313},
-    title = {Large deviations for diffusions interacting through their ranks},
+    title = {Large deviations for diffusions interacting through their
+   ranks},
     url = {https://doi.org/10.1002/cpa.21640},
     volume = {69},
     year = {2016}

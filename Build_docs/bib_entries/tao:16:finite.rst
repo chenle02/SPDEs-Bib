@@ -18,7 +18,8 @@ tao:16:finite
     mrreviewer = {Lorenzo Brandolese},
     number = {3},
     pages = {601--674},
-    title = {Finite time blowup for an averaged three-dimensional {N}avier-{S}tokes equation},
+    title = {Finite time blowup for an averaged three-dimensional
+   {N}avier-{S}tokes equation},
     url = {https://doi.org/10.1090/jams/838},
     volume = {29},
     year = {2016}

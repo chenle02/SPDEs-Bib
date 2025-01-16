@@ -18,7 +18,8 @@ assing.hilbert:18:on
     mrreviewer = {Guanggan Chen},
     number = {11},
     pages = {4955--4978},
-    title = {On the collapse of trial solutions for a damped-driven nonlinear {S}chr\"{o}dinger equation},
+    title = {On the collapse of trial solutions for a damped-driven
+   nonlinear {S}chr\"{o}dinger equation},
     url = {https://doi.org/10.1088/1361-6544/aad64a},
     volume = {31},
     year = {2018}

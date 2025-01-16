@@ -17,7 +17,8 @@ pitt:71:markov
     mrnumber = {336798},
     mrreviewer = {S. Kotani},
     pages = {367--391},
-    title = {A {M}arkov property for {G}aussian processes with a multidimensional parameter},
+    title = {A {M}arkov property for {G}aussian processes with a
+   multidimensional parameter},
     url = {https://doi.org/10.1007/BF00252003},
     volume = {43},
     year = {1971}

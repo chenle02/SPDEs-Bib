@@ -16,7 +16,8 @@ luchko:15:wave-diffusion
     mrclass = {35R11 (26A33)},
     mrnumber = {3342455},
     pages = {40--52},
-    title = {Wave-diffusion dualism of the neutral-fractional processes},
+    title = {Wave-diffusion dualism of the neutral-fractional
+   processes},
     url = {https://doi.org/10.1016/j.jcp.2014.06.005},
     volume = {293},
     year = {2015}

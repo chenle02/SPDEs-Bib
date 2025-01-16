@@ -18,7 +18,8 @@ li:99:small
     mrreviewer = {Endre\ Cs\'{a}ki},
     number = {4},
     pages = {971--984},
-    title = {Small deviations for {G}aussian {M}arkov processes under the sup-norm},
+    title = {Small deviations for {G}aussian {M}arkov processes under
+   the sup-norm},
     url = {https://doi.org/10.1023/A:1021771503265},
     volume = {12},
     year = {1999}

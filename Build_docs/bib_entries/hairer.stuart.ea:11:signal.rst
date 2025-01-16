@@ -15,7 +15,9 @@ hairer.stuart.ea:11:signal
     mrreviewer = {Yurij S. Kharin},
     pages = {833--873},
     publisher = {Oxford Univ. Press, Oxford},
-    title = {Signal processing problems on function space: {B}ayesian formulation, stochastic {PDE}s and effective {MCMC} methods},
+    title = {Signal processing problems on function space: {B}ayesian
+   formulation, stochastic {PDE}s and effective {MCMC}
+   methods},
     year = {2011}
    }
 

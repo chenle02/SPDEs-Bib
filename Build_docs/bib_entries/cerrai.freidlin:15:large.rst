@@ -18,7 +18,8 @@ cerrai.freidlin:15:large
     mrreviewer = {Horacio Grinberg},
     number = {4},
     pages = {859--875},
-    title = {Large deviations for the {L}angevin equation with strong damping},
+    title = {Large deviations for the {L}angevin equation with strong
+   damping},
     url = {https://doi.org/10.1007/s10955-015-1346-2},
     volume = {161},
     year = {2015}

@@ -16,7 +16,8 @@ lee.yang:52:statistical
     mrnumber = {53029},
     mrreviewer = {L. Van Hove},
     pages = {410--419},
-    title = {Statistical theory of equations of state and phase transitions. {II}. {L}attice gas and {I}sing model},
+    title = {Statistical theory of equations of state and phase
+   transitions. {II}. {L}attice gas and {I}sing model},
     volume = {87},
     year = {1952}
    }

@@ -16,7 +16,8 @@ boyadjiev.luchko:17:mellin
     mrclass = {35R11 (26A33 35C05 35E05 35L05 45K05 60E99)},
     mrnumber = {3672003},
     pages = {127--134},
-    title = {Mellin integral transform approach to analyze the multidimensional diffusion-wave equations},
+    title = {Mellin integral transform approach to analyze the
+   multidimensional diffusion-wave equations},
     url = {https://doi.org/10.1016/j.chaos.2017.03.050},
     volume = {102},
     year = {2017}

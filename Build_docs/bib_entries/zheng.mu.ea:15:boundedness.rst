@@ -17,7 +17,8 @@ zheng.mu.ea:15:boundedness
     mrnumber = {3286576},
     number = {1},
     pages = {509--522},
-    title = {Boundedness of solutions in a chemotaxis system with nonlinear sensitivity and logistic source},
+    title = {Boundedness of solutions in a chemotaxis system with
+   nonlinear sensitivity and logistic source},
     url = {https://doi.org/10.1016/j.jmaa.2014.11.031},
     volume = {424},
     year = {2015}

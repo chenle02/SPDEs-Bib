@@ -8,7 +8,8 @@ corwin.oconnell.ea:14:tropical
 .. code-block:: bibtex
 
    @article{corwin.oconnell.ea:14:tropical,
-    author = {Corwin, Ivan and O'Connell, Neil and Sepp\"{a}l\"{a}inen, Timo and Zygouras, Nikolaos},
+    author = {Corwin, Ivan and O'Connell, Neil and Sepp\"{a}l\"{a}inen,
+   Timo and Zygouras, Nikolaos},
     doi = {10.1215/00127094-2410289},
     fjournal = {Duke Mathematical Journal},
     issn = {0012-7094},

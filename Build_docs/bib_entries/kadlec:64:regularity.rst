@@ -16,7 +16,9 @@ kadlec:64:regularity
     mrnumber = {170088},
     mrreviewer = {Richard Beals},
     pages = {386--393},
-    title = {The regularity of the solution of the {P}oisson problem in a domain whose boundary is similar to that of a convex domain},
+    title = {The regularity of the solution of the {P}oisson problem in
+   a domain whose boundary is similar to that of a convex
+   domain},
     volume = {14(89)},
     year = {1964}
    }

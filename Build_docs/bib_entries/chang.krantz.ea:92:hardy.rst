@@ -8,8 +8,10 @@ chang.krantz.ea:92:hardy
 .. code-block:: bibtex
 
    @incollection{chang.krantz.ea:92:hardy,
-    author = {Chang, Der-Chen and Krantz, Steven G. and Stein, Elias M.},
-    booktitle = {The {M}adison {S}ymposium on {C}omplex {A}nalysis ({M}adison, {WI}, 1991)},
+    author = {Chang, Der-Chen and Krantz, Steven G. and Stein, Elias
+   M.},
+    booktitle = {The {M}adison {S}ymposium on {C}omplex {A}nalysis
+   ({M}adison, {WI}, 1991)},
     doi = {10.1090/conm/137/1190976},
     mrclass = {42B30 (35J25)},
     mrnumber = {1190976},

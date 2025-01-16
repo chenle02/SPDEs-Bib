@@ -17,7 +17,8 @@ bourgain:96:gibbs
     pages = {23--43},
     publisher = {Birkh\"{a}user Boston, Boston, MA},
     series = {Gelfand Math. Sem.},
-    title = {Gibbs measures and quasi-periodic solutions for nonlinear {H}amiltonian partial differential equations},
+    title = {Gibbs measures and quasi-periodic solutions for nonlinear
+   {H}amiltonian partial differential equations},
     year = {1996}
    }
 

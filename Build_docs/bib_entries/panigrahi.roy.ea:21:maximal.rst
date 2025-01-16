@@ -17,7 +17,8 @@ panigrahi.roy.ea:21:maximal
     mrnumber = {4238104},
     mrreviewer = {Sreenivasan\ Ravi},
     pages = {92--124},
-    title = {Maximal moments and uniform modulus of continuity for stable random fields},
+    title = {Maximal moments and uniform modulus of continuity for
+   stable random fields},
     url = {https://doi.org/10.1016/j.spa.2021.02.002},
     volume = {136},
     year = {2021}

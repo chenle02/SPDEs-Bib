@@ -16,7 +16,8 @@ shen.zhang:12:traveling
     mrnumber = {2978683},
     number = {3},
     pages = {73--101},
-    title = {Traveling wave solutions of spatially periodic nonlocal monostable equations},
+    title = {Traveling wave solutions of spatially periodic nonlocal
+   monostable equations},
     volume = {19},
     year = {2012}
    }

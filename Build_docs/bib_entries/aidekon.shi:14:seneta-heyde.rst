@@ -18,7 +18,8 @@ aidekon.shi:14:seneta-heyde
     mrreviewer = {Yueyun Hu},
     number = {3},
     pages = {959--993},
-    title = {The {S}eneta-{H}eyde scaling for the branching random walk},
+    title = {The {S}eneta-{H}eyde scaling for the branching random
+   walk},
     url = {https://doi.org/10.1214/12-AOP809},
     volume = {42},
     year = {2014}

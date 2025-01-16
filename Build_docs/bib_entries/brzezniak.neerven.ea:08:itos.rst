@@ -8,7 +8,8 @@ brzezniak.neerven.ea:08:itos
 .. code-block:: bibtex
 
    @article{brzezniak.neerven.ea:08:itos,
-    author = {Brze\'{z}niak, Z. and van Neerven, J. M. A. M. and Veraar, M. C. and Weis, L.},
+    author = {Brze\'{z}niak, Z. and van Neerven, J. M. A. M. and Veraar,
+   M. C. and Weis, L.},
     doi = {10.1016/j.jde.2008.03.026},
     fjournal = {Journal of Differential Equations},
     issn = {0022-0396},
@@ -17,7 +18,8 @@ brzezniak.neerven.ea:08:itos
     mrnumber = {2422709},
     number = {1},
     pages = {30--58},
-    title = {It\^{o}'s formula in {UMD} {B}anach spaces and regularity of solutions of the {Z}akai equation},
+    title = {It\^{o}'s formula in {UMD} {B}anach spaces and regularity
+   of solutions of the {Z}akai equation},
     url = {https://doi.org/10.1016/j.jde.2008.03.026},
     volume = {245},
     year = {2008}

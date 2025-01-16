@@ -10,7 +10,8 @@ dawson:78:geostochastic
    @article{dawson:78:geostochastic,
     author = {Dawson, D. A.},
     doi = {10.2307/3315044},
-    fjournal = {The Canadian Journal of Statistics. La Revue Canadienne de Statistique},
+    fjournal = {The Canadian Journal of Statistics. La Revue Canadienne de
+   Statistique},
     issn = {0319-5724},
     journal = {Canad. J. Statist.},
     mrclass = {60J60 (60G44 60H05 92A09)},

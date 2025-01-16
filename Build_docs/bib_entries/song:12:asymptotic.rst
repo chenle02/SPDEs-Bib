@@ -17,7 +17,8 @@ song:12:asymptotic
     mrnumber = {2887479},
     number = {3},
     pages = {614--620},
-    title = {Asymptotic behavior of the solution of heat equation driven by fractional white noise},
+    title = {Asymptotic behavior of the solution of heat equation
+   driven by fractional white noise},
     url = {https://doi.org/10.1016/j.spl.2011.11.017},
     volume = {82},
     year = {2012}

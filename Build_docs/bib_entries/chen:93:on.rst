@@ -17,7 +17,8 @@ chen:93:on
     mrreviewer = {Iosif Pinelis},
     number = {4},
     pages = {1991--2011},
-    title = {On the law of the iterated logarithm for independent {B}anach space valued random variables},
+    title = {On the law of the iterated logarithm for independent
+   {B}anach space valued random variables},
     url = {http://links.jstor.org/sici?sici=0091-1798(199310)21:4<1991:OTLOTI>2.0.CO;2-#&origin=MSN},
     volume = {21},
     year = {1993}

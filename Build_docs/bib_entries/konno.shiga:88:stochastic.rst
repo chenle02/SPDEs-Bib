@@ -18,7 +18,8 @@ konno.shiga:88:stochastic
     mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},
     number = {2},
     pages = {201--225},
-    title = {Stochastic partial differential equations for some measure-valued diffusions},
+    title = {Stochastic partial differential equations for some
+   measure-valued diffusions},
     url = {https://doi.org/10.1007/BF00320919},
     volume = {79},
     year = {1988}

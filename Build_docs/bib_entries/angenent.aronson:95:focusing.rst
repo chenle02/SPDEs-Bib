@@ -18,7 +18,8 @@ angenent.aronson:95:focusing
     mrreviewer = {Vladimir Grebenev},
     number = {7-8},
     pages = {1217--1240},
-    title = {The focusing problem for the radially symmetric porous medium equation},
+    title = {The focusing problem for the radially symmetric porous
+   medium equation},
     url = {https://doi.org/10.1080/03605309508821130},
     volume = {20},
     year = {1995}

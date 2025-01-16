@@ -18,7 +18,8 @@ lee.leung:17:norm-attaining
     mrreviewer = {Mik\^{a}il Et},
     number = {1},
     pages = {556--563},
-    title = {Norm-attaining property for a dual pair of {B}anach spaces},
+    title = {Norm-attaining property for a dual pair of {B}anach
+   spaces},
     url = {https://doi.org/10.1016/j.jmaa.2016.07.063},
     volume = {445},
     year = {2017}

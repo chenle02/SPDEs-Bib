@@ -8,7 +8,8 @@ da-prato.debussche.ea:07:modified
 .. code-block:: bibtex
 
    @article{da-prato.debussche.ea:07:modified,
-    author = {Da Prato, Giuseppe and Debussche, Arnaud and Tubaro, Luciano},
+    author = {Da Prato, Giuseppe and Debussche, Arnaud and Tubaro,
+   Luciano},
     doi = {10.1214/ECP.v12-1333},
     fjournal = {Electronic Communications in Probability},
     issn = {1083-589X},

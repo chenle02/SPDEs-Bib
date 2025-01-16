@@ -18,7 +18,8 @@ bourgain.li:19:galilean
     mrreviewer = {Xinyu\ He},
     number = {1},
     pages = {261--280},
-    title = {Galilean boost and non-uniform continuity for incompressible {E}uler},
+    title = {Galilean boost and non-uniform continuity for
+   incompressible {E}uler},
     url = {https://doi.org/10.1007/s00220-019-03373-z},
     volume = {372},
     year = {2019}

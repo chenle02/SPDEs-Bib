@@ -10,7 +10,8 @@ barndorff-nielsen:00:superposition
    @article{barndorff-nielsen:00:superposition,
     author = {Barndorff-Nielsen, O. E.},
     doi = {10.1137/S0040585X97978166},
-    fjournal = {Rossiu{i}skaya Akademiya Nauk. Teoriya Veroyatnosteu{i} i ee Primeneniya},
+    fjournal = {Rossiu{i}skaya Akademiya Nauk. Teoriya Veroyatnosteu{i} i
+   ee Primeneniya},
     issn = {0040-361X},
     journal = {Teor. Veroyatnost. i Primenen.},
     mrclass = {60G57 (60G10 60G51)},

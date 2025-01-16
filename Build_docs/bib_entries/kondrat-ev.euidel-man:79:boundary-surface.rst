@@ -17,7 +17,8 @@ kondrat-ev.euidel-man:79:boundary-surface
     mrreviewer = {Ya. A. Rou{i}tberg},
     number = {4},
     pages = {812--815},
-    title = {Boundary-surface conditions in the theory of elliptic boundary value problems},
+    title = {Boundary-surface conditions in the theory of elliptic
+   boundary value problems},
     volume = {246},
     year = {1979}
    }

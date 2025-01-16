@@ -15,7 +15,8 @@ shang.zhang:19:talagrand
     mrclass = {60H15 (28A33 60E15)},
     mrnumber = {4040989},
     pages = {Paper No. 129, 15},
-    title = {Talagrand concentration inequalities for stochastic heat-type equations under uniform distance},
+    title = {Talagrand concentration inequalities for stochastic
+   heat-type equations under uniform distance},
     url = {https://doi.org/10.1214/19-ejp388},
     volume = {24},
     year = {2019}

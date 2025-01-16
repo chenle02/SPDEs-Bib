@@ -8,7 +8,8 @@ hairer.iyer.ea:18:fractional
 .. code-block:: bibtex
 
    @article{hairer.iyer.ea:18:fractional,
-    author = {Hairer, Martin and Iyer, Gautam and Koralov, Leonid and Novikov, Alexei and Pajor-Gyulai, Zsolt},
+    author = {Hairer, Martin and Iyer, Gautam and Koralov, Leonid and
+   Novikov, Alexei and Pajor-Gyulai, Zsolt},
     doi = {10.1214/17-AOP1196},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ hairer.iyer.ea:18:fractional
     mrreviewer = {Ciprian A. Tudor},
     number = {2},
     pages = {897--955},
-    title = {A fractional kinetic process describing the intermediate time behaviour of cellular flows},
+    title = {A fractional kinetic process describing the intermediate
+   time behaviour of cellular flows},
     url = {https://doi.org/10.1214/17-AOP1196},
     volume = {46},
     year = {2018}

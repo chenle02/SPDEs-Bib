@@ -8,7 +8,8 @@ chen.cranston.ea:17:dissipation
 .. code-block:: bibtex
 
    @article{chen.cranston.ea:17:dissipation,
-    author = {Chen, Le and Cranston, Michael and Khoshnevisan, Davar and Kim, Kunwoo},
+    author = {Chen, Le and Cranston, Michael and Khoshnevisan, Davar and
+   Kim, Kunwoo},
     doi = {10.1214/15-AOP1040},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},

@@ -18,7 +18,9 @@ hu.khoshnevisan.ea:11:charged
     mrreviewer = {Giambattista Giacomin},
     number = {5},
     pages = {948--977},
-    title = {Charged polymers in the attractive regime: a first-order transition from {B}rownian scaling to four-point localization},
+    title = {Charged polymers in the attractive regime: a first-order
+   transition from {B}rownian scaling to four-point
+   localization},
     url = {https://doi.org/10.1007/s10955-011-0280-1},
     volume = {144},
     year = {2011}

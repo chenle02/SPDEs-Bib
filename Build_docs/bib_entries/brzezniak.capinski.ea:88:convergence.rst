@@ -18,7 +18,8 @@ brzezniak.capinski.ea:88:convergence
     mrreviewer = {Ralf\ Manthey},
     number = {4},
     pages = {423--445},
-    title = {A convergence result for stochastic partial differential equations},
+    title = {A convergence result for stochastic partial differential
+   equations},
     url = {https://doi.org/10.1080/17442508808833526},
     volume = {24},
     year = {1988}

@@ -18,7 +18,8 @@ zhang.zhao:07:stationary
     mrreviewer = {Fran\c{c}ois Delarue},
     number = {1},
     pages = {171--219},
-    title = {Stationary solutions of {SPDE}s and infinite horizon {BDSDE}s},
+    title = {Stationary solutions of {SPDE}s and infinite horizon
+   {BDSDE}s},
     url = {https://doi.org/10.1016/j.jfa.2007.06.019},
     volume = {252},
     year = {2007}

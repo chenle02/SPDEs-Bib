@@ -10,7 +10,8 @@ flandoli:09:remarks
    @article{flandoli:09:remarks,
     author = {Flandoli, Franco},
     doi = {10.1007/s00184-008-0210-7},
-    fjournal = {Metrika. International Journal for Theoretical and Applied Statistics},
+    fjournal = {Metrika. International Journal for Theoretical and Applied
+   Statistics},
     issn = {0026-1335,1435-926X},
     journal = {Metrika},
     mrclass = {60H10 (34F05)},
@@ -18,7 +19,8 @@ flandoli:09:remarks
     mrreviewer = {Ning-Mao\ Xia},
     number = {2-3},
     pages = {101--123},
-    title = {Remarks on uniqueness and strong solutions to deterministic and stochastic differential equations},
+    title = {Remarks on uniqueness and strong solutions to
+   deterministic and stochastic differential equations},
     url = {https://doi.org/10.1007/s00184-008-0210-7},
     volume = {69},
     year = {2009}

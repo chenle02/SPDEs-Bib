@@ -9,7 +9,8 @@ nualart:09:application
 
    @incollection{nualart:09:application,
     author = {Nualart, David},
-    booktitle = {A minicourse on stochastic partial differential equations},
+    booktitle = {A minicourse on stochastic partial differential
+   equations},
     doi = {10.1007/978-3-540-85994-9\_3},
     mrclass = {60H15 (60H07)},
     mrnumber = {2508774},
@@ -17,7 +18,8 @@ nualart:09:application
     pages = {73--109},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Application of {M}alliavin calculus to stochastic partial differential equations},
+    title = {Application of {M}alliavin calculus to stochastic partial
+   differential equations},
     url = {https://doi.org/10.1007/978-3-540-85994-9_3},
     volume = {1962},
     year = {2009}

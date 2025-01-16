@@ -18,7 +18,8 @@ viglialoro:16:very
     mrreviewer = {Marcone C. Pereira},
     number = {1},
     pages = {197--212},
-    title = {Very weak global solutions to a parabolic-parabolic chemotaxis-system with logistic source},
+    title = {Very weak global solutions to a parabolic-parabolic
+   chemotaxis-system with logistic source},
     url = {https://doi.org/10.1016/j.jmaa.2016.02.069},
     volume = {439},
     year = {2016}

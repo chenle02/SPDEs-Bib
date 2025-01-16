@@ -16,7 +16,9 @@ nualart.swanson:13:joint
     mrnumber = {3125257},
     mrreviewer = {Amites Dasgupta},
     pages = {no. 81, 11},
-    title = {Joint convergence along different subsequences of the signed cubic variation of fractional {B}rownian motion {II}},
+    title = {Joint convergence along different subsequences of the
+   signed cubic variation of fractional {B}rownian motion
+   {II}},
     url = {https://doi.org/10.1214/ECP.v18-2840},
     volume = {18},
     year = {2013}

@@ -17,7 +17,8 @@ nourdin.zheng:22:asymptotic
     mrnumber = {4509068},
     number = {4},
     pages = {2239--2268},
-    title = {Asymptotic behavior of large {G}aussian correlated {W}ishart matrices},
+    title = {Asymptotic behavior of large {G}aussian correlated
+   {W}ishart matrices},
     url = {https://doi.org/10.1007/s10959-021-01133-1},
     volume = {35},
     year = {2022}

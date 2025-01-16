@@ -16,7 +16,8 @@ amorino.nualart:22:optimal
     mrclass = {62G07 (60J74 62G20)},
     mrnumber = {4373279},
     pages = {126--151},
-    title = {Optimal convergence rates for the invariant density estimation of jump-diffusion processes},
+    title = {Optimal convergence rates for the invariant density
+   estimation of jump-diffusion processes},
     url = {https://doi.org/10.1051/ps/2022001},
     volume = {26},
     year = {2022}

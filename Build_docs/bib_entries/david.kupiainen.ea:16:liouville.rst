@@ -8,7 +8,8 @@ david.kupiainen.ea:16:liouville
 .. code-block:: bibtex
 
    @article{david.kupiainen.ea:16:liouville,
-    author = {David, Fran\c cois and Kupiainen, Antti and Rhodes, R\'emi and Vargas, Vincent},
+    author = {David, Fran\c cois and Kupiainen, Antti and Rhodes, R\'emi
+   and Vargas, Vincent},
     doi = {10.1007/s00220-016-2572-4},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616,1432-0916},

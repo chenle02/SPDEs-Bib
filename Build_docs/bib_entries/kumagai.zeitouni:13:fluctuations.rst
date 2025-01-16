@@ -17,7 +17,8 @@ kumagai.zeitouni:13:fluctuations
     mrnumber = {3109630},
     mrreviewer = {Yimin\ Xiao},
     pages = {no. 75, 12},
-    title = {Fluctuations of maxima of discrete {G}aussian free fields on a class of recurrent graphs},
+    title = {Fluctuations of maxima of discrete {G}aussian free fields
+   on a class of recurrent graphs},
     url = {https://doi.org/10.1214/ECP.v18-2632},
     volume = {18},
     year = {2013}

@@ -10,7 +10,8 @@ gross.miljkovic:90:nonperturbative
    @article{gross.miljkovic:90:nonperturbative,
     author = {Gross, David J. and Miljkovi\'{c}, Nikola},
     doi = {10.1016/0370-2693(90)91724-P},
-    fjournal = {Physics Letters. B. Particle Physics, Nuclear Physics and Cosmology},
+    fjournal = {Physics Letters. B. Particle Physics, Nuclear Physics and
+   Cosmology},
     issn = {0370-2693},
     journal = {Phys. Lett. B},
     mrclass = {81T30 (81T16)},

@@ -18,7 +18,8 @@ mytnik.perkins.ea:06:on
     mrreviewer = {Utkir Rozikov},
     number = {5},
     pages = {1910--1959},
-    title = {On pathwise uniqueness for stochastic heat equations with non-{L}ipschitz coefficients},
+    title = {On pathwise uniqueness for stochastic heat equations with
+   non-{L}ipschitz coefficients},
     url = {https://doi.org/10.1214/009117906000000331},
     volume = {34},
     year = {2006}

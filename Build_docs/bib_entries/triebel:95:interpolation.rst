@@ -15,7 +15,8 @@ triebel:95:interpolation
     mrnumber = {1328645},
     pages = {532},
     publisher = {Johann Ambrosius Barth, Heidelberg},
-    title = {Interpolation theory, function spaces, differential operators},
+    title = {Interpolation theory, function spaces, differential
+   operators},
     year = {1995}
    }
 

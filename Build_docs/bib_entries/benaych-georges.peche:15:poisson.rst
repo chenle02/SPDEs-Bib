@@ -18,7 +18,8 @@ benaych-georges.peche:15:poisson
     mrreviewer = {Thomas\ Bothner},
     number = {3},
     pages = {633--656},
-    title = {Poisson statistics for matrix ensembles at large temperature},
+    title = {Poisson statistics for matrix ensembles at large
+   temperature},
     url = {https://doi.org/10.1007/s10955-015-1340-8},
     volume = {161},
     year = {2015}

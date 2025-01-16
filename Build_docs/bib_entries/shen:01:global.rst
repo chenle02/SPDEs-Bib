@@ -17,7 +17,8 @@ shen:01:global
     mrreviewer = {Alexandr\ A.\ Zevin},
     number = {1},
     pages = {51--80},
-    title = {Global attractor in quasi-periodically forced {J}osephson junctions},
+    title = {Global attractor in quasi-periodically forced {J}osephson
+   junctions},
     volume = {3},
     year = {2001}
    }

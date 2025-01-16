@@ -18,7 +18,8 @@ deya.tindel:11:rough
     mrreviewer = {Llu\'{i}s Quer-Sardanyons},
     number = {8},
     pages = {1864--1899},
-    title = {Rough {V}olterra equations 2: {C}onvolutional generalized integrals},
+    title = {Rough {V}olterra equations 2: {C}onvolutional generalized
+   integrals},
     url = {https://doi.org/10.1016/j.spa.2011.05.003},
     volume = {121},
     year = {2011}

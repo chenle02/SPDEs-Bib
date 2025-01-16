@@ -17,7 +17,8 @@ bourgain:97:periodic
     mrnumber = {1466164},
     number = {2},
     pages = {115--159},
-    title = {Periodic {K}orteweg de {V}ries equation with measures as initial data},
+    title = {Periodic {K}orteweg de {V}ries equation with measures as
+   initial data},
     url = {https://doi.org/10.1007/s000290050008},
     volume = {3},
     year = {1997}

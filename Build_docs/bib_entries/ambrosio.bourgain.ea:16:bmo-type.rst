@@ -8,7 +8,8 @@ ambrosio.bourgain.ea:16:bmo-type
 .. code-block:: bibtex
 
    @article{ambrosio.bourgain.ea:16:bmo-type,
-    author = {Ambrosio, Luigi and Bourgain, Jean and Brezis, Haim and Figalli, Alessio},
+    author = {Ambrosio, Luigi and Bourgain, Jean and Brezis, Haim and
+   Figalli, Alessio},
     doi = {10.1002/cpa.21620},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640,1097-0312},

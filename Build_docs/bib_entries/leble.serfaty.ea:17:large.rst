@@ -17,7 +17,8 @@ leble.serfaty.ea:17:large
     mrnumber = {3606477},
     number = {1},
     pages = {301--360},
-    title = {Large deviations for the two-dimensional two-component plasma},
+    title = {Large deviations for the two-dimensional two-component
+   plasma},
     url = {https://doi.org/10.1007/s00220-016-2735-3},
     volume = {350},
     year = {2017}

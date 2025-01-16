@@ -18,7 +18,8 @@ bourgain.chang:07:on
     mrreviewer = {Jerzy\ Kaczorowski},
     number = {2},
     pages = {263--280},
-    title = {On the minimum norm of representatives of residue classes in number fields},
+    title = {On the minimum norm of representatives of residue classes
+   in number fields},
     url = {https://doi.org/10.1215/S0012-7094-07-13824-9},
     volume = {138},
     year = {2007}

@@ -16,7 +16,8 @@ quastel.matetski:19:from
     pages = {251--301},
     publisher = {Amer. Math. Soc., Providence, RI},
     series = {IAS/Park City Math. Ser.},
-    title = {From the totally asymmetric simple exclusion process to the {KPZ} fixed point},
+    title = {From the totally asymmetric simple exclusion process to
+   the {KPZ} fixed point},
     volume = {26},
     year = {2019}
    }

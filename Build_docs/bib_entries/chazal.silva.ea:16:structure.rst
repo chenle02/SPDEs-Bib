@@ -8,7 +8,8 @@ chazal.silva.ea:16:structure
 .. code-block:: bibtex
 
    @book{chazal.silva.ea:16:structure,
-    author = {Chazal, Fr\'{e}d\'{e}ric and de Silva, Vin and Glisse, Marc and Oudot, Steve},
+    author = {Chazal, Fr\'{e}d\'{e}ric and de Silva, Vin and Glisse,
+   Marc and Oudot, Steve},
     doi = {10.1007/978-3-319-42545-0},
     isbn = {978-3-319-42543-6; 978-3-319-42545-0},
     mrclass = {55N10 (16G20 55U10)},

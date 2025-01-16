@@ -18,7 +18,8 @@ eisenbaum.khoshnevisan:02:on
     mrreviewer = {Hac\`ene Boutabia},
     number = {2},
     pages = {241--256},
-    title = {On the most visited sites of symmetric {M}arkov processes},
+    title = {On the most visited sites of symmetric {M}arkov
+   processes},
     url = {https://doi.org/10.1016/S0304-4149(02)00128-X},
     volume = {101},
     year = {2002}

@@ -17,7 +17,8 @@ baudoin.ouyang:15:on
     pages = {413--438},
     publisher = {Springer, Cham},
     series = {Springer Proc. Math. Stat.},
-    title = {On small time asymptotics for rough differential equations driven by fractional {B}rownian motions},
+    title = {On small time asymptotics for rough differential equations
+   driven by fractional {B}rownian motions},
     url = {https://doi.org/10.1007/978-3-319-11605-1_14},
     volume = {110},
     year = {2015}

@@ -8,7 +8,8 @@ banuelos.mijena.ea:14:two-term
 .. code-block:: bibtex
 
    @article{banuelos.mijena.ea:14:two-term,
-    author = {Ba\~{n}uelos, Rodrigo and Mijena, Jebessa B. and Nane, Erkan},
+    author = {Ba\~{n}uelos, Rodrigo and Mijena, Jebessa B. and Nane,
+   Erkan},
     doi = {10.1016/j.jmaa.2013.09.015},
     fjournal = {Journal of Mathematical Analysis and Applications},
     issn = {0022-247X},
@@ -18,7 +19,8 @@ banuelos.mijena.ea:14:two-term
     mrreviewer = {Longmin Wang},
     number = {2},
     pages = {837--846},
-    title = {Two-term trace estimates for relativistic stable processes},
+    title = {Two-term trace estimates for relativistic stable
+   processes},
     url = {https://doi.org/10.1016/j.jmaa.2013.09.015},
     volume = {410},
     year = {2014}

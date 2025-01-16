@@ -18,7 +18,8 @@ bourgain:90:problems
     mrreviewer = {R.\ P.\ Boas},
     number = {1},
     pages = {97--127},
-    title = {Problems of almost everywhere convergence related to harmonic analysis and number theory},
+    title = {Problems of almost everywhere convergence related to
+   harmonic analysis and number theory},
     url = {https://doi.org/10.1007/BF02807252},
     volume = {71},
     year = {1990}

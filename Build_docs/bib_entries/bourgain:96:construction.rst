@@ -18,7 +18,9 @@ bourgain:96:construction
     mrreviewer = {R.\ G.\ Airapetyan},
     number = {2},
     pages = {201--230},
-    title = {Construction of approximative and almost periodic solutions of perturbed linear {S}chr\"{o}dinger and wave equations},
+    title = {Construction of approximative and almost periodic
+   solutions of perturbed linear {S}chr\"{o}dinger and wave
+   equations},
     url = {https://doi.org/10.1007/BF02247885},
     volume = {6},
     year = {1996}

@@ -9,7 +9,8 @@ bourgain:79:result
 
    @incollection{bourgain:79:result,
     author = {Bourgain, J.},
-    booktitle = {Initiation {S}eminar on {A}nalysis: {G}. {C}hoquet-{M}. {R}ogalski-{J}. {S}aint-{R}aymond, 18th {Y}ear: 1978/1979},
+    booktitle = {Initiation {S}eminar on {A}nalysis: {G}. {C}hoquet-{M}.
+   {R}ogalski-{J}. {S}aint-{R}aymond, 18th {Y}ear: 1978/1979},
     mrclass = {46B25 (47B38)},
     mrnumber = {670767},
     mrreviewer = {K.\ Sundaresan},

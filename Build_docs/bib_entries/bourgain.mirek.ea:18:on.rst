@@ -8,7 +8,8 @@ bourgain.mirek.ea:18:on
 .. code-block:: bibtex
 
    @article{bourgain.mirek.ea:18:on,
-    author = {Bourgain, Jean and Mirek, Mariusz and Stein, Elias M. and Wr\'{o}bel, B\l a\.{z}ej},
+    author = {Bourgain, Jean and Mirek, Mariusz and Stein, Elias M. and
+   Wr\'{o}bel, B\l a\.{z}ej},
     doi = {10.1007/s00039-018-0433-3},
     fjournal = {Geometric and Functional Analysis},
     issn = {1016-443X,1420-8970},
@@ -18,7 +19,8 @@ bourgain.mirek.ea:18:on
     mrreviewer = {Dmitry\ Ryabogin},
     number = {1},
     pages = {58--99},
-    title = {On dimension-free variational inequalities for averaging operators in {$\Bbb R^d$}},
+    title = {On dimension-free variational inequalities for averaging
+   operators in {$\Bbb R^d$}},
     url = {https://doi.org/10.1007/s00039-018-0433-3},
     volume = {28},
     year = {2018}

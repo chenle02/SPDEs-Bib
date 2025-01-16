@@ -17,7 +17,8 @@ xiao:99:hitting
     mrnumber = {1687811},
     number = {1-2},
     pages = {121--151},
-    title = {Hitting probabilities and polar sets for fractional {B}rownian motion},
+    title = {Hitting probabilities and polar sets for fractional
+   {B}rownian motion},
     url = {https://doi.org/10.1080/17442509908834189},
     volume = {66},
     year = {1999}

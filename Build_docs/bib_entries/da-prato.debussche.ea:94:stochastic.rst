@@ -8,7 +8,8 @@ da-prato.debussche.ea:94:stochastic
 .. code-block:: bibtex
 
    @article{da-prato.debussche.ea:94:stochastic,
-    author = {Da Prato, Giuseppe and Debussche, Arnaud and Temam, Roger},
+    author = {Da Prato, Giuseppe and Debussche, Arnaud and Temam,
+   Roger},
     doi = {10.1007/BF01194987},
     fjournal = {NoDEA. Nonlinear Differential Equations and Applications},
     issn = {1021-9722},

@@ -18,7 +18,8 @@ galaktionov.vazquez:97:continuation
     mrreviewer = {Dian K. Palagachev},
     number = {1},
     pages = {1--67},
-    title = {Continuation of blowup solutions of nonlinear heat equations in several space dimensions},
+    title = {Continuation of blowup solutions of nonlinear heat
+   equations in several space dimensions},
     url = {https://doi.org/10.1002/(SICI)1097-0312(199701)50:1<1::AID-CPA1>3.3.CO;2-R},
     volume = {50},
     year = {1997}

@@ -8,7 +8,8 @@ carmona.koralov.ea:01:asymptotics
 .. code-block:: bibtex
 
    @article{carmona.koralov.ea:01:asymptotics,
-    author = {Carmona, Rene and Koralov, Leonid and Molchanov, Stanislav},
+    author = {Carmona, Rene and Koralov, Leonid and Molchanov,
+   Stanislav},
     doi = {10.1515/rose.2001.9.1.77},
     fjournal = {Random Operators and Stochastic Equations},
     issn = {0926-6364},
@@ -18,7 +19,8 @@ carmona.koralov.ea:01:asymptotics
     mrreviewer = {Wilfried Grecksch},
     number = {1},
     pages = {77--86},
-    title = {Asymptotics for the almost sure {L}yapunov exponent for the solution of the parabolic {A}nderson problem},
+    title = {Asymptotics for the almost sure {L}yapunov exponent for
+   the solution of the parabolic {A}nderson problem},
     url = {https://doi.org/10.1515/rose.2001.9.1.77},
     volume = {9},
     year = {2001}

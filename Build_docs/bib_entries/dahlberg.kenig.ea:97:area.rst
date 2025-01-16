@@ -8,7 +8,8 @@ dahlberg.kenig.ea:97:area
 .. code-block:: bibtex
 
    @article{dahlberg.kenig.ea:97:area,
-    author = {Dahlberg, B. E. J. and Kenig, C. E. and Pipher, J. and Verchota, G. C.},
+    author = {Dahlberg, B. E. J. and Kenig, C. E. and Pipher, J. and
+   Verchota, G. C.},
     fjournal = {Universit\'{e} de Grenoble. Annales de l'Institut Fourier},
     issn = {0373-0956},
     journal = {Ann. Inst. Fourier (Grenoble)},
@@ -17,7 +18,8 @@ dahlberg.kenig.ea:97:area
     mrreviewer = {G. Albinus},
     number = {5},
     pages = {1425--1461},
-    title = {Area integral estimates for higher order elliptic equations and systems},
+    title = {Area integral estimates for higher order elliptic
+   equations and systems},
     url = {http://www.numdam.org/item?id=AIF_1997__47_5_1425_0},
     volume = {47},
     year = {1997}

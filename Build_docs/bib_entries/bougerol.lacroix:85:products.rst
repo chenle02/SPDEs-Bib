@@ -17,7 +17,8 @@ bougerol.lacroix:85:products
     pages = {xii+283},
     publisher = {Birkh\"{a}user Boston, Inc., Boston, MA},
     series = {Progress in Probability and Statistics},
-    title = {Products of random matrices with applications to {S}chr\"{o}dinger operators},
+    title = {Products of random matrices with applications to
+   {S}chr\"{o}dinger operators},
     url = {https://doi.org/10.1007/978-1-4684-9172-2},
     volume = {8},
     year = {1985}

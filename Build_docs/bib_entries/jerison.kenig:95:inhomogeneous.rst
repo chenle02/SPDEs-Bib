@@ -18,7 +18,8 @@ jerison.kenig:95:inhomogeneous
     mrreviewer = {H. Triebel},
     number = {1},
     pages = {161--219},
-    title = {The inhomogeneous {D}irichlet problem in {L}ipschitz domains},
+    title = {The inhomogeneous {D}irichlet problem in {L}ipschitz
+   domains},
     url = {https://doi.org/10.1006/jfan.1995.1067},
     volume = {130},
     year = {1995}

@@ -18,7 +18,8 @@ bourgain.szarek:88:banach-mazur
     mrreviewer = {H.\ E.\ Lacey},
     number = {2},
     pages = {169--180},
-    title = {The {B}anach-{M}azur distance to the cube and the {D}voretzky-{R}ogers factorization},
+    title = {The {B}anach-{M}azur distance to the cube and the
+   {D}voretzky-{R}ogers factorization},
     url = {https://doi.org/10.1007/BF02787120},
     volume = {62},
     year = {1988}

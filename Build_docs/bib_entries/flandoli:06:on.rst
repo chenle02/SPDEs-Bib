@@ -18,7 +18,8 @@ flandoli:06:on
     mrreviewer = {Ana\ Bela\ Cruzeiro},
     number = {2},
     pages = {269--286},
-    title = {On the method of {D}a {P}rato and {D}ebussche for the 3{D} stochastic {N}avier {S}tokes equations},
+    title = {On the method of {D}a {P}rato and {D}ebussche for the 3{D}
+   stochastic {N}avier {S}tokes equations},
     url = {https://doi.org/10.1007/s00028-006-0243-1},
     volume = {6},
     year = {2006}

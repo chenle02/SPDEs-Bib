@@ -17,7 +17,8 @@ bolthausen:89:note
     mrreviewer = {Cheng Xun Wu},
     number = {4},
     pages = {529--534},
-    title = {A note on the diffusion of directed polymers in a random environment},
+    title = {A note on the diffusion of directed polymers in a random
+   environment},
     url = {http://projecteuclid.org/euclid.cmp/1104178982},
     volume = {123},
     year = {1989}

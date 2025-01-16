@@ -18,7 +18,8 @@ dalang.mountford:01:jordan
     mrreviewer = {Davar Khoshnevisan},
     number = {9},
     pages = {3531--3545},
-    title = {Jordan curves in the level sets of additive {B}rownian motion},
+    title = {Jordan curves in the level sets of additive {B}rownian
+   motion},
     url = {https://doi.org/10.1090/S0002-9947-01-02811-2},
     volume = {353},
     year = {2001}

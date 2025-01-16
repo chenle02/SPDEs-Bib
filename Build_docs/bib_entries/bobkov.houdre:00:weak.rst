@@ -10,7 +10,8 @@ bobkov.houdre:00:weak
    @article{bobkov.houdre:00:weak,
     author = {Bobkov, Sergey G. and Houdr\'{e}, Christian},
     doi = {10.2307/3318510},
-    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for
+   Mathematical Statistics and Probability},
     issn = {1350-7265},
     journal = {Bernoulli},
     mrclass = {28A75 (28A35 60E15 60F99)},

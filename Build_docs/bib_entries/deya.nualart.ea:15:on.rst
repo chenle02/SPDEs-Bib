@@ -18,7 +18,8 @@ deya.nualart.ea:15:on
     mrreviewer = {Abdellatif Bench\'{e}rif-Madani},
     number = {3},
     pages = {1493--1534},
-    title = {On {$L^2$} modulus of continuity of {B}rownian local times and {R}iesz potentials},
+    title = {On {$L^2$} modulus of continuity of {B}rownian local times
+   and {R}iesz potentials},
     url = {https://doi.org/10.1214/13-AOP904},
     volume = {43},
     year = {2015}

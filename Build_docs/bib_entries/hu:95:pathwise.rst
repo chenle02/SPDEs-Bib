@@ -18,7 +18,8 @@ hu:95:pathwise
     mrreviewer = {Constantin Tudor},
     number = {3},
     pages = {264--274},
-    title = {The pathwise solution for a class of quasilinear stochastic equations of evolution in {B}anach space. {II}},
+    title = {The pathwise solution for a class of quasilinear
+   stochastic equations of evolution in {B}anach space. {II}},
     url = {https://doi.org/10.1016/S0252-9602(18)30048-1},
     volume = {15},
     year = {1995}

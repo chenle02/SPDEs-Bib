@@ -17,7 +17,8 @@ kurtz:07:yamada-watanabe-engelbert
     mrnumber = {2336594},
     mrreviewer = {Rainer Buckdahn},
     pages = {951--965},
-    title = {The {Y}amada-{W}atanabe-{E}ngelbert theorem for general stochastic equations and inequalities},
+    title = {The {Y}amada-{W}atanabe-{E}ngelbert theorem for general
+   stochastic equations and inequalities},
     url = {https://doi.org/10.1214/EJP.v12-431},
     volume = {12},
     year = {2007}

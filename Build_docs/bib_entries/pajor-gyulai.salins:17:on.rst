@@ -18,7 +18,8 @@ pajor-gyulai.salins:17:on
     mrreviewer = {Paulo R. C. Ruffino},
     number = {6},
     pages = {1960--1997},
-    title = {On dynamical systems perturbed by a null-recurrent motion: the general case},
+    title = {On dynamical systems perturbed by a null-recurrent motion:
+   the general case},
     url = {https://doi.org/10.1016/j.spa.2016.09.009},
     volume = {127},
     year = {2017}

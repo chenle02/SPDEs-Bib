@@ -17,7 +17,9 @@ zheng.zhai.ea:18:moderate
     mrnumber = {3877718},
     number = {4},
     pages = {583--612},
-    title = {Moderate deviations for stochastic models of two-dimensional second-grade fluids driven by {L}\'{e}vy noise},
+    title = {Moderate deviations for stochastic models of
+   two-dimensional second-grade fluids driven by {L}\'{e}vy
+   noise},
     url = {https://doi.org/10.1007/s40304-018-0165-6},
     volume = {6},
     year = {2018}

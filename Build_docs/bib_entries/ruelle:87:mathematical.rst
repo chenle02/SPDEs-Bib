@@ -17,7 +17,8 @@ ruelle:87:mathematical
     mrreviewer = {Aernout C. D. van Enter},
     number = {2},
     pages = {225--239},
-    title = {A mathematical reformulation of {D}errida's {REM} and {GREM}},
+    title = {A mathematical reformulation of {D}errida's {REM} and
+   {GREM}},
     url = {http://projecteuclid.org/euclid.cmp/1104116461},
     volume = {108},
     year = {1987}

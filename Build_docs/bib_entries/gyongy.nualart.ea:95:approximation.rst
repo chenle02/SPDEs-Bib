@@ -8,7 +8,8 @@ gyongy.nualart.ea:95:approximation
 .. code-block:: bibtex
 
    @article{gyongy.nualart.ea:95:approximation,
-    author = {Gy\"{o}ngy, Istv\'{a}n and Nualart, David and Sanz-Sol\'{e}, Marta},
+    author = {Gy\"{o}ngy, Istv\'{a}n and Nualart, David and
+   Sanz-Sol\'{e}, Marta},
     doi = {10.1007/BF01202782},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},

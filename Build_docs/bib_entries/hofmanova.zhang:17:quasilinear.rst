@@ -18,7 +18,8 @@ hofmanova.zhang:17:quasilinear
     mrreviewer = {Guangying Lv},
     number = {10},
     pages = {3354--3371},
-    title = {Quasilinear parabolic stochastic partial differential equations: existence, uniqueness},
+    title = {Quasilinear parabolic stochastic partial differential
+   equations: existence, uniqueness},
     url = {https://doi.org/10.1016/j.spa.2017.01.010},
     volume = {127},
     year = {2017}

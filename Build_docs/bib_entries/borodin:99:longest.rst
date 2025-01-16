@@ -16,7 +16,8 @@ borodin:99:longest
     mrnumber = {1667453},
     mrreviewer = {Jennifer R. Galovich},
     pages = {Research Paper 13, 12},
-    title = {Longest increasing subsequences of random colored permutations},
+    title = {Longest increasing subsequences of random colored
+   permutations},
     url = {https://doi.org/10.37236/1445},
     volume = {6},
     year = {1999}

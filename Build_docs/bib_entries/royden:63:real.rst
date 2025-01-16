@@ -13,7 +13,8 @@ royden:63:real
     mrnumber = {0151555},
     mrreviewer = {P. Franklin},
     pages = {xvi+284},
-    publisher = {The Macmillan Company, New York; Collier Macmillan Ltd., London},
+    publisher = {The Macmillan Company, New York; Collier Macmillan Ltd.,
+   London},
     title = {Real analysis},
     year = {1963}
    }

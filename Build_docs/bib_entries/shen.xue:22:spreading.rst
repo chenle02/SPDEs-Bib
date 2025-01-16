@@ -17,7 +17,8 @@ shen.xue:22:spreading
     mrnumber = {4470553},
     number = {10},
     pages = {2981--3002},
-    title = {Spreading speeds of a parabolic-parabolic chemotaxis model with logistic source on {$\Bbb{R}^N$}},
+    title = {Spreading speeds of a parabolic-parabolic chemotaxis model
+   with logistic source on {$\Bbb{R}^N$}},
     url = {https://doi.org/10.3934/dcdss.2022074},
     volume = {15},
     year = {2022}

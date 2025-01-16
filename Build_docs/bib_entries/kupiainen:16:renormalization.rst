@@ -10,7 +10,8 @@ kupiainen:16:renormalization
    @article{kupiainen:16:renormalization,
     author = {Kupiainen, Antti},
     doi = {10.1007/s00023-015-0408-y},
-    fjournal = {Annales Henri Poincar\'{e}. A Journal of Theoretical and Mathematical Physics},
+    fjournal = {Annales Henri Poincar\'{e}. A Journal of Theoretical and
+   Mathematical Physics},
     issn = {1424-0637},
     journal = {Ann. Henri Poincar\'{e}},
     mrclass = {35R60 (35A30 35K91 81T17)},

@@ -8,7 +8,8 @@ arriojas.hu.ea:07:delayed
 .. code-block:: bibtex
 
    @article{arriojas.hu.ea:07:delayed,
-    author = {Arriojas, Mercedes and Hu, Yaozhong and Mohammed, Salah-Eldin and Pap, Gyula},
+    author = {Arriojas, Mercedes and Hu, Yaozhong and Mohammed,
+   Salah-Eldin and Pap, Gyula},
     doi = {10.1080/07362990601139669},
     fjournal = {Stochastic Analysis and Applications},
     issn = {0736-2994},

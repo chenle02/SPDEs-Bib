@@ -10,7 +10,8 @@ bourgain.gamburd.ea:06:sieving
    @article{bourgain.gamburd.ea:06:sieving,
     author = {Bourgain, Jean and Gamburd, Alex and Sarnak, Peter},
     doi = {10.1016/j.crma.2006.05.023},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {11N35 (11E57 11N32)},

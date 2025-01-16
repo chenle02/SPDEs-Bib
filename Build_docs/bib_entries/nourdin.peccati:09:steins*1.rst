@@ -18,7 +18,8 @@ nourdin.peccati:09:steins*1
     mrreviewer = {Jean-Pierre Fouque},
     number = {6},
     pages = {2231--2261},
-    title = {Stein's method and exact {B}erry-{E}sseen asymptotics for functionals of {G}aussian fields},
+    title = {Stein's method and exact {B}erry-{E}sseen asymptotics for
+   functionals of {G}aussian fields},
     url = {https://doi.org/10.1214/09-AOP461},
     volume = {37},
     year = {2009}

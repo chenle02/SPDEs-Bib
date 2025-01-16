@@ -17,7 +17,8 @@ liu.foondun.ea:14:mean
     mrnumber = {3230491},
     mrreviewer = {Peter E. Kloeden},
     pages = {173--182},
-    title = {Mean square polynomial stability of numerical solutions to a class of stochastic differential equations},
+    title = {Mean square polynomial stability of numerical solutions to
+   a class of stochastic differential equations},
     url = {https://doi.org/10.1016/j.spl.2014.06.002},
     volume = {92},
     year = {2014}

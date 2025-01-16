@@ -18,7 +18,8 @@ gao.li:06:logarithmic
     mrreviewer = {J.\ H\"{u}sler},
     number = {3},
     pages = {535--556},
-    title = {Logarithmic level comparison for small deviation probabilities},
+    title = {Logarithmic level comparison for small deviation
+   probabilities},
     url = {https://doi.org/10.1007/s10959-006-0026-1},
     volume = {19},
     year = {2006}

@@ -18,7 +18,8 @@ bourgain.bulut:14:invariant
     mrreviewer = {Flank\ D. M. Bezerra},
     number = {4},
     pages = {2319--2340},
-    title = {Invariant {G}ibbs measure evolution for the radial nonlinear wave equation on the 3d ball},
+    title = {Invariant {G}ibbs measure evolution for the radial
+   nonlinear wave equation on the 3d ball},
     url = {https://doi.org/10.1016/j.jfa.2013.06.002},
     volume = {266},
     year = {2014}

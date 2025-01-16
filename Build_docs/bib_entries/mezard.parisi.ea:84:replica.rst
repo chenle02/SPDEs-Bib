@@ -8,7 +8,8 @@ mezard.parisi.ea:84:replica
 .. code-block:: bibtex
 
    @article{mezard.parisi.ea:84:replica,
-    author = {M\'{e}zard, M. and Parisi, G. and Sourlas, N. and Toulouse, G. and Virasoro, M.},
+    author = {M\'{e}zard, M. and Parisi, G. and Sourlas, N. and
+   Toulouse, G. and Virasoro, M.},
     doi = {10.1051/jphys:01984004505084300},
     fjournal = {Le Journal de Physique},
     issn = {0302-0738},
@@ -18,7 +19,8 @@ mezard.parisi.ea:84:replica
     mrreviewer = {H. N. V. Temperley},
     number = {5},
     pages = {843--854},
-    title = {Replica symmetry breaking and the nature of the spin glass phase},
+    title = {Replica symmetry breaking and the nature of the spin glass
+   phase},
     url = {https://doi.org/10.1051/jphys:01984004505084300},
     volume = {45},
     year = {1984}

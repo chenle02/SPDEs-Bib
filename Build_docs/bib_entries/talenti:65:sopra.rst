@@ -17,7 +17,8 @@ talenti:65:sopra
     mrnumber = {201816},
     mrreviewer = {G. Geymonat},
     pages = {285--304},
-    title = {Sopra una classe di equazioni ellittiche a coefficienti misurabili},
+    title = {Sopra una classe di equazioni ellittiche a coefficienti
+   misurabili},
     url = {https://doi.org/10.1007/BF02414375},
     volume = {69},
     year = {1965}

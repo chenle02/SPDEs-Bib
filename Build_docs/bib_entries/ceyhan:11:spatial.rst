@@ -18,7 +18,8 @@ ceyhan:11:spatial
     mrreviewer = {Antonio\ Cuevas},
     number = {8},
     pages = {1363--1395},
-    title = {Spatial clustering tests based on the domination number of a new random digraph family},
+    title = {Spatial clustering tests based on the domination number of
+   a new random digraph family},
     url = {https://doi.org/10.1080/03610921003597211},
     volume = {40},
     year = {2011}

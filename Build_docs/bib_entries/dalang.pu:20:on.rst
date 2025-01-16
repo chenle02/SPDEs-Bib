@@ -10,7 +10,8 @@ dalang.pu:20:on
    @article{dalang.pu:20:on,
     author = {Dalang, Robert C. and Pu, Fei},
     doi = {10.1007/s40072-019-00151-9},
-    fjournal = {Stochastic Partial Differential Equations. Analysis and Computations},
+    fjournal = {Stochastic Partial Differential Equations. Analysis and
+   Computations},
     issn = {2194-0401},
     journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
     mrclass = {60H15 (35R60 60G60 60H07 60J45)},
@@ -18,7 +19,8 @@ dalang.pu:20:on
     mrreviewer = {Xiaobin Sun},
     number = {3},
     pages = {461--508},
-    title = {On the density of the supremum of the solution to the linear stochastic heat equation},
+    title = {On the density of the supremum of the solution to the
+   linear stochastic heat equation},
     url = {https://doi.org/10.1007/s40072-019-00151-9},
     volume = {8},
     year = {2020}

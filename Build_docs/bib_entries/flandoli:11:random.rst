@@ -14,7 +14,10 @@ flandoli:11:random
     mrclass = {60H15 (35B40 35Q35 35R60 60H10 76D05 76M35)},
     mrnumber = {2796837},
     mrreviewer = {Peter E. Kloeden},
-    note = {Lectures from the 40th Probability Summer School held in Saint-Flour, 2010, \'{E}cole d'\'{E}t\'{e} de Probabilit\'{e}s de Saint-Flour. [Saint-Flour Probability Summer School]},
+    note = {Lectures from the 40th Probability Summer School held in
+   Saint-Flour, 2010, \'{E}cole d'\'{E}t\'{e} de
+   Probabilit\'{e}s de Saint-Flour. [Saint-Flour Probability
+   Summer School]},
     pages = {x+176},
     publisher = {Springer, Heidelberg},
     series = {Lecture Notes in Mathematics},

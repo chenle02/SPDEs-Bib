@@ -18,7 +18,8 @@ dong.li.ea:12:stationary
     mrreviewer = {Jan\ I.\ Seidler},
     number = {1},
     pages = {1150006, 22},
-    title = {Stationary weak solutions for stochastic 3{D} {N}avier-{S}tokes equations with {L}\'{e}vy noise},
+    title = {Stationary weak solutions for stochastic 3{D}
+   {N}avier-{S}tokes equations with {L}\'{e}vy noise},
     url = {https://doi.org/10.1142/S0219493712003559},
     volume = {12},
     year = {2012}

@@ -16,7 +16,8 @@ miyachi:91:extension
     pages = {170--182},
     publisher = {Springer, Tokyo},
     series = {ICM-90 Satell. Conf. Proc.},
-    title = {Extension theorems for real variable {H}ardy and {H}ardy-{S}obolev spaces},
+    title = {Extension theorems for real variable {H}ardy and
+   {H}ardy-{S}obolev spaces},
     year = {1991}
    }
 

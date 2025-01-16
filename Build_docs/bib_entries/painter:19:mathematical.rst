@@ -16,7 +16,8 @@ painter:19:mathematical
     mrclass = {92C17},
     mrnumber = {4007526},
     pages = {162--182},
-    title = {Mathematical models for chemotaxis and their applications in self-organisation phenomena},
+    title = {Mathematical models for chemotaxis and their applications
+   in self-organisation phenomena},
     url = {https://doi.org/10.1016/j.jtbi.2018.06.019},
     volume = {481},
     year = {2019}

@@ -17,7 +17,9 @@ rockner.zhang:12:stochastic
     mrnumber = {2852224},
     number = {1},
     pages = {716--744},
-    title = {Stochastic 3{D} tamed {N}avier-{S}tokes equations: existence, uniqueness and small time large deviation principles},
+    title = {Stochastic 3{D} tamed {N}avier-{S}tokes equations:
+   existence, uniqueness and small time large deviation
+   principles},
     url = {https://doi.org/10.1016/j.jde.2011.09.030},
     volume = {252},
     year = {2012}

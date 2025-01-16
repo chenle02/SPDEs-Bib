@@ -17,7 +17,8 @@ derrida.evans.ea:93:mean
     mrreviewer = {Aernout\ C. D. van Enter},
     number = {2},
     pages = {221--244},
-    title = {Mean field theory of directed polymers with random complex weights},
+    title = {Mean field theory of directed polymers with random complex
+   weights},
     url = {http://projecteuclid.org/euclid.cmp/1104253626},
     volume = {156},
     year = {1993}

@@ -18,7 +18,8 @@ valko.virag:09:continuum
     mrreviewer = {Ricardo Restrepo},
     number = {3},
     pages = {463--508},
-    title = {Continuum limits of random matrices and the {B}rownian carousel},
+    title = {Continuum limits of random matrices and the {B}rownian
+   carousel},
     url = {https://doi.org/10.1007/s00222-009-0180-z},
     volume = {177},
     year = {2009}

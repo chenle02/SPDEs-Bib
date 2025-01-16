@@ -9,7 +9,8 @@ li:98:result
 
    @incollection{li:98:result,
     author = {Li, Wenbo V.},
-    booktitle = {Asymptotic methods in probability and statistics ({O}ttawa, {ON}, 1997)},
+    booktitle = {Asymptotic methods in probability and statistics
+   ({O}ttawa, {ON}, 1997)},
     doi = {10.1016/B978-044450083-0/50018-6},
     isbn = {0-444-50083-9},
     mrclass = {60J65 (60J70)},

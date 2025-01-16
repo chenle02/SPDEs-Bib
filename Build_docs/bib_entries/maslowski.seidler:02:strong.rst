@@ -9,7 +9,8 @@ maslowski.seidler:02:strong
 
    @incollection{maslowski.seidler:02:strong,
     author = {Maslowski, Bohdan and Seidler, Jan},
-    booktitle = {Stochastic partial differential equations and applications ({T}rento, 2002)},
+    booktitle = {Stochastic partial differential equations and applications
+   ({T}rento, 2002)},
     isbn = {0-8247-0792-3},
     mrclass = {60J60 (47D07 60J25)},
     mrnumber = {1919518},

@@ -10,7 +10,8 @@ levine:90:role
    @article{levine:90:role,
     author = {Levine, Howard A.},
     doi = {10.1137/1032046},
-    fjournal = {SIAM Review. A Publication of the Society for Industrial and Applied Mathematics},
+    fjournal = {SIAM Review. A Publication of the Society for Industrial
+   and Applied Mathematics},
     issn = {0036-1445},
     journal = {SIAM Rev.},
     mrclass = {35K55 (35B05)},

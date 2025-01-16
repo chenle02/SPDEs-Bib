@@ -16,7 +16,8 @@ nane:08:symmetric
     mrnumber = {2383920},
     number = {2},
     pages = {217--225},
-    title = {Symmetric {$\alpha$}-stable subordinators and {C}auchy problems},
+    title = {Symmetric {$\alpha$}-stable subordinators and {C}auchy
+   problems},
     volume = {42},
     year = {2008}
    }

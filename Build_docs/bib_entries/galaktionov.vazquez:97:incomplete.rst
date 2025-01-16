@@ -18,7 +18,8 @@ galaktionov.vazquez:97:incomplete
     mrreviewer = {Georg S. Weiss},
     number = {9-10},
     pages = {1405--1452},
-    title = {Incomplete blow-up and singular interfaces for quasilinear heat equations},
+    title = {Incomplete blow-up and singular interfaces for quasilinear
+   heat equations},
     url = {https://doi.org/10.1080/03605309708821306},
     volume = {22},
     year = {1997}

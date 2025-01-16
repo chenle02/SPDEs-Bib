@@ -17,7 +17,8 @@ dettweiler:91:stochastic
     mrreviewer = {Jerzy Szulga},
     number = {2},
     pages = {58--97},
-    title = {Stochastic integration relative to {B}rownian motion on a general {B}anach space},
+    title = {Stochastic integration relative to {B}rownian motion on a
+   general {B}anach space},
     volume = {15},
     year = {1991}
    }

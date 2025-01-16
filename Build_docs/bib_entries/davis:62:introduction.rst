@@ -14,7 +14,8 @@ davis:62:introduction
     mrreviewer = {T. L. Saaty},
     pages = {xv+566},
     publisher = {Dover Publications, Inc., New York},
-    title = {Introduction to nonlinear differential and integral equations},
+    title = {Introduction to nonlinear differential and integral
+   equations},
     year = {1962}
    }
 

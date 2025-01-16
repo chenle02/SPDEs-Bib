@@ -10,7 +10,8 @@ lv.wei:21:blowup
    @article{lv.wei:21:blowup,
     author = {Lv, Guangying and Wei, Jinlong},
     doi = {10.1016/j.aml.2021.107475},
-    fjournal = {Applied Mathematics Letters. An International Journal of Rapid Publication},
+    fjournal = {Applied Mathematics Letters. An International Journal of
+   Rapid Publication},
     issn = {0893-9659,1873-5452},
     journal = {Appl. Math. Lett.},
     mrclass = {35R60 (60H15)},

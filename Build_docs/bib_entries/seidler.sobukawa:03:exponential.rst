@@ -10,7 +10,8 @@ seidler.sobukawa:03:exponential
    @article{seidler.sobukawa:03:exponential,
     author = {Seidler, Jan and Sobukawa, Takuya},
     doi = {10.1112/S0024610702003745},
-    fjournal = {Journal of the London Mathematical Society. Second Series},
+    fjournal = {Journal of the London Mathematical Society. Second
+   Series},
     issn = {0024-6107},
     journal = {J. London Math. Soc. (2)},
     mrclass = {60H15 (60F10)},

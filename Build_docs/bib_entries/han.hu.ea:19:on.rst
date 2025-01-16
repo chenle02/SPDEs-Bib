@@ -17,7 +17,8 @@ han.hu.ea:19:on
     mrnumber = {3910612},
     number = {3},
     pages = {491--499},
-    title = {On pricing barrier control in a regime-switching regulated market},
+    title = {On pricing barrier control in a regime-switching regulated
+   market},
     url = {https://doi.org/10.1080/14697688.2018.1480835},
     volume = {19},
     year = {2019}

@@ -10,7 +10,8 @@ cattiaux.guillin:06:on
    @article{cattiaux.guillin:06:on,
     author = {Cattiaux, Patrick and Guillin, Arnaud},
     doi = {10.1016/j.matpur.2006.06.003},
-    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es. Neuvi\`eme S\'{e}rie},
+    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es.
+   Neuvi\`eme S\'{e}rie},
     issn = {0021-7824},
     journal = {J. Math. Pures Appl. (9)},
     mrclass = {47D07 (47N30 60E15 60G10)},

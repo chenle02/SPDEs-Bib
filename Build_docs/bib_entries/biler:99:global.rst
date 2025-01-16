@@ -17,7 +17,8 @@ biler:99:global
     mrreviewer = {Yuzo Hosono},
     number = {1},
     pages = {347--359},
-    title = {Global solutions to some parabolic-elliptic systems of chemotaxis},
+    title = {Global solutions to some parabolic-elliptic systems of
+   chemotaxis},
     volume = {9},
     year = {1999}
    }

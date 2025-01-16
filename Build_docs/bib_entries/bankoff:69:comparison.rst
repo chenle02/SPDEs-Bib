@@ -9,7 +9,8 @@ bankoff:69:comparison
 
    @article{bankoff:69:comparison,
     author = {Bankoff, Leon},
-    fjournal = {Univerzitet u Beogradu. Publikacije Elektrotehni\v{c}kog Fakulteta. Serija Matematika i Fizika},
+    fjournal = {Univerzitet u Beogradu. Publikacije Elektrotehni\v{c}kog
+   Fakulteta. Serija Matematika i Fizika},
     issn = {0522-8441},
     journal = {Univ. Beograd. Publ. Elektrotehn. Fak. Ser. Mat. Fiz.},
     mrclass = {52.40},

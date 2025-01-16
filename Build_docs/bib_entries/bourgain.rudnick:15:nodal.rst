@@ -18,7 +18,8 @@ bourgain.rudnick:15:nodal
     mrreviewer = {Veronica\ Felli},
     number = {1},
     pages = {479--505},
-    title = {Nodal intersections and {$L^p$} restriction theorems on the torus},
+    title = {Nodal intersections and {$L^p$} restriction theorems on
+   the torus},
     url = {https://doi.org/10.1007/s11856-015-1183-7},
     volume = {207},
     year = {2015}

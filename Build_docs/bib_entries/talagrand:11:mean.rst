@@ -17,7 +17,10 @@ talagrand:11:mean
     note = {Basic examples},
     pages = {xviii+485},
     publisher = {Springer-Verlag, Berlin},
-    series = {Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge. A Series of Modern Surveys in Mathematics [Results in Mathematics and Related Areas. 3rd Series. A Series of Modern Surveys in Mathematics]},
+    series = {Ergebnisse der Mathematik und ihrer Grenzgebiete. 3.
+   Folge. A Series of Modern Surveys in Mathematics [Results
+   in Mathematics and Related Areas. 3rd Series. A Series of
+   Modern Surveys in Mathematics]},
     title = {Mean field models for spin glasses. {V}olume {I}},
     url = {https://doi.org/10.1007/978-3-642-15202-3},
     volume = {54},

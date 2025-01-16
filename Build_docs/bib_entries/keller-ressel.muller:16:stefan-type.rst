@@ -10,7 +10,8 @@ keller-ressel.muller:16:stefan-type
    @article{keller-ressel.muller:16:stefan-type,
     author = {Keller-Ressel, Martin and M\"{u}ller, Marvin S.},
     doi = {10.1007/s40072-016-0076-z},
-    fjournal = {Stochastic Partial Differential Equations. Analysis and Computations},
+    fjournal = {Stochastic Partial Differential Equations. Analysis and
+   Computations},
     issn = {2194-0401,2194-041X},
     journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
     mrclass = {35R35 (35R60 60H15 91B70 91G80)},

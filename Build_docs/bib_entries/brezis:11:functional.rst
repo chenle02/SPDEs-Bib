@@ -16,7 +16,8 @@ brezis:11:functional
     pages = {xiv+599},
     publisher = {Springer, New York},
     series = {Universitext},
-    title = {Functional analysis, {S}obolev spaces and partial differential equations},
+    title = {Functional analysis, {S}obolev spaces and partial
+   differential equations},
     year = {2011}
    }
 

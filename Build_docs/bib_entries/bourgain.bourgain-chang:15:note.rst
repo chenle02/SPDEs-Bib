@@ -18,7 +18,8 @@ bourgain.bourgain-chang:15:note
     mrreviewer = {Mariza\ S.\ Simsen},
     number = {1},
     pages = {1--15},
-    title = {A note on {L}yapunov exponents of deterministic strongly mixing potentials},
+    title = {A note on {L}yapunov exponents of deterministic strongly
+   mixing potentials},
     url = {https://doi.org/10.4171/JST/89},
     volume = {5},
     year = {2015}

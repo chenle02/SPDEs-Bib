@@ -8,7 +8,8 @@ borodin.corwin.ea:16:observables
 .. code-block:: bibtex
 
    @article{borodin.corwin.ea:16:observables,
-    author = {Borodin, Alexei and Corwin, Ivan and Gorin, Vadim and Shakirov, Shamil},
+    author = {Borodin, Alexei and Corwin, Ivan and Gorin, Vadim and
+   Shakirov, Shamil},
     doi = {10.1090/tran/6359},
     fjournal = {Transactions of the American Mathematical Society},
     issn = {0002-9947},

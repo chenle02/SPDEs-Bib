@@ -18,7 +18,8 @@ teichmann:11:another
     mrreviewer = {Nikolaos Halidias},
     number = {2-3},
     pages = {535--550},
-    title = {Another approach to some rough and stochastic partial differential equations},
+    title = {Another approach to some rough and stochastic partial
+   differential equations},
     url = {https://doi.org/10.1142/S0219493711003437},
     volume = {11},
     year = {2011}

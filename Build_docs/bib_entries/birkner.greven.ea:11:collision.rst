@@ -8,7 +8,8 @@ birkner.greven.ea:11:collision
 .. code-block:: bibtex
 
    @article{birkner.greven.ea:11:collision,
-    author = {Birkner, Matthias and Greven, Andreas and den Hollander, Frank},
+    author = {Birkner, Matthias and Greven, Andreas and den Hollander,
+   Frank},
     doi = {10.1214/EJP.v16-878},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},
@@ -16,7 +17,8 @@ birkner.greven.ea:11:collision
     mrnumber = {2786642},
     mrreviewer = {Ofer Zeitouni},
     pages = {no. 20, 552--586},
-    title = {Collision local time of transient random walks and intermediate phases in interacting stochastic systems},
+    title = {Collision local time of transient random walks and
+   intermediate phases in interacting stochastic systems},
     url = {https://doi.org/10.1214/EJP.v16-878},
     volume = {16},
     year = {2011}

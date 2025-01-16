@@ -13,7 +13,8 @@ friedman:69:partial
     mrnumber = {0445088},
     mrreviewer = {V. Komkov},
     pages = {vi+262},
-    publisher = {Holt, Rinehart and Winston, Inc., New York-Montreal, Que.-London},
+    publisher = {Holt, Rinehart and Winston, Inc., New York-Montreal,
+   Que.-London},
     title = {Partial differential equations},
     year = {1969}
    }

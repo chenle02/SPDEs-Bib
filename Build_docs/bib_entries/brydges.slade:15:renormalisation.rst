@@ -18,7 +18,8 @@ brydges.slade:15:renormalisation
     mrreviewer = {Uwe C. T\"{a}uber},
     number = {3},
     pages = {589--667},
-    title = {A renormalisation group method. {V}. {A} single renormalisation group step},
+    title = {A renormalisation group method. {V}. {A} single
+   renormalisation group step},
     url = {https://doi.org/10.1007/s10955-014-1167-8},
     volume = {159},
     year = {2015}

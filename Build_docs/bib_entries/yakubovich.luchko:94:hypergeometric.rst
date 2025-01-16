@@ -17,7 +17,8 @@ yakubovich.luchko:94:hypergeometric
     pages = {xii+324},
     publisher = {Kluwer Academic Publishers Group, Dordrecht},
     series = {Mathematics and its Applications},
-    title = {The hypergeometric approach to integral transforms and convolutions},
+    title = {The hypergeometric approach to integral transforms and
+   convolutions},
     url = {https://doi.org/10.1007/978-94-011-1196-6},
     volume = {287},
     year = {1994}

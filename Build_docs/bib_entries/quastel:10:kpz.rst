@@ -9,7 +9,8 @@ quastel:10:kpz
 
    @incollection{quastel:10:kpz,
     author = {Quastel, Jeremy},
-    booktitle = {X{VI}th {I}nternational {C}ongress on {M}athematical {P}hysics},
+    booktitle = {X{VI}th {I}nternational {C}ongress on {M}athematical
+   {P}hysics},
     doi = {10.1142/9789814304634\_0030},
     mrclass = {82C21 (60K35 82C24 82C44)},
     mrnumber = {2730805},

@@ -17,7 +17,8 @@ savu:06:hydrodynamic
     mrnumber = {2231983},
     mrreviewer = {Glauco Valle},
     pages = {Art. ID 69101, 37},
-    title = {Hydrodynamic scaling limit of continuum solid-on-solid model},
+    title = {Hydrodynamic scaling limit of continuum solid-on-solid
+   model},
     url = {https://doi.org/10.1155/JAM/2006/69101},
     year = {2006}
    }

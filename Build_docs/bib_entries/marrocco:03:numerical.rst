@@ -17,7 +17,8 @@ marrocco:03:numerical
     mrnumber = {2018433},
     number = {4},
     pages = {617--630},
-    title = {Numerical simulation of chemotactic bacteria aggregation via mixed finite elements},
+    title = {Numerical simulation of chemotactic bacteria aggregation
+   via mixed finite elements},
     url = {https://doi.org/10.1051/m2an:2003048},
     volume = {37},
     year = {2003}

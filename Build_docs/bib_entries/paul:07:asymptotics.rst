@@ -17,7 +17,8 @@ paul:07:asymptotics
     mrreviewer = {Anouar Ben Mabrouk},
     number = {4},
     pages = {1617--1642},
-    title = {Asymptotics of sample eigenstructure for a large dimensional spiked covariance model},
+    title = {Asymptotics of sample eigenstructure for a large
+   dimensional spiked covariance model},
     volume = {17},
     year = {2007}
    }

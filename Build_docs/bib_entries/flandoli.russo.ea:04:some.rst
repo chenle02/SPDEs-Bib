@@ -18,7 +18,9 @@ flandoli.russo.ea:04:some
     mrreviewer = {Jan I. Seidler},
     number = {2},
     pages = {145--184},
-    title = {Some {SDE}s with distributional drift. {II}. {L}yons-{Z}heng structure, {I}t\^{o}'s formula and semimartingale characterization},
+    title = {Some {SDE}s with distributional drift. {II}.
+   {L}yons-{Z}heng structure, {I}t\^{o}'s formula and
+   semimartingale characterization},
     url = {https://doi.org/10.1163/156939704323074700},
     volume = {12},
     year = {2004}

@@ -17,7 +17,8 @@ bertozzi:96:symmetric
     mrnumber = {1389749},
     number = {3},
     pages = {681--714},
-    title = {Symmetric singularity formation in lubrication-type equations for interface motion},
+    title = {Symmetric singularity formation in lubrication-type
+   equations for interface motion},
     url = {https://doi.org/10.1137/S0036139994271972},
     volume = {56},
     year = {1996}

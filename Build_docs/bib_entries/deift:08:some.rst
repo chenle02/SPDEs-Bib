@@ -18,7 +18,8 @@ deift:08:some
     pages = {419--430},
     publisher = {Amer. Math. Soc., Providence, RI},
     series = {Contemp. Math.},
-    title = {Some open problems in random matrix theory and the theory of integrable systems},
+    title = {Some open problems in random matrix theory and the theory
+   of integrable systems},
     url = {https://doi.org/10.1090/conm/458/08951},
     volume = {458},
     year = {2008}

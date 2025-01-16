@@ -18,7 +18,8 @@ gardner.derrida:89:three
     note = {Special issue in memory of Elizabeth Gardner, 1957--1988},
     number = {12},
     pages = {1983--1994},
-    title = {Three unfinished works on the optimal storage capacity of networks},
+    title = {Three unfinished works on the optimal storage capacity of
+   networks},
     url = {http://stacks.iop.org/0305-4470/22/1983},
     volume = {22},
     year = {1989}

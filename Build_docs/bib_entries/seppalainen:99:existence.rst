@@ -18,7 +18,8 @@ seppalainen:99:existence
     mrreviewer = {Francis Comets},
     number = {1},
     pages = {361--415},
-    title = {Existence of hydrodynamics for the totally asymmetric simple {$K$}-exclusion process},
+    title = {Existence of hydrodynamics for the totally asymmetric
+   simple {$K$}-exclusion process},
     url = {https://doi.org/10.1214/aop/1022677266},
     volume = {27},
     year = {1999}

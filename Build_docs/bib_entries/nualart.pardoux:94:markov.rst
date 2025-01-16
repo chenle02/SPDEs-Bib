@@ -17,7 +17,8 @@ nualart.pardoux:94:markov
     mrnumber = {1786190},
     number = {1-2},
     pages = {17--44},
-    title = {Markov field properties of solutions of white noise driven quasi-linear parabolic {PDE}s},
+    title = {Markov field properties of solutions of white noise driven
+   quasi-linear parabolic {PDE}s},
     url = {https://doi.org/10.1080/17442509408833896},
     volume = {48},
     year = {1994}

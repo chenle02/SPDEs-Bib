@@ -18,7 +18,8 @@ soshnikov:99:universality
     mrreviewer = {Boris A. Khoruzhenko},
     number = {3},
     pages = {697--733},
-    title = {Universality at the edge of the spectrum in {W}igner random matrices},
+    title = {Universality at the edge of the spectrum in {W}igner
+   random matrices},
     url = {https://doi.org/10.1007/s002200050743},
     volume = {207},
     year = {1999}

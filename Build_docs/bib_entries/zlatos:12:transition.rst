@@ -10,7 +10,8 @@ zlatos:12:transition
    @article{zlatos:12:transition,
     author = {Zlato\v{s}, Andrej},
     doi = {10.1016/j.matpur.2011.11.007},
-    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es. Neuvi\`eme S\'{e}rie},
+    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es.
+   Neuvi\`eme S\'{e}rie},
     issn = {0021-7824},
     journal = {J. Math. Pures Appl. (9)},
     mrclass = {35K57 (35A18 35B08 35B45)},
@@ -18,7 +19,8 @@ zlatos:12:transition
     mrreviewer = {Rodica Luca},
     number = {1},
     pages = {89--102},
-    title = {Transition fronts in inhomogeneous {F}isher-{KPP} reaction-diffusion equations},
+    title = {Transition fronts in inhomogeneous {F}isher-{KPP}
+   reaction-diffusion equations},
     url = {https://doi.org/10.1016/j.matpur.2011.11.007},
     volume = {98},
     year = {2012}

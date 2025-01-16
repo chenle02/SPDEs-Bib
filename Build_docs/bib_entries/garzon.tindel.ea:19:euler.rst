@@ -17,7 +17,8 @@ garzon.tindel.ea:19:euler
     mrnumber = {4066503},
     number = {3},
     pages = {747--763},
-    title = {Euler scheme for fractional delay stochastic differential equations by rough paths techniques},
+    title = {Euler scheme for fractional delay stochastic differential
+   equations by rough paths techniques},
     url = {https://doi.org/10.1007/s10473-019-0308-1},
     volume = {39},
     year = {2019}

@@ -18,7 +18,8 @@ benjamini.schramm:09:kpz
     mrreviewer = {Lars Olsen},
     number = {2},
     pages = {653--662},
-    title = {K{PZ} in one dimensional random geometry of multiplicative cascades},
+    title = {K{PZ} in one dimensional random geometry of multiplicative
+   cascades},
     url = {https://doi.org/10.1007/s00220-009-0752-1},
     volume = {289},
     year = {2009}

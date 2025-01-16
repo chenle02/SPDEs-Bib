@@ -9,7 +9,8 @@ zeitouni:14:work
 
    @inproceedings{zeitouni:14:work,
     author = {Zeitouni, Ofer},
-    booktitle = {Proceedings of the {I}nternational {C}ongress of {M}athematicians---{S}eoul 2014. {V}ol. 1},
+    booktitle = {Proceedings of the {I}nternational {C}ongress of
+   {M}athematicians---{S}eoul 2014. {V}ol. 1},
     isbn = {978-89-6105-804-9; 978-89-6105-803-2},
     mrclass = {01A70 (35R60 60H15)},
     mrnumber = {3728461},

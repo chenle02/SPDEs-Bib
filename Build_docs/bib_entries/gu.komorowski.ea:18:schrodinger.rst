@@ -18,7 +18,8 @@ gu.komorowski.ea:18:schrodinger
     mrreviewer = {Gaetano Siciliano},
     number = {7},
     pages = {2113--2138},
-    title = {The {S}chr\"{o}dinger equation with spatial white noise: the average wave function},
+    title = {The {S}chr\"{o}dinger equation with spatial white noise:
+   the average wave function},
     url = {https://doi.org/10.1016/j.jfa.2018.01.015},
     volume = {274},
     year = {2018}

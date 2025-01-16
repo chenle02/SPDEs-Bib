@@ -16,7 +16,8 @@ berselli.flandoli:10:on
     mrreviewer = {Paul\ Andrew\ Martin},
     pages = {55--81},
     publisher = {Springer, Berlin},
-    title = {On a stochastic approach to eddy viscosity models for turbulent flows},
+    title = {On a stochastic approach to eddy viscosity models for
+   turbulent flows},
     year = {2010}
    }
 

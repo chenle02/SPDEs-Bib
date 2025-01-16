@@ -18,7 +18,8 @@ bobkov.madiman:11:concentration
     mrreviewer = {Asok K. Nanda},
     number = {4},
     pages = {1528--1543},
-    title = {Concentration of the information in data with log-concave distributions},
+    title = {Concentration of the information in data with log-concave
+   distributions},
     url = {https://doi.org/10.1214/10-AOP592},
     volume = {39},
     year = {2011}

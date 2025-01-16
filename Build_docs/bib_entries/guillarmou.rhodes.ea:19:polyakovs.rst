@@ -10,7 +10,8 @@ guillarmou.rhodes.ea:19:polyakovs
    @article{guillarmou.rhodes.ea:19:polyakovs,
     author = {Guillarmou, Colin and Rhodes, R\'emi and Vargas, Vincent},
     doi = {10.1007/s10240-019-00109-6},
-    fjournal = {Publications Math\'ematiques. Institut de Hautes \'Etudes Scientifiques},
+    fjournal = {Publications Math\'ematiques. Institut de Hautes \'Etudes
+   Scientifiques},
     issn = {0073-8301,1618-1913},
     journal = {Publ. Math. Inst. Hautes \'Etudes Sci.},
     mrclass = {81T40 (30F10 32G15 81T30)},

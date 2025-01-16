@@ -10,7 +10,8 @@ hawkes:79:potential
    @article{hawkes:79:potential,
     author = {Hawkes, John},
     doi = {10.1112/plms/s3-38.2.335},
-    fjournal = {Proceedings of the London Mathematical Society. Third Series},
+    fjournal = {Proceedings of the London Mathematical Society. Third
+   Series},
     issn = {0024-6115},
     journal = {Proc. London Math. Soc. (3)},
     mrclass = {60J45},

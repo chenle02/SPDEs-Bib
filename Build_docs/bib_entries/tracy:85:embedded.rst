@@ -18,7 +18,8 @@ tracy:85:embedded
     mrreviewer = {L. A. Takhtajan (Takhtadzhyan)},
     number = {2},
     pages = {203--220},
-    title = {Embedded elliptic curves and the {Y}ang-{B}axter equations},
+    title = {Embedded elliptic curves and the {Y}ang-{B}axter
+   equations},
     url = {https://doi.org/10.1016/0167-2789(85)90058-2},
     volume = {16},
     year = {1985}

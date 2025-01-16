@@ -9,7 +9,8 @@ stankovic:70:on
 
    @article{stankovic:70:on,
     author = {Stankovi\'{c}, B.},
-    fjournal = {Institut Math\'{e}matique. Publications. Nouvelle S\'{e}rie},
+    fjournal = {Institut Math\'{e}matique. Publications. Nouvelle
+   S\'{e}rie},
     issn = {0350-1302},
     journal = {Publ. Inst. Math. (Beograd) (N.S.)},
     mrclass = {33.45},

@@ -18,7 +18,8 @@ seppalainen:02:diffusive
     mrreviewer = {Ellen Saada},
     number = {1},
     pages = {141--182},
-    title = {Diffusive fluctuations for one-dimensional totally asymmetric interacting random dynamics},
+    title = {Diffusive fluctuations for one-dimensional totally
+   asymmetric interacting random dynamics},
     url = {https://doi.org/10.1007/s002200200660},
     volume = {229},
     year = {2002}

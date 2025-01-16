@@ -17,7 +17,8 @@ foondun.liu.ea:19:some
     mrnumber = {3906260},
     number = {5},
     pages = {2575--2596},
-    title = {Some non-existence results for a class of stochastic partial differential equations},
+    title = {Some non-existence results for a class of stochastic
+   partial differential equations},
     url = {https://doi.org/10.1016/j.jde.2018.08.039},
     volume = {266},
     year = {2019}

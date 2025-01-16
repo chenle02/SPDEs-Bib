@@ -18,7 +18,8 @@ chen.nourdin.ea:21:steins
     mrreviewer = {Peter Kern},
     number = {3},
     pages = {1382--1407},
-    title = {Stein's method for asymmetric {$\alpha$}-stable distributions, with application to the stable {CLT}},
+    title = {Stein's method for asymmetric {$\alpha$}-stable
+   distributions, with application to the stable {CLT}},
     url = {https://doi.org/10.1007/s10959-020-01004-1},
     volume = {34},
     year = {2021}

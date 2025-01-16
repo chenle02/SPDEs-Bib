@@ -18,7 +18,8 @@ bourgain:00:holder
     mrreviewer = {David\ Damanik},
     number = {2},
     pages = {83--118},
-    title = {H\"{o}lder regularity of integrated density of states for the almost {M}athieu operator in a perturbative regime},
+    title = {H\"{o}lder regularity of integrated density of states for
+   the almost {M}athieu operator in a perturbative regime},
     url = {https://doi.org/10.1023/A:1007641323456},
     volume = {51},
     year = {2000}

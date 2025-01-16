@@ -17,7 +17,9 @@ issa.shen:19:uniqueness
     mrnumber = {4028576},
     number = {4},
     pages = {2305--2338},
-    title = {Uniqueness and stability of coexistence states in two species models with/without chemotaxis on bounded heterogeneous environments},
+    title = {Uniqueness and stability of coexistence states in two
+   species models with/without chemotaxis on bounded
+   heterogeneous environments},
     url = {https://doi.org/10.1007/s10884-018-9706-7},
     volume = {31},
     year = {2019}

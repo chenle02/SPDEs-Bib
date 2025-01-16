@@ -9,7 +9,8 @@ zabczyk:83:stopping
 
    @incollection{zabczyk:83:stopping,
     author = {Zabczyk, J.},
-    booktitle = {Control of distributed parameter systems, 1982 ({T}oulouse, 1982)},
+    booktitle = {Control of distributed parameter systems, 1982
+   ({T}oulouse, 1982)},
     isbn = {0-08-029361-1},
     mrclass = {90D15 (49A60 60J45)},
     mrnumber = {811257},

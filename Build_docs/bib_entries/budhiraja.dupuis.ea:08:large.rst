@@ -8,7 +8,8 @@ budhiraja.dupuis.ea:08:large
 .. code-block:: bibtex
 
    @article{budhiraja.dupuis.ea:08:large,
-    author = {Budhiraja, Amarjit and Dupuis, Paul and Maroulas, Vasileios},
+    author = {Budhiraja, Amarjit and Dupuis, Paul and Maroulas,
+   Vasileios},
     doi = {10.1214/07-AOP362},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ budhiraja.dupuis.ea:08:large
     mrreviewer = {Mohamed Mellouk},
     number = {4},
     pages = {1390--1420},
-    title = {Large deviations for infinite dimensional stochastic dynamical systems},
+    title = {Large deviations for infinite dimensional stochastic
+   dynamical systems},
     url = {https://doi.org/10.1214/07-AOP362},
     volume = {36},
     year = {2008}

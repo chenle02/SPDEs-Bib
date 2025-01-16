@@ -18,7 +18,8 @@ dembo.zeitouni:86:parameter
     mrreviewer = {Richard\ M.\ Hawkes},
     number = {1},
     pages = {91--113},
-    title = {Parameter estimation of partially observed continuous time stochastic processes via the {EM} algorithm},
+    title = {Parameter estimation of partially observed continuous time
+   stochastic processes via the {EM} algorithm},
     url = {https://doi.org/10.1016/0304-4149(86)90018-9},
     volume = {23},
     year = {1986}

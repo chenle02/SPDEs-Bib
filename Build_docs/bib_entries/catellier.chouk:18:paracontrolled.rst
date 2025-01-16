@@ -18,7 +18,8 @@ catellier.chouk:18:paracontrolled
     mrreviewer = {Dora Sele\v{s}i},
     number = {5},
     pages = {2621--2679},
-    title = {Paracontrolled distributions and the 3-dimensional stochastic quantization equation},
+    title = {Paracontrolled distributions and the 3-dimensional
+   stochastic quantization equation},
     url = {https://doi.org/10.1214/17-AOP1235},
     volume = {46},
     year = {2018}

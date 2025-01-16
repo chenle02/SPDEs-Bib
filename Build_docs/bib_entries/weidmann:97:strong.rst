@@ -17,7 +17,8 @@ weidmann:97:strong
     mrreviewer = {Alexei Yu. Konstantinov},
     number = {34},
     pages = {153--163},
-    title = {Strong operator convergence and spectral theory of ordinary differential operators},
+    title = {Strong operator convergence and spectral theory of
+   ordinary differential operators},
     year = {1997}
    }
 

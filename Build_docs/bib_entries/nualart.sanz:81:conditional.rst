@@ -16,7 +16,8 @@ nualart.sanz:81:conditional
     pages = {202--210},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {The conditional independence property in filtrations associated to stopping lines},
+    title = {The conditional independence property in filtrations
+   associated to stopping lines},
     volume = {863},
     year = {1981}
    }

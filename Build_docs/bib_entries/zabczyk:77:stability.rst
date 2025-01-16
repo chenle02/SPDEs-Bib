@@ -17,7 +17,8 @@ zabczyk:77:stability
     mrreviewer = {K.\ B.\ Datta},
     number = {1},
     pages = {1--10},
-    title = {Stability properties of the discrete {R}iccati operator equation},
+    title = {Stability properties of the discrete {R}iccati operator
+   equation},
     volume = {13},
     year = {1977}
    }

@@ -14,7 +14,8 @@ baxter:82:exactly
     mrnumber = {690578},
     mrreviewer = {J. Groeneveld},
     pages = {xii+486},
-    publisher = {Academic Press, Inc. [Harcourt Brace Jovanovich, Publishers], London},
+    publisher = {Academic Press, Inc. [Harcourt Brace Jovanovich,
+   Publishers], London},
     title = {Exactly solved models in statistical mechanics},
     year = {1982}
    }

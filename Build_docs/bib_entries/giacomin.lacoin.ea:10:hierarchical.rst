@@ -8,7 +8,8 @@ giacomin.lacoin.ea:10:hierarchical
 .. code-block:: bibtex
 
    @article{giacomin.lacoin.ea:10:hierarchical,
-    author = {Giacomin, Giambattista and Lacoin, Hubert and Toninelli, Fabio Lucio},
+    author = {Giacomin, Giambattista and Lacoin, Hubert and Toninelli,
+   Fabio Lucio},
     doi = {10.1007/s00440-009-0205-y},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},
@@ -18,7 +19,8 @@ giacomin.lacoin.ea:10:hierarchical
     mrreviewer = {Da-Quan Jiang},
     number = {1-2},
     pages = {185--216},
-    title = {Hierarchical pinning models, quadratic maps and quenched disorder},
+    title = {Hierarchical pinning models, quadratic maps and quenched
+   disorder},
     url = {https://doi.org/10.1007/s00440-009-0205-y},
     volume = {147},
     year = {2010}

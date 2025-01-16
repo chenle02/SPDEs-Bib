@@ -8,7 +8,8 @@ hida.kuo.ea:93:white
 .. code-block:: bibtex
 
    @book{hida.kuo.ea:93:white,
-    author = {Hida, Takeyuki and Kuo, Hui-Hsiung and Potthoff, J\"{u}rgen and Streit, Ludwig},
+    author = {Hida, Takeyuki and Kuo, Hui-Hsiung and Potthoff,
+   J\"{u}rgen and Streit, Ludwig},
     doi = {10.1007/978-94-017-3680-0},
     isbn = {0-7923-2233-9},
     mrclass = {60G20 (46F25 46Gxx 47N30 60G15 60H05 60H07 81T08)},

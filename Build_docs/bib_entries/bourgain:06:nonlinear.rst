@@ -18,7 +18,8 @@ bourgain:06:nonlinear
     mrreviewer = {Yu.\ E.\ Gliklikh},
     number = {1-4},
     pages = {183--188},
-    title = {Nonlinear {S}chr\"{o}dinger equation with a random potential},
+    title = {Nonlinear {S}chr\"{o}dinger equation with a random
+   potential},
     url = {http://projecteuclid.org/euclid.ijm/1258059474},
     volume = {50},
     year = {2006}

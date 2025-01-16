@@ -8,7 +8,8 @@ barral.ben-nasr.ea:03:comparing
 .. code-block:: bibtex
 
    @article{barral.ben-nasr.ea:03:comparing,
-    author = {Barral, Julien and Ben Nasr, Fathi and Peyri\`ere, Jacques},
+    author = {Barral, Julien and Ben Nasr, Fathi and Peyri\`ere,
+   Jacques},
     doi = {10.4310/AJM.2003.v7.n2.a1},
     fjournal = {Asian Journal of Mathematics},
     issn = {1093-6106,1945-0036},
@@ -18,7 +19,8 @@ barral.ben-nasr.ea:03:comparing
     mrreviewer = {Esa\ J\"arvenp\"a\"a},
     number = {2},
     pages = {149--165},
-    title = {Comparing multifractal formalisms: the neighboring boxes condition},
+    title = {Comparing multifractal formalisms: the neighboring boxes
+   condition},
     url = {https://doi.org/10.4310/AJM.2003.v7.n2.a1},
     volume = {7},
     year = {2003}

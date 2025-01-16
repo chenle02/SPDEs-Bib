@@ -18,7 +18,8 @@ hairer:12:singular
     mrreviewer = {Igor Cialenco},
     number = {1-2},
     pages = {265--297},
-    title = {Singular perturbations to semilinear stochastic heat equations},
+    title = {Singular perturbations to semilinear stochastic heat
+   equations},
     url = {https://doi.org/10.1007/s00440-010-0322-7},
     volume = {152},
     year = {2012}

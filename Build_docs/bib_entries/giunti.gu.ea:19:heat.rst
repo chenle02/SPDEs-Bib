@@ -17,7 +17,8 @@ giunti.gu.ea:19:heat
     mrnumber = {3916942},
     number = {2},
     pages = {1056--1095},
-    title = {Heat kernel upper bounds for interacting particle systems},
+    title = {Heat kernel upper bounds for interacting particle
+   systems},
     url = {https://doi.org/10.1214/18-AOP1279},
     volume = {47},
     year = {2019}

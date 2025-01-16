@@ -18,7 +18,8 @@ hu.le:17:nonlinear
     mrreviewer = {Jean Picard},
     number = {3},
     pages = {1935--2002},
-    title = {Nonlinear {Y}oung integrals and differential systems in {H}\"{o}lder media},
+    title = {Nonlinear {Y}oung integrals and differential systems in
+   {H}\"{o}lder media},
     url = {https://doi.org/10.1090/tran/6774},
     volume = {369},
     year = {2017}

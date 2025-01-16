@@ -16,7 +16,8 @@ its.tracy.ea:01:random
     pages = {245--258},
     publisher = {Cambridge Univ. Press, Cambridge},
     series = {Math. Sci. Res. Inst. Publ.},
-    title = {Random words, {T}oeplitz determinants, and integrable systems. {I}},
+    title = {Random words, {T}oeplitz determinants, and integrable
+   systems. {I}},
     volume = {40},
     year = {2001}
    }

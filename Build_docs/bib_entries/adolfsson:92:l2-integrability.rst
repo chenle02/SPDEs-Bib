@@ -18,7 +18,8 @@ adolfsson:92:l2-integrability
     mrreviewer = {Neil A. Watson},
     number = {1},
     pages = {146--160},
-    title = {{$L^2$}-integrability of second-order derivatives for {P}oisson's equation in nonsmooth domains},
+    title = {{$L^2$}-integrability of second-order derivatives for
+   {P}oisson's equation in nonsmooth domains},
     url = {https://doi.org/10.7146/math.scand.a-12391},
     volume = {70},
     year = {1992}

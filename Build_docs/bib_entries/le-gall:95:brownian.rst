@@ -18,7 +18,8 @@ le-gall:95:brownian
     mrreviewer = {E. B. Dynkin},
     number = {3},
     pages = {393--432},
-    title = {The {B}rownian snake and solutions of {$\Delta u=u^2$} in a domain},
+    title = {The {B}rownian snake and solutions of {$\Delta u=u^2$} in
+   a domain},
     url = {https://doi.org/10.1007/BF01192468},
     volume = {102},
     year = {1995}

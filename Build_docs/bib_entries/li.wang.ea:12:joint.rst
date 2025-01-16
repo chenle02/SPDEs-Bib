@@ -8,7 +8,8 @@ li.wang.ea:12:joint
 .. code-block:: bibtex
 
    @article{li.wang.ea:12:joint,
-    author = {Li, Zenghu and Wang, Hao and Xiong, Jie and Zhou, Xiaowen},
+    author = {Li, Zenghu and Wang, Hao and Xiong, Jie and Zhou,
+   Xiaowen},
     doi = {10.1007/s00440-011-0351-x},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},
@@ -18,7 +19,8 @@ li.wang.ea:12:joint
     mrreviewer = {Robert C. Dalang},
     number = {3-4},
     pages = {441--469},
-    title = {Joint continuity of the solutions to a class of nonlinear {SPDE}s},
+    title = {Joint continuity of the solutions to a class of nonlinear
+   {SPDE}s},
     url = {https://doi.org/10.1007/s00440-011-0351-x},
     volume = {153},
     year = {2012}

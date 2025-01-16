@@ -10,7 +10,8 @@ barral:97:variante
    @article{barral:97:variante,
     author = {Barral, Julien},
     doi = {10.1016/S0764-4442(97)80110-3},
-    fjournal = {Comptes Rendus de l'Acad\'emie des Sciences. S\'erie I. Math\'ematique},
+    fjournal = {Comptes Rendus de l'Acad\'emie des Sciences. S\'erie I.
+   Math\'ematique},
     issn = {0764-4442},
     journal = {C. R. Acad. Sci. Paris S\'er. I Math.},
     mrclass = {60G42},

@@ -18,7 +18,8 @@ zhang:07:regularities
     mrreviewer = {Alexander M. Kolodiu{i}},
     number = {2},
     pages = {454--476},
-    title = {Regularities for semilinear stochastic partial differential equations},
+    title = {Regularities for semilinear stochastic partial
+   differential equations},
     url = {https://doi.org/10.1016/j.jfa.2007.03.018},
     volume = {249},
     year = {2007}

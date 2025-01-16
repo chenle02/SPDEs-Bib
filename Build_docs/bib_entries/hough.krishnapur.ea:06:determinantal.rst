@@ -8,7 +8,8 @@ hough.krishnapur.ea:06:determinantal
 .. code-block:: bibtex
 
    @article{hough.krishnapur.ea:06:determinantal,
-    author = {Hough, J. Ben and Krishnapur, Manjunath and Peres, Yuval and Vir\'{a}g, B\'{a}lint},
+    author = {Hough, J. Ben and Krishnapur, Manjunath and Peres, Yuval
+   and Vir\'{a}g, B\'{a}lint},
     doi = {10.1214/154957806000000078},
     fjournal = {Probability Surveys},
     journal = {Probab. Surv.},

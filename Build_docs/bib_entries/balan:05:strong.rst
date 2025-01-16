@@ -18,7 +18,8 @@ balan:05:strong
     mrreviewer = {Alexander V. Bulinskiu{i}},
     number = {2},
     pages = {823--840},
-    title = {A strong invariance principle for associated random fields},
+    title = {A strong invariance principle for associated random
+   fields},
     url = {https://doi.org/10.1214/009117904000001071},
     volume = {33},
     year = {2005}

@@ -10,7 +10,8 @@ barbato.flandoli.ea:10:theorem
    @article{barbato.flandoli.ea:10:theorem,
     author = {Barbato, D. and Flandoli, Franco and Morandin, Francesco},
     doi = {10.1016/j.crma.2010.03.007},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {34A35 (35Q35 37L60 76B03)},

@@ -16,7 +16,8 @@ hu.nualart:10:central
     mrnumber = {2726086},
     mrreviewer = {Ciprian A. Tudor},
     pages = {396--410},
-    title = {Central limit theorem for the third moment in space of the {B}rownian local time increments},
+    title = {Central limit theorem for the third moment in space of the
+   {B}rownian local time increments},
     url = {https://doi.org/10.1214/ECP.v15-1573},
     volume = {15},
     year = {2010}

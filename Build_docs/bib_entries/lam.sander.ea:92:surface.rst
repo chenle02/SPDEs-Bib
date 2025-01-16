@@ -8,7 +8,8 @@ lam.sander.ea:92:surface
 .. code-block:: bibtex
 
    @article{lam.sander.ea:92:surface,
-    author = {Lam, Chi-Hang and Sander, Leonard M. and Wolf, Dietrich E.},
+    author = {Lam, Chi-Hang and Sander, Leonard M. and Wolf, Dietrich
+   E.},
     doi = {10.1103/PhysRevA.46.R6128},
     issue = {10},
     journal = {Phys. Rev. A},

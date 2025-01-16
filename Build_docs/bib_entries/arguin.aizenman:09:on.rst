@@ -18,7 +18,8 @@ arguin.aizenman:09:on
     mrreviewer = {Thierry Edmond Huillet},
     number = {3},
     pages = {1080--1113},
-    title = {On the structure of quasi-stationary competing particle systems},
+    title = {On the structure of quasi-stationary competing particle
+   systems},
     url = {https://doi.org/10.1214/08-AOP429},
     volume = {37},
     year = {2009}

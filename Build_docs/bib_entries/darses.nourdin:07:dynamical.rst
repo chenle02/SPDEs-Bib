@@ -17,7 +17,8 @@ darses.nourdin:07:dynamical
     mrnumber = {2350576},
     mrreviewer = {Andreas Neuenkirch},
     pages = {390--400},
-    title = {Dynamical properties and characterization of gradient drift diffusion},
+    title = {Dynamical properties and characterization of gradient
+   drift diffusion},
     url = {https://doi.org/10.1214/ECP.v12-1324},
     volume = {12},
     year = {2007}

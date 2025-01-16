@@ -8,7 +8,8 @@ lechiheb.nourdin.ea:18:convergence
 .. code-block:: bibtex
 
    @article{lechiheb.nourdin.ea:18:convergence,
-    author = {Lechiheb, Atef and Nourdin, Ivan and Zheng, Guangqu and Haouala, Ezzedine},
+    author = {Lechiheb, Atef and Nourdin, Ivan and Zheng, Guangqu and
+   Haouala, Ezzedine},
     doi = {10.19195/0208-4147.38.2.2},
     fjournal = {Probability and Mathematical Statistics},
     issn = {0208-4147},
@@ -19,7 +20,9 @@ lechiheb.nourdin.ea:18:convergence
     note = {[On table of contents: Vol. 33 (2013)]},
     number = {2},
     pages = {271--286},
-    title = {Convergence of random oscillatory integrals in the presence of long-range dependence and application to homogenization},
+    title = {Convergence of random oscillatory integrals in the
+   presence of long-range dependence and application to
+   homogenization},
     url = {https://doi.org/10.19195/0208-4147.38.2.2},
     volume = {38},
     year = {2018}

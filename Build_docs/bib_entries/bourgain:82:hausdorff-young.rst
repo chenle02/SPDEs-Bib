@@ -17,7 +17,8 @@ bourgain:82:hausdorff-young
     mrreviewer = {R.\ C.\ James},
     number = {2},
     pages = {255--262},
-    title = {A {H}ausdorff-{Y}oung inequality for {$B$}-convex {B}anach spaces},
+    title = {A {H}ausdorff-{Y}oung inequality for {$B$}-convex {B}anach
+   spaces},
     url = {http://projecteuclid.org/euclid.pjm/1102724774},
     volume = {101},
     year = {1982}

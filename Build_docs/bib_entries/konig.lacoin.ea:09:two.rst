@@ -8,7 +8,8 @@ konig.lacoin.ea:09:two
 .. code-block:: bibtex
 
    @article{konig.lacoin.ea:09:two,
-    author = {K\"onig, Wolfgang and Lacoin, Hubert and M\"orters, Peter and Sidorova, Nadia},
+    author = {K\"onig, Wolfgang and Lacoin, Hubert and M\"orters, Peter
+   and Sidorova, Nadia},
     doi = {10.1214/08-AOP405},
     fjournal = {The Annals of Probability},
     issn = {0091-1798,2168-894X},

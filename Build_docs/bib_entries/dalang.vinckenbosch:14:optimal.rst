@@ -18,7 +18,8 @@ dalang.vinckenbosch:14:optimal
     mrreviewer = {Giorgio Ferrari},
     number = {12},
     pages = {4050--4079},
-    title = {Optimal expulsion and optimal confinement of a {B}rownian particle with a switching cost},
+    title = {Optimal expulsion and optimal confinement of a {B}rownian
+   particle with a switching cost},
     url = {https://doi.org/10.1016/j.spa.2014.07.016},
     volume = {124},
     year = {2014}

@@ -18,7 +18,8 @@ nualart.zakai:90:multiple
     mrreviewer = {A. Badrikian},
     number = {1},
     pages = {131--145},
-    title = {Multiple {W}iener-{I}t\^{o} integrals possessing a continuous extension},
+    title = {Multiple {W}iener-{I}t\^{o} integrals possessing a
+   continuous extension},
     url = {https://doi.org/10.1007/BF01377634},
     volume = {85},
     year = {1990}

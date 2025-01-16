@@ -8,7 +8,8 @@ bass.burdzy.ea:94:intersection
 .. code-block:: bibtex
 
    @article{bass.burdzy.ea:94:intersection,
-    author = {Bass, Richard F. and Burdzy, Krzysztof and Khoshnevisan, Davar},
+    author = {Bass, Richard F. and Burdzy, Krzysztof and Khoshnevisan,
+   Davar},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
     journal = {Ann. Probab.},
@@ -17,7 +18,8 @@ bass.burdzy.ea:94:intersection
     mrreviewer = {Thomas S. Mountford},
     number = {2},
     pages = {566--625},
-    title = {Intersection local time for points of infinite multiplicity},
+    title = {Intersection local time for points of infinite
+   multiplicity},
     url = {http://links.jstor.org/sici?sici=0091-1798(199404)22:2<566:ILTFPO>2.0.CO;2-R&origin=MSN},
     volume = {22},
     year = {1994}

@@ -15,9 +15,11 @@ yokota.yoshino:15:existence
     journal = {Discrete Contin. Dyn. Syst.},
     mrclass = {92C17 (35D30 35M33 35Q92)},
     mrnumber = {3462549},
-    number = {Dynamical systems, differential equations and applications. 10th AIMS Conference. Suppl.},
+    number = {Dynamical systems, differential equations and
+   applications. 10th AIMS Conference. Suppl.},
     pages = {1125--1133},
-    title = {Existence of solutions to chemotaxis dynamics with logistic source},
+    title = {Existence of solutions to chemotaxis dynamics with
+   logistic source},
     url = {https://doi.org/10.3934/proc.2015.1125},
     year = {2015}
    }

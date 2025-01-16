@@ -17,7 +17,8 @@ keller.segel:70:initiation
     mrnumber = {3925816},
     number = {3},
     pages = {399--415},
-    title = {Initiation of slime mold aggregation viewed as an instability},
+    title = {Initiation of slime mold aggregation viewed as an
+   instability},
     url = {https://doi.org/10.1016/0022-5193(70)90092-5},
     volume = {26},
     year = {1970}

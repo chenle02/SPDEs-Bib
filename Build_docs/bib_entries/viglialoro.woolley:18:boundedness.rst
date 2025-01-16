@@ -18,7 +18,8 @@ viglialoro.woolley:18:boundedness
     mrreviewer = {Si Ning Zheng},
     number = {5},
     pages = {1809--1824},
-    title = {Boundedness in a parabolic-elliptic chemotaxis system with nonlinear diffusion and sensitivity and logistic source},
+    title = {Boundedness in a parabolic-elliptic chemotaxis system with
+   nonlinear diffusion and sensitivity and logistic source},
     url = {https://doi.org/10.1002/mma.4707},
     volume = {41},
     year = {2018}

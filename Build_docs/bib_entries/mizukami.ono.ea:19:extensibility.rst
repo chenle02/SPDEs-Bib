@@ -18,7 +18,9 @@ mizukami.ono.ea:19:extensibility
     mrreviewer = {Johannes Lankeit},
     number = {9},
     pages = {5115--5164},
-    title = {Extensibility criterion ruling out gradient blow-up in a quasilinear degenerate chemotaxis system with flux limitation},
+    title = {Extensibility criterion ruling out gradient blow-up in a
+   quasilinear degenerate chemotaxis system with flux
+   limitation},
     url = {https://doi.org/10.1016/j.jde.2019.05.026},
     volume = {267},
     year = {2019}

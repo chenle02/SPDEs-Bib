@@ -17,7 +17,8 @@ balazs.cator.ea:06:cube
     mrnumber = {2268539},
     mrreviewer = {Glauco Valle},
     pages = {no. 42, 1094--1132},
-    title = {Cube root fluctuations for the corner growth model associated to the exclusion process},
+    title = {Cube root fluctuations for the corner growth model
+   associated to the exclusion process},
     url = {https://doi.org/10.1214/EJP.v11-366},
     volume = {11},
     year = {2006}

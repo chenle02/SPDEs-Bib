@@ -17,7 +17,8 @@ dumaz.labbe:24:localization
     mrnumber = {4689370},
     number = {2},
     pages = {345--440},
-    title = {Localization crossover for the continuous {A}nderson {H}amiltonian in 1-d},
+    title = {Localization crossover for the continuous {A}nderson
+   {H}amiltonian in 1-d},
     url = {https://doi.org/10.1007/s00222-023-01225-1},
     volume = {235},
     year = {2024}

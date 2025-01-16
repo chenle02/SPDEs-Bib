@@ -18,7 +18,8 @@ cialenco.xu:15:hypothesis
     mrreviewer = {Le\ Chen},
     number = {3},
     pages = {819--866},
-    title = {Hypothesis testing for stochastic {PDE}s driven by additive noise},
+    title = {Hypothesis testing for stochastic {PDE}s driven by
+   additive noise},
     url = {https://doi.org/10.1016/j.spa.2014.09.022},
     volume = {125},
     year = {2015}

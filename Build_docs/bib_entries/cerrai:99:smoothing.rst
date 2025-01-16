@@ -18,7 +18,8 @@ cerrai:99:smoothing
     mrreviewer = {Jan I. Seidler},
     number = {1},
     pages = {85--114},
-    title = {Smoothing properties of transition semigroups relative to {SDE}s with values in {B}anach spaces},
+    title = {Smoothing properties of transition semigroups relative to
+   {SDE}s with values in {B}anach spaces},
     url = {https://doi.org/10.1007/s004400050203},
     volume = {113},
     year = {1999}

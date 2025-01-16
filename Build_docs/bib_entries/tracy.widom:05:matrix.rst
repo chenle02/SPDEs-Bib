@@ -17,7 +17,8 @@ tracy.widom:05:matrix
     mrreviewer = {Bruce A. Watson},
     number = {6},
     pages = {2197--2207},
-    title = {Matrix kernels for the {G}aussian orthogonal and symplectic ensembles},
+    title = {Matrix kernels for the {G}aussian orthogonal and
+   symplectic ensembles},
     url = {http://aif.cedram.org/item?id=AIF_2005__55_6_2197_0},
     volume = {55},
     year = {2005}

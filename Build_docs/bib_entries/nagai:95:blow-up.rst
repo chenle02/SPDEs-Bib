@@ -17,7 +17,8 @@ nagai:95:blow-up
     mrreviewer = {Yoram Schiffmann},
     number = {2},
     pages = {581--601},
-    title = {Blow-up of radially symmetric solutions to a chemotaxis system},
+    title = {Blow-up of radially symmetric solutions to a chemotaxis
+   system},
     volume = {5},
     year = {1995}
    }

@@ -9,9 +9,11 @@ chen.hu:21:solvability
 
    @article{chen.hu:21:solvability,
     author = {Zhen-Qing Chen and Yaozhong Hu},
-    journal = {To appear in Comm. in Math. Stat., preprint arXiv:2101.05997},
+    journal = {To appear in Comm. in Math. Stat., preprint
+   arXiv:2101.05997},
     month = {January},
-    title = {Solvability of parabolic Anderson equation with fractional Gaussian noise},
+    title = {Solvability of parabolic Anderson equation with fractional
+   Gaussian noise},
     url = {https://www.arxiv.org/abs/2101.05997},
     year = {2021}
    }

@@ -18,7 +18,8 @@ berglund:21:eyring-kramers
     mrreviewer = {Seiichiro Kusuoka},
     number = {4},
     pages = {685--743},
-    title = {An {E}yring-{K}ramers law for slowly oscillating bistable diffusions},
+    title = {An {E}yring-{K}ramers law for slowly oscillating bistable
+   diffusions},
     url = {https://doi.org/10.2140/pmp.2021.2.685},
     volume = {2},
     year = {2021}

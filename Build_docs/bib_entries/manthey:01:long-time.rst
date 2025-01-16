@@ -9,7 +9,8 @@ manthey:01:long-time
 
    @article{manthey:01:long-time,
     author = {Manthey, Ralf},
-    fjournal = {Academy of Sciences of the Czech Republic. Mathematical Institute. Mathematica Bohemica},
+    fjournal = {Academy of Sciences of the Czech Republic. Mathematical
+   Institute. Mathematica Bohemica},
     issn = {0862-7959},
     journal = {Math. Bohem.},
     mrclass = {60H15 (35B40 35R60)},
@@ -17,7 +18,9 @@ manthey:01:long-time
     mrreviewer = {Samy Tindel},
     number = {1},
     pages = {15--39},
-    title = {The long-time behaviour of the solutions to semilinear stochastic partial differential equations on the whole space},
+    title = {The long-time behaviour of the solutions to semilinear
+   stochastic partial differential equations on the whole
+   space},
     volume = {126},
     year = {2001}
    }

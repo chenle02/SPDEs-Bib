@@ -18,7 +18,8 @@ foondun.nane:17:asymptotic
     mrreviewer = {Zhi Wang},
     number = {1-2},
     pages = {493--519},
-    title = {Asymptotic properties of some space-time fractional stochastic equations},
+    title = {Asymptotic properties of some space-time fractional
+   stochastic equations},
     url = {https://doi.org/10.1007/s00209-016-1834-3},
     volume = {287},
     year = {2017}

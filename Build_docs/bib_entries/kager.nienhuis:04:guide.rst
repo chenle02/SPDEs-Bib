@@ -18,7 +18,8 @@ kager.nienhuis:04:guide
     mrreviewer = {Ren\'{e} L. Schilling},
     number = {5-6},
     pages = {1149--1229},
-    title = {A guide to stochastic {L}\"{o}wner evolution and its applications},
+    title = {A guide to stochastic {L}\"{o}wner evolution and its
+   applications},
     url = {https://doi.org/10.1023/B:JOSS.0000028058.87266.be},
     volume = {115},
     year = {2004}

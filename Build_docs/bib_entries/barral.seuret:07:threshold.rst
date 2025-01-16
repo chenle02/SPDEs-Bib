@@ -17,7 +17,8 @@ barral.seuret:07:threshold
     mrreviewer = {Lars\ Olsen},
     number = {2},
     pages = {455--472},
-    title = {Threshold and {H}ausdorff spectrum of discontinuous measures},
+    title = {Threshold and {H}ausdorff spectrum of discontinuous
+   measures},
     url = {http://projecteuclid.org/euclid.rae/1199377483},
     volume = {32},
     year = {2007}

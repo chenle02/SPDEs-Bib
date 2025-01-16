@@ -13,7 +13,8 @@ adams:75:sobolev
     mrnumber = {0450957},
     mrreviewer = {A. Kufner},
     pages = {xviii+268},
-    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers], New York-London},
+    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers],
+   New York-London},
     series = {Pure and Applied Mathematics, Vol. 65},
     title = {Sobolev spaces},
     year = {1975}

@@ -18,7 +18,8 @@ alt:80:biased
     mrreviewer = {M. E. Wise},
     number = {2},
     pages = {147--177},
-    title = {Biased random walk models for chemotaxis and related diffusion approximations},
+    title = {Biased random walk models for chemotaxis and related
+   diffusion approximations},
     url = {https://doi.org/10.1007/BF00275919},
     volume = {9},
     year = {1980}

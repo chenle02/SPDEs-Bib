@@ -10,7 +10,8 @@ foondun.nualart:21:osgood
    @article{foondun.nualart:21:osgood,
     author = {Foondun, Mohammud and Nualart, Eulalia},
     doi = {10.3150/20-BEJ1240},
-    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for
+   Mathematical Statistics and Probability},
     issn = {1350-7265},
     journal = {Bernoulli},
     mrclass = {60H15},
@@ -18,7 +19,8 @@ foondun.nualart:21:osgood
     mrreviewer = {Leila Setayeshgar},
     number = {1},
     pages = {295--311},
-    title = {The {O}sgood condition for stochastic partial differential equations},
+    title = {The {O}sgood condition for stochastic partial differential
+   equations},
     url = {https://doi.org/10.3150/20-BEJ1240},
     volume = {27},
     year = {2021}

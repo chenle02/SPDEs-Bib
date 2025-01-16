@@ -17,7 +17,8 @@ kozlov.maz-ya.ea:97:elliptic
     pages = {x+414},
     publisher = {American Mathematical Society, Providence, RI},
     series = {Mathematical Surveys and Monographs},
-    title = {Elliptic boundary value problems in domains with point singularities},
+    title = {Elliptic boundary value problems in domains with point
+   singularities},
     url = {https://doi.org/10.1090/surv/052},
     volume = {52},
     year = {1997}

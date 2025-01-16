@@ -17,7 +17,8 @@ jetschke:86:on
     mrnumber = {855965},
     mrreviewer = {P. Kotelenez},
     pages = {315--329},
-    title = {On the equivalence of different approaches to stochastic partial differential equations},
+    title = {On the equivalence of different approaches to stochastic
+   partial differential equations},
     url = {https://doi.org/10.1002/mana.19861280127},
     volume = {128},
     year = {1986}

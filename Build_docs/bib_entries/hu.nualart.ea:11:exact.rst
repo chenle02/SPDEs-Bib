@@ -8,7 +8,8 @@ hu.nualart.ea:11:exact
 .. code-block:: bibtex
 
    @article{hu.nualart.ea:11:exact,
-    author = {Hu, Yaozhong and Nualart, David and Xiao, Weilin and Zhang, Weiguo},
+    author = {Hu, Yaozhong and Nualart, David and Xiao, Weilin and
+   Zhang, Weiguo},
     doi = {10.1016/S0252-9602(11)60365-2},
     fjournal = {Acta Mathematica Scientia. Series B. English Edition},
     issn = {0252-9602},
@@ -18,7 +19,8 @@ hu.nualart.ea:11:exact
     mrreviewer = {Nicolas Privault},
     number = {5},
     pages = {1851--1859},
-    title = {Exact maximum likelihood estimator for drift fractional {B}rownian motion at discrete observation},
+    title = {Exact maximum likelihood estimator for drift fractional
+   {B}rownian motion at discrete observation},
     url = {https://doi.org/10.1016/S0252-9602(11)60365-2},
     volume = {31},
     year = {2011}

@@ -16,7 +16,8 @@ kocubeui:75:extensions
     mrnumber = {365218},
     mrreviewer = {E.\ Durszt},
     pages = {41--48},
-    title = {Extensions of symmetric operators and of symmetric binary relations},
+    title = {Extensions of symmetric operators and of symmetric binary
+   relations},
     volume = {17},
     year = {1975}
    }

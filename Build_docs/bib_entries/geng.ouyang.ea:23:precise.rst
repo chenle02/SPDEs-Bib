@@ -17,7 +17,8 @@ geng.ouyang.ea:23:precise
     mrnumber = {4621067},
     number = {3},
     pages = {1341--1367},
-    title = {Precise local estimates for differential equations driven by fractional {B}rownian motion: elliptic case},
+    title = {Precise local estimates for differential equations driven
+   by fractional {B}rownian motion: elliptic case},
     url = {https://doi.org/10.1007/s10959-022-01208-7},
     volume = {36},
     year = {2023}

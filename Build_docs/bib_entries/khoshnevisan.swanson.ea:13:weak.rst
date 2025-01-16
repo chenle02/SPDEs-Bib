@@ -8,10 +8,12 @@ khoshnevisan.swanson.ea:13:weak
 .. code-block:: bibtex
 
    @article{khoshnevisan.swanson.ea:13:weak,
-    author = {Davar Khoshnevisan and Jason Swanson and Yimin Xiao and Liang Zhang},
+    author = {Davar Khoshnevisan and Jason Swanson and Yimin Xiao and
+   Liang Zhang},
     journal = {Preprint arXiv:1309.3613},
     month = {September},
-    title = {Weak existence of a solution to a differential equation driven by a very rough fBm},
+    title = {Weak existence of a solution to a differential equation
+   driven by a very rough fBm},
     url = {http://arXiv.org/abs/1309.3613},
     year = {2013}
    }

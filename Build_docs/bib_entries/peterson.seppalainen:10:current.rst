@@ -18,7 +18,8 @@ peterson.seppalainen:10:current
     mrreviewer = {Marcel Ortgiese},
     number = {6},
     pages = {2258--2294},
-    title = {Current fluctuations of a system of one-dimensional random walks in random environment},
+    title = {Current fluctuations of a system of one-dimensional random
+   walks in random environment},
     url = {https://doi.org/10.1214/10-AOP537},
     volume = {38},
     year = {2010}

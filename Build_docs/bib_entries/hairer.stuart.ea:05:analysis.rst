@@ -17,7 +17,8 @@ hairer.stuart.ea:05:analysis
     mrreviewer = {Krystyna Twardowska},
     number = {4},
     pages = {587--603},
-    title = {Analysis of {SPDE}s arising in path sampling. {I}. {T}he {G}aussian case},
+    title = {Analysis of {SPDE}s arising in path sampling. {I}. {T}he
+   {G}aussian case},
     url = {http://projecteuclid.org/euclid.cms/1144429334},
     volume = {3},
     year = {2005}

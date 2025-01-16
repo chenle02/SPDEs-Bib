@@ -16,7 +16,9 @@ krylov:60:some
     mrnumber = {0118953},
     mrreviewer = {J. Feldman},
     pages = {760--763},
-    title = {Some properties of the distribution corresponding to the equation {$\partial u/\partial t=(-1)^{q+1} \partial ^{2q}u/\partial x^{2q}$}},
+    title = {Some properties of the distribution corresponding to the
+   equation {$\partial u/\partial t=(-1)^{q+1} \partial
+   ^{2q}u/\partial x^{2q}$}},
     volume = {1},
     year = {1960}
    }

@@ -8,7 +8,8 @@ lee.song.ea:23:hitting
 .. code-block:: bibtex
 
    @article{lee.song.ea:23:hitting,
-    author = {Lee, Cheuk Yin and Song, Jian and Xiao, Yimin and Yuan, Wangjun},
+    author = {Lee, Cheuk Yin and Song, Jian and Xiao, Yimin and Yuan,
+   Wangjun},
     doi = {10.1090/tran/8895},
     fjournal = {Transactions of the American Mathematical Society},
     issn = {0002-9947,1088-6850},
@@ -17,7 +18,8 @@ lee.song.ea:23:hitting
     mrnumber = {4586811},
     number = {6},
     pages = {4273--4299},
-    title = {Hitting probabilities of {G}aussian random fields and collision of eigenvalues of random matrices},
+    title = {Hitting probabilities of {G}aussian random fields and
+   collision of eigenvalues of random matrices},
     url = {https://doi.org/10.1090/tran/8895},
     volume = {376},
     year = {2023}

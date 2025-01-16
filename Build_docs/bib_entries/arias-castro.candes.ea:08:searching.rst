@@ -8,7 +8,8 @@ arias-castro.candes.ea:08:searching
 .. code-block:: bibtex
 
    @article{arias-castro.candes.ea:08:searching,
-    author = {Arias-Castro, Ery and Cand\`es, Emmanuel J. and Helgason, Hannes and Zeitouni, Ofer},
+    author = {Arias-Castro, Ery and Cand\`es, Emmanuel J. and Helgason,
+   Hannes and Zeitouni, Ofer},
     doi = {10.1214/07-AOS526},
     fjournal = {The Annals of Statistics},
     issn = {0090-5364,2168-8966},

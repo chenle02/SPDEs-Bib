@@ -18,7 +18,8 @@ iorio:86:on
     mrreviewer = {Bjorn Birnir},
     number = {10},
     pages = {1031--1081},
-    title = {On the {C}auchy problem for the {B}enjamin-{O}no equation},
+    title = {On the {C}auchy problem for the {B}enjamin-{O}no
+   equation},
     url = {https://doi.org/10.1080/03605308608820456},
     volume = {11},
     year = {1986}

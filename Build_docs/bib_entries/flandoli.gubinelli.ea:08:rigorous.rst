@@ -8,7 +8,8 @@ flandoli.gubinelli.ea:08:rigorous
 .. code-block:: bibtex
 
    @article{flandoli.gubinelli.ea:08:rigorous,
-    author = {Flandoli, F. and Gubinelli, M. and Hairer, M. and Romito, M.},
+    author = {Flandoli, F. and Gubinelli, M. and Hairer, M. and Romito,
+   M.},
     doi = {10.1007/s00220-007-0398-9},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},

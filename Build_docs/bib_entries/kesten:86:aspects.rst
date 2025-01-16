@@ -9,7 +9,8 @@ kesten:86:aspects
 
    @incollection{kesten:86:aspects,
     author = {Kesten, Harry},
-    booktitle = {\'{E}cole d'\'{e}t\'{e} de probabilit\'{e}s de {S}aint-{F}lour, {XIV}---1984},
+    booktitle = {\'{E}cole d'\'{e}t\'{e} de probabilit\'{e}s de
+   {S}aint-{F}lour, {XIV}---1984},
     doi = {10.1007/BFb0074919},
     mrclass = {60K35 (82A43)},
     mrnumber = {876084},

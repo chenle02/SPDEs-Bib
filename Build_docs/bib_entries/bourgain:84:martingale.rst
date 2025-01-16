@@ -9,7 +9,8 @@ bourgain:84:martingale
 
    @incollection{bourgain:84:martingale,
     author = {Bourgain, J.},
-    booktitle = {Israel seminar on geometrical aspects of functional analysis (1983/84)},
+    booktitle = {Israel seminar on geometrical aspects of functional
+   analysis (1983/84)},
     mrclass = {60G46 (46B20)},
     mrnumber = {827292},
     mrreviewer = {L.\ Egghe},

@@ -17,7 +17,8 @@ dalang:99:extending
     mrnumber = {1684157},
     mrreviewer = {Marta Sanz Sol'{e}},
     pages = {no. 6, 29},
-    title = {Extending the martingale measure stochastic integral with applications to spatially homogeneous s.p.d.e.'s},
+    title = {Extending the martingale measure stochastic integral with
+   applications to spatially homogeneous s.p.d.e.'s},
     url = {https://doi.org/10.1214/EJP.v4-43},
     volume = {4},
     year = {1999}

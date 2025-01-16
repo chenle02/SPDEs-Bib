@@ -17,7 +17,8 @@ gajewski.zacharias:98:global
     mrnumber = {1654677},
     mrreviewer = {Brian D. Sleeman},
     pages = {77--114},
-    title = {Global behaviour of a reaction-diffusion system modelling chemotaxis},
+    title = {Global behaviour of a reaction-diffusion system modelling
+   chemotaxis},
     url = {https://doi.org/10.1002/mana.19981950106},
     volume = {195},
     year = {1998}

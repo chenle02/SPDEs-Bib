@@ -8,7 +8,8 @@ hu.wang.ea:23:moment
 .. code-block:: bibtex
 
    @article{hu.wang.ea:23:moment,
-    author = {Yaozhong Hu and Xiong Wang and Panqiu Xia and Jiayu Zheng},
+    author = {Yaozhong Hu and Xiong Wang and Panqiu Xia and Jiayu
+   Zheng},
     journal = {Preprint arXiv:2303.12994},
     month = {March},
     title = {Moment asymptotics for super-Brownian motions},

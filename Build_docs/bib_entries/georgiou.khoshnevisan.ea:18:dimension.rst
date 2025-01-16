@@ -8,7 +8,8 @@ georgiou.khoshnevisan.ea:18:dimension
 .. code-block:: bibtex
 
    @article{georgiou.khoshnevisan.ea:18:dimension,
-    author = {Georgiou, Nicos and Khoshnevisan, Davar and Kim, Kunwoo and Ramos, Alex D.},
+    author = {Georgiou, Nicos and Khoshnevisan, Davar and Kim, Kunwoo
+   and Ramos, Alex D.},
     doi = {10.1214/18-EJP201},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},

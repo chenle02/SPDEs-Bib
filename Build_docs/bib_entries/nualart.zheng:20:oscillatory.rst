@@ -17,7 +17,8 @@ nualart.zheng:20:oscillatory
     mrreviewer = {Fangjun Xu},
     number = {3-4},
     pages = {281--300},
-    title = {Oscillatory {B}reuer-{M}ajor theorem with application to the random corrector problem},
+    title = {Oscillatory {B}reuer-{M}ajor theorem with application to
+   the random corrector problem},
     volume = {119},
     year = {2020}
    }

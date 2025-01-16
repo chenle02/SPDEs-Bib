@@ -8,7 +8,9 @@ maunuksela.myllys.ea:97:kinetic
 .. code-block:: bibtex
 
    @article{maunuksela.myllys.ea:97:kinetic,
-    author = {Maunuksela, J. and Myllys, M. and K\"ahk\"onen, O.-P. and Timonen, J. and Provatas, N. and Alava, M. J. and Ala-Nissila, T.},
+    author = {Maunuksela, J. and Myllys, M. and K\"ahk\"onen, O.-P. and
+   Timonen, J. and Provatas, N. and Alava, M. J. and
+   Ala-Nissila, T.},
     doi = {10.1103/PhysRevLett.79.1515},
     issue = {8},
     journal = {Phys. Rev. Lett.},

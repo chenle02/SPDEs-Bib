@@ -16,7 +16,8 @@ krajenbrink.le-doussal:18:simple
     mrnumber = {3832292},
     number = {6},
     pages = {063210, 32},
-    title = {Simple derivation of the {$(-\lambda H)^{5/2}$} tail for the 1{D} {KPZ} equation},
+    title = {Simple derivation of the {$(-\lambda H)^{5/2}$} tail for
+   the 1{D} {KPZ} equation},
     url = {https://doi.org/10.1088/1742-5468/aac90f},
     year = {2018}
    }

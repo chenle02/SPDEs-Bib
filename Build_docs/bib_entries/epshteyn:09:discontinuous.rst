@@ -17,7 +17,8 @@ epshteyn:09:discontinuous
     mrnumber = {2474222},
     number = {1},
     pages = {168--181},
-    title = {Discontinuous {G}alerkin methods for the chemotaxis and haptotaxis models},
+    title = {Discontinuous {G}alerkin methods for the chemotaxis and
+   haptotaxis models},
     url = {https://doi.org/10.1016/j.cam.2008.04.030},
     volume = {224},
     year = {2009}

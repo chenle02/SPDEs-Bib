@@ -10,7 +10,8 @@ wang.winkler.ea:18:global
    @article{wang.winkler.ea:18:global,
     author = {Wang, Yulan and Winkler, Michael and Xiang, Zhaoyin},
     doi = {10.2422/2036-2145.201603\_004},
-    fjournal = {Annali della Scuola Normale Superiore di Pisa. Classe di Scienze. Serie V},
+    fjournal = {Annali della Scuola Normale Superiore di Pisa. Classe di
+   Scienze. Serie V},
     issn = {0391-173X},
     journal = {Ann. Sc. Norm. Super. Pisa Cl. Sci. (5)},
     mrclass = {92C17 (35B65 35Q35)},
@@ -18,7 +19,9 @@ wang.winkler.ea:18:global
     mrreviewer = {Tomasz Cie\'{s}lak},
     number = {2},
     pages = {421--466},
-    title = {Global classical solutions in a two-dimensional chemotaxis-{N}avier-{S}tokes system with subcritical sensitivity},
+    title = {Global classical solutions in a two-dimensional
+   chemotaxis-{N}avier-{S}tokes system with subcritical
+   sensitivity},
     url = {https://doi.org/10.2422/2036-2145.201603_004},
     volume = {18},
     year = {2018}

@@ -17,7 +17,8 @@ da-prato.zabczyk:02:second
     pages = {xvi+379},
     publisher = {Cambridge University Press, Cambridge},
     series = {London Mathematical Society Lecture Note Series},
-    title = {Second order partial differential equations in {H}ilbert spaces},
+    title = {Second order partial differential equations in {H}ilbert
+   spaces},
     url = {https://doi.org/10.1017/CBO9780511543210},
     volume = {293},
     year = {2002}

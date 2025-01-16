@@ -17,7 +17,8 @@ rogers.williams:00:diffusions
     pages = {xiv+480},
     publisher = {Cambridge University Press, Cambridge},
     series = {Cambridge Mathematical Library},
-    title = {Diffusions, {M}arkov processes, and martingales. {V}ol. 2},
+    title = {Diffusions, {M}arkov processes, and martingales. {V}ol.
+   2},
     url = {https://doi.org/10.1017/CBO9781107590120},
     year = {2000}
    }

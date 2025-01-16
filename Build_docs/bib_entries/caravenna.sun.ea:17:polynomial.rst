@@ -8,7 +8,8 @@ caravenna.sun.ea:17:polynomial
 .. code-block:: bibtex
 
    @article{caravenna.sun.ea:17:polynomial,
-    author = {Caravenna, Francesco and Sun, Rongfeng and Zygouras, Nikos},
+    author = {Caravenna, Francesco and Sun, Rongfeng and Zygouras,
+   Nikos},
     doi = {10.4171/JEMS/660},
     fjournal = {Journal of the European Mathematical Society (JEMS)},
     issn = {1435-9855},
@@ -18,7 +19,8 @@ caravenna.sun.ea:17:polynomial
     mrreviewer = {Quentin Berger},
     number = {1},
     pages = {1--65},
-    title = {Polynomial chaos and scaling limits of disordered systems},
+    title = {Polynomial chaos and scaling limits of disordered
+   systems},
     url = {https://doi.org/10.4171/JEMS/660},
     volume = {19},
     year = {2017}

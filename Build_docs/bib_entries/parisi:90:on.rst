@@ -10,7 +10,8 @@ parisi:90:on
    @article{parisi:90:on,
     author = {Parisi, Giorgio},
     doi = {10.1016/0370-2693(90)91722-N},
-    fjournal = {Physics Letters. B. Particle Physics, Nuclear Physics and Cosmology},
+    fjournal = {Physics Letters. B. Particle Physics, Nuclear Physics and
+   Cosmology},
     issn = {0370-2693},
     journal = {Phys. Lett. B},
     mrclass = {81T30 (81T40)},

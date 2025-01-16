@@ -18,7 +18,8 @@ nualart.perez-abreu:14:on
     mrreviewer = {Mireia Besal\'{u}},
     number = {12},
     pages = {4266--4282},
-    title = {On the eigenvalue process of a matrix fractional {B}rownian motion},
+    title = {On the eigenvalue process of a matrix fractional
+   {B}rownian motion},
     url = {https://doi.org/10.1016/j.spa.2014.07.017},
     volume = {124},
     year = {2014}

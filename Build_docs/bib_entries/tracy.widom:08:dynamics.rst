@@ -17,7 +17,8 @@ tracy.widom:08:dynamics
     mrnumber = {2515881},
     number = {48},
     pages = {485204, 6},
-    title = {The dynamics of the one-dimensional delta-function {B}ose gas},
+    title = {The dynamics of the one-dimensional delta-function {B}ose
+   gas},
     url = {https://doi.org/10.1088/1751-8113/41/48/485204},
     volume = {41},
     year = {2008}

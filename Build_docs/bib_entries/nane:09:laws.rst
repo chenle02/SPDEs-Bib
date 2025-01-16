@@ -17,7 +17,8 @@ nane:09:laws
     mrnumber = {2566748},
     number = {16},
     pages = {1744--1751},
-    title = {Laws of the iterated logarithm for a class of iterated processes},
+    title = {Laws of the iterated logarithm for a class of iterated
+   processes},
     url = {https://doi.org/10.1016/j.spl.2009.04.013},
     volume = {79},
     year = {2009}

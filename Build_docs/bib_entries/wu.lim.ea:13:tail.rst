@@ -16,7 +16,8 @@ wu.lim.ea:13:tail
     mrclass = {62M40 (62H11 62H12 62M15 62M30)},
     mrnumber = {3049893},
     pages = {74--91},
-    title = {Tail estimation of the spectral density for a stationary {G}aussian random field},
+    title = {Tail estimation of the spectral density for a stationary
+   {G}aussian random field},
     url = {https://doi.org/10.1016/j.jmva.2012.11.014},
     volume = {116},
     year = {2013}

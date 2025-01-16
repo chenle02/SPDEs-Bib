@@ -10,7 +10,8 @@ liggett.spitzer:81:ergodic
    @article{liggett.spitzer:81:ergodic,
     author = {Liggett, Thomas M. and Spitzer, Frank},
     doi = {10.1007/BF00531427},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60K35 (60J15 82A05)},
@@ -18,7 +19,8 @@ liggett.spitzer:81:ergodic
     mrreviewer = {N.\ U.\ Prabhu},
     number = {4},
     pages = {443--468},
-    title = {Ergodic theorems for coupled random walks and other systems with locally interacting components},
+    title = {Ergodic theorems for coupled random walks and other
+   systems with locally interacting components},
     url = {https://doi.org/10.1007/BF00531427},
     volume = {56},
     year = {1981}

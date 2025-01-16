@@ -18,7 +18,8 @@ wang.mu.ea:14:on
     mrreviewer = {Piotr Biler},
     number = {5},
     pages = {1847--1872},
-    title = {On a quasilinear parabolic-elliptic chemotaxis system with logistic source},
+    title = {On a quasilinear parabolic-elliptic chemotaxis system with
+   logistic source},
     url = {https://doi.org/10.1016/j.jde.2013.12.007},
     volume = {256},
     year = {2014}

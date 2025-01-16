@@ -17,7 +17,8 @@ bertsch.bisegna:97:blow-up
     mrnumber = {1431415},
     number = {1},
     pages = {89--123},
-    title = {Blow-up of solutions of a nonlinear parabolic equation in damage mechanics},
+    title = {Blow-up of solutions of a nonlinear parabolic equation in
+   damage mechanics},
     url = {https://doi.org/10.1017/S0956792500002977},
     volume = {8},
     year = {1997}

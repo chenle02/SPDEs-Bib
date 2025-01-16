@@ -19,7 +19,8 @@ mitrea.mitrea.ea:11:optimal
     note = {Problems in mathematical analysis. No. 51},
     number = {1},
     pages = {24--134},
-    title = {Optimal estimates for the inhomogeneous problem for the bi-{L}aplacian in three-dimensional {L}ipschitz domains},
+    title = {Optimal estimates for the inhomogeneous problem for the
+   bi-{L}aplacian in three-dimensional {L}ipschitz domains},
     url = {https://doi.org/10.1007/s10958-010-0187-4},
     volume = {172},
     year = {2011}

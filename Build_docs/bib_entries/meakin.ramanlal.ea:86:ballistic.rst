@@ -8,7 +8,8 @@ meakin.ramanlal.ea:86:ballistic
 .. code-block:: bibtex
 
    @article{meakin.ramanlal.ea:86:ballistic,
-    author = {Meakin, Paul and Ramanlal, P. and Sander, L. M. and Ball, R. C.},
+    author = {Meakin, Paul and Ramanlal, P. and Sander, L. M. and Ball,
+   R. C.},
     doi = {10.1103/PhysRevA.34.5091},
     issue = {6},
     journal = {Phys. Rev. A},

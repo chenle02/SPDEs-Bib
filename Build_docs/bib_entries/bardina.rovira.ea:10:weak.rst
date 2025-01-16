@@ -16,7 +16,8 @@ bardina.rovira.ea:10:weak
     mrnumber = {2670198},
     mrreviewer = {Fabrice Baudoin},
     pages = {314--329},
-    title = {Weak approximation of fractional {SDE}s: the {D}onsker setting},
+    title = {Weak approximation of fractional {SDE}s: the {D}onsker
+   setting},
     url = {https://doi.org/10.1214/ECP.v15-1561},
     volume = {15},
     year = {2010}

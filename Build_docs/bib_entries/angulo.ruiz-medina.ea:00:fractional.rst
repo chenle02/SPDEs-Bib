@@ -8,7 +8,8 @@ angulo.ruiz-medina.ea:00:fractional
 .. code-block:: bibtex
 
    @article{angulo.ruiz-medina.ea:00:fractional,
-    author = {Angulo, J. M. and Ruiz-Medina, M. D. and Anh, V. V. and Grecksch, W.},
+    author = {Angulo, J. M. and Ruiz-Medina, M. D. and Anh, V. V. and
+   Grecksch, W.},
     doi = {10.1239/aap/1013540349},
     fjournal = {Advances in Applied Probability},
     issn = {0001-8678},

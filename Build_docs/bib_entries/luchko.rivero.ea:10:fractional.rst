@@ -8,9 +8,11 @@ luchko.rivero.ea:10:fractional
 .. code-block:: bibtex
 
    @article{luchko.rivero.ea:10:fractional,
-    author = {Luchko, Yury F. and Rivero, Margarita and Trujillo, Juan J. and Velasco, M. Pilar},
+    author = {Luchko, Yury F. and Rivero, Margarita and Trujillo, Juan
+   J. and Velasco, M. Pilar},
     doi = {10.1016/j.camwa.2009.05.018},
-    fjournal = {Computers \& Mathematics with Applications. An International Journal},
+    fjournal = {Computers \& Mathematics with Applications. An
+   International Journal},
     issn = {0898-1221,1873-7668},
     journal = {Comput. Math. Appl.},
     mrclass = {37N20 (26A33 34A08 45J05 54H20)},

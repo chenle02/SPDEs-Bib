@@ -17,7 +17,8 @@ lacoin:22:universality
     mrnumber = {4386527},
     number = {1},
     pages = {269--293},
-    title = {A universality result for subcritical complex {G}aussian multiplicative chaos},
+    title = {A universality result for subcritical complex {G}aussian
+   multiplicative chaos},
     url = {https://doi.org/10.1214/21-aap1677},
     volume = {32},
     year = {2022}

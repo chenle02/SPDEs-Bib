@@ -18,7 +18,8 @@ madaule.rhodes.ea:16:glassy
     mrreviewer = {Flora\ Koukiou},
     number = {2},
     pages = {643--690},
-    title = {Glassy phase and freezing of log-correlated {G}aussian potentials},
+    title = {Glassy phase and freezing of log-correlated {G}aussian
+   potentials},
     url = {https://doi.org/10.1214/14-AAP1071},
     volume = {26},
     year = {2016}

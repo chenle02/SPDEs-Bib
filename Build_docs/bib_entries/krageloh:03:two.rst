@@ -18,7 +18,9 @@ krageloh:03:two
     mrreviewer = {J. A. van Casteren},
     number = {2},
     pages = {459--467},
-    title = {Two families of functions related to the fractional powers of generators of strongly continuous contraction semigroups},
+    title = {Two families of functions related to the fractional powers
+   of generators of strongly continuous contraction
+   semigroups},
     url = {https://doi.org/10.1016/S0022-247X(03)00269-5},
     volume = {283},
     year = {2003}

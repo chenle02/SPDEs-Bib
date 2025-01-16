@@ -9,21 +9,22 @@ bourgain:93:on*1
 
    @article{bourgain:93:on*1,
     author = {Bourgain, J.},
-    doi = {10.1215/S0012-7094-93-06928-1},
-    fjournal = {Duke Mathematical Journal},
-    issn = {0012-7094,1547-7398},
-    journal = {Duke Math. J.},
-    mrclass = {30D50},
-    mrnumber = {1208816},
-    mrreviewer = {Krzysztof\ Samotij},
-    number = {3},
-    pages = {671--682},
-    title = {On the radial variation of bounded analytic functions on the disc},
-    url = {https://doi.org/10.1215/S0012-7094-93-06928-1},
-    volume = {69},
+    doi = {10.1007/BF02761690},
+    fjournal = {Israel Journal of Mathematics},
+    issn = {0021-2172,1565-8511},
+    journal = {Israel J. Math.},
+    mrclass = {28D05 (42A05)},
+    mrnumber = {1244658},
+    mrreviewer = {Joseph\ Max\ Rosenblatt},
+    number = {1-2},
+    pages = {53--63},
+    title = {On the spectral type of {O}rnstein's class one
+   transformations},
+    url = {https://doi.org/10.1007/BF02761690},
+    volume = {84},
     year = {1993}
    }
-`The URL link to the source <ttps://doi.org/10.1215/S0012-7094-93-06928-1}>`_
+`The URL link to the source <ttps://doi.org/10.1007/BF02761690}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

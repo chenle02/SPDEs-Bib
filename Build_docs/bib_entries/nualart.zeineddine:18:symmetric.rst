@@ -17,7 +17,8 @@ nualart.zeineddine:18:symmetric
     mrreviewer = {Ivan Nourdin},
     number = {1},
     pages = {Art. 4, 37--58},
-    title = {Symmetric weighted odd-power variations of fractional {B}rownian motion and applications},
+    title = {Symmetric weighted odd-power variations of fractional
+   {B}rownian motion and applications},
     url = {https://doi.org/10.31390/cosa.12.1.04},
     volume = {12},
     year = {2018}

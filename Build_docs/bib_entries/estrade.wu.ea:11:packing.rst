@@ -18,7 +18,8 @@ estrade.wu.ea:11:packing
     mrreviewer = {Narn-Rueih\ Shieh},
     number = {1},
     pages = {41--64},
-    title = {Packing dimension results for anisotropic {G}aussian random fields},
+    title = {Packing dimension results for anisotropic {G}aussian
+   random fields},
     url = {https://doi.org/10.31390/cosa.5.1.04},
     volume = {5},
     year = {2011}

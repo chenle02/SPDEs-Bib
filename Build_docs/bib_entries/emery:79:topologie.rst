@@ -9,7 +9,8 @@ emery:79:topologie
 
    @incollection{emery:79:topologie,
     author = {Emery, M.},
-    booktitle = {S\'{e}minaire de {P}robabilit\'{e}s, {XIII} ({U}niv. {S}trasbourg, {S}trasbourg, 1977/78)},
+    booktitle = {S\'{e}minaire de {P}robabilit\'{e}s, {XIII} ({U}niv.
+   {S}trasbourg, {S}trasbourg, 1977/78)},
     mrclass = {60G44 (60H20)},
     mrnumber = {544800},
     mrreviewer = {Philip Protter},

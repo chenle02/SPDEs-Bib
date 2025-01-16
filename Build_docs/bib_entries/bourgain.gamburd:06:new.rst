@@ -10,7 +10,8 @@ bourgain.gamburd:06:new
    @article{bourgain.gamburd:06:new,
     author = {Bourgain, Jean and Gamburd, Alex},
     doi = {10.1016/j.crma.2006.02.032},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {20G40 (11B75)},

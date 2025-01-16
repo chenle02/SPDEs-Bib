@@ -17,7 +17,8 @@ black:17:boundedness
     mrnumber = {3554738},
     number = {1},
     pages = {436--455},
-    title = {Boundedness in a {K}eller-{S}egel system with external signal production},
+    title = {Boundedness in a {K}eller-{S}egel system with external
+   signal production},
     url = {https://doi.org/10.1016/j.jmaa.2016.08.049},
     volume = {446},
     year = {2017}

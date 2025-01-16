@@ -19,7 +19,8 @@ bourgain.kontorovich:14:on
     note = {With an appendix by P\'{e}ter P. Varj\'{u}},
     number = {3},
     pages = {589--650},
-    title = {On the local-global conjecture for integral {A}pollonian gaskets},
+    title = {On the local-global conjecture for integral {A}pollonian
+   gaskets},
     url = {https://doi.org/10.1007/s00222-013-0475-y},
     volume = {196},
     year = {2014}

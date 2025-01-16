@@ -18,7 +18,8 @@ sanz:89:r-variations
     mrreviewer = {Yu. S. Mishura},
     number = {1},
     pages = {69--92},
-    title = {{$r$}-variations for two-parameter continuous martingales and {I}t\^{o}'s formula},
+    title = {{$r$}-variations for two-parameter continuous martingales
+   and {I}t\^{o}'s formula},
     url = {https://doi.org/10.1016/0304-4149(89)90054-9},
     volume = {32},
     year = {1989}

@@ -17,7 +17,8 @@ feng.xiong:02:large
     mrnumber = {1887170},
     mrreviewer = {N. R. Chaganty},
     pages = {13--25},
-    title = {Large deviations and quasi-potential of a {F}leming-{V}iot process},
+    title = {Large deviations and quasi-potential of a {F}leming-{V}iot
+   process},
     url = {https://doi.org/10.1214/ECP.v7-1043},
     volume = {7},
     year = {2002}

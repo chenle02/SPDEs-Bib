@@ -17,7 +17,8 @@ adolfsson:93:lp-integrability
     mrreviewer = {Yehuda Pinchover},
     number = {2},
     pages = {201--225},
-    title = {{$L^p$}-integrability of the second order derivatives of {G}reen potentials in convex domains},
+    title = {{$L^p$}-integrability of the second order derivatives of
+   {G}reen potentials in convex domains},
     url = {http://projecteuclid.org/euclid.pjm/1102634261},
     volume = {159},
     year = {1993}

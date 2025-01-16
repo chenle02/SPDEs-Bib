@@ -15,7 +15,8 @@ levitan.sargsjan:75:introduction
     pages = {xi+525},
     publisher = {American Mathematical Society, Providence, RI},
     series = {Translations of Mathematical Monographs, Vol. 39},
-    title = {Introduction to spectral theory: selfadjoint ordinary differential operators},
+    title = {Introduction to spectral theory: selfadjoint ordinary
+   differential operators},
     year = {1975}
    }
 

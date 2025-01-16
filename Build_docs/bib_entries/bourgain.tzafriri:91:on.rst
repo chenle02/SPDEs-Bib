@@ -10,7 +10,8 @@ bourgain.tzafriri:91:on
    @article{bourgain.tzafriri:91:on,
     author = {Bourgain, J. and Tzafriri, L.},
     doi = {10.1515/crll.1991.420.1},
-    fjournal = {Journal f\"{u}r die Reine und Angewandte Mathematik. [Crelle's Journal]},
+    fjournal = {Journal f\"{u}r die Reine und Angewandte Mathematik.
+   [Crelle's Journal]},
     issn = {0075-4102,1435-5345},
     journal = {J. Reine Angew. Math.},
     mrclass = {46L05 (46L30 47B35 47D25)},

@@ -10,7 +10,8 @@ lebedev:95:behavior
    @article{lebedev:95:behavior,
     author = {Lebedev, V. A.},
     doi = {10.1137/1140074},
-    fjournal = {Rossiu{i}skaya Akademiya Nauk. Teoriya Veroyatnosteu{i} i ee Primeneniya},
+    fjournal = {Rossiu{i}skaya Akademiya Nauk. Teoriya Veroyatnosteu{i} i
+   ee Primeneniya},
     issn = {0040-361X},
     journal = {Teor. Veroyatnost. i Primenen.},
     mrclass = {60G57},

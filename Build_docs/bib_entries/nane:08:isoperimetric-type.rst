@@ -18,7 +18,8 @@ nane:08:isoperimetric-type
     mrreviewer = {Endre Cs\'{a}ki},
     number = {1},
     pages = {90--95},
-    title = {Isoperimetric-type inequalities for iterated {B}rownian motion in {$\mathbb{R}^n$}},
+    title = {Isoperimetric-type inequalities for iterated {B}rownian
+   motion in {$\mathbb{R}^n$}},
     url = {https://doi.org/10.1016/j.spl.2007.05.007},
     volume = {78},
     year = {2008}

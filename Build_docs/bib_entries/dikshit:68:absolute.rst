@@ -16,7 +16,8 @@ dikshit:68:absolute
     mrnumber = {241892},
     mrreviewer = {S. M. Mazhar},
     pages = {319--330},
-    title = {Absolute {$(N,\,p_{n})$} summability of a {F}ourier series},
+    title = {Absolute {$(N,\,p_{n})$} summability of a {F}ourier
+   series},
     volume = {1},
     year = {1968}
    }

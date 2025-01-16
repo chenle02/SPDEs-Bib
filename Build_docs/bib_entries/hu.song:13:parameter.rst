@@ -17,7 +17,8 @@ hu.song:13:parameter
     pages = {427--442},
     publisher = {Springer, New York},
     series = {Springer Proc. Math. Stat.},
-    title = {Parameter estimation for fractional {O}rnstein-{U}hlenbeck processes with discrete observations},
+    title = {Parameter estimation for fractional {O}rnstein-{U}hlenbeck
+   processes with discrete observations},
     url = {https://doi.org/10.1007/978-1-4614-5906-4_19},
     volume = {34},
     year = {2013}

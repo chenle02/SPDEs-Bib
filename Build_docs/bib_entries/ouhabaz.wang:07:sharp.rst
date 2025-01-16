@@ -18,7 +18,8 @@ ouhabaz.wang:07:sharp
     mrreviewer = {Zhen-Qing Chen},
     number = {2},
     pages = {229--244},
-    title = {Sharp estimates for intrinsic ultracontractivity on {$C^{1,\alpha}$}-domains},
+    title = {Sharp estimates for intrinsic ultracontractivity on
+   {$C^{1,\alpha}$}-domains},
     url = {https://doi.org/10.1007/s00229-006-0065-z},
     volume = {122},
     year = {2007}

@@ -9,7 +9,8 @@ nualart-i-rodon:03:brownian
 
    @article{nualart-i-rodon:03:brownian,
     author = {Nualart I Rod\'{o}n, David},
-    fjournal = {Memorias de la Real Academia de Ciencias y Artes de Barcelona},
+    fjournal = {Memorias de la Real Academia de Ciencias y Artes de
+   Barcelona},
     issn = {0368-8283},
     journal = {Mem. Real Acad. Cienc. Artes Barcelona},
     mrclass = {60J65 (91B28)},

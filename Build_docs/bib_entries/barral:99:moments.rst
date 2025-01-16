@@ -17,7 +17,8 @@ barral:99:moments
     mrnumber = {1717530},
     number = {4},
     pages = {535--569},
-    title = {Moments, continuit\'{e}, et analyse multifractale des martingales de {M}andelbrot},
+    title = {Moments, continuit\'{e}, et analyse multifractale des
+   martingales de {M}andelbrot},
     url = {https://doi.org/10.1007/s004400050217},
     volume = {113},
     year = {1999}

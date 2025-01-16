@@ -18,7 +18,8 @@ mohammed.zhang:07:substitution
     mrreviewer = {Stefano Bonaccorsi},
     number = {1},
     pages = {122--157},
-    title = {The substitution theorem for semilinear stochastic partial differential equations},
+    title = {The substitution theorem for semilinear stochastic partial
+   differential equations},
     url = {https://doi.org/10.1016/j.jfa.2007.03.033},
     volume = {253},
     year = {2007}

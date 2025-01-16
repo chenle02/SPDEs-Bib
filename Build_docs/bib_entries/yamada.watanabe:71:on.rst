@@ -17,7 +17,8 @@ yamada.watanabe:71:on
     mrnumber = {278420},
     mrreviewer = {C. P. Tsokos},
     pages = {155--167},
-    title = {On the uniqueness of solutions of stochastic differential equations},
+    title = {On the uniqueness of solutions of stochastic differential
+   equations},
     url = {https://doi.org/10.1215/kjm/1250523691},
     volume = {11},
     year = {1971}

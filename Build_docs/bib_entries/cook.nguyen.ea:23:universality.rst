@@ -8,7 +8,8 @@ cook.nguyen.ea:23:universality
 .. code-block:: bibtex
 
    @article{cook.nguyen.ea:23:universality,
-    author = {Cook, Nicholas A. and Nguyen, Hoi H. and Yakir, Oren and Zeitouni, Ofer},
+    author = {Cook, Nicholas A. and Nguyen, Hoi H. and Yakir, Oren and
+   Zeitouni, Ofer},
     doi = {10.1093/imrn/rnac021},
     fjournal = {International Mathematics Research Notices. IMRN},
     issn = {1073-7928,1687-0247},
@@ -17,7 +18,8 @@ cook.nguyen.ea:23:universality
     mrnumber = {4574383},
     number = {8},
     pages = {6648--6683},
-    title = {Universality of {P}oisson limits for moduli of roots of {K}ac polynomials},
+    title = {Universality of {P}oisson limits for moduli of roots of
+   {K}ac polynomials},
     url = {https://doi.org/10.1093/imrn/rnac021},
     year = {2023}
    }

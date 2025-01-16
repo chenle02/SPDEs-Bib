@@ -10,7 +10,8 @@ tracy.widom:11:painleve
    @article{tracy.widom:11:painleve,
     author = {Tracy, Craig A. and Widom, Harold},
     doi = {10.2977/PRIMS/38},
-    fjournal = {Publications of the Research Institute for Mathematical Sciences},
+    fjournal = {Publications of the Research Institute for Mathematical
+   Sciences},
     issn = {0034-5318},
     journal = {Publ. Res. Inst. Math. Sci.},
     mrclass = {60K35 (34M55 82B23)},

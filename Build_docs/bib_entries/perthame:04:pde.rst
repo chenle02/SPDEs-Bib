@@ -18,7 +18,8 @@ perthame:04:pde
     mrreviewer = {Dirk Horstmann},
     number = {6},
     pages = {539--564},
-    title = {P{DE} models for chemotactic movements: parabolic, hyperbolic and kinetic},
+    title = {P{DE} models for chemotactic movements: parabolic,
+   hyperbolic and kinetic},
     url = {https://doi.org/10.1007/s10492-004-6431-9},
     volume = {49},
     year = {2004}

@@ -17,7 +17,8 @@ balan.zamfirescu:06:strong
     mrnumber = {2199052},
     mrreviewer = {R. A. Maller},
     pages = {11--23},
-    title = {Strong approximation for mixing sequences with infinite variance},
+    title = {Strong approximation for mixing sequences with infinite
+   variance},
     url = {https://doi.org/10.1214/ECP.v11-1175},
     volume = {11},
     year = {2006}

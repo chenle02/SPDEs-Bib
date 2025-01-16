@@ -17,7 +17,8 @@ goldys.le.ea:16:finite
     mrnumber = {3419717},
     number = {2},
     pages = {937--970},
-    title = {A finite element approximation for the stochastic {L}andau-{L}ifshitz-{G}ilbert equation},
+    title = {A finite element approximation for the stochastic
+   {L}andau-{L}ifshitz-{G}ilbert equation},
     url = {https://doi.org/10.1016/j.jde.2015.09.012},
     volume = {260},
     year = {2016}

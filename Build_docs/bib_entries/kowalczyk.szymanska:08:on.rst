@@ -17,7 +17,8 @@ kowalczyk.szymanska:08:on
     mrnumber = {2412135},
     number = {1},
     pages = {379--398},
-    title = {On the global existence of solutions to an aggregation model},
+    title = {On the global existence of solutions to an aggregation
+   model},
     url = {https://doi.org/10.1016/j.jmaa.2008.01.005},
     volume = {343},
     year = {2008}

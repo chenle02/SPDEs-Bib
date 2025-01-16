@@ -18,7 +18,8 @@ gravner.tracy.ea:02:fluctuations
     mrreviewer = {Timo Sepp\"{a}l\"{a}inen},
     number = {3},
     pages = {433--458},
-    title = {Fluctuations in the composite regime of a disordered growth model},
+    title = {Fluctuations in the composite regime of a disordered
+   growth model},
     url = {https://doi.org/10.1007/s00220-002-0682-7},
     volume = {229},
     year = {2002}

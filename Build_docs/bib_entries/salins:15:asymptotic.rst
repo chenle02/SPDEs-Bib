@@ -15,7 +15,8 @@ salins:15:asymptotic
     note = {Thesis (Ph.D.)--University of Maryland, College Park},
     pages = {141},
     publisher = {ProQuest LLC, Ann Arbor, MI},
-    title = {Asymptotic problems for stochastic partial differential equations},
+    title = {Asymptotic problems for stochastic partial differential
+   equations},
     url = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:3711843},
     year = {2015}
    }

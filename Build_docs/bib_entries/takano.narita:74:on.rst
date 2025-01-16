@@ -16,7 +16,8 @@ takano.narita:74:on
     mrnumber = {362518},
     mrreviewer = {H. P. McKean, Jr.},
     pages = {174--177},
-    title = {On the solutions of stochastic differential equations with jumps from the boundary},
+    title = {On the solutions of stochastic differential equations with
+   jumps from the boundary},
     volume = {12},
     year = {1974}
    }

@@ -18,7 +18,8 @@ bardina.rovira.ea:03:onsager
     mrreviewer = {Mikhail V. Tretyakov},
     number = {6},
     pages = {1231--1253},
-    title = {Onsager {M}achlup functional for stochastic evolution equations in a class of norms},
+    title = {Onsager {M}achlup functional for stochastic evolution
+   equations in a class of norms},
     url = {https://doi.org/10.1081/SAP-120026105},
     volume = {21},
     year = {2003}

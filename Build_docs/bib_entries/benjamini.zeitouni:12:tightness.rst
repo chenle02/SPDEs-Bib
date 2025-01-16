@@ -18,7 +18,8 @@ benjamini.zeitouni:12:tightness
     pages = {127--132},
     publisher = {Springer, Heidelberg},
     series = {Lecture Notes in Math.},
-    title = {Tightness of fluctuations of first passage percolation on some large graphs},
+    title = {Tightness of fluctuations of first passage percolation on
+   some large graphs},
     url = {https://doi.org/10.1007/978-3-642-29849-3_6},
     volume = {2050},
     year = {2012}

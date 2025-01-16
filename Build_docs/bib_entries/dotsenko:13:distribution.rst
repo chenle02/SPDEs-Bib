@@ -16,7 +16,8 @@ dotsenko:13:distribution
     mrnumber = {3041935},
     number = {2},
     pages = {P02012, 20},
-    title = {Distribution function of the endpoint fluctuations of one-dimensional directed polymers in a random potential},
+    title = {Distribution function of the endpoint fluctuations of
+   one-dimensional directed polymers in a random potential},
     url = {https://doi.org/10.1088/1742-5468/2013/02/p02012},
     year = {2013}
    }

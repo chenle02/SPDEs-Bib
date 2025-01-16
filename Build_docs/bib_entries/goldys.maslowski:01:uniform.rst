@@ -17,7 +17,8 @@ goldys.maslowski:01:uniform
     mrnumber = {1864040},
     number = {4},
     pages = {745--762},
-    title = {Uniform exponential ergodicity of stochastic dissipative systems},
+    title = {Uniform exponential ergodicity of stochastic dissipative
+   systems},
     url = {https://doi.org/10.1023/A:1013712812513},
     volume = {51(126)},
     year = {2001}

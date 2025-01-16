@@ -17,7 +17,8 @@ shamis.zeitouni:18:curie-weiss
     mrnumber = {3824953},
     number = {2},
     pages = {569--591},
-    title = {The {C}urie-{W}eiss model with complex temperature: phase transitions},
+    title = {The {C}urie-{W}eiss model with complex temperature: phase
+   transitions},
     url = {https://doi.org/10.1007/s10955-017-1812-0},
     volume = {172},
     year = {2018}

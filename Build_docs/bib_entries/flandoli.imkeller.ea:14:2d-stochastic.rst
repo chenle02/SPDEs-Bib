@@ -8,7 +8,8 @@ flandoli.imkeller.ea:14:2d-stochastic
 .. code-block:: bibtex
 
    @article{flandoli.imkeller.ea:14:2d-stochastic,
-    author = {Flandoli, Franco and Imkeller, Peter and Tudor, Ciprian A.},
+    author = {Flandoli, Franco and Imkeller, Peter and Tudor, Ciprian
+   A.},
     doi = {10.1007/s10959-012-0453-0},
     fjournal = {Journal of Theoretical Probability},
     issn = {0894-9840,1572-9230},

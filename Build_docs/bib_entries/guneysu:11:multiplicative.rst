@@ -18,7 +18,10 @@ guneysu:11:multiplicative
     mrreviewer = {Pedro Mar\'{i}n Rubio},
     number = {2},
     pages = {709--725},
-    title = {Multiplicative matrix-valued functionals and the continuity properties of semigroups corresponding to partial differential operators with matrix-valued coefficients},
+    title = {Multiplicative matrix-valued functionals and the
+   continuity properties of semigroups corresponding to
+   partial differential operators with matrix-valued
+   coefficients},
     url = {https://doi.org/10.1016/j.jmaa.2011.02.038},
     volume = {380},
     year = {2011}

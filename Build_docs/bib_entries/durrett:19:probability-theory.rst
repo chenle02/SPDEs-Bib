@@ -16,7 +16,8 @@ durrett:19:probability-theory
     note = {Fifth edition of [ MR1068527]},
     pages = {xii+419},
     publisher = {Cambridge University Press, Cambridge},
-    series = {Cambridge Series in Statistical and Probabilistic Mathematics},
+    series = {Cambridge Series in Statistical and Probabilistic
+   Mathematics},
     title = {Probability---theory and examples},
     url = {https://doi.org/10.1017/9781108591034},
     volume = {49},

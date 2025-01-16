@@ -16,7 +16,8 @@ eckmann.wayne:98:non-linear
     mrnumber = {1632397},
     mrreviewer = {Arnaldo do Nascimento},
     pages = {Paper 3, 20 pp.\},
-    title = {Non-linear stability analysis of higher-order dissipative partial differential equations},
+    title = {Non-linear stability analysis of higher-order dissipative
+   partial differential equations},
     volume = {4},
     year = {1998}
    }

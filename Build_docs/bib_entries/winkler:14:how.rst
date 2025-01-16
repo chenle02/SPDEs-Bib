@@ -18,7 +18,8 @@ winkler:14:how
     mrreviewer = {Christopher P. Grant},
     number = {5},
     pages = {809--855},
-    title = {How far can chemotactic cross-diffusion enforce exceeding carrying capacities?},
+    title = {How far can chemotactic cross-diffusion enforce exceeding
+   carrying capacities?},
     url = {https://doi.org/10.1007/s00332-014-9205-x},
     volume = {24},
     year = {2014}

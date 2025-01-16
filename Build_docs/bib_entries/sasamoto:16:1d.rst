@@ -16,7 +16,8 @@ sasamoto:16:1d
     mrnumber = {3471265},
     number = {2},
     pages = {022A01, 15},
-    title = {The 1{D} {K}ardar-{P}arisi-{Z}hang equation: height distribution and universality},
+    title = {The 1{D} {K}ardar-{P}arisi-{Z}hang equation: height
+   distribution and universality},
     url = {https://doi.org/10.1093/ptep/ptw002},
     year = {2016}
    }

@@ -17,7 +17,8 @@ corwin:12:kardar-parisi-zhang
     mrnumber = {2930377},
     number = {1},
     pages = {1130001, 76},
-    title = {The {K}ardar-{P}arisi-{Z}hang equation and universality class},
+    title = {The {K}ardar-{P}arisi-{Z}hang equation and universality
+   class},
     url = {https://doi.org/10.1142/S2010326311300014},
     volume = {1},
     year = {2012}

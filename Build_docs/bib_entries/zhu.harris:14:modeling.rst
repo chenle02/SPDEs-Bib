@@ -15,7 +15,8 @@ zhu.harris:14:modeling
     journal = {GEOPHYSICS},
     number = {3},
     pages = {T105--T116},
-    title = {Modeling acoustic wave propagation in heterogeneous attenuating media using decoupled fractional {L}aplacians},
+    title = {Modeling acoustic wave propagation in heterogeneous
+   attenuating media using decoupled fractional {L}aplacians},
     url = {https://doi.org/10.1190/geo2013-0245.1},
     volume = {79},
     year = {2014}

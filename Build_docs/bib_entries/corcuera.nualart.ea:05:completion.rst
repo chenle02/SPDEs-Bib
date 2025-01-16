@@ -8,7 +8,8 @@ corcuera.nualart.ea:05:completion
 .. code-block:: bibtex
 
    @article{corcuera.nualart.ea:05:completion,
-    author = {Corcuera, Jos\'{e} Manuel and Nualart, David and Schoutens, Wim},
+    author = {Corcuera, Jos\'{e} Manuel and Nualart, David and
+   Schoutens, Wim},
     doi = {10.1007/s00780-004-0139-2},
     fjournal = {Finance and Stochastics},
     issn = {0949-2984},

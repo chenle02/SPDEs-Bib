@@ -18,7 +18,8 @@ levanony.schwartz.ea:93:uniform
     mrreviewer = {Vivek\ S.\ Borkar},
     number = {1-2},
     pages = {9--28},
-    title = {Uniform decay and equicontinuity for normalized, parameter dependent, {I}t\^{o} integrals},
+    title = {Uniform decay and equicontinuity for normalized, parameter
+   dependent, {I}t\^{o} integrals},
     url = {https://doi.org/10.1080/17442509308833825},
     volume = {43},
     year = {1993}

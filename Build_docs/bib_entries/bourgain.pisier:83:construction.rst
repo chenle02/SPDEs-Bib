@@ -18,7 +18,8 @@ bourgain.pisier:83:construction
     mrreviewer = {S.\ V.\ Kislyakov},
     number = {2},
     pages = {109--123},
-    title = {A construction of {$\mathscr{L}_{infty}$}-spaces and related {B}anach spaces},
+    title = {A construction of {$\mathscr{L}_{infty}$}-spaces and
+   related {B}anach spaces},
     url = {https://doi.org/10.1007/BF02584862},
     volume = {14},
     year = {1983}

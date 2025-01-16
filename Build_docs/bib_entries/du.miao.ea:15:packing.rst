@@ -8,7 +8,8 @@ du.miao.ea:15:packing
 .. code-block:: bibtex
 
    @article{du.miao.ea:15:packing,
-    author = {Du, Yali and Miao, Junjie and Wu, Dongsheng and Xiao, Yimin},
+    author = {Du, Yali and Miao, Junjie and Wu, Dongsheng and Xiao,
+   Yimin},
     doi = {10.1016/j.spl.2015.07.020},
     fjournal = {Statistics \& Probability Letters},
     issn = {0167-7152,1879-2103},
@@ -17,7 +18,8 @@ du.miao.ea:15:packing
     mrnumber = {3389994},
     mrreviewer = {Ren\'{e}\ L.\ Schilling},
     pages = {209--217},
-    title = {Packing dimensions of the images of {G}aussian random fields},
+    title = {Packing dimensions of the images of {G}aussian random
+   fields},
     url = {https://doi.org/10.1016/j.spl.2015.07.020},
     volume = {106},
     year = {2015}

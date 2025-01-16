@@ -8,7 +8,8 @@ khoshnevisan.shieh.ea:08:hausdorff
 .. code-block:: bibtex
 
    @article{khoshnevisan.shieh.ea:08:hausdorff,
-    author = {Khoshnevisan, Davar and Shieh, Narn-Rueih and Xiao, Yimin},
+    author = {Khoshnevisan, Davar and Shieh, Narn-Rueih and Xiao,
+   Yimin},
     doi = {10.1007/s00440-007-0060-7},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},
@@ -18,7 +19,8 @@ khoshnevisan.shieh.ea:08:hausdorff
     mrreviewer = {Ren\'{e} L. Schilling},
     number = {1-2},
     pages = {129--167},
-    title = {Hausdorff dimension of the contours of symmetric additive {L}\'{e}vy processes},
+    title = {Hausdorff dimension of the contours of symmetric additive
+   {L}\'{e}vy processes},
     url = {https://doi.org/10.1007/s00440-007-0060-7},
     volume = {140},
     year = {2008}

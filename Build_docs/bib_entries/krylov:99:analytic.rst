@@ -9,7 +9,8 @@ krylov:99:analytic
 
    @incollection{krylov:99:analytic,
     author = {Krylov, N. V.},
-    booktitle = {Stochastic partial differential equations: six perspectives},
+    booktitle = {Stochastic partial differential equations: six
+   perspectives},
     doi = {10.1090/surv/064/05},
     mrclass = {60H15 (35R60)},
     mrnumber = {1661766},

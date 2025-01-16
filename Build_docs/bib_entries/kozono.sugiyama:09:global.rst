@@ -18,7 +18,9 @@ kozono.sugiyama:09:global
     mrreviewer = {Verena B\"{o}gelein},
     number = {1},
     pages = {1--32},
-    title = {Global strong solution to the semi-linear {K}eller-{S}egel system of parabolic-parabolic type with small data in scale invariant spaces},
+    title = {Global strong solution to the semi-linear {K}eller-{S}egel
+   system of parabolic-parabolic type with small data in scale
+   invariant spaces},
     url = {https://doi.org/10.1016/j.jde.2009.03.027},
     volume = {247},
     year = {2009}

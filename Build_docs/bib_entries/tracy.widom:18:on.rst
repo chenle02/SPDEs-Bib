@@ -16,7 +16,8 @@ tracy.widom:18:on
     pages = {201--212},
     publisher = {Birkh\"{a}user/Springer, Cham},
     series = {Trends Math.},
-    title = {On the ground state energy of the delta-function {F}ermi gas {II}: further asymptotics},
+    title = {On the ground state energy of the delta-function {F}ermi
+   gas {II}: further asymptotics},
     year = {2018}
    }
 

@@ -17,7 +17,9 @@ ghirlanda.guerra:98:general
     mrnumber = {1662161},
     number = {46},
     pages = {9149--9155},
-    title = {General properties of overlap probability distributions in disordered spin systems. {T}owards {P}arisi ultrametricity},
+    title = {General properties of overlap probability distributions in
+   disordered spin systems. {T}owards {P}arisi
+   ultrametricity},
     url = {https://doi.org/10.1088/0305-4470/31/46/006},
     volume = {31},
     year = {1998}

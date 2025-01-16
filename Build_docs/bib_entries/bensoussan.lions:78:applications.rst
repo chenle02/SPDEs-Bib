@@ -15,8 +15,10 @@ bensoussan.lions:78:applications
     mrreviewer = {Piotr Staniewski},
     pages = {viii+545},
     publisher = {Dunod, Paris},
-    series = {M\'{e}thodes Math\'{e}matiques de l'Informatique [Mathematical Methods of Information Science], No. 6},
-    title = {Applications des in\'{e}quations variationnelles en contr\^{o}le stochastique},
+    series = {M\'{e}thodes Math\'{e}matiques de l'Informatique
+   [Mathematical Methods of Information Science], No. 6},
+    title = {Applications des in\'{e}quations variationnelles en
+   contr\^{o}le stochastique},
     year = {1978}
    }
 

@@ -8,7 +8,8 @@ dalmao.nourdin.ea:19:phase
 .. code-block:: bibtex
 
    @article{dalmao.nourdin.ea:19:phase,
-    author = {Dalmao, Federico and Nourdin, Ivan and Peccati, Giovanni and Rossi, Maurizia},
+    author = {Dalmao, Federico and Nourdin, Ivan and Peccati, Giovanni
+   and Rossi, Maurizia},
     doi = {10.1214/19-EJP321},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},

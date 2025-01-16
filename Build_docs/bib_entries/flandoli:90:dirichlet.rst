@@ -18,7 +18,9 @@ flandoli:90:dirichlet
     mrreviewer = {Daniel\ Ocone},
     number = {3},
     pages = {331--357},
-    title = {Dirichlet boundary value problem for stochastic parabolic equations: compatibility relations and regularity of solutions},
+    title = {Dirichlet boundary value problem for stochastic parabolic
+   equations: compatibility relations and regularity of
+   solutions},
     url = {https://doi.org/10.1080/17442509008833620},
     volume = {29},
     year = {1990}

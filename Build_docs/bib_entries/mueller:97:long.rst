@@ -18,7 +18,8 @@ mueller:97:long
     mrreviewer = {Fred Espen Benth},
     number = {1},
     pages = {133--151},
-    title = {Long time existence for the wave equation with a noise term},
+    title = {Long time existence for the wave equation with a noise
+   term},
     url = {https://doi.org/10.1214/aop/1024404282},
     volume = {25},
     year = {1997}

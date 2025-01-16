@@ -17,7 +17,9 @@ bellomo.flandoli:89:stochastic
     mrnumber = {983314},
     number = {1-2},
     pages = {3--17},
-    title = {Stochastic partial differential equations in continuum physics---on the foundations of the stochastic interpolation method for {I}to's type equations},
+    title = {Stochastic partial differential equations in continuum
+   physics---on the foundations of the stochastic
+   interpolation method for {I}to's type equations},
     url = {https://doi.org/10.1016/0378-4754(89)90049-9},
     volume = {31},
     year = {1989}

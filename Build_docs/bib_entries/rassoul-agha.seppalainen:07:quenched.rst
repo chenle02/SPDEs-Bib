@@ -18,7 +18,9 @@ rassoul-agha.seppalainen:07:quenched
     mrreviewer = {Jean B\'{e}rard},
     number = {1},
     pages = {1--31},
-    title = {Quenched invariance principle for multidimensional ballistic random walk in a random environment with a forbidden direction},
+    title = {Quenched invariance principle for multidimensional
+   ballistic random walk in a random environment with a
+   forbidden direction},
     url = {https://doi.org/10.1214/009117906000000610},
     volume = {35},
     year = {2007}

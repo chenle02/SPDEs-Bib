@@ -18,7 +18,8 @@ conlon.olsen:96:brownian
     mrreviewer = {Wei-Shih Yang},
     number = {3-4},
     pages = {415--454},
-    title = {A {B}rownian motion version of the directed polymer problem},
+    title = {A {B}rownian motion version of the directed polymer
+   problem},
     url = {https://doi.org/10.1007/BF02179650},
     volume = {84},
     year = {1996}

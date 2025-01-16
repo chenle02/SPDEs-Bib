@@ -17,7 +17,8 @@ labbe.lacoin:20:mixing
     mrnumber = {4132639},
     number = {4},
     pages = {1847--1883},
-    title = {Mixing time and cutoff for the weakly asymmetric simple exclusion process},
+    title = {Mixing time and cutoff for the weakly asymmetric simple
+   exclusion process},
     url = {https://doi.org/10.1214/19-AAP1545},
     volume = {30},
     year = {2020}

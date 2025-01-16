@@ -17,7 +17,8 @@ budhiraja.dupuis:00:variational
     mrreviewer = {Richard B. Sowers},
     number = {1, Acta Univ. Wratislav. No. 2246},
     pages = {39--61},
-    title = {A variational representation for positive functionals of infinite dimensional {B}rownian motion},
+    title = {A variational representation for positive functionals of
+   infinite dimensional {B}rownian motion},
     volume = {20},
     year = {2000}
    }

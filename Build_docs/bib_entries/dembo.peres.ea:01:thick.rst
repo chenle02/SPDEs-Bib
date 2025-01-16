@@ -8,7 +8,8 @@ dembo.peres.ea:01:thick
 .. code-block:: bibtex
 
    @article{dembo.peres.ea:01:thick,
-    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni, Ofer},
+    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni,
+   Ofer},
     doi = {10.1007/BF02401841},
     fjournal = {Acta Mathematica},
     issn = {0001-5962,1871-2509},
@@ -18,7 +19,8 @@ dembo.peres.ea:01:thick
     mrreviewer = {I.\ Cuculescu},
     number = {2},
     pages = {239--270},
-    title = {Thick points for planar {B}rownian motion and the {E}rd\H{o}s-{T}aylor conjecture on random walk},
+    title = {Thick points for planar {B}rownian motion and the
+   {E}rd\H{o}s-{T}aylor conjecture on random walk},
     url = {https://doi.org/10.1007/BF02401841},
     volume = {186},
     year = {2001}

@@ -18,7 +18,8 @@ orsingher.beghin:09:fractional
     mrreviewer = {Stefan Sperlich},
     number = {1},
     pages = {206--249},
-    title = {Fractional diffusion equations and processes with randomly varying time},
+    title = {Fractional diffusion equations and processes with randomly
+   varying time},
     url = {https://doi.org/10.1214/08-AOP401},
     volume = {37},
     year = {2009}

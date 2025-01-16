@@ -17,7 +17,8 @@ balan:11:lp-theory
     mrnumber = {2870508},
     mrreviewer = {Meng Xu},
     pages = {110--138},
-    title = {{$L_p$}-theory for the stochastic heat equation with infinite-dimensional fractional noise},
+    title = {{$L_p$}-theory for the stochastic heat equation with
+   infinite-dimensional fractional noise},
     url = {https://doi.org/10.1051/ps/2009006},
     volume = {15},
     year = {2011}

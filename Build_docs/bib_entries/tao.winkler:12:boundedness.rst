@@ -17,7 +17,8 @@ tao.winkler:12:boundedness
     mrnumber = {2852223},
     number = {1},
     pages = {692--715},
-    title = {Boundedness in a quasilinear parabolic-parabolic {K}eller-{S}egel system with subcritical sensitivity},
+    title = {Boundedness in a quasilinear parabolic-parabolic
+   {K}eller-{S}egel system with subcritical sensitivity},
     url = {https://doi.org/10.1016/j.jde.2011.08.019},
     volume = {252},
     year = {2012}

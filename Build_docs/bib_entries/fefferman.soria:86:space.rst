@@ -10,7 +10,8 @@ fefferman.soria:86:space
    @article{fefferman.soria:86:space,
     author = {Fefferman, Robert and Soria, Fernando},
     doi = {10.4064/sm-85-1-1-16},
-    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia Mathematica},
+    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia
+   Mathematica},
     issn = {0039-3223},
     journal = {Studia Math.},
     mrclass = {42B30 (46E10)},

@@ -18,7 +18,9 @@ cerrai.da-prato:12:schauder
     mrreviewer = {Mamadou Sango},
     number = {1},
     pages = {83--98},
-    title = {Schauder estimates for elliptic equations in {B}anach spaces associated with stochastic reaction-diffusion equations},
+    title = {Schauder estimates for elliptic equations in {B}anach
+   spaces associated with stochastic reaction-diffusion
+   equations},
     url = {https://doi.org/10.1007/s00028-011-0124-0},
     volume = {12},
     year = {2012}

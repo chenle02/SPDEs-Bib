@@ -17,7 +17,8 @@ spitzer:58:some
     mrnumber = {104296},
     mrreviewer = {S.\ K.\ Zaremba},
     pages = {187--197},
-    title = {Some theorems concerning {$2$}-dimensional {B}rownian motion},
+    title = {Some theorems concerning {$2$}-dimensional {B}rownian
+   motion},
     url = {https://doi.org/10.2307/1993096},
     volume = {87},
     year = {1958}

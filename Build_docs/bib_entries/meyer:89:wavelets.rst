@@ -9,7 +9,8 @@ meyer:89:wavelets
 
    @incollection{meyer:89:wavelets,
     author = {Meyer, Yves},
-    booktitle = {Analysis at {U}rbana, {V}ol. {I} ({U}rbana, {IL}, 1986--1987)},
+    booktitle = {Analysis at {U}rbana, {V}ol. {I} ({U}rbana, {IL},
+   1986--1987)},
     mrclass = {42C15 (42B20 46B20)},
     mrnumber = {1009177},
     mrreviewer = {M. Mikol\'{a}s},

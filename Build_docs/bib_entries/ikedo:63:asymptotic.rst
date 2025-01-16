@@ -17,7 +17,8 @@ ikedo:63:asymptotic
     mrnumber = {171295},
     mrreviewer = {S. Kullback},
     pages = {87--116},
-    title = {Asymptotic equivalence of probability distributions with applications to some problems of asymptotic independence},
+    title = {Asymptotic equivalence of probability distributions with
+   applications to some problems of asymptotic independence},
     url = {https://doi.org/10.1007/BF02865908},
     volume = {15},
     year = {1963}

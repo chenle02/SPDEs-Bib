@@ -9,7 +9,8 @@ hu:00:class
 
    @incollection{hu:00:class,
     author = {Hu, Yaozhong},
-    booktitle = {Stochastic processes, physics and geometry: new interplays, {II} ({L}eipzig, 1999)},
+    booktitle = {Stochastic processes, physics and geometry: new
+   interplays, {II} ({L}eipzig, 1999)},
     mrclass = {60H15},
     mrnumber = {1803425},
     mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},

@@ -16,7 +16,8 @@ quastel.jankowski.ea:02:central
     mrclass = {60F05 (60F17 60J55)},
     mrnumber = {2023132},
     mrreviewer = {Ingo Fahrner},
-    note = {Special issue dedicated to Daniel W. Stroock and Srinivasa S. R. Varadhan on the occasion of their 60th birthday},
+    note = {Special issue dedicated to Daniel W. Stroock and Srinivasa
+   S. R. Varadhan on the occasion of their 60th birthday},
     number = {3},
     pages = {393--406},
     title = {Central limit theorem for zero-range processes},

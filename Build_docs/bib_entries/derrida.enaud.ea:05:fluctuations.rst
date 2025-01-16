@@ -18,7 +18,8 @@ derrida.enaud.ea:05:fluctuations
     mrreviewer = {Marina\ Vachkovskaia},
     number = {5-6},
     pages = {795--811},
-    title = {Fluctuations in the weakly asymmetric exclusion process with open boundary conditions},
+    title = {Fluctuations in the weakly asymmetric exclusion process
+   with open boundary conditions},
     url = {https://doi.org/10.1007/s10955-004-1989-x},
     volume = {118},
     year = {2005}

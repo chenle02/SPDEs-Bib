@@ -18,7 +18,8 @@ da-prato.zabczyk:91:smoothing
     mrreviewer = {Yuh-Jia Lee},
     number = {2},
     pages = {63--77},
-    title = {Smoothing properties of transition semigroups in {H}ilbert spaces},
+    title = {Smoothing properties of transition semigroups in {H}ilbert
+   spaces},
     url = {https://doi.org/10.1080/17442509108833690},
     volume = {35},
     year = {1991}

@@ -18,7 +18,8 @@ feireisl.laurencot.ea:96:global
     mrreviewer = {Daniel \v{S}ev\v{c}ovi\v{c}},
     number = {2},
     pages = {239--261},
-    title = {Global attractors for degenerate parabolic equations on unbounded domains},
+    title = {Global attractors for degenerate parabolic equations on
+   unbounded domains},
     url = {https://doi.org/10.1006/jdeq.1996.0117},
     volume = {129},
     year = {1996}

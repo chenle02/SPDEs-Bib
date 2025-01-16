@@ -17,7 +17,8 @@ funaki:84:random
     pages = {121--133},
     publisher = {North-Holland, Amsterdam},
     series = {North-Holland Math. Library},
-    title = {Random motion of strings and stochastic differential equations on the space {$C([0,1],{\bf R}^d)$}},
+    title = {Random motion of strings and stochastic differential
+   equations on the space {$C([0,1],{\bf R}^d)$}},
     url = {https://doi.org/10.1016/S0924-6509(08)70390-8},
     volume = {32},
     year = {1984}

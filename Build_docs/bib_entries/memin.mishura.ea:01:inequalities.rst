@@ -18,7 +18,8 @@ memin.mishura.ea:01:inequalities
     mrreviewer = {Laurent Decreusefond},
     number = {2},
     pages = {197--206},
-    title = {Inequalities for the moments of {W}iener integrals with respect to a fractional {B}rownian motion},
+    title = {Inequalities for the moments of {W}iener integrals with
+   respect to a fractional {B}rownian motion},
     url = {https://doi.org/10.1016/S0167-7152(00)00157-7},
     volume = {51},
     year = {2001}

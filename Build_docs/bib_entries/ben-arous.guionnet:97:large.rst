@@ -18,7 +18,8 @@ ben-arous.guionnet:97:large
     mrreviewer = {Oleksiy Khorunzhiy},
     number = {4},
     pages = {517--542},
-    title = {Large deviations for {W}igner's law and {V}oiculescu's non-commutative entropy},
+    title = {Large deviations for {W}igner's law and {V}oiculescu's
+   non-commutative entropy},
     url = {https://doi.org/10.1007/s004400050119},
     volume = {108},
     year = {1997}

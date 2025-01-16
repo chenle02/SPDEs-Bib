@@ -9,7 +9,8 @@ landau.shepp:70:on
 
    @article{landau.shepp:70:on,
     author = {Landau, H. J. and Shepp, L. A.},
-    fjournal = {Sankhy\={a} (Statistics). The Indian Journal of Statistics. Series A},
+    fjournal = {Sankhy\={a} (Statistics). The Indian Journal of
+   Statistics. Series A},
     issn = {0581-572X},
     journal = {Sankhy\={a} Ser. A},
     mrclass = {60.40},

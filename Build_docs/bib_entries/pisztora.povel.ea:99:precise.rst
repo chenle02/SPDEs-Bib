@@ -18,7 +18,8 @@ pisztora.povel.ea:99:precise
     mrreviewer = {Timo\ Sepp\"{a}l\"{a}inen},
     number = {2},
     pages = {191--219},
-    title = {Precise large deviation estimates for a one-dimensional random walk in a random environment},
+    title = {Precise large deviation estimates for a one-dimensional
+   random walk in a random environment},
     url = {https://doi.org/10.1007/s004400050206},
     volume = {113},
     year = {1999}

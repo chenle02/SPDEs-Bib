@@ -17,7 +17,8 @@ peszat:15:stochastic
     pages = {333--357},
     publisher = {Birkh\"{a}user/Springer, Basel},
     series = {Progr. Probab.},
-    title = {Stochastic partial differential equations with {L}\'{e}vy noise (a few aspects)},
+    title = {Stochastic partial differential equations with {L}\'{e}vy
+   noise (a few aspects)},
     url = {https://doi.org/10.1007/978-3-0348-0909-2_12},
     volume = {68},
     year = {2015}

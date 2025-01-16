@@ -17,7 +17,8 @@ cranston:93:probabilistic
     mrnumber = {1231927},
     number = {3},
     pages = {319--334},
-    title = {A probabilistic approach to {M}artin boundaries for manifolds with ends},
+    title = {A probabilistic approach to {M}artin boundaries for
+   manifolds with ends},
     url = {https://doi.org/10.1007/BF01292675},
     volume = {96},
     year = {1993}

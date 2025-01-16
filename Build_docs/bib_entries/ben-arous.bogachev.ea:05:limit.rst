@@ -8,7 +8,8 @@ ben-arous.bogachev.ea:05:limit
 .. code-block:: bibtex
 
    @article{ben-arous.bogachev.ea:05:limit,
-    author = {Ben Arous, G\'{e}rard and Bogachev, Leonid V. and Molchanov, Stanislav A.},
+    author = {Ben Arous, G\'{e}rard and Bogachev, Leonid V. and
+   Molchanov, Stanislav A.},
     doi = {10.1007/s00440-004-0406-3},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},

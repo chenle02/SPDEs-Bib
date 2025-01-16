@@ -18,7 +18,8 @@ flandoli:87:invertibility
     mrreviewer = {O.\ A.\ Sebakhy},
     number = {1},
     pages = {65--72},
-    title = {Invertibility of {R}iccati operators and controllability of related systems},
+    title = {Invertibility of {R}iccati operators and controllability
+   of related systems},
     url = {https://doi.org/10.1016/0167-6911(87)90010-7},
     volume = {9},
     year = {1987}

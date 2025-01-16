@@ -18,7 +18,9 @@ ishida.yokota:12:global
     mrreviewer = {Adrian Muntean},
     number = {2},
     pages = {1421--1440},
-    title = {Global existence of weak solutions to quasilinear degenerate {K}eller-{S}egel systems of parabolic-parabolic type},
+    title = {Global existence of weak solutions to quasilinear
+   degenerate {K}eller-{S}egel systems of parabolic-parabolic
+   type},
     url = {https://doi.org/10.1016/j.jde.2011.02.012},
     volume = {252},
     year = {2012}

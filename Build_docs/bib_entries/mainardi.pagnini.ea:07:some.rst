@@ -8,7 +8,8 @@ mainardi.pagnini.ea:07:some
 .. code-block:: bibtex
 
    @article{mainardi.pagnini.ea:07:some,
-    author = {Mainardi, Francesco and Pagnini, Gianni and Gorenflo, Rudolf},
+    author = {Mainardi, Francesco and Pagnini, Gianni and Gorenflo,
+   Rudolf},
     doi = {10.1016/j.amc.2006.08.126},
     fjournal = {Applied Mathematics and Computation},
     issn = {0096-3003,1873-5649},
@@ -17,7 +18,8 @@ mainardi.pagnini.ea:07:some
     mrnumber = {2323582},
     number = {1},
     pages = {295--305},
-    title = {Some aspects of fractional diffusion equations of single and distributed order},
+    title = {Some aspects of fractional diffusion equations of single
+   and distributed order},
     url = {https://doi.org/10.1016/j.amc.2006.08.126},
     volume = {187},
     year = {2007}

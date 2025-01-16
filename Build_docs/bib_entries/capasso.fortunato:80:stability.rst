@@ -18,7 +18,8 @@ capasso.fortunato:80:stability
     mrreviewer = {Joel Smoller},
     number = {1},
     pages = {37--47},
-    title = {Stability results for semilinear evolution equations and their application to some reaction-diffusion problems},
+    title = {Stability results for semilinear evolution equations and
+   their application to some reaction-diffusion problems},
     url = {https://doi.org/10.1137/0139005},
     volume = {39},
     year = {1980}

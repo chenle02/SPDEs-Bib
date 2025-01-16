@@ -17,7 +17,9 @@ khoshnevisan:14:parabolic
     mrreviewer = {Jan I. Seidler},
     number = {1},
     pages = {45--80},
-    title = {Parabolic {SPDE}s and intermittency. 16th {B}razilian {S}ummer {S}chool of {P}robability. {R}ecife, {B}razil, {A}ugust 6--11, 2012},
+    title = {Parabolic {SPDE}s and intermittency. 16th {B}razilian
+   {S}ummer {S}chool of {P}robability. {R}ecife, {B}razil,
+   {A}ugust 6--11, 2012},
     volume = {20},
     year = {2014}
    }

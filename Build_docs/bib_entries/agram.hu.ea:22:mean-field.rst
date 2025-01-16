@@ -16,7 +16,8 @@ agram.hu.ea:22:mean-field
     mrclass = {60H10 (49N80 91G80 93E20)},
     mrnumber = {4400089},
     pages = {Paper No. 105196, 7},
-    title = {Mean-field backward stochastic differential equations and applications},
+    title = {Mean-field backward stochastic differential equations and
+   applications},
     url = {https://doi.org/10.1016/j.sysconle.2022.105196},
     volume = {162},
     year = {2022}

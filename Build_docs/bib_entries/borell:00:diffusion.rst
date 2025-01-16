@@ -10,7 +10,9 @@ borell:00:diffusion
    @article{borell:00:diffusion,
     author = {Borell, Christer},
     doi = {10.1023/A:1008641618547},
-    fjournal = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
+    fjournal = {Potential Analysis. An International Journal Devoted to
+   the Interactions between Potential Theory, Probability
+   Theory, Geometry and Functional Analysis},
     issn = {0926-2601},
     journal = {Potential Anal.},
     mrclass = {60H30 (60J60)},

@@ -18,7 +18,8 @@ rempa-a.zabczyk:88:on
     mrreviewer = {T. R. Gichev},
     number = {2},
     pages = {281--288},
-    title = {On the maximum principle for deterministic impulse control problems},
+    title = {On the maximum principle for deterministic impulse control
+   problems},
     url = {https://doi.org/10.1007/BF00938313},
     volume = {59},
     year = {1988}

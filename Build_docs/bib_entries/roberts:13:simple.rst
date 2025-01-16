@@ -18,7 +18,8 @@ roberts:13:simple
     mrreviewer = {Bastien Mallein},
     number = {5},
     pages = {3518--3541},
-    title = {A simple path to asymptotics for the frontier of a branching {B}rownian motion},
+    title = {A simple path to asymptotics for the frontier of a
+   branching {B}rownian motion},
     url = {https://doi.org/10.1214/12-AOP753},
     volume = {41},
     year = {2013}

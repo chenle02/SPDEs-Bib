@@ -17,7 +17,8 @@ seidler.vrkoc:97:generalized
     mrreviewer = {B.\ G.\ Pachpatte},
     number = {1},
     pages = {101--105},
-    title = {The generalized {G}ronwall lemma fails under random stopping},
+    title = {The generalized {G}ronwall lemma fails under random
+   stopping},
     volume = {6},
     year = {1997}
    }

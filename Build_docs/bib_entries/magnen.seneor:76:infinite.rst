@@ -10,7 +10,8 @@ magnen.seneor:76:infinite
    @article{magnen.seneor:76:infinite,
     author = {Magnen, J. and S\'{e}n\'{e}or, R.},
     doi = {10.1007/s11245-005-1376-5},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Section A. Physique Th\'{e}orique. Nouvelle S\'{e}rie},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Section A.
+   Physique Th\'{e}orique. Nouvelle S\'{e}rie},
     issn = {0246-0211},
     journal = {Ann. Inst. H. Poincar\'{e} Sect. A (N.S.)},
     mrclass = {81.47},

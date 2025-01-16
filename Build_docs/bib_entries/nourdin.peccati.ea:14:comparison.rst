@@ -8,7 +8,8 @@ nourdin.peccati.ea:14:comparison
 .. code-block:: bibtex
 
    @article{nourdin.peccati.ea:14:comparison,
-    author = {Nourdin, Ivan and Peccati, Giovanni and Viens, Frederi G.},
+    author = {Nourdin, Ivan and Peccati, Giovanni and Viens, Frederi
+   G.},
     doi = {10.1016/j.spa.2013.12.001},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149},

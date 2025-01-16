@@ -18,7 +18,8 @@ harnett.nualart:13:central
     mrreviewer = {Maria Jolis},
     number = {4},
     pages = {2820--2879},
-    title = {Central limit theorem for a {S}tratonovich integral with {M}alliavin calculus},
+    title = {Central limit theorem for a {S}tratonovich integral with
+   {M}alliavin calculus},
     url = {https://doi.org/10.1214/12-AOP769},
     volume = {41},
     year = {2013}

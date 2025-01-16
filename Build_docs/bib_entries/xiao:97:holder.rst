@@ -18,7 +18,9 @@ xiao:97:holder
     mrreviewer = {Robert J. Adler},
     number = {1},
     pages = {129--157},
-    title = {H\"{o}lder conditions for the local times and the {H}ausdorff measure of the level sets of {G}aussian random fields},
+    title = {H\"{o}lder conditions for the local times and the
+   {H}ausdorff measure of the level sets of {G}aussian random
+   fields},
     url = {https://doi.org/10.1007/s004400050128},
     volume = {109},
     year = {1997}

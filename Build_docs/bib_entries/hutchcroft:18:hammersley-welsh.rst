@@ -16,7 +16,8 @@ hutchcroft:18:hammersley-welsh
     mrnumber = {3771763},
     mrreviewer = {Jonathan Henry Jordan},
     pages = {Paper No. 5, 8},
-    title = {The {H}ammersley-{W}elsh bound for self-avoiding walk revisited},
+    title = {The {H}ammersley-{W}elsh bound for self-avoiding walk
+   revisited},
     url = {https://doi.org/10.1214/17-ECP94},
     volume = {23},
     year = {2018}

@@ -18,7 +18,7 @@ bourgain.tzafriri:90:embedding
     mrreviewer = {Stephen\ J.\ Dilworth},
     number = {3},
     pages = {321--340},
-    title = {Embedding {$l^k_p$} in subspaces of {$L\_p$} for {$p>2$}},
+    title = {Embedding {$l^k_p$} in subspaces of {$L_p$} for {$p>2$}},
     url = {https://doi.org/10.1007/BF02773788},
     volume = {72},
     year = {1990}

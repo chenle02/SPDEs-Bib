@@ -10,7 +10,8 @@ borodin.corwin.ea:15:classical
    @article{borodin.corwin.ea:15:classical,
     author = {Borodin, Alexei and Corwin, Ivan and Remenik, Daniel},
     doi = {10.3842/SIGMA.2015.098},
-    fjournal = {SIGMA. Symmetry, Integrability and Geometry. Methods and Applications},
+    fjournal = {SIGMA. Symmetry, Integrability and Geometry. Methods and
+   Applications},
     journal = {SIGMA Symmetry Integrability Geom. Methods Appl.},
     mrclass = {33D52 (05E05 82B23)},
     mrnumber = {3430456},

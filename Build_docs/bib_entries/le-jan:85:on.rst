@@ -10,7 +10,8 @@ le-jan:85:on
    @article{le-jan:85:on,
     author = {Le Jan, Yves},
     doi = {10.1007/BF00531870},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60J65 (60J25 60J30)},

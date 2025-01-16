@@ -17,7 +17,8 @@ wang.zhang:20:talagrand
     mrnumber = {4083440},
     number = {2},
     pages = {253--261},
-    title = {Talagrand inequality on free path space and application to stochastic reaction diffusion equations},
+    title = {Talagrand inequality on free path space and application to
+   stochastic reaction diffusion equations},
     url = {https://doi.org/10.1007/s10255-020-0926-3},
     volume = {36},
     year = {2020}

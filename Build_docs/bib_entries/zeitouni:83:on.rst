@@ -17,7 +17,8 @@ zeitouni:83:on
     mrnumber = {729113},
     number = {6},
     pages = {329--330},
-    title = {On the nonexistence of stationary diffusions which satisfy the {B}ene\v{s} condition},
+    title = {On the nonexistence of stationary diffusions which satisfy
+   the {B}ene\v{s} condition},
     url = {https://doi.org/10.1016/0167-6911(83)90073-7},
     volume = {3},
     year = {1983}

@@ -9,7 +9,8 @@ maslowski.seidler:98:invariant
 
    @incollection{maslowski.seidler:98:invariant,
     author = {Maslowski, Bohdan and Seidler, Jan},
-    fjournal = {Universitatis Masarykianae Brunensis. Facultas Scientiarum Naturalium. Archivum Mathematicum},
+    fjournal = {Universitatis Masarykianae Brunensis. Facultas Scientiarum
+   Naturalium. Archivum Mathematicum},
     issn = {0044-8753,1212-5059},
     journal = {Arch. Math. (Brno)},
     mrclass = {60H15 (35R60 47D07)},
@@ -18,7 +19,8 @@ maslowski.seidler:98:invariant
     note = {Equadiff 9 (Brno, 1997)},
     number = {1},
     pages = {153--172},
-    title = {Invariant measures for nonlinear {SPDE}'s: uniqueness and stability},
+    title = {Invariant measures for nonlinear {SPDE}'s: uniqueness and
+   stability},
     volume = {34},
     year = {1998}
    }

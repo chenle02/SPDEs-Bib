@@ -17,7 +17,8 @@ lacoin.yang:24:mixing
     mrnumber = {4696281},
     number = {1A},
     pages = {388--427},
-    title = {Mixing time for the asymmetric simple exclusion process in a random environment},
+    title = {Mixing time for the asymmetric simple exclusion process in
+   a random environment},
     url = {https://doi.org/10.1214/23-aap1967},
     volume = {34},
     year = {2024}

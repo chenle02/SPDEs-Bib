@@ -8,7 +8,8 @@ gubinelli.imkeller.ea:15:paracontrolled
 .. code-block:: bibtex
 
    @article{gubinelli.imkeller.ea:15:paracontrolled,
-    author = {Gubinelli, Massimiliano and Imkeller, Peter and Perkowski, Nicolas},
+    author = {Gubinelli, Massimiliano and Imkeller, Peter and Perkowski,
+   Nicolas},
     doi = {10.1017/fmp.2015.2},
     fjournal = {Forum of Mathematics. Pi},
     journal = {Forum Math. Pi},

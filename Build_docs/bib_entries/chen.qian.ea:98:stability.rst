@@ -8,7 +8,8 @@ chen.qian.ea:98:stability
 .. code-block:: bibtex
 
    @article{chen.qian.ea:98:stability,
-    author = {Chen, Zhen-Qing and Qian, Zhongmin and Hu, Yaozhong and Zheng, Weian},
+    author = {Chen, Zhen-Qing and Qian, Zhongmin and Hu, Yaozhong and
+   Zheng, Weian},
     doi = {10.1006/jfan.1997.3147},
     fjournal = {Journal of Functional Analysis},
     issn = {0022-1236},
@@ -18,7 +19,8 @@ chen.qian.ea:98:stability
     mrreviewer = {Zhi Ming Ma},
     number = {1},
     pages = {255--280},
-    title = {Stability and approximations of symmetric diffusion semigroups and kernels},
+    title = {Stability and approximations of symmetric diffusion
+   semigroups and kernels},
     url = {https://doi.org/10.1006/jfan.1997.3147},
     volume = {152},
     year = {1998}

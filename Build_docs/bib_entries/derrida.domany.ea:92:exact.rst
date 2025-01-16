@@ -18,7 +18,8 @@ derrida.domany.ea:92:exact
     mrreviewer = {T.\ M.\ Liggett},
     number = {3-4},
     pages = {667--687},
-    title = {An exact solution of a one-dimensional asymmetric exclusion model with open boundaries},
+    title = {An exact solution of a one-dimensional asymmetric
+   exclusion model with open boundaries},
     url = {https://doi.org/10.1007/BF01050430},
     volume = {69},
     year = {1992}

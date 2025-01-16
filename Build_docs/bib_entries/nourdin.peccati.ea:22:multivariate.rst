@@ -18,7 +18,8 @@ nourdin.peccati.ea:22:multivariate
     mrreviewer = {Daniel\ M.\ Harnett},
     number = {3},
     pages = {2020--2037},
-    title = {Multivariate normal approximation on the {W}iener space: new bounds in the convex distance},
+    title = {Multivariate normal approximation on the {W}iener space:
+   new bounds in the convex distance},
     url = {https://doi.org/10.1007/s10959-021-01112-6},
     volume = {35},
     year = {2022}

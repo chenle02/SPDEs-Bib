@@ -9,7 +9,9 @@ nualart.sanz:81:changing
 
    @article{nualart.sanz:81:changing,
     author = {Nualart, D. and Sanz, M.},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Section B. Calcul des Probabilit\'{e}s et Statistique. Nouvelle S\'{e}rie},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Section B.
+   Calcul des Probabilit\'{e}s et Statistique. Nouvelle
+   S\'{e}rie},
     issn = {0020-2347},
     journal = {Ann. Inst. H. Poincar\'{e} Sect. B (N.S.)},
     mrclass = {60G40 (60G44 60G60 60J65)},

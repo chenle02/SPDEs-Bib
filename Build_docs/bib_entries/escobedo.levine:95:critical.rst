@@ -18,7 +18,8 @@ escobedo.levine:95:critical
     mrreviewer = {Arnaldo do Nascimento},
     number = {1},
     pages = {47--100},
-    title = {Critical blowup and global existence numbers for a weakly coupled system of reaction-diffusion equations},
+    title = {Critical blowup and global existence numbers for a weakly
+   coupled system of reaction-diffusion equations},
     url = {https://doi.org/10.1007/BF00375126},
     volume = {129},
     year = {1995}

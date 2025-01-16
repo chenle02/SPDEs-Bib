@@ -16,7 +16,8 @@ schneider:96:completely
     mrnumber = {1382012},
     number = {1},
     pages = {3--16},
-    title = {Completely monotone generalized {M}ittag-{L}effler functions},
+    title = {Completely monotone generalized {M}ittag-{L}effler
+   functions},
     volume = {14},
     year = {1996}
    }

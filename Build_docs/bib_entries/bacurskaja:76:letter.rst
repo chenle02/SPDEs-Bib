@@ -17,7 +17,10 @@ bacurskaja:76:letter
     mrreviewer = {\v{S}. Schwabik},
     number = {12},
     pages = {2287},
-    title = {Letter to the editors: ``{U}niqueness and convergence of successive approximations for a certain class of {V}olterra equations'' ({D}ifferencial{\cprime}nye {U}ravnenija {\bf 10} (1974), 1721--1724)},
+    title = {Letter to the editors: ``{U}niqueness and convergence of
+   successive approximations for a certain class of {V}olterra
+   equations'' ({D}ifferencial{\cprime}nye {U}ravnenija {\bf
+   10} (1974), 1721--1724)},
     volume = {12},
     year = {1976}
    }

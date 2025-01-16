@@ -18,7 +18,8 @@ dawson.iscoe.ea:89:super-brownian
     mrreviewer = {Steven N. Evans},
     number = {1-2},
     pages = {135--205},
-    title = {Super-{B}rownian motion: path properties and hitting probabilities},
+    title = {Super-{B}rownian motion: path properties and hitting
+   probabilities},
     url = {https://doi.org/10.1007/BF00333147},
     volume = {83},
     year = {1989}

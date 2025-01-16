@@ -18,7 +18,8 @@ crisan.flandoli.ea:19:solution
     mrreviewer = {Stefano\ Bonaccorsi},
     number = {3},
     pages = {813--870},
-    title = {Solution properties of a 3{D} stochastic {E}uler fluid equation},
+    title = {Solution properties of a 3{D} stochastic {E}uler fluid
+   equation},
     url = {https://doi.org/10.1007/s00332-018-9506-6},
     volume = {29},
     year = {2019}

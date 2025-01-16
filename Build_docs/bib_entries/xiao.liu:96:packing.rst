@@ -16,7 +16,8 @@ xiao.liu:96:packing
     mrnumber = {1432501},
     number = {3},
     pages = {201--209},
-    title = {Packing dimension results for certain {L}evy processes and self-similar {M}arkov processes},
+    title = {Packing dimension results for certain {L}evy processes and
+   self-similar {M}arkov processes},
     volume = {17},
     year = {1996}
    }

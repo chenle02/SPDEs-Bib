@@ -18,7 +18,8 @@ rakos.schutz:05:current
     mrreviewer = {Razvan Teodorescu},
     number = {3-4},
     pages = {511--530},
-    title = {Current distribution and random matrix ensembles for an integrable asymmetric fragmentation process},
+    title = {Current distribution and random matrix ensembles for an
+   integrable asymmetric fragmentation process},
     url = {https://doi.org/10.1007/s10955-004-8819-z},
     volume = {118},
     year = {2005}

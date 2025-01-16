@@ -17,7 +17,8 @@ nane.ni:16:stochastic
     mrnumber = {3498320},
     number = {1},
     pages = {103--116},
-    title = {Stochastic solution of fractional {F}okker-{P}lanck equations with space-time-dependent coefficients},
+    title = {Stochastic solution of fractional {F}okker-{P}lanck
+   equations with space-time-dependent coefficients},
     url = {https://doi.org/10.1016/j.jmaa.2016.03.033},
     volume = {442},
     year = {2016}

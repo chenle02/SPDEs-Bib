@@ -17,7 +17,8 @@ borodin.corwin.ea:18:anisotropic
     mrnumber = {3851833},
     number = {1-2},
     pages = {245--321},
-    title = {Anisotropic {$(2+1)$}d growth and {G}aussian limits of {$q$}-{W}hittaker processes},
+    title = {Anisotropic {$(2+1)$}d growth and {G}aussian limits of
+   {$q$}-{W}hittaker processes},
     url = {https://doi.org/10.1007/s00440-017-0809-6},
     volume = {172},
     year = {2018}

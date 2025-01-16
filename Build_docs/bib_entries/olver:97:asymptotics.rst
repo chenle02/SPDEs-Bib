@@ -12,7 +12,8 @@ olver:97:asymptotics
     isbn = {1-56881-069-5},
     mrclass = {41-02 (33Cxx 41A60 65D20)},
     mrnumber = {1429619},
-    note = {Reprint of the 1974 original [Academic Press, New York; MR0435697 (55 \#8655)]},
+    note = {Reprint of the 1974 original [Academic Press, New York;
+   MR0435697 (55 \#8655)]},
     pages = {xviii+572},
     publisher = {A K Peters, Ltd., Wellesley, MA},
     series = {AKP Classics},

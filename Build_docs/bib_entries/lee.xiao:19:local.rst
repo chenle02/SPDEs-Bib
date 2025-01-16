@@ -16,7 +16,8 @@ lee.xiao:19:local
     mrnumber = {4003126},
     mrreviewer = {Seiichiro Kusuoka},
     pages = {Paper No. 52, 8},
-    title = {Local nondeterminism and the exact modulus of continuity for stochastic wave equation},
+    title = {Local nondeterminism and the exact modulus of continuity
+   for stochastic wave equation},
     url = {https://doi.org/10.1214/19-ecp264},
     volume = {24},
     year = {2019}

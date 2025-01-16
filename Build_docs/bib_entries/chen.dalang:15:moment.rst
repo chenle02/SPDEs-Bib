@@ -18,7 +18,8 @@ chen.dalang:15:moment
     mrreviewer = {Martin Ondrej\'{a}t},
     number = {4},
     pages = {1605--1628},
-    title = {Moment bounds and asymptotics for the stochastic wave equation},
+    title = {Moment bounds and asymptotics for the stochastic wave
+   equation},
     url = {https://doi.org/10.1016/j.spa.2014.11.009},
     volume = {125},
     year = {2015}

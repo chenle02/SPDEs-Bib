@@ -17,7 +17,8 @@ seppalainen:17:erratum
     mrnumber = {3650421},
     number = {3},
     pages = {2056--2058},
-    title = {Erratum to ``{S}caling for a one-dimensional directed polymer with boundary conditions'' [ {MR}2917766]},
+    title = {Erratum to ``{S}caling for a one-dimensional directed
+   polymer with boundary conditions'' [ {MR}2917766]},
     url = {https://doi.org/10.1214/16-AOP1096},
     volume = {45},
     year = {2017}

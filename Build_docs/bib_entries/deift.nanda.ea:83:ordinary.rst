@@ -17,7 +17,8 @@ deift.nanda.ea:83:ordinary
     mrnumber = {687364},
     number = {1},
     pages = {1--22},
-    title = {Ordinary differential equations and the symmetric eigenvalue problem},
+    title = {Ordinary differential equations and the symmetric
+   eigenvalue problem},
     url = {https://doi.org/10.1137/0720001},
     volume = {20},
     year = {1983}

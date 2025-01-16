@@ -18,7 +18,8 @@ bourgain.yehudayoff:13:expansion
     mrreviewer = {Mikhail\ Ostrovskii},
     number = {1},
     pages = {1--41},
-    title = {Expansion in {${\rm SL}_2(\Bbb{R})$} and monotone expanders},
+    title = {Expansion in {${\rm SL}_2(\Bbb{R})$} and monotone
+   expanders},
     url = {https://doi.org/10.1007/s00039-012-0200-9},
     volume = {23},
     year = {2013}

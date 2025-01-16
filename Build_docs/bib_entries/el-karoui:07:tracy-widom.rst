@@ -18,7 +18,8 @@ el-karoui:07:tracy-widom
     mrreviewer = {Ofer Zeitouni},
     number = {2},
     pages = {663--714},
-    title = {Tracy-{W}idom limit for the largest eigenvalue of a large class of complex sample covariance matrices},
+    title = {Tracy-{W}idom limit for the largest eigenvalue of a large
+   class of complex sample covariance matrices},
     url = {https://doi.org/10.1214/009117906000000917},
     volume = {35},
     year = {2007}

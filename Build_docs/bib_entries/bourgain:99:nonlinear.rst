@@ -9,7 +9,8 @@ bourgain:99:nonlinear
 
    @incollection{bourgain:99:nonlinear,
     author = {Bourgain, Jean},
-    booktitle = {Hyperbolic equations and frequency interactions ({P}ark {C}ity, {UT}, 1995)},
+    booktitle = {Hyperbolic equations and frequency interactions ({P}ark
+   {C}ity, {UT}, 1995)},
     doi = {10.1090/coll/046},
     isbn = {0-8218-0592-4},
     mrclass = {35Q55 (37K10 37K55)},

@@ -17,7 +17,9 @@ winkler:18:does
     mrnumber = {3877500},
     number = {4},
     pages = {1889--1909},
-    title = {Does fluid interaction affect regularity in the three-dimensional {K}eller-{S}egel system with saturated sensitivity?},
+    title = {Does fluid interaction affect regularity in the
+   three-dimensional {K}eller-{S}egel system with saturated
+   sensitivity?},
     url = {https://doi.org/10.1007/s00021-018-0395-0},
     volume = {20},
     year = {2018}

@@ -18,7 +18,8 @@ shen.zhang:12:stationary
     mrreviewer = {Alfredo\ Lorenzi},
     number = {5},
     pages = {1681--1696},
-    title = {Stationary solutions and spreading speeds of nonlocal monostable equations in space periodic habitats},
+    title = {Stationary solutions and spreading speeds of nonlocal
+   monostable equations in space periodic habitats},
     url = {https://doi.org/10.1090/S0002-9939-2011-11011-6},
     volume = {140},
     year = {2012}

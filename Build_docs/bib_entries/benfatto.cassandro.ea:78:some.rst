@@ -8,7 +8,9 @@ benfatto.cassandro.ea:78:some
 .. code-block:: bibtex
 
    @article{benfatto.cassandro.ea:78:some,
-    author = {Benfatto, G. and Cassandro, M. and Gallavotti, G. and Nicol\`o, F. and Olivieri, E. and Presutti, E. and Scacciatelli, E.},
+    author = {Benfatto, G. and Cassandro, M. and Gallavotti, G. and
+   Nicol\`o, F. and Olivieri, E. and Presutti, E. and
+   Scacciatelli, E.},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},
     journal = {Comm. Math. Phys.},

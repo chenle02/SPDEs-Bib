@@ -17,7 +17,8 @@ bach:60:on
     mrnumber = {121578},
     mrreviewer = {F. W. Gehring},
     pages = {137--144},
-    title = {On the asymptotic behaviour of harmonic functions in the semi-space},
+    title = {On the asymptotic behaviour of harmonic functions in the
+   semi-space},
     url = {https://doi.org/10.4064/ap-9-2-137-144},
     volume = {9},
     year = {1960/61}

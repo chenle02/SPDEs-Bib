@@ -18,7 +18,8 @@ bourgain.kenig:05:on
     mrreviewer = {David\ Damanik},
     number = {2},
     pages = {389--426},
-    title = {On localization in the continuous {A}nderson-{B}ernoulli model in higher dimension},
+    title = {On localization in the continuous {A}nderson-{B}ernoulli
+   model in higher dimension},
     url = {https://doi.org/10.1007/s00222-004-0435-7},
     volume = {161},
     year = {2005}

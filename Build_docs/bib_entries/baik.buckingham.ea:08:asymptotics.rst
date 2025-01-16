@@ -18,7 +18,8 @@ baik.buckingham.ea:08:asymptotics
     mrreviewer = {Andrei A. Kapaev},
     number = {2},
     pages = {463--497},
-    title = {Asymptotics of {T}racy-{W}idom distributions and the total integral of a {P}ainlev\'{e} {II} function},
+    title = {Asymptotics of {T}racy-{W}idom distributions and the total
+   integral of a {P}ainlev\'{e} {II} function},
     url = {https://doi.org/10.1007/s00220-008-0433-5},
     volume = {280},
     year = {2008}

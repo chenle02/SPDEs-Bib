@@ -17,7 +17,8 @@ gu.komorowski:21:gaussian
     mrnumber = {4207947},
     number = {2},
     pages = {201--232},
-    title = {Gaussian fluctuations from random {S}chr\"{o}dinger equation},
+    title = {Gaussian fluctuations from random {S}chr\"{o}dinger
+   equation},
     url = {https://doi.org/10.1080/03605302.2020.1836493},
     volume = {46},
     year = {2021}

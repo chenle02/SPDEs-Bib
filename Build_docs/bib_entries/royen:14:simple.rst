@@ -16,7 +16,8 @@ royen:14:simple
     mrnumber = {3289621},
     number = {2},
     pages = {139--145},
-    title = {A simple proof of the {G}aussian correlation conjecture extended to some multivariate gamma distributions},
+    title = {A simple proof of the {G}aussian correlation conjecture
+   extended to some multivariate gamma distributions},
     volume = {48},
     year = {2014}
    }

@@ -16,7 +16,8 @@ berglund.gentz:13:sharp
     mrnumber = {3035752},
     mrreviewer = {Xiang Xing Tao},
     pages = {no. 24, 58},
-    title = {Sharp estimates for metastable lifetimes in parabolic {SPDE}s: {K}ramers' law and beyond},
+    title = {Sharp estimates for metastable lifetimes in parabolic
+   {SPDE}s: {K}ramers' law and beyond},
     url = {https://doi.org/10.1214/EJP.v18-1802},
     volume = {18},
     year = {2013}

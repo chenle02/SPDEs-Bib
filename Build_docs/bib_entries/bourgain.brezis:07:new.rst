@@ -18,7 +18,8 @@ bourgain.brezis:07:new
     mrreviewer = {Vicen\c{t}iu\ D.\ Ru{a}dulescu},
     number = {2},
     pages = {277--315},
-    title = {New estimates for elliptic equations and {H}odge type systems},
+    title = {New estimates for elliptic equations and {H}odge type
+   systems},
     url = {https://doi.org/10.4171/JEMS/80},
     volume = {9},
     year = {2007}

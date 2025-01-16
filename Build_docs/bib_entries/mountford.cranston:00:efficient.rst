@@ -9,7 +9,8 @@ mountford.cranston:00:efficient
 
    @incollection{mountford.cranston:00:efficient,
     author = {Mountford, T. S. and Cranston, M.},
-    booktitle = {Game theory, optimal stopping, probability and statistics},
+    booktitle = {Game theory, optimal stopping, probability and
+   statistics},
     doi = {10.1214/lnms/1215089753},
     isbn = {0-940600-48-X},
     mrclass = {60J27},

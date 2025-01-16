@@ -9,7 +9,8 @@ nualart:91:malliavin
 
    @incollection{nualart:91:malliavin,
     author = {Nualart, David},
-    booktitle = {Stochastic processes and related topics ({G}eorgenthal, 1990)},
+    booktitle = {Stochastic processes and related topics ({G}eorgenthal,
+   1990)},
     mrclass = {60H07},
     mrnumber = {1127886},
     mrreviewer = {Patrick Cattiaux},

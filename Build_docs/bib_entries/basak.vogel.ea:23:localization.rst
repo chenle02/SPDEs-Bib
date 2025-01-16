@@ -17,7 +17,8 @@ basak.vogel.ea:23:localization
     mrnumber = {4620409},
     number = {3},
     pages = {477--607},
-    title = {Localization of eigenvectors of nonhermitian banded noisy {T}oeplitz matrices},
+    title = {Localization of eigenvectors of nonhermitian banded noisy
+   {T}oeplitz matrices},
     url = {https://doi.org/10.2140/pmp.2023.4.477},
     volume = {4},
     year = {2023}

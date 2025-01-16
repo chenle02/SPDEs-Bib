@@ -18,7 +18,8 @@ avron.simon:83:almost
     mrreviewer = {W.\ O.\ Amrein},
     number = {1},
     pages = {369--391},
-    title = {Almost periodic {S}chr\"odinger operators. {II}. {T}he integrated density of states},
+    title = {Almost periodic {S}chr\"odinger operators. {II}. {T}he
+   integrated density of states},
     url = {https://doi.org/10.1215/S0012-7094-83-05016-0},
     volume = {50},
     year = {1983}

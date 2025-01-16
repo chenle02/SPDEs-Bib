@@ -17,7 +17,8 @@ dalang.mueller:03:some
     mrnumber = {1961163},
     mrreviewer = {Anna Karczewska},
     pages = {no. 1, 21},
-    title = {Some non-linear {S}.{P}.{D}.{E}.'s that are second order in time},
+    title = {Some non-linear {S}.{P}.{D}.{E}.'s that are second order
+   in time},
     url = {https://doi.org/10.1214/EJP.v8-123},
     volume = {8},
     year = {2003}

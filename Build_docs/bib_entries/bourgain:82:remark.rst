@@ -10,7 +10,8 @@ bourgain:82:remark
    @article{bourgain:82:remark,
     author = {Bourgain, J.},
     doi = {10.4064/sm-72-3-285-289},
-    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia Mathematica},
+    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia
+   Mathematica},
     issn = {0039-3223,1730-6337},
     journal = {Studia Math.},
     mrclass = {46B20},

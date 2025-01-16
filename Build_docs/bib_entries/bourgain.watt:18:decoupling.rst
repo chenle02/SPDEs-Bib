@@ -18,7 +18,8 @@ bourgain.watt:18:decoupling
     mrreviewer = {Olivier\ Bordell\`es},
     number = {17},
     pages = {5219--5296},
-    title = {Decoupling for perturbed cones and the mean square of {$|\zeta (\frac 12+it)|$}},
+    title = {Decoupling for perturbed cones and the mean square of
+   {$|\zeta (\frac 12+it)|$}},
     url = {https://doi.org/10.1093/imrn/rnx009},
     year = {2018}
    }

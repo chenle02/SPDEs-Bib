@@ -8,7 +8,8 @@ erdelyi.magnus.ea:53:higher
 .. code-block:: bibtex
 
    @book{erdelyi.magnus.ea:53:higher,
-    author = {Erd\'{e}lyi, Arthur and Magnus, Wilhelm and Oberhettinger, Fritz and Tricomi, Francesco G.},
+    author = {Erd\'{e}lyi, Arthur and Magnus, Wilhelm and Oberhettinger,
+   Fritz and Tricomi, Francesco G.},
     mrclass = {33.0X},
     mrnumber = {58756},
     mrreviewer = {E. T. Copson},

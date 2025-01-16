@@ -18,7 +18,8 @@ chen.song:97:intrinsic
     mrreviewer = {Zhong Xin Zhao},
     number = {1},
     pages = {204--239},
-    title = {Intrinsic ultracontractivity and conditional gauge for symmetric stable processes},
+    title = {Intrinsic ultracontractivity and conditional gauge for
+   symmetric stable processes},
     url = {https://doi.org/10.1006/jfan.1997.3104},
     volume = {150},
     year = {1997}

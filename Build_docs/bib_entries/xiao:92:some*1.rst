@@ -16,7 +16,8 @@ xiao:92:some*1
     mrnumber = {1204570},
     number = {1},
     pages = {11--19},
-    title = {Some properties of the algebraic sum of fractional {B}rownian motions},
+    title = {Some properties of the algebraic sum of fractional
+   {B}rownian motions},
     volume = {12},
     year = {1992}
    }

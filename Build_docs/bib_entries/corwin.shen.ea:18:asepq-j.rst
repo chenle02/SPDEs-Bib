@@ -10,7 +10,8 @@ corwin.shen.ea:18:asepq-j
    @article{corwin.shen.ea:18:asepq-j,
     author = {Corwin, Ivan and Shen, Hao and Tsai, Li-Cheng},
     doi = {10.1214/17-AIHP829},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60H15 (35R60 60K35 82C22)},

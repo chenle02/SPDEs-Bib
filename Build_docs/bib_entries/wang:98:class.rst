@@ -18,7 +18,8 @@ wang:98:class
     mrreviewer = {Alexander Schied},
     number = {4},
     pages = {753--786},
-    title = {A class of measure-valued branching diffusions in a random medium},
+    title = {A class of measure-valued branching diffusions in a random
+   medium},
     url = {https://doi.org/10.1080/07362999808809560},
     volume = {16},
     year = {1998}

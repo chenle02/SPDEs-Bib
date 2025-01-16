@@ -17,7 +17,8 @@ huse.henley:85:pinning
     numpages = {0},
     pages = {2708--2711},
     publisher = {American Physical Society},
-    title = {Pinning and Roughening of Domain Walls in Ising Systems Due to Random Impurities},
+    title = {Pinning and Roughening of Domain Walls in Ising Systems
+   Due to Random Impurities},
     url = {https://link.aps.org/doi/10.1103/PhysRevLett.54.2708},
     volume = {54},
     year = {1985}

@@ -9,7 +9,8 @@ bourgain:80:sur
 
    @article{bourgain:80:sur,
     author = {Bourgain, Jean},
-    fjournal = {Comptes Rendus Hebdomadaires des S\'{e}ances de l'Acad\'{e}mie des Sciences. S\'{e}ries A et B},
+    fjournal = {Comptes Rendus Hebdomadaires des S\'{e}ances de
+   l'Acad\'{e}mie des Sciences. S\'{e}ries A et B},
     issn = {0151-0509},
     journal = {C. R. Acad. Sci. Paris S\'{e}r. A-B},
     mrclass = {46E15 (46J15)},

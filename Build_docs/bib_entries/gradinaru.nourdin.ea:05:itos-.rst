@@ -18,7 +18,8 @@ gradinaru.nourdin.ea:05:itos-
     mrreviewer = {David Nualart},
     number = {1},
     pages = {114--143},
-    title = {Ito's- and {T}anaka's-type formulae for the stochastic heat equation: the linear case},
+    title = {Ito's- and {T}anaka's-type formulae for the stochastic
+   heat equation: the linear case},
     url = {https://doi.org/10.1016/j.jfa.2005.02.008},
     volume = {228},
     year = {2005}

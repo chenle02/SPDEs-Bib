@@ -10,7 +10,8 @@ zabczyk:73:optimal
    @article{zabczyk:73:optimal,
     author = {Zabczyk, J.},
     doi = {10.4064/sm-45-2-161-171},
-    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia Mathematica},
+    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia
+   Mathematica},
     issn = {0039-3223,1730-6337},
     journal = {Studia Math.},
     mrclass = {93E20},

@@ -9,7 +9,8 @@ hu.perez-abreu:95:on
 
    @article{hu.perez-abreu:95:on,
     author = {Hu, Yaozhong and P\'{e}rez-Abreu, V\'{i}ctor},
-    fjournal = {Sociedad Matem\'{a}tica Mexicana. Bolet\'{i}n. Tercera Serie},
+    fjournal = {Sociedad Matem\'{a}tica Mexicana. Bolet\'{i}n. Tercera
+   Serie},
     issn = {1405-213X},
     journal = {Bol. Soc. Mat. Mexicana (3)},
     mrclass = {60H99 (60G20)},

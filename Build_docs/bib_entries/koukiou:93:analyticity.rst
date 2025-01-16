@@ -16,7 +16,8 @@ koukiou:93:analyticity
     mrnumber = {1253873},
     number = {23},
     pages = {L1207--L1210},
-    title = {Analyticity of the partition function of the random energy model},
+    title = {Analyticity of the partition function of the random energy
+   model},
     url = {http://stacks.iop.org/0305-4470/26/L1207},
     volume = {26},
     year = {1993}

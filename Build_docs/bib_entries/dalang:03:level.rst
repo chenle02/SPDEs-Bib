@@ -9,7 +9,8 @@ dalang:03:level
 
    @incollection{dalang:03:level,
     author = {Dalang, Robert C.},
-    booktitle = {Topics in spatial stochastic processes ({M}artina {F}ranca, 2001)},
+    booktitle = {Topics in spatial stochastic processes ({M}artina
+   {F}ranca, 2001)},
     doi = {10.1007/978-3-540-36259-3\_5},
     mrclass = {60G15},
     mrnumber = {1975520},

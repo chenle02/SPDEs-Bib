@@ -18,7 +18,8 @@ corwin.quastel.ea:15:renormalization
     mrreviewer = {Carlos Escudero},
     number = {4},
     pages = {815--834},
-    title = {Renormalization fixed point of the {KPZ} universality class},
+    title = {Renormalization fixed point of the {KPZ} universality
+   class},
     url = {https://doi.org/10.1007/s10955-015-1243-8},
     volume = {160},
     year = {2015}

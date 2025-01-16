@@ -18,7 +18,8 @@ liang.zhao:07:asymptotic
     mrreviewer = {Hal Leslie Smith},
     number = {1},
     pages = {1--40},
-    title = {Asymptotic speeds of spread and traveling waves for monotone semiflows with applications},
+    title = {Asymptotic speeds of spread and traveling waves for
+   monotone semiflows with applications},
     url = {https://doi.org/10.1002/cpa.20154},
     volume = {60},
     year = {2007}

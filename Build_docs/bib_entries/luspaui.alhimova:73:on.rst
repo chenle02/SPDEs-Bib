@@ -17,7 +17,8 @@ luspaui.alhimova:73:on
     mrreviewer = {B. Boyanov},
     number = {12(139)},
     pages = {50--56},
-    title = {On the question of best quadrature formulas for classes of differentiable functions},
+    title = {On the question of best quadrature formulas for classes of
+   differentiable functions},
     year = {1973}
    }
 

@@ -18,7 +18,8 @@ feral.peche:09:largest
     mrreviewer = {Yonghui\ Liu},
     number = {7},
     pages = {073302, 33},
-    title = {The largest eigenvalues of sample covariance matrices for a spiked population: diagonal case},
+    title = {The largest eigenvalues of sample covariance matrices for
+   a spiked population: diagonal case},
     url = {https://doi.org/10.1063/1.3155785},
     volume = {50},
     year = {2009}

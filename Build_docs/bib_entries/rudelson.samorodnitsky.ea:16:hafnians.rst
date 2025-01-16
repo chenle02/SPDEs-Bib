@@ -8,7 +8,8 @@ rudelson.samorodnitsky.ea:16:hafnians
 .. code-block:: bibtex
 
    @article{rudelson.samorodnitsky.ea:16:hafnians,
-    author = {Rudelson, Mark and Samorodnitsky, Alex and Zeitouni, Ofer},
+    author = {Rudelson, Mark and Samorodnitsky, Alex and Zeitouni,
+   Ofer},
     doi = {10.1214/15-AOP1036},
     fjournal = {The Annals of Probability},
     issn = {0091-1798,2168-894X},

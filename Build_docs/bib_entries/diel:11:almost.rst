@@ -18,7 +18,8 @@ diel:11:almost
     mrreviewer = {Firas Rassoul-Agha},
     number = {10},
     pages = {2303--2330},
-    title = {Almost sure asymptotics for the local time of a diffusion in {B}rownian environment},
+    title = {Almost sure asymptotics for the local time of a diffusion
+   in {B}rownian environment},
     url = {https://doi.org/10.1016/j.spa.2011.06.002},
     volume = {121},
     year = {2011}

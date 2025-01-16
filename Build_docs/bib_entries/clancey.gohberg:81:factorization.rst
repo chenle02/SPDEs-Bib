@@ -16,7 +16,8 @@ clancey.gohberg:81:factorization
     pages = {x+234},
     publisher = {Birkh\"{a}user Verlag, Basel-Boston, Mass.},
     series = {Operator Theory: Advances and Applications},
-    title = {Factorization of matrix functions and singular integral operators},
+    title = {Factorization of matrix functions and singular integral
+   operators},
     volume = {3},
     year = {1981}
    }

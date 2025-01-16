@@ -8,7 +8,8 @@ chen.fitzsimmons.ea:08:stochastic
 .. code-block:: bibtex
 
    @article{chen.fitzsimmons.ea:08:stochastic,
-    author = {Chen, Z.-Q. and Fitzsimmons, P. J. and Kuwae, K. and Zhang, T.-S.},
+    author = {Chen, Z.-Q. and Fitzsimmons, P. J. and Kuwae, K. and
+   Zhang, T.-S.},
     doi = {10.1214/07-AOP347},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},

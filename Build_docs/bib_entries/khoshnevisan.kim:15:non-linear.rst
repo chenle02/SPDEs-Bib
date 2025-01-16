@@ -18,7 +18,8 @@ khoshnevisan.kim:15:non-linear
     mrreviewer = {Vassili N. Kolokol{\cprime}tsov},
     number = {9},
     pages = {4073--4083},
-    title = {Non-linear noise excitation and intermittency under high disorder},
+    title = {Non-linear noise excitation and intermittency under high
+   disorder},
     url = {https://doi.org/10.1090/S0002-9939-2015-12517-8},
     volume = {143},
     year = {2015}

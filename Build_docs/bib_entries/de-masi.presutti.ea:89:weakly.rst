@@ -9,7 +9,8 @@ de-masi.presutti.ea:89:weakly
 
    @article{de-masi.presutti.ea:89:weakly,
     author = {De Masi, A. and Presutti, E. and Scacciatelli, E.},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistique},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistique},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {60K35 (35Q99 82A31)},

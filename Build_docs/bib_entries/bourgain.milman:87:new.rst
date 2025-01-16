@@ -18,7 +18,8 @@ bourgain.milman:87:new
     mrreviewer = {W.\ J.\ Firey},
     number = {2},
     pages = {319--340},
-    title = {New volume ratio properties for convex symmetric bodies in {${\bf R}^n$}},
+    title = {New volume ratio properties for convex symmetric bodies in
+   {${\bf R}^n$}},
     url = {https://doi.org/10.1007/BF01388911},
     volume = {88},
     year = {1987}

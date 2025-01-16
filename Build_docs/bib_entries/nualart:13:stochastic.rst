@@ -15,7 +15,8 @@ nualart:13:stochastic
     mrreviewer = {Jos\'{e} Rafael Le\'{o}n},
     pages = {475--488},
     publisher = {Eur. Math. Soc., Z\"{u}rich},
-    title = {Stochastic calculus with respect to the fractional {B}rownian motion},
+    title = {Stochastic calculus with respect to the fractional
+   {B}rownian motion},
     year = {2013}
    }
 

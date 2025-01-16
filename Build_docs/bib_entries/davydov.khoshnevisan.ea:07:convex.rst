@@ -8,7 +8,8 @@ davydov.khoshnevisan.ea:07:convex
 .. code-block:: bibtex
 
    @article{davydov.khoshnevisan.ea:07:convex,
-    author = {Davydov, Youri and Khoshnevisan, Davar and Shi, Zhan and Zitikis, Ri\v{c}ardas},
+    author = {Davydov, Youri and Khoshnevisan, Davar and Shi, Zhan and
+   Zitikis, Ri\v{c}ardas},
     doi = {10.1016/j.jspi.2006.06.032},
     fjournal = {Journal of Statistical Planning and Inference},
     issn = {0378-3758},
@@ -18,7 +19,8 @@ davydov.khoshnevisan.ea:07:convex
     mrreviewer = {Raby Guerbaz},
     number = {3},
     pages = {915--934},
-    title = {Convex rearrangements, generalized {L}orenz curves, and correlated {G}aussian data},
+    title = {Convex rearrangements, generalized {L}orenz curves, and
+   correlated {G}aussian data},
     url = {https://doi.org/10.1016/j.jspi.2006.06.032},
     volume = {137},
     year = {2007}

@@ -18,7 +18,8 @@ peche:06:largest
     mrreviewer = {Pavel\ T.\ Stoynov},
     number = {1},
     pages = {127--173},
-    title = {The largest eigenvalue of small rank perturbations of {H}ermitian random matrices},
+    title = {The largest eigenvalue of small rank perturbations of
+   {H}ermitian random matrices},
     url = {https://doi.org/10.1007/s00440-005-0466-z},
     volume = {134},
     year = {2006}

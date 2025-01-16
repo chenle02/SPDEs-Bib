@@ -17,7 +17,9 @@ fujie.winkler.ea:15:boundedness
     mrnumber = {3338145},
     number = {6},
     pages = {1212--1224},
-    title = {Boundedness of solutions to parabolic-elliptic {K}eller-{S}egel systems with signal-dependent sensitivity},
+    title = {Boundedness of solutions to parabolic-elliptic
+   {K}eller-{S}egel systems with signal-dependent
+   sensitivity},
     url = {https://doi.org/10.1002/mma.3149},
     volume = {38},
     year = {2015}

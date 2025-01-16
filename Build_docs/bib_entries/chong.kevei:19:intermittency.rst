@@ -18,7 +18,8 @@ chong.kevei:19:intermittency
     mrreviewer = {Markus\ Kunze},
     number = {4},
     pages = {1911--1948},
-    title = {Intermittency for the stochastic heat equation with {L}\'{e}vy noise},
+    title = {Intermittency for the stochastic heat equation with
+   {L}\'{e}vy noise},
     url = {https://doi.org/10.1214/18-AOP1297},
     volume = {47},
     year = {2019}

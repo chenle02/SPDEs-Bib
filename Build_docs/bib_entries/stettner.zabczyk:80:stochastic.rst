@@ -9,7 +9,8 @@ stettner.zabczyk:80:stochastic
 
    @incollection{stettner.zabczyk:80:stochastic,
     author = {Stettner, \L . and Zabczyk, J.},
-    booktitle = {Optimization techniques ({P}roc. {N}inth {IFIP} {C}onf., {W}arsaw, 1979), {P}art 1},
+    booktitle = {Optimization techniques ({P}roc. {N}inth {IFIP} {C}onf.,
+   {W}arsaw, 1979), {P}art 1},
     isbn = {3-540-10080-6},
     mrclass = {49D30},
     mrnumber = {588530},

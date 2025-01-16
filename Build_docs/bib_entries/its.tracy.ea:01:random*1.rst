@@ -18,7 +18,8 @@ its.tracy.ea:01:random*1
     mrreviewer = {Martin V. Hildebrand},
     note = {Advances in nonlinear mathematics and science},
     pages = {199--224},
-    title = {Random words, {T}oeplitz determinants and integrable systems. {II}},
+    title = {Random words, {T}oeplitz determinants and integrable
+   systems. {II}},
     url = {https://doi.org/10.1016/S0167-2789(01)00171-3},
     volume = {152/153},
     year = {2001}

@@ -8,7 +8,8 @@ fernandez-baca.seppalainen.ea:04:parametric
 .. code-block:: bibtex
 
    @article{fernandez-baca.seppalainen.ea:04:parametric,
-    author = {Fern\'{a}ndez-Baca, David and Sepp\"{a}l\"{a}inen, Timo and Slutzki, Giora},
+    author = {Fern\'{a}ndez-Baca, David and Sepp\"{a}l\"{a}inen, Timo
+   and Slutzki, Giora},
     doi = {10.1016/S1570-8667(03)00078-9},
     fjournal = {Journal of Discrete Algorithms},
     issn = {1570-8667},
@@ -18,7 +19,8 @@ fernandez-baca.seppalainen.ea:04:parametric
     mrreviewer = {Stephen J. Willson},
     number = {2},
     pages = {271--287},
-    title = {Parametric multiple sequence alignment and phylogeny construction},
+    title = {Parametric multiple sequence alignment and phylogeny
+   construction},
     url = {https://doi.org/10.1016/S1570-8667(03)00078-9},
     volume = {2},
     year = {2004}

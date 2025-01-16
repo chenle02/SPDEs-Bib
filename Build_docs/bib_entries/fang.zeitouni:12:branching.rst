@@ -17,7 +17,8 @@ fang.zeitouni:12:branching
     mrnumber = {2968674},
     mrreviewer = {Elcio\ Lebensztayn},
     pages = {no. 67, 18},
-    title = {Branching random walks in time inhomogeneous environments},
+    title = {Branching random walks in time inhomogeneous
+   environments},
     url = {https://doi.org/10.1214/EJP.v17-2253},
     volume = {17},
     year = {2012}

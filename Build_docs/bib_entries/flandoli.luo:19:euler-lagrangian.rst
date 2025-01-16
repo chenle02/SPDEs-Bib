@@ -17,7 +17,8 @@ flandoli.luo:19:euler-lagrangian
     mrnumber = {3984810},
     number = {2},
     pages = {153--165},
-    title = {Euler-{L}agrangian approach to 3{D} stochastic {E}uler equations},
+    title = {Euler-{L}agrangian approach to 3{D} stochastic {E}uler
+   equations},
     url = {https://doi.org/10.3934/jgm.2019008},
     volume = {11},
     year = {2019}

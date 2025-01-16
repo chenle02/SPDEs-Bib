@@ -8,7 +8,8 @@ henry.hilhorst.ea:99:convergence
 .. code-block:: bibtex
 
    @article{henry.hilhorst.ea:99:convergence,
-    author = {Henry, Marie and Hilhorst, Danielle and Sch\"{a}tzle, Reiner},
+    author = {Henry, Marie and Hilhorst, Danielle and Sch\"{a}tzle,
+   Reiner},
     fjournal = {Hiroshima Mathematical Journal},
     issn = {0018-2079},
     journal = {Hiroshima Math. J.},
@@ -17,7 +18,9 @@ henry.hilhorst.ea:99:convergence
     mrreviewer = {Si Ning Zheng},
     number = {3},
     pages = {591--630},
-    title = {Convergence to a viscosity solution for an advection-reaction-diffusion equation arising from a chemotaxis-growth model},
+    title = {Convergence to a viscosity solution for an
+   advection-reaction-diffusion equation arising from a
+   chemotaxis-growth model},
     url = {http://projecteuclid.org/euclid.hmj/1206124856},
     volume = {29},
     year = {1999}

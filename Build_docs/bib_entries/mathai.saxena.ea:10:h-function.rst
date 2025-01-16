@@ -8,7 +8,8 @@ mathai.saxena.ea:10:h-function
 .. code-block:: bibtex
 
    @book{mathai.saxena.ea:10:h-function,
-    author = {Mathai, A. M. and Saxena, Ram Kishore and Haubold, Hans J.},
+    author = {Mathai, A. M. and Saxena, Ram Kishore and Haubold, Hans
+   J.},
     doi = {10.1007/978-1-4419-0916-9},
     isbn = {978-1-4419-0915-2},
     mrclass = {33-02 (33C60 33C90)},

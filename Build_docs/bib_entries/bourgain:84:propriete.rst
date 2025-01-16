@@ -9,7 +9,8 @@ bourgain:84:propriete
 
    @incollection{bourgain:84:propriete,
     author = {Bourgain, Jean},
-    booktitle = {Harmonic analysis: study group on translation-invariant {B}anach spaces},
+    booktitle = {Harmonic analysis: study group on translation-invariant
+   {B}anach spaces},
     mrclass = {43A46},
     mrnumber = {740714},
     pages = {Exp. No. 3, 10},

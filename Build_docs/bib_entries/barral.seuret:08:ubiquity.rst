@@ -10,7 +10,8 @@ barral.seuret:08:ubiquity
    @article{barral.seuret:08:ubiquity,
     author = {Barral, Julien and Seuret, St\'ephane},
     doi = {10.1017/S030500410800159X},
-    fjournal = {Mathematical Proceedings of the Cambridge Philosophical Society},
+    fjournal = {Mathematical Proceedings of the Cambridge Philosophical
+   Society},
     issn = {0305-0041,1469-8064},
     journal = {Math. Proc. Cambridge Philos. Soc.},
     mrclass = {28A80 (11A63 11J83 11K55)},
@@ -18,7 +19,8 @@ barral.seuret:08:ubiquity
     mrreviewer = {Arnaud\ Durand},
     number = {3},
     pages = {527--548},
-    title = {Ubiquity and large intersections properties under digit frequencies constraints},
+    title = {Ubiquity and large intersections properties under digit
+   frequencies constraints},
     url = {https://doi.org/10.1017/S030500410800159X},
     volume = {145},
     year = {2008}

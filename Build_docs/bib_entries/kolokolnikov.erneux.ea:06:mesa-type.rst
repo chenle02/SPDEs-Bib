@@ -17,7 +17,8 @@ kolokolnikov.erneux.ea:06:mesa-type
     mrnumber = {2200795},
     number = {1},
     pages = {63--77},
-    title = {Mesa-type patterns in the one-dimensional {B}russelator and their stability},
+    title = {Mesa-type patterns in the one-dimensional {B}russelator
+   and their stability},
     url = {https://doi.org/10.1016/j.physd.2005.12.005},
     volume = {214},
     year = {2006}

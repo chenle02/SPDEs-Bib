@@ -18,7 +18,8 @@ meerschaert.nane.ea:08:large
     mrreviewer = {Anna Amirdjanova},
     number = {2},
     pages = {432--445},
-    title = {Large deviations for local time fractional {B}rownian motion and applications},
+    title = {Large deviations for local time fractional {B}rownian
+   motion and applications},
     url = {https://doi.org/10.1016/j.jmaa.2008.05.087},
     volume = {346},
     year = {2008}

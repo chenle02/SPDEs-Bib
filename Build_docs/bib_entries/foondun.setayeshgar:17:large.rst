@@ -17,7 +17,8 @@ foondun.setayeshgar:17:large
     mrnumber = {3575422},
     mrreviewer = {Kazuo Yamazaki},
     pages = {143--151},
-    title = {Large deviations for a class of semilinear stochastic partial differential equations},
+    title = {Large deviations for a class of semilinear stochastic
+   partial differential equations},
     url = {https://doi.org/10.1016/j.spl.2016.10.019},
     volume = {121},
     year = {2017}

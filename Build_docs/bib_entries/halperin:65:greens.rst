@@ -16,7 +16,8 @@ halperin:65:greens
     mrnumber = {187859},
     mrreviewer = {H. L. Frisch},
     pages = {A104--A117},
-    title = {Green's functions for a particle in a one-dimensional random potential},
+    title = {Green's functions for a particle in a one-dimensional
+   random potential},
     volume = {139},
     year = {1965}
    }

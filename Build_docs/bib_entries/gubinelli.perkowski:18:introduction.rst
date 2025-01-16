@@ -9,7 +9,8 @@ gubinelli.perkowski:18:introduction
 
    @incollection{gubinelli.perkowski:18:introduction,
     author = {Gubinelli, Massimiliano and Perkowski, Nicolas},
-    booktitle = {Stochastic partial differential equations and related fields},
+    booktitle = {Stochastic partial differential equations and related
+   fields},
     doi = {10.1007/978-3-319-74929-7\_4},
     mrclass = {60H15 (35R60)},
     mrnumber = {3828162},

@@ -18,7 +18,8 @@ dalang.mueller:15:multiple
     mrreviewer = {Dongsheng Wu},
     number = {4},
     pages = {1577--1593},
-    title = {Multiple points of the {B}rownian sheet in critical dimensions},
+    title = {Multiple points of the {B}rownian sheet in critical
+   dimensions},
     url = {https://doi.org/10.1214/14-AOP912},
     volume = {43},
     year = {2015}

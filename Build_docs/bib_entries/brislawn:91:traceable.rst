@@ -17,7 +17,8 @@ brislawn:91:traceable
     mrreviewer = {Mario Milman},
     number = {2},
     pages = {229--240},
-    title = {Traceable integral kernels on countably generated measure spaces},
+    title = {Traceable integral kernels on countably generated measure
+   spaces},
     url = {http://projecteuclid.org/euclid.pjm/1102637666},
     volume = {150},
     year = {1991}

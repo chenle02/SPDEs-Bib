@@ -14,8 +14,10 @@ trogdon.olver:16:riemann-hilbert
     mrnumber = {3450072},
     mrreviewer = {Kuzman Adzievski},
     pages = {xviii+373},
-    publisher = {Society for Industrial and Applied Mathematics (SIAM), Philadelphia, PA},
-    title = {Riemann-{H}ilbert problems, their numerical solution, and the computation of nonlinear special functions},
+    publisher = {Society for Industrial and Applied Mathematics (SIAM),
+   Philadelphia, PA},
+    title = {Riemann-{H}ilbert problems, their numerical solution, and
+   the computation of nonlinear special functions},
     year = {2016}
    }
 

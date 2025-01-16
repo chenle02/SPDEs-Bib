@@ -18,7 +18,8 @@ bourgain.wang:08:quasi-periodic
     mrreviewer = {Nikita\ Y.\ Ratanov},
     number = {1},
     pages = {1--45},
-    title = {Quasi-periodic solutions of nonlinear random {S}chr\"{o}dinger equations},
+    title = {Quasi-periodic solutions of nonlinear random
+   {S}chr\"{o}dinger equations},
     url = {https://doi.org/10.4171/JEMS/102},
     volume = {10},
     year = {2008}

@@ -9,7 +9,8 @@ nualart:79:decomposition
 
    @incollection{nualart:79:decomposition,
     author = {Nualart, David},
-    booktitle = {Contributions in probability and mathematical statistics, teaching of mathematics and analysis ({S}panish)},
+    booktitle = {Contributions in probability and mathematical statistics,
+   teaching of mathematics and analysis ({S}panish)},
     mrclass = {60G57 (60J30)},
     mrnumber = {577804},
     mrreviewer = {Alan F. Karr},

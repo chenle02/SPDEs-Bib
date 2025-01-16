@@ -14,7 +14,8 @@ lacoin:19:real
     mrnumber = {4472264},
     mrreviewer = {Isamu\ D\^oku},
     pages = {51},
-    publisher = {Instituto Nacional de Matem\'atica Pura e Aplicada (IMPA), Rio de Janeiro},
+    publisher = {Instituto Nacional de Matem\'atica Pura e Aplicada (IMPA),
+   Rio de Janeiro},
     series = {32 $\sp {\rm o}$ Col\'oquio Brasileiro de Matem\'atica},
     title = {Real and complex {G}aussian multiplicative chaos},
     year = {2019}

@@ -15,7 +15,8 @@ hairer:16:regularity
     mrreviewer = {Peter Karl Friz},
     pages = {1--49},
     publisher = {Int. Press, Somerville, MA},
-    title = {Regularity structures and the dynamical {$\Phi^4_3$} model},
+    title = {Regularity structures and the dynamical {$\Phi^4_3$}
+   model},
     year = {2016}
    }
 

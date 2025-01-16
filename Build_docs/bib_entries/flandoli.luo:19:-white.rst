@@ -18,7 +18,8 @@ flandoli.luo:19:-white
     mrreviewer = {Xiliang\ Fan},
     number = {3-4},
     pages = {783--832},
-    title = {{$\rho$}-white noise solution to 2{D} stochastic {E}uler equations},
+    title = {{$\rho$}-white noise solution to 2{D} stochastic {E}uler
+   equations},
     url = {https://doi.org/10.1007/s00440-019-00902-8},
     volume = {175},
     year = {2019}

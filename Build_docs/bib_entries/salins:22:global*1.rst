@@ -17,7 +17,10 @@ salins:22:global*1
     mrnumber = {4491446},
     number = {11},
     pages = {8083--8099},
-    title = {Global solutions to the stochastic reaction-diffusion equation with superlinear accretive reaction term and superlinear multiplicative noise term on a bounded spatial domain},
+    title = {Global solutions to the stochastic reaction-diffusion
+   equation with superlinear accretive reaction term and
+   superlinear multiplicative noise term on a bounded spatial
+   domain},
     url = {https://doi.org/10.1090/tran/8763},
     volume = {375},
     year = {2022}

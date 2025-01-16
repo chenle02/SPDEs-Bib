@@ -18,7 +18,8 @@ dahlberg.kenig:87:hardy
     mrreviewer = {H. Triebel},
     number = {3},
     pages = {437--465},
-    title = {Hardy spaces and the {N}eumann problem in {$L^p$} for {L}aplace's equation in {L}ipschitz domains},
+    title = {Hardy spaces and the {N}eumann problem in {$L^p$} for
+   {L}aplace's equation in {L}ipschitz domains},
     url = {https://doi.org/10.2307/1971407},
     volume = {125},
     year = {1987}

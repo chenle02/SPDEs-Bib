@@ -18,7 +18,8 @@ wang.xiao:22:lower
     mrreviewer = {Mounir\ Zili},
     number = {2},
     pages = {Paper No. 126320, 31},
-    title = {Lower functions and {C}hung's {LIL}s of the generalized fractional {B}rownian motion},
+    title = {Lower functions and {C}hung's {LIL}s of the generalized
+   fractional {B}rownian motion},
     url = {https://doi.org/10.1016/j.jmaa.2022.126320},
     volume = {514},
     year = {2022}

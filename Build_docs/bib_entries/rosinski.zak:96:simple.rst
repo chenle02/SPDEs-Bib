@@ -18,7 +18,8 @@ rosinski.zak:96:simple
     mrreviewer = {Piotr Kokoszka},
     number = {2},
     pages = {277--288},
-    title = {Simple conditions for mixing of infinitely divisible processes},
+    title = {Simple conditions for mixing of infinitely divisible
+   processes},
     url = {https://doi.org/10.1016/0304-4149(95)00083-6},
     volume = {61},
     year = {1996}

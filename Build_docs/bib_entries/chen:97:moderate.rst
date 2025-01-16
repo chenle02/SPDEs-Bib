@@ -18,7 +18,8 @@ chen:97:moderate
     mrreviewer = {Andrei I. Volodin},
     number = {2},
     pages = {123--134},
-    title = {Moderate deviations for {$m$}-dependent random variables with {B}anach space values},
+    title = {Moderate deviations for {$m$}-dependent random variables
+   with {B}anach space values},
     url = {https://doi.org/10.1016/S0167-7152(97)00005-9},
     volume = {35},
     year = {1997}

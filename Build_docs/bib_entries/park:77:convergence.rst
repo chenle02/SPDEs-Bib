@@ -18,7 +18,9 @@ park:77:convergence
     mrreviewer = {Pierre Hillion},
     number = {3},
     pages = {354--366},
-    title = {Convergence of lattice approximations and infinite volume limit in the {$(\lambda \phi ^{4}-\sigma \phi ^{2}-\tau \phi )_{3}$} field theory},
+    title = {Convergence of lattice approximations and infinite volume
+   limit in the {$(\lambda \phi ^{4}-\sigma \phi ^{2}-\tau
+   \phi )_{3}$} field theory},
     url = {https://doi.org/10.1063/1.523277},
     volume = {18},
     year = {1977}

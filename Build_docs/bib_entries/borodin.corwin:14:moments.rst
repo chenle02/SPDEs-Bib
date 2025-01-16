@@ -17,7 +17,8 @@ borodin.corwin:14:moments
     mrnumber = {3199983},
     number = {3},
     pages = {1172--1198},
-    title = {Moments and {L}yapunov exponents for the parabolic {A}nderson model},
+    title = {Moments and {L}yapunov exponents for the parabolic
+   {A}nderson model},
     url = {https://doi.org/10.1214/13-AAP944},
     volume = {24},
     year = {2014}

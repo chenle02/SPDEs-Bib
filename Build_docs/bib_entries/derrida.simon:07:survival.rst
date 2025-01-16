@@ -17,7 +17,8 @@ derrida.simon:07:survival
     mrnumber = {2366713},
     number = {6},
     pages = {Art. 60006, 6},
-    title = {The survival probability of a branching random walk in presence of an absorbing wall},
+    title = {The survival probability of a branching random walk in
+   presence of an absorbing wall},
     url = {https://doi.org/10.1209/0295-5075/78/60006},
     volume = {78},
     year = {2007}

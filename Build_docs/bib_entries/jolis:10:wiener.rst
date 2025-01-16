@@ -18,7 +18,8 @@ jolis:10:wiener
     mrreviewer = {Tina M. Marquardt},
     number = {2},
     pages = {607--620},
-    title = {The {W}iener integral with respect to second order processes with stationary increments},
+    title = {The {W}iener integral with respect to second order
+   processes with stationary increments},
     url = {https://doi.org/10.1016/j.jmaa.2010.01.058},
     volume = {366},
     year = {2010}

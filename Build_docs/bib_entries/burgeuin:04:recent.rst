@@ -17,7 +17,9 @@ burgeuin:04:recent
     mrnumber = {2086635},
     number = {2(356)},
     pages = {37--52},
-    title = {Recent progress in quasi-periodic lattice {S}chr\"{o}dinger operators and {H}amiltonian partial differential equations},
+    title = {Recent progress in quasi-periodic lattice
+   {S}chr\"{o}dinger operators and {H}amiltonian partial
+   differential equations},
     url = {https://doi.org/10.1070/RM2004v059n02ABEH000716},
     volume = {59},
     year = {2004}

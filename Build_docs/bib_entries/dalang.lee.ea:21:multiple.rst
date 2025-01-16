@@ -8,7 +8,8 @@ dalang.lee.ea:21:multiple
 .. code-block:: bibtex
 
    @article{dalang.lee.ea:21:multiple,
-    author = {Dalang, Robert C. and Lee, Cheuk Yin and Mueller, Carl and Xiao, Yimin},
+    author = {Dalang, Robert C. and Lee, Cheuk Yin and Mueller, Carl and
+   Xiao, Yimin},
     doi = {10.1214/21-EJP589},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},

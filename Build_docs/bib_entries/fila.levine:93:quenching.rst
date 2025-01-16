@@ -10,7 +10,8 @@ fila.levine:93:quenching
    @article{fila.levine:93:quenching,
     author = {Fila, Marek and Levine, Howard A.},
     doi = {10.1016/0362-546X(93)90124-B},
-    fjournal = {Nonlinear Analysis. Theory, Methods \& Applications. An International Multidisciplinary Journal},
+    fjournal = {Nonlinear Analysis. Theory, Methods \& Applications. An
+   International Multidisciplinary Journal},
     issn = {0362-546X},
     journal = {Nonlinear Anal.},
     mrclass = {35B40 (35K55 35K65)},

@@ -18,7 +18,8 @@ chelkak.smirnov:12:universality
     mrreviewer = {Ben\ Dyhr},
     number = {3},
     pages = {515--580},
-    title = {Universality in the 2{D} {I}sing model and conformal invariance of fermionic observables},
+    title = {Universality in the 2{D} {I}sing model and conformal
+   invariance of fermionic observables},
     url = {https://doi.org/10.1007/s00222-011-0371-2},
     volume = {189},
     year = {2012}

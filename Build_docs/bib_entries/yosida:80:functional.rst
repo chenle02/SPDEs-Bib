@@ -15,7 +15,8 @@ yosida:80:functional
     mrnumber = {617913},
     pages = {xii+501},
     publisher = {Springer-Verlag, Berlin-New York},
-    series = {Grundlehren der Mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+    series = {Grundlehren der Mathematischen Wissenschaften [Fundamental
+   Principles of Mathematical Sciences]},
     title = {Functional analysis},
     volume = {123},
     year = {1980}

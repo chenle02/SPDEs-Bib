@@ -18,7 +18,8 @@ bourgain.katz.ea:04:sum-product
     mrreviewer = {Ben\ Joseph\ Green},
     number = {1},
     pages = {27--57},
-    title = {A sum-product estimate in finite fields, and applications},
+    title = {A sum-product estimate in finite fields, and
+   applications},
     url = {https://doi.org/10.1007/s00039-004-0451-1},
     volume = {14},
     year = {2004}

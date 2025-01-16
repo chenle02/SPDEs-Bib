@@ -18,7 +18,8 @@ mayer-wolf.zeitouni:93:onsager
     mrreviewer = {David\ Nualart},
     number = {2},
     pages = {199--216},
-    title = {Onsager {M}achlup functionals for non-trace-class {SPDE}s},
+    title = {Onsager {M}achlup functionals for non-trace-class
+   {SPDE}s},
     url = {https://doi.org/10.1007/BF01192270},
     volume = {95},
     year = {1993}

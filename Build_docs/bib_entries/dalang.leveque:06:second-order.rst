@@ -18,7 +18,8 @@ dalang.leveque:06:second-order
     mrreviewer = {Jean-Pierre Fouque},
     number = {5},
     pages = {2123--2159},
-    title = {Second-order hyperbolic {S}.{P}.{D}.{E}.'s driven by homogeneous {G}aussian noise on a hyperplane},
+    title = {Second-order hyperbolic {S}.{P}.{D}.{E}.'s driven by
+   homogeneous {G}aussian noise on a hyperplane},
     url = {https://doi.org/10.1090/S0002-9947-05-03740-2},
     volume = {358},
     year = {2006}

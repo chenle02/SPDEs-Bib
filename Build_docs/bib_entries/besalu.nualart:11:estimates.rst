@@ -18,7 +18,9 @@ besalu.nualart:11:estimates
     mrreviewer = {Laure Coutin},
     number = {2-3},
     pages = {243--263},
-    title = {Estimates for the solution to stochastic differential equations driven by a fractional {B}rownian motion with {H}urst parameter {$Hin(\frac13,\frac12)$}},
+    title = {Estimates for the solution to stochastic differential
+   equations driven by a fractional {B}rownian motion with
+   {H}urst parameter {$Hin(\frac13,\frac12)$}},
     url = {https://doi.org/10.1142/S0219493711003267},
     volume = {11},
     year = {2011}

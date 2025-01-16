@@ -18,7 +18,8 @@ hetzer.nguyen.ea:10:a-stability
     mrreviewer = {Haiyang\ Huang},
     number = {3},
     pages = {533--561},
-    title = {{$\scr A$}-stability of global attractors of competition diffusion systems},
+    title = {{$\scr A$}-stability of global attractors of competition
+   diffusion systems},
     url = {https://doi.org/10.1007/s10884-010-9187-9},
     volume = {22},
     year = {2010}

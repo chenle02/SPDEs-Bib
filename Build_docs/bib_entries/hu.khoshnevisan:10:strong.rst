@@ -10,7 +10,8 @@ hu.khoshnevisan:10:strong
    @article{hu.khoshnevisan:10:strong,
     author = {Hu, Yueyun and Khoshnevisan, Davar},
     doi = {10.1007/s10998-010-3213-x},
-    fjournal = {Periodica Mathematica Hungarica. Journal of the J\'{a}nos Bolyai Mathematical Society},
+    fjournal = {Periodica Mathematica Hungarica. Journal of the J\'{a}nos
+   Bolyai Mathematical Society},
     issn = {0031-5303},
     journal = {Period. Math. Hungar.},
     mrclass = {60K35 (60K37)},

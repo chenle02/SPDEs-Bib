@@ -8,7 +8,8 @@ damron.rassoul-agha.ea:16:random
 .. code-block:: bibtex
 
    @article{damron.rassoul-agha.ea:16:random,
-    author = {Damron, Michael and Rassoul-Agha, Firas and Sepp\"{a}l\"{a}inen, Timo},
+    author = {Damron, Michael and Rassoul-Agha, Firas and
+   Sepp\"{a}l\"{a}inen, Timo},
     doi = {10.1090/noti1400},
     fjournal = {Notices of the American Mathematical Society},
     issn = {0002-9920},

@@ -16,7 +16,8 @@ balan:09:stochastic
     mrnumber = {2541737},
     number = {1},
     pages = {45--68},
-    title = {Stochastic heat equation with infinite dimensional fractional noise: {$L_2$}-theory},
+    title = {Stochastic heat equation with infinite dimensional
+   fractional noise: {$L_2$}-theory},
     url = {https://doi.org/10.31390/cosa.3.1.04},
     volume = {3},
     year = {2009}

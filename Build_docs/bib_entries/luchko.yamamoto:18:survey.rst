@@ -17,7 +17,8 @@ luchko.yamamoto:18:survey
     pages = {33--69},
     publisher = {Bentham Sci. Publ., Sharjah},
     series = {Curr. Dev. Math. Sci.},
-    title = {A survey on the recent results regarding maximum principles for the time-fractional diffusion equations},
+    title = {A survey on the recent results regarding maximum
+   principles for the time-fractional diffusion equations},
     url = {https://doi.org/10.2174/9781681085999118010005},
     volume = {1},
     year = {2018}

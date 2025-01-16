@@ -17,7 +17,8 @@ gu.mourrat:16:pointwise
     mrnumber = {3547747},
     number = {1-2},
     pages = {585--618},
-    title = {Pointwise two-scale expansion for parabolic equations with random coefficients},
+    title = {Pointwise two-scale expansion for parabolic equations with
+   random coefficients},
     url = {https://doi.org/10.1007/s00440-015-0667-z},
     volume = {166},
     year = {2016}

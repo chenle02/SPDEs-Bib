@@ -8,7 +8,8 @@ kluppelberg.lindner.ea:04:continuous-time
 .. code-block:: bibtex
 
    @article{kluppelberg.lindner.ea:04:continuous-time,
-    author = {Kl\"{u}ppelberg, Claudia and Lindner, Alexander and Maller, Ross},
+    author = {Kl\"{u}ppelberg, Claudia and Lindner, Alexander and
+   Maller, Ross},
     doi = {10.1017/s0021900200020428},
     fjournal = {Journal of Applied Probability},
     issn = {0021-9002},
@@ -18,7 +19,8 @@ kluppelberg.lindner.ea:04:continuous-time
     mrreviewer = {P. A. Morettin},
     number = {3},
     pages = {601--622},
-    title = {A continuous-time {GARCH} process driven by a {L}\'{e}vy process: stationarity and second-order behaviour},
+    title = {A continuous-time {GARCH} process driven by a {L}\'{e}vy
+   process: stationarity and second-order behaviour},
     url = {https://doi.org/10.1017/s0021900200020428},
     volume = {41},
     year = {2004}

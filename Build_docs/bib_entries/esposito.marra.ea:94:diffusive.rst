@@ -10,7 +10,9 @@ esposito.marra.ea:94:diffusive
    @incollection{esposito.marra.ea:94:diffusive,
     author = {Esposito, R. and Marra, R. and Yau, H.-T.},
     doi = {10.1142/S0129055X94000444},
-    fjournal = {Reviews in Mathematical Physics. A Journal for Both Review and Original Research Papers in the Field of Mathematical Physics},
+    fjournal = {Reviews in Mathematical Physics. A Journal for Both Review
+   and Original Research Papers in the Field of Mathematical
+   Physics},
     issn = {0129-055X},
     journal = {Rev. Math. Phys.},
     mrclass = {82B40},

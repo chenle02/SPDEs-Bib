@@ -17,7 +17,8 @@ bourgain:06:on
     mrnumber = {2276345},
     mrreviewer = {Xiang-dong\ Hou},
     pages = {Art. ID 61271, 15},
-    title = {On an exponential sum related to the {D}iffie-{H}ellman cryptosystem},
+    title = {On an exponential sum related to the {D}iffie-{H}ellman
+   cryptosystem},
     url = {https://doi.org/10.1155/IMRN/2006/61271},
     year = {2006}
    }

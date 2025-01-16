@@ -16,7 +16,8 @@ treeby.cox:10:modeling
     month = {05},
     number = {5},
     pages = {2741--2748},
-    title = {Modeling power law absorption and dispersion for acoustic propagation using the fractional Laplacian},
+    title = {Modeling power law absorption and dispersion for acoustic
+   propagation using the fractional Laplacian},
     url = {https://doi.org/10.1121/1.3377056},
     volume = {127},
     year = {2010}

@@ -9,7 +9,8 @@ quastel:10:weakly
 
    @inproceedings{quastel:10:weakly,
     author = {Quastel, Jeremy},
-    booktitle = {Proceedings of the {I}nternational {C}ongress of {M}athematicians. {V}olume {IV}},
+    booktitle = {Proceedings of the {I}nternational {C}ongress of
+   {M}athematicians. {V}olume {IV}},
     mrclass = {60K35 (60H15 82C22)},
     mrnumber = {2827973},
     mrreviewer = {Timo Sepp\"{a}l\"{a}inen},

@@ -18,7 +18,8 @@ li:01:small
     mrreviewer = {Qi\ Man\ Shao},
     number = {1},
     pages = {87--102},
-    title = {Small ball probabilities for {G}aussian {M}arkov processes under the {$L_p$}-norm},
+    title = {Small ball probabilities for {G}aussian {M}arkov processes
+   under the {$L_p$}-norm},
     url = {https://doi.org/10.1016/S0304-4149(00)00072-7},
     volume = {92},
     year = {2001}

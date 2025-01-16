@@ -9,7 +9,8 @@ bourgain:98:on
 
    @incollection{bourgain:98:on,
     author = {Bourgain, Jean},
-    booktitle = {Les relations entre les math\'{e}matiques et la physique th\'{e}orique},
+    booktitle = {Les relations entre les math\'{e}matiques et la physique
+   th\'{e}orique},
     mrclass = {35Q55 (37K10 37K55)},
     mrnumber = {1667895},
     mrreviewer = {Yun\ Bo\ Zeng},

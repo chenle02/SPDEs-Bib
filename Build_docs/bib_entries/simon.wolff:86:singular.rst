@@ -17,7 +17,8 @@ simon.wolff:86:singular
     mrnumber = {820340},
     number = {1},
     pages = {75--90},
-    title = {Singular continuous spectrum under rank one perturbations and localization for random {H}amiltonians},
+    title = {Singular continuous spectrum under rank one perturbations
+   and localization for random {H}amiltonians},
     url = {https://doi.org/10.1002/cpa.3160390105},
     volume = {39},
     year = {1986}

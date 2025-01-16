@@ -18,7 +18,8 @@ dalang.humeau:17:levy
     mrreviewer = {Jorge A. Le\'{o}n},
     number = {6B},
     pages = {4389--4418},
-    title = {L\'{e}vy processes and {L}\'{e}vy white noise as tempered distributions},
+    title = {L\'{e}vy processes and {L}\'{e}vy white noise as tempered
+   distributions},
     url = {https://doi.org/10.1214/16-AOP1168},
     volume = {45},
     year = {2017}

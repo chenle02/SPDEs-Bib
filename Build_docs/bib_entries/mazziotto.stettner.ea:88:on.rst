@@ -8,7 +8,8 @@ mazziotto.stettner.ea:88:on
 .. code-block:: bibtex
 
    @article{mazziotto.stettner.ea:88:on,
-    author = {Mazziotto, G. and Stettner, \L . and Szpirglas, J. and Zabczyk, J.},
+    author = {Mazziotto, G. and Stettner, \L . and Szpirglas, J. and
+   Zabczyk, J.},
     doi = {10.1137/0326052},
     fjournal = {SIAM Journal on Control and Optimization},
     issn = {0363-0129},

@@ -17,7 +17,8 @@ brzezniak:97:on
     mrnumber = {1488138},
     number = {3-4},
     pages = {245--295},
-    title = {On stochastic convolution in {B}anach spaces and applications},
+    title = {On stochastic convolution in {B}anach spaces and
+   applications},
     url = {https://doi.org/10.1080/17442509708834122},
     volume = {61},
     year = {1997}

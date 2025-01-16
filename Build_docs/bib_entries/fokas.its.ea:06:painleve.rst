@@ -8,7 +8,8 @@ fokas.its.ea:06:painleve
 .. code-block:: bibtex
 
    @book{fokas.its.ea:06:painleve,
-    author = {Fokas, Athanassios S. and Its, Alexander R. and Kapaev, Andrei A. and Novokshenov, Victor Yu.},
+    author = {Fokas, Athanassios S. and Its, Alexander R. and Kapaev,
+   Andrei A. and Novokshenov, Victor Yu.},
     doi = {10.1090/surv/128},
     isbn = {0-8218-3651-X},
     mrclass = {33E17 (30E25 34M50 34M55 37K15 37K20)},

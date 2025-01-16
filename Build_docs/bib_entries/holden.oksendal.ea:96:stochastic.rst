@@ -8,7 +8,8 @@ holden.oksendal.ea:96:stochastic
 .. code-block:: bibtex
 
    @book{holden.oksendal.ea:96:stochastic,
-    author = {Holden, Helge and {\O}ksendal, Bernt and Ub\o e, Jan and Zhang, Tusheng},
+    author = {Holden, Helge and {\O}ksendal, Bernt and Ub\o e, Jan and
+   Zhang, Tusheng},
     doi = {10.1007/978-1-4684-9215-6},
     isbn = {0-8176-3928-4},
     mrclass = {60H15 (35R60 46N30 60G20 60H10)},

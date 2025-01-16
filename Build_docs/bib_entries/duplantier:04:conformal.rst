@@ -9,7 +9,8 @@ duplantier:04:conformal
 
    @incollection{duplantier:04:conformal,
     author = {Duplantier, Bertrand},
-    booktitle = {Fractal geometry and applications: a jubilee of {B}eno\^{i}t {M}andelbrot, {P}art 2},
+    booktitle = {Fractal geometry and applications: a jubilee of
+   {B}eno\^{i}t {M}andelbrot, {P}art 2},
     mrclass = {82B41 (05C80 31C20 60D05 60J45 60J65 60K35 83C45)},
     mrnumber = {2112128},
     pages = {365--482},

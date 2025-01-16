@@ -16,7 +16,8 @@ park.xiao:23:spectral
     mrnumber = {4644558},
     number = {9},
     pages = {4192--4205},
-    title = {Spectral heat content on a class of fractal sets for subordinate killed {B}rownian motions},
+    title = {Spectral heat content on a class of fractal sets for
+   subordinate killed {B}rownian motions},
     volume = {296},
     year = {2023}
    }

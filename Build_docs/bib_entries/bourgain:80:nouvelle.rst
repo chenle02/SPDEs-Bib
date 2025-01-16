@@ -9,7 +9,8 @@ bourgain:80:nouvelle
 
    @incollection{bourgain:80:nouvelle,
     author = {Bourgain, J.},
-    booktitle = {Seminar on {F}unctional {A}nalysis, 1979--1980 ({F}rench)},
+    booktitle = {Seminar on {F}unctional {A}nalysis, 1979--1980
+   ({F}rench)},
     mrclass = {46B20},
     mrnumber = {625846},
     mrreviewer = {G.\ Schechtman},

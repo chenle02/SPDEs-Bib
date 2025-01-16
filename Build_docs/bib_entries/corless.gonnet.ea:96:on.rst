@@ -8,7 +8,8 @@ corless.gonnet.ea:96:on
 .. code-block:: bibtex
 
    @article{corless.gonnet.ea:96:on,
-    author = {Corless, R. M. and Gonnet, G. H. and Hare, D. E. G. and Jeffrey, D. J. and Knuth, D. E.},
+    author = {Corless, R. M. and Gonnet, G. H. and Hare, D. E. G. and
+   Jeffrey, D. J. and Knuth, D. E.},
     doi = {10.1007/BF02124750},
     fjournal = {Advances in Computational Mathematics},
     issn = {1019-7168},

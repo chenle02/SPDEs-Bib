@@ -17,7 +17,8 @@ march.seppalainen:97:large
     mrnumber = {1481655},
     number = {4},
     pages = {935--965},
-    title = {Large deviations from the almost everywhere central limit theorem},
+    title = {Large deviations from the almost everywhere central limit
+   theorem},
     url = {https://doi.org/10.1023/A:1022614700678},
     volume = {10},
     year = {1997}

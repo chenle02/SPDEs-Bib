@@ -18,7 +18,8 @@ leung.li.ea:08:spectral
     mrreviewer = {On\'{e}simo\ Hern\'{a}ndez Lerma},
     number = {12},
     pages = {4427--4436},
-    title = {Spectral analysis of {B}rownian motion with jump boundary},
+    title = {Spectral analysis of {B}rownian motion with jump
+   boundary},
     url = {https://doi.org/10.1090/S0002-9939-08-09451-3},
     volume = {136},
     year = {2008}

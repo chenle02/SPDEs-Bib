@@ -18,7 +18,8 @@ mitrea.mitrea.ea:10:boundary
     mrreviewer = {H. Triebel},
     number = {8},
     pages = {2507--2585},
-    title = {Boundary value problems for the {L}aplacian in convex and semiconvex domains},
+    title = {Boundary value problems for the {L}aplacian in convex and
+   semiconvex domains},
     url = {https://doi.org/10.1016/j.jfa.2010.01.012},
     volume = {258},
     year = {2010}

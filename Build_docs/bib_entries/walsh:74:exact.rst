@@ -17,7 +17,8 @@ walsh:74:exact
     mrnumber = {353589},
     mrreviewer = {D. V. Chopra},
     pages = {147--152},
-    title = {Exact investigation of all effects for extensions of one-way {ANOVA} model with random effects},
+    title = {Exact investigation of all effects for extensions of
+   one-way {ANOVA} model with random effects},
     url = {https://doi.org/10.1007/BF02479810},
     volume = {26},
     year = {1974}

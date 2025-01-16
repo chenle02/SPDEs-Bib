@@ -18,7 +18,8 @@ deift.zhou:92:steepest
     mrreviewer = {John\ Albert},
     number = {1},
     pages = {119--123},
-    title = {A steepest descent method for oscillatory {R}iemann-{H}ilbert problems},
+    title = {A steepest descent method for oscillatory
+   {R}iemann-{H}ilbert problems},
     url = {https://doi.org/10.1090/S0273-0979-1992-00253-7},
     volume = {26},
     year = {1992}

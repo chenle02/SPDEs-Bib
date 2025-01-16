@@ -18,7 +18,8 @@ rassoul-agha.seppalainen:14:quenched
     mrreviewer = {Dmitri L. Finkelshtein},
     number = {3-4},
     pages = {711--750},
-    title = {Quenched point-to-point free energy for random walks in random potentials},
+    title = {Quenched point-to-point free energy for random walks in
+   random potentials},
     url = {https://doi.org/10.1007/s00440-013-0494-z},
     volume = {158},
     year = {2014}

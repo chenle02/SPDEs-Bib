@@ -9,7 +9,8 @@ xiao:95:self-intersection
 
    @article{xiao:95:self-intersection,
     author = {Xiao, Yi Min},
-    fjournal = {Chinese Annals of Mathematics. Series A. Shuxue Niankan. A Ji},
+    fjournal = {Chinese Annals of Mathematics. Series A. Shuxue Niankan. A
+   Ji},
     issn = {1000-8314},
     journal = {Chinese Ann. Math. Ser. A},
     mrclass = {60J60 (60G60)},
@@ -17,7 +18,9 @@ xiao:95:self-intersection
     mrreviewer = {Guang\ Lu\ Gong},
     number = {1},
     pages = {8--15},
-    title = {Self-intersection local times and dimensions of {$k$}-multiple times of two-parameter {O}rnstein-{U}hlenbeck processes},
+    title = {Self-intersection local times and dimensions of
+   {$k$}-multiple times of two-parameter
+   {O}rnstein-{U}hlenbeck processes},
     volume = {16},
     year = {1995}
    }

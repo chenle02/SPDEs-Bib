@@ -18,7 +18,8 @@ hu.li.ea:22:on
     mrreviewer = {Antti\ K\"{a}enm\"{a}ki},
     number = {1},
     pages = {485--513},
-    title = {On the intersection of dynamical covering sets with fractals},
+    title = {On the intersection of dynamical covering sets with
+   fractals},
     url = {https://doi.org/10.1007/s00209-021-02924-2},
     volume = {301},
     year = {2022}

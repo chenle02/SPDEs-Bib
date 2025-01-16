@@ -18,7 +18,8 @@ martinez.sanz-sole:06:lattice
     mrreviewer = {Catherine Donati-Martin},
     number = {3},
     pages = {343--368},
-    title = {A lattice scheme for stochastic partial differential equations of elliptic type in dimension {$d\geq 4$}},
+    title = {A lattice scheme for stochastic partial differential
+   equations of elliptic type in dimension {$d\geq 4$}},
     url = {https://doi.org/10.1007/s00245-006-0874-1},
     volume = {54},
     year = {2006}

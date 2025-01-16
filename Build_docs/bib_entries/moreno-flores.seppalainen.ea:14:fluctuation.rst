@@ -8,7 +8,8 @@ moreno-flores.seppalainen.ea:14:fluctuation
 .. code-block:: bibtex
 
    @article{moreno-flores.seppalainen.ea:14:fluctuation,
-    author = {Moreno Flores, Gregorio R. and Sepp\"{a}l\"{a}inen, Timo and Valk\'{o}, Benedek},
+    author = {Moreno Flores, Gregorio R. and Sepp\"{a}l\"{a}inen, Timo
+   and Valk\'{o}, Benedek},
     doi = {10.1214/EJP.v19-3307},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},
@@ -16,7 +17,8 @@ moreno-flores.seppalainen.ea:14:fluctuation
     mrnumber = {3263646},
     mrreviewer = {Antonio Auffinger},
     pages = {no. 89, 28},
-    title = {Fluctuation exponents for directed polymers in the intermediate disorder regime},
+    title = {Fluctuation exponents for directed polymers in the
+   intermediate disorder regime},
     url = {https://doi.org/10.1214/EJP.v19-3307},
     volume = {19},
     year = {2014}

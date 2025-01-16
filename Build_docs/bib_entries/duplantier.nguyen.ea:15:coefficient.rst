@@ -8,9 +8,11 @@ duplantier.nguyen.ea:15:coefficient
 .. code-block:: bibtex
 
    @article{duplantier.nguyen.ea:15:coefficient,
-    author = {Duplantier, Bertrand and Nguyen, Chi and Nguyen, Nga and Zinsmeister, Michel},
+    author = {Duplantier, Bertrand and Nguyen, Chi and Nguyen, Nga and
+   Zinsmeister, Michel},
     doi = {10.1007/s00023-014-0351-3},
-    fjournal = {Annales Henri Poincar\'{e}. A Journal of Theoretical and Mathematical Physics},
+    fjournal = {Annales Henri Poincar\'{e}. A Journal of Theoretical and
+   Mathematical Physics},
     issn = {1424-0637},
     journal = {Ann. Henri Poincar\'{e}},
     mrclass = {60J67 (30C50 30C55 30C80)},
@@ -18,7 +20,8 @@ duplantier.nguyen.ea:15:coefficient
     mrreviewer = {Fredrik Johansson Viklund},
     number = {6},
     pages = {1311--1395},
-    title = {The coefficient problem and multifractality of whole-plane {SLE} \& {LLE}},
+    title = {The coefficient problem and multifractality of whole-plane
+   {SLE} \& {LLE}},
     url = {https://doi.org/10.1007/s00023-014-0351-3},
     volume = {16},
     year = {2015}

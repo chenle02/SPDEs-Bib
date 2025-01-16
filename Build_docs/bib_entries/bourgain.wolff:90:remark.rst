@@ -18,7 +18,8 @@ bourgain.wolff:90:remark
     mrreviewer = {V.\ M.\ Isakov},
     number = {1},
     pages = {253--260},
-    title = {A remark on gradients of harmonic functions in dimension {$\geq 3$}},
+    title = {A remark on gradients of harmonic functions in dimension
+   {$\geq 3$}},
     url = {https://doi.org/10.4064/cm-60-61-1-253-260},
     volume = {60/61},
     year = {1990}

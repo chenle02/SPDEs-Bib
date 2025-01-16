@@ -9,7 +9,9 @@ balan.saidani:20:weak
 
    @article{balan.saidani:20:weak,
     author = {Balan, Raluca M. and Saidani, Becem},
-    fjournal = {Revue Roumaine de Math\'{e}matiques Pures et Appliqu\'{e}es. Romanian Journal of Pure and Applied Mathematics},
+    fjournal = {Revue Roumaine de Math\'{e}matiques Pures et
+   Appliqu\'{e}es. Romanian Journal of Pure and Applied
+   Mathematics},
     issn = {0035-3965},
     journal = {Rev. Roumaine Math. Pures Appl.},
     mrclass = {60B10 (60F17 60G20)},
@@ -17,7 +19,8 @@ balan.saidani:20:weak
     mrreviewer = {Hisao Watanabe},
     number = {2},
     pages = {177--200},
-    title = {Weak convergence and tightness of probability measures in an abstract {S}korohod space},
+    title = {Weak convergence and tightness of probability measures in
+   an abstract {S}korohod space},
     volume = {65},
     year = {2020}
    }

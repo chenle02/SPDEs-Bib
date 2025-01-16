@@ -18,7 +18,8 @@ groisman:06:totally
     mrreviewer = {Jaan Janno},
     number = {3-4},
     pages = {325--352},
-    title = {Totally discrete explicit and semi-implicit {E}uler methods for a blow-up problem in several space dimensions},
+    title = {Totally discrete explicit and semi-implicit {E}uler
+   methods for a blow-up problem in several space dimensions},
     url = {https://doi.org/10.1007/s00607-005-0136-0},
     volume = {76},
     year = {2006}

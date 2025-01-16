@@ -18,7 +18,8 @@ bourgain:95:aspects
     mrreviewer = {Mehmet\ Can},
     number = {2},
     pages = {105--140},
-    title = {Aspects of long time behaviour of solutions of nonlinear {H}amiltonian evolution equations},
+    title = {Aspects of long time behaviour of solutions of nonlinear
+   {H}amiltonian evolution equations},
     url = {https://doi.org/10.1007/BF01895664},
     volume = {5},
     year = {1995}

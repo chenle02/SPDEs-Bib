@@ -17,7 +17,9 @@ allouba.nane:13:interacting
     mrnumber = {3007250},
     number = {1},
     pages = {1250012, 31},
-    title = {Interacting time-fractional and {$\Delta^\nu$} {PDE}s systems via {B}rownian-time and inverse-stable-{L}\'{e}vy-time {B}rownian sheets},
+    title = {Interacting time-fractional and {$\Delta^\nu$} {PDE}s
+   systems via {B}rownian-time and
+   inverse-stable-{L}\'{e}vy-time {B}rownian sheets},
     url = {https://doi.org/10.1142/S0219493712500128},
     volume = {13},
     year = {2013}

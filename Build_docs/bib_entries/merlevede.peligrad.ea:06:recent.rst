@@ -8,7 +8,8 @@ merlevede.peligrad.ea:06:recent
 .. code-block:: bibtex
 
    @article{merlevede.peligrad.ea:06:recent,
-    author = {Merlev\`ede, Florence and Peligrad, Magda and Utev, Sergey},
+    author = {Merlev\`ede, Florence and Peligrad, Magda and Utev,
+   Sergey},
     doi = {10.1214/154957806100000202},
     fjournal = {Probability Surveys},
     journal = {Probab. Surv.},
@@ -16,7 +17,8 @@ merlevede.peligrad.ea:06:recent
     mrnumber = {2206313},
     mrreviewer = {Ken-ichi Yoshihara},
     pages = {1--36},
-    title = {Recent advances in invariance principles for stationary sequences},
+    title = {Recent advances in invariance principles for stationary
+   sequences},
     url = {https://doi.org/10.1214/154957806100000202},
     volume = {3},
     year = {2006}

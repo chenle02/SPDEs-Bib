@@ -9,7 +9,8 @@ kocubeui:77:extensions
 
    @article{kocubeui:77:extensions,
     author = {Ko\v{c}ubeu{i}, A. N.},
-    fjournal = {Akademija Nauk SSSR. Sibirskoe Otdelenie. Sibirskiu{i} Matemati\v{c}eskiu{i} \v{Z}urnal},
+    fjournal = {Akademija Nauk SSSR. Sibirskoe Otdelenie. Sibirskiu{i}
+   Matemati\v{c}eskiu{i} \v{Z}urnal},
     issn = {0037-4474},
     journal = {Sibirsk. Mat. \v{Z}.},
     mrclass = {47B25},

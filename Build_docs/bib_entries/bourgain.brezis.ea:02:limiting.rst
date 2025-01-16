@@ -18,7 +18,8 @@ bourgain.brezis.ea:02:limiting
     mrreviewer = {Maria\ A.\ Ragusa},
     note = {Dedicated to the memory of Thomas H. Wolff},
     pages = {77--101},
-    title = {Limiting embedding theorems for {$W^{s,p}$} when {$suparrow1$} and applications},
+    title = {Limiting embedding theorems for {$W^{s,p}$} when
+   {$suparrow1$} and applications},
     url = {https://doi.org/10.1007/BF02868470},
     volume = {87},
     year = {2002}

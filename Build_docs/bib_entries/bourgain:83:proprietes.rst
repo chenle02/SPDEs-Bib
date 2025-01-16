@@ -17,7 +17,8 @@ bourgain:83:proprietes
     mrreviewer = {Gilles\ Pisier},
     number = {4},
     pages = {421--428},
-    title = {Propri\'{e}t\'{e}s de d\'{e}composition pour les ensembles de {S}idon},
+    title = {Propri\'{e}t\'{e}s de d\'{e}composition pour les ensembles
+   de {S}idon},
     url = {http://www.numdam.org/item?id=BSMF_1983__111__421_0},
     volume = {111},
     year = {1983}

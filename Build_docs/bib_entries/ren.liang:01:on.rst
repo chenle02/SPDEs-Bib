@@ -17,7 +17,8 @@ ren.liang:01:on
     mrnumber = {1841623},
     number = {3},
     pages = {227--233},
-    title = {On the best constant in {M}arcinkiewicz-{Z}ygmund inequality},
+    title = {On the best constant in {M}arcinkiewicz-{Z}ygmund
+   inequality},
     url = {https://doi.org/10.1016/S0167-7152(01)00015-3},
     volume = {53},
     year = {2001}

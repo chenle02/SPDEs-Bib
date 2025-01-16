@@ -17,7 +17,8 @@ bourgain.kachkovskiy:19:anderson
     mrnumber = {3925103},
     number = {1},
     pages = {3--43},
-    title = {Anderson localization for two interacting quasiperiodic particles},
+    title = {Anderson localization for two interacting quasiperiodic
+   particles},
     url = {https://doi.org/10.1007/s00039-019-00478-4},
     volume = {29},
     year = {2019}

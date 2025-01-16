@@ -18,7 +18,8 @@ bourgain:14:application
     mrreviewer = {Mariza\ S.\ Simsen},
     number = {1},
     pages = {49--62},
-    title = {An application of group expansion to the {A}nderson-{B}ernoulli model},
+    title = {An application of group expansion to the
+   {A}nderson-{B}ernoulli model},
     url = {https://doi.org/10.1007/s00039-014-0260-0},
     volume = {24},
     year = {2014}

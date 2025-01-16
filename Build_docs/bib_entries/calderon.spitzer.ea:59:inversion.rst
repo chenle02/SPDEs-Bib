@@ -8,7 +8,8 @@ calderon.spitzer.ea:59:inversion
 .. code-block:: bibtex
 
    @article{calderon.spitzer.ea:59:inversion,
-    author = {Calder\'{o}n, Alberto and Spitzer, Frank and Widom, Harold},
+    author = {Calder\'{o}n, Alberto and Spitzer, Frank and Widom,
+   Harold},
     fjournal = {Illinois Journal of Mathematics},
     issn = {0019-2082},
     journal = {Illinois J. Math.},

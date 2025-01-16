@@ -17,7 +17,8 @@ comets.shiga.ea:04:probabilistic
     pages = {115--142},
     publisher = {Math. Soc. Japan, Tokyo},
     series = {Adv. Stud. Pure Math.},
-    title = {Probabilistic analysis of directed polymers in a random environment: a review},
+    title = {Probabilistic analysis of directed polymers in a random
+   environment: a review},
     url = {https://doi.org/10.2969/aspm/03910115},
     volume = {39},
     year = {2004}

@@ -8,7 +8,8 @@ dawson.fleischmann.ea:95:singularity
 .. code-block:: bibtex
 
    @article{dawson.fleischmann.ea:95:singularity,
-    author = {Dawson, Donald A. and Fleischmann, Klaus and Li, Yi and Mueller, Carl},
+    author = {Dawson, Donald A. and Fleischmann, Klaus and Li, Yi and
+   Mueller, Carl},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
     journal = {Ann. Probab.},
@@ -17,7 +18,8 @@ dawson.fleischmann.ea:95:singularity
     mrreviewer = {Steven N. Evans},
     number = {1},
     pages = {37--55},
-    title = {Singularity of super-{B}rownian local time at a point catalyst},
+    title = {Singularity of super-{B}rownian local time at a point
+   catalyst},
     url = {http://links.jstor.org/sici?sici=0091-1798(199501)23:1<37:SOSLTA>2.0.CO;2-Q&origin=MSN},
     volume = {23},
     year = {1995}

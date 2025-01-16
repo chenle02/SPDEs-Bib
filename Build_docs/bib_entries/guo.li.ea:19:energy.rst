@@ -18,7 +18,8 @@ guo.li.ea:19:energy
     mrreviewer = {Sebastian Franz},
     number = {3},
     pages = {1387--1404},
-    title = {Energy dissipative local discontinuous {G}alerkin methods for {K}eller-{S}egel chemotaxis model},
+    title = {Energy dissipative local discontinuous {G}alerkin methods
+   for {K}eller-{S}egel chemotaxis model},
     url = {https://doi.org/10.1007/s10915-018-0813-8},
     volume = {78},
     year = {2019}

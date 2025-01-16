@@ -18,7 +18,8 @@ davies:87:equivalence
     mrreviewer = {I. T. Mamedov},
     number = {1},
     pages = {88--103},
-    title = {The equivalence of certain heat kernel and {G}reen function bounds},
+    title = {The equivalence of certain heat kernel and {G}reen
+   function bounds},
     url = {https://doi.org/10.1016/0022-1236(87)90017-6},
     volume = {71},
     year = {1987}

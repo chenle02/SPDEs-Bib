@@ -17,7 +17,8 @@ cobb:58:on
     mrnumber = {109791},
     mrreviewer = {F. Harary},
     pages = {267--271},
-    title = {On powers of matrices with elements in the field of integers modulo {$2$}},
+    title = {On powers of matrices with elements in the field of
+   integers modulo {$2$}},
     url = {https://doi.org/10.2307/3610436},
     volume = {42},
     year = {1958}

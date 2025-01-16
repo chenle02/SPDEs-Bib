@@ -18,7 +18,8 @@ aizenman.simon:82:brownian
     mrreviewer = {M.\ Schechter},
     number = {2},
     pages = {209--273},
-    title = {Brownian motion and {H}arnack inequality for {S}chr\"odinger operators},
+    title = {Brownian motion and {H}arnack inequality for
+   {S}chr\"odinger operators},
     url = {https://doi.org/10.1002/cpa.3160350206},
     volume = {35},
     year = {1982}

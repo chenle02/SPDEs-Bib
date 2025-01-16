@@ -17,7 +17,8 @@ hu:19:preface
     mrnumber = {4066496},
     number = {3},
     pages = {627--628},
-    title = {Preface [{S}pecial issue on stochastic partial differential equations]},
+    title = {Preface [{S}pecial issue on stochastic partial
+   differential equations]},
     url = {https://doi.org/10.1007/s10473-019-0301-8},
     volume = {39},
     year = {2019}

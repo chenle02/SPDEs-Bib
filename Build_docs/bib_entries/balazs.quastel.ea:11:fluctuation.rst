@@ -18,7 +18,8 @@ balazs.quastel.ea:11:fluctuation
     mrreviewer = {Achim Klenke},
     number = {3},
     pages = {683--708},
-    title = {Fluctuation exponent of the {KPZ}/stochastic {B}urgers equation},
+    title = {Fluctuation exponent of the {KPZ}/stochastic {B}urgers
+   equation},
     url = {https://doi.org/10.1090/S0894-0347-2011-00692-9},
     volume = {24},
     year = {2011}

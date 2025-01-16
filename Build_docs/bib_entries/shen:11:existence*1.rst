@@ -16,7 +16,8 @@ shen:11:existence*1
     mrnumber = {2881848},
     number = {1},
     pages = {69--93},
-    title = {Existence of generalized traveling waves in time recurrent and space periodic monostable equations},
+    title = {Existence of generalized traveling waves in time recurrent
+   and space periodic monostable equations},
     volume = {1},
     year = {2011}
    }

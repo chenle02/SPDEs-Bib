@@ -18,7 +18,8 @@ haj-asz.koskela.ea:08:sobolev
     mrreviewer = {Jeremy T. Tyson},
     number = {5},
     pages = {1217--1234},
-    title = {Sobolev embeddings, extensions and measure density condition},
+    title = {Sobolev embeddings, extensions and measure density
+   condition},
     url = {https://doi.org/10.1016/j.jfa.2007.11.020},
     volume = {254},
     year = {2008}

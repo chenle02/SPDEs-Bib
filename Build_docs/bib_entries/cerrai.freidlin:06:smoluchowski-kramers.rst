@@ -18,7 +18,8 @@ cerrai.freidlin:06:smoluchowski-kramers
     mrreviewer = {Fran\c{c}ois Delarue},
     number = {4},
     pages = {657--689},
-    title = {Smoluchowski-{K}ramers approximation for a general class of {SPDE}s},
+    title = {Smoluchowski-{K}ramers approximation for a general class
+   of {SPDE}s},
     url = {https://doi.org/10.1007/s00028-006-0281-8},
     volume = {6},
     year = {2006}

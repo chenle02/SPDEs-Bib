@@ -14,7 +14,8 @@ edwards:65:statistical
     mrnumber = {0183442},
     mrreviewer = {C. Domb},
     pages = {613--624},
-    title = {The statistical mechanics of polymers with excluded volume},
+    title = {The statistical mechanics of polymers with excluded
+   volume},
     volume = {85},
     year = {1965}
    }

@@ -8,7 +8,8 @@ engy.mly.ea:94:roughness
 .. code-block:: bibtex
 
    @article{engy.mly.ea:94:roughness,
-    author = {Eng\o{}y, Thor and M\aa{}l\o{}y, Knut J\o{}rgen and Hansen, Alex and Roux, St\'ephane},
+    author = {Eng\o{}y, Thor and M\aa{}l\o{}y, Knut J\o{}rgen and
+   Hansen, Alex and Roux, St\'ephane},
     doi = {10.1103/PhysRevLett.73.834},
     issue = {6},
     journal = {Phys. Rev. Lett.},

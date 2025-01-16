@@ -18,7 +18,8 @@ bourgain.wang:04:anderson
     mrreviewer = {Fran\c{c}ois\ Germinet},
     number = {3},
     pages = {429--466},
-    title = {Anderson localization for time quasi-periodic random {S}chr\"{o}dinger and wave equations},
+    title = {Anderson localization for time quasi-periodic random
+   {S}chr\"{o}dinger and wave equations},
     url = {https://doi.org/10.1007/s00220-004-1099-2},
     volume = {248},
     year = {2004}

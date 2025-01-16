@@ -16,7 +16,8 @@ miller.ross:93:introduction
     pages = {xvi+366},
     publisher = {John Wiley \& Sons, Inc., New York},
     series = {A Wiley-Interscience Publication},
-    title = {An introduction to the fractional calculus and fractional differential equations},
+    title = {An introduction to the fractional calculus and fractional
+   differential equations},
     year = {1993}
    }
 

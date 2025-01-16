@@ -17,7 +17,8 @@ oksendal.zhang:12:backward
     mrreviewer = {Juan Li},
     number = {4},
     pages = {703--722},
-    title = {Backward stochastic differential equations with respect to general filtrations and applications to insider finance},
+    title = {Backward stochastic differential equations with respect to
+   general filtrations and applications to insider finance},
     url = {https://doi.org/10.31390/cosa.6.4.13},
     volume = {6},
     year = {2012}

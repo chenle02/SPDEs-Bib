@@ -8,7 +8,8 @@ arous.tannenbaum.ea:03:stochastic
 .. code-block:: bibtex
 
    @article{arous.tannenbaum.ea:03:stochastic,
-    author = {Arous, G\'{e}rard Ben and Tannenbaum, Allen and Zeitouni, Ofer},
+    author = {Arous, G\'{e}rard Ben and Tannenbaum, Allen and Zeitouni,
+   Ofer},
     doi = {10.1016/S0022-0396(03)00166-9},
     fjournal = {Journal of Differential Equations},
     issn = {0022-0396,1090-2732},
@@ -18,7 +19,8 @@ arous.tannenbaum.ea:03:stochastic
     mrreviewer = {Mustapha\ Mourragui},
     number = {1},
     pages = {119--142},
-    title = {Stochastic approximations to curve-shortening flows via particle systems},
+    title = {Stochastic approximations to curve-shortening flows via
+   particle systems},
     url = {https://doi.org/10.1016/S0022-0396(03)00166-9},
     volume = {195},
     year = {2003}

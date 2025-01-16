@@ -17,7 +17,8 @@ bevilacqua.flandoli:14:occupation
     mrnumber = {3231622},
     number = {10},
     pages = {3342--3361},
-    title = {An occupation time formula for semimartingales in {$\Bbb{R}^N$}},
+    title = {An occupation time formula for semimartingales in
+   {$\Bbb{R}^N$}},
     url = {https://doi.org/10.1016/j.spa.2014.04.014},
     volume = {124},
     year = {2014}

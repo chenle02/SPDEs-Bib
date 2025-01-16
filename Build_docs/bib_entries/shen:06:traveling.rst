@@ -9,7 +9,8 @@ shen:06:traveling
 
    @article{shen:06:traveling,
     author = {Shen, Wenxian},
-    fjournal = {Differential and Integral Equations. An International Journal for Theory \& Applications},
+    fjournal = {Differential and Integral Equations. An International
+   Journal for Theory \& Applications},
     issn = {0893-4983},
     journal = {Differential Integral Equations},
     mrclass = {35K55 (35K15 74N99 92D25)},

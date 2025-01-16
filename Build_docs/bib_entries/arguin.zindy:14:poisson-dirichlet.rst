@@ -17,7 +17,8 @@ arguin.zindy:14:poisson-dirichlet
     mrnumber = {3211001},
     number = {4},
     pages = {1446--1481},
-    title = {Poisson-{D}irichlet statistics for the extremes of a log-correlated {G}aussian field},
+    title = {Poisson-{D}irichlet statistics for the extremes of a
+   log-correlated {G}aussian field},
     url = {https://doi.org/10.1214/13-AAP952},
     volume = {24},
     year = {2014}

@@ -9,7 +9,8 @@ piterbarg:86:structure
 
    @article{piterbarg:86:structure,
     author = {Piterbarg, L. I.},
-    fjournal = {Akademiya Nauk SSSR. Teoriya Veroyatnosteu{i} i ee Primeneniya},
+    fjournal = {Akademiya Nauk SSSR. Teoriya Veroyatnosteu{i} i ee
+   Primeneniya},
     issn = {0040-361X},
     journal = {Teor. Veroyatnost. i Primenen.},
     mrclass = {60G15},
@@ -17,7 +18,8 @@ piterbarg:86:structure
     mrreviewer = {S. V. Khrushch\"{e}v},
     number = {3},
     pages = {550--559},
-    title = {The structure of the infinitesimal {$\sigma$}-algebra of {G}aussian processes and fields},
+    title = {The structure of the infinitesimal {$\sigma$}-algebra of
+   {G}aussian processes and fields},
     volume = {31},
     year = {1986}
    }

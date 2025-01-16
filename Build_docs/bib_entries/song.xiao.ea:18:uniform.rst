@@ -17,7 +17,8 @@ song.xiao.ea:18:uniform
     mrnumber = {3873782},
     mrreviewer = {Benjamin\ Arras},
     pages = {Paper No. 75, 10},
-    title = {Uniform {H}ausdorff dimension result for the inverse images of stable {L}\'{e}vy processes},
+    title = {Uniform {H}ausdorff dimension result for the inverse
+   images of stable {L}\'{e}vy processes},
     url = {https://doi.org/10.1214/18-ECP180},
     volume = {23},
     year = {2018}

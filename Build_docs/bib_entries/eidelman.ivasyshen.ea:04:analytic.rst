@@ -8,7 +8,8 @@ eidelman.ivasyshen.ea:04:analytic
 .. code-block:: bibtex
 
    @book{eidelman.ivasyshen.ea:04:analytic,
-    author = {Eidelman, Samuil D. and Ivasyshen, Stepan D. and Kochubei, Anatoly N.},
+    author = {Eidelman, Samuil D. and Ivasyshen, Stepan D. and Kochubei,
+   Anatoly N.},
     doi = {10.1007/978-3-0348-7844-9},
     isbn = {3-7643-7115-3},
     mrclass = {35-06 (35A08 35K30 35K45 35K55 35K65 35S10)},
@@ -17,7 +18,8 @@ eidelman.ivasyshen.ea:04:analytic
     pages = {x+387},
     publisher = {Birkh\"{a}user Verlag, Basel},
     series = {Operator Theory: Advances and Applications},
-    title = {Analytic methods in the theory of differential and pseudo-differential equations of parabolic type},
+    title = {Analytic methods in the theory of differential and
+   pseudo-differential equations of parabolic type},
     url = {https://doi.org/10.1007/978-3-0348-7844-9},
     volume = {152},
     year = {2004}

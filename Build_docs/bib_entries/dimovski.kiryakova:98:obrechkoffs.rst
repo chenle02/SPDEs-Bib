@@ -15,7 +15,8 @@ dimovski.kiryakova:98:obrechkoffs
     mrreviewer = {P. P. Teodorescu},
     pages = {557--576},
     publisher = {Bulgarian Acad. Sci., Sofia},
-    title = {Obrechkoff's generalization of the {L}aplace and {M}eijer transforms: origins and recent developments},
+    title = {Obrechkoff's generalization of the {L}aplace and {M}eijer
+   transforms: origins and recent developments},
     year = {1998}
    }
 

@@ -18,7 +18,8 @@ mueller:91:on
     mrreviewer = {A. Badrikian},
     number = {4},
     pages = {225--245},
-    title = {On the support of solutions to the heat equation with noise},
+    title = {On the support of solutions to the heat equation with
+   noise},
     url = {https://doi.org/10.1080/17442509108833738},
     volume = {37},
     year = {1991}

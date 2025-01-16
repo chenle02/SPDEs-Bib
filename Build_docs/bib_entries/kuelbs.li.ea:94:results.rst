@@ -17,7 +17,8 @@ kuelbs.li.ea:94:results
     mrreviewer = {Endre Cs\'{a}ki},
     number = {4},
     pages = {1879--1903},
-    title = {{$\liminf$} results for {G}aussian samples and {C}hung's functional {LIL}},
+    title = {{$\liminf$} results for {G}aussian samples and {C}hung's
+   functional {LIL}},
     url = {http://links.jstor.org/sici?sici=0091-1798(199410)22:4<1879:LIRFGS>2.0.CO;2-Y&origin=MSN},
     volume = {22},
     year = {1994}

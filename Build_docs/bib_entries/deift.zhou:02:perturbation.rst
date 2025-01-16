@@ -18,7 +18,8 @@ deift.zhou:02:perturbation
     mrreviewer = {Piotr\ G.\ Grinevich},
     number = {2},
     pages = {163--262},
-    title = {Perturbation theory for infinite-dimensional integrable systems on the line. {A} case study},
+    title = {Perturbation theory for infinite-dimensional integrable
+   systems on the line. {A} case study},
     url = {https://doi.org/10.1007/BF02392683},
     volume = {188},
     year = {2002}

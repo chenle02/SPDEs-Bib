@@ -8,7 +8,8 @@ corcuera.nualart.ea:14:asymptotics
 .. code-block:: bibtex
 
    @article{corcuera.nualart.ea:14:asymptotics,
-    author = {Corcuera, Jos\'{e} Manuel and Nualart, David and Podolskij, Mark},
+    author = {Corcuera, Jos\'{e} Manuel and Nualart, David and
+   Podolskij, Mark},
     doi = {10.1685/journal.caim.486},
     fjournal = {Communications in Applied and Industrial Mathematics},
     journal = {Commun. Appl. Ind. Math.},

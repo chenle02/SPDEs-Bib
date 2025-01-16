@@ -15,7 +15,8 @@ spitzer:68:uniform
     mrnumber = {243646},
     mrreviewer = {H.\ P.\ McKean, Jr.},
     pages = {973--989},
-    title = {Uniform motion with elastic collision of an infinite particle system},
+    title = {Uniform motion with elastic collision of an infinite
+   particle system},
     volume = {18},
     year = {1968/69}
    }

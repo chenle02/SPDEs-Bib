@@ -10,7 +10,8 @@ bourgain.rudnick:09:restriction
    @article{bourgain.rudnick:09:restriction,
     author = {Bourgain, Jean and Rudnick, Ze\'{e}v},
     doi = {10.1016/j.crma.2009.08.008},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {35R01 (35P15)},

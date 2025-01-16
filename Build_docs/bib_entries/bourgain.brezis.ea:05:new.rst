@@ -10,7 +10,8 @@ bourgain.brezis.ea:05:new
    @article{bourgain.brezis.ea:05:new,
     author = {Bourgain, Jean and Brezis, Ha\"{i}m and Nguyen, Hoai-Minh},
     doi = {10.1016/j.crma.2005.04.007},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {55M25 (46E35 47H11)},

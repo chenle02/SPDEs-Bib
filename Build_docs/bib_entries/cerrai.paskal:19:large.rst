@@ -18,7 +18,8 @@ cerrai.paskal:19:large
     mrreviewer = {Anamaria Savu},
     number = {4},
     pages = {1993--2032},
-    title = {Large deviations for fast transport stochastic {RDE}s with applications to the exit problem},
+    title = {Large deviations for fast transport stochastic {RDE}s with
+   applications to the exit problem},
     url = {https://doi.org/10.1214/18-AAP1439},
     volume = {29},
     year = {2019}

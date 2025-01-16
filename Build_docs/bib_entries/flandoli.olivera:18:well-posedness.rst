@@ -17,7 +17,8 @@ flandoli.olivera:18:well-posedness
     mrnumber = {3820404},
     number = {2},
     pages = {277--301},
-    title = {Well-posedness of the vector advection equations by stochastic perturbation},
+    title = {Well-posedness of the vector advection equations by
+   stochastic perturbation},
     url = {https://doi.org/10.1007/s00028-017-0401-7},
     volume = {18},
     year = {2018}

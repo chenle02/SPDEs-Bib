@@ -17,7 +17,8 @@ bourgain:17:on*1
     pages = {65--69},
     publisher = {Springer, Cham},
     series = {Lecture Notes in Math.},
-    title = {On a problem of {F}arrell and {V}ershynin in random matrix theory},
+    title = {On a problem of {F}arrell and {V}ershynin in random matrix
+   theory},
     volume = {2169},
     year = {2017}
    }

@@ -17,7 +17,8 @@ miles:79:on
     mrnumber = {532306},
     number = {1},
     pages = {181--190},
-    title = {On the {K}orteweg-de\thinspace {V}ries equation for a gradually varying channel},
+    title = {On the {K}orteweg-de\thinspace {V}ries equation for a
+   gradually varying channel},
     url = {https://doi.org/10.1017/S0022112079000100},
     volume = {91},
     year = {1979}

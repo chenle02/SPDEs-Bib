@@ -8,7 +8,8 @@ baik.ferrari.ea:14:convergence
 .. code-block:: bibtex
 
    @incollection{baik.ferrari.ea:14:convergence,
-    author = {Baik, Jinho and Ferrari, Patrik Lino and P\'ech\'e, Sandrine},
+    author = {Baik, Jinho and Ferrari, Patrik Lino and P\'ech\'e,
+   Sandrine},
     booktitle = {Singular phenomena and scaling in mathematical models},
     doi = {10.1007/978-3-319-00786-1\_5},
     isbn = {978-3-319-00785-4; 978-3-319-00786-1},
@@ -17,7 +18,8 @@ baik.ferrari.ea:14:convergence
     mrreviewer = {Benedikt\ Jahnel},
     pages = {91--110},
     publisher = {Springer, Cham},
-    title = {Convergence of the two-point function of the stationary {TASEP}},
+    title = {Convergence of the two-point function of the stationary
+   {TASEP}},
     url = {https://doi.org/10.1007/978-3-319-00786-1_5},
     year = {2014}
    }

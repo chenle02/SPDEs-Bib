@@ -16,7 +16,8 @@ ceyhan:16:density
     mrnumber = {3572643},
     number = {4},
     pages = {349--394},
-    title = {Density of a random interval catch digraph family and its use for testing uniformity},
+    title = {Density of a random interval catch digraph family and its
+   use for testing uniformity},
     volume = {14},
     year = {2016}
    }

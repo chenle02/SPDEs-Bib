@@ -18,7 +18,8 @@ tracy.widom:08:integral
     mrreviewer = {C\'{e}dric Bernardin},
     number = {3},
     pages = {815--844},
-    title = {Integral formulas for the asymmetric simple exclusion process},
+    title = {Integral formulas for the asymmetric simple exclusion
+   process},
     url = {https://doi.org/10.1007/s00220-008-0443-3},
     volume = {279},
     year = {2008}

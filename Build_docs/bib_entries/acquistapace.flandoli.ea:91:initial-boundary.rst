@@ -18,7 +18,8 @@ acquistapace.flandoli.ea:91:initial-boundary
     mrreviewer = {J.\ P.\ Babary},
     number = {1},
     pages = {89--118},
-    title = {Initial-boundary value problems and optimal control for nonautonomous parabolic systems},
+    title = {Initial-boundary value problems and optimal control for
+   nonautonomous parabolic systems},
     url = {https://doi.org/10.1137/0329005},
     volume = {29},
     year = {1991}

@@ -17,7 +17,8 @@ denis.stoica:04:general
     mrnumber = {2110016},
     mrreviewer = {Yoichi \^{O}shima},
     pages = {no. 23, 674--709},
-    title = {A general analytical result for non-linear {SPDE}'s and applications},
+    title = {A general analytical result for non-linear {SPDE}'s and
+   applications},
     url = {https://doi.org/10.1214/EJP.v9-223},
     volume = {9},
     year = {2004}

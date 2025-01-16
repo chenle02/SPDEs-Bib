@@ -15,7 +15,9 @@ halpin-healy.zhang:95:kinetic
     journal = {Phys. Rep.},
     number = {4},
     pages = {215--414},
-    title = {Kinetic roughening phenomena, stochastic growth, directed polymers and all that. Aspects of multidisciplinary statistical mechanics},
+    title = {Kinetic roughening phenomena, stochastic growth, directed
+   polymers and all that. Aspects of multidisciplinary
+   statistical mechanics},
     url = {https://www.sciencedirect.com/science/article/pii/037015739400087J},
     volume = {254},
     year = {1995}

@@ -10,7 +10,8 @@ hu:02:probability
    @article{hu:02:probability,
     author = {Hu, Yaozhong},
     doi = {10.1016/S0246-0203(01)01104-9},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {60H05 (60B11 60H07 60H15)},

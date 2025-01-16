@@ -18,7 +18,8 @@ nualart.zakai:86:generalized
     mrreviewer = {Ana Bela Cruzeiro},
     number = {2},
     pages = {255--280},
-    title = {Generalized stochastic integrals and the {M}alliavin calculus},
+    title = {Generalized stochastic integrals and the {M}alliavin
+   calculus},
     url = {https://doi.org/10.1007/BF00339940},
     volume = {73},
     year = {1986}

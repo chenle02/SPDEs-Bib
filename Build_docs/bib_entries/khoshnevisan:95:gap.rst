@@ -17,7 +17,8 @@ khoshnevisan:95:gap
     pages = {220--230},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {The gap between the past supremum and the future infimum of a transient {B}essel process},
+    title = {The gap between the past supremum and the future infimum
+   of a transient {B}essel process},
     url = {https://doi.org/10.1007/BFb0094214},
     volume = {1613},
     year = {1995}

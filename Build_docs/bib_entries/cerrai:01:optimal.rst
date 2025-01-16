@@ -18,7 +18,8 @@ cerrai:01:optimal
     mrreviewer = {Vivek S. Borkar},
     number = {6},
     pages = {1779--1816},
-    title = {Optimal control problems for stochastic reaction-diffusion systems with non-{L}ipschitz coefficients},
+    title = {Optimal control problems for stochastic reaction-diffusion
+   systems with non-{L}ipschitz coefficients},
     url = {https://doi.org/10.1137/S0363012999356465},
     volume = {39},
     year = {2001}

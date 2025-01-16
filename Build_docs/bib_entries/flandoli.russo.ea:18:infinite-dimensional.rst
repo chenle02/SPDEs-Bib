@@ -8,7 +8,8 @@ flandoli.russo.ea:18:infinite-dimensional
 .. code-block:: bibtex
 
    @article{flandoli.russo.ea:18:infinite-dimensional,
-    author = {Flandoli, Franco and Russo, Francesco and Zanco, Giovanni},
+    author = {Flandoli, Franco and Russo, Francesco and Zanco,
+   Giovanni},
     doi = {10.1007/s10959-016-0724-2},
     fjournal = {Journal of Theoretical Probability},
     issn = {0894-9840,1572-9230},
@@ -18,7 +19,8 @@ flandoli.russo.ea:18:infinite-dimensional
     mrreviewer = {Martin\ Ondrej\'{a}t},
     number = {2},
     pages = {789--826},
-    title = {Infinite-dimensional calculus under weak spatial regularity of the processes},
+    title = {Infinite-dimensional calculus under weak spatial
+   regularity of the processes},
     url = {https://doi.org/10.1007/s10959-016-0724-2},
     volume = {31},
     year = {2018}

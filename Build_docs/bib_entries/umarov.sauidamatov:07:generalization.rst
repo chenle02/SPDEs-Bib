@@ -17,7 +17,8 @@ umarov.sauidamatov:07:generalization
     mrnumber = {2451337},
     number = {4},
     pages = {463--465},
-    title = {Generalization of the {D}uhamel principle for fractional-order differential equations},
+    title = {Generalization of the {D}uhamel principle for
+   fractional-order differential equations},
     url = {https://doi.org/10.1134/S1064562407010267},
     volume = {412},
     year = {2007}

@@ -17,7 +17,8 @@ ellis:73:some
     mrnumber = {336340},
     mrreviewer = {Aldo J. Lazar},
     pages = {23--30},
-    title = {Some applications of convexity theory to {B}anach algebras},
+    title = {Some applications of convexity theory to {B}anach
+   algebras},
     url = {https://doi.org/10.7146/math.scand.a-11468},
     volume = {33},
     year = {1973}

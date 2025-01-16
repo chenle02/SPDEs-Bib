@@ -18,7 +18,8 @@ mueller:89:probability
     mrreviewer = {J. A. Chao},
     number = {4},
     pages = {999--1025},
-    title = {Probability and the equivalence of generalized {$H^p$} spaces},
+    title = {Probability and the equivalence of generalized {$H^p$}
+   spaces},
     url = {https://doi.org/10.1512/iumj.1989.38.38046},
     volume = {38},
     year = {1989}

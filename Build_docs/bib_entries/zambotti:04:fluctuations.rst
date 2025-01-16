@@ -18,7 +18,8 @@ zambotti:04:fluctuations
     mrreviewer = {Wolfgang\ Freudenberg},
     number = {3},
     pages = {315--339},
-    title = {Fluctuations for a {$\nabla\phi$} interface model with repulsion from a wall},
+    title = {Fluctuations for a {$\nabla\phi$} interface model with
+   repulsion from a wall},
     url = {https://doi.org/10.1007/s00440-004-0335-1},
     volume = {129},
     year = {2004}

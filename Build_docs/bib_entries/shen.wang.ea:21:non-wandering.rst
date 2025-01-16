@@ -17,7 +17,8 @@ shen.wang.ea:21:non-wandering
     mrnumber = {4278121},
     mrreviewer = {Jeffrey\ R.\ Anderson},
     pages = {110--143},
-    title = {Non-wandering points for autonomous/periodic parabolic equations on the circle},
+    title = {Non-wandering points for autonomous/periodic parabolic
+   equations on the circle},
     url = {https://doi.org/10.1016/j.jde.2021.06.023},
     volume = {297},
     year = {2021}

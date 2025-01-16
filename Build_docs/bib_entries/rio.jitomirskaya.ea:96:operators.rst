@@ -8,7 +8,8 @@ rio.jitomirskaya.ea:96:operators
 .. code-block:: bibtex
 
    @article{rio.jitomirskaya.ea:96:operators,
-    author = {del Rio, R. and Jitomirskaya, S. and Last, Y. and Simon, B.},
+    author = {del Rio, R. and Jitomirskaya, S. and Last, Y. and Simon,
+   B.},
     doi = {10.1007/BF02787106},
     fjournal = {Journal d'Analyse Math\'ematique},
     issn = {0021-7670,1565-8538},
@@ -17,7 +18,9 @@ rio.jitomirskaya.ea:96:operators
     mrnumber = {1428099},
     mrreviewer = {Horst\ Behncke},
     pages = {153--200},
-    title = {Operators with singular continuous spectrum. {IV}. {H}ausdorff dimensions, rank one perturbations, and localization},
+    title = {Operators with singular continuous spectrum. {IV}.
+   {H}ausdorff dimensions, rank one perturbations, and
+   localization},
     url = {https://doi.org/10.1007/BF02787106},
     volume = {69},
     year = {1996}

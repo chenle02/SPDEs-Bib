@@ -8,7 +8,8 @@ flandoli.maurelli.ea:14:noise
 .. code-block:: bibtex
 
    @article{flandoli.maurelli.ea:14:noise,
-    author = {Flandoli, Franco and Maurelli, Mario and Neklyudov, Mikhail},
+    author = {Flandoli, Franco and Maurelli, Mario and Neklyudov,
+   Mikhail},
     doi = {10.1007/s00021-014-0187-0},
     fjournal = {Journal of Mathematical Fluid Mechanics},
     issn = {1422-6928,1422-6952},
@@ -17,7 +18,8 @@ flandoli.maurelli.ea:14:noise
     mrnumber = {3267550},
     number = {4},
     pages = {805--822},
-    title = {Noise prevents infinite stretching of the passive field in a stochastic vector advection equation},
+    title = {Noise prevents infinite stretching of the passive field in
+   a stochastic vector advection equation},
     url = {https://doi.org/10.1007/s00021-014-0187-0},
     volume = {16},
     year = {2014}

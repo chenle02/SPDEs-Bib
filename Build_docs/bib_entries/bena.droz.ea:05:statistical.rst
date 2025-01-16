@@ -18,7 +18,8 @@ bena.droz.ea:05:statistical
     mrreviewer = {Hugo Touchette},
     number = {29},
     pages = {4269--4329},
-    title = {Statistical mechanics of equilibrium and nonequilibrium phase transitions: the {Y}ang-{L}ee formalism},
+    title = {Statistical mechanics of equilibrium and nonequilibrium
+   phase transitions: the {Y}ang-{L}ee formalism},
     url = {https://doi.org/10.1142/S0217979205032759},
     volume = {19},
     year = {2005}

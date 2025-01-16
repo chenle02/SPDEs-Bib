@@ -8,7 +8,8 @@ fedrizzi.flandoli.ea:17:regularity
 .. code-block:: bibtex
 
    @article{fedrizzi.flandoli.ea:17:regularity,
-    author = {Fedrizzi, Ennio and Flandoli, Franco and Priola, Enrico and Vovelle, Julien},
+    author = {Fedrizzi, Ennio and Flandoli, Franco and Priola, Enrico
+   and Vovelle, Julien},
     doi = {10.1214/17-EJP65},
     fjournal = {Electronic Journal of Probability},
     issn = {1083-6489},

@@ -18,7 +18,8 @@ hairer.pardoux:21:fluctuations
     mrreviewer = {D. Erhard},
     number = {1},
     pages = {151--217},
-    title = {Fluctuations around a homogenised semilinear random {PDE}},
+    title = {Fluctuations around a homogenised semilinear random
+   {PDE}},
     url = {https://doi.org/10.1007/s00205-020-01574-8},
     volume = {239},
     year = {2021}

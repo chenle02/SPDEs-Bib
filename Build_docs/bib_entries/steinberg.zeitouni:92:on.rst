@@ -10,7 +10,8 @@ steinberg.zeitouni:92:on
    @article{steinberg.zeitouni:92:on,
     author = {Steinberg, Y. and Zeitouni, O.},
     doi = {10.1109/18.165450},
-    fjournal = {Institute of Electrical and Electronics Engineers. Transactions on Information Theory},
+    fjournal = {Institute of Electrical and Electronics Engineers.
+   Transactions on Information Theory},
     issn = {0018-9448,1557-9654},
     journal = {IEEE Trans. Inform. Theory},
     mrclass = {62M40 (62F03 94A17)},

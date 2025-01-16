@@ -10,7 +10,8 @@ lyons:03:determinantal
    @article{lyons:03:determinantal,
     author = {Lyons, Russell},
     doi = {10.1007/s10240-003-0016-0},
-    fjournal = {Publications Math\'{e}matiques. Institut de Hautes \'{E}tudes Scientifiques},
+    fjournal = {Publications Math\'{e}matiques. Institut de Hautes
+   \'{E}tudes Scientifiques},
     issn = {0073-8301},
     journal = {Publ. Math. Inst. Hautes \'{E}tudes Sci.},
     mrclass = {60D05 (05C05 60C05 60E15)},

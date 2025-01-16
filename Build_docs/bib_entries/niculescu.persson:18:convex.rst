@@ -17,7 +17,8 @@ niculescu.persson:18:convex
     note = {A contemporary approach, Second edition of [ MR2178902]},
     pages = {xvii+415},
     publisher = {Springer, Cham},
-    series = {CMS Books in Mathematics/Ouvrages de Math\'{e}matiques de la SMC},
+    series = {CMS Books in Mathematics/Ouvrages de Math\'{e}matiques de
+   la SMC},
     title = {Convex functions and their applications},
     url = {https://doi.org/10.1007/978-3-319-78337-6},
     year = {2018}

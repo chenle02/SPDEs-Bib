@@ -18,7 +18,8 @@ nualart.ouknine:03:besov
     mrreviewer = {Anne Estrade},
     number = {2},
     pages = {451--470},
-    title = {Besov regularity of stochastic integrals with respect to the fractional {B}rownian motion with parameter {$H>1/2$}},
+    title = {Besov regularity of stochastic integrals with respect to
+   the fractional {B}rownian motion with parameter {$H>1/2$}},
     url = {https://doi.org/10.1023/A:1023530929480},
     volume = {16},
     year = {2003}

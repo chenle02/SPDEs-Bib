@@ -18,7 +18,8 @@ levine.sleeman:97:system
     mrreviewer = {Joerg-Uwe Loebus},
     number = {3},
     pages = {683--730},
-    title = {A system of reaction diffusion equations arising in the theory of reinforced random walks},
+    title = {A system of reaction diffusion equations arising in the
+   theory of reinforced random walks},
     url = {https://doi.org/10.1137/S0036139995291106},
     volume = {57},
     year = {1997}

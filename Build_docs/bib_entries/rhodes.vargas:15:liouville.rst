@@ -10,7 +10,9 @@ rhodes.vargas:15:liouville
    @article{rhodes.vargas:15:liouville,
     author = {Rhodes, R\'emi and Vargas, Vincent},
     doi = {10.1007/s11118-015-9467-4},
-    fjournal = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
+    fjournal = {Potential Analysis. An International Journal Devoted to
+   the Interactions between Potential Theory, Probability
+   Theory, Geometry and Functional Analysis},
     issn = {0926-2601,1572-929X},
     journal = {Potential Anal.},
     mrclass = {60J65 (60J55 60J60 60J70 60J80 60K40 81T40)},

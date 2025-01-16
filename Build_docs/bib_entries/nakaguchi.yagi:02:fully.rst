@@ -18,7 +18,8 @@ nakaguchi.yagi:02:fully
     mrreviewer = {Ji\v{r}\'{i} Nedoma},
     number = {2},
     pages = {385--429},
-    title = {Fully discrete approximation by {G}alerkin {R}unge-{K}utta methods for quasilinear parabolic systems},
+    title = {Fully discrete approximation by {G}alerkin {R}unge-{K}utta
+   methods for quasilinear parabolic systems},
     url = {https://doi.org/10.14492/hokmj/1350911871},
     volume = {31},
     year = {2002}

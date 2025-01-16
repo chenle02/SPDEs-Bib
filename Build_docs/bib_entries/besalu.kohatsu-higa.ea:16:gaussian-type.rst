@@ -18,7 +18,8 @@ besalu.kohatsu-higa.ea:16:gaussian-type
     mrreviewer = {Yaozhong Hu},
     number = {1},
     pages = {399--443},
-    title = {Gaussian-type lower bounds for the density of solutions of {SDE}s driven by fractional {B}rownian motions},
+    title = {Gaussian-type lower bounds for the density of solutions of
+   {SDE}s driven by fractional {B}rownian motions},
     url = {https://doi.org/10.1214/14-AOP977},
     volume = {44},
     year = {2016}

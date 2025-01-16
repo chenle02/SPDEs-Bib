@@ -17,7 +17,8 @@ biler.corrias.ea:11:large
     mrnumber = {2806487},
     number = {1},
     pages = {1--32},
-    title = {Large mass self-similar solutions of the parabolic-parabolic {K}eller-{S}egel model of chemotaxis},
+    title = {Large mass self-similar solutions of the
+   parabolic-parabolic {K}eller-{S}egel model of chemotaxis},
     url = {https://doi.org/10.1007/s00285-010-0357-5},
     volume = {63},
     year = {2011}

@@ -18,7 +18,8 @@ buckdahn.nualart:94:linear
     mrreviewer = {Jan Ub\o e},
     number = {4},
     pages = {501--526},
-    title = {Linear stochastic differential equations and {W}ick products},
+    title = {Linear stochastic differential equations and {W}ick
+   products},
     url = {https://doi.org/10.1007/BF01206230},
     volume = {99},
     year = {1994}

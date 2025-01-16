@@ -18,7 +18,8 @@ aizenman.contucci:98:on
     mrreviewer = {Barbara Gentz},
     number = {5-6},
     pages = {765--783},
-    title = {On the stability of the quenched state in mean-field spin-glass models},
+    title = {On the stability of the quenched state in mean-field
+   spin-glass models},
     url = {https://doi.org/10.1023/A:1023080223894},
     volume = {92},
     year = {1998}

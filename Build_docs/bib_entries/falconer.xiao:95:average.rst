@@ -18,7 +18,8 @@ falconer.xiao:95:average
     mrreviewer = {S.\ J.\ Taylor},
     number = {2},
     pages = {271--283},
-    title = {Average densities of the image and zero set of stable processes},
+    title = {Average densities of the image and zero set of stable
+   processes},
     url = {https://doi.org/10.1016/0304-4149(94)00050-4},
     volume = {55},
     year = {1995}

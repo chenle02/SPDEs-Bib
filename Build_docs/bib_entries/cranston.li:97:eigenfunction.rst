@@ -18,7 +18,8 @@ cranston.li:97:eigenfunction
     mrreviewer = {Ya.\ A.\ Rou{i}tberg},
     number = {11-12},
     pages = {1805--1836},
-    title = {Eigenfunction and harmonic function estimates in domains with horns and cusps},
+    title = {Eigenfunction and harmonic function estimates in domains
+   with horns and cusps},
     url = {https://doi.org/10.1080/03605309708821321},
     volume = {22},
     year = {1997}

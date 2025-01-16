@@ -17,7 +17,8 @@ marcus.rosen:94:laws
     mrreviewer = {Endre Cs\'{a}ki},
     number = {2},
     pages = {626--658},
-    title = {Laws of the iterated logarithm for the local times of symmetric {L}evy processes and recurrent random walks},
+    title = {Laws of the iterated logarithm for the local times of
+   symmetric {L}evy processes and recurrent random walks},
     url = {http://links.jstor.org/sici?sici=0091-1798(199404)22:2<626:LOTILF>2.0.CO;2-B&origin=MSN},
     volume = {22},
     year = {1994}

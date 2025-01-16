@@ -14,7 +14,8 @@ smoluchowski:06:zur
     journal = {Annalen der Physik},
     number = {14},
     pages = {756--780},
-    title = {Zur kinetischen Theorie der Brownschen Molekularbewegung und der Suspensionen},
+    title = {Zur kinetischen Theorie der Brownschen Molekularbewegung
+   und der Suspensionen},
     url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19063261405},
     volume = {326},
     year = {1906}

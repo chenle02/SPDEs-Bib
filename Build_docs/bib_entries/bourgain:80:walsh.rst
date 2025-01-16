@@ -9,7 +9,8 @@ bourgain:80:walsh
 
    @incollection{bourgain:80:walsh,
     author = {Bourgain, J.},
-    booktitle = {Seminar on {F}unctional {A}nalysis, 1979--1980 ({F}rench)},
+    booktitle = {Seminar on {F}unctional {A}nalysis, 1979--1980
+   ({F}rench)},
     mrclass = {46E30},
     mrnumber = {604387},
     mrreviewer = {G.\ Schechtman},

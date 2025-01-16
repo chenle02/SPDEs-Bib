@@ -8,7 +8,8 @@ bourgain.goldstein.ea:02:anderson
 .. code-block:: bibtex
 
    @article{bourgain.goldstein.ea:02:anderson,
-    author = {Bourgain, Jean and Goldstein, Michael and Schlag, Wilhelm},
+    author = {Bourgain, Jean and Goldstein, Michael and Schlag,
+   Wilhelm},
     doi = {10.1007/BF02392795},
     fjournal = {Acta Mathematica},
     issn = {0001-5962,1871-2509},
@@ -18,7 +19,8 @@ bourgain.goldstein.ea:02:anderson
     mrreviewer = {Svetlana\ Jitomirskaya},
     number = {1},
     pages = {41--86},
-    title = {Anderson localization for {S}chr\"{o}dinger operators on {$\bold Z^2$} with quasi-periodic potential},
+    title = {Anderson localization for {S}chr\"{o}dinger operators on
+   {$\bold Z^2$} with quasi-periodic potential},
     url = {https://doi.org/10.1007/BF02392795},
     volume = {188},
     year = {2002}

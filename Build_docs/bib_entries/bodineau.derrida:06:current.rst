@@ -18,7 +18,8 @@ bodineau.derrida:06:current
     mrreviewer = {Ellen\ Saada},
     number = {2},
     pages = {277--300},
-    title = {Current large deviations for asymmetric exclusion processes with open boundaries},
+    title = {Current large deviations for asymmetric exclusion
+   processes with open boundaries},
     url = {https://doi.org/10.1007/s10955-006-9048-4},
     volume = {123},
     year = {2006}

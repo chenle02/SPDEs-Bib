@@ -8,7 +8,8 @@ bourgain.garaev.ea:12:on
 .. code-block:: bibtex
 
    @article{bourgain.garaev.ea:12:on,
-    author = {Bourgain, Jean and Garaev, Moubariz Z. and Konyagin, Sergei V. and Shparlinski, Igor E.},
+    author = {Bourgain, Jean and Garaev, Moubariz Z. and Konyagin,
+   Sergei V. and Shparlinski, Igor E.},
     doi = {10.1137/110850414},
     fjournal = {SIAM Journal on Computing},
     issn = {0097-5397,1095-7111},

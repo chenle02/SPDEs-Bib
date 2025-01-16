@@ -18,7 +18,8 @@ hu.nualart.ea:14:central
     mrreviewer = {Gennady Shaikhet},
     number = {1},
     pages = {168--203},
-    title = {Central limit theorem for an additive functional of the fractional {B}rownian motion},
+    title = {Central limit theorem for an additive functional of the
+   fractional {B}rownian motion},
     url = {https://doi.org/10.1214/12-AOP825},
     volume = {42},
     year = {2014}

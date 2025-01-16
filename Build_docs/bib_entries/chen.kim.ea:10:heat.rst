@@ -18,7 +18,8 @@ chen.kim.ea:10:heat
     mrreviewer = {Andrzej Stos},
     number = {5},
     pages = {1307--1329},
-    title = {Heat kernel estimates for the {D}irichlet fractional {L}aplacian},
+    title = {Heat kernel estimates for the {D}irichlet fractional
+   {L}aplacian},
     url = {https://doi.org/10.4171/JEMS/231},
     volume = {12},
     year = {2010}

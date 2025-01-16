@@ -11,7 +11,8 @@ edwards.wilkinson:82:surface
     author = {Edwards, Samuel Frederick and Wilkinson, D. R.},
     doi = {10.1098/rspa.1982.0056},
     eprint = {https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.1982.0056},
-    fjournal = {Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences},
+    fjournal = {Proceedings of the Royal Society of London. A.
+   Mathematical and Physical Sciences},
     journal = {Proc. R. Soc. London A},
     number = {1780},
     pages = {17--31},

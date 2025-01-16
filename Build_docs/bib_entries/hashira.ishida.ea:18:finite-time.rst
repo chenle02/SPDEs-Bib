@@ -17,7 +17,8 @@ hashira.ishida.ea:18:finite-time
     mrnumber = {3770055},
     number = {10},
     pages = {6459--6485},
-    title = {Finite-time blow-up for quasilinear degenerate {K}eller-{S}egel systems of parabolic-parabolic type},
+    title = {Finite-time blow-up for quasilinear degenerate
+   {K}eller-{S}egel systems of parabolic-parabolic type},
     url = {https://doi.org/10.1016/j.jde.2018.01.038},
     volume = {264},
     year = {2018}

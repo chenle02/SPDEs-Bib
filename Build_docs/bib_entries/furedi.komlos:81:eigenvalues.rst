@@ -10,7 +10,8 @@ furedi.komlos:81:eigenvalues
    @article{furedi.komlos:81:eigenvalues,
     author = {F\"{u}redi, Z. and Koml\'{o}s, J.},
     doi = {10.1007/BF02579329},
-    fjournal = {Combinatorica. An International Journal of the J\'{a}nos Bolyai Mathematical Society},
+    fjournal = {Combinatorica. An International Journal of the J\'{a}nos
+   Bolyai Mathematical Society},
     issn = {0209-9683},
     journal = {Combinatorica},
     mrclass = {15A18 (05C50 15A52 60F99)},

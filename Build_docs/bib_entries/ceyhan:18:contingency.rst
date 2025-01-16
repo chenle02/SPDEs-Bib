@@ -17,7 +17,8 @@ ceyhan:18:contingency
     mrnumber = {3895974},
     number = {2},
     pages = {125--157},
-    title = {A contingency table approach based on nearest neighbour relations for testing self and mixed correspondence},
+    title = {A contingency table approach based on nearest neighbour
+   relations for testing self and mixed correspondence},
     url = {https://doi.org/10.2436/20.8080.02.72},
     volume = {42},
     year = {2018}

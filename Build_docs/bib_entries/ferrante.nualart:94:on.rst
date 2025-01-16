@@ -18,7 +18,8 @@ ferrante.nualart:94:on
     mrreviewer = {Vigirdas Mackevi\v{c}ius},
     number = {2},
     pages = {239--250},
-    title = {On the {M}arkov property of a stochastic difference equation},
+    title = {On the {M}arkov property of a stochastic difference
+   equation},
     url = {https://doi.org/10.1016/0304-4149(94)90027-2},
     volume = {52},
     year = {1994}

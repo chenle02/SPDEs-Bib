@@ -17,7 +17,8 @@ nualart.zakai:89:on
     mrreviewer = {Jerzy Szulga},
     number = {4},
     pages = {1536--1540},
-    title = {On the relation between the {S}tratonovich and {O}gawa integrals},
+    title = {On the relation between the {S}tratonovich and {O}gawa
+   integrals},
     url = {http://links.jstor.org/sici?sici=0091-1798(198910)17:4<1536:OTRBTS>2.0.CO;2-#&origin=MSN},
     volume = {17},
     year = {1989}

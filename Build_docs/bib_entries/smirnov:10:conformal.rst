@@ -18,7 +18,8 @@ smirnov:10:conformal
     mrreviewer = {Roland\ M.\ Friedrich},
     number = {2},
     pages = {1435--1467},
-    title = {Conformal invariance in random cluster models. {I}. {H}olomorphic fermions in the {I}sing model},
+    title = {Conformal invariance in random cluster models. {I}.
+   {H}olomorphic fermions in the {I}sing model},
     url = {https://doi.org/10.4007/annals.2010.172.1441},
     volume = {172},
     year = {2010}

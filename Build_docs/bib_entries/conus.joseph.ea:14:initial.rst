@@ -8,9 +8,11 @@ conus.joseph.ea:14:initial
 .. code-block:: bibtex
 
    @article{conus.joseph.ea:14:initial,
-    author = {Conus, Daniel and Joseph, Mathew and Khoshnevisan, Davar and Shiu, Shang-Yuan},
+    author = {Conus, Daniel and Joseph, Mathew and Khoshnevisan, Davar
+   and Shiu, Shang-Yuan},
     doi = {10.1214/12-AIHP505},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60H15},

@@ -18,7 +18,8 @@ kochubeui:88:parabolic
     mrreviewer = {Joerg-Uwe\ Loebus},
     number = {5},
     pages = {909--934, 1118},
-    title = {Parabolic pseudodifferential equations, hypersingular integrals and {M}arkov processes},
+    title = {Parabolic pseudodifferential equations, hypersingular
+   integrals and {M}arkov processes},
     url = {https://doi.org/10.1070/IM1989v033n02ABEH000825},
     volume = {52},
     year = {1988}

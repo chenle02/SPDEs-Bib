@@ -8,7 +8,8 @@ bauerschmidt.brydges.ea:15:renormalisation
 .. code-block:: bibtex
 
    @article{bauerschmidt.brydges.ea:15:renormalisation,
-    author = {Bauerschmidt, Roland and Brydges, David C. and Slade, Gordon},
+    author = {Bauerschmidt, Roland and Brydges, David C. and Slade,
+   Gordon},
     doi = {10.1007/s10955-014-1165-x},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715},
@@ -17,7 +18,8 @@ bauerschmidt.brydges.ea:15:renormalisation
     mrnumber = {3332940},
     number = {3},
     pages = {492--529},
-    title = {A renormalisation group method. {III}. {P}erturbative analysis},
+    title = {A renormalisation group method. {III}. {P}erturbative
+   analysis},
     url = {https://doi.org/10.1007/s10955-014-1165-x},
     volume = {159},
     year = {2015}

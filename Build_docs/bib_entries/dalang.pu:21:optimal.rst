@@ -17,7 +17,9 @@ dalang.pu:21:optimal
     mrnumber = {4161864},
     mrreviewer = {Markus Kunze},
     pages = {359--393},
-    title = {Optimal lower bounds on hitting probabilities for non-linear systems of stochastic fractional heat equations},
+    title = {Optimal lower bounds on hitting probabilities for
+   non-linear systems of stochastic fractional heat
+   equations},
     url = {https://doi.org/10.1016/j.spa.2020.07.015},
     volume = {131},
     year = {2021}

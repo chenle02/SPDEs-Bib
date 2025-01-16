@@ -9,7 +9,9 @@ zabczyk:76:stochastic
 
    @incollection{zabczyk:76:stochastic,
     author = {Zabczyk, J.},
-    booktitle = {Control theory and topics in functional analysis ({I}nternat. {S}em., {I}nternat. {C}entre {T}heoret. {P}hys., {T}rieste, 1974), {V}ol. {III}},
+    booktitle = {Control theory and topics in functional analysis
+   ({I}nternat. {S}em., {I}nternat. {C}entre {T}heoret.
+   {P}hys., {T}rieste, 1974), {V}ol. {III}},
     mrclass = {93E20},
     mrnumber = {529600},
     pages = {187--224},

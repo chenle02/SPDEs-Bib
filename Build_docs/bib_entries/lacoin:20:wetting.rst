@@ -16,7 +16,9 @@ lacoin:20:wetting
     mrclass = {82B27 (60K35 60K37 82B44)},
     mrnumber = {4033749},
     pages = {1--62},
-    title = {Wetting and layering for solid-on-solid {II}: {L}ayering transitions, {G}ibbs states, and regularity of the free energy},
+    title = {Wetting and layering for solid-on-solid {II}: {L}ayering
+   transitions, {G}ibbs states, and regularity of the free
+   energy},
     url = {https://doi.org/10.5802/jep.110},
     volume = {7},
     year = {2020}

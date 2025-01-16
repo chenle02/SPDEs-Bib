@@ -17,7 +17,8 @@ mierczynski.shen:11:persistence
     mrnumber = {2836650},
     number = {3},
     pages = {551--571},
-    title = {Persistence in forward nonautonomous competitive systems of parabolic equations},
+    title = {Persistence in forward nonautonomous competitive systems
+   of parabolic equations},
     url = {https://doi.org/10.1007/s10884-010-9181-2},
     volume = {23},
     year = {2011}

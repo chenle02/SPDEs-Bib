@@ -8,7 +8,8 @@ gorenflo.luchko.ea:00:wright
 .. code-block:: bibtex
 
    @incollection{gorenflo.luchko.ea:00:wright,
-    author = {Gorenflo, Rudolf and Luchko, Yuri and Mainardi, Francesco},
+    author = {Gorenflo, Rudolf and Luchko, Yuri and Mainardi,
+   Francesco},
     doi = {10.1016/S0377-0427(00)00288-0},
     fjournal = {Journal of Computational and Applied Mathematics},
     issn = {0377-0427},
@@ -19,7 +20,8 @@ gorenflo.luchko.ea:00:wright
     note = {Higher transcendental functions and their applications},
     number = {1-2},
     pages = {175--191},
-    title = {Wright functions as scale-invariant solutions of the diffusion-wave equation},
+    title = {Wright functions as scale-invariant solutions of the
+   diffusion-wave equation},
     url = {https://doi.org/10.1016/S0377-0427(00)00288-0},
     volume = {118},
     year = {2000}

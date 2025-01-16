@@ -17,7 +17,8 @@ zabczyk:99:infinite-dimensional
     mrreviewer = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
     number = {2},
     pages = {47--59},
-    title = {Infinite-dimensional diffusions in modelling and analysis},
+    title = {Infinite-dimensional diffusions in modelling and
+   analysis},
     volume = {101},
     year = {1999}
    }

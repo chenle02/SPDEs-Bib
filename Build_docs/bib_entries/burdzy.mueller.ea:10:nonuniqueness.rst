@@ -17,7 +17,8 @@ burdzy.mueller.ea:10:nonuniqueness
     mrreviewer = {Jie Xiong},
     number = {4},
     pages = {1481--1507 (2012)},
-    title = {Nonuniqueness for nonnegative solutions of parabolic stochastic partial differential equations},
+    title = {Nonuniqueness for nonnegative solutions of parabolic
+   stochastic partial differential equations},
     url = {http://projecteuclid.org/euclid.ijm/1348505538},
     volume = {54},
     year = {2010}

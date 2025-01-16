@@ -8,7 +8,8 @@ brzezniak.goldys.ea:20:existence
 .. code-block:: bibtex
 
    @article{brzezniak.goldys.ea:20:existence,
-    author = {Brze\'{z}niak, Zdzislaw and Goldys, Beniamin and Le, Kim Ngan},
+    author = {Brze\'{z}niak, Zdzislaw and Goldys, Beniamin and Le, Kim
+   Ngan},
     doi = {10.1016/j.jde.2020.06.061},
     fjournal = {Journal of Differential Equations},
     issn = {0022-0396,1090-2732},
@@ -18,7 +19,8 @@ brzezniak.goldys.ea:20:existence
     mrreviewer = {Le\ Chen},
     number = {11},
     pages = {9471--9507},
-    title = {Existence of a unique solution and invariant measures for the stochastic {L}andau-{L}ifshitz-{B}loch equation},
+    title = {Existence of a unique solution and invariant measures for
+   the stochastic {L}andau-{L}ifshitz-{B}loch equation},
     url = {https://doi.org/10.1016/j.jde.2020.06.061},
     volume = {269},
     year = {2020}

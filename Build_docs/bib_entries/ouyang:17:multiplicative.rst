@@ -17,7 +17,8 @@ ouyang:17:multiplicative
     pages = {67--83},
     publisher = {Birkh\"{a}user/Springer, Cham},
     series = {Progr. Probab.},
-    title = {Multiplicative functional for the heat equation on manifolds with boundary},
+    title = {Multiplicative functional for the heat equation on
+   manifolds with boundary},
     url = {https://doi.org/10.1007/978-3-319-59671-6_3},
     volume = {72},
     year = {2017}

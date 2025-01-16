@@ -17,7 +17,8 @@ bourgain:16:on
     mrnumber = {3481179},
     mrreviewer = {Hidenori\ Katsurada},
     pages = {355--367},
-    title = {On the {F}ourier-{W}alsh spectrum of the {M}oebius function, {II}},
+    title = {On the {F}ourier-{W}alsh spectrum of the {M}oebius
+   function, {II}},
     url = {https://doi.org/10.1007/s11854-016-0012-1},
     volume = {128},
     year = {2016}

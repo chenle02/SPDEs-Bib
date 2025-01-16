@@ -8,7 +8,8 @@ cranston.scheutzow.ea:00:linear
 .. code-block:: bibtex
 
    @article{cranston.scheutzow.ea:00:linear,
-    author = {Cranston, Mike and Scheutzow, Michael and Steinsaltz, David},
+    author = {Cranston, Mike and Scheutzow, Michael and Steinsaltz,
+   David},
     doi = {10.1214/aop/1019160510},
     fjournal = {The Annals of Probability},
     issn = {0091-1798,2168-894X},

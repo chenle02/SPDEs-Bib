@@ -16,7 +16,8 @@ suzuki:05:free
     mrreviewer = {Gary M. Lieberman},
     pages = {xiv+366},
     publisher = {Birkh\"{a}user Boston, Inc., Boston, MA},
-    series = {Progress in Nonlinear Differential Equations and their Applications},
+    series = {Progress in Nonlinear Differential Equations and their
+   Applications},
     title = {Free energy and self-interacting particles},
     url = {https://doi.org/10.1007/0-8176-4436-9},
     volume = {62},

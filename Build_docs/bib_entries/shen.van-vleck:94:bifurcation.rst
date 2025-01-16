@@ -16,7 +16,8 @@ shen.van-vleck:94:bifurcation
     mrnumber = {1274637},
     number = {2},
     pages = {227--245},
-    title = {Bifurcation phenomena in a condensed two-phase combustion model},
+    title = {Bifurcation phenomena in a condensed two-phase combustion
+   model},
     volume = {2},
     year = {1994}
    }

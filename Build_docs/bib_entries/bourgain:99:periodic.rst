@@ -9,7 +9,8 @@ bourgain:99:periodic
 
    @incollection{bourgain:99:periodic,
     author = {Bourgain, Jean},
-    booktitle = {Harmonic analysis and partial differential equations ({C}hicago, {IL}, 1996)},
+    booktitle = {Harmonic analysis and partial differential equations
+   ({C}hicago, {IL}, 1996)},
     isbn = {0-226-10456-7},
     mrclass = {35L70 (35B10)},
     mrnumber = {1743856},

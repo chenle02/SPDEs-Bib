@@ -18,7 +18,8 @@ flandoli.romito:02:partial
     mrreviewer = {Marek\ Capi\'{n}ski},
     number = {6},
     pages = {2207--2241},
-    title = {Partial regularity for the stochastic {N}avier-{S}tokes equations},
+    title = {Partial regularity for the stochastic {N}avier-{S}tokes
+   equations},
     url = {https://doi.org/10.1090/S0002-9947-02-02975-6},
     volume = {354},
     year = {2002}

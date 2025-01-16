@@ -17,7 +17,8 @@ fox:61:g
     mrnumber = {131578},
     mrreviewer = {K. Chandrasekharan},
     pages = {395--429},
-    title = {The {$G$} and {$H$} functions as symmetrical {F}ourier kernels},
+    title = {The {$G$} and {$H$} functions as symmetrical {F}ourier
+   kernels},
     url = {https://doi.org/10.2307/1993339},
     volume = {98},
     year = {1961}

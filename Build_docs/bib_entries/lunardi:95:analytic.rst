@@ -16,7 +16,8 @@ lunardi:95:analytic
     pages = {xviii+424},
     publisher = {Birkh\"{a}user/Springer Basel AG, Basel},
     series = {Modern Birkh\"{a}user Classics},
-    title = {Analytic semigroups and optimal regularity in parabolic problems},
+    title = {Analytic semigroups and optimal regularity in parabolic
+   problems},
     year = {1995}
    }
 

@@ -18,7 +18,8 @@ chang.rao:83:bimeasures
     mrreviewer = {Habib Salehi},
     number = {1},
     pages = {21--55},
-    title = {Bimeasures and sampling theorems for weakly harmonizable processes},
+    title = {Bimeasures and sampling theorems for weakly harmonizable
+   processes},
     url = {https://doi.org/10.1080/07362998308809003},
     volume = {1},
     year = {1983}

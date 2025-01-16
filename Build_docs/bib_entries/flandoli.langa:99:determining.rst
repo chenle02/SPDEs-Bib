@@ -17,7 +17,8 @@ flandoli.langa:99:determining
     mrnumber = {1687791},
     number = {1-2},
     pages = {1--25},
-    title = {Determining modes for dissipative random dynamical systems},
+    title = {Determining modes for dissipative random dynamical
+   systems},
     url = {https://doi.org/10.1080/17442509908834184},
     volume = {66},
     year = {1999}

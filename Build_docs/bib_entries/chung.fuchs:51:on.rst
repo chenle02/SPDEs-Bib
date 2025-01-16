@@ -16,7 +16,8 @@ chung.fuchs:51:on
     mrnumber = {40610},
     mrreviewer = {J. L. Doob},
     pages = {12},
-    title = {On the distribution of values of sums of random variables},
+    title = {On the distribution of values of sums of random
+   variables},
     volume = {6},
     year = {1951}
    }

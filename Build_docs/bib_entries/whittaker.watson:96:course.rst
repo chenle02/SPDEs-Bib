@@ -13,7 +13,10 @@ whittaker.watson:96:course
     isbn = {0-521-58807-3},
     mrclass = {01A75 (30-01 33-01)},
     mrnumber = {1424469},
-    note = {An introduction to the general theory of infinite processes and of analytic functions; with an account of the principal transcendental functions, Reprint of the fourth (1927) edition},
+    note = {An introduction to the general theory of infinite
+   processes and of analytic functions; with an account of the
+   principal transcendental functions, Reprint of the fourth
+   (1927) edition},
     pages = {vi+608},
     publisher = {Cambridge University Press, Cambridge},
     series = {Cambridge Mathematical Library},

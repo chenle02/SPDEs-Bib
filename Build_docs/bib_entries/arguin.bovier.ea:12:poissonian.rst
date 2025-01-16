@@ -8,7 +8,8 @@ arguin.bovier.ea:12:poissonian
 .. code-block:: bibtex
 
    @article{arguin.bovier.ea:12:poissonian,
-    author = {Arguin, Louis-Pierre and Bovier, Anton and Kistler, Nicola},
+    author = {Arguin, Louis-Pierre and Bovier, Anton and Kistler,
+   Nicola},
     doi = {10.1214/11-AAP809},
     fjournal = {The Annals of Applied Probability},
     issn = {1050-5164},
@@ -18,7 +19,8 @@ arguin.bovier.ea:12:poissonian
     mrreviewer = {Leonid V. Bogachev},
     number = {4},
     pages = {1693--1711},
-    title = {Poissonian statistics in the extremal process of branching {B}rownian motion},
+    title = {Poissonian statistics in the extremal process of branching
+   {B}rownian motion},
     url = {https://doi.org/10.1214/11-AAP809},
     volume = {22},
     year = {2012}

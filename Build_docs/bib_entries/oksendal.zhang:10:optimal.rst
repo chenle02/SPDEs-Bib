@@ -16,7 +16,8 @@ oksendal.zhang:10:optimal
     mrclass = {93E20 (49K45 49N10 60H07 60H20)},
     mrnumber = {2678923},
     pages = {Art. ID 329185, 25},
-    title = {Optimal control with partial information for stochastic {V}olterra equations},
+    title = {Optimal control with partial information for stochastic
+   {V}olterra equations},
     url = {https://doi.org/10.1155/2010/329185},
     year = {2010}
    }

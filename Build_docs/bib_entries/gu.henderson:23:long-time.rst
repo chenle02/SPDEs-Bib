@@ -16,7 +16,8 @@ gu.henderson:23:long-time
     mrnumber = {4527140},
     number = {2},
     pages = {902--954},
-    title = {Long-time behaviour for a nonlocal model from directed polymers},
+    title = {Long-time behaviour for a nonlocal model from directed
+   polymers},
     volume = {36},
     year = {2023}
    }

@@ -18,7 +18,8 @@ luttinger:83:asymptotic
     mrreviewer = {Tack-Wang Lee},
     number = {8},
     pages = {2070--2073},
-    title = {The asymptotic evaluation of a class of path integrals. {II}},
+    title = {The asymptotic evaluation of a class of path integrals.
+   {II}},
     url = {https://doi.org/10.1063/1.525949},
     volume = {24},
     year = {1983}

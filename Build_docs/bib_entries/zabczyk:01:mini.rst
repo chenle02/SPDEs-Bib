@@ -15,7 +15,8 @@ zabczyk:01:mini
     pages = {257--284},
     publisher = {Birkh\"{a}user, Basel},
     series = {Progr. Probab.},
-    title = {A mini course on stochastic partial differential equations},
+    title = {A mini course on stochastic partial differential
+   equations},
     volume = {49},
     year = {2001}
    }

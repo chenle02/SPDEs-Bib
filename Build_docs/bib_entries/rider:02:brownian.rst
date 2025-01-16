@@ -18,7 +18,8 @@ rider:02:brownian
     mrreviewer = {Kiyomasa Narita},
     number = {3},
     pages = {463--480},
-    title = {Brownian motion with restoring drift: micro-canonical ensemble and the thermodynamic limit},
+    title = {Brownian motion with restoring drift: micro-canonical
+   ensemble and the thermodynamic limit},
     url = {https://doi.org/10.1007/s00220-002-0720-5},
     volume = {231},
     year = {2002}

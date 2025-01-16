@@ -16,7 +16,8 @@ azmoodeh.nourdin:19:almost
     mrnumber = {3916341},
     mrreviewer = {Yong Chen},
     pages = {Paper No. 9, 12},
-    title = {Almost sure limit theorems on {W}iener chaos: the non-central case},
+    title = {Almost sure limit theorems on {W}iener chaos: the
+   non-central case},
     url = {https://doi.org/10.1214/19-ECP212},
     volume = {24},
     year = {2019}

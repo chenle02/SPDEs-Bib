@@ -17,7 +17,8 @@ cerrai.clement:07:schauder
     mrnumber = {2363317},
     number = {2},
     pages = {287--321},
-    title = {Schauder estimates for a degenerate second order elliptic operator on a cube},
+    title = {Schauder estimates for a degenerate second order elliptic
+   operator on a cube},
     url = {https://doi.org/10.1016/j.jde.2007.08.002},
     volume = {242},
     year = {2007}

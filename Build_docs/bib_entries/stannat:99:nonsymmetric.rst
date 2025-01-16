@@ -9,7 +9,8 @@ stannat:99:nonsymmetric
 
    @article{stannat:99:nonsymmetric,
     author = {Stannat, Wilhelm},
-    fjournal = {Annali della Scuola Normale Superiore di Pisa. Classe di Scienze. Serie IV},
+    fjournal = {Annali della Scuola Normale Superiore di Pisa. Classe di
+   Scienze. Serie IV},
     issn = {0391-173X},
     journal = {Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4)},
     mrclass = {31C25 (35K99 35R15 47B44 47D07 60J60)},
@@ -17,7 +18,8 @@ stannat:99:nonsymmetric
     mrreviewer = {Zhi Ming Ma},
     number = {1},
     pages = {99--140},
-    title = {({N}onsymmetric) {D}irichlet operators on {$L^1$}: existence, uniqueness and associated {M}arkov processes},
+    title = {({N}onsymmetric) {D}irichlet operators on {$L^1$}:
+   existence, uniqueness and associated {M}arkov processes},
     url = {http://www.numdam.org/item?id=ASNSP_1999_4_28_1_99_0},
     volume = {28},
     year = {1999}

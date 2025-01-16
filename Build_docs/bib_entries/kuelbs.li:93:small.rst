@@ -18,7 +18,8 @@ kuelbs.li:93:small
     mrreviewer = {Qi Man Shao},
     number = {3},
     pages = {547--577},
-    title = {Small ball estimates for {B}rownian motion and the {B}rownian sheet},
+    title = {Small ball estimates for {B}rownian motion and the
+   {B}rownian sheet},
     url = {https://doi.org/10.1007/BF01066717},
     volume = {6},
     year = {1993}

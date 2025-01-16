@@ -16,7 +16,8 @@ prevot.rockner:07:concise
     pages = {vi+144},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Mathematics},
-    title = {A concise course on stochastic partial differential equations},
+    title = {A concise course on stochastic partial differential
+   equations},
     volume = {1905},
     year = {2007}
    }

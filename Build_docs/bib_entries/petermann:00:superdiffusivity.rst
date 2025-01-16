@@ -10,7 +10,8 @@ petermann:00:superdiffusivity
    @article{petermann:00:superdiffusivity,
     author = {Petermann, Markus},
     journal = {Ph. D. Thesis Univ. Zurich},
-    title = {Superdiffusivity of directed polymers in random environment},
+    title = {Superdiffusivity of directed polymers in random
+   environment},
     year = {2000}
    }
 

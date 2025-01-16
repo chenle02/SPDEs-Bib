@@ -18,7 +18,8 @@ liu:96:existence
     mrreviewer = {Juan M. Via\~{n}o Rey},
     number = {3},
     pages = {797--816},
-    title = {Existence and blow up of solutions of a nonlinear {P}ochhammer-{C}hree equation},
+    title = {Existence and blow up of solutions of a nonlinear
+   {P}ochhammer-{C}hree equation},
     url = {https://doi.org/10.1512/iumj.1996.45.1121},
     volume = {45},
     year = {1996}

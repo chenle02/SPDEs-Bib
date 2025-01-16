@@ -18,7 +18,8 @@ krylov.rockner:05:strong
     mrreviewer = {B. G. Pachpatte},
     number = {2},
     pages = {154--196},
-    title = {Strong solutions of stochastic equations with singular time dependent drift},
+    title = {Strong solutions of stochastic equations with singular
+   time dependent drift},
     url = {https://doi.org/10.1007/s00440-004-0361-z},
     volume = {131},
     year = {2005}

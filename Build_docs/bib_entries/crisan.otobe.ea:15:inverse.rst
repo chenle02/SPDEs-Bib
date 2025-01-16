@@ -10,7 +10,9 @@ crisan.otobe.ea:15:inverse
    @article{crisan.otobe.ea:15:inverse,
     author = {Crisan, Dan and Otobe, Yoshiki and Peszat, Szymon},
     doi = {10.1088/0266-5611/31/1/015005},
-    fjournal = {Inverse Problems. An International Journal on the Theory and Practice of Inverse Problems, Inverse Methods and Computerized Inversion of Data},
+    fjournal = {Inverse Problems. An International Journal on the Theory
+   and Practice of Inverse Problems, Inverse Methods and
+   Computerized Inversion of Data},
     issn = {0266-5611,1361-6420},
     journal = {Inverse Problems},
     mrclass = {35R30 (35K15 35R60 60H15)},

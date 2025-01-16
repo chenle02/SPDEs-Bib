@@ -18,7 +18,8 @@ fedrizzi.flandoli:13:holder
     mrreviewer = {Wilhelm\ Stannat},
     number = {4},
     pages = {708--736},
-    title = {H\"{o}lder flow and differentiability for {SDE}s with nonregular drift},
+    title = {H\"{o}lder flow and differentiability for {SDE}s with
+   nonregular drift},
     url = {https://doi.org/10.1080/07362994.2012.628908},
     volume = {31},
     year = {2013}

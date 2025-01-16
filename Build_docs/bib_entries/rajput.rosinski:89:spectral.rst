@@ -18,7 +18,8 @@ rajput.rosinski:89:spectral
     mrreviewer = {John P. Nolan},
     number = {3},
     pages = {451--487},
-    title = {Spectral representations of infinitely divisible processes},
+    title = {Spectral representations of infinitely divisible
+   processes},
     url = {https://doi.org/10.1007/BF00339998},
     volume = {82},
     year = {1989}

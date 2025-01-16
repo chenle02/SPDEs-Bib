@@ -18,7 +18,8 @@ nualart.rozovskii:97:weighted
     mrreviewer = {Jan Ub\o e},
     number = {1},
     pages = {200--225},
-    title = {Weighted stochastic {S}obolev spaces and bilinear {SPDE}s driven by space-time white noise},
+    title = {Weighted stochastic {S}obolev spaces and bilinear {SPDE}s
+   driven by space-time white noise},
     url = {https://doi.org/10.1006/jfan.1996.3091},
     volume = {149},
     year = {1997}

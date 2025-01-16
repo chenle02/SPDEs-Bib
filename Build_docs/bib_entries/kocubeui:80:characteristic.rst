@@ -9,7 +9,8 @@ kocubeui:80:characteristic
 
    @article{kocubeui:80:characteristic,
     author = {Ko\v{c}ubeu{i}, A. N.},
-    fjournal = {Izvestiya Akademii Nauk Armyanskou{i} SSR. Seriya Matematika},
+    fjournal = {Izvestiya Akademii Nauk Armyanskou{i} SSR. Seriya
+   Matematika},
     issn = {0002-3043},
     journal = {Izv. Akad. Nauk Armyan. SSR Ser. Mat.},
     mrclass = {47A45 (47E05)},
@@ -17,7 +18,8 @@ kocubeui:80:characteristic
     mrreviewer = {E.\ R.\ Deal},
     number = {3},
     pages = {219--232, 247},
-    title = {Characteristic functions of symmetric operators and their extensions},
+    title = {Characteristic functions of symmetric operators and their
+   extensions},
     volume = {15},
     year = {1980}
    }

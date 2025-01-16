@@ -18,7 +18,9 @@ lacoin:18:wetting
     mrreviewer = {Uwe\ C.\ T\"auber},
     number = {3},
     pages = {1007--1048},
-    title = {Wetting and layering for solid-on-solid {I}: {I}dentification of the wetting point and critical behavior},
+    title = {Wetting and layering for solid-on-solid {I}:
+   {I}dentification of the wetting point and critical
+   behavior},
     url = {https://doi.org/10.1007/s00220-018-3162-4},
     volume = {362},
     year = {2018}

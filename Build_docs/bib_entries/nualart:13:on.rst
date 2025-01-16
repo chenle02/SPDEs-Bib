@@ -10,7 +10,8 @@ nualart:13:on
    @article{nualart:13:on,
     author = {Nualart, Eulalia},
     doi = {10.1080/17442508.2011.653567},
-    fjournal = {Stochastics. An International Journal of Probability and Stochastic Processes},
+    fjournal = {Stochastics. An International Journal of Probability and
+   Stochastic Processes},
     issn = {1744-2508},
     journal = {Stochastics},
     mrclass = {60H15 (60H07)},
@@ -18,7 +19,8 @@ nualart:13:on
     mrreviewer = {Elisa Al\`os},
     number = {1},
     pages = {48--70},
-    title = {On the density of systems of non-linear spatially homogeneous {SPDE}s},
+    title = {On the density of systems of non-linear spatially
+   homogeneous {SPDE}s},
     url = {https://doi.org/10.1080/17442508.2011.653567},
     volume = {85},
     year = {2013}

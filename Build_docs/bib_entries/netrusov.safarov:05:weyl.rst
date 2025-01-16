@@ -18,7 +18,8 @@ netrusov.safarov:05:weyl
     mrreviewer = {Yongzhi Xu},
     number = {2},
     pages = {481--509},
-    title = {Weyl asymptotic formula for the {L}aplacian on domains with rough boundaries},
+    title = {Weyl asymptotic formula for the {L}aplacian on domains
+   with rough boundaries},
     url = {https://doi.org/10.1007/s00220-004-1158-8},
     volume = {253},
     year = {2005}

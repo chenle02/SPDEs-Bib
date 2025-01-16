@@ -17,7 +17,9 @@ glangetas.merle:94:concentration
     mrreviewer = {John Albert},
     number = {2},
     pages = {349--389},
-    title = {Concentration properties of blow-up solutions and instability results for {Z}akharov equation in dimension two. {II}},
+    title = {Concentration properties of blow-up solutions and
+   instability results for {Z}akharov equation in dimension
+   two. {II}},
     url = {http://projecteuclid.org/euclid.cmp/1104269615},
     volume = {160},
     year = {1994}

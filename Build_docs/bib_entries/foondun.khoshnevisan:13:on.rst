@@ -18,7 +18,8 @@ foondun.khoshnevisan:13:on
     mrreviewer = {Sergey V. Lototsky},
     number = {1},
     pages = {409--458},
-    title = {On the stochastic heat equation with spatially-colored random forcing},
+    title = {On the stochastic heat equation with spatially-colored
+   random forcing},
     url = {https://doi.org/10.1090/S0002-9947-2012-05616-9},
     volume = {365},
     year = {2013}

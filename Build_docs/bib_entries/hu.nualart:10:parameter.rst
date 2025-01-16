@@ -18,7 +18,8 @@ hu.nualart:10:parameter
     mrreviewer = {Mark Podolskij},
     number = {11-12},
     pages = {1030--1038},
-    title = {Parameter estimation for fractional {O}rnstein-{U}hlenbeck processes},
+    title = {Parameter estimation for fractional {O}rnstein-{U}hlenbeck
+   processes},
     url = {https://doi.org/10.1016/j.spl.2010.02.018},
     volume = {80},
     year = {2010}

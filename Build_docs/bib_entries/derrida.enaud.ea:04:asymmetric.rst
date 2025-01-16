@@ -18,7 +18,8 @@ derrida.enaud.ea:04:asymmetric
     mrreviewer = {Ellen\ Saada},
     number = {1-2},
     pages = {365--382},
-    title = {The asymmetric exclusion process and {B}rownian excursions},
+    title = {The asymmetric exclusion process and {B}rownian
+   excursions},
     url = {https://doi.org/10.1023/B:JOSS.0000019833.35328.b4},
     volume = {115},
     year = {2004}

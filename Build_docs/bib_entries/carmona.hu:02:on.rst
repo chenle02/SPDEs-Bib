@@ -18,7 +18,8 @@ carmona.hu:02:on
     mrreviewer = {Ofer Zeitouni},
     number = {3},
     pages = {431--457},
-    title = {On the partition function of a directed polymer in a {G}aussian random environment},
+    title = {On the partition function of a directed polymer in a
+   {G}aussian random environment},
     url = {https://doi.org/10.1007/s004400200213},
     volume = {124},
     year = {2002}

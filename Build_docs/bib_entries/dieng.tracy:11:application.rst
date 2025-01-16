@@ -16,7 +16,8 @@ dieng.tracy:11:application
     pages = {443--507},
     publisher = {Springer, New York},
     series = {CRM Ser. Math. Phys.},
-    title = {Application of random matrix theory to multivariate statistics},
+    title = {Application of random matrix theory to multivariate
+   statistics},
     url = {https://doi.org/10.1007/978-1-4419-9514-8_7},
     year = {2011}
    }

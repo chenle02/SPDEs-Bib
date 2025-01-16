@@ -17,7 +17,9 @@ allouba:13:time-fractional
     mrreviewer = {Isamu D\^{o}ku},
     number = {4},
     pages = {919--963},
-    title = {Time-fractional and memoryful {$\Delta^{2^k}$} {SIE}s on {$\Bbb{R}\_+\times\Bbb{R}^d$}: how far can we push white noise?},
+    title = {Time-fractional and memoryful {$\Delta^{2^k}$} {SIE}s on
+   {$\Bbb{R}_+\times\Bbb{R}^d$}: how far can we push white
+   noise?},
     url = {http://projecteuclid.org/euclid.ijm/1417442557},
     volume = {57},
     year = {2013}

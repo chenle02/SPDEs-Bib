@@ -17,7 +17,8 @@ reimers:89:one-dimensional
     mrnumber = {983088},
     number = {3},
     pages = {319--340},
-    title = {One-dimensional stochastic partial differential equations and the branching measure diffusion},
+    title = {One-dimensional stochastic partial differential equations
+   and the branching measure diffusion},
     url = {https://doi.org/10.1007/BF00340057},
     volume = {81},
     year = {1989}

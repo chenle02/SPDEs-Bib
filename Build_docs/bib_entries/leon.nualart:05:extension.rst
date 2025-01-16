@@ -18,7 +18,8 @@ leon.nualart:05:extension
     mrreviewer = {J. H\"{u}sler},
     number = {3},
     pages = {481--492},
-    title = {An extension of the divergence operator for {G}aussian processes},
+    title = {An extension of the divergence operator for {G}aussian
+   processes},
     url = {https://doi.org/10.1016/j.spa.2004.09.008},
     volume = {115},
     year = {2005}

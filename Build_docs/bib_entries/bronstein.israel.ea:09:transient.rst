@@ -8,7 +8,8 @@ bronstein.israel.ea:09:transient
 .. code-block:: bibtex
 
    @article{bronstein.israel.ea:09:transient,
-    author = {Bronstein, I. and Israel, Y. and Kepten, E. and Mai, S. and Shav-Tal, Y. and Barkai, E. and Garini, Y.},
+    author = {Bronstein, I. and Israel, Y. and Kepten, E. and Mai, S.
+   and Shav-Tal, Y. and Barkai, E. and Garini, Y.},
     doi = {10.1103/PhysRevLett.103.018102},
     issue = {1},
     journal = {Phys. Rev. Lett.},
@@ -16,7 +17,8 @@ bronstein.israel.ea:09:transient
     numpages = {4},
     pages = {018102},
     publisher = {American Physical Society},
-    title = {Transient Anomalous Diffusion of Telomeres in the Nucleus of Mammalian Cells},
+    title = {Transient Anomalous Diffusion of Telomeres in the Nucleus
+   of Mammalian Cells},
     url = {https://link.aps.org/doi/10.1103/PhysRevLett.103.018102},
     volume = {103},
     year = {2009}

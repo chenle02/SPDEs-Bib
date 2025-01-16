@@ -18,7 +18,8 @@ bodineau.derrida.ea:10:diffusive
     mrreviewer = {Christian\ Dogbe},
     number = {4},
     pages = {648--675},
-    title = {A diffusive system driven by a battery or by a smoothly varying field},
+    title = {A diffusive system driven by a battery or by a smoothly
+   varying field},
     url = {https://doi.org/10.1007/s10955-010-0012-y},
     volume = {140},
     year = {2010}

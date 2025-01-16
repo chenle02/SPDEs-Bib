@@ -18,7 +18,8 @@ ding.zeitouni.ea:19:heat
     mrreviewer = {Max\ Fathi},
     number = {2},
     pages = {561--618},
-    title = {Heat kernel for {L}iouville {B}rownian motion and {L}iouville graph distance},
+    title = {Heat kernel for {L}iouville {B}rownian motion and
+   {L}iouville graph distance},
     url = {https://doi.org/10.1007/s00220-019-03467-8},
     volume = {371},
     year = {2019}

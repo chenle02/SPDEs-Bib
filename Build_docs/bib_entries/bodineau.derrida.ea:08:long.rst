@@ -8,7 +8,8 @@ bodineau.derrida.ea:08:long
 .. code-block:: bibtex
 
    @article{bodineau.derrida.ea:08:long,
-    author = {Bodineau, T. and Derrida, B. and Lecomte, V. and van Wijland, F.},
+    author = {Bodineau, T. and Derrida, B. and Lecomte, V. and van
+   Wijland, F.},
     doi = {10.1007/s10955-008-9647-3},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715,1572-9613},
@@ -18,7 +19,8 @@ bodineau.derrida.ea:08:long
     mrreviewer = {Christian\ Dogbe},
     number = {6},
     pages = {1013--1031},
-    title = {Long range correlations and phase transitions in non-equilibrium diffusive systems},
+    title = {Long range correlations and phase transitions in
+   non-equilibrium diffusive systems},
     url = {https://doi.org/10.1007/s10955-008-9647-3},
     volume = {133},
     year = {2008}

@@ -18,7 +18,8 @@ hara.slade:91:critical
     mrreviewer = {Cheng Xun Wu},
     number = {2},
     pages = {417--423},
-    title = {Critical behaviour of self-avoiding walk in five or more dimensions},
+    title = {Critical behaviour of self-avoiding walk in five or more
+   dimensions},
     url = {https://doi.org/10.1090/S0273-0979-1991-16085-4},
     volume = {25},
     year = {1991}

@@ -9,7 +9,8 @@ zabczyk:79:stabilization
 
    @incollection{zabczyk:79:stabilization,
     author = {Zabczyk, J.},
-    booktitle = {International {S}ymposium on {S}ystems {O}ptimization and {A}nalysis ({R}ocquencourt, 1978)},
+    booktitle = {International {S}ymposium on {S}ystems {O}ptimization and
+   {A}nalysis ({R}ocquencourt, 1978)},
     isbn = {3-540-09447-4},
     mrclass = {93D99 (93B05)},
     mrnumber = {557355},

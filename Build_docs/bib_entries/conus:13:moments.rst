@@ -17,7 +17,8 @@ conus:13:moments
     mrreviewer = {Markus Kunze},
     number = {1},
     pages = {125--152},
-    title = {Moments for the parabolic {A}nderson model: on a result by {H}u and {N}ualart},
+    title = {Moments for the parabolic {A}nderson model: on a result by
+   {H}u and {N}ualart},
     url = {https://doi.org/10.31390/cosa.7.1.08},
     volume = {7},
     year = {2013}

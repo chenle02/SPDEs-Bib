@@ -18,7 +18,8 @@ imamura.sasamoto:16:determinantal
     mrreviewer = {Rafael Silva Sasportes},
     number = {4},
     pages = {675--713},
-    title = {Determinantal structures in the {O}'{C}onnell-{Y}or directed random polymer model},
+    title = {Determinantal structures in the {O}'{C}onnell-{Y}or
+   directed random polymer model},
     url = {https://doi.org/10.1007/s10955-016-1492-1},
     volume = {163},
     year = {2016}

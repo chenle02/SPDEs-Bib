@@ -9,7 +9,8 @@ burdzy:93:some
 
    @incollection{burdzy:93:some,
     author = {Burdzy, Krzysztof},
-    booktitle = {Seminar on {S}tochastic {P}rocesses, 1992 ({S}eattle, {WA}, 1992)},
+    booktitle = {Seminar on {S}tochastic {P}rocesses, 1992 ({S}eattle,
+   {WA}, 1992)},
     doi = {10.1007/978-1-4612-0339-1\_3},
     mrclass = {60J65},
     mrnumber = {1278077},

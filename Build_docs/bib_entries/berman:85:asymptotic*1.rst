@@ -18,7 +18,8 @@ berman:85:asymptotic*1
     mrreviewer = {P. Laurie Davies},
     number = {2},
     pages = {454--460},
-    title = {An asymptotic formula for the distribution of the maximum of a {G}aussian process with stationary increments},
+    title = {An asymptotic formula for the distribution of the maximum
+   of a {G}aussian process with stationary increments},
     url = {https://doi.org/10.2307/3213789},
     volume = {22},
     year = {1985}

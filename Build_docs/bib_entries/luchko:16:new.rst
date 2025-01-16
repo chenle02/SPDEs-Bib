@@ -17,7 +17,8 @@ luchko:16:new
     mrnumber = {3530396},
     number = {3},
     pages = {1--17},
-    title = {A new fractional calculus model for the two-dimensional anomalous diffusion and its analysis},
+    title = {A new fractional calculus model for the two-dimensional
+   anomalous diffusion and its analysis},
     url = {https://doi.org/10.1051/mmnp/201611301},
     volume = {11},
     year = {2016}

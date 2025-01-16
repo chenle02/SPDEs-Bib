@@ -18,7 +18,8 @@ nualart.zakai:88:generalized
     mrreviewer = {Daniel Ocone},
     number = {3},
     pages = {311--330},
-    title = {Generalized multiple stochastic integrals and the representation of {W}iener functionals},
+    title = {Generalized multiple stochastic integrals and the
+   representation of {W}iener functionals},
     url = {https://doi.org/10.1080/17442508808833496},
     volume = {23},
     year = {1988}

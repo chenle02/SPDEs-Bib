@@ -18,7 +18,9 @@ winkler:19:three-dimensional
     mrreviewer = {Christian Stinner},
     number = {5},
     pages = {1339--1401},
-    title = {A three-dimensional {K}eller-{S}egel-{N}avier-{S}tokes system with logistic source: global weak solutions and asymptotic stabilization},
+    title = {A three-dimensional {K}eller-{S}egel-{N}avier-{S}tokes
+   system with logistic source: global weak solutions and
+   asymptotic stabilization},
     url = {https://doi.org/10.1016/j.jfa.2018.12.009},
     volume = {276},
     year = {2019}

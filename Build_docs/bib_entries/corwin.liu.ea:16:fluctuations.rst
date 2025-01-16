@@ -18,7 +18,8 @@ corwin.liu.ea:16:fluctuations
     mrreviewer = {Florent Benaych-Georges},
     number = {4},
     pages = {2030--2082},
-    title = {Fluctuations of {TASEP} and {LPP} with general initial data},
+    title = {Fluctuations of {TASEP} and {LPP} with general initial
+   data},
     url = {https://doi.org/10.1214/15-AAP1139},
     volume = {26},
     year = {2016}

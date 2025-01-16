@@ -18,7 +18,8 @@ komorowski.peszat.ea:13:passive
     mrreviewer = {Azzouz\ Dermoune},
     number = {7},
     pages = {1999--2026},
-    title = {Passive tracer in a flow corresponding to two-dimensional stochastic {N}avier-{S}tokes equations},
+    title = {Passive tracer in a flow corresponding to two-dimensional
+   stochastic {N}avier-{S}tokes equations},
     url = {https://doi.org/10.1088/0951-7715/26/7/1999},
     volume = {26},
     year = {2013}

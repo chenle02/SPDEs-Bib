@@ -14,7 +14,8 @@ magnus.oberhettinger:48:formeln
     note = {2d ed},
     pages = {viii+230},
     publisher = {Springer-Verlag, Berlin},
-    title = {Formeln und {S}\"{a}tze f\"{u}r die speziellen {F}unktionen der mathematischen {P}hysik},
+    title = {Formeln und {S}\"{a}tze f\"{u}r die speziellen
+   {F}unktionen der mathematischen {P}hysik},
     year = {1948}
    }
 

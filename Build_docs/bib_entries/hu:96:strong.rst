@@ -16,7 +16,8 @@ hu:96:strong
     pages = {218--227},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Strong and weak order of time discretization schemes of stochastic differential equations},
+    title = {Strong and weak order of time discretization schemes of
+   stochastic differential equations},
     url = {https://doi.org/10.1007/BFb0094650},
     volume = {1626},
     year = {1996}

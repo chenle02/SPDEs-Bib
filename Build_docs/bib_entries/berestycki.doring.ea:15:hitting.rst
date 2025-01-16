@@ -8,7 +8,8 @@ berestycki.doring.ea:15:hitting
 .. code-block:: bibtex
 
    @article{berestycki.doring.ea:15:hitting,
-    author = {Berestycki, J. and D\"{o}ring, L. and Mytnik, L. and Zambotti, L.},
+    author = {Berestycki, J. and D\"{o}ring, L. and Mytnik, L. and
+   Zambotti, L.},
     doi = {10.1016/j.spa.2014.10.012},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149},
@@ -18,7 +19,8 @@ berestycki.doring.ea:15:hitting
     mrreviewer = {Zbigniew Michna},
     number = {3},
     pages = {918--940},
-    title = {Hitting properties and non-uniqueness for {SDE}s driven by stable processes},
+    title = {Hitting properties and non-uniqueness for {SDE}s driven by
+   stable processes},
     url = {https://doi.org/10.1016/j.spa.2014.10.012},
     volume = {125},
     year = {2015}

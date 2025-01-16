@@ -18,7 +18,8 @@ orrieri.scarpa:19:singular
     mrreviewer = {Le\ Chen},
     number = {8},
     pages = {4624--4667},
-    title = {Singular stochastic {A}llen-{C}ahn equations with dynamic boundary conditions},
+    title = {Singular stochastic {A}llen-{C}ahn equations with dynamic
+   boundary conditions},
     url = {https://doi.org/10.1016/j.jde.2018.10.007},
     volume = {266},
     year = {2019}

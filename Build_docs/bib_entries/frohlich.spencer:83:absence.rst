@@ -17,7 +17,8 @@ frohlich.spencer:83:absence
     mrreviewer = {W. Kirsch},
     number = {2},
     pages = {151--184},
-    title = {Absence of diffusion in the {A}nderson tight binding model for large disorder or low energy},
+    title = {Absence of diffusion in the {A}nderson tight binding model
+   for large disorder or low energy},
     url = {http://projecteuclid.org/euclid.cmp/1103922279},
     volume = {88},
     year = {1983}

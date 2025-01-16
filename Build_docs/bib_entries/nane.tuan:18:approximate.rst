@@ -17,7 +17,9 @@ nane.tuan:18:approximate
     mrreviewer = {Andreas Langer},
     number = {1},
     pages = {302--338},
-    title = {Approximate solutions of inverse problems for nonlinear space fractional diffusion equations with randomly perturbed data},
+    title = {Approximate solutions of inverse problems for nonlinear
+   space fractional diffusion equations with randomly
+   perturbed data},
     url = {https://doi.org/10.1137/17M1111139},
     volume = {6},
     year = {2018}

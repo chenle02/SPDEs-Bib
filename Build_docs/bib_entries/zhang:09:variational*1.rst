@@ -17,7 +17,8 @@ zhang:09:variational*1
     mrnumber = {2583599},
     number = {3},
     pages = {475--490},
-    title = {A variational representation for random functionals on abstract {W}iener spaces},
+    title = {A variational representation for random functionals on
+   abstract {W}iener spaces},
     url = {https://doi.org/10.1215/kjm/1260975036},
     volume = {49},
     year = {2009}

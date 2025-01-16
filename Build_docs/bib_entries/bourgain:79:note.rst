@@ -9,7 +9,8 @@ bourgain:79:note
 
    @article{bourgain:79:note,
     author = {Bourgain, J.},
-    fjournal = {Bulletin de la Soci\'{e}t\'{e} Math\'{e}matique de Belgique. S\'{e}rie B},
+    fjournal = {Bulletin de la Soci\'{e}t\'{e} Math\'{e}matique de
+   Belgique. S\'{e}rie B},
     issn = {0037-9476},
     journal = {Bull. Soc. Math. Belg. S\'{e}r. B},
     mrclass = {46E30},
@@ -17,7 +18,8 @@ bourgain:79:note
     mrreviewer = {J.\ Diestel},
     number = {1},
     pages = {45--47},
-    title = {A note on the {L}ebesgue spaces of vector-valued functions},
+    title = {A note on the {L}ebesgue spaces of vector-valued
+   functions},
     volume = {31},
     year = {1979}
    }

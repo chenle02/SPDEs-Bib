@@ -15,7 +15,8 @@ figueiredo:60:contribution
     pages = {123 pp. (1 insert)},
     publisher = {Junta de Investiga\c{c}\~{o}es do Ultramar, Lisbon},
     series = {Estudos, Ensaios e Documentos, No. 73},
-    title = {Contribution to the theory of certain non-linear differential equations},
+    title = {Contribution to the theory of certain non-linear
+   differential equations},
     year = {1960}
    }
 

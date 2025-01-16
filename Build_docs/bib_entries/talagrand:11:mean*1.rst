@@ -16,7 +16,10 @@ talagrand:11:mean*1
     note = {Advanced replica-symmetry and low temperature},
     pages = {xii+629},
     publisher = {Springer, Heidelberg},
-    series = {Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge. A Series of Modern Surveys in Mathematics [Results in Mathematics and Related Areas. 3rd Series. A Series of Modern Surveys in Mathematics]},
+    series = {Ergebnisse der Mathematik und ihrer Grenzgebiete. 3.
+   Folge. A Series of Modern Surveys in Mathematics [Results
+   in Mathematics and Related Areas. 3rd Series. A Series of
+   Modern Surveys in Mathematics]},
     title = {Mean field models for spin glasses. {V}olume {II}},
     volume = {55},
     year = {2011}

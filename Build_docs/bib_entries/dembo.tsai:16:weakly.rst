@@ -18,7 +18,8 @@ dembo.tsai:16:weakly
     mrreviewer = {Mathew Joseph},
     number = {1},
     pages = {219--261},
-    title = {Weakly asymmetric non-simple exclusion process and the {K}ardar-{P}arisi-{Z}hang equation},
+    title = {Weakly asymmetric non-simple exclusion process and the
+   {K}ardar-{P}arisi-{Z}hang equation},
     url = {https://doi.org/10.1007/s00220-015-2527-1},
     volume = {341},
     year = {2016}

@@ -18,7 +18,8 @@ chen.xiao:12:on
     mrreviewer = {Xianmin\ Geng},
     number = {11},
     pages = {2217--2232},
-    title = {On intersections of independent anisotropic {G}aussian random fields},
+    title = {On intersections of independent anisotropic {G}aussian
+   random fields},
     url = {https://doi.org/10.1007/s11425-012-4521-9},
     volume = {55},
     year = {2012}

@@ -17,7 +17,9 @@ bai.yin:88:necessary
     mrreviewer = {Eric V. Slud},
     number = {4},
     pages = {1729--1741},
-    title = {Necessary and sufficient conditions for almost sure convergence of the largest eigenvalue of a {W}igner matrix},
+    title = {Necessary and sufficient conditions for almost sure
+   convergence of the largest eigenvalue of a {W}igner
+   matrix},
     url = {http://links.jstor.org/sici?sici=0091-1798(198810)16:4<1729:NASCFA>2.0.CO;2-C&origin=MSN},
     volume = {16},
     year = {1988}

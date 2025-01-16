@@ -9,7 +9,8 @@ dalang.mountford:00:level
 
    @incollection{dalang.mountford:00:level,
     author = {Dalang, Robert C. and Mountford, T. S.},
-    booktitle = {Infinite dimensional stochastic analysis ({A}msterdam, 1999)},
+    booktitle = {Infinite dimensional stochastic analysis ({A}msterdam,
+   1999)},
     mrclass = {60G60 (60J65)},
     mrnumber = {1831414},
     mrreviewer = {Xing Wu Zhuang},

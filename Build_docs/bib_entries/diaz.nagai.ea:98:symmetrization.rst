@@ -8,7 +8,8 @@ diaz.nagai.ea:98:symmetrization
 .. code-block:: bibtex
 
    @article{diaz.nagai.ea:98:symmetrization,
-    author = {Diaz, Jesus Ildefonso and Nagai, Toshitaka and Rakotoson, Jean-Michel},
+    author = {Diaz, Jesus Ildefonso and Nagai, Toshitaka and Rakotoson,
+   Jean-Michel},
     doi = {10.1006/jdeq.1997.3389},
     fjournal = {Journal of Differential Equations},
     issn = {0022-0396},
@@ -18,7 +19,8 @@ diaz.nagai.ea:98:symmetrization
     mrreviewer = {Piotr Biler},
     number = {1},
     pages = {156--183},
-    title = {Symmetrization techniques on unbounded domains: application to a chemotaxis system on {${\bf R}^N$}},
+    title = {Symmetrization techniques on unbounded domains:
+   application to a chemotaxis system on {${\bf R}^N$}},
     url = {https://doi.org/10.1006/jdeq.1997.3389},
     volume = {145},
     year = {1998}

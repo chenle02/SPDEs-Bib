@@ -9,21 +9,24 @@ cerrai.debussche:19:large*1
 
    @article{cerrai.debussche:19:large*1,
     author = {Cerrai, Sandra and Debussche, Arnaud},
-    doi = {10.1007/s00245-017-9459-4},
-    fjournal = {Applied Mathematics and Optimization},
-    issn = {0095-4616},
-    journal = {Appl. Math. Optim.},
-    mrclass = {35R60 (35B25 35K57)},
-    mrnumber = {3978511},
-    mrreviewer = {Jamil Abreu},
+    doi = {10.1214/17-aihp881},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
+    issn = {0246-0203},
+    journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
+    mrclass = {60H15 (35Q30 35R60 60F10)},
+    mrnumber = {3901646},
+    mrreviewer = {Thomas Kelly Alberts},
     number = {1},
-    pages = {81--102},
-    title = {Large deviations for the dynamic {$\Phi^{2n}_d$} model},
-    url = {https://doi.org/10.1007/s00245-017-9459-4},
-    volume = {80},
+    pages = {211--236},
+    title = {Large deviations for the two-dimensional stochastic
+   {N}avier-{S}tokes equation with vanishing noise
+   correlation},
+    url = {https://doi.org/10.1214/17-aihp881},
+    volume = {55},
     year = {2019}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00245-017-9459-4}>`_
+`The URL link to the source <ttps://doi.org/10.1214/17-aihp881}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

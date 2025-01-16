@@ -18,7 +18,9 @@ mierczynski.shen:03:exponential
     mrreviewer = {Krystyna\ Twardowska},
     number = {1},
     pages = {175--205},
-    title = {Exponential separation and principal {L}yapunov exponent/spectrum for random/nonautonomous parabolic equations},
+    title = {Exponential separation and principal {L}yapunov
+   exponent/spectrum for random/nonautonomous parabolic
+   equations},
     url = {https://doi.org/10.1016/S0022-0396(03)00016-0},
     volume = {191},
     year = {2003}

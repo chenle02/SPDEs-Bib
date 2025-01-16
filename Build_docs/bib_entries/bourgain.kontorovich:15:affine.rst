@@ -18,7 +18,8 @@ bourgain.kontorovich:15:affine
     mrreviewer = {B.\ Sury},
     number = {19},
     pages = {9175--9205},
-    title = {The affine sieve beyond expansion {I}: {T}hin hypotenuses},
+    title = {The affine sieve beyond expansion {I}: {T}hin
+   hypotenuses},
     url = {https://doi.org/10.1093/imrn/rnu222},
     year = {2015}
    }

@@ -9,14 +9,16 @@ kublanovskaja:65:on
 
    @article{kublanovskaja:65:on,
     author = {Kublanovskaja, V. N.},
-    fjournal = {\v{Z}urnal Vy\v{c}islitel{\cprime}nou{i} Matematiki i Matemati\v{c}eskou{i} Fiziki},
+    fjournal = {\v{Z}urnal Vy\v{c}islitel{\cprime}nou{i} Matematiki i
+   Matemati\v{c}eskou{i} Fiziki},
     issn = {0044-4669},
     journal = {\v{Z}. Vy\v{c}isl. Mat i Mat. Fiz.},
     mrclass = {65.35},
     mrnumber = {196920},
     mrreviewer = {L. Mirsky},
     pages = {326--329},
-    title = {On a certain process of supplementary orthogonalisation of vectors},
+    title = {On a certain process of supplementary orthogonalisation of
+   vectors},
     volume = {5},
     year = {1965}
    }

@@ -18,7 +18,8 @@ ren.zhang:08:freidlin-wentzells
     mrreviewer = {Jorge A. Le\'{o}n},
     number = {12},
     pages = {3148--3172},
-    title = {Freidlin-{W}entzell's large deviations for stochastic evolution equations},
+    title = {Freidlin-{W}entzell's large deviations for stochastic
+   evolution equations},
     url = {https://doi.org/10.1016/j.jfa.2008.02.010},
     volume = {254},
     year = {2008}

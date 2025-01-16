@@ -18,7 +18,8 @@ pardoux.zhang:93:absolute
     mrreviewer = {David Nualart},
     number = {2},
     pages = {447--458},
-    title = {Absolute continuity of the law of the solution of a parabolic {SPDE}},
+    title = {Absolute continuity of the law of the solution of a
+   parabolic {SPDE}},
     url = {https://doi.org/10.1006/jfan.1993.1040},
     volume = {112},
     year = {1993}

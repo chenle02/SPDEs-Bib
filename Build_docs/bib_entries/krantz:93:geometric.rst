@@ -15,7 +15,9 @@ krantz:93:geometric
     mrnumber = {1228447},
     mrreviewer = {Harold P. Boas},
     pages = {xii+202},
-    publisher = {Published for the Conference Board of the Mathematical Sciences, Washington, DC; by the American Mathematical Society, Providence, RI},
+    publisher = {Published for the Conference Board of the Mathematical
+   Sciences, Washington, DC; by the American Mathematical
+   Society, Providence, RI},
     series = {CBMS Regional Conference Series in Mathematics},
     title = {Geometric analysis and function spaces},
     url = {https://doi.org/10.1090/cbms/081},

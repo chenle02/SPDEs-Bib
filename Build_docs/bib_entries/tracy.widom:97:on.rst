@@ -18,7 +18,9 @@ tracy.widom:97:on
     mrreviewer = {Vitor R. Vieira},
     number = {1-4},
     pages = {402--413},
-    title = {On exact solutions to the cylindrical {P}oisson-{B}oltzmann equation with applications to polyelectrolytes},
+    title = {On exact solutions to the cylindrical
+   {P}oisson-{B}oltzmann equation with applications to
+   polyelectrolytes},
     url = {https://doi.org/10.1016/S0378-4371(97)00229-X},
     volume = {244},
     year = {1997}

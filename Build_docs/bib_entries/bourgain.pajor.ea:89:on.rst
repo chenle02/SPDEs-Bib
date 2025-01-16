@@ -8,7 +8,8 @@ bourgain.pajor.ea:89:on
 .. code-block:: bibtex
 
    @incollection{bourgain.pajor.ea:89:on,
-    author = {Bourgain, J. and Pajor, A. and Szarek, S. J. and Tomczak-Jaegermann, N.},
+    author = {Bourgain, J. and Pajor, A. and Szarek, S. J. and
+   Tomczak-Jaegermann, N.},
     booktitle = {Geometric aspects of functional analysis (1987--88)},
     doi = {10.1007/BFb0090048},
     isbn = {3-540-51303-5},

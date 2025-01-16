@@ -18,7 +18,9 @@ holden.hu:96:finite
     mrreviewer = {Krystyna Twardowska},
     number = {9-10},
     pages = {1367--1388},
-    title = {Finite difference approximation of the pressure equation for fluid flow in a stochastic medium---a probabilistic approach},
+    title = {Finite difference approximation of the pressure equation
+   for fluid flow in a stochastic medium---a probabilistic
+   approach},
     url = {https://doi.org/10.1080/03605309608821231},
     volume = {21},
     year = {1996}

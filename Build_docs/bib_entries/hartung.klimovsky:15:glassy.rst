@@ -16,7 +16,8 @@ hartung.klimovsky:15:glassy
     mrclass = {60J80 (60F05 60G70 60K35 82B44)},
     mrnumber = {3417450},
     pages = {no. 78, 15},
-    title = {The glassy phase of the complex branching {B}rownian motion energy model},
+    title = {The glassy phase of the complex branching {B}rownian
+   motion energy model},
     url = {https://doi.org/10.1214/ECP.v20-4360},
     volume = {20},
     year = {2015}

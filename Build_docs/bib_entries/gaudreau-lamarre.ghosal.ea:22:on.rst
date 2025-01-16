@@ -8,7 +8,8 @@ gaudreau-lamarre.ghosal.ea:22:on
 .. code-block:: bibtex
 
    @article{gaudreau-lamarre.ghosal.ea:22:on,
-    author = {Gaudreau Lamarre, Pierre Yves and Ghosal, Promit and Liao, Yuchen},
+    author = {Gaudreau Lamarre, Pierre Yves and Ghosal, Promit and Liao,
+   Yuchen},
     doi = {10.4171/jst/415},
     fjournal = {Journal of Spectral Theory},
     issn = {1664-039X},
@@ -17,7 +18,8 @@ gaudreau-lamarre.ghosal.ea:22:on
     mrnumber = {4578346},
     number = {3},
     pages = {1109--1153},
-    title = {On spatial conditioning of the spectrum of discrete random {S}chr\"{o}dinger operators},
+    title = {On spatial conditioning of the spectrum of discrete random
+   {S}chr\"{o}dinger operators},
     url = {https://doi.org/10.4171/jst/415},
     volume = {12},
     year = {2022}

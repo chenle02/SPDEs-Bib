@@ -17,7 +17,8 @@ escobedo.herrero:91:boundedness
     mrnumber = {1088342},
     number = {1},
     pages = {176--202},
-    title = {Boundedness and blow up for a semilinear reaction-diffusion system},
+    title = {Boundedness and blow up for a semilinear
+   reaction-diffusion system},
     url = {https://doi.org/10.1016/0022-0396(91)90118-S},
     volume = {89},
     year = {1991}

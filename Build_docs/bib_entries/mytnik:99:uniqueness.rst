@@ -10,7 +10,8 @@ mytnik:99:uniqueness
    @article{mytnik:99:uniqueness,
     author = {Mytnik, Leonid},
     doi = {10.4153/CJM-1999-019-x},
-    fjournal = {Canadian Journal of Mathematics. Journal Canadien de Math\'{e}matiques},
+    fjournal = {Canadian Journal of Mathematics. Journal Canadien de
+   Math\'{e}matiques},
     issn = {0008-414X},
     journal = {Canad. J. Math.},
     mrclass = {60H30 (35Q80 35R60 60H15)},

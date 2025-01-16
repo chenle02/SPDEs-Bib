@@ -8,7 +8,8 @@ brownlees.nualart.ea:18:realized
 .. code-block:: bibtex
 
    @article{brownlees.nualart.ea:18:realized,
-    author = {Brownlees, Christian and Nualart, Eul\`alia and Sun, Yucheng},
+    author = {Brownlees, Christian and Nualart, Eul\`alia and Sun,
+   Yucheng},
     doi = {10.1002/jae.2642},
     fjournal = {Journal of Applied Econometrics},
     issn = {0883-7252},

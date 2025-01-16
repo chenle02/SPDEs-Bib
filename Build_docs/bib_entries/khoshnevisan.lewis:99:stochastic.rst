@@ -17,7 +17,8 @@ khoshnevisan.lewis:99:stochastic
     mrnumber = {1722276},
     number = {3},
     pages = {629--667},
-    title = {Stochastic calculus for {B}rownian motion on a {B}rownian fracture},
+    title = {Stochastic calculus for {B}rownian motion on a {B}rownian
+   fracture},
     url = {https://doi.org/10.1214/aoap/1029962807},
     volume = {9},
     year = {1999}

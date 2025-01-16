@@ -17,7 +17,9 @@ hetzer.shen:15:preface
     mrnumber = {3361549},
     number = {4},
     pages = {i--iii},
-    title = {Preface: special issue on dissipative systems and applications with emphasis on nonlocal or nonlinear diffusion problems},
+    title = {Preface: special issue on dissipative systems and
+   applications with emphasis on nonlocal or nonlinear
+   diffusion problems},
     url = {https://doi.org/10.3934/dcds.2015.35.4i},
     volume = {35},
     year = {2015}

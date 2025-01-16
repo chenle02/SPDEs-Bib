@@ -18,7 +18,9 @@ deift.venakides.ea:97:new
     mrreviewer = {Linghai\ Zhang},
     number = {6},
     pages = {286--299},
-    title = {New results in small dispersion {K}d{V} by an extension of the steepest descent method for {R}iemann-{H}ilbert problems},
+    title = {New results in small dispersion {K}d{V} by an extension of
+   the steepest descent method for {R}iemann-{H}ilbert
+   problems},
     url = {https://doi.org/10.1155/S1073792897000214},
     year = {1997}
    }

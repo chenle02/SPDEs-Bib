@@ -8,8 +8,10 @@ blomker.hairer.ea:10:some
 .. code-block:: bibtex
 
    @incollection{blomker.hairer.ea:10:some,
-    author = {Bl\"{o}mker, Dirk and Hairer, Martin and Pavliotis, Grigorios A.},
-    booktitle = {Stochastic partial differential equations and applications},
+    author = {Bl\"{o}mker, Dirk and Hairer, Martin and Pavliotis,
+   Grigorios A.},
+    booktitle = {Stochastic partial differential equations and
+   applications},
     mrclass = {60H15},
     mrnumber = {2985080},
     pages = {37--50},

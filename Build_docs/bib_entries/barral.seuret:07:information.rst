@@ -16,7 +16,8 @@ barral.seuret:07:information
     mrnumber = {2369854},
     number = {2},
     pages = {429--454},
-    title = {Information parameters and large deviation spectrum of discontinuous measures},
+    title = {Information parameters and large deviation spectrum of
+   discontinuous measures},
     url = {http://projecteuclid.org/euclid.rae/1199377482},
     volume = {32},
     year = {2007}

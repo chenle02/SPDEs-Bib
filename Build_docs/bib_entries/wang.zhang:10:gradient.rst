@@ -18,7 +18,8 @@ wang.zhang:10:gradient
     mrreviewer = {Mark A. McKibben},
     number = {1},
     pages = {1--11},
-    title = {Gradient estimates for stochastic evolution equations with non-{L}ipschitz coefficients},
+    title = {Gradient estimates for stochastic evolution equations with
+   non-{L}ipschitz coefficients},
     url = {https://doi.org/10.1016/j.jmaa.2009.09.008},
     volume = {365},
     year = {2010}

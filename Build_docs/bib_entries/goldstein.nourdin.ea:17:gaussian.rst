@@ -18,7 +18,8 @@ goldstein.nourdin.ea:17:gaussian
     mrreviewer = {Christoph Th\"{a}le},
     number = {1},
     pages = {1--47},
-    title = {Gaussian phase transitions and conic intrinsic volumes: {S}teining the {S}teiner formula},
+    title = {Gaussian phase transitions and conic intrinsic volumes:
+   {S}teining the {S}teiner formula},
     url = {https://doi.org/10.1214/16-AAP1195},
     volume = {27},
     year = {2017}

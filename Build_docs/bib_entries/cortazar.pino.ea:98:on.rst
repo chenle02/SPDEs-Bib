@@ -8,7 +8,8 @@ cortazar.pino.ea:98:on
 .. code-block:: bibtex
 
    @article{cortazar.pino.ea:98:on,
-    author = {Cort\'{a}zar, Carmen and del Pino, Manuel and Elgueta, Manuel},
+    author = {Cort\'{a}zar, Carmen and del Pino, Manuel and Elgueta,
+   Manuel},
     doi = {10.1512/iumj.1998.47.1399},
     fjournal = {Indiana University Mathematics Journal},
     issn = {0022-2518},

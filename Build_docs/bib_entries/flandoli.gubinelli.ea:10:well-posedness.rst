@@ -18,7 +18,8 @@ flandoli.gubinelli.ea:10:well-posedness
     mrreviewer = {Nikolaos Halidias},
     number = {1},
     pages = {1--53},
-    title = {Well-posedness of the transport equation by stochastic perturbation},
+    title = {Well-posedness of the transport equation by stochastic
+   perturbation},
     url = {https://doi.org/10.1007/s00222-009-0224-4},
     volume = {180},
     year = {2010}

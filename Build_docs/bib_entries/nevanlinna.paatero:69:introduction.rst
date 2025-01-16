@@ -11,9 +11,11 @@ nevanlinna.paatero:69:introduction
     author = {Nevanlinna, Rolf and Paatero, V.},
     mrclass = {30.00},
     mrnumber = {0239056},
-    note = {Translated from the German by T. K\"{o}vari and G. S. Goodman},
+    note = {Translated from the German by T. K\"{o}vari and G. S.
+   Goodman},
     pages = {ix+348},
-    publisher = {Addison-Wesley Publishing Co., Reading, Mass.-London-Don Mills, Ont.},
+    publisher = {Addison-Wesley Publishing Co., Reading, Mass.-London-Don
+   Mills, Ont.},
     title = {Introduction to complex analysis},
     year = {1969}
    }

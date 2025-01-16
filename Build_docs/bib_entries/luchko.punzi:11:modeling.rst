@@ -17,7 +17,8 @@ luchko.punzi:11:modeling
     mrnumber = {2812070},
     number = {2},
     pages = {257--276},
-    title = {Modeling anomalous heat transport in geothermal reservoirs via fractional diffusion equations},
+    title = {Modeling anomalous heat transport in geothermal reservoirs
+   via fractional diffusion equations},
     url = {https://doi.org/10.1007/s13137-010-0012-8},
     volume = {1},
     year = {2011}

@@ -13,7 +13,8 @@ chen:23:awards
     journal = {GitHub repository},
     month = {nov},
     publisher = {GitHub \& Zenodo},
-    title = {Awards from {National Science Foundation (NSF)} with a Focus on Division of Mathematical Sciences {(DMS)}},
+    title = {Awards from {National Science Foundation (NSF)} with a
+   Focus on Division of Mathematical Sciences {(DMS)}},
     url = {https://github.com/chenle02/NSF-Awards},
     year = {2023}
    }

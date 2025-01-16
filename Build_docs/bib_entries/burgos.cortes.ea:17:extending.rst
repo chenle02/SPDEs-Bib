@@ -8,7 +8,8 @@ burgos.cortes.ea:17:extending
 .. code-block:: bibtex
 
    @article{burgos.cortes.ea:17:extending,
-    author = {Burgos, C. and Cort\'{e}s, J.-C. and Villafuerte, L. and Villanueva, R.-J.},
+    author = {Burgos, C. and Cort\'{e}s, J.-C. and Villafuerte, L. and
+   Villanueva, R.-J.},
     doi = {10.1016/j.chaos.2017.02.008},
     fjournal = {Chaos, Solitons \& Fractals},
     issn = {0960-0779,1873-2887},
@@ -17,7 +18,10 @@ burgos.cortes.ea:17:extending
     mrnumber = {3672022},
     mrreviewer = {Le\ Chen},
     pages = {305--318},
-    title = {Extending the deterministic {R}iemann-{L}iouville and {C}aputo operators to the random framework: a mean square approach with applications to solve random fractional differential equations},
+    title = {Extending the deterministic {R}iemann-{L}iouville and
+   {C}aputo operators to the random framework: a mean square
+   approach with applications to solve random fractional
+   differential equations},
     url = {https://doi.org/10.1016/j.chaos.2017.02.008},
     volume = {102},
     year = {2017}

@@ -8,7 +8,8 @@ dembo.peres.ea:02:thick
 .. code-block:: bibtex
 
    @article{dembo.peres.ea:02:thick,
-    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni, Ofer},
+    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni,
+   Ofer},
     doi = {10.1090/S0002-9947-02-03080-5},
     fjournal = {Transactions of the American Mathematical Society},
     issn = {0002-9947,1088-6850},

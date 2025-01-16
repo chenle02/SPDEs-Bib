@@ -14,7 +14,8 @@ khudyaev:75:analiz
     mrreviewer = {P. C. Fife},
     pages = {394 pp. (errata on inside back cover)},
     publisher = {Izdat. ``Nauka'', Moscow},
-    title = {\cyr {A}naliz v klassakh razryvnykh funktsiu{i} i uravneniya matematicheskou{i} fiziki},
+    title = {\cyr {A}naliz v klassakh razryvnykh funktsiu{i} i
+   uravneniya matematicheskou{i} fiziki},
     year = {1975}
    }
 

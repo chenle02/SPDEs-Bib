@@ -8,7 +8,8 @@ starke.reichert.ea:07:stochastic
 .. code-block:: bibtex
 
    @incollection{starke.reichert.ea:07:stochastic,
-    author = {Starke, J. and Reichert, C. and Eiswirth, M. and Oelschl\"{a}ger, K.},
+    author = {Starke, J. and Reichert, C. and Eiswirth, M. and
+   Oelschl\"{a}ger, K.},
     booktitle = {Reactive flows, diffusion and transport},
     doi = {10.1007/978-3-540-28396-6\_13},
     isbn = {978-3-540-28379-9; 3-540-28379-X},
@@ -16,7 +17,8 @@ starke.reichert.ea:07:stochastic
     mrnumber = {2275766},
     pages = {341--370},
     publisher = {Springer, Berlin},
-    title = {Stochastic modeling and deterministic limit of catalytic surface processes},
+    title = {Stochastic modeling and deterministic limit of catalytic
+   surface processes},
     url = {https://doi.org/10.1007/978-3-540-28396-6_13},
     year = {2007}
    }

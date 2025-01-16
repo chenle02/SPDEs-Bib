@@ -18,7 +18,8 @@ millet.sanz-sole:99:stochastic
     mrreviewer = {Robert C. Dalang},
     number = {2},
     pages = {803--844},
-    title = {A stochastic wave equation in two space dimension: smoothness of the law},
+    title = {A stochastic wave equation in two space dimension:
+   smoothness of the law},
     url = {https://doi.org/10.1214/aop/1022677387},
     volume = {27},
     year = {1999}

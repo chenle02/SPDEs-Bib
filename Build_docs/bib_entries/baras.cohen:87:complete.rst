@@ -18,7 +18,8 @@ baras.cohen:87:complete
     mrreviewer = {J. W. Bebernes},
     number = {1},
     pages = {142--174},
-    title = {Complete blow-up after {$T_{{\rm max}}$} for the solution of a semilinear heat equation},
+    title = {Complete blow-up after {$T_{{\rm max}}$} for the solution
+   of a semilinear heat equation},
     url = {https://doi.org/10.1016/0022-1236(87)90020-6},
     volume = {71},
     year = {1987}

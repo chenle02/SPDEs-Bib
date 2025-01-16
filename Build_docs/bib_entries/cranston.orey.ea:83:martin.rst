@@ -17,7 +17,8 @@ cranston.orey.ea:83:martin
     pages = {63--78},
     publisher = {Cambridge Univ. Press, Cambridge-New York},
     series = {London Math. Soc. Lecture Note Ser.},
-    title = {The {M}artin boundary of two-dimensional {O}rnstein-{U}hlenbeck processes},
+    title = {The {M}artin boundary of two-dimensional
+   {O}rnstein-{U}hlenbeck processes},
     volume = {79},
     year = {1983}
    }

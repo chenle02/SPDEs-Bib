@@ -18,7 +18,8 @@ filippas.kohn:92:refined
     mrreviewer = {Victor A. Galaktionov},
     number = {7},
     pages = {821--869},
-    title = {Refined asymptotics for the blowup of {$u_t-\Delta u=u^p$}},
+    title = {Refined asymptotics for the blowup of {$u_t-\Delta
+   u=u^p$}},
     url = {https://doi.org/10.1002/cpa.3160450703},
     volume = {45},
     year = {1992}

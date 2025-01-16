@@ -17,7 +17,8 @@ lacoin:10:hierarchical
     mrnumber = {2653225},
     number = {1-2},
     pages = {159--175},
-    title = {Hierarchical pinning model with site disorder: disorder is marginally relevant},
+    title = {Hierarchical pinning model with site disorder: disorder is
+   marginally relevant},
     url = {https://doi.org/10.1007/s00440-009-0226-6},
     volume = {148},
     year = {2010}

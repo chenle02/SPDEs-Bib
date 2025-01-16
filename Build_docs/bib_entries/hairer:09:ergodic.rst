@@ -16,7 +16,8 @@ hairer:09:ergodic
     pages = {65--98},
     publisher = {Cambridge Univ. Press, Cambridge},
     series = {London Math. Soc. Lecture Note Ser.},
-    title = {Ergodic properties of a class of non-{M}arkovian processes},
+    title = {Ergodic properties of a class of non-{M}arkovian
+   processes},
     volume = {353},
     year = {2009}
    }

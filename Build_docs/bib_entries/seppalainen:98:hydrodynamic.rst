@@ -17,7 +17,8 @@ seppalainen:98:hydrodynamic
     mrreviewer = {Jean-Pierre Fouque},
     number = {1},
     pages = {1--26},
-    title = {Hydrodynamic scaling, convex duality and asymptotic shapes of growth models},
+    title = {Hydrodynamic scaling, convex duality and asymptotic shapes
+   of growth models},
     volume = {4},
     year = {1998}
    }

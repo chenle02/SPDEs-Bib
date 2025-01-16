@@ -10,7 +10,8 @@ zakai:69:on
    @article{zakai:69:on,
     author = {Zakai, Moshe},
     doi = {10.1007/BF00536382},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     journal = {Z. Wahrscheinlichkeitstheorie und Verw. Gebiete},
     mrclass = {93.60 (60.00)},
     mrnumber = {242552},

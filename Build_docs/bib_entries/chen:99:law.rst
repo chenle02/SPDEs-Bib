@@ -18,7 +18,8 @@ chen:99:law
     mrreviewer = {M. Cs\"{o}rg\H{o}},
     number = {2},
     pages = {421--445},
-    title = {The law of the iterated logarithm for functionals of {H}arris recurrent {M}arkov chains: self-normalization},
+    title = {The law of the iterated logarithm for functionals of
+   {H}arris recurrent {M}arkov chains: self-normalization},
     url = {https://doi.org/10.1023/A:1021630228280},
     volume = {12},
     year = {1999}

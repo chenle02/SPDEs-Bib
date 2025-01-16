@@ -8,7 +8,8 @@ giacomin.lacoin.ea:10:marginal
 .. code-block:: bibtex
 
    @article{giacomin.lacoin.ea:10:marginal,
-    author = {Giacomin, Giambattista and Lacoin, Hubert and Toninelli, Fabio},
+    author = {Giacomin, Giambattista and Lacoin, Hubert and Toninelli,
+   Fabio},
     doi = {10.1002/cpa.20301},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640,1097-0312},

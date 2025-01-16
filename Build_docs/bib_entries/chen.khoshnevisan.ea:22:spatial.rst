@@ -8,7 +8,8 @@ chen.khoshnevisan.ea:22:spatial
 .. code-block:: bibtex
 
    @article{chen.khoshnevisan.ea:22:spatial,
-    author = {Chen, Le and Khoshnevisan, Davar and Nualart, David and Pu, Fei},
+    author = {Chen, Le and Khoshnevisan, Davar and Nualart, David and
+   Pu, Fei},
     doi = {10.1016/j.jfa.2021.109290},
     fjournal = {Journal of Functional Analysis},
     issn = {0022-1236},
@@ -18,7 +19,8 @@ chen.khoshnevisan.ea:22:spatial
     mrreviewer = {Ciprian A. Tudor},
     number = {2},
     pages = {Paper No. 109290, 35},
-    title = {Spatial ergodicity and central limit theorems for parabolic {A}nderson model with delta initial condition},
+    title = {Spatial ergodicity and central limit theorems for
+   parabolic {A}nderson model with delta initial condition},
     url = {https://doi.org/10.1016/j.jfa.2021.109290},
     volume = {282},
     year = {2022}

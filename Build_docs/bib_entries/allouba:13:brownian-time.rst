@@ -18,7 +18,9 @@ allouba:13:brownian-time
     mrreviewer = {Martin Ondrej\'{a}t},
     number = {2},
     pages = {413--463},
-    title = {Brownian-time {B}rownian motion {SIE}s on {$\Bbb R_+\times\Bbb R^d$}: ultra regular direct and lattice-limits solutions and fourth order {SPDE}s links},
+    title = {Brownian-time {B}rownian motion {SIE}s on {$\Bbb
+   R_+\times\Bbb R^d$}: ultra regular direct and
+   lattice-limits solutions and fourth order {SPDE}s links},
     url = {https://doi.org/10.3934/dcds.2013.33.413},
     volume = {33},
     year = {2013}

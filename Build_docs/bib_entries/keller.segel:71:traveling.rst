@@ -15,7 +15,8 @@ keller.segel:71:traveling
     number = {2},
     pages = {235--248},
     publisher = {Elsevier},
-    title = {Traveling bands of chemotactic bacteria: a theoretical analysis},
+    title = {Traveling bands of chemotactic bacteria: a theoretical
+   analysis},
     volume = {30},
     year = {1971}
    }

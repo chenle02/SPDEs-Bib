@@ -16,7 +16,8 @@ al-bassam.luchko:95:on
     mrnumber = {1330570},
     mrreviewer = {K.\ C.\ Gupta},
     pages = {69--88},
-    title = {On generalized fractional calculus and its application to the solution of integro-differential equations},
+    title = {On generalized fractional calculus and its application to
+   the solution of integro-differential equations},
     volume = {7},
     year = {1995}
    }

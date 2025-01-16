@@ -17,7 +17,8 @@ gyongy.krylov:81:on
     mrnumber = {665398},
     number = {3-4},
     pages = {153--173},
-    title = {On stochastics equations with respect to semimartingales. {II}. {I}t\^{o} formula in {B}anach spaces},
+    title = {On stochastics equations with respect to semimartingales.
+   {II}. {I}t\^{o} formula in {B}anach spaces},
     url = {https://doi.org/10.1080/17442508208833202},
     volume = {6},
     year = {1981/82}

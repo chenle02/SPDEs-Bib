@@ -17,7 +17,8 @@ nane:06:laws
     mrnumber = {2223043},
     mrreviewer = {Endre Cs\'{a}ki},
     pages = {no. 18, 434--459},
-    title = {Laws of the iterated logarithm for {$\alpha$}-time {B}rownian motion},
+    title = {Laws of the iterated logarithm for {$\alpha$}-time
+   {B}rownian motion},
     url = {https://doi.org/10.1214/EJP.v11-327},
     volume = {11},
     year = {2006}

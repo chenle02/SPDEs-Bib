@@ -18,7 +18,8 @@ lefevere.zambotti:10:hot
     mrreviewer = {Christian\ Dogbe},
     number = {4},
     pages = {686--713},
-    title = {Hot scatterers and tracers for the transfer of heat in collisional dynamics},
+    title = {Hot scatterers and tracers for the transfer of heat in
+   collisional dynamics},
     url = {https://doi.org/10.1007/s10955-010-9962-3},
     volume = {139},
     year = {2010}

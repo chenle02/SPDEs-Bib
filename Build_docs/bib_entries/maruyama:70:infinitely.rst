@@ -9,7 +9,8 @@ maruyama:70:infinitely
 
    @article{maruyama:70:infinitely,
     author = {Maruyama, G.},
-    fjournal = {Akademija Nauk SSSR. Teorija Verojatnosteu{i} i ee Primenenija},
+    fjournal = {Akademija Nauk SSSR. Teorija Verojatnosteu{i} i ee
+   Primenenija},
     issn = {0040-361x},
     journal = {Teor. Verojatnost. i Primenen.},
     mrclass = {60.40},

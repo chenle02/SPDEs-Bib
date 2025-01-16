@@ -9,7 +9,8 @@ zabczyk:99:parabolic
 
    @incollection{zabczyk:99:parabolic,
     author = {Zabczyk, J.},
-    booktitle = {Stochastic {PDE}'s and {K}olmogorov equations in infinite dimensions ({C}etraro, 1998)},
+    booktitle = {Stochastic {PDE}'s and {K}olmogorov equations in infinite
+   dimensions ({C}etraro, 1998)},
     doi = {10.1007/BFb0092419},
     mrclass = {35R15 (35R60 60H30 93E20)},
     mrnumber = {1731796},

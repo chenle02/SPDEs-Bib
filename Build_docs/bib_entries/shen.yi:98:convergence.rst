@@ -18,7 +18,8 @@ shen.yi:98:convergence
     mrreviewer = {Ying\ Guo\ Lei},
     number = {1},
     pages = {84--102},
-    title = {Convergence in almost periodic {F}isher and {K}olmogorov models},
+    title = {Convergence in almost periodic {F}isher and {K}olmogorov
+   models},
     url = {https://doi.org/10.1007/s002850050121},
     volume = {37},
     year = {1998}

@@ -16,7 +16,8 @@ kochubeui.euidel-man:04:cauchy
     mrnumber = {2089744},
     number = {2},
     pages = {159--161},
-    title = {The {C}auchy problem for evolution equations of fractional order},
+    title = {The {C}auchy problem for evolution equations of fractional
+   order},
     volume = {394},
     year = {2004}
    }

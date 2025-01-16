@@ -10,7 +10,8 @@ ibragimov.lifshits:99:on
    @article{ibragimov.lifshits:99:on,
     author = {Ibragimov, I. A. and Lifshits, M. A.},
     doi = {10.1137/S0040585X97977562},
-    fjournal = {Rossiu{i}skaya Akademiya Nauk. Teoriya Veroyatnosteu{i} i ee Primeneniya},
+    fjournal = {Rossiu{i}skaya Akademiya Nauk. Teoriya Veroyatnosteu{i} i
+   ee Primeneniya},
     issn = {0040-361X},
     journal = {Teor. Veroyatnost. i Primenen.},
     mrclass = {60F15 (60F05)},

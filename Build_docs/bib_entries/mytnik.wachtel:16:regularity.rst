@@ -16,8 +16,10 @@ mytnik.wachtel:16:regularity
     mrreviewer = {Ingemar Kaj},
     pages = {viii+77},
     publisher = {Springer, Cham},
-    series = {SpringerBriefs in Probability and Mathematical Statistics},
-    title = {Regularity and irregularity of superprocesses with {$(1+\beta )$}-stable branching mechanism},
+    series = {SpringerBriefs in Probability and Mathematical
+   Statistics},
+    title = {Regularity and irregularity of superprocesses with
+   {$(1+\beta )$}-stable branching mechanism},
     url = {https://doi.org/10.1007/978-3-319-50085-0},
     year = {2016}
    }

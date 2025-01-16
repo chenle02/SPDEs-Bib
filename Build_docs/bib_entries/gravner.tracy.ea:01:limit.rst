@@ -18,7 +18,8 @@ gravner.tracy.ea:01:limit
     mrreviewer = {Timo Sepp\"{a}l\"{a}inen},
     number = {5-6},
     pages = {1085--1132},
-    title = {Limit theorems for height fluctuations in a class of discrete space and time growth models},
+    title = {Limit theorems for height fluctuations in a class of
+   discrete space and time growth models},
     url = {https://doi.org/10.1023/A:1004879725949},
     volume = {102},
     year = {2001}

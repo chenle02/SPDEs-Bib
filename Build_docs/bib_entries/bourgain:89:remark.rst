@@ -9,7 +9,8 @@ bourgain:89:remark
 
    @incollection{bourgain:89:remark,
     author = {Bourgain, J.},
-    booktitle = {Analysis at {U}rbana, {V}ol. {I} ({U}rbana, {IL}, 1986--1987)},
+    booktitle = {Analysis at {U}rbana, {V}ol. {I} ({U}rbana, {IL},
+   1986--1987)},
     isbn = {0-521-36436-1},
     mrclass = {42B25},
     mrnumber = {1009171},
@@ -17,7 +18,8 @@ bourgain:89:remark
     pages = {111--132},
     publisher = {Cambridge Univ. Press, Cambridge},
     series = {London Math. Soc. Lecture Note Ser.},
-    title = {A remark on the maximal function associated to an analytic vector field},
+    title = {A remark on the maximal function associated to an analytic
+   vector field},
     volume = {137},
     year = {1989}
    }

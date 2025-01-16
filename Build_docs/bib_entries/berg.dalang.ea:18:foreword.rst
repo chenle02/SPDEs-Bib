@@ -17,7 +17,8 @@ berg.dalang.ea:18:foreword
     mrnumber = {3907328},
     number = {3-4},
     pages = {229--230},
-    title = {Foreword [{M}emorial issue in honour of {S}. {D}. {C}hatterji (1935--2017)]},
+    title = {Foreword [{M}emorial issue in honour of {S}. {D}.
+   {C}hatterji (1935--2017)]},
     url = {https://doi.org/10.1016/j.exmath.2018.09.003},
     volume = {36},
     year = {2018}

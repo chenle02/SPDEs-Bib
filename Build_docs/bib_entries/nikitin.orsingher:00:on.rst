@@ -18,7 +18,8 @@ nikitin.orsingher:00:on
     mrreviewer = {Ross Pinsky},
     number = {4},
     pages = {997--1012},
-    title = {On sojourn distributions of processes related to some higher-order heat-type equations},
+    title = {On sojourn distributions of processes related to some
+   higher-order heat-type equations},
     url = {https://doi.org/10.1023/A:1007861923910},
     volume = {13},
     year = {2000}

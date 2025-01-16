@@ -8,7 +8,8 @@ khoshnevisan.levin.ea:08:capacities
 .. code-block:: bibtex
 
    @article{khoshnevisan.levin.ea:08:capacities,
-    author = {Khoshnevisan, Davar and Levin, David A. and M\'{e}ndez-Hern\'{a}ndez, Pedro J.},
+    author = {Khoshnevisan, Davar and Levin, David A. and
+   M\'{e}ndez-Hern\'{a}ndez, Pedro J.},
     doi = {10.1016/j.spa.2007.10.014},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149},
@@ -18,7 +19,8 @@ khoshnevisan.levin.ea:08:capacities
     mrreviewer = {Ren Ming Song},
     number = {10},
     pages = {1723--1737},
-    title = {Capacities in {W}iener space, quasi-sure lower functions, and {K}olmogorov's {$\epsilon$}-entropy},
+    title = {Capacities in {W}iener space, quasi-sure lower functions,
+   and {K}olmogorov's {$\epsilon$}-entropy},
     url = {https://doi.org/10.1016/j.spa.2007.10.014},
     volume = {118},
     year = {2008}

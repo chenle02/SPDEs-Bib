@@ -18,7 +18,8 @@ kuehn.romano:19:scaling
     mrreviewer = {Le\ Chen},
     number = {5},
     pages = {853--868},
-    title = {Scaling laws and warning signs for bifurcations of {SPDE}s},
+    title = {Scaling laws and warning signs for bifurcations of
+   {SPDE}s},
     url = {https://doi.org/10.1017/s0956792518000438},
     volume = {30},
     year = {2019}

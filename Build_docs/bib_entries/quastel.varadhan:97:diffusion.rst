@@ -18,7 +18,8 @@ quastel.varadhan:97:diffusion
     mrreviewer = {Ren Ming Song},
     number = {7},
     pages = {667--706},
-    title = {Diffusion semigroups and diffusion processes corresponding to degenerate divergence form operators},
+    title = {Diffusion semigroups and diffusion processes corresponding
+   to degenerate divergence form operators},
     url = {https://doi.org/10.1002/(SICI)1097-0312(199707)50:7<667::AID-CPA3>3.3.CO;2-T},
     volume = {50},
     year = {1997}

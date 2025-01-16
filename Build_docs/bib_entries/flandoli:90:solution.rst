@@ -18,7 +18,8 @@ flandoli:90:solution
     mrreviewer = {Negash\ G.\ Medhin},
     number = {4},
     pages = {936--949},
-    title = {Solution and control of a bilinear stochastic delay equation},
+    title = {Solution and control of a bilinear stochastic delay
+   equation},
     url = {https://doi.org/10.1137/0328052},
     volume = {28},
     year = {1990}

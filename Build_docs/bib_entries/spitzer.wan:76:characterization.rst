@@ -18,7 +18,8 @@ spitzer.wan:76:characterization
     mrreviewer = {Mukul\ Majumdar},
     number = {1},
     pages = {43--79},
-    title = {The characterization of optimal saving programs in a quadratic model},
+    title = {The characterization of optimal saving programs in a
+   quadratic model},
     url = {https://doi.org/10.1016/0304-4068(76)90006-9},
     volume = {3},
     year = {1976}

@@ -18,7 +18,8 @@ arguin.chatterjee:13:random
     mrreviewer = {Flora Koukiou},
     number = {1-2},
     pages = {375--413},
-    title = {Random overlap structures: properties and applications to spin glasses},
+    title = {Random overlap structures: properties and applications to
+   spin glasses},
     url = {https://doi.org/10.1007/s00440-012-0431-6},
     volume = {156},
     year = {2013}

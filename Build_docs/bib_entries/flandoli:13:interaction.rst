@@ -17,7 +17,8 @@ flandoli:13:interaction
     mrreviewer = {Benedetta\ Ferrario},
     number = {2},
     pages = {253--267},
-    title = {Interaction between noise and singularities in partial differential equations},
+    title = {Interaction between noise and singularities in partial
+   differential equations},
     volume = {6},
     year = {2013}
    }

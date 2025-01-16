@@ -18,7 +18,8 @@ bourgain:04:remarks
     mrreviewer = {C.\ Eugene\ Wayne},
     number = {5},
     pages = {1331--1357},
-    title = {Remarks on stability and diffusion in high-dimensional {H}amiltonian systems and partial differential equations},
+    title = {Remarks on stability and diffusion in high-dimensional
+   {H}amiltonian systems and partial differential equations},
     url = {https://doi.org/10.1017/S0143385703000750},
     volume = {24},
     year = {2004}

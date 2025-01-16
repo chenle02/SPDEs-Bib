@@ -17,7 +17,8 @@ gaw-edzki.kupiainen:85:massless
     mrreviewer = {Giovanni Felder},
     number = {2},
     pages = {197--252},
-    title = {Massless lattice {$\varphi^4_4$} theory: rigorous control of a renormalizable asymptotically free model},
+    title = {Massless lattice {$\varphi^4_4$} theory: rigorous control
+   of a renormalizable asymptotically free model},
     url = {http://projecteuclid.org/euclid.cmp/1103942678},
     volume = {99},
     year = {1985}

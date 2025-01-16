@@ -10,7 +10,8 @@ benjamin:72:stability
    @article{benjamin:72:stability,
     author = {Benjamin, T. B.},
     doi = {10.1098/rspa.1972.0074},
-    fjournal = {Proceedings of the Royal Society. London. Series A. Mathematical, Physical and Engineering Sciences},
+    fjournal = {Proceedings of the Royal Society. London. Series A.
+   Mathematical, Physical and Engineering Sciences},
     issn = {0962-8444},
     journal = {Proc. Roy. Soc. London Ser. A},
     mrclass = {35Q99 (76.35)},

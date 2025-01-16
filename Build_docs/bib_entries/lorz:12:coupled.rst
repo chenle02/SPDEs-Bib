@@ -17,7 +17,8 @@ lorz:12:coupled
     mrnumber = {2901320},
     number = {2},
     pages = {555--574},
-    title = {A coupled {K}eller-{S}egel-{S}tokes model: global existence for small initial data and blow-up delay},
+    title = {A coupled {K}eller-{S}egel-{S}tokes model: global
+   existence for small initial data and blow-up delay},
     url = {https://doi.org/10.4310/CMS.2012.v10.n2.a7},
     volume = {10},
     year = {2012}

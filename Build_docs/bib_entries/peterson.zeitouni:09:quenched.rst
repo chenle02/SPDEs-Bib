@@ -18,7 +18,8 @@ peterson.zeitouni:09:quenched
     mrreviewer = {Firas\ Rassoul-Agha},
     number = {1},
     pages = {143--188},
-    title = {Quenched limits for transient, zero speed one-dimensional random walk in random environment},
+    title = {Quenched limits for transient, zero speed one-dimensional
+   random walk in random environment},
     url = {https://doi.org/10.1214/08-AOP399},
     volume = {37},
     year = {2009}

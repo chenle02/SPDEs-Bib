@@ -16,7 +16,8 @@ plischke.racz:85:dynamic
     numpages = {0},
     pages = {3825--3828},
     publisher = {American Physical Society},
-    title = {Dynamic scaling and the surface structure of Eden clusters},
+    title = {Dynamic scaling and the surface structure of Eden
+   clusters},
     url = {https://link.aps.org/doi/10.1103/PhysRevA.32.3825},
     volume = {32},
     year = {1985}

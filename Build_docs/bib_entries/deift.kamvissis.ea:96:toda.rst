@@ -8,7 +8,8 @@ deift.kamvissis.ea:96:toda
 .. code-block:: bibtex
 
    @article{deift.kamvissis.ea:96:toda,
-    author = {Deift, Percy and Kamvissis, Spyridon and Kriecherbauer, Thomas and Zhou, Xin},
+    author = {Deift, Percy and Kamvissis, Spyridon and Kriecherbauer,
+   Thomas and Zhou, Xin},
     doi = {10.1002/(SICI)1097-0312(199601)49:1<35::AID-CPA2>3.0.CO;2-8},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640,1097-0312},

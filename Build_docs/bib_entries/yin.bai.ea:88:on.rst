@@ -18,7 +18,8 @@ yin.bai.ea:88:on
     mrreviewer = {S\'{a}ndor Cs\"{o}rg\H{o}},
     number = {4},
     pages = {509--521},
-    title = {On the limit of the largest eigenvalue of the large-dimensional sample covariance matrix},
+    title = {On the limit of the largest eigenvalue of the
+   large-dimensional sample covariance matrix},
     url = {https://doi.org/10.1007/BF00353874},
     volume = {78},
     year = {1988}

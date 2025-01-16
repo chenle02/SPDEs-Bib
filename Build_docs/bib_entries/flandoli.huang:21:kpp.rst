@@ -16,7 +16,8 @@ flandoli.huang:21:kpp
     mrclass = {60K35 (35K57 60J70 82C21)},
     mrnumber = {4319353},
     pages = {608--644},
-    title = {The {KPP} equation as a scaling limit of locally interacting {B}rownian particles},
+    title = {The {KPP} equation as a scaling limit of locally
+   interacting {B}rownian particles},
     url = {https://doi.org/10.1016/j.jde.2021.09.034},
     volume = {303},
     year = {2021}

@@ -17,7 +17,8 @@ bourgain.demeter:13:improved
     mrreviewer = {Matthew\ P.\ Young},
     number = {1},
     pages = {213--227},
-    title = {Improved estimates for the discrete {F}ourier restriction to the higher dimensional sphere},
+    title = {Improved estimates for the discrete {F}ourier restriction
+   to the higher dimensional sphere},
     url = {http://projecteuclid.org/euclid.ijm/1403534493},
     volume = {57},
     year = {2013}

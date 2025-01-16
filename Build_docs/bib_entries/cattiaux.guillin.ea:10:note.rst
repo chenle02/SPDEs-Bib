@@ -18,7 +18,8 @@ cattiaux.guillin.ea:10:note
     mrreviewer = {Gustavo Posta},
     number = {1-2},
     pages = {285--304},
-    title = {A note on {T}alagrand's transportation inequality and logarithmic {S}obolev inequality},
+    title = {A note on {T}alagrand's transportation inequality and
+   logarithmic {S}obolev inequality},
     url = {https://doi.org/10.1007/s00440-009-0231-9},
     volume = {148},
     year = {2010}

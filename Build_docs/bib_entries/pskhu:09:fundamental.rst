@@ -10,7 +10,8 @@ pskhu:09:fundamental
    @article{pskhu:09:fundamental,
     author = {Pskhu, A. V.},
     doi = {10.1070/IM2009v073n02ABEH002450},
-    fjournal = {Izvestiya Rossiiskoi Akademii Nauk. Seriya Matematicheskaya},
+    fjournal = {Izvestiya Rossiiskoi Akademii Nauk. Seriya
+   Matematicheskaya},
     issn = {1607-0046},
     journal = {Izv. Ross. Akad. Nauk Ser. Mat.},
     mrclass = {35A08 (26A33 35K57)},
@@ -18,7 +19,8 @@ pskhu:09:fundamental
     mrreviewer = {Vitali A. Liskevich},
     number = {2},
     pages = {141--182},
-    title = {The fundamental solution of a diffusion-wave equation of fractional order},
+    title = {The fundamental solution of a diffusion-wave equation of
+   fractional order},
     url = {https://doi.org/10.1070/IM2009v073n02ABEH002450},
     volume = {73},
     year = {2009}

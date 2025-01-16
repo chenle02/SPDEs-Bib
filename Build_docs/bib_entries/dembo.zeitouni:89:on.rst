@@ -9,7 +9,8 @@ dembo.zeitouni:89:on
 
    @incollection{dembo.zeitouni:89:on,
     author = {Dembo, Amir and Zeitouni, Ofer},
-    booktitle = {Stochastic partial differential equations and applications, {II} ({T}rento, 1988)},
+    booktitle = {Stochastic partial differential equations and
+   applications, {II} ({T}rento, 1988)},
     doi = {10.1007/BFb0083937},
     isbn = {3-540-51510-0},
     mrclass = {60H05},
@@ -18,7 +19,8 @@ dembo.zeitouni:89:on
     pages = {66--76},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {On the relation of anticipative {S}tratonovich and symmetric integrals: a decomposition formula},
+    title = {On the relation of anticipative {S}tratonovich and
+   symmetric integrals: a decomposition formula},
     url = {https://doi.org/10.1007/BFb0083937},
     volume = {1390},
     year = {1989}

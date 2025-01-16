@@ -17,7 +17,8 @@ shen.xue:22:forced
     mrnumber = {4506792},
     number = {4},
     pages = {3057--3088},
-    title = {Forced waves of parabolic-elliptic {K}eller-{S}egel models in shifting environments},
+    title = {Forced waves of parabolic-elliptic {K}eller-{S}egel models
+   in shifting environments},
     url = {https://doi.org/10.1007/s10884-020-09924-6},
     volume = {34},
     year = {2022}

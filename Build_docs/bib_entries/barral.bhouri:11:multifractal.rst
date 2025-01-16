@@ -18,7 +18,8 @@ barral.bhouri:11:multifractal
     mrreviewer = {St\'ephane\ Seuret},
     number = {3},
     pages = {673--701},
-    title = {Multifractal analysis for projections of {G}ibbs and related measures},
+    title = {Multifractal analysis for projections of {G}ibbs and
+   related measures},
     url = {https://doi.org/10.1017/S0143385710000143},
     volume = {31},
     year = {2011}

@@ -8,7 +8,8 @@ pinsky.stanton.ea:93:fourier
 .. code-block:: bibtex
 
    @article{pinsky.stanton.ea:93:fourier,
-    author = {Pinsky, Mark A. and Stanton, Nancy K. and Trapa, Peter E.},
+    author = {Pinsky, Mark A. and Stanton, Nancy K. and Trapa, Peter
+   E.},
     doi = {10.1006/jfan.1993.1106},
     fjournal = {Journal of Functional Analysis},
     issn = {0022-1236},

@@ -17,7 +17,9 @@ peszat:92:equivalence
     mrreviewer = {Yu.\ M.\ Kabanov},
     number = {1},
     pages = {7--17},
-    title = {Equivalence of distributions of some {O}rnstein-{U}hlenbeck processes taking values in {H}ilbert space},
+    title = {Equivalence of distributions of some
+   {O}rnstein-{U}hlenbeck processes taking values in {H}ilbert
+   space},
     volume = {13},
     year = {1992}
    }

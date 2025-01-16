@@ -17,7 +17,8 @@ borodin.corwin.ea:14:free
     mrnumber = {3207195},
     number = {7},
     pages = {1129--1214},
-    title = {Free energy fluctuations for directed polymers in random media in {$1+1$} dimension},
+    title = {Free energy fluctuations for directed polymers in random
+   media in {$1+1$} dimension},
     url = {https://doi.org/10.1002/cpa.21520},
     volume = {67},
     year = {2014}

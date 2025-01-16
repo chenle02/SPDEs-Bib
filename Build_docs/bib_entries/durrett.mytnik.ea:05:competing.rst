@@ -17,7 +17,8 @@ durrett.mytnik.ea:05:competing
     mrnumber = {2164042},
     mrreviewer = {Jie Xiong},
     pages = {no. 35, 1147--1220},
-    title = {Competing super-{B}rownian motions as limits of interacting particle systems},
+    title = {Competing super-{B}rownian motions as limits of
+   interacting particle systems},
     url = {https://doi.org/10.1214/EJP.v10-229},
     volume = {10},
     year = {2005}

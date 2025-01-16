@@ -18,7 +18,8 @@ piza:97:directed
     mrreviewer = {Aernout C. D. van Enter},
     number = {3-4},
     pages = {581--603},
-    title = {Directed polymers in a random environment: some results on fluctuations},
+    title = {Directed polymers in a random environment: some results on
+   fluctuations},
     url = {https://doi.org/10.1007/BF02765537},
     volume = {89},
     year = {1997}

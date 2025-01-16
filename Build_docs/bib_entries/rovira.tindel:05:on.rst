@@ -18,7 +18,8 @@ rovira.tindel:05:on
     mrreviewer = {Philippe Carmona},
     number = {1},
     pages = {178--201},
-    title = {On the {B}rownian-directed polymer in a {G}aussian random environment},
+    title = {On the {B}rownian-directed polymer in a {G}aussian random
+   environment},
     url = {https://doi.org/10.1016/j.jfa.2004.07.017},
     volume = {222},
     year = {2005}

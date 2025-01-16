@@ -17,7 +17,8 @@ chen:06:self-intersection
     mrnumber = {2251543},
     number = {9},
     pages = {1236--1253},
-    title = {Self-intersection local times of additive processes: large deviation and law of the iterated logarithm},
+    title = {Self-intersection local times of additive processes: large
+   deviation and law of the iterated logarithm},
     url = {https://doi.org/10.1016/j.spa.2006.02.001},
     volume = {116},
     year = {2006}

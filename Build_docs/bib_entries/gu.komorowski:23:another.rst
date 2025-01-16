@@ -17,7 +17,8 @@ gu.komorowski:23:another
     mrnumber = {4557886},
     number = {4},
     pages = {2947--2962},
-    title = {Another look at the {B}al\'{a}zs-{Q}uastel-{S}epp\"{a}l\"{a}inen theorem},
+    title = {Another look at the
+   {B}al\'{a}zs-{Q}uastel-{S}epp\"{a}l\"{a}inen theorem},
     url = {https://doi.org/10.1090/tran/8847},
     volume = {376},
     year = {2023}

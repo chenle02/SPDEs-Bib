@@ -18,7 +18,8 @@ brzezniak.capinski.ea:92:stochastic
     mrreviewer = {Ana\ Bela\ Cruzeiro},
     number = {5},
     pages = {523--532},
-    title = {Stochastic {N}avier-{S}tokes equations with multiplicative noise},
+    title = {Stochastic {N}avier-{S}tokes equations with multiplicative
+   noise},
     url = {https://doi.org/10.1080/07362999208809288},
     volume = {10},
     year = {1992}

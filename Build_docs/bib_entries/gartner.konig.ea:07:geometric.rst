@@ -8,7 +8,8 @@ gartner.konig.ea:07:geometric
 .. code-block:: bibtex
 
    @article{gartner.konig.ea:07:geometric,
-    author = {G\"{a}rtner, J\"{u}rgen and K\"{o}nig, Wolfgang and Molchanov, Stanislav},
+    author = {G\"{a}rtner, J\"{u}rgen and K\"{o}nig, Wolfgang and
+   Molchanov, Stanislav},
     doi = {10.1214/009117906000000764},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ gartner.konig.ea:07:geometric
     mrreviewer = {Peter M\"{o}rters},
     number = {2},
     pages = {439--499},
-    title = {Geometric characterization of intermittency in the parabolic {A}nderson model},
+    title = {Geometric characterization of intermittency in the
+   parabolic {A}nderson model},
     url = {https://doi.org/10.1214/009117906000000764},
     volume = {35},
     year = {2007}

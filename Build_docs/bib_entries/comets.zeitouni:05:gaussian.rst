@@ -18,7 +18,8 @@ comets.zeitouni:05:gaussian
     mrreviewer = {Nikita\ Y.\ Ratanov},
     note = {Probability in mathematics},
     pages = {87--113},
-    title = {Gaussian fluctuations for random walks in random mixing environments},
+    title = {Gaussian fluctuations for random walks in random mixing
+   environments},
     url = {https://doi.org/10.1007/BF02775433},
     volume = {148},
     year = {2005}

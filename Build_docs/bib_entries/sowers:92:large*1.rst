@@ -8,22 +8,22 @@ sowers:92:large*1
 .. code-block:: bibtex
 
    @article{sowers:92:large*1,
-    author = {Sowers, Richard},
-    doi = {10.1007/BF01300562},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051,1432-2064},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60F10},
-    mrnumber = {1165518},
-    mrreviewer = {Jerzy\ Zabczyk},
-    number = {3},
-    pages = {393--421},
-    title = {Large deviations for the invariant measure of a reaction-diffusion equation with non-{G}aussian perturbations},
-    url = {https://doi.org/10.1007/BF01300562},
-    volume = {92},
+    author = {Sowers, Richard B.},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60H15 (35K55 60G60)},
+    mrnumber = {1143433},
+    mrreviewer = {Ralf Manthey},
+    number = {1},
+    pages = {504--537},
+    title = {Large deviations for a reaction-diffusion equation with
+   non-{G}aussian perturbations},
+    url = {http://links.jstor.org/sici?sici=0091-1798(199201)20:1<504:LDFARE>2.0.CO;2-W&origin=MSN},
+    volume = {20},
     year = {1992}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF01300562}>`_
+`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(199201)20:1<504:LDFARE>2.0.CO;2-W&origin=MSN}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

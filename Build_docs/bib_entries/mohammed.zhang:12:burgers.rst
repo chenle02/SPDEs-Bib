@@ -18,7 +18,8 @@ mohammed.zhang:12:burgers
     mrreviewer = {Wei Liu},
     number = {4},
     pages = {1887--1916},
-    title = {The {B}urgers equation with affine linear noise: dynamics and stability},
+    title = {The {B}urgers equation with affine linear noise: dynamics
+   and stability},
     url = {https://doi.org/10.1016/j.spa.2011.12.002},
     volume = {122},
     year = {2012}

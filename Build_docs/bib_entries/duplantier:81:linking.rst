@@ -16,7 +16,8 @@ duplantier:81:linking
     mrnumber = {638513},
     number = {1},
     pages = {41--68},
-    title = {Linking numbers, contacts, and mutual inductances of a random set of closed curves},
+    title = {Linking numbers, contacts, and mutual inductances of a
+   random set of closed curves},
     url = {http://projecteuclid.org/euclid.cmp/1103920454},
     volume = {82},
     year = {1981/82}

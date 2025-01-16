@@ -17,7 +17,8 @@ giacomin.lacoin:22:disordered
     mrnumber = {4420425},
     number = {4},
     pages = {1478--1537},
-    title = {The disordered lattice free field pinning model approaching criticality},
+    title = {The disordered lattice free field pinning model
+   approaching criticality},
     url = {https://doi.org/10.1214/22-aop1566},
     volume = {50},
     year = {2022}

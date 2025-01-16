@@ -18,7 +18,8 @@ shen.yi:98:almost
     mrreviewer = {Russell\ A.\ Johnson},
     number = {647},
     pages = {x+93},
-    title = {Almost automorphic and almost periodic dynamics in skew-product semiflows},
+    title = {Almost automorphic and almost periodic dynamics in
+   skew-product semiflows},
     url = {https://doi.org/10.1090/memo/0647},
     volume = {136},
     year = {1998}

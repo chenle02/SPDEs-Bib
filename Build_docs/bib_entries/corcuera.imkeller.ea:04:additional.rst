@@ -8,7 +8,8 @@ corcuera.imkeller.ea:04:additional
 .. code-block:: bibtex
 
    @article{corcuera.imkeller.ea:04:additional,
-    author = {Corcuera, Jos\'{e} M. and Imkeller, Peter and Kohatsu-Higa, Arturo and Nualart, David},
+    author = {Corcuera, Jos\'{e} M. and Imkeller, Peter and
+   Kohatsu-Higa, Arturo and Nualart, David},
     doi = {10.1007/s00780-003-0119-y},
     fjournal = {Finance and Stochastics},
     issn = {0949-2984},
@@ -17,7 +18,8 @@ corcuera.imkeller.ea:04:additional
     mrnumber = {2213260},
     number = {3},
     pages = {437--450},
-    title = {Additional utility of insiders with imperfect dynamical information},
+    title = {Additional utility of insiders with imperfect dynamical
+   information},
     url = {https://doi.org/10.1007/s00780-003-0119-y},
     volume = {8},
     year = {2004}

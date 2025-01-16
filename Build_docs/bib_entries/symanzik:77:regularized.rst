@@ -9,7 +9,9 @@ symanzik:77:regularized
 
    @inproceedings{symanzik:77:regularized,
     author = {Symanzik, K.},
-    booktitle = {New developments in quantum field theory and statistical mechanics ({P}roc. {C}arg\`ese {S}ummer {I}nst., {C}arg\`ese, 1976)},
+    booktitle = {New developments in quantum field theory and statistical
+   mechanics ({P}roc. {C}arg\`ese {S}ummer {I}nst.,
+   {C}arg\`ese, 1976)},
     mrclass = {81B05 (81E10)},
     mrnumber = {508196},
     pages = {265--279},

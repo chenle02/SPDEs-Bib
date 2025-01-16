@@ -9,7 +9,8 @@ horvath.khoshnevisan:96:strong
 
    @article{horvath.khoshnevisan:96:strong,
     author = {Horv\'{a}th, L. and Khoshnevisan, D.},
-    fjournal = {Studia Scientiarum Mathematicarum Hungarica. Combinatorics, Geometry and Topology (CoGeTo)},
+    fjournal = {Studia Scientiarum Mathematicarum Hungarica.
+   Combinatorics, Geometry and Topology (CoGeTo)},
     issn = {0081-6906},
     journal = {Studia Sci. Math. Hungar.},
     mrclass = {60F15 (60F17 60J15)},

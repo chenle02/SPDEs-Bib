@@ -18,7 +18,8 @@ bianchi.flandoli:20:stochastic
     mrreviewer = {Paul Andr\'{e} Razafimandimby},
     number = {1},
     pages = {225--246},
-    title = {Stochastic {N}avier-{S}tokes equations and related models},
+    title = {Stochastic {N}avier-{S}tokes equations and related
+   models},
     url = {https://doi.org/10.1007/s00032-020-00312-9},
     volume = {88},
     year = {2020}

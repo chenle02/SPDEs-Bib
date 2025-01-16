@@ -18,7 +18,8 @@ foondun.joseph.ea:18:approximation
     mrreviewer = {Mar\'{i}a J. Garrido-Atienza},
     number = {5},
     pages = {2855--2895},
-    title = {An approximation result for a class of stochastic heat equations with colored noise},
+    title = {An approximation result for a class of stochastic heat
+   equations with colored noise},
     url = {https://doi.org/10.1214/17-AAP1376},
     volume = {28},
     year = {2018}

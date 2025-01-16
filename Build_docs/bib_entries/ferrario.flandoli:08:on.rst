@@ -18,7 +18,8 @@ ferrario.flandoli:08:on
     mrreviewer = {Hakima\ Bessaih},
     number = {5},
     pages = {762--789},
-    title = {On a stochastic version of {P}rouse model in fluid dynamics},
+    title = {On a stochastic version of {P}rouse model in fluid
+   dynamics},
     url = {https://doi.org/10.1016/j.spa.2007.06.004},
     volume = {118},
     year = {2008}

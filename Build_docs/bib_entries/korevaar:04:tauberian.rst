@@ -17,7 +17,8 @@ korevaar:04:tauberian
     note = {A century of developments},
     pages = {xvi+483},
     publisher = {Springer-Verlag, Berlin},
-    series = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+    series = {Grundlehren der mathematischen Wissenschaften [Fundamental
+   Principles of Mathematical Sciences]},
     title = {Tauberian theory},
     url = {https://doi.org/10.1007/978-3-662-10225-1},
     volume = {329},

@@ -17,7 +17,8 @@ hu.liu.ea:19:on
     mrnumber = {4066499},
     number = {3},
     pages = {669--690},
-    title = {On the necessary and sufficient conditions to solve a heat equation with general additive {G}aussian noise},
+    title = {On the necessary and sufficient conditions to solve a heat
+   equation with general additive {G}aussian noise},
     url = {https://doi.org/10.1007/s10473-019-0304-5},
     volume = {39},
     year = {2019}

@@ -13,7 +13,8 @@ karlin.taylor:75:first
     mrclass = {60GXX (60JXX 60KXX)},
     mrnumber = {356197},
     pages = {xvii+557},
-    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers], New York-London},
+    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers],
+   New York-London},
     title = {A first course in stochastic processes},
     year = {1975}
    }

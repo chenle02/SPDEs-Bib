@@ -17,7 +17,8 @@ prolhac.spohn:11:two-point
     mrreviewer = {Ivan Corwin},
     number = {1},
     pages = {P01031, 25},
-    title = {Two-point generating function of the free energy for a directed polymer in a random medium},
+    title = {Two-point generating function of the free energy for a
+   directed polymer in a random medium},
     url = {https://doi.org/10.1088/1742-5468/2011/01/p01031},
     year = {2011}
    }

@@ -18,7 +18,8 @@ winkler:11:blow-up
     mrreviewer = {Youshan Tao},
     number = {2},
     pages = {261--272},
-    title = {Blow-up in a higher-dimensional chemotaxis system despite logistic growth restriction},
+    title = {Blow-up in a higher-dimensional chemotaxis system despite
+   logistic growth restriction},
     url = {https://doi.org/10.1016/j.jmaa.2011.05.057},
     volume = {384},
     year = {2011}

@@ -18,7 +18,9 @@ bourgain:79:averaging
     mrreviewer = {J.\ Diestel},
     number = {4},
     pages = {289--298},
-    title = {An averaging result for {$l\sp{1}$}-sequences and applications to weakly conditionally compact sets in {$L\sp{1}\sb{X}$}},
+    title = {An averaging result for {$l\sp{1}$}-sequences and
+   applications to weakly conditionally compact sets in
+   {$L\sp{1}\sb{X}$}},
     url = {https://doi.org/10.1007/BF02760458},
     volume = {32},
     year = {1979}

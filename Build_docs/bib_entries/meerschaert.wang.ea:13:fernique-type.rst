@@ -18,7 +18,8 @@ meerschaert.wang.ea:13:fernique-type
     mrreviewer = {Lee-Peng Teo},
     number = {2},
     pages = {1081--1107},
-    title = {Fernique-type inequalities and moduli of continuity for anisotropic {G}aussian random fields},
+    title = {Fernique-type inequalities and moduli of continuity for
+   anisotropic {G}aussian random fields},
     url = {https://doi.org/10.1090/S0002-9947-2012-05678-9},
     volume = {365},
     year = {2013}

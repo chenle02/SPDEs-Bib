@@ -8,7 +8,8 @@ bellomo.bellouquid.ea:15:toward
 .. code-block:: bibtex
 
    @article{bellomo.bellouquid.ea:15:toward,
-    author = {Bellomo, N. and Bellouquid, A. and Tao, Y. and Winkler, M.},
+    author = {Bellomo, N. and Bellouquid, A. and Tao, Y. and Winkler,
+   M.},
     doi = {10.1142/S021820251550044X},
     fjournal = {Mathematical Models and Methods in Applied Sciences},
     issn = {0218-2025},
@@ -17,7 +18,8 @@ bellomo.bellouquid.ea:15:toward
     mrnumber = {3351175},
     number = {9},
     pages = {1663--1763},
-    title = {Toward a mathematical theory of {K}eller-{S}egel models of pattern formation in biological tissues},
+    title = {Toward a mathematical theory of {K}eller-{S}egel models of
+   pattern formation in biological tissues},
     url = {https://doi.org/10.1142/S021820251550044X},
     volume = {25},
     year = {2015}

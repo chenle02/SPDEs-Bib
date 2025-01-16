@@ -9,7 +9,8 @@ zabczyk:97:stopping
 
    @article{zabczyk:97:stopping,
     author = {Zabczyk, Jerzy},
-    fjournal = {Annales Universitatis Mariae Curie-Sk\l odowska. Sectio A. Mathematica},
+    fjournal = {Annales Universitatis Mariae Curie-Sk\l odowska. Sectio A.
+   Mathematica},
     issn = {0365-1029},
     journal = {Ann. Univ. Mariae Curie-Sk\l odowska Sect. A},
     mrclass = {60G40 (90A09)},

@@ -17,7 +17,9 @@ yor:85:renormalisation
     pages = {350--365},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Renormalisation et convergence en loi pour les temps locaux d'intersection du mouvement brownien dans {${\bf R}^3$}},
+    title = {Renormalisation et convergence en loi pour les temps
+   locaux d'intersection du mouvement brownien dans {${\bf
+   R}^3$}},
     url = {https://doi.org/10.1007/BFb0075865},
     volume = {1123},
     year = {1985}

@@ -15,7 +15,8 @@ chow:07:stochastic
     mrreviewer = {Nikita Y. Ratanov},
     pages = {x+281},
     publisher = {Chapman \& Hall/CRC, Boca Raton, FL},
-    series = {Chapman \& Hall/CRC Applied Mathematics and Nonlinear Science Series},
+    series = {Chapman \& Hall/CRC Applied Mathematics and Nonlinear
+   Science Series},
     title = {Stochastic partial differential equations},
     year = {2007}
    }

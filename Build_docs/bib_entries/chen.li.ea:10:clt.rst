@@ -8,7 +8,8 @@ chen.li.ea:10:clt
 .. code-block:: bibtex
 
    @article{chen.li.ea:10:clt,
-    author = {Chen, Xia and Li, Wenbo V. and Marcus, Michael B. and Rosen, Jay},
+    author = {Chen, Xia and Li, Wenbo V. and Marcus, Michael B. and
+   Rosen, Jay},
     doi = {10.1214/09-AOP486},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ chen.li.ea:10:clt
     mrreviewer = {Tam\'{a}s Szabados},
     number = {1},
     pages = {396--438},
-    title = {A {CLT} for the {$L^2$} modulus of continuity of {B}rownian local time},
+    title = {A {CLT} for the {$L^2$} modulus of continuity of
+   {B}rownian local time},
     url = {https://doi.org/10.1214/09-AOP486},
     volume = {38},
     year = {2010}

@@ -9,7 +9,8 @@ bourgain:83:theorem
 
    @article{bourgain:83:theorem,
     author = {Bourgain, J.},
-    fjournal = {Simon Stevin. A Quarterly Journal of Pure and Applied Mathematics},
+    fjournal = {Simon Stevin. A Quarterly Journal of Pure and Applied
+   Mathematics},
     issn = {0037-5454},
     journal = {Simon Stevin},
     mrclass = {30E05 (46J15)},

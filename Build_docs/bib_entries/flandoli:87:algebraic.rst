@@ -18,7 +18,8 @@ flandoli:87:algebraic
     mrreviewer = {V.\ Popescu},
     number = {3},
     pages = {612--636},
-    title = {Algebraic {R}iccati equation arising in boundary control problems},
+    title = {Algebraic {R}iccati equation arising in boundary control
+   problems},
     url = {https://doi.org/10.1137/0325035},
     volume = {25},
     year = {1987}

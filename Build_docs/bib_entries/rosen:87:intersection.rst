@@ -18,7 +18,8 @@ rosen:87:intersection
     mrreviewer = {Simeon M. Berman},
     number = {1},
     pages = {37--46},
-    title = {The intersection local time of fractional {B}rownian motion in the plane},
+    title = {The intersection local time of fractional {B}rownian
+   motion in the plane},
     url = {https://doi.org/10.1016/0047-259X(87)90176-X},
     volume = {23},
     year = {1987}

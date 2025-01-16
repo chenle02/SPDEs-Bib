@@ -17,7 +17,8 @@ mueller.mytnik.ea:11:effect
     mrnumber = {2793860},
     number = {2},
     pages = {405--453},
-    title = {Effect of noise on front propagation in reaction-diffusion equations of {KPP} type},
+    title = {Effect of noise on front propagation in reaction-diffusion
+   equations of {KPP} type},
     url = {https://doi.org/10.1007/s00222-010-0292-5},
     volume = {184},
     year = {2011}

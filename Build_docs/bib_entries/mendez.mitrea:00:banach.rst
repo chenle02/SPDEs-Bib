@@ -18,7 +18,8 @@ mendez.mitrea:00:banach
     mrreviewer = {Maria A. Ragusa},
     number = {5},
     pages = {503--531},
-    title = {The {B}anach envelopes of {B}esov and {T}riebel-{L}izorkin spaces and applications to partial differential equations},
+    title = {The {B}anach envelopes of {B}esov and {T}riebel-{L}izorkin
+   spaces and applications to partial differential equations},
     url = {https://doi.org/10.1007/BF02511543},
     volume = {6},
     year = {2000}

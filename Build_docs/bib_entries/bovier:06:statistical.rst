@@ -17,7 +17,8 @@ bovier:06:statistical
     note = {A mathematical perspective},
     pages = {xiv+312},
     publisher = {Cambridge University Press, Cambridge},
-    series = {Cambridge Series in Statistical and Probabilistic Mathematics},
+    series = {Cambridge Series in Statistical and Probabilistic
+   Mathematics},
     title = {Statistical mechanics of disordered systems},
     url = {https://doi.org/10.1017/CBO9780511616808},
     volume = {18},

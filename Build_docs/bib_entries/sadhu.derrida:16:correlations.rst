@@ -17,7 +17,8 @@ sadhu.derrida:16:correlations
     mrnumber = {3580974},
     number = {11},
     pages = {113202, 29},
-    title = {Correlations of the density and of the current in non-equilibrium diffusive systems},
+    title = {Correlations of the density and of the current in
+   non-equilibrium diffusive systems},
     url = {https://doi.org/10.1088/1742-5468/2016/11/113202},
     year = {2016}
    }

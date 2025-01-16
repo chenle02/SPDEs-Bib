@@ -16,7 +16,9 @@ arato:75:work
     mrnumber = {386938},
     number = {3},
     pages = {179--181},
-    title = {The work of academician {L}\'{a}szl\'{o} {K}alm\'{a}r in the field of computer science (on the occasion of his 70th birthday)},
+    title = {The work of academician {L}\'{a}szl\'{o} {K}alm\'{a}r in
+   the field of computer science (on the occasion of his 70th
+   birthday)},
     volume = {2},
     year = {1975}
    }

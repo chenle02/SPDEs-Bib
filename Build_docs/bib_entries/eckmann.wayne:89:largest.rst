@@ -17,7 +17,8 @@ eckmann.wayne:89:largest
     mrreviewer = {Massimo Campanino},
     number = {1},
     pages = {147--175},
-    title = {The largest {L}iapunov exponent for random matrices and directed polymers in a random environment},
+    title = {The largest {L}iapunov exponent for random matrices and
+   directed polymers in a random environment},
     url = {http://projecteuclid.org/euclid.cmp/1104178008},
     volume = {121},
     year = {1989}

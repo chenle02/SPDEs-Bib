@@ -17,7 +17,8 @@ chiyoda.mizukami.ea:20:finite-time
     mrnumber = {4103924},
     mrreviewer = {Chunhua Jin},
     pages = {231--259},
-    title = {Finite-time blow-up in a quasilinear degenerate chemotaxis system with flux limitation},
+    title = {Finite-time blow-up in a quasilinear degenerate chemotaxis
+   system with flux limitation},
     url = {https://doi.org/10.1007/s10440-019-00275-z},
     volume = {167},
     year = {2020}

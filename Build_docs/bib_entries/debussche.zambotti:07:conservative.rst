@@ -18,7 +18,8 @@ debussche.zambotti:07:conservative
     mrreviewer = {Jan\ I.\ Seidler},
     number = {5},
     pages = {1706--1739},
-    title = {Conservative stochastic {C}ahn-{H}illiard equation with reflection},
+    title = {Conservative stochastic {C}ahn-{H}illiard equation with
+   reflection},
     url = {https://doi.org/10.1214/009117906000000773},
     volume = {35},
     year = {2007}

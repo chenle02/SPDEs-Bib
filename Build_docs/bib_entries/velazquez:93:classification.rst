@@ -18,7 +18,8 @@ velazquez:93:classification
     mrreviewer = {Song Mu Zheng},
     number = {1},
     pages = {441--464},
-    title = {Classification of singularities for blowing up solutions in higher dimensions},
+    title = {Classification of singularities for blowing up solutions
+   in higher dimensions},
     url = {https://doi.org/10.2307/2154464},
     volume = {338},
     year = {1993}

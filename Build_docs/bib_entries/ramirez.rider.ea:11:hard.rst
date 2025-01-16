@@ -8,7 +8,8 @@ ramirez.rider.ea:11:hard
 .. code-block:: bibtex
 
    @article{ramirez.rider.ea:11:hard,
-    author = {Ram\'{i}rez, Jos\'{e} A. and Rider, Brian and Zeitouni, Ofer},
+    author = {Ram\'{i}rez, Jos\'{e} A. and Rider, Brian and Zeitouni,
+   Ofer},
     doi = {10.1214/ECP.v16-1682},
     fjournal = {Electronic Communications in Probability},
     journal = {Electron. Commun. Probab.},

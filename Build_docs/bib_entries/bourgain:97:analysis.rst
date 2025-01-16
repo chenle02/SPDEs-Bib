@@ -9,7 +9,8 @@ bourgain:97:analysis
 
    @incollection{bourgain:97:analysis,
     author = {Bourgain, Jean},
-    booktitle = {Harmonic analysis and nonlinear differential equations ({R}iverside, {CA}, 1995)},
+    booktitle = {Harmonic analysis and nonlinear differential equations
+   ({R}iverside, {CA}, 1995)},
     doi = {10.1090/conm/208/02736},
     isbn = {0-8218-0565-7},
     mrclass = {42B05 (11P21 35P20 35Q55)},
@@ -18,7 +19,8 @@ bourgain:97:analysis
     pages = {85--109},
     publisher = {Amer. Math. Soc., Providence, RI},
     series = {Contemp. Math.},
-    title = {Analysis results and problems related to lattice points on surfaces},
+    title = {Analysis results and problems related to lattice points on
+   surfaces},
     url = {https://doi.org/10.1090/conm/208/02736},
     volume = {208},
     year = {1997}

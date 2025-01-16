@@ -14,7 +14,8 @@ hu:17:analysis
     mrnumber = {3585910},
     mrreviewer = {Jan van Neerven},
     pages = {xi+470},
-    publisher = {World Scientific Publishing Co. Pte. Ltd., Hackensack, NJ},
+    publisher = {World Scientific Publishing Co. Pte. Ltd., Hackensack,
+   NJ},
     title = {Analysis on {G}aussian spaces},
     year = {2017}
    }

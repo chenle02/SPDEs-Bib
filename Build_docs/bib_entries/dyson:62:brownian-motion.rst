@@ -17,7 +17,8 @@ dyson:62:brownian-motion
     mrnumber = {148397},
     mrreviewer = {G. K\"{a}ll\'{e}n},
     pages = {1191--1198},
-    title = {A {B}rownian-motion model for the eigenvalues of a random matrix},
+    title = {A {B}rownian-motion model for the eigenvalues of a random
+   matrix},
     url = {https://doi.org/10.1063/1.1703862},
     volume = {3},
     year = {1962}

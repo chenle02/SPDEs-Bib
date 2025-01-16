@@ -17,7 +17,8 @@ lee.xiao:22:propagation
     mrnumber = {4332774},
     mrreviewer = {Kunwoo Kim},
     pages = {31--54},
-    title = {Propagation of singularities for the stochastic wave equation},
+    title = {Propagation of singularities for the stochastic wave
+   equation},
     url = {https://doi.org/10.1016/j.spa.2021.09.013},
     volume = {143},
     year = {2022}

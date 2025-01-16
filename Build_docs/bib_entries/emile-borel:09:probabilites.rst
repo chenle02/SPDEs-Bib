@@ -16,7 +16,8 @@ emile-borel:09:probabilites
     month = {Dec},
     number = {1},
     pages = {247--271},
-    title = {Les probabilit{\'e}s d{\'e}nombrables et leurs applications arithm{\'e}tiques},
+    title = {Les probabilit{\'e}s d{\'e}nombrables et leurs
+   applications arithm{\'e}tiques},
     url = {https://doi.org/10.1007/BF03019651},
     volume = {27},
     year = {1909}

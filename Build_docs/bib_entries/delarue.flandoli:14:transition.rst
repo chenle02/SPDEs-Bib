@@ -18,7 +18,8 @@ delarue.flandoli:14:transition
     mrreviewer = {Daniel\ C.\ Biles},
     number = {10},
     pages = {4071--4083},
-    title = {The transition point in the zero noise limit for a 1{D} {P}eano example},
+    title = {The transition point in the zero noise limit for a 1{D}
+   {P}eano example},
     url = {https://doi.org/10.3934/dcds.2014.34.4071},
     volume = {34},
     year = {2014}

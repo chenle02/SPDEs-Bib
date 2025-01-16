@@ -16,7 +16,8 @@ zhang.angst:20:dual-permeability
     month = {Oct},
     number = {1},
     pages = {59--78},
-    title = {A Dual-Permeability Approach to Study Anomalous Moisture Transport Properties of Cement-Based Materials},
+    title = {A Dual-Permeability Approach to Study Anomalous Moisture
+   Transport Properties of Cement-Based Materials},
     url = {https://doi.org/10.1007/s11242-020-01469-y},
     volume = {135},
     year = {2020}

@@ -18,7 +18,8 @@ quastel.remenik:13:local
     mrreviewer = {Mathew Joseph},
     number = {3-4},
     pages = {605--634},
-    title = {Local behavior and hitting probabilities of the {$\text{Airy}_1$} process},
+    title = {Local behavior and hitting probabilities of the
+   {$\text{Airy}_1$} process},
     url = {https://doi.org/10.1007/s00440-012-0466-8},
     volume = {157},
     year = {2013}

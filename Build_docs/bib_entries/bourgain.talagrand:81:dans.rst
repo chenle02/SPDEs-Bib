@@ -18,7 +18,9 @@ bourgain.talagrand:81:dans
     mrreviewer = {P.\ D.\ Morris},
     number = {1},
     pages = {93--96},
-    title = {Dans un espace de {B}anach reticul\'{e} solide, la propri\'{e}t\'{e} de {R}adon-{N}ikod\'{y}m et celle de {K}reu{i}n-{M}il{\cprime}man sont \'{e}quivalentes},
+    title = {Dans un espace de {B}anach reticul\'{e} solide, la
+   propri\'{e}t\'{e} de {R}adon-{N}ikod\'{y}m et celle de
+   {K}reu{i}n-{M}il{\cprime}man sont \'{e}quivalentes},
     url = {https://doi.org/10.2307/2043994},
     volume = {81},
     year = {1981}

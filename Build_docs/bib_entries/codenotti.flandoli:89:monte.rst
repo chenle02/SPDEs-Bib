@@ -18,7 +18,8 @@ codenotti.flandoli:89:monte
     mrreviewer = {Hans-Eberhard\ Scholz},
     number = {1},
     pages = {107--117},
-    title = {A {M}onte {C}arlo method for the parallel solution of linear systems},
+    title = {A {M}onte {C}arlo method for the parallel solution of
+   linear systems},
     url = {https://doi.org/10.1016/0885-064X(89)90016-2},
     volume = {5},
     year = {1989}

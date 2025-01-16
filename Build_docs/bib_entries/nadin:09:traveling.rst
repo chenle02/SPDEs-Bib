@@ -10,7 +10,8 @@ nadin:09:traveling
    @article{nadin:09:traveling,
     author = {Nadin, Gr\'{e}goire},
     doi = {10.1016/j.matpur.2009.04.002},
-    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es. Neuvi\`eme S\'{e}rie},
+    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es.
+   Neuvi\`eme S\'{e}rie},
     issn = {0021-7824},
     journal = {J. Math. Pures Appl. (9)},
     mrclass = {35K58 (35C07 35K57)},

@@ -18,7 +18,8 @@ quiros.rossi:01:blow-up
     mrreviewer = {Song Mu Zheng},
     number = {1},
     pages = {629--654},
-    title = {Blow-up sets and {F}ujita type curves for a degenerate parabolic system with nonlinear boundary conditions},
+    title = {Blow-up sets and {F}ujita type curves for a degenerate
+   parabolic system with nonlinear boundary conditions},
     url = {https://doi.org/10.1512/iumj.2001.50.1828},
     volume = {50},
     year = {2001}

@@ -10,7 +10,8 @@ perkins:82:local
    @article{perkins:82:local,
     author = {Perkins, Edwin},
     doi = {10.1007/BF01957098},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60J65 (60G44)},

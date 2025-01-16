@@ -17,7 +17,8 @@ schmidt.spitzer:60:toeplitz
     mrnumber = {124665},
     mrreviewer = {H.\ Widom},
     pages = {15--38},
-    title = {The {T}oeplitz matrices of an arbitrary {L}aurent polynomial},
+    title = {The {T}oeplitz matrices of an arbitrary {L}aurent
+   polynomial},
     url = {https://doi.org/10.7146/math.scand.a-10588},
     volume = {8},
     year = {1960}

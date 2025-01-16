@@ -17,7 +17,8 @@ cairoli.dalang:96:sequential
     note = {A Wiley-Interscience Publication},
     pages = {xii+327},
     publisher = {John Wiley \& Sons, Inc., New York},
-    series = {Wiley Series in Probability and Statistics: Probability and Statistics},
+    series = {Wiley Series in Probability and Statistics: Probability
+   and Statistics},
     title = {Sequential stochastic optimization},
     url = {https://doi.org/10.1002/9781118164396},
     year = {1996}

@@ -8,7 +8,8 @@ corwin.ferrari.ea:10:limit
 .. code-block:: bibtex
 
    @article{corwin.ferrari.ea:10:limit,
-    author = {Corwin, Ivan and Ferrari, Patrik L. and P\'{e}ch\'{e}, Sandrine},
+    author = {Corwin, Ivan and Ferrari, Patrik L. and P\'{e}ch\'{e},
+   Sandrine},
     doi = {10.1007/s10955-010-9995-7},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715},
@@ -18,7 +19,8 @@ corwin.ferrari.ea:10:limit
     mrreviewer = {Daniel Remenik},
     number = {2},
     pages = {232--267},
-    title = {Limit processes for {TASEP} with shocks and rarefaction fans},
+    title = {Limit processes for {TASEP} with shocks and rarefaction
+   fans},
     url = {https://doi.org/10.1007/s10955-010-9995-7},
     volume = {140},
     year = {2010}

@@ -17,7 +17,8 @@ zeitouni:22:random
     mrnumber = {4347203},
     number = {1},
     pages = {127--131},
-    title = {The random matrix theory of the classical compact groups [book review of 3971582]},
+    title = {The random matrix theory of the classical compact groups
+   [book review of 3971582]},
     url = {https://doi.org/10.2307/1970008},
     volume = {59},
     year = {2022}

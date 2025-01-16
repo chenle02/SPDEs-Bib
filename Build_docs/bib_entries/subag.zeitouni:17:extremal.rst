@@ -17,7 +17,8 @@ subag.zeitouni:17:extremal
     mrnumber = {3663631},
     number = {3-4},
     pages = {773--820},
-    title = {The extremal process of critical points of the pure {$p$}-spin spherical spin glass model},
+    title = {The extremal process of critical points of the pure
+   {$p$}-spin spherical spin glass model},
     url = {https://doi.org/10.1007/s00440-016-0724-2},
     volume = {168},
     year = {2017}

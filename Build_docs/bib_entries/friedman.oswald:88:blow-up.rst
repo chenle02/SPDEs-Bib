@@ -18,7 +18,8 @@ friedman.oswald:88:blow-up
     mrreviewer = {Pavel Krej\v{c}\'{i}},
     number = {1},
     pages = {349--367},
-    title = {The blow-up surface for nonlinear wave equations with small spatial velocity},
+    title = {The blow-up surface for nonlinear wave equations with
+   small spatial velocity},
     url = {https://doi.org/10.2307/2000968},
     volume = {308},
     year = {1988}

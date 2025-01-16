@@ -18,7 +18,8 @@ merle.zaag:98:optimal
     mrreviewer = {Dian K. Palagachev},
     number = {2},
     pages = {139--196},
-    title = {Optimal estimates for blowup rate and behavior for nonlinear heat equations},
+    title = {Optimal estimates for blowup rate and behavior for
+   nonlinear heat equations},
     url = {https://doi.org/10.1002/(SICI)1097-0312(199802)51:2<139::AID-CPA2>3.0.CO;2-C},
     volume = {51},
     year = {1998}

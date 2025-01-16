@@ -8,7 +8,8 @@ nourdin.peccati.ea:16:multidimensional
 .. code-block:: bibtex
 
    @article{nourdin.peccati.ea:16:multidimensional,
-    author = {Nourdin, Ivan and Peccati, Giovanni and Poly, Guillaume and Simone, Rosaria},
+    author = {Nourdin, Ivan and Peccati, Giovanni and Poly, Guillaume
+   and Simone, Rosaria},
     doi = {10.1051/ps/2016014},
     fjournal = {ESAIM. Probability and Statistics},
     issn = {1292-8100},
@@ -17,7 +18,8 @@ nourdin.peccati.ea:16:multidimensional
     mrnumber = {3533710},
     mrreviewer = {Yizao Wang},
     pages = {293--308},
-    title = {Multidimensional limit theorems for homogeneous sums: a survey and a general transfer principle},
+    title = {Multidimensional limit theorems for homogeneous sums: a
+   survey and a general transfer principle},
     url = {https://doi.org/10.1051/ps/2016014},
     volume = {20},
     year = {2016}

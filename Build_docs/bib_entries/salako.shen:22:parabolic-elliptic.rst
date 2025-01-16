@@ -17,7 +17,9 @@ salako.shen:22:parabolic-elliptic
     mrnumber = {4383287},
     number = {1},
     pages = {209--238},
-    title = {Parabolic-elliptic chemotaxis model with space-time dependent logistic sources on {$\Bbb{R}^N$}. {III}: {T}ransition fronts},
+    title = {Parabolic-elliptic chemotaxis model with space-time
+   dependent logistic sources on {$\Bbb{R}^N$}. {III}:
+   {T}ransition fronts},
     url = {https://doi.org/10.1007/s10884-020-09901-z},
     volume = {34},
     year = {2022}

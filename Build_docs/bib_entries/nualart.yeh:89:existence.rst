@@ -18,7 +18,9 @@ nualart.yeh:89:existence
     mrreviewer = {Constantin Tudor},
     number = {1},
     pages = {149--171},
-    title = {Existence and uniqueness of a strong solution to stochastic differential equations in the plane with stochastic boundary process},
+    title = {Existence and uniqueness of a strong solution to
+   stochastic differential equations in the plane with
+   stochastic boundary process},
     url = {https://doi.org/10.1016/0047-259X(89)90101-2},
     volume = {28},
     year = {1989}

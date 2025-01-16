@@ -16,7 +16,8 @@ hu.nualart:09:stochastic*1
     mrnumber = {2564487},
     mrreviewer = {Huijie Qiao},
     pages = {529--539},
-    title = {Stochastic integral representation of the {$L^2$} modulus of {B}rownian local time and a central limit theorem},
+    title = {Stochastic integral representation of the {$L^2$} modulus
+   of {B}rownian local time and a central limit theorem},
     url = {https://doi.org/10.1214/ECP.v14-1511},
     volume = {14},
     year = {2009}

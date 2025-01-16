@@ -17,7 +17,8 @@ rassoul-agha.seppalainen:15:course
     pages = {xiv+318},
     publisher = {American Mathematical Society, Providence, RI},
     series = {Graduate Studies in Mathematics},
-    title = {A course on large deviations with an introduction to {G}ibbs measures},
+    title = {A course on large deviations with an introduction to
+   {G}ibbs measures},
     url = {https://doi.org/10.1090/gsm/162},
     volume = {162},
     year = {2015}

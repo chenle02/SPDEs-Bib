@@ -17,7 +17,9 @@ yu.wang.ea:18:global
     mrnumber = {3765513},
     number = {2},
     pages = {1748--1770},
-    title = {Global classical solutions to the {K}eller-{S}egel-{N}avier-{S}tokes system with matrix-valued sensitivity},
+    title = {Global classical solutions to the
+   {K}eller-{S}egel-{N}avier-{S}tokes system with
+   matrix-valued sensitivity},
     url = {https://doi.org/10.1016/j.jmaa.2017.12.048},
     volume = {461},
     year = {2018}

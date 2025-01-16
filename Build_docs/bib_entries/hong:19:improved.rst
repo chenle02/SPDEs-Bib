@@ -16,7 +16,8 @@ hong:19:improved
     mrnumber = {3962478},
     mrreviewer = {Kenji Handa},
     pages = {Paper No. 28, 12},
-    title = {Improved {H}\"{o}lder continuity near the boundary of one-dimensional super-{B}rownian motion},
+    title = {Improved {H}\"{o}lder continuity near the boundary of
+   one-dimensional super-{B}rownian motion},
     url = {https://doi.org/10.1214/19-ECP237},
     volume = {24},
     year = {2019}

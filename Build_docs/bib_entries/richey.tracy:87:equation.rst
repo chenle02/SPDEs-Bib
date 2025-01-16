@@ -16,7 +16,8 @@ richey.tracy:87:equation
     mrnumber = {924716},
     number = {16},
     pages = {L1121--L1126},
-    title = {Equation of state and isothermal compressibility for the hard hexagon model in the disordered regime},
+    title = {Equation of state and isothermal compressibility for the
+   hard hexagon model in the disordered regime},
     url = {http://stacks.iop.org/0305-4470/20/L1121},
     volume = {20},
     year = {1987}

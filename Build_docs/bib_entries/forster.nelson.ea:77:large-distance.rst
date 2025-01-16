@@ -18,7 +18,8 @@ forster.nelson.ea:77:large-distance
     mrreviewer = {J. W. Thomas},
     number = {2},
     pages = {732--749},
-    title = {Large-distance and long-time properties of a randomly stirred fluid},
+    title = {Large-distance and long-time properties of a randomly
+   stirred fluid},
     url = {https://doi.org/10.1103/PhysRevA.16.732},
     volume = {16},
     year = {1977}

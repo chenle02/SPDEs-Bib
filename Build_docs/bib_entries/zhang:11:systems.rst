@@ -18,7 +18,8 @@ zhang:11:systems
     mrreviewer = {Jan I. Seidler},
     number = {6},
     pages = {1356--1372},
-    title = {Systems of stochastic partial differential equations with reflection: existence and uniqueness},
+    title = {Systems of stochastic partial differential equations with
+   reflection: existence and uniqueness},
     url = {https://doi.org/10.1016/j.spa.2011.02.003},
     volume = {121},
     year = {2011}

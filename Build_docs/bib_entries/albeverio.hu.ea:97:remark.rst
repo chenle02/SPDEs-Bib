@@ -18,7 +18,8 @@ albeverio.hu.ea:97:remark
     mrreviewer = {A. N. Al-Hussaini},
     number = {1},
     pages = {57--65},
-    title = {A remark on non-smoothness of the self-intersection local time of planar {B}rownian motion},
+    title = {A remark on non-smoothness of the self-intersection local
+   time of planar {B}rownian motion},
     url = {https://doi.org/10.1016/S0167-7152(96)00056-9},
     volume = {32},
     year = {1997}

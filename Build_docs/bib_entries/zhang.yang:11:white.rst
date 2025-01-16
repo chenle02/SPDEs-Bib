@@ -10,7 +10,8 @@ zhang.yang:11:white
    @article{zhang.yang:11:white,
     author = {Zhang, Tusheng and Yang, Juan},
     doi = {10.1142/S0219025711004523},
-    fjournal = {Infinite Dimensional Analysis, Quantum Probability and Related Topics},
+    fjournal = {Infinite Dimensional Analysis, Quantum Probability and
+   Related Topics},
     issn = {0219-0257},
     journal = {Infin. Dimens. Anal. Quantum Probab. Relat. Top.},
     mrclass = {60H15 (35K20 35R60)},

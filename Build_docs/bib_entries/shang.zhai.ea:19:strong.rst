@@ -18,7 +18,8 @@ shang.zhai.ea:19:strong
     mrreviewer = {Hee Chul Pak},
     number = {1-2},
     pages = {126--146},
-    title = {Strong solutions for a stochastic model of two-dimensional second grade fluids driven by {L}\'{e}vy noise},
+    title = {Strong solutions for a stochastic model of two-dimensional
+   second grade fluids driven by {L}\'{e}vy noise},
     url = {https://doi.org/10.1016/j.jmaa.2018.10.068},
     volume = {471},
     year = {2019}

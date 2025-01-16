@@ -8,7 +8,8 @@ barbu.da-prato.ea:16:stochastic
 .. code-block:: bibtex
 
    @book{barbu.da-prato.ea:16:stochastic,
-    author = {Barbu, Viorel and Da Prato, Giuseppe and R\"{o}ckner, Michael},
+    author = {Barbu, Viorel and Da Prato, Giuseppe and R\"{o}ckner,
+   Michael},
     doi = {10.1007/978-3-319-41069-2},
     isbn = {978-3-319-41068-5; 978-3-319-41069-2},
     mrclass = {60H15 (35K57 35R60 76S05)},

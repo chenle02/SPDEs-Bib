@@ -17,7 +17,8 @@ bourgain:88:nonlinear
     mrnumber = {942826},
     mrreviewer = {B.\ Volkmann},
     pages = {169--181},
-    title = {A nonlinear version of {R}oth's theorem for sets of positive density in the real line},
+    title = {A nonlinear version of {R}oth's theorem for sets of
+   positive density in the real line},
     url = {https://doi.org/10.1007/BF02796120},
     volume = {50},
     year = {1988}

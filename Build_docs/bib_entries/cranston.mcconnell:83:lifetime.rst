@@ -10,7 +10,8 @@ cranston.mcconnell:83:lifetime
    @article{cranston.mcconnell:83:lifetime,
     author = {Cranston, M. and McConnell, T. R.},
     doi = {10.1007/BF00534989},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60J65 (60G17)},

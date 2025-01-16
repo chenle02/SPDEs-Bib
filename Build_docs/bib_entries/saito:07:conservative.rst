@@ -18,7 +18,8 @@ saito:07:conservative
     mrreviewer = {Andreas Veeser},
     number = {2},
     pages = {332--365},
-    title = {Conservative upwind finite-element method for a simplified {K}eller-{S}egel system modelling chemotaxis},
+    title = {Conservative upwind finite-element method for a simplified
+   {K}eller-{S}egel system modelling chemotaxis},
     url = {https://doi.org/10.1093/imanum/drl018},
     volume = {27},
     year = {2007}

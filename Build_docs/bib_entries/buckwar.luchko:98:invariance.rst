@@ -17,7 +17,9 @@ buckwar.luchko:98:invariance
     mrnumber = {1652906},
     number = {1},
     pages = {81--97},
-    title = {Invariance of a partial differential equation of fractional order under the {L}ie group of scaling transformations},
+    title = {Invariance of a partial differential equation of
+   fractional order under the {L}ie group of scaling
+   transformations},
     url = {https://doi.org/10.1006/jmaa.1998.6078},
     volume = {227},
     year = {1998}

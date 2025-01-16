@@ -10,7 +10,10 @@ chronopoulou.tindel:13:on
    @article{chronopoulou.tindel:13:on,
     author = {Chronopoulou, Alexandra and Tindel, Samy},
     doi = {10.1007/s11203-013-9076-z},
-    fjournal = {Statistical Inference for Stochastic Processes. An International Journal Devoted to Time Series Analysis and the Statistics of Continuous Time Processes and Dynamical Systems},
+    fjournal = {Statistical Inference for Stochastic Processes. An
+   International Journal Devoted to Time Series Analysis and
+   the Statistics of Continuous Time Processes and Dynamical
+   Systems},
     issn = {1387-0874},
     journal = {Stat. Inference Stoch. Process.},
     mrclass = {60H35 (60H07 60H10 62M09 65C30)},

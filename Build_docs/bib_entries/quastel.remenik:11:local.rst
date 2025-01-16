@@ -16,7 +16,8 @@ quastel.remenik:11:local
     mrnumber = {2861435},
     mrreviewer = {Xinghua Zheng},
     pages = {712--719},
-    title = {Local {B}rownian property of the narrow wedge solution of the {KPZ} equation},
+    title = {Local {B}rownian property of the narrow wedge solution of
+   the {KPZ} equation},
     url = {https://doi.org/10.1214/ECP.v16-1678},
     volume = {16},
     year = {2011}

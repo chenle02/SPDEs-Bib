@@ -18,7 +18,8 @@ rider.virag:07:noise
     mrreviewer = {Peter Eichelsbacher},
     number = {2},
     pages = {Art. ID rnm006, 33},
-    title = {The noise in the circular law and the {G}aussian free field},
+    title = {The noise in the circular law and the {G}aussian free
+   field},
     url = {https://doi.org/10.1093/imrn/rnm006},
     year = {2007}
    }

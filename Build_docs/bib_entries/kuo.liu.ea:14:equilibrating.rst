@@ -18,7 +18,8 @@ kuo.liu.ea:14:equilibrating
     mrreviewer = {Silvia Caprino},
     number = {2},
     pages = {421--480},
-    title = {Equilibrating effects of boundary and collision in rarefied gases},
+    title = {Equilibrating effects of boundary and collision in
+   rarefied gases},
     url = {https://doi.org/10.1007/s00220-014-2042-9},
     volume = {328},
     year = {2014}

@@ -16,7 +16,8 @@ ito.nisio:68:on
     mrnumber = {235593},
     mrreviewer = {S. M. Samuels},
     pages = {35--48},
-    title = {On the convergence of sums of independent {B}anach space valued random variables},
+    title = {On the convergence of sums of independent {B}anach space
+   valued random variables},
     url = {http://projecteuclid.org/euclid.ojm/1200692040},
     volume = {5},
     year = {1968}

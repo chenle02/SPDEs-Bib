@@ -10,7 +10,8 @@ hairer.kelly:15:geometric
    @article{hairer.kelly:15:geometric,
     author = {Hairer, Martin and Kelly, David},
     doi = {10.1214/13-AIHP564},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60H10},

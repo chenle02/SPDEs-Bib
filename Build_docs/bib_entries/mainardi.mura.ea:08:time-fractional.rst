@@ -8,7 +8,8 @@ mainardi.mura.ea:08:time-fractional
 .. code-block:: bibtex
 
    @article{mainardi.mura.ea:08:time-fractional,
-    author = {Mainardi, Francesco and Mura, Antonio and Pagnini, Gianni and Gorenflo, Rudolf},
+    author = {Mainardi, Francesco and Mura, Antonio and Pagnini, Gianni
+   and Gorenflo, Rudolf},
     doi = {10.1177/1077546307087452},
     fjournal = {Journal of Vibration and Control},
     issn = {1077-5463,1741-2986},

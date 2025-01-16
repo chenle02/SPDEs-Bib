@@ -16,7 +16,8 @@ haraux:81:nonlinear
     pages = {xii+313},
     publisher = {Springer-Verlag, Berlin-New York},
     series = {Lecture Notes in Mathematics},
-    title = {Nonlinear evolution equations---global behavior of solutions},
+    title = {Nonlinear evolution equations---global behavior of
+   solutions},
     volume = {841},
     year = {1981}
    }

@@ -18,7 +18,8 @@ chatterjee.dunlap:20:constructing
     mrreviewer = {D. Erhard},
     number = {2},
     pages = {1014--1055},
-    title = {Constructing a solution of the {$(2+1)$}-dimensional {KPZ} equation},
+    title = {Constructing a solution of the {$(2+1)$}-dimensional {KPZ}
+   equation},
     url = {https://doi.org/10.1214/19-AOP1382},
     volume = {48},
     year = {2020}

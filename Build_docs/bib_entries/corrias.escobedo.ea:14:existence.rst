@@ -17,7 +17,9 @@ corrias.escobedo.ea:14:existence
     mrnumber = {3227285},
     number = {6},
     pages = {1840--1878},
-    title = {Existence, uniqueness and asymptotic behavior of the solutions to the fully parabolic {K}eller-{S}egel system in the plane},
+    title = {Existence, uniqueness and asymptotic behavior of the
+   solutions to the fully parabolic {K}eller-{S}egel system in
+   the plane},
     url = {https://doi.org/10.1016/j.jde.2014.05.019},
     volume = {257},
     year = {2014}

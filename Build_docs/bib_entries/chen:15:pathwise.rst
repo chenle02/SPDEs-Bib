@@ -18,7 +18,8 @@ chen:15:pathwise
     mrreviewer = {Hui\ He},
     number = {6},
     pages = {3359--3467},
-    title = {Pathwise nonuniqueness for the {SPDE}s of some super-{B}rownian motions with immigration},
+    title = {Pathwise nonuniqueness for the {SPDE}s of some
+   super-{B}rownian motions with immigration},
     url = {https://doi.org/10.1214/14-AOP962},
     volume = {43},
     year = {2015}

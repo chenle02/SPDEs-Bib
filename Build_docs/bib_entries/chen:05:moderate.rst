@@ -18,7 +18,8 @@ chen:05:moderate
     mrreviewer = {S. A. Book},
     number = {3},
     pages = {1014--1059},
-    title = {Moderate deviations and law of the iterated logarithm for intersections of the ranges of random walks},
+    title = {Moderate deviations and law of the iterated logarithm for
+   intersections of the ranges of random walks},
     url = {https://doi.org/10.1214/009117905000000035},
     volume = {33},
     year = {2005}

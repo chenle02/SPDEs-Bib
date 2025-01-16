@@ -18,7 +18,8 @@ bourgain:80:linfty-c0
     mrreviewer = {S.\ Swaminathan},
     number = {2},
     pages = {225--226},
-    title = {{$l\sp{infty }/c\sb{0}$} has no equivalent strictly convex norm},
+    title = {{$l\sp{infty }/c\sb{0}$} has no equivalent strictly convex
+   norm},
     url = {https://doi.org/10.2307/2042258},
     volume = {78},
     year = {1980}

@@ -18,7 +18,8 @@ gartner.molchanov:98:parabolic
     mrreviewer = {Matthias L\"{o}we},
     number = {1},
     pages = {17--55},
-    title = {Parabolic problems for the {A}nderson model. {II}. {S}econd-order asymptotics and structure of high peaks},
+    title = {Parabolic problems for the {A}nderson model. {II}.
+   {S}econd-order asymptotics and structure of high peaks},
     url = {https://doi.org/10.1007/s004400050161},
     volume = {111},
     year = {1998}

@@ -17,7 +17,8 @@ yang.zhang:14:mixed
     mrnumber = {3192503},
     number = {7},
     pages = {2442--2478},
-    title = {Mixed boundary value problems of semilinear elliptic {PDE}s and {BSDE}s with singular coefficients},
+    title = {Mixed boundary value problems of semilinear elliptic
+   {PDE}s and {BSDE}s with singular coefficients},
     url = {https://doi.org/10.1016/j.spa.2014.02.009},
     volume = {124},
     year = {2014}

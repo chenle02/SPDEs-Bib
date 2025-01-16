@@ -10,7 +10,8 @@ zeitouni.ziv.ea:92:when
    @article{zeitouni.ziv.ea:92:when,
     author = {Zeitouni, Ofer and Ziv, Jacob and Merhav, Neri},
     doi = {10.1109/18.149515},
-    fjournal = {Institute of Electrical and Electronics Engineers. Transactions on Information Theory},
+    fjournal = {Institute of Electrical and Electronics Engineers.
+   Transactions on Information Theory},
     issn = {0018-9448,1557-9654},
     journal = {IEEE Trans. Inform. Theory},
     mrclass = {62F05},

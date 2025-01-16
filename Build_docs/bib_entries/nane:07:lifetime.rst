@@ -17,7 +17,8 @@ nane:07:lifetime
     mrnumber = {2299652},
     mrreviewer = {Endre Cs\'{a}ki},
     pages = {147--160},
-    title = {Lifetime asymptotics of iterated {B}rownian motion in {$\mathbb{R}^n$}},
+    title = {Lifetime asymptotics of iterated {B}rownian motion in
+   {$\mathbb{R}^n$}},
     url = {https://doi.org/10.1051/ps:2007012},
     volume = {11},
     year = {2007}

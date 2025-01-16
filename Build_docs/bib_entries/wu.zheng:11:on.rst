@@ -17,7 +17,8 @@ wu.zheng:11:on
     mrnumber = {2833827},
     number = {14},
     pages = {1739--1750},
-    title = {On the well-posedness for {K}eller-{S}egel system with fractional diffusion},
+    title = {On the well-posedness for {K}eller-{S}egel system with
+   fractional diffusion},
     url = {https://doi.org/10.1002/mma.1480},
     volume = {34},
     year = {2011}

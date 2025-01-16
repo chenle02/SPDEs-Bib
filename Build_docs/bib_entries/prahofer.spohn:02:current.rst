@@ -16,7 +16,8 @@ prahofer.spohn:02:current
     pages = {185--204},
     publisher = {Birkh\"{a}user Boston, Boston, MA},
     series = {Progr. Probab.},
-    title = {Current fluctuations for the totally asymmetric simple exclusion process},
+    title = {Current fluctuations for the totally asymmetric simple
+   exclusion process},
     volume = {51},
     year = {2002}
    }

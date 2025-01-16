@@ -8,7 +8,8 @@ hofstad.hollander.ea:97:central
 .. code-block:: bibtex
 
    @article{hofstad.hollander.ea:97:central,
-    author = {van der Hofstad, R. and den Hollander, F. and K\"{o}nig, W.},
+    author = {van der Hofstad, R. and den Hollander, F. and K\"{o}nig,
+   W.},
     doi = {10.1214/aop/1024404412},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},

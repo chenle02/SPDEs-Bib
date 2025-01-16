@@ -18,7 +18,8 @@ kim:04:on
     mrreviewer = {Nikita Y. Ratanov},
     number = {2},
     pages = {261--283},
-    title = {On stochastic partial differential equations with variable coefficients in {$C^1$} domains},
+    title = {On stochastic partial differential equations with variable
+   coefficients in {$C^1$} domains},
     url = {https://doi.org/10.1016/j.spa.2004.02.006},
     volume = {112},
     year = {2004}

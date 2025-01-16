@@ -8,7 +8,8 @@ cranston.koralov.ea:09:continuous
 .. code-block:: bibtex
 
    @article{cranston.koralov.ea:09:continuous,
-    author = {Cranston, M. and Koralov, L. and Molchanov, S. and Vainberg, B.},
+    author = {Cranston, M. and Koralov, L. and Molchanov, S. and
+   Vainberg, B.},
     doi = {10.1016/j.jfa.2008.07.019},
     fjournal = {Journal of Functional Analysis},
     issn = {0022-1236},

@@ -18,7 +18,9 @@ flandoli.tortorelli:95:time
     mrreviewer = {Ana\ Bela\ Cruzeiro},
     number = {1-2},
     pages = {141--165},
-    title = {Time discretization of {O}rnstein-{U}hlenbeck equations and stochastic {N}avier-{S}tokes equations with a generalized noise},
+    title = {Time discretization of {O}rnstein-{U}hlenbeck equations
+   and stochastic {N}avier-{S}tokes equations with a
+   generalized noise},
     url = {https://doi.org/10.1080/17442509508834022},
     volume = {55},
     year = {1995}

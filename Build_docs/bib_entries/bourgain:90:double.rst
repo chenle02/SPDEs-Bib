@@ -10,7 +10,8 @@ bourgain:90:double
    @article{bourgain:90:double,
     author = {Bourgain, J.},
     doi = {10.1515/crll.1990.404.140},
-    fjournal = {Journal f\"{u}r die Reine und Angewandte Mathematik. [Crelle's Journal]},
+    fjournal = {Journal f\"{u}r die Reine und Angewandte Mathematik.
+   [Crelle's Journal]},
     issn = {0075-4102,1435-5345},
     journal = {J. Reine Angew. Math.},
     mrclass = {28D05 (11K99 47A35)},

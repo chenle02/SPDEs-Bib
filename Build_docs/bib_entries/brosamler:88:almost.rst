@@ -10,7 +10,8 @@ brosamler:88:almost
    @article{brosamler:88:almost,
     author = {Brosamler, Gunnar A.},
     doi = {10.1017/S0305004100065750},
-    fjournal = {Mathematical Proceedings of the Cambridge Philosophical Society},
+    fjournal = {Mathematical Proceedings of the Cambridge Philosophical
+   Society},
     issn = {0305-0041},
     journal = {Math. Proc. Cambridge Philos. Soc.},
     mrclass = {60F05 (60B10)},

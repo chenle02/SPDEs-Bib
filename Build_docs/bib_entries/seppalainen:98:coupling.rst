@@ -17,7 +17,8 @@ seppalainen:98:coupling
     note = {I Brazilian School in Probability (Rio de Janeiro, 1997)},
     number = {4},
     pages = {593--628},
-    title = {Coupling the totally asymmetric simple exclusion process with a moving interface},
+    title = {Coupling the totally asymmetric simple exclusion process
+   with a moving interface},
     volume = {4},
     year = {1998}
    }

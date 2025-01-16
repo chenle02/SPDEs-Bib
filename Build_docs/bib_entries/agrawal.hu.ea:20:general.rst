@@ -16,7 +16,8 @@ agrawal.hu.ea:20:general
     mrreviewer = {Omar Mellah},
     number = {3},
     pages = {Art. 3, 12},
-    title = {General product formula of multiple integrals of {L}\'{e}vy process},
+    title = {General product formula of multiple integrals of
+   {L}\'{e}vy process},
     volume = {1},
     year = {2020}
    }

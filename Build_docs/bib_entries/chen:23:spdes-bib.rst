@@ -13,7 +13,8 @@ chen:23:spdes-bib
     journal = {GitHub repository},
     month = {nov},
     publisher = {GitHub, Zenodo \& Read the Docs},
-    title = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic Partial Differential Equations and Related Topics},
+    title = {{SPDEs-Bib}: A Comprehensive Bibliography of Stochastic
+   Partial Differential Equations and Related Topics},
     url = {https://spdes-bib.readthedocs.io},
     year = {2023}
    }

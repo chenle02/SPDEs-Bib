@@ -9,7 +9,8 @@ cardy:90:conformal
 
    @incollection{cardy:90:conformal,
     author = {Cardy, John L.},
-    booktitle = {Champs, cordes et ph\'{e}nom\`enes critiques ({L}es {H}ouches, 1988)},
+    booktitle = {Champs, cordes et ph\'{e}nom\`enes critiques ({L}es
+   {H}ouches, 1988)},
     mrclass = {81-02 (81T27 81T40 82B20 82B23)},
     mrnumber = {1052933},
     mrreviewer = {Tetsuo Deguchi},

@@ -8,7 +8,8 @@ ceyhan.nishino.ea:17:analysis
 .. code-block:: bibtex
 
    @article{ceyhan.nishino.ea:17:analysis,
-    author = {Ceyhan, E. and Nishino, T. and Botteron, K. N. and Miller, M. I. and Ratnanather, J. T.},
+    author = {Ceyhan, E. and Nishino, T. and Botteron, K. N. and Miller,
+   M. I. and Ratnanather, J. T.},
     doi = {10.4310/SII.2017.v10.n2.a13},
     fjournal = {Statistics and its Interface},
     issn = {1938-7989,1938-7997},
@@ -17,7 +18,8 @@ ceyhan.nishino.ea:17:analysis
     mrnumber = {3572113},
     number = {2},
     pages = {313--341},
-    title = {Analysis of cortical morphometric variability using labeled cortical distance maps},
+    title = {Analysis of cortical morphometric variability using
+   labeled cortical distance maps},
     url = {https://doi.org/10.4310/SII.2017.v10.n2.a13},
     volume = {10},
     year = {2017}

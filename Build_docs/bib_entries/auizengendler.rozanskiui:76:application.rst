@@ -9,14 +9,18 @@ auizengendler.rozanskiui:76:application
 
    @article{auizengendler.rozanskiui:76:application,
     author = {Au{i}zengendler, P. G. and Ro\v{z}anskiu{i}, M. I.},
-    fjournal = {Rjazan. Gosudarstvennyu{i} Pedagogi\v{c}eskiu{i} Institut. Matemati\v{c}esky Kafedr. Sbornik Trudov. Differencial{\cprime}nye Uravnenija},
+    fjournal = {Rjazan. Gosudarstvennyu{i} Pedagogi\v{c}eskiu{i} Institut.
+   Matemati\v{c}esky Kafedr. Sbornik Trudov.
+   Differencial{\cprime}nye Uravnenija},
     journal = {Differencial{\cprime}nye Uravnenija (Rjazan{\cprime})},
     mrclass = {34D10},
     mrnumber = {454192},
     mrreviewer = {M. M. Konstantinov},
     number = {7},
     pages = {3--17},
-    title = {Application of the {N}ewton diagram to the problem of the stability of linear equations with quasiperiodic coefficients},
+    title = {Application of the {N}ewton diagram to the problem of the
+   stability of linear equations with quasiperiodic
+   coefficients},
     year = {1976}
    }
 

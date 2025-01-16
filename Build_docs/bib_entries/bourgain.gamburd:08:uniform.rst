@@ -18,7 +18,8 @@ bourgain.gamburd:08:uniform
     mrreviewer = {Ben\ Joseph\ Green},
     number = {2},
     pages = {625--642},
-    title = {Uniform expansion bounds for {C}ayley graphs of {${\rm SL}_2(\Bbb F_p)$}},
+    title = {Uniform expansion bounds for {C}ayley graphs of {${\rm
+   SL}_2(\Bbb F_p)$}},
     url = {https://doi.org/10.4007/annals.2008.167.625},
     volume = {167},
     year = {2008}

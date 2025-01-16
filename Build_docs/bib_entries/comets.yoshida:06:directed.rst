@@ -18,7 +18,8 @@ comets.yoshida:06:directed
     mrreviewer = {Marina Vachkovskaia},
     number = {5},
     pages = {1746--1770},
-    title = {Directed polymers in random environment are diffusive at weak disorder},
+    title = {Directed polymers in random environment are diffusive at
+   weak disorder},
     url = {https://doi.org/10.1214/009117905000000828},
     volume = {34},
     year = {2006}

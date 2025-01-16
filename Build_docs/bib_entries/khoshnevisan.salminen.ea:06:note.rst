@@ -17,7 +17,8 @@ khoshnevisan.salminen.ea:06:note
     mrnumber = {2231738},
     mrreviewer = {Iddo Ben-Ari},
     pages = {108--117},
-    title = {A note on a.s. finiteness of perpetual integral functionals of diffusions},
+    title = {A note on a.s. finiteness of perpetual integral
+   functionals of diffusions},
     url = {https://doi.org/10.1214/ECP.v11-1203},
     volume = {11},
     year = {2006}

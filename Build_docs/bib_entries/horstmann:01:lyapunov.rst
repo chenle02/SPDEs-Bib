@@ -18,7 +18,8 @@ horstmann:01:lyapunov
     mrreviewer = {Hiroki Hoshino},
     number = {1},
     pages = {113--127},
-    title = {Lyapunov functions and {$L^p$}-estimates for a class of reaction-diffusion systems},
+    title = {Lyapunov functions and {$L^p$}-estimates for a class of
+   reaction-diffusion systems},
     url = {https://doi.org/10.4064/cm87-1-7},
     volume = {87},
     year = {2001}

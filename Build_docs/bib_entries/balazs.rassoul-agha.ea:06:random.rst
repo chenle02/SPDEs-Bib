@@ -8,7 +8,8 @@ balazs.rassoul-agha.ea:06:random
 .. code-block:: bibtex
 
    @article{balazs.rassoul-agha.ea:06:random,
-    author = {Bal\'{a}zs, M\'{a}rton and Rassoul-Agha, Firas and Sepp\"{a}l\"{a}inen, Timo},
+    author = {Bal\'{a}zs, M\'{a}rton and Rassoul-Agha, Firas and
+   Sepp\"{a}l\"{a}inen, Timo},
     doi = {10.1007/s00220-006-0036-y},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},
@@ -18,7 +19,8 @@ balazs.rassoul-agha.ea:06:random
     mrreviewer = {Francis Comets},
     number = {2},
     pages = {499--545},
-    title = {The random average process and random walk in a space-time random environment in one dimension},
+    title = {The random average process and random walk in a space-time
+   random environment in one dimension},
     url = {https://doi.org/10.1007/s00220-006-0036-y},
     volume = {266},
     year = {2006}

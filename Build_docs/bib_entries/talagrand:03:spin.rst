@@ -16,7 +16,10 @@ talagrand:03:spin
     note = {Cavity and mean field models},
     pages = {x+586},
     publisher = {Springer-Verlag, Berlin},
-    series = {Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge. A Series of Modern Surveys in Mathematics [Results in Mathematics and Related Areas. 3rd Series. A Series of Modern Surveys in Mathematics]},
+    series = {Ergebnisse der Mathematik und ihrer Grenzgebiete. 3.
+   Folge. A Series of Modern Surveys in Mathematics [Results
+   in Mathematics and Related Areas. 3rd Series. A Series of
+   Modern Surveys in Mathematics]},
     title = {Spin glasses: a challenge for mathematicians},
     volume = {46},
     year = {2003}

@@ -8,7 +8,8 @@ brzezniak.flandoli.ea:11:conservative
 .. code-block:: bibtex
 
    @article{brzezniak.flandoli.ea:11:conservative,
-    author = {Brze\'{z}niak, Z. and Flandoli, F. and Neklyudov, M. and Zegarli\'{n}ski, B.},
+    author = {Brze\'{z}niak, Z. and Flandoli, F. and Neklyudov, M. and
+   Zegarli\'{n}ski, B.},
     doi = {10.1007/s10955-011-0327-3},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715,1572-9613},
@@ -18,7 +19,8 @@ brzezniak.flandoli.ea:11:conservative
     mrreviewer = {Dimitri\ Petritis},
     number = {6},
     pages = {1171--1185},
-    title = {Conservative interacting particles system with anomalous rate of ergodicity},
+    title = {Conservative interacting particles system with anomalous
+   rate of ergodicity},
     url = {https://doi.org/10.1007/s10955-011-0327-3},
     volume = {144},
     year = {2011}

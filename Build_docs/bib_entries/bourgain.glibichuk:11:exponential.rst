@@ -17,7 +17,8 @@ bourgain.glibichuk:11:exponential
     mrnumber = {2855033},
     mrreviewer = {Antonio\ Rojas Le\'{o}n},
     pages = {51--70},
-    title = {Exponential sum estimates over a subgroup in an arbitrary finite field},
+    title = {Exponential sum estimates over a subgroup in an arbitrary
+   finite field},
     url = {https://doi.org/10.1007/s11854-011-0023-x},
     volume = {115},
     year = {2011}

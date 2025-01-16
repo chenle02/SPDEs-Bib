@@ -18,7 +18,8 @@ huang.shen:09:pullback
     mrreviewer = {Bruno\ J.\ Scarpellini},
     number = {3},
     pages = {855--882},
-    title = {Pullback attractors for nonautonomous and random parabolic equations on non-smooth domains},
+    title = {Pullback attractors for nonautonomous and random parabolic
+   equations on non-smooth domains},
     url = {https://doi.org/10.3934/dcds.2009.24.855},
     volume = {24},
     year = {2009}

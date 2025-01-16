@@ -17,7 +17,9 @@ bouleau.hirsch:86:proprietes
     pages = {131--161},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Propri\'{e}t\'{e}s d'absolue continuit\'{e} dans les espaces de {D}irichlet et application aux \'{e}quations diff\'{e}rentielles stochastiques},
+    title = {Propri\'{e}t\'{e}s d'absolue continuit\'{e} dans les
+   espaces de {D}irichlet et application aux \'{e}quations
+   diff\'{e}rentielles stochastiques},
     url = {https://doi.org/10.1007/BFb0075717},
     volume = {1204},
     year = {1986}

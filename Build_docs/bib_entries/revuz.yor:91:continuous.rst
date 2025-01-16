@@ -16,7 +16,8 @@ revuz.yor:91:continuous
     mrreviewer = {F. B. Knight},
     pages = {x+533},
     publisher = {Springer-Verlag, Berlin},
-    series = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+    series = {Grundlehren der mathematischen Wissenschaften [Fundamental
+   Principles of Mathematical Sciences]},
     title = {Continuous martingales and {B}rownian motion},
     url = {https://doi.org/10.1007/978-3-662-21726-9},
     volume = {293},

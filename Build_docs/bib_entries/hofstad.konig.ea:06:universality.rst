@@ -8,7 +8,8 @@ hofstad.konig.ea:06:universality
 .. code-block:: bibtex
 
    @article{hofstad.konig.ea:06:universality,
-    author = {van der Hofstad, Remco and K\"{o}nig, Wolfgang and M\"{o}rters, Peter},
+    author = {van der Hofstad, Remco and K\"{o}nig, Wolfgang and
+   M\"{o}rters, Peter},
     doi = {10.1007/s00220-006-0075-4},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},
@@ -18,7 +19,8 @@ hofstad.konig.ea:06:universality
     mrreviewer = {David Damanik},
     number = {2},
     pages = {307--353},
-    title = {The universality classes in the parabolic {A}nderson model},
+    title = {The universality classes in the parabolic {A}nderson
+   model},
     url = {https://doi.org/10.1007/s00220-006-0075-4},
     volume = {267},
     year = {2006}

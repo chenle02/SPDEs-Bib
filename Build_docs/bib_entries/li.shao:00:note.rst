@@ -9,7 +9,8 @@ li.shao:00:note
 
    @incollection{li.shao:00:note,
     author = {Li, Wenbo V. and Shao, Qi-Man},
-    booktitle = {High dimensional probability, {II} ({S}eattle, {WA}, 1999)},
+    booktitle = {High dimensional probability, {II} ({S}eattle, {WA},
+   1999)},
     doi = {10.1142/s0129626499000189},
     mrclass = {60G15 (60E15 62H20)},
     mrnumber = {1857321},

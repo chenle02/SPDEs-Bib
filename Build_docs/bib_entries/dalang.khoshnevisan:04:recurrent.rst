@@ -18,7 +18,8 @@ dalang.khoshnevisan:04:recurrent
     mrreviewer = {M. P. Moklyachuk},
     number = {1},
     pages = {81--107},
-    title = {Recurrent lines in two-parameter isotropic stable {L}\'{e}vy sheets},
+    title = {Recurrent lines in two-parameter isotropic stable
+   {L}\'{e}vy sheets},
     url = {https://doi.org/10.1016/j.spa.2004.05.008},
     volume = {114},
     year = {2004}

@@ -18,7 +18,8 @@ li.huang.ea:22:numerical
     mrreviewer = {Mahadevan\ Ganesh},
     number = {3},
     pages = {2656--2683},
-    title = {Numerical methods for stochastic {V}olterra integral equations with weakly singular kernels},
+    title = {Numerical methods for stochastic {V}olterra integral
+   equations with weakly singular kernels},
     url = {https://doi.org/10.1093/imanum/drab047},
     volume = {42},
     year = {2022}

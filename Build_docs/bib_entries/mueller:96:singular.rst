@@ -18,7 +18,8 @@ mueller:96:singular
     mrreviewer = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
     number = {1},
     pages = {377--398},
-    title = {Singular initial conditions for the heat equation with a noise term},
+    title = {Singular initial conditions for the heat equation with a
+   noise term},
     url = {https://doi.org/10.1214/aop/1042644721},
     volume = {24},
     year = {1996}

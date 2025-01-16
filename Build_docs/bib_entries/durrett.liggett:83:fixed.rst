@@ -10,7 +10,8 @@ durrett.liggett:83:fixed
    @article{durrett.liggett:83:fixed,
     author = {Durrett, Richard and Liggett, Thomas M.},
     doi = {10.1007/BF00532962},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60G99 (60K35)},

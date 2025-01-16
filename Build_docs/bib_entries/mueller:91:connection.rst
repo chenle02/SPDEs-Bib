@@ -18,7 +18,8 @@ mueller:91:connection
     mrreviewer = {Endre Cs\'{a}ki},
     number = {3},
     pages = {365--388},
-    title = {A connection between {S}trassen's and {D}onsker-{V}aradhan's laws of the iterated logarithm},
+    title = {A connection between {S}trassen's and
+   {D}onsker-{V}aradhan's laws of the iterated logarithm},
     url = {https://doi.org/10.1007/BF01312216},
     volume = {87},
     year = {1991}

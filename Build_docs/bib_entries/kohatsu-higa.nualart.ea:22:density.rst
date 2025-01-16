@@ -8,7 +8,8 @@ kohatsu-higa.nualart.ea:22:density
 .. code-block:: bibtex
 
    @article{kohatsu-higa.nualart.ea:22:density,
-    author = {Kohatsu-Higa, Arturo and Nualart, Eulalia and Tran, Ngoc Khue},
+    author = {Kohatsu-Higa, Arturo and Nualart, Eulalia and Tran, Ngoc
+   Khue},
     doi = {10.1016/j.amc.2021.126814},
     fjournal = {Applied Mathematics and Computation},
     issn = {0096-3003},

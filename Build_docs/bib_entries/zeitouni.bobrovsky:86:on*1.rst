@@ -18,7 +18,8 @@ zeitouni.bobrovsky:86:on*1
     mrreviewer = {V\v{e}ra\ L\'{a}nsk\'{a}},
     number = {4},
     pages = {317--321},
-    title = {On the joint nonlinear filtering-smoothing of diffusion processes},
+    title = {On the joint nonlinear filtering-smoothing of diffusion
+   processes},
     url = {https://doi.org/10.1016/0167-6911(86)90046-0},
     volume = {7},
     year = {1986}

@@ -14,7 +14,8 @@ vernizzi.orland:11:random
     mrnumber = {2932662},
     pages = {873--897},
     publisher = {Oxford Univ. Press, Oxford},
-    title = {Random matrix theory and ribonucleic acid ({RNA}) folding},
+    title = {Random matrix theory and ribonucleic acid ({RNA})
+   folding},
     year = {2011}
    }
 

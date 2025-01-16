@@ -9,7 +9,8 @@ bourgain.wang:97:construction
 
    @incollection{bourgain.wang:97:construction,
     author = {Bourgain, Jean and Wang, W.},
-    fjournal = {Annali della Scuola Normale Superiore di Pisa. Classe di Scienze. Serie IV},
+    fjournal = {Annali della Scuola Normale Superiore di Pisa. Classe di
+   Scienze. Serie IV},
     issn = {0391-173X,2036-2145},
     journal = {Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4)},
     mrclass = {35Q55 (35B99 35C99)},
@@ -18,7 +19,8 @@ bourgain.wang:97:construction
     note = {Dedicated to Ennio De Giorgi},
     number = {1-2},
     pages = {197--215},
-    title = {Construction of blowup solutions for the nonlinear {S}chr\"{o}dinger equation with critical nonlinearity},
+    title = {Construction of blowup solutions for the nonlinear
+   {S}chr\"{o}dinger equation with critical nonlinearity},
     url = {http://www.numdam.org/item?id=ASNSP_1997_4_25_1-2_197_0},
     volume = {25},
     year = {1997}

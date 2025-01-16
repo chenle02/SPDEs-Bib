@@ -15,7 +15,8 @@ feller:68:introduction
     mrreviewer = {J. G. Wendel},
     pages = {xviii+509},
     publisher = {John Wiley \& Sons, Inc., New York-London-Sydney},
-    title = {An introduction to probability theory and its applications. {V}ol. {I}},
+    title = {An introduction to probability theory and its
+   applications. {V}ol. {I}},
     year = {1968}
    }
 

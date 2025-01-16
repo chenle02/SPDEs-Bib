@@ -17,7 +17,8 @@ bourgain:82:nonisomorphism
     mrnumber = {654464},
     number = {1},
     pages = {45--57},
-    title = {The nonisomorphism of {$H\sp{1}$}-spaces in one and several variables},
+    title = {The nonisomorphism of {$H\sp{1}$}-spaces in one and
+   several variables},
     url = {https://doi.org/10.1016/0022-1236(82)90043-X},
     volume = {46},
     year = {1982}

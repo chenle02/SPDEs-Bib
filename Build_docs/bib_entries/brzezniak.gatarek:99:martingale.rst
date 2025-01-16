@@ -18,7 +18,8 @@ brzezniak.gatarek:99:martingale
     mrreviewer = {Bohdan Maslowski},
     number = {2},
     pages = {187--225},
-    title = {Martingale solutions and invariant measures for stochastic evolution equations in {B}anach spaces},
+    title = {Martingale solutions and invariant measures for stochastic
+   evolution equations in {B}anach spaces},
     url = {https://doi.org/10.1016/S0304-4149(99)00034-4},
     volume = {84},
     year = {1999}

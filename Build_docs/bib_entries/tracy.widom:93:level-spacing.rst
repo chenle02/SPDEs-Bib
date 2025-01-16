@@ -10,7 +10,8 @@ tracy.widom:93:level-spacing
    @article{tracy.widom:93:level-spacing,
     author = {Tracy, Craig A. and Widom, Harold},
     doi = {10.1016/0370-2693(93)91114-3},
-    fjournal = {Physics Letters. B. Particle Physics, Nuclear Physics and Cosmology},
+    fjournal = {Physics Letters. B. Particle Physics, Nuclear Physics and
+   Cosmology},
     issn = {0370-2693},
     journal = {Phys. Lett. B},
     mrclass = {82B41 (82B20)},

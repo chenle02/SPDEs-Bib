@@ -18,7 +18,8 @@ da-prato.elworthy.ea:95:strong
     mrreviewer = {Bohdan Maslowski},
     number = {1},
     pages = {35--45},
-    title = {Strong {F}eller property for stochastic semilinear equations},
+    title = {Strong {F}eller property for stochastic semilinear
+   equations},
     url = {https://doi.org/10.1080/07362999508809381},
     volume = {13},
     year = {1995}

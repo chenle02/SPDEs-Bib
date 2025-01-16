@@ -8,7 +8,8 @@ georgiou.rassoul-agha.ea:15:ratios
 .. code-block:: bibtex
 
    @article{georgiou.rassoul-agha.ea:15:ratios,
-    author = {Georgiou, Nicos and Rassoul-Agha, Firas and Sepp\"{a}l\"{a}inen, Timo and Yilmaz, Atilla},
+    author = {Georgiou, Nicos and Rassoul-Agha, Firas and
+   Sepp\"{a}l\"{a}inen, Timo and Yilmaz, Atilla},
     doi = {10.1214/14-AOP933},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},

@@ -17,7 +17,8 @@ ding.zeitouni:14:extreme
     mrnumber = {3262484},
     number = {4},
     pages = {1480--1515},
-    title = {Extreme values for two-dimensional discrete {G}aussian free field},
+    title = {Extreme values for two-dimensional discrete {G}aussian
+   free field},
     url = {https://doi.org/10.1214/13-AOP859},
     volume = {42},
     year = {2014}

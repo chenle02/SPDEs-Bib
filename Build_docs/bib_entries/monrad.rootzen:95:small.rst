@@ -18,7 +18,8 @@ monrad.rootzen:95:small
     mrreviewer = {Karl Grill},
     number = {2},
     pages = {173--192},
-    title = {Small values of {G}aussian processes and functional laws of the iterated logarithm},
+    title = {Small values of {G}aussian processes and functional laws
+   of the iterated logarithm},
     url = {https://doi.org/10.1007/BF01375823},
     volume = {101},
     year = {1995}

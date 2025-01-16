@@ -8,7 +8,8 @@ bolanos-guerrero.nualart.ea:21:averaging
 .. code-block:: bibtex
 
    @article{bolanos-guerrero.nualart.ea:21:averaging,
-    author = {Bola\~{n}os Guerrero, Raul and Nualart, David and Zheng, Guangqu},
+    author = {Bola\~{n}os Guerrero, Raul and Nualart, David and Zheng,
+   Guangqu},
     doi = {10.1214/21-ejp672},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},

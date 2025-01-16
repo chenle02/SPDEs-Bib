@@ -17,7 +17,8 @@ bourgain:86:averages
     mrnumber = {874045},
     mrreviewer = {K.\ J.\ Falconer},
     pages = {69--85},
-    title = {Averages in the plane over convex curves and maximal operators},
+    title = {Averages in the plane over convex curves and maximal
+   operators},
     url = {https://doi.org/10.1007/BF02792533},
     volume = {47},
     year = {1986}

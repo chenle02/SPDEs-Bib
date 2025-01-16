@@ -8,7 +8,8 @@ hairer.stuart.ea:14:spectral
 .. code-block:: bibtex
 
    @article{hairer.stuart.ea:14:spectral,
-    author = {Hairer, Martin and Stuart, Andrew M. and Vollmer, Sebastian J.},
+    author = {Hairer, Martin and Stuart, Andrew M. and Vollmer,
+   Sebastian J.},
     doi = {10.1214/13-AAP982},
     fjournal = {The Annals of Applied Probability},
     issn = {1050-5164},
@@ -18,7 +19,8 @@ hairer.stuart.ea:14:spectral
     mrreviewer = {Laurent Miclo},
     number = {6},
     pages = {2455--2490},
-    title = {Spectral gaps for a {M}etropolis-{H}astings algorithm in infinite dimensions},
+    title = {Spectral gaps for a {M}etropolis-{H}astings algorithm in
+   infinite dimensions},
     url = {https://doi.org/10.1214/13-AAP982},
     volume = {24},
     year = {2014}

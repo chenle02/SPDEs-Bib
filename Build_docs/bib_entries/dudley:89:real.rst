@@ -14,7 +14,8 @@ dudley:89:real
     mrnumber = {982264},
     mrreviewer = {Evarist Gin\'{e}},
     pages = {xii+436},
-    publisher = {Wadsworth \& Brooks/Cole Advanced Books \& Software, Pacific Grove, CA},
+    publisher = {Wadsworth \& Brooks/Cole Advanced Books \& Software,
+   Pacific Grove, CA},
     series = {The Wadsworth \& Brooks/Cole Mathematics Series},
     title = {Real analysis and probability},
     year = {1989}

@@ -9,7 +9,8 @@ helgason:66:duality
 
    @inproceedings{helgason:66:duality,
     author = {Helgason, Sigur\dj ur},
-    booktitle = {Proc. {U}.{S}.-{J}apan {S}eminar in {D}ifferential {G}eometry ({K}yoto, 1965)},
+    booktitle = {Proc. {U}.{S}.-{J}apan {S}eminar in {D}ifferential
+   {G}eometry ({K}yoto, 1965)},
     mrclass = {53.90},
     mrnumber = {229191},
     mrreviewer = {J. A. Wolf},

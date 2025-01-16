@@ -18,7 +18,8 @@ bourgain:95:construction
     mrreviewer = {Pavel\ Krej\v{c}\'{i}},
     number = {4},
     pages = {629--639},
-    title = {Construction of periodic solutions of nonlinear wave equations in higher dimension},
+    title = {Construction of periodic solutions of nonlinear wave
+   equations in higher dimension},
     url = {https://doi.org/10.1007/BF01902055},
     volume = {5},
     year = {1995}

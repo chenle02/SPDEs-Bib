@@ -16,7 +16,8 @@ nourdin.viens:09:density
     mrnumber = {2556018},
     mrreviewer = {Luigi Manca},
     pages = {no. 78, 2287--2309},
-    title = {Density formula and concentration inequalities with {M}alliavin calculus},
+    title = {Density formula and concentration inequalities with
+   {M}alliavin calculus},
     url = {https://doi.org/10.1214/EJP.v14-707},
     volume = {14},
     year = {2009}

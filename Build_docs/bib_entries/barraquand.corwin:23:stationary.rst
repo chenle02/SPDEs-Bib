@@ -17,7 +17,8 @@ barraquand.corwin:23:stationary
     mrnumber = {4642225},
     number = {5},
     pages = {1830--1869},
-    title = {Stationary measures for the log-gamma polymer and {KPZ} equation in half-space},
+    title = {Stationary measures for the log-gamma polymer and {KPZ}
+   equation in half-space},
     url = {https://doi.org/10.1214/23-aop1634},
     volume = {51},
     year = {2023}

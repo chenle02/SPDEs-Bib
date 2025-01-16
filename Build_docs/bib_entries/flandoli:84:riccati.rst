@@ -18,7 +18,8 @@ flandoli:84:riccati
     mrreviewer = {Mimma\ de Acutis},
     number = {1},
     pages = {76--86},
-    title = {Riccati equation arising in a boundary control problem with distributed parameters},
+    title = {Riccati equation arising in a boundary control problem
+   with distributed parameters},
     url = {https://doi.org/10.1137/0322006},
     volume = {22},
     year = {1984}

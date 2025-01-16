@@ -18,7 +18,8 @@ li:03:first
     mrreviewer = {Luis\ Hernan R. Alvarez},
     number = {2},
     pages = {1078--1096},
-    title = {The first exit time of a {B}rownian motion from an unbounded convex domain},
+    title = {The first exit time of a {B}rownian motion from an
+   unbounded convex domain},
     url = {https://doi.org/10.1214/aop/1048516546},
     volume = {31},
     year = {2003}

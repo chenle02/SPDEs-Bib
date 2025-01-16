@@ -9,7 +9,8 @@ bourgain:83:propriete
 
    @incollection{bourgain:83:propriete,
     author = {Bourgain, Jean},
-    booktitle = {Seminar on the geometry of {B}anach spaces ({P}aris, 1982)},
+    booktitle = {Seminar on the geometry of {B}anach spaces ({P}aris,
+   1982)},
     mrclass = {46J15},
     mrnumber = {731942},
     pages = {19--27},

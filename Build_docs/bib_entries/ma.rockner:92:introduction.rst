@@ -17,7 +17,8 @@ ma.rockner:92:introduction
     pages = {vi+209},
     publisher = {Springer-Verlag, Berlin},
     series = {Universitext},
-    title = {Introduction to the theory of (nonsymmetric) {D}irichlet forms},
+    title = {Introduction to the theory of (nonsymmetric) {D}irichlet
+   forms},
     url = {https://doi.org/10.1007/978-3-642-77739-4},
     year = {1992}
    }

@@ -18,7 +18,8 @@ rassoul-agha.seppalainen:05:almost
     mrreviewer = {Wenming Hong},
     number = {3},
     pages = {299--314},
-    title = {An almost sure invariance principle for random walks in a space-time random environment},
+    title = {An almost sure invariance principle for random walks in a
+   space-time random environment},
     url = {https://doi.org/10.1007/s00440-004-0424-1},
     volume = {133},
     year = {2005}

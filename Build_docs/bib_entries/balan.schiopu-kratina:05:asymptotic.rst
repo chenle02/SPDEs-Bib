@@ -18,7 +18,8 @@ balan.schiopu-kratina:05:asymptotic
     mrreviewer = {Alexander V. Bulinskiu{i}},
     number = {2},
     pages = {522--541},
-    title = {Asymptotic results with generalized estimating equations for longitudinal data},
+    title = {Asymptotic results with generalized estimating equations
+   for longitudinal data},
     url = {https://doi.org/10.1214/009053604000001255},
     volume = {33},
     year = {2005}

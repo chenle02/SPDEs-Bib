@@ -17,7 +17,8 @@ li:99:gaussian
     mrnumber = {1741737},
     mrreviewer = {Qi\ Man\ Shao},
     pages = {111--118},
-    title = {A {G}aussian correlation inequality and its applications to small ball probabilities},
+    title = {A {G}aussian correlation inequality and its applications
+   to small ball probabilities},
     url = {https://doi.org/10.1214/ECP.v4-1012},
     volume = {4},
     year = {1999}

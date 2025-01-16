@@ -18,7 +18,8 @@ hairer.pillai:13:regularity
     mrreviewer = {Keisuke Hara},
     number = {4},
     pages = {2544--2598},
-    title = {Regularity of laws and ergodicity of hypoelliptic {SDE}s driven by rough paths},
+    title = {Regularity of laws and ergodicity of hypoelliptic {SDE}s
+   driven by rough paths},
     url = {https://doi.org/10.1214/12-AOP777},
     volume = {41},
     year = {2013}

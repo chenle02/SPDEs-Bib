@@ -16,7 +16,8 @@ maz-ya.shaposhnikova:85:theory
     pages = {xiii+344},
     publisher = {Pitman (Advanced Publishing Program), Boston, MA},
     series = {Monographs and Studies in Mathematics},
-    title = {Theory of multipliers in spaces of differentiable functions},
+    title = {Theory of multipliers in spaces of differentiable
+   functions},
     volume = {23},
     year = {1985}
    }

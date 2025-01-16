@@ -8,7 +8,8 @@ marquez-carreras.rovira.ea:11:model
 .. code-block:: bibtex
 
    @article{marquez-carreras.rovira.ea:11:model,
-    author = {M\'{a}rquez-Carreras, David and Rovira, Carles and Tindel, Samy},
+    author = {M\'{a}rquez-Carreras, David and Rovira, Carles and Tindel,
+   Samy},
     doi = {10.31390/cosa.5.1.07},
     fjournal = {Communications on Stochastic Analysis},
     journal = {Commun. Stoch. Anal.},

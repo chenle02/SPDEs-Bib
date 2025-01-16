@@ -18,7 +18,8 @@ sang.xiao:18:exact
     mrreviewer = {Fr\'{e}d\'{e}ric\ Ouimet},
     number = {2},
     pages = {431--449},
-    title = {Exact moderate and large deviations for linear random fields},
+    title = {Exact moderate and large deviations for linear random
+   fields},
     url = {https://doi.org/10.1017/jpr.2018.28},
     volume = {55},
     year = {2018}

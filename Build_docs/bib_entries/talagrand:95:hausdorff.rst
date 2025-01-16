@@ -17,7 +17,8 @@ talagrand:95:hausdorff
     mrreviewer = {Pierre Vallois},
     number = {2},
     pages = {767--775},
-    title = {Hausdorff measure of trajectories of multiparameter fractional {B}rownian motion},
+    title = {Hausdorff measure of trajectories of multiparameter
+   fractional {B}rownian motion},
     url = {http://links.jstor.org/sici?sici=0091-1798(199504)23:2<767:HMOTOM>2.0.CO;2-P&origin=MSN},
     volume = {23},
     year = {1995}

@@ -18,7 +18,8 @@ gao.quastel:03:moderate
     mrreviewer = {Francis Comets},
     number = {5},
     pages = {577--592},
-    title = {Moderate deviations from the hydrodynamic limit of the symmetric exclusion process},
+    title = {Moderate deviations from the hydrodynamic limit of the
+   symmetric exclusion process},
     url = {https://doi.org/10.1360/02ys0114},
     volume = {46},
     year = {2003}

@@ -10,7 +10,8 @@ meerschaert.wu.ea:08:local
    @article{meerschaert.wu.ea:08:local,
     author = {Meerschaert, Mark and Wu, Dongsheng and Xiao, Yimin},
     doi = {10.3150/08-BEJ126},
-    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for
+   Mathematical Statistics and Probability},
     issn = {1350-7265,1573-9759},
     journal = {Bernoulli},
     mrclass = {60G22 (60G60 60J55)},

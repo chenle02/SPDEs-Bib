@@ -16,7 +16,9 @@ suzuki.senba:11:applied
     mrnumber = {2790860},
     note = {Mathematical methods in natural science},
     pages = {xvi+515},
-    publisher = {Published by Imperial College Press, London; Distributed by World Scientific Publishing Co. Pte. Ltd., Hackensack, NJ},
+    publisher = {Published by Imperial College Press, London; Distributed
+   by World Scientific Publishing Co. Pte. Ltd., Hackensack,
+   NJ},
     title = {Applied analysis},
     url = {https://doi.org/10.1142/p753},
     year = {2011}

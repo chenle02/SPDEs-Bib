@@ -17,7 +17,8 @@ quastel.remenik:13:supremum
     mrnumber = {3024136},
     number = {3},
     pages = {442--456},
-    title = {Supremum of the {$\rm Airy_2$} process minus a parabola on a half line},
+    title = {Supremum of the {$\rm Airy_2$} process minus a parabola on
+   a half line},
     url = {https://doi.org/10.1007/s10955-012-0633-4},
     volume = {150},
     year = {2013}

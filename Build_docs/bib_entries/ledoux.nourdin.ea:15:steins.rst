@@ -18,7 +18,8 @@ ledoux.nourdin.ea:15:steins
     mrreviewer = {Fraser Alexander Daly},
     number = {1},
     pages = {256--306},
-    title = {Stein's method, logarithmic {S}obolev and transport inequalities},
+    title = {Stein's method, logarithmic {S}obolev and transport
+   inequalities},
     url = {https://doi.org/10.1007/s00039-015-0312-0},
     volume = {25},
     year = {2015}

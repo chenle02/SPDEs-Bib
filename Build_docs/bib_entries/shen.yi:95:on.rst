@@ -18,7 +18,8 @@ shen.yi:95:on
     mrreviewer = {Janusz\ Mierczy\'{n}ski},
     number = {11},
     pages = {4413--4431},
-    title = {On minimal sets of scalar parabolic equations with skew-product structures},
+    title = {On minimal sets of scalar parabolic equations with
+   skew-product structures},
     url = {https://doi.org/10.2307/2155044},
     volume = {347},
     year = {1995}

@@ -18,7 +18,8 @@ caravenna:05:local
     mrreviewer = {No\"{e}l Veraverbeke},
     number = {4},
     pages = {508--530},
-    title = {A local limit theorem for random walks conditioned to stay positive},
+    title = {A local limit theorem for random walks conditioned to stay
+   positive},
     url = {https://doi.org/10.1007/s00440-005-0444-5},
     volume = {133},
     year = {2005}

@@ -18,7 +18,8 @@ lacoin:16:mixing
     mrreviewer = {G\'erard\ Letac},
     number = {2},
     pages = {1426--1487},
-    title = {Mixing time and cutoff for the adjacent transposition shuffle and the simple exclusion},
+    title = {Mixing time and cutoff for the adjacent transposition
+   shuffle and the simple exclusion},
     url = {https://doi.org/10.1214/15-AOP1004},
     volume = {44},
     year = {2016}

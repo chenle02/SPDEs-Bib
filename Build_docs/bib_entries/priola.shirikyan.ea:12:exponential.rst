@@ -8,7 +8,8 @@ priola.shirikyan.ea:12:exponential
 .. code-block:: bibtex
 
    @article{priola.shirikyan.ea:12:exponential,
-    author = {Priola, Enrico and Shirikyan, Armen and Xu, Lihu and Zabczyk, Jerzy},
+    author = {Priola, Enrico and Shirikyan, Armen and Xu, Lihu and
+   Zabczyk, Jerzy},
     doi = {10.1016/j.spa.2011.10.003},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149},
@@ -18,7 +19,8 @@ priola.shirikyan.ea:12:exponential
     mrreviewer = {Alp O. Eden},
     number = {1},
     pages = {106--133},
-    title = {Exponential ergodicity and regularity for equations with {L}\'{e}vy noise},
+    title = {Exponential ergodicity and regularity for equations with
+   {L}\'{e}vy noise},
     url = {https://doi.org/10.1016/j.spa.2011.10.003},
     volume = {122},
     year = {2012}

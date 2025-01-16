@@ -17,7 +17,9 @@ niu.li:14:numerical
     mrnumber = {3228081},
     mrreviewer = {Vasile Dru{a}gan},
     pages = {Art. ID 630671, 7},
-    title = {Numerical algorithm for the third-order partial differential equation with three-point boundary value problem},
+    title = {Numerical algorithm for the third-order partial
+   differential equation with three-point boundary value
+   problem},
     url = {https://doi.org/10.1155/2014/630671},
     year = {2014}
    }

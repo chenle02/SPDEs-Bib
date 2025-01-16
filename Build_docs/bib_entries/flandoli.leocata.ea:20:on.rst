@@ -17,7 +17,8 @@ flandoli.leocata.ea:20:on
     mrnumber = {4161971},
     number = {6},
     pages = {2040007, 24},
-    title = {On the macroscopic limit of {B}rownian particles with local interaction},
+    title = {On the macroscopic limit of {B}rownian particles with
+   local interaction},
     url = {https://doi.org/10.1142/S0219493720400079},
     volume = {20},
     year = {2020}

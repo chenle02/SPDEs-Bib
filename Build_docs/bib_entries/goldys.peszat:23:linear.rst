@@ -16,7 +16,8 @@ goldys.peszat:23:linear
     mrclass = {60H15 (35K05 60G15 60J99)},
     mrnumber = {4561684},
     pages = {382--437},
-    title = {Linear parabolic equation with {D}irichlet white noise boundary conditions},
+    title = {Linear parabolic equation with {D}irichlet white noise
+   boundary conditions},
     url = {https://doi.org/10.1016/j.jde.2023.03.003},
     volume = {362},
     year = {2023}

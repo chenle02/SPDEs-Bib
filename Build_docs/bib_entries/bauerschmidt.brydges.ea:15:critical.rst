@@ -8,7 +8,8 @@ bauerschmidt.brydges.ea:15:critical
 .. code-block:: bibtex
 
    @article{bauerschmidt.brydges.ea:15:critical,
-    author = {Bauerschmidt, Roland and Brydges, David C. and Slade, Gordon},
+    author = {Bauerschmidt, Roland and Brydges, David C. and Slade,
+   Gordon},
     doi = {10.1007/s00220-015-2353-5},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},
@@ -18,7 +19,8 @@ bauerschmidt.brydges.ea:15:critical
     mrreviewer = {B\'{a}lint Vet\H{o}},
     number = {1},
     pages = {169--193},
-    title = {Critical two-point function of the 4-dimensional weakly self-avoiding walk},
+    title = {Critical two-point function of the 4-dimensional weakly
+   self-avoiding walk},
     url = {https://doi.org/10.1007/s00220-015-2353-5},
     volume = {338},
     year = {2015}

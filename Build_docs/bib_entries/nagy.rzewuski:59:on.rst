@@ -15,7 +15,8 @@ nagy.rzewuski:59:on
     mrnumber = {104473},
     mrreviewer = {C. Strachan},
     pages = {93--96},
-    title = {On the equivalence of a certain class of non-local and higher order field theories},
+    title = {On the equivalence of a certain class of non-local and
+   higher order field theories},
     volume = {7},
     year = {1959}
    }

@@ -18,7 +18,8 @@ ohta:97:blowup
     mrreviewer = {Linda M. Holt},
     number = {1},
     pages = {115--124},
-    title = {Blowup of solutions of dissipative nonlinear wave equations},
+    title = {Blowup of solutions of dissipative nonlinear wave
+   equations},
     url = {https://doi.org/10.14492/hokmj/1351257808},
     volume = {26},
     year = {1997}

@@ -9,7 +9,9 @@ yoshizawa:75:favards
 
    @inproceedings{yoshizawa:75:favards,
     author = {Yoshizawa, Taro},
-    booktitle = {International {C}onference on {D}ifferential {E}quations ({P}roc., {U}niv. {S}outhern {C}alifornia, {L}os {A}ngeles, {C}alif., 1974)},
+    booktitle = {International {C}onference on {D}ifferential {E}quations
+   ({P}roc., {U}niv. {S}outhern {C}alifornia, {L}os {A}ngeles,
+   {C}alif., 1974)},
     mrclass = {34C99},
     mrnumber = {430431},
     mrreviewer = {A. M. Fink},

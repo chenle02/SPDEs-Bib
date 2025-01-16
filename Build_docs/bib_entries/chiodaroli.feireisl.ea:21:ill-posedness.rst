@@ -8,7 +8,8 @@ chiodaroli.feireisl.ea:21:ill-posedness
 .. code-block:: bibtex
 
    @article{chiodaroli.feireisl.ea:21:ill-posedness,
-    author = {Chiodaroli, Elisabetta and Feireisl, Eduard and Flandoli, Franco},
+    author = {Chiodaroli, Elisabetta and Feireisl, Eduard and Flandoli,
+   Franco},
     doi = {10.1512/iumj.2021.70.8591},
     fjournal = {Indiana University Mathematics Journal},
     issn = {0022-2518,1943-5258},
@@ -18,7 +19,8 @@ chiodaroli.feireisl.ea:21:ill-posedness
     mrreviewer = {Olga\ S.\ Rozanova},
     number = {4},
     pages = {1267--1282},
-    title = {Ill-posedness for the full {E}uler system driven by multiplicative white noise},
+    title = {Ill-posedness for the full {E}uler system driven by
+   multiplicative white noise},
     url = {https://doi.org/10.1512/iumj.2021.70.8591},
     volume = {70},
     year = {2021}

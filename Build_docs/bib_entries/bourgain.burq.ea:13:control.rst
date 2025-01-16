@@ -18,7 +18,8 @@ bourgain.burq.ea:13:control
     mrreviewer = {Alberto\ Enciso},
     number = {5},
     pages = {1597--1628},
-    title = {Control for {S}chr\"{o}dinger operators on 2-tori: rough potentials},
+    title = {Control for {S}chr\"{o}dinger operators on 2-tori: rough
+   potentials},
     url = {https://doi.org/10.4171/JEMS/399},
     volume = {15},
     year = {2013}

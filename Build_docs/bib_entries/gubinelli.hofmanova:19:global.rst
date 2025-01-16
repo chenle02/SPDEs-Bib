@@ -18,7 +18,8 @@ gubinelli.hofmanova:19:global
     mrreviewer = {Peter Bernard Weichman},
     number = {3},
     pages = {1201--1266},
-    title = {Global solutions to elliptic and parabolic {$\Phi^4$} models in {E}uclidean space},
+    title = {Global solutions to elliptic and parabolic {$\Phi^4$}
+   models in {E}uclidean space},
     url = {https://doi.org/10.1007/s00220-019-03398-4},
     volume = {368},
     year = {2019}

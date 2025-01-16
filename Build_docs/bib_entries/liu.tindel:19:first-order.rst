@@ -17,7 +17,8 @@ liu.tindel:19:first-order
     mrnumber = {3910017},
     number = {2},
     pages = {758--826},
-    title = {First-order {E}uler scheme for {SDE}s driven by fractional {B}rownian motions: the rough case},
+    title = {First-order {E}uler scheme for {SDE}s driven by fractional
+   {B}rownian motions: the rough case},
     url = {https://doi.org/10.1214/17-AAP1374},
     volume = {29},
     year = {2019}

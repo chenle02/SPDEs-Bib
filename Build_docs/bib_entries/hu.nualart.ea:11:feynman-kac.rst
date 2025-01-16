@@ -18,7 +18,8 @@ hu.nualart.ea:11:feynman-kac
     mrreviewer = {No\`elia Viles},
     number = {1},
     pages = {291--326},
-    title = {Feynman-{K}ac formula for heat equation driven by fractional white noise},
+    title = {Feynman-{K}ac formula for heat equation driven by
+   fractional white noise},
     url = {https://doi.org/10.1214/10-AOP547},
     volume = {39},
     year = {2011}

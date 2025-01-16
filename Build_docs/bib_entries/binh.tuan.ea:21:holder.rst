@@ -17,7 +17,9 @@ binh.tuan.ea:21:holder
     month = {Sep},
     number = {9},
     pages = {935},
-    title = {H{\"o}lder continuity of mild solutions of space-time fractional stochastic heat equation driven by colored noise},
+    title = {H{\"o}lder continuity of mild solutions of space-time
+   fractional stochastic heat equation driven by colored
+   noise},
     url = {https://doi.org/10.1140/epjp/s13360-021-01864-4},
     volume = {136},
     year = {2021}

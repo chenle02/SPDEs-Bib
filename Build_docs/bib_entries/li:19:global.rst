@@ -17,7 +17,9 @@ li:19:global
     mrnumber = {4001056},
     number = {11},
     pages = {6290--6315},
-    title = {Global classical solutions in a {K}eller-{S}egel(-{N}avier)-{S}tokes system modeling coral fertilization},
+    title = {Global classical solutions in a
+   {K}eller-{S}egel(-{N}avier)-{S}tokes system modeling coral
+   fertilization},
     url = {https://doi.org/10.1016/j.jde.2019.06.021},
     volume = {267},
     year = {2019}

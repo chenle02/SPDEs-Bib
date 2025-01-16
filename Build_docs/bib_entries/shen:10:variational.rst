@@ -18,7 +18,9 @@ shen:10:variational
     mrreviewer = {Carlota\ M.\ Cuesta},
     number = {10},
     pages = {5125--5168},
-    title = {Variational principle for spreading speeds and generalized propagating speeds in time almost periodic and space periodic {KPP} models},
+    title = {Variational principle for spreading speeds and generalized
+   propagating speeds in time almost periodic and space
+   periodic {KPP} models},
     url = {https://doi.org/10.1090/S0002-9947-10-04950-0},
     volume = {362},
     year = {2010}

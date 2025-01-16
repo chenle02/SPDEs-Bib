@@ -18,7 +18,8 @@ hongler.smirnov:11:critical
     mrreviewer = {Dmitry\ Beliaev},
     number = {3-4},
     pages = {735--756},
-    title = {Critical percolation: the expected number of clusters in a rectangle},
+    title = {Critical percolation: the expected number of clusters in a
+   rectangle},
     url = {https://doi.org/10.1007/s00440-010-0313-8},
     volume = {151},
     year = {2011}

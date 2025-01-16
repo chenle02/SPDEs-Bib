@@ -18,7 +18,8 @@ hetzer.shen:01:convergence
     mrreviewer = {Sergei\ Trofimchuk},
     number = {1},
     pages = {307--338},
-    title = {Convergence in almost periodic competition diffusion systems},
+    title = {Convergence in almost periodic competition diffusion
+   systems},
     url = {https://doi.org/10.1006/jmaa.2001.7582},
     volume = {262},
     year = {2001}

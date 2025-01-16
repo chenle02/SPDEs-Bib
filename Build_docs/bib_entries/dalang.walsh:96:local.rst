@@ -9,7 +9,8 @@ dalang.walsh:96:local
 
    @incollection{dalang.walsh:96:local,
     author = {Dalang, Robert C. and Walsh, John B.},
-    booktitle = {Stochastic analysis: random fields and measure-valued processes ({R}amat {G}an, 1993/1995)},
+    booktitle = {Stochastic analysis: random fields and measure-valued
+   processes ({R}amat {G}an, 1993/1995)},
     mrclass = {60G60 (60J65)},
     mrnumber = {1415187},
     pages = {57--64},

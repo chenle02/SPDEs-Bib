@@ -18,7 +18,8 @@ derrida.appert:99:universal
     mrreviewer = {Filippo\ Cesi},
     number = {1-2},
     pages = {1--30},
-    title = {Universal large-deviation function of the {K}ardar-{P}arisi-{Z}hang equation in one dimension},
+    title = {Universal large-deviation function of the
+   {K}ardar-{P}arisi-{Z}hang equation in one dimension},
     url = {https://doi.org/10.1023/A:1004519626804},
     volume = {94},
     year = {1999}

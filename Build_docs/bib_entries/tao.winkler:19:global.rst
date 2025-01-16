@@ -18,7 +18,8 @@ tao.winkler:19:global
     mrreviewer = {Doron Levy},
     number = {1},
     pages = {388--406},
-    title = {Global smooth solvability of a parabolic-elliptic nutrient taxis system in domains of arbitrary dimension},
+    title = {Global smooth solvability of a parabolic-elliptic nutrient
+   taxis system in domains of arbitrary dimension},
     url = {https://doi.org/10.1016/j.jde.2019.01.014},
     volume = {267},
     year = {2019}

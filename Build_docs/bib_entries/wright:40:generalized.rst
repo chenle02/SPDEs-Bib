@@ -17,7 +17,8 @@ wright:40:generalized
     mrnumber = {3875},
     mrreviewer = {M. C. Gray},
     pages = {36--48},
-    title = {The generalized {B}essel function of order greater than one},
+    title = {The generalized {B}essel function of order greater than
+   one},
     url = {https://doi.org/10.1093/qmath/os-11.1.36},
     volume = {11},
     year = {1940}

@@ -16,7 +16,8 @@ lions:96:mathematical
     note = {Incompressible models, Oxford Science Publications},
     pages = {xiv+237},
     publisher = {The Clarendon Press, Oxford University Press, New York},
-    series = {Oxford Lecture Series in Mathematics and its Applications},
+    series = {Oxford Lecture Series in Mathematics and its
+   Applications},
     title = {Mathematical topics in fluid mechanics. {V}ol. 1},
     volume = {3},
     year = {1996}

@@ -8,7 +8,8 @@ derrida.janowsky.ea:93:microscopic-shock
 .. code-block:: bibtex
 
    @article{derrida.janowsky.ea:93:microscopic-shock,
-    author = {Derrida, B. and Janowsky, S. A. and Lebowitz, J. L. and Speer, E. R.},
+    author = {Derrida, B. and Janowsky, S. A. and Lebowitz, J. L. and
+   Speer, E. R.},
     doi = {10.1209/0295-5075/22/9/003},
     fjournal = {Europhysics Letters},
     issn = {0295-5075,1286-4854},
@@ -18,7 +19,8 @@ derrida.janowsky.ea:93:microscopic-shock
     mrreviewer = {Krystyna\ Parczyk},
     number = {9},
     pages = {651--656},
-    title = {Microscopic-shock profiles: exact solution of a nonequilibrium system},
+    title = {Microscopic-shock profiles: exact solution of a
+   nonequilibrium system},
     url = {https://doi.org/10.1209/0295-5075/22/9/003},
     volume = {22},
     year = {1993}

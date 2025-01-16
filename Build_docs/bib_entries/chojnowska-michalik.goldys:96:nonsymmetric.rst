@@ -18,7 +18,8 @@ chojnowska-michalik.goldys:96:nonsymmetric
     mrreviewer = {Joerg-Uwe\ Loebus},
     number = {3},
     pages = {481--498},
-    title = {Nonsymmetric {O}rnstein-{U}hlenbeck semigroup as second quantized operator},
+    title = {Nonsymmetric {O}rnstein-{U}hlenbeck semigroup as second
+   quantized operator},
     url = {https://doi.org/10.1215/kjm/1250518505},
     volume = {36},
     year = {1996}

@@ -16,7 +16,8 @@ derrida.higgs:94:low-temperature
     mrnumber = {1295374},
     number = {16},
     pages = {5485--5493},
-    title = {Low-temperature properties of directed walks with random self-interactions},
+    title = {Low-temperature properties of directed walks with random
+   self-interactions},
     url = {http://stacks.iop.org/0305-4470/27/5485},
     volume = {27},
     year = {1994}

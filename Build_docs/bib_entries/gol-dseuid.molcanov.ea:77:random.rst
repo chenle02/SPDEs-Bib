@@ -8,8 +8,10 @@ gol-dseuid.molcanov.ea:77:random
 .. code-block:: bibtex
 
    @article{gol-dseuid.molcanov.ea:77:random,
-    author = {Gol{\cprime}d\v{s}eu{i}d, I. Ja. and Mol\v{c}anov, S. A. and Pastur, L. A.},
-    fjournal = {Akademija Nauk SSSR. Funkcional{\cprime}nyi Analiz i ego Prilo\v{z}enija},
+    author = {Gol{\cprime}d\v{s}eu{i}d, I. Ja. and Mol\v{c}anov, S. A.
+   and Pastur, L. A.},
+    fjournal = {Akademija Nauk SSSR. Funkcional{\cprime}nyi Analiz i ego
+   Prilo\v{z}enija},
     issn = {0374-1990},
     journal = {Funkcional. Anal. i Prilo\v{z}en.},
     mrclass = {35P05 (35J10)},
@@ -17,7 +19,8 @@ gol-dseuid.molcanov.ea:77:random
     mrreviewer = {A. A. Arsen{\cprime}ev},
     number = {1},
     pages = {1--10, 96},
-    title = {A random homogeneous {S}chr\"{o}dinger operator has a pure point spectrum},
+    title = {A random homogeneous {S}chr\"{o}dinger operator has a pure
+   point spectrum},
     volume = {11},
     year = {1977}
    }

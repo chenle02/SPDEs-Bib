@@ -13,7 +13,8 @@ folland:99:real
     isbn = {0-471-31716-0},
     mrclass = {00A05 (26-01 28-01 46-01)},
     mrnumber = {1681462},
-    note = {Modern techniques and their applications, A Wiley-Interscience Publication},
+    note = {Modern techniques and their applications, A
+   Wiley-Interscience Publication},
     pages = {xvi+386},
     publisher = {John Wiley \& Sons, Inc., New York},
     series = {Pure and Applied Mathematics (New York)},

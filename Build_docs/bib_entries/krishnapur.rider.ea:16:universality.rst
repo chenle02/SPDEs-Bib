@@ -8,7 +8,8 @@ krishnapur.rider.ea:16:universality
 .. code-block:: bibtex
 
    @article{krishnapur.rider.ea:16:universality,
-    author = {Krishnapur, Manjunath and Rider, Brian and Vir\'{a}g, B\'{a}lint},
+    author = {Krishnapur, Manjunath and Rider, Brian and Vir\'{a}g,
+   B\'{a}lint},
     doi = {10.1002/cpa.21573},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640},

@@ -17,7 +17,8 @@ aronson.gil.ea:98:limit
     mrnumber = {1608532},
     number = {1-2},
     pages = {307--332},
-    title = {Limit behaviour of focusing solutions to nonlinear diffusions},
+    title = {Limit behaviour of focusing solutions to nonlinear
+   diffusions},
     url = {https://doi.org/10.1080/03605309808821347},
     volume = {23},
     year = {1998}

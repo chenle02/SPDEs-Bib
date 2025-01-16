@@ -18,7 +18,8 @@ bezerra.tindel.ea:08:superdiffusivity
     mrreviewer = {C\'{e}dric Bernardin},
     number = {5},
     pages = {1642--1675},
-    title = {Superdiffusivity for a {B}rownian polymer in a continuous {G}aussian environment},
+    title = {Superdiffusivity for a {B}rownian polymer in a continuous
+   {G}aussian environment},
     url = {https://doi.org/10.1214/07-AOP363},
     volume = {36},
     year = {2008}

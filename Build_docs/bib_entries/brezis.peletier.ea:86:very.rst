@@ -18,7 +18,8 @@ brezis.peletier.ea:86:very
     mrreviewer = {Yoshihito Tomita},
     number = {3},
     pages = {185--209},
-    title = {A very singular solution of the heat equation with absorption},
+    title = {A very singular solution of the heat equation with
+   absorption},
     url = {https://doi.org/10.1007/BF00251357},
     volume = {95},
     year = {1986}

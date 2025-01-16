@@ -16,7 +16,8 @@ sanz-sole.su:15:absolute
     mrnumber = {3314649},
     mrreviewer = {Yaozhong Hu},
     pages = {no. 14, 11},
-    title = {Absolute continuity for {SPDE}s with irregular fundamental solution},
+    title = {Absolute continuity for {SPDE}s with irregular fundamental
+   solution},
     url = {https://doi.org/10.1214/ECP.v20-3831},
     volume = {20},
     year = {2015}

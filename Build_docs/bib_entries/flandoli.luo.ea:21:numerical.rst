@@ -18,7 +18,8 @@ flandoli.luo.ea:21:numerical
     mrreviewer = {Ilja\ Kr\"{o}ker},
     number = {1},
     pages = {Paper No. 124505, 29},
-    title = {A numerical approach to {K}olmogorov equation in high dimension based on {G}aussian analysis},
+    title = {A numerical approach to {K}olmogorov equation in high
+   dimension based on {G}aussian analysis},
     url = {https://doi.org/10.1016/j.jmaa.2020.124505},
     volume = {493},
     year = {2021}

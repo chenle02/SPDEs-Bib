@@ -17,7 +17,8 @@ balan.kim:08:stochastic
     mrreviewer = {Catherine Donati-Martin},
     number = {2},
     pages = {229--249},
-    title = {The stochastic heat equation driven by a {G}aussian noise: germ {M}arkov property},
+    title = {The stochastic heat equation driven by a {G}aussian noise:
+   germ {M}arkov property},
     url = {https://doi.org/10.31390/cosa.2.2.04},
     volume = {2},
     year = {2008}

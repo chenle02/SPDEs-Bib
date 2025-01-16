@@ -18,7 +18,8 @@ yue.zhang:15:absolute
     mrreviewer = {Yong Chen},
     number = {2},
     pages = {587--618},
-    title = {Absolute continuity of the laws of perturbed diffusion processes and perturbed reflected diffusion processes},
+    title = {Absolute continuity of the laws of perturbed diffusion
+   processes and perturbed reflected diffusion processes},
     url = {https://doi.org/10.1007/s10959-013-0499-7},
     volume = {28},
     year = {2015}

@@ -17,7 +17,8 @@ vershik.zeitouni:99:large
     mrnumber = {1679585},
     mrreviewer = {Charles\ M.\ Goldie},
     pages = {13--27},
-    title = {Large deviations in the geometry of convex lattice polygons},
+    title = {Large deviations in the geometry of convex lattice
+   polygons},
     url = {https://doi.org/10.1007/BF02775023},
     volume = {109},
     year = {1999}

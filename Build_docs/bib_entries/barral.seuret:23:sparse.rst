@@ -16,7 +16,8 @@ barral.seuret:23:sparse
     mrnumber = {4775557},
     number = {4},
     pages = {493--528},
-    title = {Sparse sampling and dilation operations on {G}ibbs capacities, and multifractal formalism},
+    title = {Sparse sampling and dilation operations on {G}ibbs
+   capacities, and multifractal formalism},
     volume = {27},
     year = {2023}
    }

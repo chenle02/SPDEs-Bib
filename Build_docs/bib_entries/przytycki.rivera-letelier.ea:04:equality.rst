@@ -8,7 +8,8 @@ przytycki.rivera-letelier.ea:04:equality
 .. code-block:: bibtex
 
    @article{przytycki.rivera-letelier.ea:04:equality,
-    author = {Przytycki, Feliks and Rivera-Letelier, Juan and Smirnov, Stanislav},
+    author = {Przytycki, Feliks and Rivera-Letelier, Juan and Smirnov,
+   Stanislav},
     doi = {10.1017/S0143385703000385},
     fjournal = {Ergodic Theory and Dynamical Systems},
     issn = {0143-3857,1469-4417},

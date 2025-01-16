@@ -19,7 +19,8 @@ dalang.sanz-sole:09:holder-sobolev
     mrreviewer = {Victoria Knopova},
     number = {931},
     pages = {vi+70},
-    title = {H\"{o}lder-{S}obolev regularity of the solution to the stochastic wave equation in dimension three},
+    title = {H\"{o}lder-{S}obolev regularity of the solution to the
+   stochastic wave equation in dimension three},
     url = {https://doi.org/10.1090/memo/0931},
     volume = {199},
     year = {2009}

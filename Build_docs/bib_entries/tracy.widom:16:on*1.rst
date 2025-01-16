@@ -18,7 +18,8 @@ tracy.widom:16:on*1
     mrreviewer = {Reinhard Redlinger},
     number = {10},
     pages = {103301, 14},
-    title = {On the ground state energy of the delta-function {F}ermi gas},
+    title = {On the ground state energy of the delta-function {F}ermi
+   gas},
     url = {https://doi.org/10.1063/1.4964252},
     volume = {57},
     year = {2016}

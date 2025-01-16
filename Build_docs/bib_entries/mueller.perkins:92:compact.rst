@@ -18,7 +18,8 @@ mueller.perkins:92:compact
     mrreviewer = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
     number = {3},
     pages = {325--358},
-    title = {The compact support property for solutions to the heat equation with noise},
+    title = {The compact support property for solutions to the heat
+   equation with noise},
     url = {https://doi.org/10.1007/BF01193055},
     volume = {93},
     year = {1992}

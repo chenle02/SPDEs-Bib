@@ -10,7 +10,8 @@ bourgain:04:mordell
    @article{bourgain:04:mordell,
     author = {Bourgain, Jean},
     doi = {10.1016/j.crma.2004.06.013},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {11L07 (11L05)},
@@ -18,7 +19,8 @@ bourgain:04:mordell
     mrreviewer = {Sergeu{i}\ V.\ Konyagin},
     number = {5},
     pages = {321--325},
-    title = {Mordell type exponential sum estimates in fields of prime order},
+    title = {Mordell type exponential sum estimates in fields of prime
+   order},
     url = {https://doi.org/10.1016/j.crma.2004.06.013},
     volume = {339},
     year = {2004}

@@ -17,7 +17,8 @@ derrida.flyvbjerg:87:statistical
     mrreviewer = {A.\ Comtet},
     number = {15},
     pages = {5273--5288},
-    title = {Statistical properties of randomly broken objects and of multivalley structures in disordered systems},
+    title = {Statistical properties of randomly broken objects and of
+   multivalley structures in disordered systems},
     url = {http://stacks.iop.org/0305-4470/20/5273},
     volume = {20},
     year = {1987}

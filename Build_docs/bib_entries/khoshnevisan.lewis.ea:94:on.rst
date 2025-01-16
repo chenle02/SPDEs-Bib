@@ -8,7 +8,8 @@ khoshnevisan.lewis.ea:94:on
 .. code-block:: bibtex
 
    @article{khoshnevisan.lewis.ea:94:on,
-    author = {Khoshnevisan, Davar and Lewis, Thomas M. and Li, Wenbo V.},
+    author = {Khoshnevisan, Davar and Lewis, Thomas M. and Li, Wenbo
+   V.},
     doi = {10.1007/BF01199896},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},

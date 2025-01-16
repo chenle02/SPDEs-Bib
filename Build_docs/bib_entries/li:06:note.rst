@@ -17,7 +17,8 @@ li:06:note
     mrreviewer = {Necdet Batir},
     number = {1},
     pages = {267--271},
-    title = {A note on an identity of the gamma function and {S}tirling's formula},
+    title = {A note on an identity of the gamma function and
+   {S}tirling's formula},
     url = {http://projecteuclid.org/euclid.rae/1184700051},
     volume = {32},
     year = {2006/07}

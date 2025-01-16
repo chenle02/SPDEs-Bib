@@ -18,7 +18,8 @@ hu.nualart.ea:11:malliavin
     mrreviewer = {Roger Pettersson},
     number = {6},
     pages = {2379--2423},
-    title = {Malliavin calculus for backward stochastic differential equations and application to numerical solutions},
+    title = {Malliavin calculus for backward stochastic differential
+   equations and application to numerical solutions},
     url = {https://doi.org/10.1214/11-AAP762},
     volume = {21},
     year = {2011}

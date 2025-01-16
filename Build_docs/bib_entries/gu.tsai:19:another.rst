@@ -18,7 +18,8 @@ gu.tsai:19:another
     mrreviewer = {Luigi Amedeo Bianchi},
     number = {5},
     pages = {3037--3061},
-    title = {Another look into the {W}ong-{Z}akai theorem for stochastic heat equation},
+    title = {Another look into the {W}ong-{Z}akai theorem for
+   stochastic heat equation},
     url = {https://doi.org/10.1214/19-AAP1474},
     volume = {29},
     year = {2019}

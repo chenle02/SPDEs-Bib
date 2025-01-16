@@ -9,7 +9,8 @@ xiao:99:hausdorff
 
    @article{xiao:99:hausdorff,
     author = {Xiao, Yimin},
-    fjournal = {Acta Universitatis Szegediensis. Acta Scientiarum Mathematicarum},
+    fjournal = {Acta Universitatis Szegediensis. Acta Scientiarum
+   Mathematicarum},
     issn = {0001-6969,2064-8316},
     journal = {Acta Sci. Math. (Szeged)},
     mrclass = {60G17 (60G18 60G52 60K37)},
@@ -17,7 +18,8 @@ xiao:99:hausdorff
     mrreviewer = {J.\ L.\ Mijnheer},
     number = {1-2},
     pages = {385--395},
-    title = {The {H}ausdorff dimension of the level sets of stable processes in random scenery},
+    title = {The {H}ausdorff dimension of the level sets of stable
+   processes in random scenery},
     volume = {65},
     year = {1999}
    }

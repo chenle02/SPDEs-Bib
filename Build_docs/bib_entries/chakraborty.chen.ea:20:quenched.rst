@@ -8,7 +8,8 @@ chakraborty.chen.ea:20:quenched
 .. code-block:: bibtex
 
    @article{chakraborty.chen.ea:20:quenched,
-    author = {Chakraborty, Prakash and Chen, Xia and Gao, Bo and Tindel, Samy},
+    author = {Chakraborty, Prakash and Chen, Xia and Gao, Bo and Tindel,
+   Samy},
     doi = {10.1016/j.spa.2020.06.007},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149},
@@ -18,7 +19,8 @@ chakraborty.chen.ea:20:quenched
     mrreviewer = {Yaozhong Hu},
     number = {11},
     pages = {6689--6732},
-    title = {Quenched asymptotics for a 1-d stochastic heat equation driven by a rough spatial noise},
+    title = {Quenched asymptotics for a 1-d stochastic heat equation
+   driven by a rough spatial noise},
     url = {https://doi.org/10.1016/j.spa.2020.06.007},
     volume = {130},
     year = {2020}

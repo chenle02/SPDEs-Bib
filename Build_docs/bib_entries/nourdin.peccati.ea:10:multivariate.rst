@@ -8,9 +8,11 @@ nourdin.peccati.ea:10:multivariate
 .. code-block:: bibtex
 
    @article{nourdin.peccati.ea:10:multivariate,
-    author = {Nourdin, Ivan and Peccati, Giovanni and R\'{e}veillac, Anthony},
+    author = {Nourdin, Ivan and Peccati, Giovanni and R\'{e}veillac,
+   Anthony},
     doi = {10.1214/08-AIHP308},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60F05 (60G15 60H07)},
@@ -18,7 +20,8 @@ nourdin.peccati.ea:10:multivariate
     mrreviewer = {Mark Podolskij},
     number = {1},
     pages = {45--58},
-    title = {Multivariate normal approximation using {S}tein's method and {M}alliavin calculus},
+    title = {Multivariate normal approximation using {S}tein's method
+   and {M}alliavin calculus},
     url = {https://doi.org/10.1214/08-AIHP308},
     volume = {46},
     year = {2010}

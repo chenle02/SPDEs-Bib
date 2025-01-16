@@ -14,7 +14,8 @@ reed.simon:72:methods
     mrreviewer = {P.\ R.\ Chernoff},
     pages = {xvii+325},
     publisher = {Academic Press, New York-London},
-    title = {Methods of modern mathematical physics. {I}. {F}unctional analysis},
+    title = {Methods of modern mathematical physics. {I}. {F}unctional
+   analysis},
     year = {1972}
    }
 

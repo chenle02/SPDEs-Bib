@@ -18,7 +18,8 @@ peres.zeitouni:08:central
     mrreviewer = {Serguei Popov},
     number = {3-4},
     pages = {595--629},
-    title = {A central limit theorem for biased random walks on {G}alton-{W}atson trees},
+    title = {A central limit theorem for biased random walks on
+   {G}alton-{W}atson trees},
     url = {https://doi.org/10.1007/s00440-007-0077-y},
     volume = {140},
     year = {2008}

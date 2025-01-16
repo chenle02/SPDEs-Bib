@@ -18,7 +18,8 @@ meerschaert.nane.ea:11:distributed-order
     mrreviewer = {Zhi-Cheng Wang},
     number = {1},
     pages = {216--228},
-    title = {Distributed-order fractional diffusions on bounded domains},
+    title = {Distributed-order fractional diffusions on bounded
+   domains},
     url = {https://doi.org/10.1016/j.jmaa.2010.12.056},
     volume = {379},
     year = {2011}

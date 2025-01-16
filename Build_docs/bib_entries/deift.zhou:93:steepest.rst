@@ -18,7 +18,9 @@ deift.zhou:93:steepest
     mrreviewer = {Alexey\ V.\ Samokhin},
     number = {2},
     pages = {295--368},
-    title = {A steepest descent method for oscillatory {R}iemann-{H}ilbert problems. {A}symptotics for the {MK}d{V} equation},
+    title = {A steepest descent method for oscillatory
+   {R}iemann-{H}ilbert problems. {A}symptotics for the
+   {MK}d{V} equation},
     url = {https://doi.org/10.2307/2946540},
     volume = {137},
     year = {1993}

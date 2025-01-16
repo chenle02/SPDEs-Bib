@@ -9,7 +9,8 @@ cowan.zabczyk:78:optimal
 
    @article{cowan.zabczyk:78:optimal,
     author = {Cowan, R. and Zabczyk, J.},
-    fjournal = {Akademiya Nauk SSSR. Teoriya Veroyatnosteu{i} i ee Primeneniya},
+    fjournal = {Akademiya Nauk SSSR. Teoriya Veroyatnosteu{i} i ee
+   Primeneniya},
     issn = {0040-361X},
     journal = {Teor. Veroyatnost. i Primenen.},
     mrclass = {60G40},
@@ -17,7 +18,8 @@ cowan.zabczyk:78:optimal
     mrreviewer = {S.\ M.\ Samuels},
     number = {3},
     pages = {606--614},
-    title = {An optimal selection problem associated with the {P}oisson process},
+    title = {An optimal selection problem associated with the {P}oisson
+   process},
     volume = {23},
     year = {1978}
    }

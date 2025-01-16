@@ -18,7 +18,8 @@ simon:78:canonical
     mrreviewer = {Tosio\ Kato},
     number = {3},
     pages = {377--385},
-    title = {A canonical decomposition for quadratic forms with applications to monotone convergence theorems},
+    title = {A canonical decomposition for quadratic forms with
+   applications to monotone convergence theorems},
     url = {https://doi.org/10.1016/0022-1236(78)90094-0},
     volume = {28},
     year = {1978}

@@ -18,7 +18,9 @@ hu:00:multi-dimensional
     mrreviewer = {Eddy Mayer-Wolf},
     number = {3},
     pages = {341--358},
-    title = {Multi-dimensional geometric {B}rownian motions, {O}nsager-{M}achlup functions, and applications to mathematical finance},
+    title = {Multi-dimensional geometric {B}rownian motions,
+   {O}nsager-{M}achlup functions, and applications to
+   mathematical finance},
     url = {https://doi.org/10.1016/S0252-9602(17)30641-0},
     volume = {20},
     year = {2000}

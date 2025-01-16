@@ -8,7 +8,8 @@ balazs.rassoul-agha.ea:07:existence
 .. code-block:: bibtex
 
    @article{balazs.rassoul-agha.ea:07:existence,
-    author = {Bal\'{a}zs, M. and Rassoul-Agha, F. and Sepp\"{a}l\"{a}inen, T. and Sethuraman, S.},
+    author = {Bal\'{a}zs, M. and Rassoul-Agha, F. and
+   Sepp\"{a}l\"{a}inen, T. and Sethuraman, S.},
     doi = {10.1214/009117906000000971},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ balazs.rassoul-agha.ea:07:existence
     mrreviewer = {Rongfeng Sun},
     number = {4},
     pages = {1201--1249},
-    title = {Existence of the zero range process and a deposition model with superlinear growth rates},
+    title = {Existence of the zero range process and a deposition model
+   with superlinear growth rates},
     url = {https://doi.org/10.1214/009117906000000971},
     volume = {35},
     year = {2007}

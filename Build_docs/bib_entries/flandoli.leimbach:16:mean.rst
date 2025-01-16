@@ -10,7 +10,8 @@ flandoli.leimbach:16:mean
    @article{flandoli.leimbach:16:mean,
     author = {Flandoli, Franco and Leimbach, Matti},
     doi = {10.3934/dcdsb.2016086},
-    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A Journal Bridging Mathematics and Sciences},
+    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A
+   Journal Bridging Mathematics and Sciences},
     issn = {1531-3492,1553-524X},
     journal = {Discrete Contin. Dyn. Syst. Ser. B},
     mrclass = {60K35 (60F17 82C22)},

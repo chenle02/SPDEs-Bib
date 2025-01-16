@@ -16,7 +16,8 @@ adams.hedberg:96:function
     mrreviewer = {Takahide Kurokawa},
     pages = {xii+366},
     publisher = {Springer-Verlag, Berlin},
-    series = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+    series = {Grundlehren der mathematischen Wissenschaften [Fundamental
+   Principles of Mathematical Sciences]},
     title = {Function spaces and potential theory},
     url = {https://doi.org/10.1007/978-3-662-03282-4},
     volume = {314},

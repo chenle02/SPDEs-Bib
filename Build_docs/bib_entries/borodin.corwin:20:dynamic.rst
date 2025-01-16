@@ -17,7 +17,8 @@ borodin.corwin:20:dynamic
     mrnumber = {4073194},
     number = {3},
     pages = {641--668},
-    title = {Dynamic {ASEP}, duality, and continuous {$q^{-1}$}-{H}ermite polynomials},
+    title = {Dynamic {ASEP}, duality, and continuous
+   {$q^{-1}$}-{H}ermite polynomials},
     url = {https://doi.org/10.1093/imrn/rnx299},
     year = {2020}
    }

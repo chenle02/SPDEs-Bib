@@ -17,7 +17,8 @@ bourgain:96:invariant
     mrreviewer = {Tohru Ozawa},
     number = {2},
     pages = {421--445},
-    title = {Invariant measures for the {$2$}{D}-defocusing nonlinear {S}chr\"{o}dinger equation},
+    title = {Invariant measures for the {$2$}{D}-defocusing nonlinear
+   {S}chr\"{o}dinger equation},
     url = {http://projecteuclid.org/euclid.cmp/1104286005},
     volume = {176},
     year = {1996}

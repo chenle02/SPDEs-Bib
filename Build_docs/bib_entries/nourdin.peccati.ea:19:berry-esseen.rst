@@ -16,7 +16,8 @@ nourdin.peccati.ea:19:berry-esseen
     mrnumber = {3978683},
     mrreviewer = {Ehsan Azmoodeh},
     pages = {Paper No. 34, 12},
-    title = {Berry-{E}sseen bounds in the {B}reuer-{M}ajor {CLT} and {G}ebelein's inequality},
+    title = {Berry-{E}sseen bounds in the {B}reuer-{M}ajor {CLT} and
+   {G}ebelein's inequality},
     url = {https://doi.org/10.1214/19-ECP241},
     volume = {24},
     year = {2019}

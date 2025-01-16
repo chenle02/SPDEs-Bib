@@ -10,7 +10,8 @@ zhai.zhang:20:2d
    @article{zhai.zhang:20:2d,
     author = {Zhai, Jianliang and Zhang, Tusheng},
     doi = {10.1016/j.matpur.2019.12.009},
-    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es. Neuvi\`eme S\'{e}rie},
+    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es.
+   Neuvi\`eme S\'{e}rie},
     issn = {0021-7824},
     journal = {J. Math. Pures Appl. (9)},
     mrclass = {60H15 (35Q35 35R60 76D06)},

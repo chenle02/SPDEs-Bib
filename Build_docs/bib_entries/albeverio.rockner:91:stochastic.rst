@@ -18,7 +18,8 @@ albeverio.rockner:91:stochastic
     mrreviewer = {T. J. Lyons},
     number = {3},
     pages = {347--386},
-    title = {Stochastic differential equations in infinite dimensions: solutions via {D}irichlet forms},
+    title = {Stochastic differential equations in infinite dimensions:
+   solutions via {D}irichlet forms},
     url = {https://doi.org/10.1007/BF01198791},
     volume = {89},
     year = {1991}

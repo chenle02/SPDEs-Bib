@@ -18,7 +18,8 @@ millet.nualart:92:support
     mrreviewer = {Mireille Chaleyat-Maurel},
     number = {1},
     pages = {1--24},
-    title = {Support theorems for a class of anticipating stochastic differential equations},
+    title = {Support theorems for a class of anticipating stochastic
+   differential equations},
     url = {https://doi.org/10.1080/17442509208833760},
     volume = {39},
     year = {1992}

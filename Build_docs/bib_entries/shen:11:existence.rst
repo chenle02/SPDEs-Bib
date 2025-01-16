@@ -18,7 +18,8 @@ shen:11:existence
     mrreviewer = {Yuzo\ Hosono},
     number = {1},
     pages = {1--44},
-    title = {Existence, uniqueness, and stability of generalized traveling waves in time dependent monostable equations},
+    title = {Existence, uniqueness, and stability of generalized
+   traveling waves in time dependent monostable equations},
     url = {https://doi.org/10.1007/s10884-010-9200-3},
     volume = {23},
     year = {2011}

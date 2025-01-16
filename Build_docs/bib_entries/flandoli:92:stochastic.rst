@@ -9,7 +9,8 @@ flandoli:92:stochastic
 
    @incollection{flandoli:92:stochastic,
     author = {Flandoli, Franco},
-    booktitle = {Stochastic partial differential equations and their applications ({C}harlotte, {NC}, 1991)},
+    booktitle = {Stochastic partial differential equations and their
+   applications ({C}harlotte, {NC}, 1991)},
     doi = {10.1007/BFb0007322},
     isbn = {3-540-55292-8},
     mrclass = {60H10 (34F05 34G10 35R60 47H20 47N20 60H25)},
@@ -18,7 +19,8 @@ flandoli:92:stochastic
     pages = {70--80},
     publisher = {Springer, Berlin},
     series = {Lect. Notes Control Inf. Sci.},
-    title = {Stochastic evolution equations with noncoercive monotone operators},
+    title = {Stochastic evolution equations with noncoercive monotone
+   operators},
     url = {https://doi.org/10.1007/BFb0007322},
     volume = {176},
     year = {1992}

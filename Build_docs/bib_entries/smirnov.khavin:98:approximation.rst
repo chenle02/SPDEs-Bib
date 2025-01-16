@@ -17,7 +17,8 @@ smirnov.khavin:98:approximation
     mrreviewer = {Andrew\ Bucki},
     number = {3},
     pages = {133--162},
-    title = {Approximation and extension problems for some classes of vector fields},
+    title = {Approximation and extension problems for some classes of
+   vector fields},
     volume = {10},
     year = {1998}
    }

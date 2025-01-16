@@ -11,7 +11,8 @@ caravenna.sun.ea:22:critical
     author = {Francesco Caravenna and Rongfeng Sun and Nikos Zygouras},
     journal = {Preprint arXiv:2206.08766},
     month = {June},
-    title = {The critical 2d Stochastic Heat Flow is not a Gaussian Multiplicative Chaos},
+    title = {The critical 2d Stochastic Heat Flow is not a Gaussian
+   Multiplicative Chaos},
     url = {http://arXiv.org/abs/2206.08766},
     year = {2022}
    }

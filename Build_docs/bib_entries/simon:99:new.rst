@@ -18,7 +18,8 @@ simon:99:new
     mrreviewer = {Paul\ E.\ Sacks},
     number = {3},
     pages = {1029--1057},
-    title = {A new approach to inverse spectral theory. {I}. {F}undamental formalism},
+    title = {A new approach to inverse spectral theory. {I}.
+   {F}undamental formalism},
     url = {https://doi.org/10.2307/121061},
     volume = {150},
     year = {1999}

@@ -15,7 +15,8 @@ reed.simon:80:methods
     mrnumber = {751959},
     note = {Functional analysis},
     pages = {xv+400},
-    publisher = {Academic Press, Inc. [Harcourt Brace Jovanovich, Publishers], New York},
+    publisher = {Academic Press, Inc. [Harcourt Brace Jovanovich,
+   Publishers], New York},
     title = {Methods of modern mathematical physics. {I}},
     year = {1980}
    }

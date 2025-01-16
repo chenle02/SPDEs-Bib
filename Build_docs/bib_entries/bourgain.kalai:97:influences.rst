@@ -18,7 +18,8 @@ bourgain.kalai:97:influences
     mrreviewer = {Wolfgang\ Lusky},
     number = {3},
     pages = {438--461},
-    title = {Influences of variables and threshold intervals under group symmetries},
+    title = {Influences of variables and threshold intervals under
+   group symmetries},
     url = {https://doi.org/10.1007/s000390050015},
     volume = {7},
     year = {1997}

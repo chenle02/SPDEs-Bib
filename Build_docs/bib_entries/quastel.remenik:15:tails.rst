@@ -10,7 +10,8 @@ quastel.remenik:15:tails
    @article{quastel.remenik:15:tails,
     author = {Quastel, Jeremy and Remenik, Daniel},
     doi = {10.1214/12-AIHP525},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60K35 (82C23)},

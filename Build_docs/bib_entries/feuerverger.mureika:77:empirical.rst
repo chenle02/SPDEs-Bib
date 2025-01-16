@@ -17,7 +17,8 @@ feuerverger.mureika:77:empirical
     mrreviewer = {Rashid Ahmad},
     number = {1},
     pages = {88--97},
-    title = {The empirical characteristic function and its applications},
+    title = {The empirical characteristic function and its
+   applications},
     url = {http://links.jstor.org/sici?sici=0090-5364(197701)5:1<88:TECFAI>2.0.CO;2-8&origin=MSN},
     volume = {5},
     year = {1977}

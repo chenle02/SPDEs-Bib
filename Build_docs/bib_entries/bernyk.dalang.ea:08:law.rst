@@ -18,7 +18,8 @@ bernyk.dalang.ea:08:law
     mrreviewer = {Thomas D. Simon},
     number = {5},
     pages = {1777--1789},
-    title = {The law of the supremum of a stable {L}\'{e}vy process with no negative jumps},
+    title = {The law of the supremum of a stable {L}\'{e}vy process
+   with no negative jumps},
     url = {https://doi.org/10.1214/07-AOP376},
     volume = {36},
     year = {2008}

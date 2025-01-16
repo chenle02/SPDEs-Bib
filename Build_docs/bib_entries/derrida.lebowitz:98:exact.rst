@@ -17,7 +17,8 @@ derrida.lebowitz:98:exact
     mrnumber = {1604439},
     number = {2},
     pages = {209--213},
-    title = {Exact large deviation function in the asymmetric exclusion process},
+    title = {Exact large deviation function in the asymmetric exclusion
+   process},
     url = {https://doi.org/10.1103/PhysRevLett.80.209},
     volume = {80},
     year = {1998}

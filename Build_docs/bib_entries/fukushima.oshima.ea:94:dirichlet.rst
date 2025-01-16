@@ -8,7 +8,8 @@ fukushima.oshima.ea:94:dirichlet
 .. code-block:: bibtex
 
    @book{fukushima.oshima.ea:94:dirichlet,
-    author = {Fukushima, Masatoshi and \={O}shima, Y{o}ichi and Takeda, Masayoshi},
+    author = {Fukushima, Masatoshi and \={O}shima, Y{o}ichi and Takeda,
+   Masayoshi},
     doi = {10.1515/9783110889741},
     isbn = {3-11-011626-X},
     mrclass = {60J25 (31C25 60J40 60J45 60J55)},

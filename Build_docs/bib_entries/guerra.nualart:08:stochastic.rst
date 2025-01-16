@@ -18,7 +18,8 @@ guerra.nualart:08:stochastic
     mrreviewer = {Ciprian A. Tudor},
     number = {5},
     pages = {1053--1075},
-    title = {Stochastic differential equations driven by fractional {B}rownian motion and standard {B}rownian motion},
+    title = {Stochastic differential equations driven by fractional
+   {B}rownian motion and standard {B}rownian motion},
     url = {https://doi.org/10.1080/07362990802286483},
     volume = {26},
     year = {2008}

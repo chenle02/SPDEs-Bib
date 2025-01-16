@@ -18,7 +18,8 @@ giga:85:domains
     mrreviewer = {Tosio Kato},
     number = {3},
     pages = {251--265},
-    title = {Domains of fractional powers of the {S}tokes operator in {$L_r$} spaces},
+    title = {Domains of fractional powers of the {S}tokes operator in
+   {$L_r$} spaces},
     url = {https://doi.org/10.1007/BF00276874},
     volume = {89},
     year = {1985}

@@ -17,7 +17,8 @@ flandoli:93:on
     mrnumber = {1219593},
     mrreviewer = {Adam\ Kowalewski},
     pages = {93--131},
-    title = {On the direct solution of {R}iccati equations arising in boundary control theory},
+    title = {On the direct solution of {R}iccati equations arising in
+   boundary control theory},
     url = {https://doi.org/10.1007/BF01759017},
     volume = {163},
     year = {1993}

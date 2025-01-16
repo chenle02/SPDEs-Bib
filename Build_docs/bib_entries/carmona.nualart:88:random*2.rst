@@ -18,7 +18,8 @@ carmona.nualart:88:random*2
     mrreviewer = {M. Zakai},
     number = {4},
     pages = {469--508},
-    title = {Random nonlinear wave equations: smoothness of the solutions},
+    title = {Random nonlinear wave equations: smoothness of the
+   solutions},
     url = {https://doi.org/10.1007/BF00318783},
     volume = {79},
     year = {1988}

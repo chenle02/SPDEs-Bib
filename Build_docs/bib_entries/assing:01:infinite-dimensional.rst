@@ -18,7 +18,8 @@ assing:01:infinite-dimensional
     mrreviewer = {Jean-Pierre Fouque},
     number = {2},
     pages = {143--167},
-    title = {Infinite-dimensional {L}angevin equations: uniqueness and rate of convergence for finite-dimensional approximations},
+    title = {Infinite-dimensional {L}angevin equations: uniqueness and
+   rate of convergence for finite-dimensional approximations},
     url = {https://doi.org/10.1007/PL00008778},
     volume = {120},
     year = {2001}

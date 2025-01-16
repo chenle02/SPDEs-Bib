@@ -17,7 +17,8 @@ li.zhao:15:initial-boundary
     mrnumber = {3274760},
     number = {2},
     pages = {302--338},
-    title = {Initial-boundary value problems for a system of hyperbolic balance laws arising from chemotaxis},
+    title = {Initial-boundary value problems for a system of hyperbolic
+   balance laws arising from chemotaxis},
     url = {https://doi.org/10.1016/j.jde.2014.09.014},
     volume = {258},
     year = {2015}

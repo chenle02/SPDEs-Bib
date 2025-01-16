@@ -10,7 +10,8 @@ bal:10:homogenization
    @article{bal:10:homogenization,
     author = {Bal, Guillaume},
     doi = {10.1137/090754066},
-    fjournal = {Multiscale Modeling \& Simulation. A SIAM Interdisciplinary Journal},
+    fjournal = {Multiscale Modeling \& Simulation. A SIAM
+   Interdisciplinary Journal},
     issn = {1540-3459},
     journal = {Multiscale Model. Simul.},
     mrclass = {35B27 (35P20 35R60 35S10 60G60 60H05)},

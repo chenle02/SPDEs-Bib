@@ -18,7 +18,8 @@ shen.xie:15:approximations
     mrreviewer = {Christopher\ P.\ Grant},
     number = {12},
     pages = {7375--7405},
-    title = {Approximations of random dispersal operators/equations by nonlocal dispersal operators/equations},
+    title = {Approximations of random dispersal operators/equations by
+   nonlocal dispersal operators/equations},
     url = {https://doi.org/10.1016/j.jde.2015.08.026},
     volume = {259},
     year = {2015}

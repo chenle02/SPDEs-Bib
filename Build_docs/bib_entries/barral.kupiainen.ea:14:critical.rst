@@ -8,7 +8,8 @@ barral.kupiainen.ea:14:critical
 .. code-block:: bibtex
 
    @article{barral.kupiainen.ea:14:critical,
-    author = {Barral, Julien and Kupiainen, Antti and Nikula, Miika and Saksman, Eero and Webb, Christian},
+    author = {Barral, Julien and Kupiainen, Antti and Nikula, Miika and
+   Saksman, Eero and Webb, Christian},
     doi = {10.1007/s00220-013-1829-4},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},

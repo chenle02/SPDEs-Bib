@@ -17,7 +17,8 @@ seppalainen:07:growth
     pages = {204--233},
     publisher = {Inst. Math. Statist., Beachwood, OH},
     series = {IMS Lecture Notes Monogr. Ser.},
-    title = {A growth model in multiple dimensions and the height of a random partial order},
+    title = {A growth model in multiple dimensions and the height of a
+   random partial order},
     url = {https://doi.org/10.1214/074921707000000373},
     volume = {55},
     year = {2007}

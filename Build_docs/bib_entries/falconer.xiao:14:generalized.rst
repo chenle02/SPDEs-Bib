@@ -17,7 +17,8 @@ falconer.xiao:14:generalized
     mrnumber = {3144239},
     mrreviewer = {Marco\ Dozzi},
     pages = {492--517},
-    title = {Generalized dimensions of images of measures under {G}aussian processes},
+    title = {Generalized dimensions of images of measures under
+   {G}aussian processes},
     url = {https://doi.org/10.1016/j.aim.2013.11.002},
     volume = {252},
     year = {2014}

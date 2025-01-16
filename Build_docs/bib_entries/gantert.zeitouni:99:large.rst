@@ -17,7 +17,8 @@ gantert.zeitouni:99:large
     pages = {127--165},
     publisher = {J\'{a}nos Bolyai Math. Soc., Budapest},
     series = {Bolyai Soc. Math. Stud.},
-    title = {Large deviations for one-dimensional random walk in a random environment---a survey},
+    title = {Large deviations for one-dimensional random walk in a
+   random environment---a survey},
     volume = {9},
     year = {1999}
    }

@@ -18,7 +18,8 @@ fenichel:79:geometric
     mrreviewer = {F. Verhulst},
     number = {1},
     pages = {53--98},
-    title = {Geometric singular perturbation theory for ordinary differential equations},
+    title = {Geometric singular perturbation theory for ordinary
+   differential equations},
     url = {https://doi.org/10.1016/0022-0396(79)90152-9},
     volume = {31},
     year = {1979}

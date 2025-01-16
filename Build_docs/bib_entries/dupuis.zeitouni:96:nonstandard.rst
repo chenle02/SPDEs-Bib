@@ -18,7 +18,8 @@ dupuis.zeitouni:96:nonstandard
     mrreviewer = {Esa\ Nummelin},
     number = {2},
     pages = {249--261},
-    title = {A nonstandard form of the rate function for the occupation measure of a {M}arkov chain},
+    title = {A nonstandard form of the rate function for the occupation
+   measure of a {M}arkov chain},
     url = {https://doi.org/10.1016/0304-4149(95)00084-4},
     volume = {61},
     year = {1996}

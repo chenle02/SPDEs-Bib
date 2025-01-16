@@ -18,7 +18,8 @@ da-prato.zabczyk:95:convergence
     mrreviewer = {G. Leha},
     number = {4},
     pages = {529--552},
-    title = {Convergence to equilibrium for classical and quantum spin systems},
+    title = {Convergence to equilibrium for classical and quantum spin
+   systems},
     url = {https://doi.org/10.1007/BF01246338},
     volume = {103},
     year = {1995}

@@ -16,7 +16,8 @@ cranston.kendall.ea:96:gromovs
     mrreviewer = {Elton\ Pei\ Hsu},
     pages = {139--164},
     publisher = {World Sci. Publ., River Edge, NJ},
-    title = {Gromov's hyperbolicity and {P}icard's little theorem for harmonic maps},
+    title = {Gromov's hyperbolicity and {P}icard's little theorem for
+   harmonic maps},
     year = {1996}
    }
 

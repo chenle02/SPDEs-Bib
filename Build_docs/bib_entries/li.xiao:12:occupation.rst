@@ -18,7 +18,8 @@ li.xiao:12:occupation
     mrreviewer = {Christian\ B\"{o}inghoff},
     number = {4},
     pages = {1119--1152},
-    title = {Occupation time fluctuations of weakly degenerate branching systems},
+    title = {Occupation time fluctuations of weakly degenerate
+   branching systems},
     url = {https://doi.org/10.1007/s10959-011-0358-3},
     volume = {25},
     year = {2012}

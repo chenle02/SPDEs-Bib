@@ -17,7 +17,8 @@ ekhaus.seppalainen:96:stochastic
     mrreviewer = {Pablo A. Ferrari},
     number = {2},
     pages = {309--352},
-    title = {Stochastic dynamics macroscopically governed by the porous medium equation for isothermal flow},
+    title = {Stochastic dynamics macroscopically governed by the porous
+   medium equation for isothermal flow},
     volume = {21},
     year = {1996}
    }

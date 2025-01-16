@@ -16,7 +16,8 @@ derrida.bray.ea:94:nontrivial
     mrnumber = {1282568},
     number = {11},
     pages = {L357--L361},
-    title = {Nontrivial exponents in the zero temperature dynamics of the {$1$}D {I}sing and {P}otts models},
+    title = {Nontrivial exponents in the zero temperature dynamics of
+   the {$1$}D {I}sing and {P}otts models},
     url = {http://stacks.iop.org/0305-4470/27/L357},
     volume = {27},
     year = {1994}

@@ -9,7 +9,8 @@ barlow.bass:99:random
 
    @incollection{barlow.bass:99:random,
     author = {Barlow, Martin T. and Bass, Richard F.},
-    booktitle = {Random walks and discrete potential theory ({C}ortona, 1997)},
+    booktitle = {Random walks and discrete potential theory ({C}ortona,
+   1997)},
     mrclass = {60J10 (31C20 35K05)},
     mrnumber = {1802425},
     mrreviewer = {Ben Hambly},

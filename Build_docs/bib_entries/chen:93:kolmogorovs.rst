@@ -17,7 +17,8 @@ chen:93:kolmogorovs
     mrreviewer = {Deli Li},
     number = {5},
     pages = {600--619},
-    title = {Kolmogorov's law of the iterated logarithm for {$B$}-valued random elements and empirical processes},
+    title = {Kolmogorov's law of the iterated logarithm for
+   {$B$}-valued random elements and empirical processes},
     volume = {36},
     year = {1993}
    }

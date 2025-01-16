@@ -8,7 +8,8 @@ ebrahimi-fard.patras.ea:20:hopf-algebraic
 .. code-block:: bibtex
 
    @article{ebrahimi-fard.patras.ea:20:hopf-algebraic,
-    author = {Ebrahimi-Fard, Kurusch and Patras, Fr\'{e}d\'{e}ric and Tapia, Nikolas and Zambotti, Lorenzo},
+    author = {Ebrahimi-Fard, Kurusch and Patras, Fr\'{e}d\'{e}ric and
+   Tapia, Nikolas and Zambotti, Lorenzo},
     doi = {10.1093/imrn/rny269},
     fjournal = {International Mathematics Research Notices. IMRN},
     issn = {1073-7928,1687-0247},
@@ -18,7 +19,8 @@ ebrahimi-fard.patras.ea:20:hopf-algebraic
     mrreviewer = {Malte\ Gerhold},
     number = {24},
     pages = {10064--10099},
-    title = {Hopf-algebraic deformations of products and {W}ick polynomials},
+    title = {Hopf-algebraic deformations of products and {W}ick
+   polynomials},
     url = {https://doi.org/10.1093/imrn/rny269},
     year = {2020}
    }

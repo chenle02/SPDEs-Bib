@@ -17,7 +17,8 @@ epshteyn.xia:19:efficient
     mrnumber = {3954435},
     number = {1},
     pages = {26--59},
-    title = {Efficient numerical algorithms based on difference potentials for chemotaxis systems in 3{D}},
+    title = {Efficient numerical algorithms based on difference
+   potentials for chemotaxis systems in 3{D}},
     url = {https://doi.org/10.1007/s10915-019-00928-z},
     volume = {80},
     year = {2019}

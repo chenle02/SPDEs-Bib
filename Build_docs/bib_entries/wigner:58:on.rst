@@ -17,7 +17,8 @@ wigner:58:on
     mrnumber = {95527},
     mrreviewer = {J. G. Wendel},
     pages = {325--327},
-    title = {On the distribution of the roots of certain symmetric matrices},
+    title = {On the distribution of the roots of certain symmetric
+   matrices},
     url = {https://doi.org/10.2307/1970008},
     volume = {67},
     year = {1958}

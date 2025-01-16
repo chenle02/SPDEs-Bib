@@ -17,7 +17,8 @@ nourdin:08:asymptotic
     mrnumber = {2478679},
     number = {6},
     pages = {2159--2175},
-    title = {Asymptotic behavior of weighted quadratic and cubic variations of fractional {B}rownian motion},
+    title = {Asymptotic behavior of weighted quadratic and cubic
+   variations of fractional {B}rownian motion},
     url = {https://doi.org/10.1214/07-AOP385},
     volume = {36},
     year = {2008}

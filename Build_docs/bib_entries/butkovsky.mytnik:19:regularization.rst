@@ -18,7 +18,8 @@ butkovsky.mytnik:19:regularization
     mrreviewer = {Dirk Bl\"{o}mker},
     number = {1},
     pages = {165--212},
-    title = {Regularization by noise and flows of solutions for a stochastic heat equation},
+    title = {Regularization by noise and flows of solutions for a
+   stochastic heat equation},
     url = {https://doi.org/10.1214/18-AOP1259},
     volume = {47},
     year = {2019}

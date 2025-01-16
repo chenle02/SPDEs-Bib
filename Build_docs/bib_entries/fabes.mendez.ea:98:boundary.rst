@@ -18,7 +18,9 @@ fabes.mendez.ea:98:boundary
     mrreviewer = {H. Triebel},
     number = {2},
     pages = {323--368},
-    title = {Boundary layers on {S}obolev-{B}esov spaces and {P}oisson's equation for the {L}aplacian in {L}ipschitz domains},
+    title = {Boundary layers on {S}obolev-{B}esov spaces and
+   {P}oisson's equation for the {L}aplacian in {L}ipschitz
+   domains},
     url = {https://doi.org/10.1006/jfan.1998.3316},
     volume = {159},
     year = {1998}

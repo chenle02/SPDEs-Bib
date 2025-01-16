@@ -10,7 +10,8 @@ cranston:92:probabilistic
    @article{cranston:92:probabilistic,
     author = {Cranston, M.},
     doi = {10.4153/CMB-1992-007-6},
-    fjournal = {Canadian Mathematical Bulletin. Bulletin Canadien de Math\'{e}matiques},
+    fjournal = {Canadian Mathematical Bulletin. Bulletin Canadien de
+   Math\'{e}matiques},
     issn = {0008-4395,1496-4287},
     journal = {Canad. Math. Bull.},
     mrclass = {35B45 (60J60 60J65)},

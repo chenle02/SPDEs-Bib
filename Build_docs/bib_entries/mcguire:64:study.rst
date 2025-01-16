@@ -17,7 +17,8 @@ mcguire:64:study
     mrnumber = {161667},
     mrreviewer = {M. Eisner},
     pages = {622--636},
-    title = {Study of exactly soluble one-dimensional {$N$}-body problems},
+    title = {Study of exactly soluble one-dimensional {$N$}-body
+   problems},
     url = {https://doi.org/10.1063/1.1704156},
     volume = {5},
     year = {1964}

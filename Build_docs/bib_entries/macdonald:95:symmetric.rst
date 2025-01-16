@@ -14,7 +14,8 @@ macdonald:95:symmetric
     mrclass = {05E05 (05-02 20C30 20C33 20K01 33C80 33D80)},
     mrnumber = {1354144},
     mrreviewer = {John R. Stembridge},
-    note = {With contributions by A. Zelevinsky, Oxford Science Publications},
+    note = {With contributions by A. Zelevinsky, Oxford Science
+   Publications},
     pages = {x+475},
     publisher = {The Clarendon Press, Oxford University Press, New York},
     series = {Oxford Mathematical Monographs},

@@ -9,21 +9,22 @@ bourgain:13:on
 
    @article{bourgain:13:on,
     author = {Bourgain, J.},
-    doi = {10.1134/s0081543813010045},
-    fjournal = {Trudy Matematicheskogo Instituta Imeni V. A. Steklova},
-    isbn = {5-7846-0125-3; 978-5-7846-0125-4},
-    issn = {0371-9685},
-    journal = {Tr. Mat. Inst. Steklova},
-    mrclass = {42B20 (35J10 35Q41)},
-    mrnumber = {3241836},
-    mrreviewer = {Juan\ Luis\ Varona},
-    pages = {53--66},
-    title = {On the {S}chr\"{o}dinger maximal function in higher dimension},
-    url = {https://doi.org/10.1134/s0081543813010045},
-    volume = {280},
+    doi = {10.1007/s11856-013-0002-2},
+    fjournal = {Israel Journal of Mathematics},
+    issn = {0021-2172,1565-8511},
+    journal = {Israel J. Math.},
+    mrclass = {11F30},
+    mrnumber = {3096614},
+    mrreviewer = {Gergely\ Harcos},
+    number = {1},
+    pages = {215--235},
+    title = {On the {F}ourier-{W}alsh spectrum of the {M}oebius
+   function},
+    url = {https://doi.org/10.1007/s11856-013-0002-2},
+    volume = {197},
     year = {2013}
    }
-`The URL link to the source <ttps://doi.org/10.1134/s0081543813010045}>`_
+`The URL link to the source <ttps://doi.org/10.1007/s11856-013-0002-2}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,8 +8,10 @@ gorenflo.luchko.ea:00:on
 .. code-block:: bibtex
 
    @article{gorenflo.luchko.ea:00:on,
-    author = {Gorenflo, Rudolf and Luchko, Yurii F. and Umarov, Sabir R.},
-    fjournal = {Fractional Calculus \& Applied Analysis. An International Journal for Theory and Applications},
+    author = {Gorenflo, Rudolf and Luchko, Yurii F. and Umarov, Sabir
+   R.},
+    fjournal = {Fractional Calculus \& Applied Analysis. An International
+   Journal for Theory and Applications},
     issn = {1311-0454},
     journal = {Fract. Calc. Appl. Anal.},
     mrclass = {35S15 (26A33 47G30)},
@@ -17,7 +19,8 @@ gorenflo.luchko.ea:00:on
     mrreviewer = {J.\ Horv\'{a}th},
     number = {4},
     pages = {453--468},
-    title = {On some boundary value problems for pseudo-differential equations with boundary operators of fractional order},
+    title = {On some boundary value problems for pseudo-differential
+   equations with boundary operators of fractional order},
     volume = {3},
     year = {2000}
    }

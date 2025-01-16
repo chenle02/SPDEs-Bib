@@ -17,7 +17,8 @@ fujita:69:on
     mrnumber = {239258},
     mrreviewer = {P. Cooperman},
     pages = {132--135},
-    title = {On the nonlinear equations {$\Delta u+e^{u}=0$} and {$\partial v/\partial t=\Delta v+e ^{v}$}},
+    title = {On the nonlinear equations {$\Delta u+e^{u}=0$} and
+   {$\partial v/\partial t=\Delta v+e ^{v}$}},
     url = {https://doi.org/10.1090/S0002-9904-1969-12175-0},
     volume = {75},
     year = {1969}

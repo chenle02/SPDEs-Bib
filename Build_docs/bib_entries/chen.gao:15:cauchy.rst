@@ -18,7 +18,8 @@ chen.gao:15:cauchy
     mrreviewer = {Le\ Chen},
     number = {10},
     pages = {5192--5219},
-    title = {The {C}auchy problem for the {H}artree equations under random influences},
+    title = {The {C}auchy problem for the {H}artree equations under
+   random influences},
     url = {https://doi.org/10.1016/j.jde.2015.06.021},
     volume = {259},
     year = {2015}

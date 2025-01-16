@@ -18,7 +18,8 @@ assing:02:pregenerator
     mrreviewer = {Hongjun Gao},
     number = {3},
     pages = {611--632},
-    title = {A pregenerator for {B}urgers equation forced by conservative noise},
+    title = {A pregenerator for {B}urgers equation forced by
+   conservative noise},
     url = {https://doi.org/10.1007/s002200100606},
     volume = {225},
     year = {2002}

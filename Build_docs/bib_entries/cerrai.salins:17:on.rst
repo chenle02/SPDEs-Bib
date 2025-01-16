@@ -17,7 +17,9 @@ cerrai.salins:17:on
     mrnumber = {3575542},
     number = {1},
     pages = {273--303},
-    title = {On the {S}moluchowski-{K}ramers approximation for a system with infinite degrees of freedom exposed to a magnetic field},
+    title = {On the {S}moluchowski-{K}ramers approximation for a system
+   with infinite degrees of freedom exposed to a magnetic
+   field},
     url = {https://doi.org/10.1016/j.spa.2016.06.008},
     volume = {127},
     year = {2017}

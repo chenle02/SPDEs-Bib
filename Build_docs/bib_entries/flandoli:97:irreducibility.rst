@@ -18,7 +18,8 @@ flandoli:97:irreducibility
     mrreviewer = {Peter\ E.\ Kloeden},
     number = {1},
     pages = {160--177},
-    title = {Irreducibility of the {$3$}-{D} stochastic {N}avier-{S}tokes equation},
+    title = {Irreducibility of the {$3$}-{D} stochastic
+   {N}avier-{S}tokes equation},
     url = {https://doi.org/10.1006/jfan.1996.3089},
     volume = {149},
     year = {1997}

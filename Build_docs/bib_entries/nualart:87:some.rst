@@ -18,7 +18,8 @@ nualart:87:some
     mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},
     number = {3},
     pages = {231--234},
-    title = {Some remarks on a linear stochastic differential equation},
+    title = {Some remarks on a linear stochastic differential
+   equation},
     url = {https://doi.org/10.1016/0167-7152(87)90046-0},
     volume = {5},
     year = {1987}

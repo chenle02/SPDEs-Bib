@@ -8,7 +8,8 @@ khorunzhy.khoruzhenko.ea:96:asymptotic
 .. code-block:: bibtex
 
    @article{khorunzhy.khoruzhenko.ea:96:asymptotic,
-    author = {Khorunzhy, Alexei M. and Khoruzhenko, Boris A. and Pastur, Leonid A.},
+    author = {Khorunzhy, Alexei M. and Khoruzhenko, Boris A. and Pastur,
+   Leonid A.},
     doi = {10.1063/1.531589},
     fjournal = {Journal of Mathematical Physics},
     issn = {0022-2488},
@@ -18,7 +19,8 @@ khorunzhy.khoruzhenko.ea:96:asymptotic
     mrreviewer = {Jacobus Verbaarschot},
     number = {10},
     pages = {5033--5060},
-    title = {Asymptotic properties of large random matrices with independent entries},
+    title = {Asymptotic properties of large random matrices with
+   independent entries},
     url = {https://doi.org/10.1063/1.531589},
     volume = {37},
     year = {1996}

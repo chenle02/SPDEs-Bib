@@ -17,7 +17,9 @@ agmon.douglis.ea:59:estimates
     mrnumber = {125307},
     mrreviewer = {E. Magenes},
     pages = {623--727},
-    title = {Estimates near the boundary for solutions of elliptic partial differential equations satisfying general boundary conditions. {I}},
+    title = {Estimates near the boundary for solutions of elliptic
+   partial differential equations satisfying general boundary
+   conditions. {I}},
     url = {https://doi.org/10.1002/cpa.3160120405},
     volume = {12},
     year = {1959}

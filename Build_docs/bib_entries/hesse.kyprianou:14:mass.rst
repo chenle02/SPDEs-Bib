@@ -18,7 +18,8 @@ hesse.kyprianou:14:mass
     mrreviewer = {Jos\'{e} Villa-Morales},
     number = {6},
     pages = {2003--2022},
-    title = {The mass of super-{B}rownian motion upon exiting balls and {S}heu's compact support condition},
+    title = {The mass of super-{B}rownian motion upon exiting balls and
+   {S}heu's compact support condition},
     url = {https://doi.org/10.1016/j.spa.2014.01.011},
     volume = {124},
     year = {2014}

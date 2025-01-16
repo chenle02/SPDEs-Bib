@@ -14,7 +14,8 @@ gelfand.shilov:64:generalized
     note = {Translated by Eugene Saletan},
     pages = {xviii+423},
     publisher = {Academic Press, New York-London},
-    title = {Generalized functions. {V}ol. {I}: {P}roperties and operations},
+    title = {Generalized functions. {V}ol. {I}: {P}roperties and
+   operations},
     year = {1964}
    }
 

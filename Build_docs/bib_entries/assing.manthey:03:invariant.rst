@@ -18,7 +18,8 @@ assing.manthey:03:invariant
     mrreviewer = {Sandra Cerrai},
     number = {2},
     pages = {237--256},
-    title = {Invariant measures for stochastic heat equations with unbounded coefficients},
+    title = {Invariant measures for stochastic heat equations with
+   unbounded coefficients},
     url = {https://doi.org/10.1016/S0304-4149(02)00211-9},
     volume = {103},
     year = {2003}

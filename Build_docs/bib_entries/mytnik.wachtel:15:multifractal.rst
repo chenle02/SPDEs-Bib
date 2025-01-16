@@ -18,7 +18,8 @@ mytnik.wachtel:15:multifractal
     mrreviewer = {Achim Klenke},
     number = {5},
     pages = {2763--2809},
-    title = {Multifractal analysis of superprocesses with stable branching in dimension one},
+    title = {Multifractal analysis of superprocesses with stable
+   branching in dimension one},
     url = {https://doi.org/10.1214/14-AOP951},
     volume = {43},
     year = {2015}

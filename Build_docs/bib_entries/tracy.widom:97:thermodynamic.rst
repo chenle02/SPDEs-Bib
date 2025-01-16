@@ -9,7 +9,10 @@ tracy.widom:97:thermodynamic
 
    @inproceedings{tracy.widom:97:thermodynamic,
     author = {Tracy, Craig A. and Widom, Harold},
-    booktitle = {Proceedings of the {C}onference on {E}xactly {S}oluble {M}odels in {S}tatistical {M}echanics: {H}istorical {P}erspectives and {C}urrent {S}tatus ({B}oston, {MA}, 1996)},
+    booktitle = {Proceedings of the {C}onference on {E}xactly {S}oluble
+   {M}odels in {S}tatistical {M}echanics: {H}istorical
+   {P}erspectives and {C}urrent {S}tatus ({B}oston, {MA},
+   1996)},
     doi = {10.1142/S0217979297000095},
     fjournal = {International Journal of Modern Physics B},
     issn = {0217-9792},
@@ -18,7 +21,8 @@ tracy.widom:97:thermodynamic
     mrnumber = {1435056},
     number = {1-2},
     pages = {69--74},
-    title = {The thermodynamic {B}ethe ansatz and a connection with {P}ainlev\'{e} equations},
+    title = {The thermodynamic {B}ethe ansatz and a connection with
+   {P}ainlev\'{e} equations},
     url = {https://doi.org/10.1142/S0217979297000095},
     volume = {11},
     year = {1997}

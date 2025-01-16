@@ -18,7 +18,8 @@ acosta.chen:98:moderate
     mrreviewer = {Miguel A. Arcones},
     number = {4},
     pages = {1075--1110},
-    title = {Moderate deviations for empirical measures of {M}arkov chains: upper bounds},
+    title = {Moderate deviations for empirical measures of {M}arkov
+   chains: upper bounds},
     url = {https://doi.org/10.1023/A:1022673000778},
     volume = {11},
     year = {1998}

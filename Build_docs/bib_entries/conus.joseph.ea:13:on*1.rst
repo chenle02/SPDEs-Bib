@@ -18,7 +18,8 @@ conus.joseph.ea:13:on*1
     mrreviewer = {Sergey V. Lototsky},
     number = {3B},
     pages = {2225--2260},
-    title = {On the chaotic character of the stochastic heat equation, before the onset of intermitttency},
+    title = {On the chaotic character of the stochastic heat equation,
+   before the onset of intermitttency},
     url = {https://doi.org/10.1214/11-AOP717},
     volume = {41},
     year = {2013}

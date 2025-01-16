@@ -18,7 +18,8 @@ bourgain:16:quantitative
     mrreviewer = {B.\ Sury},
     number = {1},
     pages = {503--512},
-    title = {A quantitative {O}ppenheim theorem for generic diagonal quadratic forms},
+    title = {A quantitative {O}ppenheim theorem for generic diagonal
+   quadratic forms},
     url = {https://doi.org/10.1007/s11856-016-1385-7},
     volume = {215},
     year = {2016}

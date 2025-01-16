@@ -17,7 +17,8 @@ lax:68:integrals
     mrnumber = {235310},
     mrreviewer = {Gerald Rosen},
     pages = {467--490},
-    title = {Integrals of nonlinear equations of evolution and solitary waves},
+    title = {Integrals of nonlinear equations of evolution and solitary
+   waves},
     url = {https://doi.org/10.1002/cpa.3160210503},
     volume = {21},
     year = {1968}

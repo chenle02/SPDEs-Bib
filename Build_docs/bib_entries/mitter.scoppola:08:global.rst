@@ -18,7 +18,8 @@ mitter.scoppola:08:global
     mrreviewer = {Guido Gentile},
     number = {5},
     pages = {921--1011},
-    title = {The global renormalization group trajectory in a critical supersymmetric field theory on the lattice {$\Bbb Z^3$}},
+    title = {The global renormalization group trajectory in a critical
+   supersymmetric field theory on the lattice {$\Bbb Z^3$}},
     url = {https://doi.org/10.1007/s10955-008-9626-8},
     volume = {133},
     year = {2008}

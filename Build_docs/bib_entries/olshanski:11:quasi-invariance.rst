@@ -18,7 +18,8 @@ olshanski:11:quasi-invariance
     mrreviewer = {Martin V. Hildebrand},
     number = {3},
     pages = {2305--2350},
-    title = {The quasi-invariance property for the {G}amma kernel determinantal measure},
+    title = {The quasi-invariance property for the {G}amma kernel
+   determinantal measure},
     url = {https://doi.org/10.1016/j.aim.2010.09.015},
     volume = {226},
     year = {2011}

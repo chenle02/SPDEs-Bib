@@ -18,7 +18,8 @@ fang.imkeller.ea:07:global
     mrreviewer = {Daniel Ocone},
     number = {1},
     pages = {180--205},
-    title = {Global flows for stochastic differential equations without global {L}ipschitz conditions},
+    title = {Global flows for stochastic differential equations without
+   global {L}ipschitz conditions},
     url = {https://doi.org/10.1214/009117906000000412},
     volume = {35},
     year = {2007}

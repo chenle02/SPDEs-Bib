@@ -15,7 +15,8 @@ labbe:13:quasi-stationary
     mrclass = {60J80 (60F05)},
     mrnumber = {3084568},
     pages = {no. 57, 13},
-    title = {Quasi-stationary distributions associated with explosive {CSBP}},
+    title = {Quasi-stationary distributions associated with explosive
+   {CSBP}},
     url = {https://doi.org/10.1214/ECP.v18-2508},
     volume = {18},
     year = {2013}

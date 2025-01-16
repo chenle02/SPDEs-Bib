@@ -18,7 +18,8 @@ pitt:75:stationary
     mrreviewer = {V. S. Mandrekar},
     number = {3},
     pages = {300--311},
-    title = {Stationary {G}aussian {M}arkov fields on {$R^{d}$} with a deterministic component},
+    title = {Stationary {G}aussian {M}arkov fields on {$R^{d}$} with a
+   deterministic component},
     url = {https://doi.org/10.1016/0047-259X(75)90048-2},
     volume = {5},
     year = {1975}

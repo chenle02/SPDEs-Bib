@@ -8,7 +8,8 @@ cass.hairer.ea:15:smoothness
 .. code-block:: bibtex
 
    @article{cass.hairer.ea:15:smoothness,
-    author = {Cass, Thomas and Hairer, Martin and Litterer, Christian and Tindel, Samy},
+    author = {Cass, Thomas and Hairer, Martin and Litterer, Christian
+   and Tindel, Samy},
     doi = {10.1214/13-AOP896},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ cass.hairer.ea:15:smoothness
     mrreviewer = {Keisuke Hara},
     number = {1},
     pages = {188--239},
-    title = {Smoothness of the density for solutions to {G}aussian rough differential equations},
+    title = {Smoothness of the density for solutions to {G}aussian
+   rough differential equations},
     url = {https://doi.org/10.1214/13-AOP896},
     volume = {43},
     year = {2015}

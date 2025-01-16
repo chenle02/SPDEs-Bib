@@ -18,7 +18,9 @@ flandoli.schmalfuss:96:random
     mrreviewer = {Krystyna\ Twardowska},
     number = {1-2},
     pages = {21--45},
-    title = {Random attractors for the {$3$}D stochastic {N}avier-{S}tokes equation with multiplicative white noise},
+    title = {Random attractors for the {$3$}D stochastic
+   {N}avier-{S}tokes equation with multiplicative white
+   noise},
     url = {https://doi.org/10.1080/17442509608834083},
     volume = {59},
     year = {1996}

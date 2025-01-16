@@ -17,7 +17,8 @@ winkler:10:does
     mrnumber = {2591220},
     number = {1},
     pages = {12--24},
-    title = {Does a `volume-filling effect' always prevent chemotactic collapse?},
+    title = {Does a `volume-filling effect' always prevent chemotactic
+   collapse?},
     url = {https://doi.org/10.1002/mma.1146},
     volume = {33},
     year = {2010}

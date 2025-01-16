@@ -17,7 +17,8 @@ wen.zhang:11:improved
     mrnumber = {2763162},
     number = {8},
     pages = {2492--2501},
-    title = {Improved rectangular method on stochastic {V}olterra equations},
+    title = {Improved rectangular method on stochastic {V}olterra
+   equations},
     url = {https://doi.org/10.1016/j.cam.2010.11.002},
     volume = {235},
     year = {2011}

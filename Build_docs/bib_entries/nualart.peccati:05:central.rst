@@ -18,7 +18,8 @@ nualart.peccati:05:central
     mrreviewer = {Rimas Norvai\v{s}a},
     number = {1},
     pages = {177--193},
-    title = {Central limit theorems for sequences of multiple stochastic integrals},
+    title = {Central limit theorems for sequences of multiple
+   stochastic integrals},
     url = {https://doi.org/10.1214/009117904000000621},
     volume = {33},
     year = {2005}

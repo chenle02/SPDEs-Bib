@@ -18,7 +18,8 @@ choulli.kayser:17:remark
     mrreviewer = {Peng Chen},
     number = {1},
     pages = {71--79},
-    title = {A remark on the {G}aussian lower bound for the {N}eumann heat kernel of the {L}aplace-{B}eltrami operator},
+    title = {A remark on the {G}aussian lower bound for the {N}eumann
+   heat kernel of the {L}aplace-{B}eltrami operator},
     url = {https://doi.org/10.1007/s00233-015-9757-6},
     volume = {94},
     year = {2017}

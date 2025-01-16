@@ -8,9 +8,11 @@ bachmann.cooper.ea:87:relaxation
 .. code-block:: bibtex
 
    @article{bachmann.cooper.ea:87:relaxation,
-    author = {Bachmann, Charles M. and Cooper, Leon N. and Dembo, Amir and Zeitouni, Ofer},
+    author = {Bachmann, Charles M. and Cooper, Leon N. and Dembo, Amir
+   and Zeitouni, Ofer},
     doi = {10.1073/pnas.84.21.7529},
-    fjournal = {Proceedings of the National Academy of Sciences of the United States of America},
+    fjournal = {Proceedings of the National Academy of Sciences of the
+   United States of America},
     issn = {0027-8424},
     journal = {Proc. Nat. Acad. Sci. U.S.A.},
     mrclass = {92A09},

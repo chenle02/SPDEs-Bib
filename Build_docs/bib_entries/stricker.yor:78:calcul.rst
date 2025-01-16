@@ -10,7 +10,8 @@ stricker.yor:78:calcul
    @article{stricker.yor:78:calcul,
     author = {Stricker, C. and Yor, M.},
     doi = {10.1007/BF00715187},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60G44 (60H05)},

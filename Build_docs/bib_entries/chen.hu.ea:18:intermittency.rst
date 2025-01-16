@@ -8,7 +8,8 @@ chen.hu.ea:18:intermittency
 .. code-block:: bibtex
 
    @article{chen.hu.ea:18:intermittency,
-    author = {Chen, Le and Hu, Yaozhong and Kalbasi, Kamran and Nualart, David},
+    author = {Chen, Le and Hu, Yaozhong and Kalbasi, Kamran and Nualart,
+   David},
     doi = {10.1007/s00440-017-0783-z},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},
@@ -18,7 +19,8 @@ chen.hu.ea:18:intermittency
     mrreviewer = {Isamu D\^{o}ku},
     number = {1-2},
     pages = {431--457},
-    title = {Intermittency for the stochastic heat equation driven by a rough time fractional {G}aussian noise},
+    title = {Intermittency for the stochastic heat equation driven by a
+   rough time fractional {G}aussian noise},
     url = {https://doi.org/10.1007/s00440-017-0783-z},
     volume = {171},
     year = {2018}

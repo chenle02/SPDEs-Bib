@@ -14,7 +14,8 @@ diethelm:10:analysis
     mrclass = {34-02 (26A33 33E12 34A08)},
     mrnumber = {2680847},
     mrreviewer = {Teodor M. Atanackovic},
-    note = {An application-oriented exposition using differential operators of Caputo type},
+    note = {An application-oriented exposition using differential
+   operators of Caputo type},
     pages = {viii+247},
     publisher = {Springer-Verlag, Berlin},
     series = {Lecture Notes in Mathematics},

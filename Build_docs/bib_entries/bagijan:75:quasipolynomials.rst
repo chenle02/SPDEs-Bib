@@ -17,7 +17,9 @@ bagijan:75:quasipolynomials
     mrreviewer = {R. P. Boas},
     number = {3},
     pages = {129--136},
-    title = {Quasipolynomials of {B}ern\v{s}teu{i}n-{H}ausdorff type that are associated with functions of {M}ittag-{L}effler type, and the {$<\rho ,\mu >$} moment problem},
+    title = {Quasipolynomials of {B}ern\v{s}teu{i}n-{H}ausdorff type
+   that are associated with functions of {M}ittag-{L}effler
+   type, and the {$<\rho ,\mu >$} moment problem},
     volume = {61},
     year = {1975}
    }

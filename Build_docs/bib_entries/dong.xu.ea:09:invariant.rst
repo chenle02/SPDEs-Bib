@@ -17,7 +17,8 @@ dong.xu.ea:09:invariant
     mrnumber = {2493997},
     number = {2},
     pages = {410--427},
-    title = {Invariant measures for stochastic evolution equations of pure jump type},
+    title = {Invariant measures for stochastic evolution equations of
+   pure jump type},
     url = {https://doi.org/10.1016/j.spa.2008.03.002},
     volume = {119},
     year = {2009}

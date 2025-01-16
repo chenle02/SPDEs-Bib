@@ -9,7 +9,8 @@ nualart:77:on
 
    @inproceedings{nualart:77:on,
     author = {Nualart, David},
-    booktitle = {Proceedings of the {F}irst {S}panish-{P}ortuguese {M}athematical {C}onference ({M}adrid, 1973) ({S}panish)},
+    booktitle = {Proceedings of the {F}irst {S}panish-{P}ortuguese
+   {M}athematical {C}onference ({M}adrid, 1973) ({S}panish)},
     mrclass = {60G42},
     mrnumber = {581115},
     mrreviewer = {Dominique L\'{e}pingle},

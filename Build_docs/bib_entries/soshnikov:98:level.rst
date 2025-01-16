@@ -18,7 +18,8 @@ soshnikov:98:level
     mrreviewer = {Oleksiy Khorunzhiy},
     number = {2},
     pages = {573--617},
-    title = {Level spacings distribution for large random matrices: {G}aussian fluctuations},
+    title = {Level spacings distribution for large random matrices:
+   {G}aussian fluctuations},
     url = {https://doi.org/10.2307/121004},
     volume = {148},
     year = {1998}

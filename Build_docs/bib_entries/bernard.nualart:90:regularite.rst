@@ -9,7 +9,8 @@ bernard.nualart:90:regularite
 
    @article{bernard.nualart:90:regularite,
     author = {Bernard, Pierre and Nualart, David},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {60J60 (60H07)},
@@ -17,7 +18,8 @@ bernard.nualart:90:regularite
     mrreviewer = {Patrick Cattiaux},
     number = {2},
     pages = {287--297},
-    title = {R\'{e}gularit\'{e} {$C^infty$} des noyaux de {W}iener d'une diffusion},
+    title = {R\'{e}gularit\'{e} {$C^infty$} des noyaux de {W}iener
+   d'une diffusion},
     url = {http://www.numdam.org/item?id=AIHPB_1990__26_2_287_0},
     volume = {26},
     year = {1990}

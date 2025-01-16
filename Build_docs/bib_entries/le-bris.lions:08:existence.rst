@@ -18,7 +18,8 @@ le-bris.lions:08:existence
     mrreviewer = {C\'{e}dric Villani},
     number = {7-9},
     pages = {1272--1317},
-    title = {Existence and uniqueness of solutions to {F}okker-{P}lanck type equations with irregular coefficients},
+    title = {Existence and uniqueness of solutions to {F}okker-{P}lanck
+   type equations with irregular coefficients},
     url = {https://doi.org/10.1080/03605300801970952},
     volume = {33},
     year = {2008}

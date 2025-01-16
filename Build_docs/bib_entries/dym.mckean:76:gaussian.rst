@@ -13,9 +13,11 @@ dym.mckean:76:gaussian
     mrnumber = {0448523},
     mrreviewer = {Shinichi Kotani},
     pages = {xi+335},
-    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers], New York-London},
+    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers],
+   New York-London},
     series = {Probability and Mathematical Statistics, Vol. 31},
-    title = {Gaussian processes, function theory, and the inverse spectral problem},
+    title = {Gaussian processes, function theory, and the inverse
+   spectral problem},
     year = {1976}
    }
 

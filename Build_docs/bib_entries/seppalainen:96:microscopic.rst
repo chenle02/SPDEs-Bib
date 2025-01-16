@@ -17,7 +17,8 @@ seppalainen:96:microscopic
     mrnumber = {1386297},
     mrreviewer = {Shui Feng},
     pages = {no. 5, approx. 51 pp.},
-    title = {A microscopic model for the {B}urgers equation and longest increasing subsequences},
+    title = {A microscopic model for the {B}urgers equation and longest
+   increasing subsequences},
     url = {https://doi.org/10.1214/EJP.v1-5},
     volume = {1},
     year = {1996}

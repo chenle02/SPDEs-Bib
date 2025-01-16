@@ -17,7 +17,9 @@ ben-adda.cresson:13:corrigendum
     mrnumber = {3079978},
     number = {1},
     pages = {409--413},
-    title = {Corrigendum to ``{A}bout non-differentiable functions'' [{J}. {M}ath. {A}nal. {A}ppl. 263 (2001) 721--737] [MR1866075]},
+    title = {Corrigendum to ``{A}bout non-differentiable functions''
+   [{J}. {M}ath. {A}nal. {A}ppl. 263 (2001) 721--737]
+   [MR1866075]},
     url = {https://doi.org/10.1016/j.jmaa.2013.06.027},
     volume = {408},
     year = {2013}

@@ -9,7 +9,8 @@ bourgain:88:temps
 
    @article{bourgain:88:temps,
     author = {Bourgain, Jean},
-    fjournal = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
+    fjournal = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des
+   Sciences. S\'{e}rie I. Math\'{e}matique},
     issn = {0249-6291},
     journal = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
     mrclass = {28D05},

@@ -18,7 +18,8 @@ cheng.xiao:16:mean
     mrreviewer = {Yizao\ Wang},
     number = {2},
     pages = {722--759},
-    title = {The mean {E}uler characteristic and excursion probability of {G}aussian random fields with stationary increments},
+    title = {The mean {E}uler characteristic and excursion probability
+   of {G}aussian random fields with stationary increments},
     url = {https://doi.org/10.1214/15-AAP1101},
     volume = {26},
     year = {2016}

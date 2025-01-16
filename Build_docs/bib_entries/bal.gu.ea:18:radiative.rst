@@ -18,7 +18,8 @@ bal.gu.ea:18:radiative
     mrreviewer = {Le Chen},
     number = {5},
     pages = {699--732},
-    title = {Radiative transport limit of {D}irac equations with random electromagnetic field},
+    title = {Radiative transport limit of {D}irac equations with random
+   electromagnetic field},
     url = {https://doi.org/10.1080/03605302.2018.1472105},
     volume = {43},
     year = {2018}

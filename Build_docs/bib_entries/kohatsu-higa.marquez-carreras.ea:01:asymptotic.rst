@@ -8,7 +8,8 @@ kohatsu-higa.marquez-carreras.ea:01:asymptotic
 .. code-block:: bibtex
 
    @article{kohatsu-higa.marquez-carreras.ea:01:asymptotic,
-    author = {Kohatsu-Higa, A. and M\'{a}rquez-Carreras, D. and Sanz-Sol\'{e}, M.},
+    author = {Kohatsu-Higa, A. and M\'{a}rquez-Carreras, D. and
+   Sanz-Sol\'{e}, M.},
     doi = {10.1023/A:1011163714298},
     fjournal = {Journal of Theoretical Probability},
     issn = {0894-9840},

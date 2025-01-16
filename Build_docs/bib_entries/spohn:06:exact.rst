@@ -18,7 +18,8 @@ spohn:06:exact
     mrreviewer = {Rapha\"{e}l Cerf},
     number = {1},
     pages = {71--99},
-    title = {Exact solutions for {KPZ}-type growth processes, random matrices, and equilibrium shapes of crystals},
+    title = {Exact solutions for {KPZ}-type growth processes, random
+   matrices, and equilibrium shapes of crystals},
     url = {https://doi.org/10.1016/j.physa.2006.04.006},
     volume = {369},
     year = {2006}

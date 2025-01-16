@@ -18,7 +18,8 @@ mierczynski.shen:04:lyapunov
     mrreviewer = {Bj\"{o}rn\ Schmalfuss},
     number = {3},
     pages = {371--390},
-    title = {Lyapunov exponents and asymptotic dynamics in random {K}olmogorov models},
+    title = {Lyapunov exponents and asymptotic dynamics in random
+   {K}olmogorov models},
     url = {https://doi.org/10.1007/s00028-004-0160-0},
     volume = {4},
     year = {2004}

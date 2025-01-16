@@ -8,11 +8,13 @@ hollander.molchanov.ea:12:random
 .. code-block:: bibtex
 
    @book{hollander.molchanov.ea:12:random,
-    author = {den Hollander, Frank and Molchanov, Stanislav A. and Zeitouni, Ofer},
+    author = {den Hollander, Frank and Molchanov, Stanislav A. and
+   Zeitouni, Ofer},
     isbn = {978-3-642-32948-7},
     mrclass = {60-06 (60K35 60K37)},
     mrnumber = {3059554},
-    note = {Reprints of lectures from the Annual Saint-Flour Probability Summer School held in Saint-Flour},
+    note = {Reprints of lectures from the Annual Saint-Flour
+   Probability Summer School held in Saint-Flour},
     pages = {vi+564},
     publisher = {Springer, Heidelberg},
     series = {Probability at Saint-Flour},

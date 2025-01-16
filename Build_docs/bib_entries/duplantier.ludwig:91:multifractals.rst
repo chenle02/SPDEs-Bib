@@ -17,7 +17,8 @@ duplantier.ludwig:91:multifractals
     mrnumber = {1086317},
     number = {3},
     pages = {247--251},
-    title = {Multifractals, operator product expansion, and field theory},
+    title = {Multifractals, operator product expansion, and field
+   theory},
     url = {https://doi.org/10.1103/PhysRevLett.66.247},
     volume = {66},
     year = {1991}

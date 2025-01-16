@@ -8,7 +8,8 @@ oliveira.silva.ea:11:intersection
 .. code-block:: bibtex
 
    @article{oliveira.silva.ea:11:intersection,
-    author = {Oliveira, Maria Jo\~{a}o and da Silva, Jos\'{e} Lu\'{i}s and Streit, Ludwig},
+    author = {Oliveira, Maria Jo\~{a}o and da Silva, Jos\'{e} Lu\'{i}s
+   and Streit, Ludwig},
     doi = {10.1007/s10440-010-9579-1},
     fjournal = {Acta Applicandae Mathematicae},
     issn = {0167-8019},
@@ -18,7 +19,8 @@ oliveira.silva.ea:11:intersection
     mrreviewer = {David Nualart},
     number = {1},
     pages = {17--39},
-    title = {Intersection local times of independent fractional {B}rownian motions as generalized white noise functionals},
+    title = {Intersection local times of independent fractional
+   {B}rownian motions as generalized white noise functionals},
     url = {https://doi.org/10.1007/s10440-010-9579-1},
     volume = {113},
     year = {2011}

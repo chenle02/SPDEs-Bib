@@ -18,7 +18,8 @@ nualart.ouknine:02:regularization
     mrreviewer = {Philip Protter},
     number = {1},
     pages = {103--116},
-    title = {Regularization of differential equations by fractional noise},
+    title = {Regularization of differential equations by fractional
+   noise},
     url = {https://doi.org/10.1016/S0304-4149(02)00155-2},
     volume = {102},
     year = {2002}

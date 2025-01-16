@@ -8,7 +8,8 @@ deya.gubinelli.ea:19:one-dimensional
 .. code-block:: bibtex
 
    @article{deya.gubinelli.ea:19:one-dimensional,
-    author = {Deya, Aur\'{e}lien and Gubinelli, Massimiliano and Hofmanov\'{a}, Martina and Tindel, Samy},
+    author = {Deya, Aur\'{e}lien and Gubinelli, Massimiliano and
+   Hofmanov\'{a}, Martina and Tindel, Samy},
     doi = {10.1016/j.spa.2018.09.007},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149},

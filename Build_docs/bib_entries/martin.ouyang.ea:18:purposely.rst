@@ -16,7 +16,8 @@ martin.ouyang.ea:18:purposely
     mrclass = {62F15 (60J60 60J75)},
     mrnumber = {3758588},
     pages = {106--113},
-    title = {`{P}urposely misspecified' posterior inference on the volatility of a jump diffusion process},
+    title = {`{P}urposely misspecified' posterior inference on the
+   volatility of a jump diffusion process},
     url = {https://doi.org/10.1016/j.spl.2017.10.013},
     volume = {134},
     year = {2018}

@@ -18,7 +18,8 @@ cambronero.mckean:99:ground
     mrreviewer = {Nariyuki Minami},
     number = {10},
     pages = {1277--1294},
-    title = {The ground state eigenvalue of {H}ill's equation with white noise potential},
+    title = {The ground state eigenvalue of {H}ill's equation with
+   white noise potential},
     url = {https://doi.org/10.1002/(SICI)1097-0312(199910)52:10<1277::AID-CPA5>3.0.CO;2-L},
     volume = {52},
     year = {1999}

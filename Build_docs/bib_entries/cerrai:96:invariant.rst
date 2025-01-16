@@ -17,7 +17,8 @@ cerrai:96:invariant
     mrreviewer = {Bohdan Maslowski},
     number = {3},
     pages = {353--370},
-    title = {Invariant measures for a class of {SDE}s with drift term having polynomial growth},
+    title = {Invariant measures for a class of {SDE}s with drift term
+   having polynomial growth},
     volume = {5},
     year = {1996}
    }

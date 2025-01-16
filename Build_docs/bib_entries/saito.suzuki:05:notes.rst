@@ -17,7 +17,8 @@ saito.suzuki:05:notes
     mrnumber = {2192860},
     number = {1},
     pages = {72--90},
-    title = {Notes on finite difference schemes to a parabolic-elliptic system modelling chemotaxis},
+    title = {Notes on finite difference schemes to a parabolic-elliptic
+   system modelling chemotaxis},
     url = {https://doi.org/10.1016/j.amc.2005.01.037},
     volume = {171},
     year = {2005}

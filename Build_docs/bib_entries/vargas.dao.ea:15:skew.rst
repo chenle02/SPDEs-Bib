@@ -8,7 +8,8 @@ vargas.dao.ea:15:skew
 .. code-block:: bibtex
 
    @article{vargas.dao.ea:15:skew,
-    author = {Vargas, Vincent and Dao, Tung-Lam and Bouchaud, Jean-Philippe},
+    author = {Vargas, Vincent and Dao, Tung-Lam and Bouchaud,
+   Jean-Philippe},
     doi = {10.1142/S0219024915500223},
     fjournal = {International Journal of Theoretical and Applied Finance},
     issn = {0219-0249,1793-6322},
@@ -18,7 +19,8 @@ vargas.dao.ea:15:skew
     mrreviewer = {George\ Stoica},
     number = {4},
     pages = {1550022, 15},
-    title = {Skew and implied leverage effect: smile dynamics revisited},
+    title = {Skew and implied leverage effect: smile dynamics
+   revisited},
     url = {https://doi.org/10.1142/S0219024915500223},
     volume = {18},
     year = {2015}

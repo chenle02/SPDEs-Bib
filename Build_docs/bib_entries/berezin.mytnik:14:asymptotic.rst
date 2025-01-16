@@ -18,7 +18,8 @@ berezin.mytnik:14:asymptotic
     mrreviewer = {Oriane Blondel},
     number = {3},
     pages = {1045--1057},
-    title = {Asymptotic behaviour of the critical value for the contact process with rapid stirring},
+    title = {Asymptotic behaviour of the critical value for the contact
+   process with rapid stirring},
     url = {https://doi.org/10.1007/s10959-012-0470-z},
     volume = {27},
     year = {2014}

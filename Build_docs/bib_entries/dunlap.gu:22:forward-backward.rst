@@ -17,7 +17,8 @@ dunlap.gu:22:forward-backward
     mrnumber = {4413215},
     number = {3},
     pages = {1204--1253},
-    title = {A forward-backward {SDE} from the 2{D} nonlinear stochastic heat equation},
+    title = {A forward-backward {SDE} from the 2{D} nonlinear
+   stochastic heat equation},
     url = {https://doi.org/10.1214/21-aop1563},
     volume = {50},
     year = {2022}

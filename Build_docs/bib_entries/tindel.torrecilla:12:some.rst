@@ -16,7 +16,8 @@ tindel.torrecilla:12:some
     pages = {169--202},
     publisher = {Springer, Heidelberg},
     series = {Springer Proc. Math. Stat.},
-    title = {Some differential systems driven by a f{B}m with {H}urst parameter greater than 1/4},
+    title = {Some differential systems driven by a f{B}m with {H}urst
+   parameter greater than 1/4},
     url = {https://doi.org/10.1007/978-3-642-29982-7_8},
     volume = {22},
     year = {2012}

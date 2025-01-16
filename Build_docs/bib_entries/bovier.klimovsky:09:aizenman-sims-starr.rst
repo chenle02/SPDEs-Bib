@@ -17,7 +17,8 @@ bovier.klimovsky:09:aizenman-sims-starr
     mrnumber = {2471664},
     mrreviewer = {Nicoletta\ Cancrini},
     pages = {no. 8, 161--241},
-    title = {The {A}izenman-{S}ims-{S}tarr and {G}uerra's schemes for the {SK} model with multidimensional spins},
+    title = {The {A}izenman-{S}ims-{S}tarr and {G}uerra's schemes for
+   the {SK} model with multidimensional spins},
     url = {https://doi.org/10.1214/EJP.v14-611},
     volume = {14},
     year = {2009}

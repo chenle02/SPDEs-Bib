@@ -10,7 +10,8 @@ dembo.zeitouni:94:large
    @article{dembo.zeitouni:94:large,
     author = {Dembo, Amir and Zeitouni, Ofer},
     doi = {10.1109/9.272334},
-    fjournal = {Institute of Electrical and Electronics Engineers. Transactions on Automatic Control},
+    fjournal = {Institute of Electrical and Electronics Engineers.
+   Transactions on Automatic Control},
     issn = {0018-9286,1558-2523},
     journal = {IEEE Trans. Automat. Control},
     mrclass = {93B55},

@@ -8,7 +8,9 @@ regner.vucinic.ea:13:anomalous
 .. code-block:: bibtex
 
    @article{regner.vucinic.ea:13:anomalous,
-    author = {Benjamin~M. Regner and Dejan Vu\v{c}ini\'{c} and Cristina Domnisoru and Thomas~M. Bartol and Martin~W. Hetzer and Daniel~M. Tartakovsky and Terrence~J. Sejnowski},
+    author = {Benjamin~M. Regner and Dejan Vu\v{c}ini\'{c} and Cristina
+   Domnisoru and Thomas~M. Bartol and Martin~W. Hetzer and
+   Daniel~M. Tartakovsky and Terrence~J. Sejnowski},
     doi = {https://doi.org/10.1016/j.bpj.2013.01.049},
     issn = {0006-3495},
     journal = {Biophysical Journal},

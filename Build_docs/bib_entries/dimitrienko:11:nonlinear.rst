@@ -17,7 +17,8 @@ dimitrienko:11:nonlinear
     pages = {xxiv+721},
     publisher = {Springer, Dordrecht},
     series = {Solid Mechanics and its Applications},
-    title = {Nonlinear continuum mechanics and large inelastic deformations},
+    title = {Nonlinear continuum mechanics and large inelastic
+   deformations},
     url = {https://doi.org/10.1007/978-94-007-0034-5},
     volume = {174},
     year = {2011}

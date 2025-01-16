@@ -17,7 +17,8 @@ duc.nualart.ea:91:doob-meyer
     mrreviewer = {Peter Imkeller},
     number = {3-4},
     pages = {221--239},
-    title = {The {D}oob-{M}eyer decomposition for anticipating processes},
+    title = {The {D}oob-{M}eyer decomposition for anticipating
+   processes},
     volume = {34},
     year = {1991}
    }

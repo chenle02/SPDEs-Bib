@@ -17,7 +17,8 @@ lacoin.rhodes.ea:23:probabilistic
     mrnumber = {4528966},
     number = {1-2},
     pages = {1--40},
-    title = {A probabilistic approach of ultraviolet renormalization in the boundary sine-{G}ordon model},
+    title = {A probabilistic approach of ultraviolet renormalization in
+   the boundary sine-{G}ordon model},
     url = {https://doi.org/10.1007/s00440-022-01174-5},
     volume = {185},
     year = {2023}

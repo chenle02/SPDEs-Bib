@@ -8,7 +8,8 @@ barraquand.borodin.ea:20:half-space
 .. code-block:: bibtex
 
    @article{barraquand.borodin.ea:20:half-space,
-    author = {Barraquand, Guillaume and Borodin, Alexei and Corwin, Ivan},
+    author = {Barraquand, Guillaume and Borodin, Alexei and Corwin,
+   Ivan},
     doi = {10.1017/fmp.2020.3},
     fjournal = {Forum of Mathematics. Pi},
     journal = {Forum Math. Pi},

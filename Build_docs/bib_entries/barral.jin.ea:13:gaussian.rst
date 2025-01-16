@@ -8,7 +8,8 @@ barral.jin.ea:13:gaussian
 .. code-block:: bibtex
 
    @article{barral.jin.ea:13:gaussian,
-    author = {Barral, Julien and Jin, Xiong and Rhodes, R\'{e}mi and Vargas, Vincent},
+    author = {Barral, Julien and Jin, Xiong and Rhodes, R\'{e}mi and
+   Vargas, Vincent},
     doi = {10.1007/s00220-013-1769-z},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},

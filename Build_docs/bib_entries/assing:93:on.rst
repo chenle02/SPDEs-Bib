@@ -18,7 +18,8 @@ assing:93:on
     mrreviewer = {Toshio Yamada},
     number = {3-4},
     pages = {183--198},
-    title = {On reflected solutions of stochastic differential equations with ordinary drift},
+    title = {On reflected solutions of stochastic differential
+   equations with ordinary drift},
     url = {https://doi.org/10.1080/17442509308833818},
     volume = {42},
     year = {1993}

@@ -9,7 +9,8 @@ nualart.zakai:89:summary
 
    @incollection{nualart.zakai:89:summary,
     author = {Nualart, D. and Zakai, M.},
-    booktitle = {Stochastic partial differential equations and applications, {II} ({T}rento, 1988)},
+    booktitle = {Stochastic partial differential equations and
+   applications, {II} ({T}rento, 1988)},
     doi = {10.1007/BFb0083946},
     mrclass = {60H07},
     mrnumber = {1019603},

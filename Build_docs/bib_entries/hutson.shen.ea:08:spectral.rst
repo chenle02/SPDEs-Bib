@@ -18,7 +18,8 @@ hutson.shen.ea:08:spectral
     mrreviewer = {Reinhard\ B\"{u}rger},
     number = {4},
     pages = {1147--1175},
-    title = {Spectral theory for nonlocal dispersal with periodic or almost-periodic time dependence},
+    title = {Spectral theory for nonlocal dispersal with periodic or
+   almost-periodic time dependence},
     url = {https://doi.org/10.1216/RMJ-2008-38-4-1147},
     volume = {38},
     year = {2008}

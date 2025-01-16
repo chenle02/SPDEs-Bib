@@ -17,7 +17,8 @@ mccoy.tracy.ea:77:connection
     mrnumber = {592243},
     number = {5},
     pages = {283--284},
-    title = {Connection between the {K}d{V} equation and the two-dimensional {I}sing model},
+    title = {Connection between the {K}d{V} equation and the
+   two-dimensional {I}sing model},
     url = {https://doi.org/10.1016/0375-9601(77)90613-2},
     volume = {61},
     year = {1977}

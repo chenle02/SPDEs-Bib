@@ -17,7 +17,8 @@ bertini.cancrini:98:two-dimensional
     mrnumber = {1629198},
     number = {2},
     pages = {615--622},
-    title = {The two-dimensional stochastic heat equation: renormalizing a multiplicative noise},
+    title = {The two-dimensional stochastic heat equation:
+   renormalizing a multiplicative noise},
     url = {https://doi.org/10.1088/0305-4470/31/2/019},
     volume = {31},
     year = {1998}

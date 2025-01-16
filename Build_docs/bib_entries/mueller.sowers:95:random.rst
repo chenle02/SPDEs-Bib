@@ -17,7 +17,8 @@ mueller.sowers:95:random
     mrnumber = {1319963},
     number = {2},
     pages = {439--498},
-    title = {Random travelling waves for the {KPP} equation with noise},
+    title = {Random travelling waves for the {KPP} equation with
+   noise},
     url = {https://doi.org/10.1006/jfan.1995.1038},
     volume = {128},
     year = {1995}

@@ -17,7 +17,8 @@ gertner.freuidlin:79:propagation
     mrreviewer = {V. M. Babich},
     number = {3},
     pages = {521--525},
-    title = {The propagation of concentration waves in periodic and random media},
+    title = {The propagation of concentration waves in periodic and
+   random media},
     volume = {249},
     year = {1979}
    }

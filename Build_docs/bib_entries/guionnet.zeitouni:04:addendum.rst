@@ -17,7 +17,9 @@ guionnet.zeitouni:04:addendum
     mrnumber = {2091363},
     number = {1},
     pages = {230--241},
-    title = {Addendum to: ``{L}arge deviations asymptotics for spherical integrals'' [{J}. {F}unct. {A}nal. {\bf 188} (2002), no. 2, 461--515; MR1883414]},
+    title = {Addendum to: ``{L}arge deviations asymptotics for
+   spherical integrals'' [{J}. {F}unct. {A}nal. {\bf 188}
+   (2002), no. 2, 461--515; MR1883414]},
     url = {https://doi.org/10.1016/j.jfa.2003.11.013},
     volume = {216},
     year = {2004}

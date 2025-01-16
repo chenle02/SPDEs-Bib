@@ -18,7 +18,8 @@ oelschlager:90:large
     mrreviewer = {G.\ Leha},
     number = {2},
     pages = {294--346},
-    title = {Large systems of interacting particles and the porous medium equation},
+    title = {Large systems of interacting particles and the porous
+   medium equation},
     url = {https://doi.org/10.1016/0022-0396(90)90101-T},
     volume = {88},
     year = {1990}

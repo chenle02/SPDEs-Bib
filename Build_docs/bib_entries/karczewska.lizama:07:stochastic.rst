@@ -18,7 +18,8 @@ karczewska.lizama:07:stochastic
     mrreviewer = {Jan I. Seidler},
     number = {2},
     pages = {373--386},
-    title = {Stochastic {V}olterra equations driven by cylindrical {W}iener process},
+    title = {Stochastic {V}olterra equations driven by cylindrical
+   {W}iener process},
     url = {https://doi.org/10.1007/s00028-007-0302-2},
     volume = {7},
     year = {2007}

@@ -18,7 +18,8 @@ winkler:17:how
     mrreviewer = {J\"{u}rgen Socolowsky},
     number = {5},
     pages = {3067--3125},
-    title = {How far do chemotaxis-driven forces influence regularity in the {N}avier-{S}tokes system?},
+    title = {How far do chemotaxis-driven forces influence regularity
+   in the {N}avier-{S}tokes system?},
     url = {https://doi.org/10.1090/tran/6733},
     volume = {369},
     year = {2017}

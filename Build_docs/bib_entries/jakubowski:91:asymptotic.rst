@@ -10,7 +10,8 @@ jakubowski:91:asymptotic
    @book{jakubowski:91:asymptotic,
     author = {Jakubowski, Adam},
     publisher = {Published by the author},
-    title = {Asymptotic independent representations for sums and order statistics of stationary sequences},
+    title = {Asymptotic independent representations for sums and order
+   statistics of stationary sequences},
     url = {http://www-users.mat.uni.torun.pl/~adjakubo/hab.pdf},
     year = {1991}
    }

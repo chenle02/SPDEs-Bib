@@ -14,7 +14,8 @@ comets:17:directed
     mrclass = {60K37 (60F10 60H05 60J10 82-01 82B41 82D60)},
     mrnumber = {3444835},
     mrreviewer = {Julien Poisat},
-    note = {Lecture notes from the 46th Probability Summer School held in Saint-Flour, 2016},
+    note = {Lecture notes from the 46th Probability Summer School held
+   in Saint-Flour, 2016},
     pages = {xv+199},
     publisher = {Springer, Cham},
     series = {Lecture Notes in Mathematics},

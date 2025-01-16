@@ -18,7 +18,8 @@ killip.stoiciu:09:eigenvalue
     mrreviewer = {David Damanik},
     number = {3},
     pages = {361--399},
-    title = {Eigenvalue statistics for {CMV} matrices: from {P}oisson to clock via random matrix ensembles},
+    title = {Eigenvalue statistics for {CMV} matrices: from {P}oisson
+   to clock via random matrix ensembles},
     url = {https://doi.org/10.1215/00127094-2009-001},
     volume = {146},
     year = {2009}

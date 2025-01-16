@@ -18,7 +18,8 @@ mueller:00:critical
     mrreviewer = {Richard B. Sowers},
     number = {4},
     pages = {1735--1746},
-    title = {The critical parameter for the heat equation with a noise term to blow up in finite time},
+    title = {The critical parameter for the heat equation with a noise
+   term to blow up in finite time},
     url = {https://doi.org/10.1214/aop/1019160505},
     volume = {28},
     year = {2000}

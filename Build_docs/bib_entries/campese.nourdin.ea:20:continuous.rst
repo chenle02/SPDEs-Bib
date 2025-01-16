@@ -18,7 +18,8 @@ campese.nourdin.ea:20:continuous
     mrreviewer = {Viet-Hung Pham},
     number = {1},
     pages = {147--177},
-    title = {Continuous {B}reuer-{M}ajor theorem: tightness and nonstationarity},
+    title = {Continuous {B}reuer-{M}ajor theorem: tightness and
+   nonstationarity},
     url = {https://doi.org/10.1214/19-AOP1357},
     volume = {48},
     year = {2020}

@@ -18,7 +18,8 @@ barral.loiseau:11:large
     mrreviewer = {Ofer\ Zeitouni},
     number = {10},
     pages = {2272--2302},
-    title = {Large deviations for the local fluctuations of random walks},
+    title = {Large deviations for the local fluctuations of random
+   walks},
     url = {https://doi.org/10.1016/j.spa.2011.06.004},
     volume = {121},
     year = {2011}

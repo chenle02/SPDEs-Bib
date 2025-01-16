@@ -18,7 +18,8 @@ lacey.tzanetis:88:complete
     mrreviewer = {Victor A. Galaktionov},
     number = {3},
     pages = {207--215},
-    title = {Complete blow-up for a semilinear diffusion equation with a sufficiently large initial condition},
+    title = {Complete blow-up for a semilinear diffusion equation with
+   a sufficiently large initial condition},
     url = {https://doi.org/10.1093/imamat/41.3.207},
     volume = {41},
     year = {1988}

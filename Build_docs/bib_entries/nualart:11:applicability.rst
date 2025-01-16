@@ -17,7 +17,8 @@ nualart:11:applicability
     mrnumber = {2951765},
     number = {2},
     pages = {137--163, 221--222},
-    title = {Applicability of the integration-by-parts formula in a {G}aussian space},
+    title = {Applicability of the integration-by-parts formula in a
+   {G}aussian space},
     url = {https://doi.org/10.2436/20.2002.01.37},
     volume = {26},
     year = {2011}

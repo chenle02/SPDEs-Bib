@@ -8,7 +8,8 @@ zel-dovich.barenblatt.ea:85:mathematical
 .. code-block:: bibtex
 
    @book{zel-dovich.barenblatt.ea:85:mathematical,
-    author = {Zel{\cprime}dovich, Ya. B. and Barenblatt, G. I. and Librovich, V. B. and Makhviladze, G. M.},
+    author = {Zel{\cprime}dovich, Ya. B. and Barenblatt, G. I. and
+   Librovich, V. B. and Makhviladze, G. M.},
     doi = {10.1007/978-1-4613-2349-5},
     isbn = {0-306-10974-3},
     mrclass = {80A25},

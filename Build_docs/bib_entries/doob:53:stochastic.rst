@@ -13,7 +13,8 @@ doob:53:stochastic
     mrnumber = {0058896},
     mrreviewer = {D. G. Kendall},
     pages = {viii+654},
-    publisher = {John Wiley \& Sons, Inc., New York; Chapman \& Hall, Ltd., London},
+    publisher = {John Wiley \& Sons, Inc., New York; Chapman \& Hall, Ltd.,
+   London},
     title = {Stochastic processes},
     year = {1953}
    }

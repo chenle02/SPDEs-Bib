@@ -10,7 +10,8 @@ bourgain.gamburd.ea:16:markoff
    @article{bourgain.gamburd.ea:16:markoff,
     author = {Bourgain, Jean and Gamburd, Alexander and Sarnak, Peter},
     doi = {10.1016/j.crma.2015.12.006},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {11G05 (14G15)},

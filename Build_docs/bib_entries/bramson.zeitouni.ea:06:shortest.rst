@@ -8,7 +8,8 @@ bramson.zeitouni.ea:06:shortest
 .. code-block:: bibtex
 
    @article{bramson.zeitouni.ea:06:shortest,
-    author = {Bramson, Maury and Zeitouni, Ofer and Zerner, Martin P. W.},
+    author = {Bramson, Maury and Zeitouni, Ofer and Zerner, Martin P.
+   W.},
     doi = {10.1214/009117905000000783},
     fjournal = {The Annals of Probability},
     issn = {0091-1798,2168-894X},
@@ -18,7 +19,8 @@ bramson.zeitouni.ea:06:shortest
     mrreviewer = {Marina\ Vachkovskaia},
     number = {3},
     pages = {821--856},
-    title = {Shortest spanning trees and a counterexample for random walks in random environments},
+    title = {Shortest spanning trees and a counterexample for random
+   walks in random environments},
     url = {https://doi.org/10.1214/009117905000000783},
     volume = {34},
     year = {2006}

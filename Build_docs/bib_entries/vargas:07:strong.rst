@@ -18,7 +18,8 @@ vargas:07:strong
     mrreviewer = {Rongfeng\ Sun},
     number = {3-4},
     pages = {391--410},
-    title = {Strong localization and macroscopic atoms for directed polymers},
+    title = {Strong localization and macroscopic atoms for directed
+   polymers},
     url = {https://doi.org/10.1007/s00440-006-0030-5},
     volume = {138},
     year = {2007}

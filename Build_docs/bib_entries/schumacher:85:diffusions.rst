@@ -9,7 +9,8 @@ schumacher:85:diffusions
 
    @incollection{schumacher:85:diffusions,
     author = {Schumacher, Scott},
-    booktitle = {Particle systems, random media and large deviations ({B}runswick, {M}aine, 1984)},
+    booktitle = {Particle systems, random media and large deviations
+   ({B}runswick, {M}aine, 1984)},
     doi = {10.1090/conm/041/814724},
     mrclass = {60F05 (60J60 82A42)},
     mrnumber = {814724},

@@ -14,7 +14,8 @@ tenenbaum:15:introduction
     isbn = {978-0-8218-9854-3},
     mrclass = {11-02 (11Kxx 11Mxx 11Nxx)},
     mrnumber = {3363366},
-    note = {Translated from the 2008 French edition by Patrick D. F. Ion},
+    note = {Translated from the 2008 French edition by Patrick D. F.
+   Ion},
     pages = {xxiv+629},
     publisher = {American Mathematical Society, Providence, RI},
     series = {Graduate Studies in Mathematics},

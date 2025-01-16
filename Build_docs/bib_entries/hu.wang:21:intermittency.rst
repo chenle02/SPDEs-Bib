@@ -9,9 +9,11 @@ hu.wang:21:intermittency
 
    @article{hu.wang:21:intermittency,
     author = {Yaozhong Hu and Xiong Wang},
-    journal = {Preprint arXiv:2109.03473, to appear in Stoch. Partial Differ. Equ. Anal. Comput.},
+    journal = {Preprint arXiv:2109.03473, to appear in Stoch. Partial
+   Differ. Equ. Anal. Comput.},
     month = {September},
-    title = {Intermittency properties for a large class of stochastic PDEs driven by fractional space-time noises},
+    title = {Intermittency properties for a large class of stochastic
+   PDEs driven by fractional space-time noises},
     url = {https://www.arxiv.org/abs/2109.03473},
     year = {2021}
    }

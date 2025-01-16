@@ -17,7 +17,9 @@ birman.skvorcov:62:on
     mrreviewer = {J. L. B. Cooper},
     number = {5 (30)},
     pages = {11--21},
-    title = {On square summability of highest derivatives of the solution of the {D}irichlet problem in a domain with piecewise smooth boundary},
+    title = {On square summability of highest derivatives of the
+   solution of the {D}irichlet problem in a domain with
+   piecewise smooth boundary},
     volume = {1962},
     year = {1962}
    }

@@ -18,7 +18,8 @@ xiao:13:recent
     pages = {255--288},
     publisher = {Birkh\"{a}user/Springer, New York},
     series = {Trends Math.},
-    title = {Recent developments on fractal properties of {G}aussian random fields},
+    title = {Recent developments on fractal properties of {G}aussian
+   random fields},
     url = {https://doi.org/10.1007/978-0-8176-8400-6_13},
     year = {2013}
    }

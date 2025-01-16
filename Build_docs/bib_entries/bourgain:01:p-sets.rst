@@ -17,7 +17,8 @@ bourgain:01:p-sets
     mrreviewer = {Kathryn\ Hare},
     pages = {195--232},
     publisher = {North-Holland, Amsterdam},
-    title = {{$\Lambda_p$}-sets in analysis: results, problems and related aspects},
+    title = {{$\Lambda_p$}-sets in analysis: results, problems and
+   related aspects},
     url = {https://doi.org/10.1016/S1874-5849(01)80007-3},
     year = {2001}
    }

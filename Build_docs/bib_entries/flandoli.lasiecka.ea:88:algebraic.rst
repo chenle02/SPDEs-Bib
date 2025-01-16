@@ -17,7 +17,9 @@ flandoli.lasiecka.ea:88:algebraic
     mrnumber = {1008349},
     mrreviewer = {Kenneth\ B.\ Hannsgen},
     pages = {307--382},
-    title = {Algebraic {R}iccati equations with nonsmoothing observation arising in hyperbolic and {E}uler-{B}ernoulli boundary control problems},
+    title = {Algebraic {R}iccati equations with nonsmoothing
+   observation arising in hyperbolic and {E}uler-{B}ernoulli
+   boundary control problems},
     url = {https://doi.org/10.1007/BF01762397},
     volume = {153},
     year = {1988}

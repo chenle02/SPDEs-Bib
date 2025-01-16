@@ -18,7 +18,8 @@ talagrand:96:transportation
     mrreviewer = {Juan A. Cuesta-Albertos},
     number = {3},
     pages = {587--600},
-    title = {Transportation cost for {G}aussian and other product measures},
+    title = {Transportation cost for {G}aussian and other product
+   measures},
     url = {https://doi.org/10.1007/BF02249265},
     volume = {6},
     year = {1996}

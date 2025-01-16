@@ -18,7 +18,8 @@ albeverio.haba.ea:01:two-space
     mrreviewer = {Jean-Pierre Fouque},
     number = {3},
     pages = {319--366},
-    title = {A two-space dimensional semilinear heat equation perturbed by ({G}aussian) white noise},
+    title = {A two-space dimensional semilinear heat equation perturbed
+   by ({G}aussian) white noise},
     url = {https://doi.org/10.1007/s004400100153},
     volume = {121},
     year = {2001}

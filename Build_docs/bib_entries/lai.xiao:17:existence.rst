@@ -14,7 +14,8 @@ lai.xiao:17:existence
     mrclass = {35M33 (35B40 35Q92)},
     mrnumber = {3723527},
     pages = {Paper No. 254, 9},
-    title = {Existence and asymptotic behavior of global solutions to chemorepulsion systems with nonlinear sensitivity},
+    title = {Existence and asymptotic behavior of global solutions to
+   chemorepulsion systems with nonlinear sensitivity},
     year = {2017}
    }
 

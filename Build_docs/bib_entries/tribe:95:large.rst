@@ -18,7 +18,8 @@ tribe:95:large
     mrreviewer = {Robert C. Dalang},
     number = {3},
     pages = {289--311},
-    title = {Large time behavior of interface solutions to the heat equation with {F}isher-{W}right white noise},
+    title = {Large time behavior of interface solutions to the heat
+   equation with {F}isher-{W}right white noise},
     url = {https://doi.org/10.1007/BF01192463},
     volume = {102},
     year = {1995}

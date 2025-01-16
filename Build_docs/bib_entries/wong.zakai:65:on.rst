@@ -17,7 +17,8 @@ wong.zakai:65:on
     mrnumber = {195142},
     mrreviewer = {T. Watanabe},
     pages = {1560--1564},
-    title = {On the convergence of ordinary integrals to stochastic integrals},
+    title = {On the convergence of ordinary integrals to stochastic
+   integrals},
     url = {https://doi.org/10.1214/aoms/1177699916},
     volume = {36},
     year = {1965}

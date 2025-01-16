@@ -17,7 +17,8 @@ boufoussi.hajji:18:transportation
     mrnumber = {3802186},
     mrreviewer = {Laurent Decreusefond},
     pages = {75--83},
-    title = {Transportation inequalities for stochastic heat equations},
+    title = {Transportation inequalities for stochastic heat
+   equations},
     url = {https://doi.org/10.1016/j.spl.2018.03.012},
     volume = {139},
     year = {2018}

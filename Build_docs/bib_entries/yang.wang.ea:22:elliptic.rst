@@ -17,7 +17,8 @@ yang.wang.ea:22:elliptic
     mrnumber = {4386881},
     number = {1},
     pages = {101--122},
-    title = {Elliptic equations associated with {B}rownian motion with singular drift},
+    title = {Elliptic equations associated with {B}rownian motion with
+   singular drift},
     url = {https://doi.org/10.1007/s40304-020-00213-8},
     volume = {10},
     year = {2022}

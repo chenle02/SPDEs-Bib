@@ -14,7 +14,8 @@ halmos:51:introduction
     mrreviewer = {B. Sz.-Nagy},
     pages = {114},
     publisher = {Chelsea Publishing Co., New York},
-    title = {Introduction to {H}ilbert {S}pace and the theory of {S}pectral {M}ultiplicity},
+    title = {Introduction to {H}ilbert {S}pace and the theory of
+   {S}pectral {M}ultiplicity},
     year = {1951}
    }
 

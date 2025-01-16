@@ -8,7 +8,8 @@ bogachev.kosov.ea:15:two
 .. code-block:: bibtex
 
    @article{bogachev.kosov.ea:15:two,
-    author = {Bogachev, V. I. and Kosov, E. D. and Nourdin, I. and Poly, G.},
+    author = {Bogachev, V. I. and Kosov, E. D. and Nourdin, I. and Poly,
+   G.},
     doi = {10.1137/S0040585X97T987041},
     fjournal = {Theory of Probability and its Applications},
     issn = {0040-585X},
@@ -18,7 +19,8 @@ bogachev.kosov.ea:15:two
     mrreviewer = {Peter Parczewski},
     number = {2},
     pages = {208--221},
-    title = {Two properties of vectors of quadratic forms in {G}aussian random variables},
+    title = {Two properties of vectors of quadratic forms in {G}aussian
+   random variables},
     url = {https://doi.org/10.1137/S0040585X97T987041},
     volume = {59},
     year = {2015}

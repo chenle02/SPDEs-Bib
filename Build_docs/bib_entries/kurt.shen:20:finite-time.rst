@@ -11,7 +11,9 @@ kurt.shen:20:finite-time
     author = {Halil Ibrahim Kurt and Wenxian Shen},
     journal = {Preprint arXiv:2008.01887},
     month = {August},
-    title = {Finite-time blow-up prevention by logistic source in parabolic-elliptic chemotaxis models with singular sensitivity in any dimensional setting},
+    title = {Finite-time blow-up prevention by logistic source in
+   parabolic-elliptic chemotaxis models with singular
+   sensitivity in any dimensional setting},
     url = {http://arXiv.org/abs/2008.01887},
     year = {2020}
    }

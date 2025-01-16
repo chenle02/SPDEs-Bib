@@ -18,7 +18,8 @@ flandoli.lisei:04:stationary
     mrreviewer = {Wilfried\ Grecksch},
     number = {6},
     pages = {1385--1420},
-    title = {Stationary conjugation of flows for parabolic {SPDE}s with multiplicative noise and some applications},
+    title = {Stationary conjugation of flows for parabolic {SPDE}s with
+   multiplicative noise and some applications},
     url = {https://doi.org/10.1081/SAP-200029481},
     volume = {22},
     year = {2004}

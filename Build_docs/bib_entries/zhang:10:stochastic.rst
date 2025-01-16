@@ -18,7 +18,8 @@ zhang:10:stochastic
     mrreviewer = {Constantin Tudor},
     number = {4},
     pages = {1361--1425},
-    title = {Stochastic {V}olterra equations in {B}anach spaces and stochastic partial differential equation},
+    title = {Stochastic {V}olterra equations in {B}anach spaces and
+   stochastic partial differential equation},
     url = {https://doi.org/10.1016/j.jfa.2009.11.006},
     volume = {258},
     year = {2010}

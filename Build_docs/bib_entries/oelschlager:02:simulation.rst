@@ -18,7 +18,8 @@ oelschlager:02:simulation
     mrreviewer = {Michael\ Junk},
     number = {5},
     pages = {1716--1762},
-    title = {Simulation of the solution of a viscous porous medium equation by a particle method},
+    title = {Simulation of the solution of a viscous porous medium
+   equation by a particle method},
     url = {https://doi.org/10.1137/S0036142900363377},
     volume = {40},
     year = {2002}

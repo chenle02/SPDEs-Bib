@@ -16,7 +16,8 @@ nualart:93:markov
     pages = {45--88},
     publisher = {Gordon and Breach, Montreux},
     series = {Stochastics Monogr.},
-    title = {Markov fields and transformations of the {W}iener measure},
+    title = {Markov fields and transformations of the {W}iener
+   measure},
     volume = {8},
     year = {1993}
    }

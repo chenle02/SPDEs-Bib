@@ -15,7 +15,9 @@ riahi:13:estimates
     mrnumber = {3082267},
     number = {1},
     pages = {115--130},
-    title = {Estimates for {D}irichlet heat kernels, intrinsic ultracontractivity and expected exit time on {L}ipschitz domains},
+    title = {Estimates for {D}irichlet heat kernels, intrinsic
+   ultracontractivity and expected exit time on {L}ipschitz
+   domains},
     volume = {15},
     year = {2013}
    }

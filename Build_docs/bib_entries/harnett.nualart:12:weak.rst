@@ -18,7 +18,8 @@ harnett.nualart:12:weak
     mrreviewer = {Stefano Bonaccorsi},
     number = {10},
     pages = {3460--3505},
-    title = {Weak convergence of the {S}tratonovich integral with respect to a class of {G}aussian processes},
+    title = {Weak convergence of the {S}tratonovich integral with
+   respect to a class of {G}aussian processes},
     url = {https://doi.org/10.1016/j.spa.2012.06.008},
     volume = {122},
     year = {2012}

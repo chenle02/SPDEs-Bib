@@ -17,7 +17,9 @@ cannizzaro.chouk:18:multidimensional
     mrnumber = {3785598},
     number = {3},
     pages = {1710--1763},
-    title = {Multidimensional {SDE}s with singular drift and universal construction of the polymer measure with white noise potential},
+    title = {Multidimensional {SDE}s with singular drift and universal
+   construction of the polymer measure with white noise
+   potential},
     url = {https://doi.org/10.1214/17-AOP1213},
     volume = {46},
     year = {2018}

@@ -8,7 +8,8 @@ khoshnevisan.levin.ea:05:on
 .. code-block:: bibtex
 
    @article{khoshnevisan.levin.ea:05:on,
-    author = {Khoshnevisan, Davar and Levin, David A. and M\'{e}ndez-Hern\'{a}ndez, Pedro J.},
+    author = {Khoshnevisan, Davar and Levin, David A. and
+   M\'{e}ndez-Hern\'{a}ndez, Pedro J.},
     doi = {10.1214/009117904000001044},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},

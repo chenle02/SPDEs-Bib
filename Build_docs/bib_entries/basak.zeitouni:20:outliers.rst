@@ -18,7 +18,8 @@ basak.zeitouni:20:outliers
     mrreviewer = {Florent\ Benaych-Georges},
     number = {3-4},
     pages = {771--826},
-    title = {Outliers of random perturbations of {T}oeplitz matrices with finite symbols},
+    title = {Outliers of random perturbations of {T}oeplitz matrices
+   with finite symbols},
     url = {https://doi.org/10.1007/s00440-020-00990-x},
     volume = {178},
     year = {2020}

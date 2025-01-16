@@ -8,7 +8,8 @@ borodin.ferrari.ea:08:transition
 .. code-block:: bibtex
 
    @article{borodin.ferrari.ea:08:transition,
-    author = {Borodin, Alexei and Ferrari, Patrik L. and Sasamoto, Tomohiro},
+    author = {Borodin, Alexei and Ferrari, Patrik L. and Sasamoto,
+   Tomohiro},
     doi = {10.1002/cpa.20234},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640},
@@ -18,7 +19,8 @@ borodin.ferrari.ea:08:transition
     mrreviewer = {Ofer Zeitouni},
     number = {11},
     pages = {1603--1629},
-    title = {Transition between {${\rm Airy}_1$} and {${\rm Airy}\_2$} processes and {TASEP} fluctuations},
+    title = {Transition between {${\rm Airy}_1$} and {${\rm Airy}_2$}
+   processes and {TASEP} fluctuations},
     url = {https://doi.org/10.1002/cpa.20234},
     volume = {61},
     year = {2008}

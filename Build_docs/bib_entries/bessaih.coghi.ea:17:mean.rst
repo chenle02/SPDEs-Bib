@@ -17,7 +17,8 @@ bessaih.coghi.ea:17:mean
     mrnumber = {3610214},
     number = {5},
     pages = {1276--1309},
-    title = {Mean field limit of interacting filaments and vector valued non-linear {PDE}s},
+    title = {Mean field limit of interacting filaments and vector
+   valued non-linear {PDE}s},
     url = {https://doi.org/10.1007/s10955-016-1706-6},
     volume = {166},
     year = {2017}

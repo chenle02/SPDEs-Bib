@@ -17,7 +17,9 @@ kryloff.bogoliouboff:37:theorie
     mrnumber = {1503326},
     number = {1},
     pages = {65--113},
-    title = {La th\'{e}orie g\'{e}n\'{e}rale de la mesure dans son application \`a l'\'{e}tude des syst\`emes dynamiques de la m\'{e}canique non lin\'{e}aire},
+    title = {La th\'{e}orie g\'{e}n\'{e}rale de la mesure dans son
+   application \`a l'\'{e}tude des syst\`emes dynamiques de la
+   m\'{e}canique non lin\'{e}aire},
     url = {https://doi.org/10.2307/1968511},
     volume = {38},
     year = {1937}

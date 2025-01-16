@@ -17,7 +17,8 @@ li:92:comparison
     mrnumber = {1144725},
     number = {1},
     pages = {1--31},
-    title = {Comparison results for the lower tail of {G}aussian seminorms},
+    title = {Comparison results for the lower tail of {G}aussian
+   seminorms},
     url = {https://doi.org/10.1007/BF01046776},
     volume = {5},
     year = {1992}

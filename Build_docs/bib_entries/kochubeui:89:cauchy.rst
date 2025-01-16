@@ -17,7 +17,8 @@ kochubeui:89:cauchy
     mrreviewer = {Florin Iacob},
     number = {8},
     pages = {1359--1368, 1468},
-    title = {The {C}auchy problem for evolution equations of fractional order},
+    title = {The {C}auchy problem for evolution equations of fractional
+   order},
     volume = {25},
     year = {1989}
    }

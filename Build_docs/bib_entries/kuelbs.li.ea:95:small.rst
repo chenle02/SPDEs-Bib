@@ -18,7 +18,8 @@ kuelbs.li.ea:95:small
     mrreviewer = {Karl Grill},
     number = {2},
     pages = {361--386},
-    title = {Small ball probabilities for {G}aussian processes with stationary increments under {H}\"{o}lder norms},
+    title = {Small ball probabilities for {G}aussian processes with
+   stationary increments under {H}\"{o}lder norms},
     url = {https://doi.org/10.1007/BF02212884},
     volume = {8},
     year = {1995}

@@ -16,7 +16,8 @@ nourdin.pu:22:gaussian
     mrclass = {60B20 (60F05 60G22 60H07)},
     mrnumber = {4329126},
     pages = {Paper No. 109269, 11},
-    title = {Gaussian fluctuation for {G}aussian {W}ishart matrices of overall correlation},
+    title = {Gaussian fluctuation for {G}aussian {W}ishart matrices of
+   overall correlation},
     url = {https://doi.org/10.1016/j.spl.2021.109269},
     volume = {181},
     year = {2022}

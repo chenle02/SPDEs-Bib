@@ -9,7 +9,8 @@ zabczyk:84:stopping
 
    @inproceedings{zabczyk:84:stopping,
     author = {Zabczyk, J.},
-    booktitle = {Proceedings of the {I}nternational {C}ongress of {M}athematicians, {V}ol. 1, 2 ({W}arsaw, 1983)},
+    booktitle = {Proceedings of the {I}nternational {C}ongress of
+   {M}athematicians, {V}ol. 1, 2 ({W}arsaw, 1983)},
     isbn = {83-01-05523-5},
     mrclass = {60G40 (90C40 93E05)},
     mrnumber = {804789},

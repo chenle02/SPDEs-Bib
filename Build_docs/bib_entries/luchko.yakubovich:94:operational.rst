@@ -17,7 +17,8 @@ luchko.yakubovich:94:operational
     mrreviewer = {Tian\ You\ Fan},
     number = {2},
     pages = {269--280, 365},
-    title = {An operational method for solving some classes of integro-differential equations},
+    title = {An operational method for solving some classes of
+   integro-differential equations},
     volume = {30},
     year = {1994}
    }

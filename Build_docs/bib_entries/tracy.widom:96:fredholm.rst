@@ -17,7 +17,8 @@ tracy.widom:96:fredholm
     mrreviewer = {Alexander V. Shapovalov},
     number = {1},
     pages = {1--9},
-    title = {Fredholm determinants and the m{K}d{V}/sinh-{G}ordon hierarchies},
+    title = {Fredholm determinants and the m{K}d{V}/sinh-{G}ordon
+   hierarchies},
     url = {http://projecteuclid.org/euclid.cmp/1104286868},
     volume = {179},
     year = {1996}

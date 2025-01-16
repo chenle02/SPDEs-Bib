@@ -16,7 +16,8 @@ allez.rhodes.ea:15:convergence
     mrclass = {60B20 (60G18)},
     mrnumber = {3412649},
     pages = {327--360},
-    title = {Convergence of the spectrum of empirical covariance matrices for independent {MRW} processes},
+    title = {Convergence of the spectrum of empirical covariance
+   matrices for independent {MRW} processes},
     url = {https://doi.org/10.1051/ps/2014028},
     volume = {19},
     year = {2015}

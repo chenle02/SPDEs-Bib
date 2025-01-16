@@ -8,7 +8,8 @@ zakany.smirnov.ea:22:lizard
 .. code-block:: bibtex
 
    @article{zakany.smirnov.ea:22:lizard,
-    author = {Zakany, Szabolcs and Smirnov, Stanislav and Milinkovitch, Michel C.},
+    author = {Zakany, Szabolcs and Smirnov, Stanislav and Milinkovitch,
+   Michel C.},
     doi = {10.1103/physrevlett.128.048102},
     fjournal = {Physical Review Letters},
     issn = {0031-9007,1079-7114},

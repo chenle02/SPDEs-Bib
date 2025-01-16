@@ -8,7 +8,8 @@ derrida.janowsky.ea:93:exact
 .. code-block:: bibtex
 
    @article{derrida.janowsky.ea:93:exact,
-    author = {Derrida, B. and Janowsky, S. A. and Lebowitz, J. L. and Speer, E. R.},
+    author = {Derrida, B. and Janowsky, S. A. and Lebowitz, J. L. and
+   Speer, E. R.},
     doi = {10.1007/BF01052811},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715,1572-9613},
@@ -18,7 +19,8 @@ derrida.janowsky.ea:93:exact
     mrreviewer = {Pablo\ A.\ Ferrari},
     number = {5-6},
     pages = {813--842},
-    title = {Exact solution of the totally asymmetric simple exclusion process: shock profiles},
+    title = {Exact solution of the totally asymmetric simple exclusion
+   process: shock profiles},
     url = {https://doi.org/10.1007/BF01052811},
     volume = {73},
     year = {1993}

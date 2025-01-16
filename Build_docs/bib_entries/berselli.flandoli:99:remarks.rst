@@ -17,7 +17,8 @@ berselli.flandoli:99:remarks
     mrnumber = {1664501},
     number = {1},
     pages = {197--214},
-    title = {Remarks on determining projections for stochastic dissipative equations},
+    title = {Remarks on determining projections for stochastic
+   dissipative equations},
     url = {https://doi.org/10.3934/dcds.1999.5.197},
     volume = {5},
     year = {1999}

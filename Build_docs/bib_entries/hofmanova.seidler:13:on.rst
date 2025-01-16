@@ -18,7 +18,8 @@ hofmanova.seidler:13:on
     mrreviewer = {Yong\ Liu},
     number = {4},
     pages = {663--670},
-    title = {On weak solutions of stochastic differential equations {II}},
+    title = {On weak solutions of stochastic differential equations
+   {II}},
     url = {https://doi.org/10.1080/07362994.2013.799025},
     volume = {31},
     year = {2013}

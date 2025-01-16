@@ -17,7 +17,9 @@ lankeit:17:locally
     mrnumber = {3599425},
     number = {7},
     pages = {4052--4084},
-    title = {Locally bounded global solutions to a chemotaxis consumption model with singular sensitivity and nonlinear diffusion},
+    title = {Locally bounded global solutions to a chemotaxis
+   consumption model with singular sensitivity and nonlinear
+   diffusion},
     url = {https://doi.org/10.1016/j.jde.2016.12.007},
     volume = {262},
     year = {2017}

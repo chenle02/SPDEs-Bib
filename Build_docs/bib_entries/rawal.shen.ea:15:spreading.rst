@@ -18,7 +18,8 @@ rawal.shen.ea:15:spreading
     mrreviewer = {Joseph\ L.\ Shomberg},
     number = {4},
     pages = {1609--1640},
-    title = {Spreading speeds and traveling waves of nonlocal monostable equations in time and space periodic habitats},
+    title = {Spreading speeds and traveling waves of nonlocal
+   monostable equations in time and space periodic habitats},
     url = {https://doi.org/10.3934/dcds.2015.35.1609},
     volume = {35},
     year = {2015}

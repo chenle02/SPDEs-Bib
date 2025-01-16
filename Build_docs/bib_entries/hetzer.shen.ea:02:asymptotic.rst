@@ -18,7 +18,9 @@ hetzer.shen.ea:02:asymptotic
     mrreviewer = {Igor\ D.\ Chueshov},
     number = {1},
     pages = {139--188},
-    title = {Asymptotic behavior of positive solutions of random and stochastic parabolic equations of {F}isher and {K}olmogorov types},
+    title = {Asymptotic behavior of positive solutions of random and
+   stochastic parabolic equations of {F}isher and {K}olmogorov
+   types},
     url = {https://doi.org/10.1023/A:1012932212645},
     volume = {14},
     year = {2002}

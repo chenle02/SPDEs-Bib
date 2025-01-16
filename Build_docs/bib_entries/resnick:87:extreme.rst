@@ -16,7 +16,8 @@ resnick:87:extreme
     mrreviewer = {Charles M. Goldie},
     pages = {xii+320},
     publisher = {Springer-Verlag, New York},
-    series = {Applied Probability. A Series of the Applied Probability Trust},
+    series = {Applied Probability. A Series of the Applied Probability
+   Trust},
     title = {Extreme values, regular variation, and point processes},
     url = {https://doi.org/10.1007/978-0-387-75953-1},
     volume = {4},

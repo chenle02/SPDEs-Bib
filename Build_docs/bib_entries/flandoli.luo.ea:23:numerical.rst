@@ -16,7 +16,8 @@ flandoli.luo.ea:23:numerical
     mrclass = {34F05},
     mrnumber = {4480746},
     pages = {Paper No. 127520, 17},
-    title = {Numerical computation of probabilities for nonlinear {SDE}s in high dimension using {K}olmogorov equation},
+    title = {Numerical computation of probabilities for nonlinear
+   {SDE}s in high dimension using {K}olmogorov equation},
     url = {https://doi.org/10.1016/j.amc.2022.127520},
     volume = {436},
     year = {2023}

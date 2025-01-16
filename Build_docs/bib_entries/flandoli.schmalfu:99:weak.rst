@@ -18,7 +18,8 @@ flandoli.schmalfu:99:weak
     mrreviewer = {Marek\ Capi\'{n}ski},
     number = {2},
     pages = {355--398},
-    title = {Weak solutions and attractors for three-dimensional {N}avier-{S}tokes equations with nonregular force},
+    title = {Weak solutions and attractors for three-dimensional
+   {N}avier-{S}tokes equations with nonregular force},
     url = {https://doi.org/10.1023/A:1021937715194},
     volume = {11},
     year = {1999}

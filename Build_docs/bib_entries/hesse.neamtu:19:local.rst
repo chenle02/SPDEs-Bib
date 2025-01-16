@@ -18,7 +18,8 @@ hesse.neamtu:19:local
     mrreviewer = {Le\ Chen},
     number = {11},
     pages = {6480--6538},
-    title = {Local mild solutions for rough stochastic partial differential equations},
+    title = {Local mild solutions for rough stochastic partial
+   differential equations},
     url = {https://doi.org/10.1016/j.jde.2019.06.026},
     volume = {267},
     year = {2019}

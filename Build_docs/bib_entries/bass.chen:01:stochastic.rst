@@ -18,7 +18,8 @@ bass.chen:01:stochastic
     mrreviewer = {Olivier Raimond},
     number = {3},
     pages = {422--446},
-    title = {Stochastic differential equations for {D}irichlet processes},
+    title = {Stochastic differential equations for {D}irichlet
+   processes},
     url = {https://doi.org/10.1007/s004400100151},
     volume = {121},
     year = {2001}

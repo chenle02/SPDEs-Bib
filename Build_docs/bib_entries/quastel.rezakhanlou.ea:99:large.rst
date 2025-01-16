@@ -18,7 +18,8 @@ quastel.rezakhanlou.ea:99:large
     mrreviewer = {Peter Eichelsbacher},
     number = {1},
     pages = {1--84},
-    title = {Large deviations for the symmetric simple exclusion process in dimensions {$d\geq 3$}},
+    title = {Large deviations for the symmetric simple exclusion
+   process in dimensions {$d\geq 3$}},
     url = {https://doi.org/10.1007/s004400050202},
     volume = {113},
     year = {1999}

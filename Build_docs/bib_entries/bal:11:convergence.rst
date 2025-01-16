@@ -18,7 +18,8 @@ bal:11:convergence
     mrreviewer = {Manuela Chaves},
     number = {2},
     pages = {215--241},
-    title = {Convergence to homogenized or stochastic partial differential equations},
+    title = {Convergence to homogenized or stochastic partial
+   differential equations},
     url = {https://doi.org/10.1093/amrx/abr006},
     year = {2011}
    }

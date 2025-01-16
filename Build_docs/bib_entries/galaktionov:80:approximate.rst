@@ -17,7 +17,8 @@ galaktionov:80:approximate
     mrreviewer = {I. N. Molchanov},
     number = {9},
     pages = {1660--1676, 1726},
-    title = {Approximate self-similar solutions of equations of heat conduction type},
+    title = {Approximate self-similar solutions of equations of heat
+   conduction type},
     volume = {16},
     year = {1980}
    }

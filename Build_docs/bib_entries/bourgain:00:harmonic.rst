@@ -16,7 +16,8 @@ bourgain:00:harmonic
     mrnumber = {1754764},
     pages = {13--32},
     publisher = {Amer. Math. Soc., Providence, RI},
-    title = {Harmonic analysis and combinatorics: how much may they contribute to each other?},
+    title = {Harmonic analysis and combinatorics: how much may they
+   contribute to each other?},
     url = {https://doi.org/10.1007/bf02791532},
     year = {2000}
    }

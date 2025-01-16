@@ -11,7 +11,8 @@ rhodes.vargas:16:lecture
     author = {R\'emi Rhodes and Vincent vargas},
     journal = {Preprint arXiv:1602.07323},
     month = {February},
-    title = {Lecture notes on Gaussian multiplicative chaos and Liouville Quantum Gravity},
+    title = {Lecture notes on Gaussian multiplicative chaos and
+   Liouville Quantum Gravity},
     url = {https://www.arxiv.org/abs/1602.07323},
     year = {2016}
    }

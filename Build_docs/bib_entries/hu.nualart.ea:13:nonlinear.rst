@@ -18,7 +18,8 @@ hu.nualart.ea:13:nonlinear
     mrreviewer = {Stefano Bonaccorsi},
     number = {3},
     pages = {1083--1103},
-    title = {A nonlinear stochastic heat equation: {H}\"{o}lder continuity and smoothness of the density of the solution},
+    title = {A nonlinear stochastic heat equation: {H}\"{o}lder
+   continuity and smoothness of the density of the solution},
     url = {https://doi.org/10.1016/j.spa.2012.11.004},
     volume = {123},
     year = {2013}

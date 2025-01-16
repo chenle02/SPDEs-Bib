@@ -15,10 +15,12 @@ bourgain.jitomirskaya:02:continuity
     journal = {J. Statist. Phys.},
     mrclass = {47B39 (47B36 47N50 81Q10 82B44)},
     mrnumber = {1933451},
-    note = {Dedicated to David Ruelle and Yasha Sinai on the occasion of their 65th birthdays},
+    note = {Dedicated to David Ruelle and Yasha Sinai on the occasion
+   of their 65th birthdays},
     number = {5-6},
     pages = {1203--1218},
-    title = {Continuity of the {L}yapunov exponent for quasiperiodic operators with analytic potential},
+    title = {Continuity of the {L}yapunov exponent for quasiperiodic
+   operators with analytic potential},
     url = {https://doi.org/10.1023/A:1019751801035},
     volume = {108},
     year = {2002}

@@ -15,7 +15,8 @@ zeitouni:16:filtering
     mrnumber = {3497589},
     pages = {71--80},
     publisher = {Eur. Math. Soc., Z\"{u}rich},
-    title = {Filtering theory: mathematics in engineering, from {G}auss to particle filters},
+    title = {Filtering theory: mathematics in engineering, from {G}auss
+   to particle filters},
     year = {2016}
    }
 

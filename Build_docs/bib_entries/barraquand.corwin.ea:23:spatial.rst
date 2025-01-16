@@ -8,7 +8,8 @@ barraquand.corwin.ea:23:spatial
 .. code-block:: bibtex
 
    @article{barraquand.corwin.ea:23:spatial,
-    author = {Barraquand, Guillaume and Corwin, Ivan and Dimitrov, Evgeni},
+    author = {Barraquand, Guillaume and Corwin, Ivan and Dimitrov,
+   Evgeni},
     doi = {10.1007/s00220-022-04509-4},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616,1432-0916},
@@ -18,7 +19,8 @@ barraquand.corwin.ea:23:spatial
     mrreviewer = {B\'{a}lint\ Vet\H{o}},
     number = {3},
     pages = {1309--1386},
-    title = {Spatial tightness at the edge of {G}ibbsian line ensembles},
+    title = {Spatial tightness at the edge of {G}ibbsian line
+   ensembles},
     url = {https://doi.org/10.1007/s00220-022-04509-4},
     volume = {397},
     year = {2023}

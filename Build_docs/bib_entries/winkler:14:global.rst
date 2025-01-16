@@ -18,7 +18,9 @@ winkler:14:global
     mrreviewer = {Philippe Lauren\c{c}ot},
     number = {4},
     pages = {1056--1077},
-    title = {Global asymptotic stability of constant equilibria in a fully parabolic chemotaxis system with strong logistic dampening},
+    title = {Global asymptotic stability of constant equilibria in a
+   fully parabolic chemotaxis system with strong logistic
+   dampening},
     url = {https://doi.org/10.1016/j.jde.2014.04.023},
     volume = {257},
     year = {2014}

@@ -17,7 +17,8 @@ capitaine.peche:16:fluctuations
     mrnumber = {3500269},
     number = {1-2},
     pages = {117--161},
-    title = {Fluctuations at the edges of the spectrum of the full rank deformed {GUE}},
+    title = {Fluctuations at the edges of the spectrum of the full rank
+   deformed {GUE}},
     url = {https://doi.org/10.1007/s00440-015-0628-6},
     volume = {165},
     year = {2016}

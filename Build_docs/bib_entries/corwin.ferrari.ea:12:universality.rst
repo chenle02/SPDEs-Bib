@@ -8,9 +8,11 @@ corwin.ferrari.ea:12:universality
 .. code-block:: bibtex
 
    @article{corwin.ferrari.ea:12:universality,
-    author = {Corwin, Ivan and Ferrari, Patrik L. and P\'{e}ch\'{e}, Sandrine},
+    author = {Corwin, Ivan and Ferrari, Patrik L. and P\'{e}ch\'{e},
+   Sandrine},
     doi = {10.1214/11-AIHP440},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60K35 (60B20 82B43)},

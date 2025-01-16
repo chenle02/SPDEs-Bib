@@ -8,7 +8,8 @@ dembo.peres.ea:06:late
 .. code-block:: bibtex
 
    @article{dembo.peres.ea:06:late,
-    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni, Ofer},
+    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni,
+   Ofer},
     doi = {10.1214/009117905000000387},
     fjournal = {The Annals of Probability},
     issn = {0091-1798,2168-894X},

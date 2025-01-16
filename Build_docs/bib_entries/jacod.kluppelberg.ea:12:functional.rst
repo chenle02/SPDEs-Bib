@@ -8,7 +8,8 @@ jacod.kluppelberg.ea:12:functional
 .. code-block:: bibtex
 
    @article{jacod.kluppelberg.ea:12:functional,
-    author = {Jacod, Jean and Kl\"{u}ppelberg, Claudia and M\"{u}ller, Gernot},
+    author = {Jacod, Jean and Kl\"{u}ppelberg, Claudia and M\"{u}ller,
+   Gernot},
     doi = {10.1017/s0021900200012778},
     fjournal = {Journal of Applied Probability},
     issn = {0021-9002},
@@ -18,7 +19,8 @@ jacod.kluppelberg.ea:12:functional
     mrreviewer = {John P. Lehoczky},
     number = {4},
     pages = {901--914},
-    title = {Functional relationships between price and volatility jumps and their consequences for discretely observed data},
+    title = {Functional relationships between price and volatility
+   jumps and their consequences for discretely observed data},
     url = {https://doi.org/10.1017/s0021900200012778},
     volume = {49},
     year = {2012}

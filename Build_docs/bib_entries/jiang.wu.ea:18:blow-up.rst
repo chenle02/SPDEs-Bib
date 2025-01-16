@@ -18,7 +18,8 @@ jiang.wu.ea:18:blow-up
     mrreviewer = {Hongwei Chen},
     number = {8},
     pages = {5432--5464},
-    title = {Blow-up for a three dimensional {K}eller-{S}egel model with consumption of chemoattractant},
+    title = {Blow-up for a three dimensional {K}eller-{S}egel model
+   with consumption of chemoattractant},
     url = {https://doi.org/10.1016/j.jde.2018.01.004},
     volume = {264},
     year = {2018}

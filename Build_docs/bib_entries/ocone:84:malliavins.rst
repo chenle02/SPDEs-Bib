@@ -18,7 +18,8 @@ ocone:84:malliavins
     mrreviewer = {L. C. G. Rogers},
     number = {3-4},
     pages = {161--185},
-    title = {Malliavin's calculus and stochastic integral representations of functionals of diffusion processes},
+    title = {Malliavin's calculus and stochastic integral
+   representations of functionals of diffusion processes},
     url = {https://doi.org/10.1080/17442508408833299},
     volume = {12},
     year = {1984}

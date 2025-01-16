@@ -18,7 +18,9 @@ gorostiza.nualart:94:nuclear
     mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},
     number = {1},
     pages = {37--66},
-    title = {Nuclear {G}el{\cprime}fand triples on {W}iener space and applications to trajectorial fluctuations of particle systems},
+    title = {Nuclear {G}el{\cprime}fand triples on {W}iener space and
+   applications to trajectorial fluctuations of particle
+   systems},
     url = {https://doi.org/10.1006/jfan.1994.1116},
     volume = {125},
     year = {1994}

@@ -16,7 +16,8 @@ spitzer.stone:60:class
     mrnumber = {117773},
     mrreviewer = {U.\ Grenander},
     pages = {253--277},
-    title = {A class of {T}oeplitz forms and their application to probability theory},
+    title = {A class of {T}oeplitz forms and their application to
+   probability theory},
     url = {http://projecteuclid.org/euclid.ijm/1255455868},
     volume = {4},
     year = {1960}

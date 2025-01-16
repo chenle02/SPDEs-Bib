@@ -8,9 +8,11 @@ cerrai.da-prato.ea:13:pathwise
 .. code-block:: bibtex
 
    @article{cerrai.da-prato.ea:13:pathwise,
-    author = {Cerrai, Sandra and Da Prato, Giuseppe and Flandoli, Franco},
+    author = {Cerrai, Sandra and Da Prato, Giuseppe and Flandoli,
+   Franco},
     doi = {10.1007/s40072-013-0016-0},
-    fjournal = {Stochastic Partial Differential Equations. Analysis and Computations},
+    fjournal = {Stochastic Partial Differential Equations. Analysis and
+   Computations},
     issn = {2194-0401},
     journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
     mrclass = {60H15 (35A02 35R60)},
@@ -18,7 +20,9 @@ cerrai.da-prato.ea:13:pathwise
     mrreviewer = {Anna Talarczyk},
     number = {3},
     pages = {507--551},
-    title = {Pathwise uniqueness for stochastic reaction-diffusion equations in {B}anach spaces with an {H}\"{o}lder drift component},
+    title = {Pathwise uniqueness for stochastic reaction-diffusion
+   equations in {B}anach spaces with an {H}\"{o}lder drift
+   component},
     url = {https://doi.org/10.1007/s40072-013-0016-0},
     volume = {1},
     year = {2013}

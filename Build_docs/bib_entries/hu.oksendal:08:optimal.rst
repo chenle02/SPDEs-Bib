@@ -17,7 +17,8 @@ hu.oksendal:08:optimal
     pages = {107--116},
     publisher = {Polish Acad. Sci. Inst. Math., Warsaw},
     series = {Banach Center Publ.},
-    title = {Optimal stopping with advanced information flow: selected examples},
+    title = {Optimal stopping with advanced information flow: selected
+   examples},
     url = {https://doi.org/10.4064/bc83-0-7},
     volume = {83},
     year = {2008}

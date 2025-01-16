@@ -17,7 +17,8 @@ pazy:83:semigroups
     pages = {viii+279},
     publisher = {Springer-Verlag, New York},
     series = {Applied Mathematical Sciences},
-    title = {Semigroups of linear operators and applications to partial differential equations},
+    title = {Semigroups of linear operators and applications to partial
+   differential equations},
     url = {https://doi.org/10.1007/978-1-4612-5561-1},
     volume = {44},
     year = {1983}

@@ -17,7 +17,8 @@ liu.xiao:98:hausdorff
     mrreviewer = {Mireille\ Chaleyat-Maurel},
     number = {2},
     pages = {369--383},
-    title = {Hausdorff dimension theorems for self-similar {M}arkov processes},
+    title = {Hausdorff dimension theorems for self-similar {M}arkov
+   processes},
     volume = {18},
     year = {1998}
    }

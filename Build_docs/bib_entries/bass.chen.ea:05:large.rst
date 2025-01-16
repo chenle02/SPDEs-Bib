@@ -18,7 +18,8 @@ bass.chen.ea:05:large
     mrreviewer = {Michele Zito},
     number = {3},
     pages = {984--1013},
-    title = {Large deviations for renormalized self-intersection local times of stable processes},
+    title = {Large deviations for renormalized self-intersection local
+   times of stable processes},
     url = {https://doi.org/10.1214/009117904000001099},
     volume = {33},
     year = {2005}

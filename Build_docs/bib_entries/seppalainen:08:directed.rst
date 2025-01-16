@@ -9,7 +9,8 @@ seppalainen:08:directed
 
    @incollection{seppalainen:08:directed,
     author = {Sepp\"{a}l\"{a}inen, Timo},
-    booktitle = {Analysis and stochastics of growth processes and interface models},
+    booktitle = {Analysis and stochastics of growth processes and interface
+   models},
     doi = {10.1093/acprof:oso/9780199239252.003.0001},
     mrclass = {60K35 (60F10 82C43)},
     mrnumber = {2603217},

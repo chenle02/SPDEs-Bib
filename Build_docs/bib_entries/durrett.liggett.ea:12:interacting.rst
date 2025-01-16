@@ -8,7 +8,8 @@ durrett.liggett.ea:12:interacting
 .. code-block:: bibtex
 
    @book{durrett.liggett.ea:12:interacting,
-    author = {Durrett, Rick and Liggett, Thomas M. and Spitzer, Frank and Sznitman, Alain-Sol},
+    author = {Durrett, Rick and Liggett, Thomas M. and Spitzer, Frank
+   and Sznitman, Alain-Sol},
     isbn = {978-3-642-25297-6},
     mrclass = {60-06 (60K35)},
     mrnumber = {3075635},

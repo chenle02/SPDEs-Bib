@@ -17,7 +17,8 @@ coutin:07:introduction
     pages = {3--65},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {An introduction to (stochastic) calculus with respect to fractional {B}rownian motion},
+    title = {An introduction to (stochastic) calculus with respect to
+   fractional {B}rownian motion},
     url = {https://doi.org/10.1007/978-3-540-71189-6_1},
     volume = {1899},
     year = {2007}

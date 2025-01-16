@@ -8,7 +8,8 @@ przytycki.rivera-letelier.ea:03:equivalence
 .. code-block:: bibtex
 
    @article{przytycki.rivera-letelier.ea:03:equivalence,
-    author = {Przytycki, Feliks and Rivera-Letelier, Juan and Smirnov, Stanislav},
+    author = {Przytycki, Feliks and Rivera-Letelier, Juan and Smirnov,
+   Stanislav},
     doi = {10.1007/s00222-002-0243-x},
     fjournal = {Inventiones Mathematicae},
     issn = {0020-9910,1432-1297},
@@ -18,7 +19,9 @@ przytycki.rivera-letelier.ea:03:equivalence
     mrreviewer = {Peter\ Ha\"{i}ssinsky},
     number = {1},
     pages = {29--63},
-    title = {Equivalence and topological invariance of conditions for non-uniform hyperbolicity in the iteration of rational maps},
+    title = {Equivalence and topological invariance of conditions for
+   non-uniform hyperbolicity in the iteration of rational
+   maps},
     url = {https://doi.org/10.1007/s00222-002-0243-x},
     volume = {151},
     year = {2003}

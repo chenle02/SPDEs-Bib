@@ -18,7 +18,8 @@ crauel.flandoli:98:hausdorff
     mrreviewer = {Arnaud\ Debussche},
     number = {3},
     pages = {449--474},
-    title = {Hausdorff dimension of invariant sets for random dynamical systems},
+    title = {Hausdorff dimension of invariant sets for random dynamical
+   systems},
     url = {https://doi.org/10.1023/A:1022605313961},
     volume = {10},
     year = {1998}

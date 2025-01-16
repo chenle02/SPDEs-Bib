@@ -18,7 +18,8 @@ ben-arous.peche:05:universality
     mrreviewer = {Wojciech Zieli\'{n}ski},
     number = {10},
     pages = {1316--1357},
-    title = {Universality of local eigenvalue statistics for some sample covariance matrices},
+    title = {Universality of local eigenvalue statistics for some
+   sample covariance matrices},
     url = {https://doi.org/10.1002/cpa.20070},
     volume = {58},
     year = {2005}

@@ -18,7 +18,9 @@ deift.its.ea:13:toeplitz
     mrreviewer = {Adnene\ Besbes},
     number = {9},
     pages = {1360--1438},
-    title = {Toeplitz matrices and {T}oeplitz determinants under the impetus of the {I}sing model: some history and some recent results},
+    title = {Toeplitz matrices and {T}oeplitz determinants under the
+   impetus of the {I}sing model: some history and some recent
+   results},
     url = {https://doi.org/10.1002/cpa.21467},
     volume = {66},
     year = {2013}

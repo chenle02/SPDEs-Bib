@@ -17,7 +17,8 @@ balan.louhichi:09:convergence
     mrnumber = {2558660},
     number = {4},
     pages = {955--982},
-    title = {Convergence of point processes with weakly dependent points},
+    title = {Convergence of point processes with weakly dependent
+   points},
     url = {https://doi.org/10.1007/s10959-008-0176-4},
     volume = {22},
     year = {2009}

@@ -18,7 +18,8 @@ levine.payne:76:nonexistence
     mrreviewer = {Jerome Eisenfeld},
     number = {2},
     pages = {329--334},
-    title = {Nonexistence of global weak solutions for classes of nonlinear wave and parabolic equations},
+    title = {Nonexistence of global weak solutions for classes of
+   nonlinear wave and parabolic equations},
     url = {https://doi.org/10.1016/0022-247X(76)90163-3},
     volume = {55},
     year = {1976}

@@ -17,7 +17,9 @@ salako.shen:19:global
     mrnumber = {3992073},
     number = {3},
     pages = {1301--1325},
-    title = {Global classical solutions, stability of constant equilibria, and spreading speeds in attraction-repulsion chemotaxis systems with logistic source on {$\Bbb R^N$}},
+    title = {Global classical solutions, stability of constant
+   equilibria, and spreading speeds in attraction-repulsion
+   chemotaxis systems with logistic source on {$\Bbb R^N$}},
     url = {https://doi.org/10.1007/s10884-017-9602-6},
     volume = {31},
     year = {2019}

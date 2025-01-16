@@ -17,7 +17,8 @@ tyson.lubkin.ea:99:model
     mrnumber = {1687391},
     number = {4},
     pages = {359--375},
-    title = {Model and analysis of chemotactic bacterial patterns in a liquid medium},
+    title = {Model and analysis of chemotactic bacterial patterns in a
+   liquid medium},
     url = {https://doi.org/10.1007/s002850050153},
     volume = {38},
     year = {1999}

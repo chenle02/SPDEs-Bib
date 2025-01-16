@@ -8,7 +8,8 @@ barbu.bonaccorsi.ea:15:stochastic
 .. code-block:: bibtex
 
    @article{barbu.bonaccorsi.ea:15:stochastic,
-    author = {Barbu, Viorel and Bonaccorsi, Stefano and Tubaro, Luciano},
+    author = {Barbu, Viorel and Bonaccorsi, Stefano and Tubaro,
+   Luciano},
     doi = {10.1007/s10957-014-0672-x},
     fjournal = {Journal of Optimization Theory and Applications},
     issn = {0022-3239,1573-2878},
@@ -18,7 +19,8 @@ barbu.bonaccorsi.ea:15:stochastic
     mrreviewer = {Le\ Chen},
     number = {2},
     pages = {317--343},
-    title = {A stochastic heat equation with nonlinear dissipation on the boundary},
+    title = {A stochastic heat equation with nonlinear dissipation on
+   the boundary},
     url = {https://doi.org/10.1007/s10957-014-0672-x},
     volume = {165},
     year = {2015}

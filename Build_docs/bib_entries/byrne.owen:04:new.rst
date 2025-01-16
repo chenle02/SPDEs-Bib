@@ -17,7 +17,8 @@ byrne.owen:04:new
     mrnumber = {2109458},
     number = {6},
     pages = {604--626},
-    title = {A new interpretation of the {K}eller-{S}egel model based on multiphase modelling},
+    title = {A new interpretation of the {K}eller-{S}egel model based
+   on multiphase modelling},
     url = {https://doi.org/10.1007/s00285-004-0276-4},
     volume = {49},
     year = {2004}

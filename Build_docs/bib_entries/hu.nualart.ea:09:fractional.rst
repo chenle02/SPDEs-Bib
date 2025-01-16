@@ -18,7 +18,8 @@ hu.nualart.ea:09:fractional
     mrreviewer = {Tommi P. Sottinen},
     number = {6},
     pages = {2404--2430},
-    title = {Fractional martingales and characterization of the fractional {B}rownian motion},
+    title = {Fractional martingales and characterization of the
+   fractional {B}rownian motion},
     url = {https://doi.org/10.1214/09-AOP464},
     volume = {37},
     year = {2009}

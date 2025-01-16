@@ -17,7 +17,9 @@ hu:93:pathwise
     mrnumber = {1220706},
     number = {1},
     pages = {13--22},
-    title = {The pathwise solution for a class of quasilinear stochastic equations of evolution in {B}anach space. {III}},
+    title = {The pathwise solution for a class of quasilinear
+   stochastic equations of evolution in {B}anach space.
+   {III}},
     url = {https://doi.org/10.1016/S0252-9602(18)30186-3},
     volume = {13},
     year = {1993}

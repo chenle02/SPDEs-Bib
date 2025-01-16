@@ -18,7 +18,8 @@ bourgain:91:remarks
     pages = {153--165},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Remarks on {M}ontgomery's conjectures on {D}irichlet sums},
+    title = {Remarks on {M}ontgomery's conjectures on {D}irichlet
+   sums},
     url = {https://doi.org/10.1007/BFb0089222},
     volume = {1469},
     year = {1991}

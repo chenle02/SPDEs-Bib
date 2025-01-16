@@ -8,7 +8,8 @@ lu.bates.ea:16:dynamics
 .. code-block:: bibtex
 
    @article{lu.bates.ea:16:dynamics,
-    author = {Lu, Hong and Bates, Peter W. and L\"{u}, Shujuan and Zhang, Mingji},
+    author = {Lu, Hong and Bates, Peter W. and L\"{u}, Shujuan and
+   Zhang, Mingji},
     doi = {10.4310/CMS.2016.v14.n1.a11},
     fjournal = {Communications in Mathematical Sciences},
     issn = {1539-6746,1945-0796},
@@ -18,7 +19,8 @@ lu.bates.ea:16:dynamics
     mrreviewer = {Le\ Chen},
     number = {1},
     pages = {273--295},
-    title = {Dynamics of the 3{D} fractional {G}inzburg-{L}andau equation with multiplicative noise on an unbounded domain},
+    title = {Dynamics of the 3{D} fractional {G}inzburg-{L}andau
+   equation with multiplicative noise on an unbounded domain},
     url = {https://doi.org/10.4310/CMS.2016.v14.n1.a11},
     volume = {14},
     year = {2016}

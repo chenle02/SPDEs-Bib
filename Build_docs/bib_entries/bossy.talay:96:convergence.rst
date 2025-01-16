@@ -18,7 +18,9 @@ bossy.talay:96:convergence
     mrreviewer = {N. Leonenko},
     number = {3},
     pages = {818--861},
-    title = {Convergence rate for the approximation of the limit law of weakly interacting particles: application to the {B}urgers equation},
+    title = {Convergence rate for the approximation of the limit law of
+   weakly interacting particles: application to the {B}urgers
+   equation},
     url = {https://doi.org/10.1214/aoap/1034968229},
     volume = {6},
     year = {1996}

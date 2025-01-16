@@ -15,7 +15,8 @@ zabczyk:96:chance
     note = {Stochastic control in discrete time},
     pages = {viii+191},
     publisher = {Scuola Normale Superiore, Pisa},
-    series = {Scuola Normale Superiore di Pisa. Quaderni. [Publications of the Scuola Normale Superiore of Pisa]},
+    series = {Scuola Normale Superiore di Pisa. Quaderni. [Publications
+   of the Scuola Normale Superiore of Pisa]},
     title = {Chance and decision},
     year = {1996}
    }

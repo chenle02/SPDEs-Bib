@@ -9,7 +9,8 @@ zabczyk:96:pricing
 
    @incollection{zabczyk:96:pricing,
     author = {Zabczyk, Jerzy},
-    booktitle = {Stochastic processes and related topics ({S}iegmundsberg, 1994)},
+    booktitle = {Stochastic processes and related topics ({S}iegmundsberg,
+   1994)},
     mrclass = {90A09 (90C39)},
     mrnumber = {1393504},
     pages = {153--160},

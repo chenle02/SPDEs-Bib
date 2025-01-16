@@ -15,7 +15,8 @@ orantin:11:chain
     mrreviewer = {Brad Safnuk},
     pages = {329--352},
     publisher = {Oxford Univ. Press, Oxford},
-    title = {Chain of matrices, loop equations, and topological recursion},
+    title = {Chain of matrices, loop equations, and topological
+   recursion},
     year = {2011}
    }
 

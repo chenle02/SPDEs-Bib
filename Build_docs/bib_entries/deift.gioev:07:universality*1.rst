@@ -17,7 +17,8 @@ deift.gioev:07:universality*1
     mrreviewer = {Nizar\ Demni},
     number = {2},
     pages = {Art. ID rpm004, 116},
-    title = {Universality in random matrix theory for orthogonal and symplectic ensembles},
+    title = {Universality in random matrix theory for orthogonal and
+   symplectic ensembles},
     year = {2007}
    }
 

@@ -16,7 +16,8 @@ hu:01:prediction
     pages = {153--171},
     publisher = {Birkh\"{a}user Boston, Boston, MA},
     series = {Trends Math.},
-    title = {Prediction and translation of fractional {B}rownian motions},
+    title = {Prediction and translation of fractional {B}rownian
+   motions},
     year = {2001}
    }
 

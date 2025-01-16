@@ -18,7 +18,8 @@ mueller.weissler:82:hypercontractivity
     mrreviewer = {H. Triebel},
     number = {2},
     pages = {252--283},
-    title = {Hypercontractivity for the heat semigroup for ultraspherical polynomials and on the {$n$}-sphere},
+    title = {Hypercontractivity for the heat semigroup for
+   ultraspherical polynomials and on the {$n$}-sphere},
     url = {https://doi.org/10.1016/0022-1236(82)90069-6},
     volume = {48},
     year = {1982}

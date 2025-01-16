@@ -17,7 +17,8 @@ avron.seiler.ea:94:charge
     mrreviewer = {Lech\ Jak\'obczyk},
     number = {2},
     pages = {399--422},
-    title = {Charge deficiency, charge transport and comparison of dimensions},
+    title = {Charge deficiency, charge transport and comparison of
+   dimensions},
     url = {http://projecteuclid.org/euclid.cmp/1104254604},
     volume = {159},
     year = {1994}

@@ -18,7 +18,8 @@ greven.hollander:07:phase
     mrreviewer = {Jan M. Swart},
     number = {4},
     pages = {1250--1306},
-    title = {Phase transitions for the long-time behavior of interacting diffusions},
+    title = {Phase transitions for the long-time behavior of
+   interacting diffusions},
     url = {https://doi.org/10.1214/009117906000001060},
     volume = {35},
     year = {2007}

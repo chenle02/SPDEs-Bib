@@ -9,7 +9,8 @@ khoshnevisan.lewis:96:chungs
 
    @article{khoshnevisan.lewis:96:chungs,
     author = {Khoshnevisan, Davar and Lewis, Thomas M.},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {60J65 (60F17 60G17 60G18)},
@@ -17,7 +18,8 @@ khoshnevisan.lewis:96:chungs
     mrreviewer = {Zhan Shi},
     number = {3},
     pages = {349--359},
-    title = {Chung's law of the iterated logarithm for iterated {B}rownian motion},
+    title = {Chung's law of the iterated logarithm for iterated
+   {B}rownian motion},
     url = {http://www.numdam.org/item?id=AIHPB_1996__32_3_349_0},
     volume = {32},
     year = {1996}

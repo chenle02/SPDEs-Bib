@@ -17,7 +17,8 @@ bothner:21:on
     mrnumber = {4246443},
     number = {4},
     pages = {R1--R73},
-    title = {On the origins of {R}iemann-{H}ilbert problems in mathematics},
+    title = {On the origins of {R}iemann-{H}ilbert problems in
+   mathematics},
     url = {https://doi.org/10.1088/1361-6544/abb543},
     volume = {34},
     year = {2021}

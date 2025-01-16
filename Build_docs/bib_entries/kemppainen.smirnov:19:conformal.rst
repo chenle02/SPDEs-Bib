@@ -17,7 +17,8 @@ kemppainen.smirnov:19:conformal
     mrnumber = {3959554},
     number = {1},
     pages = {49--98},
-    title = {Conformal invariance of boundary touching loops of {FK} {I}sing model},
+    title = {Conformal invariance of boundary touching loops of {FK}
+   {I}sing model},
     url = {https://doi.org/10.1007/s00220-019-03437-0},
     volume = {369},
     year = {2019}

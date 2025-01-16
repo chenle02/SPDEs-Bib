@@ -17,7 +17,8 @@ le-gall:99:spatial
     pages = {x+163},
     publisher = {Birkh\"{a}user Verlag, Basel},
     series = {Lectures in Mathematics ETH Z\"{u}rich},
-    title = {Spatial branching processes, random snakes and partial differential equations},
+    title = {Spatial branching processes, random snakes and partial
+   differential equations},
     url = {https://doi.org/10.1007/978-3-0348-8683-3},
     year = {1999}
    }

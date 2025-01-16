@@ -17,7 +17,8 @@ krishnan.quastel:18:tracy-widom
     mrnumber = {3861825},
     number = {6},
     pages = {3736--3764},
-    title = {Tracy-{W}idom fluctuations for perturbations of the log-gamma polymer in intermediate disorder},
+    title = {Tracy-{W}idom fluctuations for perturbations of the
+   log-gamma polymer in intermediate disorder},
     url = {https://doi.org/10.1214/18-AAP1404},
     volume = {28},
     year = {2018}

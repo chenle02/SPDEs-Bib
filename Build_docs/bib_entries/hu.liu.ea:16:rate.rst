@@ -18,7 +18,8 @@ hu.liu.ea:16:rate
     mrreviewer = {Jorge A. Le\'{o}n},
     number = {2},
     pages = {1147--1207},
-    title = {Rate of convergence and asymptotic error distribution of {E}uler approximation schemes for fractional diffusions},
+    title = {Rate of convergence and asymptotic error distribution of
+   {E}uler approximation schemes for fractional diffusions},
     url = {https://doi.org/10.1214/15-AAP1114},
     volume = {26},
     year = {2016}

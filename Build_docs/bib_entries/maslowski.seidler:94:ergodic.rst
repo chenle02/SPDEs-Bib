@@ -17,7 +17,8 @@ maslowski.seidler:94:ergodic
     mrreviewer = {Yasushi\ Ishikawa},
     number = {4},
     pages = {965--1003},
-    title = {Ergodic properties of recurrent solutions of stochastic evolution equations},
+    title = {Ergodic properties of recurrent solutions of stochastic
+   evolution equations},
     url = {http://projecteuclid.org/euclid.ojm/1200785644},
     volume = {31},
     year = {1994}

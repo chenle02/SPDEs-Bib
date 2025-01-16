@@ -18,7 +18,8 @@ nualart.ortiz-latorre:08:central
     mrreviewer = {Giovanni Peccati},
     number = {4},
     pages = {614--628},
-    title = {Central limit theorems for multiple stochastic integrals and {M}alliavin calculus},
+    title = {Central limit theorems for multiple stochastic integrals
+   and {M}alliavin calculus},
     url = {https://doi.org/10.1016/j.spa.2007.05.004},
     volume = {118},
     year = {2008}

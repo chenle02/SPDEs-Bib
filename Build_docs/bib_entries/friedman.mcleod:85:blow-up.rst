@@ -18,7 +18,8 @@ friedman.mcleod:85:blow-up
     mrreviewer = {J. W. Bebernes},
     number = {2},
     pages = {425--447},
-    title = {Blow-up of positive solutions of semilinear heat equations},
+    title = {Blow-up of positive solutions of semilinear heat
+   equations},
     url = {https://doi.org/10.1512/iumj.1985.34.34025},
     volume = {34},
     year = {1985}

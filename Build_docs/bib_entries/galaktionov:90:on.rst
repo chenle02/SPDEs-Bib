@@ -9,7 +9,8 @@ galaktionov:90:on
 
    @article{galaktionov:90:on,
     author = {Galaktionov, Victor A.},
-    fjournal = {Differential and Integral Equations. An International Journal for Theory and Applications},
+    fjournal = {Differential and Integral Equations. An International
+   Journal for Theory and Applications},
     issn = {0893-4983},
     journal = {Differential Integral Equations},
     mrclass = {35B40 (35K55)},
@@ -17,7 +18,8 @@ galaktionov:90:on
     mrreviewer = {Mokhtar Kirane},
     number = {5},
     pages = {863--874},
-    title = {On new exact blow-up solutions for nonlinear heat conduction equations with source and applications},
+    title = {On new exact blow-up solutions for nonlinear heat
+   conduction equations with source and applications},
     volume = {3},
     year = {1990}
    }

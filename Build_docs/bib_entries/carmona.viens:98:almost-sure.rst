@@ -17,7 +17,8 @@ carmona.viens:98:almost-sure
     mrnumber = {1615092},
     number = {3-4},
     pages = {251--273},
-    title = {Almost-sure exponential behavior of a stochastic {A}nderson model with continuous space parameter},
+    title = {Almost-sure exponential behavior of a stochastic
+   {A}nderson model with continuous space parameter},
     url = {https://doi.org/10.1080/17442509808834135},
     volume = {62},
     year = {1998}

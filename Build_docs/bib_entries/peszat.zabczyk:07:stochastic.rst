@@ -18,7 +18,8 @@ peszat.zabczyk:07:stochastic
     pages = {xii+419},
     publisher = {Cambridge University Press, Cambridge},
     series = {Encyclopedia of Mathematics and its Applications},
-    title = {Stochastic partial differential equations with {L}\'{e}vy noise},
+    title = {Stochastic partial differential equations with {L}\'{e}vy
+   noise},
     url = {https://doi.org/10.1017/CBO9780511721373},
     volume = {113},
     year = {2007}

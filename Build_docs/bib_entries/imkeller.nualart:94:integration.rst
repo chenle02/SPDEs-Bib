@@ -17,7 +17,8 @@ imkeller.nualart:94:integration
     mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},
     number = {1},
     pages = {469--493},
-    title = {Integration by parts on {W}iener space and the existence of occupation densities},
+    title = {Integration by parts on {W}iener space and the existence
+   of occupation densities},
     url = {http://links.jstor.org/sici?sici=0091-1798(199401)22:1<469:IBPOWS>2.0.CO;2-N&origin=MSN},
     volume = {22},
     year = {1994}

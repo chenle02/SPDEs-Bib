@@ -8,9 +8,11 @@ caravenna.giacomin.ea:10:large
 .. code-block:: bibtex
 
    @article{caravenna.giacomin.ea:10:large,
-    author = {Caravenna, Francesco and Giacomin, Giambattista and Gubinelli, Massimiliano},
+    author = {Caravenna, Francesco and Giacomin, Giambattista and
+   Gubinelli, Massimiliano},
     doi = {10.1214/08-AIHP310},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60K37 (43A75 60F05 82B44)},

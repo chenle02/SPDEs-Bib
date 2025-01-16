@@ -17,7 +17,8 @@ lacoin.yang:22:metastability
     mrnumber = {4497849},
     number = {5},
     pages = {3408--3449},
-    title = {Metastability for expanding bubbles on a sticky substrate},
+    title = {Metastability for expanding bubbles on a sticky
+   substrate},
     url = {https://doi.org/10.1214/21-aap1763},
     volume = {32},
     year = {2022}

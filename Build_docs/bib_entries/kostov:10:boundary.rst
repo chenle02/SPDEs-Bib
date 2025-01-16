@@ -9,7 +9,8 @@ kostov:10:boundary
 
    @incollection{kostov:10:boundary,
     author = {Kostov, I.},
-    booktitle = {Exact methods in low-dimensional statistical physics and quantum computing},
+    booktitle = {Exact methods in low-dimensional statistical physics and
+   quantum computing},
     mrclass = {83C80 (83C45)},
     mrnumber = {2668651},
     mrreviewer = {Claudio Dappiaggi},

@@ -8,7 +8,8 @@ butta.flandoli.ea:19:non-linear
 .. code-block:: bibtex
 
    @article{butta.flandoli.ea:19:non-linear,
-    author = {Butt\`a, Paolo and Flandoli, Franco and Ottobre, Michela and Zegarlinski, Boguslaw},
+    author = {Butt\`a, Paolo and Flandoli, Franco and Ottobre, Michela
+   and Zegarlinski, Boguslaw},
     doi = {10.3934/krm.2019031},
     fjournal = {Kinetic and Related Models},
     issn = {1937-5093,1937-5077},
@@ -17,7 +18,8 @@ butta.flandoli.ea:19:non-linear
     mrnumber = {3984751},
     number = {4},
     pages = {791--827},
-    title = {A non-linear kinetic model of self-propelled particles with multiple equilibria},
+    title = {A non-linear kinetic model of self-propelled particles
+   with multiple equilibria},
     url = {https://doi.org/10.3934/krm.2019031},
     volume = {12},
     year = {2019}

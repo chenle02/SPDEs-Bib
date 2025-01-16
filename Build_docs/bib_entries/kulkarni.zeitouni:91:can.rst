@@ -18,7 +18,8 @@ kulkarni.zeitouni:91:can
     mrreviewer = {G.\ Roussas},
     number = {4},
     pages = {323--327},
-    title = {Can one decide the type of the mean from the empirical measure?},
+    title = {Can one decide the type of the mean from the empirical
+   measure?},
     url = {https://doi.org/10.1016/0167-7152(91)90100-6},
     volume = {12},
     year = {1991}

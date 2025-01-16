@@ -17,7 +17,8 @@ rockner.zhang:92:uniqueness
     mrnumber = {1156676},
     number = {1},
     pages = {187--231},
-    title = {Uniqueness of generalized {S}chr\"{o}dinger operators and applications},
+    title = {Uniqueness of generalized {S}chr\"{o}dinger operators and
+   applications},
     url = {https://doi.org/10.1016/0022-1236(92)90078-W},
     volume = {105},
     year = {1992}

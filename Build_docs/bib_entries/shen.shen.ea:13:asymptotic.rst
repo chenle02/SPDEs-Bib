@@ -18,7 +18,8 @@ shen.shen.ea:13:asymptotic
     mrreviewer = {Zaitang\ Huang},
     number = {4},
     pages = {1350002, 23},
-    title = {Asymptotic dynamics of a class of coupled oscillators driven by white noises},
+    title = {Asymptotic dynamics of a class of coupled oscillators
+   driven by white noises},
     url = {https://doi.org/10.1142/S0219493713500020},
     volume = {13},
     year = {2013}

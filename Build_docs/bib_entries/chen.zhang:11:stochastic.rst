@@ -17,7 +17,8 @@ chen.zhang:11:stochastic
     mrreviewer = {Viorica M. Ungureanu},
     number = {2},
     pages = {311--327},
-    title = {Stochastic evolution equations driven by {L}\'{e}vy processes},
+    title = {Stochastic evolution equations driven by {L}\'{e}vy
+   processes},
     url = {http://projecteuclid.org/euclid.ojm/1315318342},
     volume = {48},
     year = {2011}

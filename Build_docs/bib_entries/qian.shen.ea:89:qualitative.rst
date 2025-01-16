@@ -16,7 +16,8 @@ qian.shen.ea:89:qualitative
     mrnumber = {1030133},
     number = {18},
     pages = {1497--1502},
-    title = {Qualitative analysis of a {P}-{L}-{L} equation with tangent characteristic and frequency modulation input},
+    title = {Qualitative analysis of a {P}-{L}-{L} equation with
+   tangent characteristic and frequency modulation input},
     volume = {34},
     year = {1989}
    }

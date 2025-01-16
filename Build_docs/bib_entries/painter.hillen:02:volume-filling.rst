@@ -16,7 +16,8 @@ painter.hillen:02:volume-filling
     mrnumber = {2052525},
     number = {4},
     pages = {501--543},
-    title = {Volume-filling and quorum-sensing in models for chemosensitive movement},
+    title = {Volume-filling and quorum-sensing in models for
+   chemosensitive movement},
     volume = {10},
     year = {2002}
    }

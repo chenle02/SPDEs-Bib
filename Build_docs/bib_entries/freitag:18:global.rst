@@ -17,7 +17,8 @@ freitag:18:global
     mrnumber = {3917794},
     number = {11},
     pages = {5943--5961},
-    title = {Global existence and boundedness in a chemorepulsion system with superlinear diffusion},
+    title = {Global existence and boundedness in a chemorepulsion
+   system with superlinear diffusion},
     url = {https://doi.org/10.3934/dcds.2018258},
     volume = {38},
     year = {2018}

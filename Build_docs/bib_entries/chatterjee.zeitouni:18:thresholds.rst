@@ -17,7 +17,8 @@ chatterjee.zeitouni:18:thresholds
     mrnumber = {3847969},
     number = {5},
     pages = {2635--2663},
-    title = {Thresholds for detecting an anomalous path from noisy environments},
+    title = {Thresholds for detecting an anomalous path from noisy
+   environments},
     url = {https://doi.org/10.1214/17-AAP1356},
     volume = {28},
     year = {2018}

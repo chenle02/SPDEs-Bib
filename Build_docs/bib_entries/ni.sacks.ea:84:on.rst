@@ -17,7 +17,8 @@ ni.sacks.ea:84:on
     mrnumber = {756548},
     number = {1},
     pages = {97--120},
-    title = {On the asymptotic behavior of solutions of certain quasilinear parabolic equations},
+    title = {On the asymptotic behavior of solutions of certain
+   quasilinear parabolic equations},
     url = {https://doi.org/10.1016/0022-0396(84)90145-1},
     volume = {54},
     year = {1984}

@@ -18,7 +18,8 @@ noreddine.nourdin:11:on
     mrreviewer = {Mark Podolskij},
     number = {6},
     pages = {1008--1017},
-    title = {On the {G}aussian approximation of vector-valued multiple integrals},
+    title = {On the {G}aussian approximation of vector-valued multiple
+   integrals},
     url = {https://doi.org/10.1016/j.jmva.2011.02.001},
     volume = {102},
     year = {2011}

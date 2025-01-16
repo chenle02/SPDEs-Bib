@@ -10,7 +10,8 @@ hu.oksendal.ea:03:optimal
    @article{hu.oksendal.ea:03:optimal,
     author = {Hu, Yaozhong and {\O}ksendal, Bernt and Sulem, Agn\`es},
     doi = {10.1142/S0219025703001432},
-    fjournal = {Infinite Dimensional Analysis, Quantum Probability and Related Topics},
+    fjournal = {Infinite Dimensional Analysis, Quantum Probability and
+   Related Topics},
     issn = {0219-0257},
     journal = {Infin. Dimens. Anal. Quantum Probab. Relat. Top.},
     mrclass = {91B28 (60G15 60H05)},
@@ -18,7 +19,8 @@ hu.oksendal.ea:03:optimal
     mrreviewer = {Ludger Overbeck},
     number = {4},
     pages = {519--536},
-    title = {Optimal consumption and portfolio in a {B}lack-{S}choles market driven by fractional {B}rownian motion},
+    title = {Optimal consumption and portfolio in a {B}lack-{S}choles
+   market driven by fractional {B}rownian motion},
     url = {https://doi.org/10.1142/S0219025703001432},
     volume = {6},
     year = {2003}

@@ -18,7 +18,8 @@ lee.mueller.ea:20:hitting
     mrreviewer = {Olga V. Aryasova},
     number = {2},
     pages = {646--671},
-    title = {Hitting probabilities of a {B}rownian flow with radial drift},
+    title = {Hitting probabilities of a {B}rownian flow with radial
+   drift},
     url = {https://doi.org/10.1214/19-AOP1368},
     volume = {48},
     year = {2020}

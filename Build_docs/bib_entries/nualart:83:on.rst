@@ -10,7 +10,8 @@ nualart:83:on
    @article{nualart:83:on,
     author = {Nualart, David},
     doi = {10.1007/BF00534993},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60H05 (60G60)},

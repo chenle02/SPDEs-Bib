@@ -16,7 +16,8 @@ mueller.nualart:08:regularity
     mrnumber = {2469610},
     mrreviewer = {Catherine Donati-Martin},
     pages = {no. 74, 2248--2258},
-    title = {Regularity of the density for the stochastic heat equation},
+    title = {Regularity of the density for the stochastic heat
+   equation},
     url = {https://doi.org/10.1214/EJP.v13-589},
     volume = {13},
     year = {2008}

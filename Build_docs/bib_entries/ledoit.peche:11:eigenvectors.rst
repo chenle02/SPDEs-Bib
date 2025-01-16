@@ -17,7 +17,8 @@ ledoit.peche:11:eigenvectors
     mrnumber = {2834718},
     number = {1-2},
     pages = {233--264},
-    title = {Eigenvectors of some large sample covariance matrix ensembles},
+    title = {Eigenvectors of some large sample covariance matrix
+   ensembles},
     url = {https://doi.org/10.1007/s00440-010-0298-3},
     volume = {151},
     year = {2011}

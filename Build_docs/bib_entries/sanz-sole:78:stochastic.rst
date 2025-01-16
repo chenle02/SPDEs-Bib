@@ -17,7 +17,8 @@ sanz-sole:78:stochastic
     mrreviewer = {Dominique L\'{e}pingle},
     number = {4},
     pages = {51--70},
-    title = {Stochastic differential calculus for processes with {$n$}-dimensional parameter},
+    title = {Stochastic differential calculus for processes with
+   {$n$}-dimensional parameter},
     volume = {2},
     year = {1978}
    }

@@ -17,7 +17,8 @@ ghosh:15:determinantal
     mrnumber = {3418752},
     number = {3-4},
     pages = {643--665},
-    title = {Determinantal processes and completeness of random exponentials: the critical case},
+    title = {Determinantal processes and completeness of random
+   exponentials: the critical case},
     url = {https://doi.org/10.1007/s00440-014-0601-9},
     volume = {163},
     year = {2015}

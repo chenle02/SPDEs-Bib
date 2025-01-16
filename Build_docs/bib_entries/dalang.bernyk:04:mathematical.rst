@@ -17,7 +17,8 @@ dalang.bernyk:04:mathematical
     mrreviewer = {Krzysztof Szajowski},
     number = {2},
     pages = {85--100},
-    title = {A mathematical model for `{W}ho wants to be a millionaire?'},
+    title = {A mathematical model for `{W}ho wants to be a
+   millionaire?'},
     volume = {29},
     year = {2004}
    }

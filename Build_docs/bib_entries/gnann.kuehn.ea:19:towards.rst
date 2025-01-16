@@ -17,7 +17,8 @@ gnann.kuehn.ea:19:towards
     mrnumber = {4001564},
     number = {5},
     pages = {1004--1024},
-    title = {Towards sample path estimates for fast-slow stochastic partial differential equations},
+    title = {Towards sample path estimates for fast-slow stochastic
+   partial differential equations},
     url = {https://doi.org/10.1017/s095679251800061x},
     volume = {30},
     year = {2019}

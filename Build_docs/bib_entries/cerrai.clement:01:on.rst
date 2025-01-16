@@ -19,7 +19,8 @@ cerrai.clement:01:on
     note = {Dedicated to Ralph S. Phillips},
     number = {3},
     pages = {243--276},
-    title = {On a class of degenerate elliptic operators arising from {F}leming-{V}iot processes},
+    title = {On a class of degenerate elliptic operators arising from
+   {F}leming-{V}iot processes},
     url = {https://doi.org/10.1007/PL00001370},
     volume = {1},
     year = {2001}

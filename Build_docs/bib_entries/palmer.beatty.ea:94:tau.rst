@@ -17,7 +17,8 @@ palmer.beatty.ea:94:tau
     mrreviewer = {Alan L. Carey},
     number = {1},
     pages = {97--173},
-    title = {Tau functions for the {D}irac operator on the {P}oincar\'{e} disk},
+    title = {Tau functions for the {D}irac operator on the
+   {P}oincar\'{e} disk},
     url = {http://projecteuclid.org/euclid.cmp/1104271037},
     volume = {165},
     year = {1994}

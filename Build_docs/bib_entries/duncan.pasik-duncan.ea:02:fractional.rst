@@ -18,7 +18,8 @@ duncan.pasik-duncan.ea:02:fractional
     mrreviewer = {Anna Karczewska},
     number = {2},
     pages = {225--250},
-    title = {Fractional {B}rownian motion and stochastic equations in {H}ilbert spaces},
+    title = {Fractional {B}rownian motion and stochastic equations in
+   {H}ilbert spaces},
     url = {https://doi.org/10.1142/S0219493702000340},
     volume = {2},
     year = {2002}

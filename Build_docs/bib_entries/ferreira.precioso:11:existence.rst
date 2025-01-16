@@ -18,7 +18,9 @@ ferreira.precioso:11:existence
     mrreviewer = {Adrien Blanchet},
     number = {5},
     pages = {1433--1449},
-    title = {Existence and asymptotic behaviour for the parabolic-parabolic {K}eller-{S}egel system with singular data},
+    title = {Existence and asymptotic behaviour for the
+   parabolic-parabolic {K}eller-{S}egel system with singular
+   data},
     url = {https://doi.org/10.1088/0951-7715/24/5/003},
     volume = {24},
     year = {2011}

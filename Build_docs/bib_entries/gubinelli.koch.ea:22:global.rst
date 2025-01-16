@@ -8,17 +8,19 @@ gubinelli.koch.ea:22:global
 .. code-block:: bibtex
 
    @article{gubinelli.koch.ea:22:global,
-    author = {Gubinelli, Massimiliano and Koch, Herbert and Oh, Tadahiro and Tolomeo, Leonardo},
+    author = {Gubinelli, Massimiliano and Koch, Herbert and Oh, Tadahiro
+   and Tolomeo, Leonardo},
     doi = {10.1093/imrn/rnab084},
     fjournal = {International Mathematics Research Notices. IMRN},
-    issn = {1073-7928,1687-0247},
+    issn = {1073-7928},
     journal = {Int. Math. Res. Not. IMRN},
     mrclass = {60H15 (58J45)},
     mrnumber = {4504911},
-    mrreviewer = {Le\ Chen},
+    mrreviewer = {Le Chen},
     number = {21},
     pages = {16954--16999},
-    title = {Global dynamics for the two-dimensional stochastic nonlinear wave equations},
+    title = {Global dynamics for the two-dimensional stochastic
+   nonlinear wave equations},
     url = {https://doi.org/10.1093/imrn/rnab084},
     year = {2022}
    }

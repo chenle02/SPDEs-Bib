@@ -16,7 +16,8 @@ zabczyk:75:on
     mrreviewer = {Ruth\ Curtain},
     number = {6},
     pages = {1217--1234},
-    title = {On optimal stochastic control of discrete-time systems in {H}ilbert space},
+    title = {On optimal stochastic control of discrete-time systems in
+   {H}ilbert space},
     volume = {13},
     year = {1975}
    }

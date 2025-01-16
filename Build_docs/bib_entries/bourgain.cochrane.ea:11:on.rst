@@ -8,7 +8,8 @@ bourgain.cochrane.ea:11:on
 .. code-block:: bibtex
 
    @article{bourgain.cochrane.ea:11:on,
-    author = {Bourgain, Jean and Cochrane, Todd and Paulhus, Jennifer and Pinner, Christopher},
+    author = {Bourgain, Jean and Cochrane, Todd and Paulhus, Jennifer
+   and Pinner, Christopher},
     doi = {10.4064/aa147-2-6},
     fjournal = {Acta Arithmetica},
     issn = {0065-1036,1730-6264},
@@ -18,7 +19,8 @@ bourgain.cochrane.ea:11:on
     mrreviewer = {Igor\ E.\ Shparlinski},
     number = {2},
     pages = {173--203},
-    title = {On the parity of {$k$}-th powers modulo {$p$}. {A} generalization of a problem of {L}ehmer},
+    title = {On the parity of {$k$}-th powers modulo {$p$}. {A}
+   generalization of a problem of {L}ehmer},
     url = {https://doi.org/10.4064/aa147-2-6},
     volume = {147},
     year = {2011}

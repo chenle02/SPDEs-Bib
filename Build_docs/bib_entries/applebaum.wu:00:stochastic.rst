@@ -18,7 +18,8 @@ applebaum.wu:00:stochastic
     mrreviewer = {Tu Sheng Zhang},
     number = {3},
     pages = {245--259},
-    title = {Stochastic partial differential equations driven by {L}\'{e}vy space-time white noise},
+    title = {Stochastic partial differential equations driven by
+   {L}\'{e}vy space-time white noise},
     url = {https://doi.org/10.1515/rose.2000.8.3.245},
     volume = {8},
     year = {2000}

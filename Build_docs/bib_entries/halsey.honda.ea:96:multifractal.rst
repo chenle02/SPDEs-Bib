@@ -8,7 +8,8 @@ halsey.honda.ea:96:multifractal
 .. code-block:: bibtex
 
    @article{halsey.honda.ea:96:multifractal,
-    author = {Halsey, Thomas C. and Honda, Katsuya and Duplantier, Bertrand},
+    author = {Halsey, Thomas C. and Honda, Katsuya and Duplantier,
+   Bertrand},
     doi = {10.1007/BF02199360},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715},

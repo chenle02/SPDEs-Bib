@@ -7,15 +7,22 @@ spitzer:75:random*1
 
 .. code-block:: bibtex
 
-   @inproceedings{spitzer:75:random*1,
+   @article{spitzer:75:random*1,
     author = {Spitzer, Frank},
-    booktitle = {Proceedings of the {I}nternational {C}ongress of {M}athematicians ({V}ancouver, {B}.{C}., 1974), {V}ol. 2},
+    doi = {10.1016/0001-8708(75)90146-2},
+    fjournal = {Advances in Mathematics},
+    issn = {0001-8708},
+    journal = {Advances in Math.},
     mrclass = {60K35},
-    mrnumber = {415810},
-    pages = {169--171},
-    publisher = {Canad. Math. Congr., Montreal, QC},
+    mrnumber = {365776},
+    mrreviewer = {T.\ M.\ Liggett},
+    pages = {139--143},
     title = {Random time evolution of infinite particle systems},
+    url = {https://doi.org/10.1016/0001-8708(75)90146-2},
+    volume = {16},
     year = {1975}
    }
+`The URL link to the source <ttps://doi.org/10.1016/0001-8708(75)90146-2}>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

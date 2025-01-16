@@ -10,7 +10,8 @@ atar.zeitouni:97:exponential
    @article{atar.zeitouni:97:exponential,
     author = {Atar, Rami and Zeitouni, Ofer},
     doi = {10.1016/S0246-0203(97)80110-0},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {60J57 (60G35 93E11)},

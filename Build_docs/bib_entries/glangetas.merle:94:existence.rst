@@ -17,7 +17,8 @@ glangetas.merle:94:existence
     mrreviewer = {John Albert},
     number = {1},
     pages = {173--215},
-    title = {Existence of self-similar blow-up solutions for {Z}akharov equation in dimension two. {I}},
+    title = {Existence of self-similar blow-up solutions for {Z}akharov
+   equation in dimension two. {I}},
     url = {http://projecteuclid.org/euclid.cmp/1104269518},
     volume = {160},
     year = {1994}

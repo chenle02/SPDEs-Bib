@@ -18,7 +18,8 @@ guo.zeitouni:12:quenched
     mrreviewer = {Jean\ B\'{e}rard},
     number = {1-2},
     pages = {207--230},
-    title = {Quenched invariance principle for random walks in balanced random environment},
+    title = {Quenched invariance principle for random walks in balanced
+   random environment},
     url = {https://doi.org/10.1007/s00440-010-0320-9},
     volume = {152},
     year = {2012}

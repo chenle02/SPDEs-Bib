@@ -10,7 +10,8 @@ aurzada.mukherjee.ea:21:persistence
    @article{aurzada.mukherjee.ea:21:persistence,
     author = {Aurzada, Frank and Mukherjee, Sumit and Zeitouni, Ofer},
     doi = {10.1214/20-aihp1114},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203,1778-7017},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60J05 (60F10)},

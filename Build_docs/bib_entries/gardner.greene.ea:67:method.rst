@@ -8,7 +8,8 @@ gardner.greene.ea:67:method
 .. code-block:: bibtex
 
    @article{gardner.greene.ea:67:method,
-    author = {Gardner, Clifford S. and Greene, John M. and Kruskal, Martin D. and Miura, Robert M.},
+    author = {Gardner, Clifford S. and Greene, John M. and Kruskal,
+   Martin D. and Miura, Robert M.},
     doi = {10.1103/PhysRevLett.19.1095},
     issue = {19},
     journal = {Phys. Rev. Lett.},

@@ -16,7 +16,8 @@ derrida:97:zero
     pages = {126--140},
     publisher = {World Sci. Publ., River Edge, NJ},
     series = {Adv. Ser. Math. Phys.},
-    title = {Zero temperature {G}lauber dynamics of the {$1{\rm d}$} {P}otts model},
+    title = {Zero temperature {G}lauber dynamics of the {$1{\rm d}$}
+   {P}otts model},
     volume = {24},
     year = {1997}
    }

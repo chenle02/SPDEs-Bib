@@ -18,7 +18,8 @@ sznitman.zeitouni:06:invariance
     mrreviewer = {Zhong\ Gen\ Su},
     number = {3},
     pages = {455--567},
-    title = {An invariance principle for isotropic diffusions in random environment},
+    title = {An invariance principle for isotropic diffusions in random
+   environment},
     url = {https://doi.org/10.1007/s00222-005-0477-5},
     volume = {164},
     year = {2006}

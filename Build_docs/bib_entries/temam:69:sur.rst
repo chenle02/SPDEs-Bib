@@ -9,7 +9,8 @@ temam:69:sur
 
    @article{temam:69:sur,
     author = {Temam, R.},
-    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es. Neuvi\`eme S\'{e}rie},
+    fjournal = {Journal de Math\'{e}matiques Pures et Appliqu\'{e}es.
+   Neuvi\`eme S\'{e}rie},
     issn = {0021-7824},
     journal = {J. Math. Pures Appl. (9)},
     mrclass = {35.79},

@@ -15,7 +15,8 @@ vilenkin:68:special
     pages = {x+613},
     publisher = {American Mathematical Society, Providence, RI},
     series = {Translations of Mathematical Monographs, Vol. 22},
-    title = {Special functions and the theory of group representations},
+    title = {Special functions and the theory of group
+   representations},
     year = {1968}
    }
 

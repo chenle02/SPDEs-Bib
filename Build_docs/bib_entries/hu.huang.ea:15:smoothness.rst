@@ -8,7 +8,8 @@ hu.huang.ea:15:smoothness
 .. code-block:: bibtex
 
    @article{hu.huang.ea:15:smoothness,
-    author = {Hu, Yaozhong and Huang, Jingyu and Nualart, David and Sun, Xiaobin},
+    author = {Hu, Yaozhong and Huang, Jingyu and Nualart, David and Sun,
+   Xiaobin},
     doi = {10.2969/jmsj/06741605},
     fjournal = {Journal of the Mathematical Society of Japan},
     issn = {0025-5645},
@@ -18,7 +19,8 @@ hu.huang.ea:15:smoothness
     mrreviewer = {Roger Pettersson},
     number = {4},
     pages = {1605--1630},
-    title = {Smoothness of the joint density for spatially homogeneous {SPDE}s},
+    title = {Smoothness of the joint density for spatially homogeneous
+   {SPDE}s},
     url = {https://doi.org/10.2969/jmsj/06741605},
     volume = {67},
     year = {2015}

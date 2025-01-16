@@ -18,7 +18,8 @@ sanz-sole.sarra:99:logarithmic
     mrreviewer = {Jorge A. Le\'{o}n},
     number = {2},
     pages = {301--321},
-    title = {Logarithmic estimates for the density of an anticipating stochastic differential equation},
+    title = {Logarithmic estimates for the density of an anticipating
+   stochastic differential equation},
     url = {https://doi.org/10.1016/S0304-4149(98)00092-1},
     volume = {79},
     year = {1999}

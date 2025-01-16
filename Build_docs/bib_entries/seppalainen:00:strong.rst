@@ -10,7 +10,8 @@ seppalainen:00:strong
    @article{seppalainen:00:strong,
     author = {Sepp\"{a}l\"{a}inen, Timo},
     doi = {10.1016/S0246-0203(00)00137-0},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {60K35 (82C43)},
@@ -18,7 +19,8 @@ seppalainen:00:strong
     mrreviewer = {Rahul Roy},
     number = {6},
     pages = {691--736},
-    title = {Strong law of large numbers for the interface in ballistic deposition},
+    title = {Strong law of large numbers for the interface in ballistic
+   deposition},
     url = {https://doi.org/10.1016/S0246-0203(00)00137-0},
     volume = {36},
     year = {2000}

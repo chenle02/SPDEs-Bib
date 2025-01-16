@@ -12,7 +12,8 @@ doob:90:stochastic
     isbn = {0-471-52369-0},
     mrclass = {60-02 (01A75 60-01 60Gxx 60Jxx)},
     mrnumber = {1038526},
-    note = {Reprint of the 1953 original, A Wiley-Interscience Publication},
+    note = {Reprint of the 1953 original, A Wiley-Interscience
+   Publication},
     pages = {viii+654},
     publisher = {John Wiley \& Sons, Inc., New York},
     series = {Wiley Classics Library},

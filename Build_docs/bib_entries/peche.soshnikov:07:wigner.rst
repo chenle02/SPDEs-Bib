@@ -18,7 +18,8 @@ peche.soshnikov:07:wigner
     mrreviewer = {Vladislav\ Kargin},
     number = {5-6},
     pages = {857--884},
-    title = {Wigner random matrices with non-symmetrically distributed entries},
+    title = {Wigner random matrices with non-symmetrically distributed
+   entries},
     url = {https://doi.org/10.1007/s10955-007-9340-y},
     volume = {129},
     year = {2007}

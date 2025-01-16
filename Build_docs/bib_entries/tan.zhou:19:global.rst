@@ -17,7 +17,8 @@ tan.zhou:19:global
     mrnumber = {3905793},
     number = {1},
     pages = {375--402},
-    title = {Global existence and time decay estimate of solutions to the {K}eller-{S}egel system},
+    title = {Global existence and time decay estimate of solutions to
+   the {K}eller-{S}egel system},
     url = {https://doi.org/10.1002/mma.5352},
     volume = {42},
     year = {2019}

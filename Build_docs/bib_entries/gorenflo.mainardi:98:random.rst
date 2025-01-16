@@ -9,7 +9,8 @@ gorenflo.mainardi:98:random
 
    @article{gorenflo.mainardi:98:random,
     author = {Gorenflo, Rudolf and Mainardi, Francesco},
-    fjournal = {Fractional Calculus \& Applied Analysis. An International Journal for Theory and Applications},
+    fjournal = {Fractional Calculus \& Applied Analysis. An International
+   Journal for Theory and Applications},
     issn = {1311-0454},
     journal = {Fract. Calc. Appl. Anal.},
     mrclass = {60J60 (26A33)},
@@ -17,7 +18,8 @@ gorenflo.mainardi:98:random
     mrreviewer = {Niels Jacob},
     number = {2},
     pages = {167--191},
-    title = {Random walk models for space-fractional diffusion processes},
+    title = {Random walk models for space-fractional diffusion
+   processes},
     volume = {1},
     year = {1998}
    }

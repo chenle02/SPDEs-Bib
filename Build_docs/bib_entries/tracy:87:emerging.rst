@@ -18,7 +18,8 @@ tracy:87:emerging
     mrreviewer = {L. A. Takhtajan (Takhtadzhyan)},
     number = {1-3},
     pages = {1--19},
-    title = {The emerging role of number theory in exactly solvable models in lattice statistical mechanics},
+    title = {The emerging role of number theory in exactly solvable
+   models in lattice statistical mechanics},
     url = {https://doi.org/10.1016/0167-2789(87)90094-7},
     volume = {25},
     year = {1987}

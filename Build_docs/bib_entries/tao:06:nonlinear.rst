@@ -16,7 +16,9 @@ tao:06:nonlinear
     mrreviewer = {Sebastian Herr},
     note = {Local and global analysis},
     pages = {xvi+373},
-    publisher = {Published for the Conference Board of the Mathematical Sciences, Washington, DC; by the American Mathematical Society, Providence, RI},
+    publisher = {Published for the Conference Board of the Mathematical
+   Sciences, Washington, DC; by the American Mathematical
+   Society, Providence, RI},
     series = {CBMS Regional Conference Series in Mathematics},
     title = {Nonlinear dispersive equations},
     url = {https://doi.org/10.1090/cbms/106},

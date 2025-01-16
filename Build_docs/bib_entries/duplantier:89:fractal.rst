@@ -16,7 +16,8 @@ duplantier:89:fractal
     pages = {83--121},
     publisher = {Plenum, New York},
     series = {Ettore Majorana Internat. Sci. Ser.: Phys. Sci.},
-    title = {Fractal critical phenomena in two dimensions and conformal invariance},
+    title = {Fractal critical phenomena in two dimensions and conformal
+   invariance},
     url = {https://doi.org/10.1007/978-1-4899-3499-4_4},
     volume = {45},
     year = {1989}

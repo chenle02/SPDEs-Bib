@@ -18,7 +18,8 @@ ortmann.quastel.ea:16:exact
     mrreviewer = {Patr\'{i}cia Gon\c{c}alves},
     number = {1},
     pages = {507--548},
-    title = {Exact formulas for random growth with half-flat initial data},
+    title = {Exact formulas for random growth with half-flat initial
+   data},
     url = {https://doi.org/10.1214/15-AAP1099},
     volume = {26},
     year = {2016}

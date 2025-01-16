@@ -16,7 +16,8 @@ robeva.pitt:04:on
     mrnumber = {2070315},
     mrreviewer = {Anna Karczewska},
     pages = {183--205},
-    title = {On the equality of sharp and germ {$\sigma$}-fields for {G}aussian processes and fields},
+    title = {On the equality of sharp and germ {$\sigma$}-fields for
+   {G}aussian processes and fields},
     volume = {16},
     year = {2004}
    }

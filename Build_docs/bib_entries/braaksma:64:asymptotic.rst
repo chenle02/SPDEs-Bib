@@ -16,7 +16,8 @@ braaksma:64:asymptotic
     mrnumber = {167651},
     mrreviewer = {C. Fox},
     pages = {239--341 (1964)},
-    title = {Asymptotic expansions and analytic continuations for a class of {B}arnes-integrals},
+    title = {Asymptotic expansions and analytic continuations for a
+   class of {B}arnes-integrals},
     volume = {15},
     year = {1964}
    }

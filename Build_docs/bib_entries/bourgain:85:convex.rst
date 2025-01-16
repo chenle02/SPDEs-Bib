@@ -9,7 +9,8 @@ bourgain:85:convex
 
    @incollection{bourgain:85:convex,
     author = {Bourgain, J.},
-    booktitle = {Texas functional analysis seminar 1984--1985 ({A}ustin, {T}ex.)},
+    booktitle = {Texas functional analysis seminar 1984--1985 ({A}ustin,
+   {T}ex.)},
     mrclass = {42B25},
     mrnumber = {832257},
     pages = {131--139},

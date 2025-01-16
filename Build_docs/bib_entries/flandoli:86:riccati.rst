@@ -18,7 +18,8 @@ flandoli:86:riccati
     mrreviewer = {Akira\ Ichikawa},
     number = {2},
     pages = {131--150},
-    title = {Riccati equation arising in the boundary control of stochastic hyperbolic systems},
+    title = {Riccati equation arising in the boundary control of
+   stochastic hyperbolic systems},
     url = {https://doi.org/10.1080/07362998608809085},
     volume = {4},
     year = {1986}

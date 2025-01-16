@@ -16,7 +16,8 @@ pardoux:21:stochastic
     pages = {viii+74},
     publisher = {Springer, Cham},
     series = {SpringerBriefs in Mathematics},
-    title = {Stochastic partial differential equations---an introduction},
+    title = {Stochastic partial differential equations---an
+   introduction},
     url = {https://doi.org/10.1007/978-3-030-89003-2},
     year = {[2021] \copyright 2021}
    }

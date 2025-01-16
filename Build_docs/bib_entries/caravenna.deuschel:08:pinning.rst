@@ -17,7 +17,8 @@ caravenna.deuschel:08:pinning
     mrnumber = {2478687},
     number = {6},
     pages = {2388--2433},
-    title = {Pinning and wetting transition for {$(1+1)$}-dimensional fields with {L}aplacian interaction},
+    title = {Pinning and wetting transition for {$(1+1)$}-dimensional
+   fields with {L}aplacian interaction},
     url = {https://doi.org/10.1214/08-AOP395},
     volume = {36},
     year = {2008}

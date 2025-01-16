@@ -8,7 +8,8 @@ bock.bornales.ea:15:scaling
 .. code-block:: bibtex
 
    @article{bock.bornales.ea:15:scaling,
-    author = {Bock, Wolfgang and Bornales, Jinky B. and Cabahug, Cresente O. and Eleut\'{e}rio, Samuel and Streit, Ludwig},
+    author = {Bock, Wolfgang and Bornales, Jinky B. and Cabahug,
+   Cresente O. and Eleut\'{e}rio, Samuel and Streit, Ludwig},
     doi = {10.1007/s10955-015-1368-9},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715},
@@ -17,7 +18,8 @@ bock.bornales.ea:15:scaling
     mrnumber = {3422921},
     number = {5},
     pages = {1155--1162},
-    title = {Scaling properties of weakly self-avoiding fractional {B}rownian motion in one dimension},
+    title = {Scaling properties of weakly self-avoiding fractional
+   {B}rownian motion in one dimension},
     url = {https://doi.org/10.1007/s10955-015-1368-9},
     volume = {161},
     year = {2015}

@@ -17,7 +17,8 @@ anderson:55:integral
     mrnumber = {69229},
     mrreviewer = {K. L. Chung},
     pages = {170--176},
-    title = {The integral of a symmetric unimodal function over a symmetric convex set and some probability inequalities},
+    title = {The integral of a symmetric unimodal function over a
+   symmetric convex set and some probability inequalities},
     url = {https://doi.org/10.2307/2032333},
     volume = {6},
     year = {1955}

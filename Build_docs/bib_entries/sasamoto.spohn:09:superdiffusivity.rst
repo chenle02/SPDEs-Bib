@@ -18,7 +18,8 @@ sasamoto.spohn:09:superdiffusivity
     mrreviewer = {Timo Sepp\"{a}l\"{a}inen},
     number = {5-6},
     pages = {917--935},
-    title = {Superdiffusivity of the 1{D} lattice {K}ardar-{P}arisi-{Z}hang equation},
+    title = {Superdiffusivity of the 1{D} lattice
+   {K}ardar-{P}arisi-{Z}hang equation},
     url = {https://doi.org/10.1007/s10955-009-9831-0},
     volume = {137},
     year = {2009}

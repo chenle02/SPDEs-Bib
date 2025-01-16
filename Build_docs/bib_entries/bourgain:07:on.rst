@@ -17,7 +17,8 @@ bourgain:07:on
     pages = {1--20},
     publisher = {Princeton Univ. Press, Princeton, NJ},
     series = {Ann. of Math. Stud.},
-    title = {On {S}trichartz's inequalities and the nonlinear {S}chr\"{o}dinger equation on irrational tori},
+    title = {On {S}trichartz's inequalities and the nonlinear
+   {S}chr\"{o}dinger equation on irrational tori},
     volume = {163},
     year = {2007}
    }

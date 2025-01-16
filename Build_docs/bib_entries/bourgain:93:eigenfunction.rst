@@ -18,7 +18,8 @@ bourgain:93:eigenfunction
     mrreviewer = {Johan\ Tysk},
     number = {3},
     pages = {61--66},
-    title = {Eigenfunction bounds for the {L}aplacian on the {$n$}-torus},
+    title = {Eigenfunction bounds for the {L}aplacian on the
+   {$n$}-torus},
     url = {https://doi.org/10.1155/S1073792893000066},
     year = {1993}
    }

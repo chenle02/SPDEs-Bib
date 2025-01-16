@@ -9,7 +9,10 @@ zabczyk:79:introduction
 
    @incollection{zabczyk:79:introduction,
     author = {Zabczyk, J.},
-    booktitle = {Stochastic control theory and stochastic differential systems ({P}roc. {W}orkshop, {D}eutsch. {F}orschungsgemeinsch., {U}niv. {B}onn, {B}ad {H}onnef, 1979)},
+    booktitle = {Stochastic control theory and stochastic differential
+   systems ({P}roc. {W}orkshop, {D}eutsch.
+   {F}orschungsgemeinsch., {U}niv. {B}onn, {B}ad {H}onnef,
+   1979)},
     isbn = {3-540-09480-6},
     mrclass = {60G40 (62L15)},
     mrnumber = {547474},

@@ -18,7 +18,8 @@ peszat:11:levy-ornstein-uhlenbeck
     mrreviewer = {Romain\ Abraham},
     number = {12},
     pages = {3457--3473},
-    title = {L\'{e}vy-{O}rnstein-{U}hlenbeck transition semigroup as second quantized operator},
+    title = {L\'{e}vy-{O}rnstein-{U}hlenbeck transition semigroup as
+   second quantized operator},
     url = {https://doi.org/10.1016/j.jfa.2011.03.002},
     volume = {260},
     year = {2011}

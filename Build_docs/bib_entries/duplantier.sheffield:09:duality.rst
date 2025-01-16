@@ -17,7 +17,8 @@ duplantier.sheffield:09:duality
     mrnumber = {2501276},
     number = {15},
     pages = {150603, 4},
-    title = {Duality and the {K}nizhnik-{P}olyakov-{Z}amolodchikov relation in {L}iouville quantum gravity},
+    title = {Duality and the {K}nizhnik-{P}olyakov-{Z}amolodchikov
+   relation in {L}iouville quantum gravity},
     url = {https://doi.org/10.1103/PhysRevLett.102.150603},
     volume = {102},
     year = {2009}

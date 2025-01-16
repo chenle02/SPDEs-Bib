@@ -16,7 +16,8 @@ benjamini.yadin.ea:12:erratum
     mrclass = {60C05 (11B25 60F05)},
     mrnumber = {2926762},
     pages = {no. 18, 1},
-    title = {Erratum: {M}aximal arithmetic progressions in random subsets [MR2350574]},
+    title = {Erratum: {M}aximal arithmetic progressions in random
+   subsets [MR2350574]},
     url = {https://doi.org/10.1214/ECP.v17-2014},
     volume = {17},
     year = {2012}

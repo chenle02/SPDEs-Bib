@@ -8,9 +8,11 @@ corcuera.nualart.ea:06:power
 .. code-block:: bibtex
 
    @article{corcuera.nualart.ea:06:power,
-    author = {Corcuera, Jos\'{e} Manuel and Nualart, David and Woerner, Jeannette H. C.},
+    author = {Corcuera, Jos\'{e} Manuel and Nualart, David and Woerner,
+   Jeannette H. C.},
     doi = {10.3150/bj/1155735933},
-    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for
+   Mathematical Statistics and Probability},
     issn = {1350-7265},
     journal = {Bernoulli},
     mrclass = {60H05 (60F05)},

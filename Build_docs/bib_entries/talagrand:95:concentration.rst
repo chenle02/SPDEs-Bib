@@ -9,7 +9,8 @@ talagrand:95:concentration
 
    @article{talagrand:95:concentration,
     author = {Talagrand, Michel},
-    fjournal = {Institut des Hautes \'{E}tudes Scientifiques. Publications Math\'{e}matiques},
+    fjournal = {Institut des Hautes \'{E}tudes Scientifiques. Publications
+   Math\'{e}matiques},
     issn = {0073-8301},
     journal = {Inst. Hautes \'{E}tudes Sci. Publ. Math.},
     mrclass = {60E15 (60D05)},
@@ -17,7 +18,8 @@ talagrand:95:concentration
     mrreviewer = {G. Schechtman},
     number = {81},
     pages = {73--205},
-    title = {Concentration of measure and isoperimetric inequalities in product spaces},
+    title = {Concentration of measure and isoperimetric inequalities in
+   product spaces},
     url = {http://www.numdam.org/item?id=PMIHES_1995__81__73_0},
     year = {1995}
    }

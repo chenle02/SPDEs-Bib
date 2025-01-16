@@ -17,7 +17,9 @@ corwin:18:commentary
     mrnumber = {3803162},
     number = {3},
     pages = {363--374},
-    title = {Commentary on ``{L}ongest increasing subsequences: from patience sorting to the {B}aik-{D}eift-{J}ohansson theorem'' by {D}avid {A}ldous and {P}ersi {D}iaconis},
+    title = {Commentary on ``{L}ongest increasing subsequences: from
+   patience sorting to the {B}aik-{D}eift-{J}ohansson
+   theorem'' by {D}avid {A}ldous and {P}ersi {D}iaconis},
     url = {https://doi.org/10.1090/bull/1623},
     volume = {55},
     year = {2018}

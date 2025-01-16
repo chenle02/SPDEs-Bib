@@ -15,7 +15,8 @@ varadhan:07:stochastic
     mrnumber = {2354349},
     mrreviewer = {Isamu D\^{o}ku},
     pages = {x+126},
-    publisher = {Courant Institute of Mathematical Sciences, New York; American Mathematical Society, Providence, RI},
+    publisher = {Courant Institute of Mathematical Sciences, New York;
+   American Mathematical Society, Providence, RI},
     series = {Courant Lecture Notes in Mathematics},
     title = {Stochastic processes},
     url = {https://doi.org/10.1090/cln/016},

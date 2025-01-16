@@ -17,7 +17,8 @@ issa.shen:19:persistence
     mrnumber = {4028556},
     number = {4},
     pages = {1839--1871},
-    title = {Persistence, coexistence and extinction in two species chemotaxis models on bounded heterogeneous environments},
+    title = {Persistence, coexistence and extinction in two species
+   chemotaxis models on bounded heterogeneous environments},
     url = {https://doi.org/10.1007/s10884-018-9686-7},
     volume = {31},
     year = {2019}

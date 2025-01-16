@@ -17,7 +17,8 @@ chaleyat-maurel.nualart:95:onsager-machlup
     pages = {44--55},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Onsager-{M}achlup functionals for solutions of stochastic boundary value problems},
+    title = {Onsager-{M}achlup functionals for solutions of stochastic
+   boundary value problems},
     url = {https://doi.org/10.1007/BFb0094199},
     volume = {1613},
     year = {1995}

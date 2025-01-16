@@ -8,7 +8,8 @@ beck.flandoli.ea:19:stochastic
 .. code-block:: bibtex
 
    @article{beck.flandoli.ea:19:stochastic,
-    author = {Beck, Lisa and Flandoli, Franco and Gubinelli, Massimiliano and Maurelli, Mario},
+    author = {Beck, Lisa and Flandoli, Franco and Gubinelli,
+   Massimiliano and Maurelli, Mario},
     doi = {10.1214/19-ejp379},
     fjournal = {Electronic Journal of Probability},
     issn = {1083-6489},
@@ -17,7 +18,8 @@ beck.flandoli.ea:19:stochastic
     mrnumber = {4040996},
     mrreviewer = {Ciprian\ A.\ Tudor},
     pages = {Paper No. 136, 72},
-    title = {Stochastic {ODE}s and stochastic linear {PDE}s with critical drift: regularity, duality and uniqueness},
+    title = {Stochastic {ODE}s and stochastic linear {PDE}s with
+   critical drift: regularity, duality and uniqueness},
     url = {https://doi.org/10.1214/19-ejp379},
     volume = {24},
     year = {2019}

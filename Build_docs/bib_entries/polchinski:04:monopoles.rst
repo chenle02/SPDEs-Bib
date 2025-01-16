@@ -10,7 +10,8 @@ polchinski:04:monopoles
    @article{polchinski:04:monopoles,
     author = {Polchinski, Joe},
     doi = {10.1142/S0217751X0401866X},
-    fjournal = {International Journal of Modern Physics A. Particles and Fields. Gravitation. Cosmology},
+    fjournal = {International Journal of Modern Physics A. Particles and
+   Fields. Gravitation. Cosmology},
     issn = {0217-751X},
     journal = {Internat. J. Modern Phys. A},
     mrclass = {81T30},

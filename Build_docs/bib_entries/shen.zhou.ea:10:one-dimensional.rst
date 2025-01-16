@@ -17,7 +17,8 @@ shen.zhou.ea:10:one-dimensional
     mrnumber = {2593049},
     number = {6},
     pages = {1432--1457},
-    title = {One-dimensional random attractor and rotation number of the stochastic damped sine-{G}ordon equation},
+    title = {One-dimensional random attractor and rotation number of
+   the stochastic damped sine-{G}ordon equation},
     url = {https://doi.org/10.1016/j.jde.2009.10.007},
     volume = {248},
     year = {2010}

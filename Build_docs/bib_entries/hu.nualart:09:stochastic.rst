@@ -18,7 +18,8 @@ hu.nualart:09:stochastic
     mrreviewer = {Stefano Bonaccorsi},
     number = {1-2},
     pages = {285--328},
-    title = {Stochastic heat equation driven by fractional noise and local time},
+    title = {Stochastic heat equation driven by fractional noise and
+   local time},
     url = {https://doi.org/10.1007/s00440-007-0127-5},
     volume = {143},
     year = {2009}

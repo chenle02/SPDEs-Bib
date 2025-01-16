@@ -8,7 +8,8 @@ bourgain.kahn.ea:92:influence
 .. code-block:: bibtex
 
    @article{bourgain.kahn.ea:92:influence,
-    author = {Bourgain, Jean and Kahn, Jeff and Kalai, Gil and Katznelson, Yitzhak and Linial, Nathan},
+    author = {Bourgain, Jean and Kahn, Jeff and Kalai, Gil and
+   Katznelson, Yitzhak and Linial, Nathan},
     doi = {10.1007/BF02808010},
     fjournal = {Israel Journal of Mathematics},
     issn = {0021-2172,1565-8511},

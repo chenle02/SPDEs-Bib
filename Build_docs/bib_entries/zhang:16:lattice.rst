@@ -18,7 +18,8 @@ zhang:16:lattice
     mrreviewer = {Ciprian A. Tudor},
     number = {6},
     pages = {3602--3629},
-    title = {Lattice approximations of reflected stochastic partial differential equations driven by space-time white noise},
+    title = {Lattice approximations of reflected stochastic partial
+   differential equations driven by space-time white noise},
     url = {https://doi.org/10.1214/16-AAP1186},
     volume = {26},
     year = {2016}

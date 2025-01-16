@@ -8,7 +8,8 @@ budd.huang.ea:96:moving
 .. code-block:: bibtex
 
    @article{budd.huang.ea:96:moving,
-    author = {Budd, Chris J. and Huang, Weizhang and Russell, Robert D.},
+    author = {Budd, Chris J. and Huang, Weizhang and Russell, Robert
+   D.},
     doi = {10.1137/S1064827594272025},
     fjournal = {SIAM Journal on Scientific Computing},
     issn = {1064-8275},

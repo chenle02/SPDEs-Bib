@@ -17,7 +17,8 @@ duc.nualart.ea:89:planar
     pages = {566--582},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Planar semimartingales obtained by transformations of two-parameter martingales},
+    title = {Planar semimartingales obtained by transformations of
+   two-parameter martingales},
     url = {https://doi.org/10.1007/BFb0084000},
     volume = {1372},
     year = {1989}

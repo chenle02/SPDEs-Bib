@@ -17,7 +17,8 @@ nagasawa.tanaka:99:stochastic
     mrnumber = {1697664},
     number = {8},
     pages = {1265--1280},
-    title = {Stochastic differential equations of pure-jumps in relativistic quantum theory},
+    title = {Stochastic differential equations of pure-jumps in
+   relativistic quantum theory},
     url = {https://doi.org/10.1016/S0960-0779(98)00044-7},
     volume = {10},
     year = {1999}

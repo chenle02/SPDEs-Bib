@@ -9,7 +9,8 @@ balan:13:recent
 
    @incollection{balan:13:recent,
     author = {Balan, Raluca M.},
-    booktitle = {Seminar on {S}tochastic {A}nalysis, {R}andom {F}ields and {A}pplications {VII}},
+    booktitle = {Seminar on {S}tochastic {A}nalysis, {R}andom {F}ields and
+   {A}pplications {VII}},
     mrclass = {60H15 (60H07)},
     mrnumber = {3380093},
     pages = {3--22},

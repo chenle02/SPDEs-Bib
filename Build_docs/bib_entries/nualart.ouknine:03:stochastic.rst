@@ -16,7 +16,8 @@ nualart.ouknine:03:stochastic
     pages = {353--365},
     publisher = {Birkh\"{a}user, Basel},
     series = {Progr. Probab.},
-    title = {Stochastic differential equations with additive fractional noise and locally unbounded drift},
+    title = {Stochastic differential equations with additive fractional
+   noise and locally unbounded drift},
     volume = {56},
     year = {2003}
    }

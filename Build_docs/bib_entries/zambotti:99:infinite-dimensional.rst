@@ -18,7 +18,8 @@ zambotti:99:infinite-dimensional
     mrreviewer = {Stanis\l aw\ W\polhk{e}drychowicz},
     number = {3},
     pages = {487--508},
-    title = {Infinite-dimensional elliptic and stochastic equations with {H}\"{o}lder-continuous coefficients},
+    title = {Infinite-dimensional elliptic and stochastic equations
+   with {H}\"{o}lder-continuous coefficients},
     url = {https://doi.org/10.1080/07362999908809614},
     volume = {17},
     year = {1999}

@@ -17,7 +17,8 @@ schmidt.zabczyk:12:cdo
     mrnumber = {2902969},
     number = {1},
     pages = {1250008, 19},
-    title = {C{DO} term structure modelling with {L}\'{e}vy processes and the relation to market models},
+    title = {C{DO} term structure modelling with {L}\'{e}vy processes
+   and the relation to market models},
     url = {https://doi.org/10.1142/S0219024911006462},
     volume = {15},
     year = {2012}

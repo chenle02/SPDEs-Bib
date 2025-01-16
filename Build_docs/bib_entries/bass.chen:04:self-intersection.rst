@@ -18,7 +18,8 @@ bass.chen:04:self-intersection
     mrreviewer = {Nadine Guillotin-Plantard},
     number = {4},
     pages = {3221--3247},
-    title = {Self-intersection local time: critical exponent, large deviations, and laws of the iterated logarithm},
+    title = {Self-intersection local time: critical exponent, large
+   deviations, and laws of the iterated logarithm},
     url = {https://doi.org/10.1214/009117904000000504},
     volume = {32},
     year = {2004}

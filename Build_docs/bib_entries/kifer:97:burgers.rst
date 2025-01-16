@@ -18,7 +18,8 @@ kifer:97:burgers
     mrreviewer = {Tu Sheng Zhang},
     number = {1},
     pages = {29--65},
-    title = {The {B}urgers equation with a random force and a general model for directed polymers in random environments},
+    title = {The {B}urgers equation with a random force and a general
+   model for directed polymers in random environments},
     url = {https://doi.org/10.1007/s004400050100},
     volume = {108},
     year = {1997}

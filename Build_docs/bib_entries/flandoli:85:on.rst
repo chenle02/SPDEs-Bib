@@ -17,7 +17,8 @@ flandoli:85:on
     pages = {179--190},
     publisher = {Springer, Berlin},
     series = {Lect. Notes Control Inf. Sci.},
-    title = {On the optimal control of non-well-posed systems with boundary control},
+    title = {On the optimal control of non-well-posed systems with
+   boundary control},
     url = {https://doi.org/10.1007/BFb0005652},
     volume = {75},
     year = {1985}

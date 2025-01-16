@@ -18,7 +18,8 @@ kalsi:20:existence
     mrreviewer = {Bo Wu},
     number = {3},
     pages = {1755--1767},
-    title = {Existence of invariant measures for reflected stochastic partial differential equations},
+    title = {Existence of invariant measures for reflected stochastic
+   partial differential equations},
     url = {https://doi.org/10.1007/s10959-019-00906-z},
     volume = {33},
     year = {2020}

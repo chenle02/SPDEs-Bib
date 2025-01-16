@@ -18,7 +18,8 @@ bardina.rovira.ea:02:asymptotic
     mrreviewer = {Jan M. Swart},
     number = {2},
     pages = {145--156},
-    title = {Asymptotic evaluation of the {P}oisson measures for tubes around jump curves},
+    title = {Asymptotic evaluation of the {P}oisson measures for tubes
+   around jump curves},
     url = {https://doi.org/10.4064/am29-2-3},
     volume = {29},
     year = {2002}

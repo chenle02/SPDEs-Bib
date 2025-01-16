@@ -8,7 +8,8 @@ kalbasi.mountford.ea:18:anderson
 .. code-block:: bibtex
 
    @article{kalbasi.mountford.ea:18:anderson,
-    author = {Kalbasi, Kamran and Mountford, Thomas S. and Viens, Frederi G.},
+    author = {Kalbasi, Kamran and Mountford, Thomas S. and Viens,
+   Frederi G.},
     doi = {10.1007/s10959-017-0756-2},
     fjournal = {Journal of Theoretical Probability},
     issn = {0894-9840},
@@ -17,7 +18,8 @@ kalbasi.mountford.ea:18:anderson
     mrnumber = {3842159},
     number = {3},
     pages = {1429--1468},
-    title = {Anderson polymer in a fractional {B}rownian environment: asymptotic behavior of the partition function},
+    title = {Anderson polymer in a fractional {B}rownian environment:
+   asymptotic behavior of the partition function},
     url = {https://doi.org/10.1007/s10959-017-0756-2},
     volume = {31},
     year = {2018}

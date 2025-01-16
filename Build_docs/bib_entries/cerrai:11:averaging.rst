@@ -18,7 +18,9 @@ cerrai:11:averaging
     mrreviewer = {Sergey V. Lototsky},
     number = {6},
     pages = {2482--2518},
-    title = {Averaging principle for systems of reaction-diffusion equations with polynomial nonlinearities perturbed by multiplicative noise},
+    title = {Averaging principle for systems of reaction-diffusion
+   equations with polynomial nonlinearities perturbed by
+   multiplicative noise},
     url = {https://doi.org/10.1137/100806710},
     volume = {43},
     year = {2011}

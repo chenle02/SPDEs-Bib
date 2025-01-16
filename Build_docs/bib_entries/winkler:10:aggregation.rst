@@ -18,7 +18,8 @@ winkler:10:aggregation
     mrreviewer = {Bisso Saley},
     number = {12},
     pages = {2889--2905},
-    title = {Aggregation vs. global diffusive behavior in the higher-dimensional {K}eller-{S}egel model},
+    title = {Aggregation vs. global diffusive behavior in the
+   higher-dimensional {K}eller-{S}egel model},
     url = {https://doi.org/10.1016/j.jde.2010.02.008},
     volume = {248},
     year = {2010}

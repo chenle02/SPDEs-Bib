@@ -17,7 +17,9 @@ salako.shen:21:long
     mrnumber = {4248645},
     number = {2},
     pages = {1035--1070},
-    title = {Long time behavior of random and nonautonomous {F}isher-{KPP} equations: {P}art {I}---{S}tability of equilibria and spreading speeds},
+    title = {Long time behavior of random and nonautonomous
+   {F}isher-{KPP} equations: {P}art {I}---{S}tability of
+   equilibria and spreading speeds},
     url = {https://doi.org/10.1007/s10884-020-09847-2},
     volume = {33},
     year = {2021}

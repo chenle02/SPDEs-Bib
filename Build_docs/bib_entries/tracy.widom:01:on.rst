@@ -18,7 +18,8 @@ tracy.widom:01:on
     mrreviewer = {David J. Aldous},
     number = {3},
     pages = {350--380},
-    title = {On the distributions of the lengths of the longest monotone subsequences in random words},
+    title = {On the distributions of the lengths of the longest
+   monotone subsequences in random words},
     url = {https://doi.org/10.1007/PL00008763},
     volume = {119},
     year = {2001}

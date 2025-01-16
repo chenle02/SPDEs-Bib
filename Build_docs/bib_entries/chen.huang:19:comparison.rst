@@ -18,7 +18,8 @@ chen.huang:19:comparison
     mrreviewer = {Petru A. Cioica-Licht},
     number = {2},
     pages = {989--1035},
-    title = {Comparison principle for stochastic heat equation on {$\Bbb R^d$}},
+    title = {Comparison principle for stochastic heat equation on
+   {$\Bbb R^d$}},
     url = {https://doi.org/10.1214/18-AOP1277},
     volume = {47},
     year = {2019}

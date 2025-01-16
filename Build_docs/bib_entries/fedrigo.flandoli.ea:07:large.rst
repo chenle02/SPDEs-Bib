@@ -18,7 +18,8 @@ fedrigo.flandoli.ea:07:large
     mrreviewer = {Jos\'{e}\ Trashorras},
     number = {3},
     pages = {381--417},
-    title = {A large deviation principle for the free energy of random {G}ibbs measures with application to the {REM}},
+    title = {A large deviation principle for the free energy of random
+   {G}ibbs measures with application to the {REM}},
     url = {https://doi.org/10.1007/s10231-006-0011-4},
     volume = {186},
     year = {2007}

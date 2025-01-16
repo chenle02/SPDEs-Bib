@@ -18,7 +18,8 @@ foondun.liu.ea:17:moment
     mrreviewer = {Yu-Ting Chen},
     number = {4},
     pages = {2131--2153},
-    title = {Moment bounds for a class of fractional stochastic heat equations},
+    title = {Moment bounds for a class of fractional stochastic heat
+   equations},
     url = {https://doi.org/10.1214/16-AOP1108},
     volume = {45},
     year = {2017}

@@ -16,7 +16,8 @@ fan:97:sur
     mrnumber = {1457064},
     number = {1},
     pages = {53--66},
-    title = {Sur les chaos de {L}\'{e}vy stables d'indice {$0<\alpha<1$}},
+    title = {Sur les chaos de {L}\'{e}vy stables d'indice
+   {$0<\alpha<1$}},
     volume = {21},
     year = {1997}
    }

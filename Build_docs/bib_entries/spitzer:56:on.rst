@@ -17,7 +17,8 @@ spitzer:56:on
     mrnumber = {90915},
     mrreviewer = {G.\ Kallianpur},
     pages = {164--171},
-    title = {On interval recurrent sums of independent random variables},
+    title = {On interval recurrent sums of independent random
+   variables},
     url = {https://doi.org/10.2307/2033263},
     volume = {7},
     year = {1956}

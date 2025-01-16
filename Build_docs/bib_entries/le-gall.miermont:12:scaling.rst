@@ -9,7 +9,8 @@ le-gall.miermont:12:scaling
 
    @incollection{le-gall.miermont:12:scaling,
     author = {Le Gall, Jean-Fran\c{c}ois and Miermont, Gr\'{e}gory},
-    booktitle = {Probability and statistical physics in two and more dimensions},
+    booktitle = {Probability and statistical physics in two and more
+   dimensions},
     mrclass = {60J80 (60J68)},
     mrnumber = {3025391},
     mrreviewer = {Jos\'{e} Villa-Morales},

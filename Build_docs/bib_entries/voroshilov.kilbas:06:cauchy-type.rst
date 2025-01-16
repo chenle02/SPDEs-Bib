@@ -16,7 +16,8 @@ voroshilov.kilbas:06:cauchy-type
     mrnumber = {2256848},
     number = {1},
     pages = {12--16},
-    title = {A {C}auchy-type problem for a diffusion-wave equation with a {R}iemann-{L}iouville partial derivative},
+    title = {A {C}auchy-type problem for a diffusion-wave equation with
+   a {R}iemann-{L}iouville partial derivative},
     volume = {406},
     year = {2006}
    }

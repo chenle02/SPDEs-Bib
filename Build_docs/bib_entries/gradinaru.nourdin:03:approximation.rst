@@ -17,7 +17,9 @@ gradinaru.nourdin:03:approximation
     mrnumber = {2041819},
     mrreviewer = {M.\ Z\"{a}hle},
     pages = {no. 18, 26},
-    title = {Approximation at first and second order of {$m$}-order integrals of the fractional {B}rownian motion and of certain semimartingales},
+    title = {Approximation at first and second order of {$m$}-order
+   integrals of the fractional {B}rownian motion and of
+   certain semimartingales},
     url = {https://doi.org/10.1214/EJP.v8-166},
     volume = {8},
     year = {2003}

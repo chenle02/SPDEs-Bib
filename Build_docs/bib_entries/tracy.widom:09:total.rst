@@ -18,7 +18,8 @@ tracy.widom:09:total
     mrreviewer = {Anton Klimovsky},
     number = {9},
     pages = {095204, 4},
-    title = {Total current fluctuations in the asymmetric simple exclusion process},
+    title = {Total current fluctuations in the asymmetric simple
+   exclusion process},
     url = {https://doi.org/10.1063/1.3136630},
     volume = {50},
     year = {2009}

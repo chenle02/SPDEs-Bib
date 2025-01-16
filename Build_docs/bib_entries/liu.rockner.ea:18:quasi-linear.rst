@@ -8,7 +8,8 @@ liu.rockner.ea:18:quasi-linear
 .. code-block:: bibtex
 
    @article{liu.rockner.ea:18:quasi-linear,
-    author = {Liu, Wei and R\"{o}ckner, Michael and da Silva, Jos\'{e} Lu\'{i}s},
+    author = {Liu, Wei and R\"{o}ckner, Michael and da Silva, Jos\'{e}
+   Lu\'{i}s},
     doi = {10.1137/17M1144593},
     fjournal = {SIAM Journal on Mathematical Analysis},
     issn = {0036-1410},
@@ -17,7 +18,8 @@ liu.rockner.ea:18:quasi-linear
     mrnumber = {3800228},
     number = {3},
     pages = {2588--2607},
-    title = {Quasi-linear (stochastic) partial differential equations with time-fractional derivatives},
+    title = {Quasi-linear (stochastic) partial differential equations
+   with time-fractional derivatives},
     url = {https://doi.org/10.1137/17M1144593},
     volume = {50},
     year = {2018}

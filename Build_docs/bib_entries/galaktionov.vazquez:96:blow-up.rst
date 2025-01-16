@@ -18,7 +18,8 @@ galaktionov.vazquez:96:blow-up
     mrreviewer = {Song Mu Zheng},
     number = {1},
     pages = {1--40},
-    title = {Blow-up for quasilinear heat equations described by means of nonlinear {H}amilton-{J}acobi equations},
+    title = {Blow-up for quasilinear heat equations described by means
+   of nonlinear {H}amilton-{J}acobi equations},
     url = {https://doi.org/10.1006/jdeq.1996.0059},
     volume = {127},
     year = {1996}

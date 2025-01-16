@@ -18,7 +18,8 @@ allouba.zheng:01:brownian-time
     mrreviewer = {Robert G. Smits},
     number = {4},
     pages = {1780--1795},
-    title = {Brownian-time processes: the {PDE} connection and the half-derivative generator},
+    title = {Brownian-time processes: the {PDE} connection and the
+   half-derivative generator},
     url = {https://doi.org/10.1214/aop/1015345772},
     volume = {29},
     year = {2001}

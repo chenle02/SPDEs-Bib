@@ -8,7 +8,8 @@ kemp.nourdin.ea:12:wigner
 .. code-block:: bibtex
 
    @article{kemp.nourdin.ea:12:wigner,
-    author = {Kemp, Todd and Nourdin, Ivan and Peccati, Giovanni and Speicher, Roland},
+    author = {Kemp, Todd and Nourdin, Ivan and Peccati, Giovanni and
+   Speicher, Roland},
     doi = {10.1214/11-AOP657},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},

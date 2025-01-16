@@ -17,7 +17,8 @@ desrosiers.forrester:06:asymptotic
     mrnumber = {2250019},
     mrreviewer = {Peter Eichelsbacher},
     pages = {Art. ID 27395, 43},
-    title = {Asymptotic correlations for {G}aussian and {W}ishart matrices with external source},
+    title = {Asymptotic correlations for {G}aussian and {W}ishart
+   matrices with external source},
     url = {https://doi.org/10.1155/IMRN/2006/27395},
     year = {2006}
    }

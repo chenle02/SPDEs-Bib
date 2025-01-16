@@ -8,7 +8,8 @@ bloemendal.erdos.ea:14:isotropic
 .. code-block:: bibtex
 
    @article{bloemendal.erdos.ea:14:isotropic,
-    author = {Bloemendal, Alex and Erd\H{o}s, L\'{a}szl\'{o} and Knowles, Antti and Yau, Horng-Tzer and Yin, Jun},
+    author = {Bloemendal, Alex and Erd\H{o}s, L\'{a}szl\'{o} and
+   Knowles, Antti and Yau, Horng-Tzer and Yin, Jun},
     doi = {10.1214/ejp.v19-3054},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},
@@ -16,7 +17,8 @@ bloemendal.erdos.ea:14:isotropic
     mrnumber = {3183577},
     mrreviewer = {Karl E. Liechty},
     pages = {no. 33, 53},
-    title = {Isotropic local laws for sample covariance and generalized {W}igner matrices},
+    title = {Isotropic local laws for sample covariance and generalized
+   {W}igner matrices},
     url = {https://doi.org/10.1214/ejp.v19-3054},
     volume = {19},
     year = {2014}

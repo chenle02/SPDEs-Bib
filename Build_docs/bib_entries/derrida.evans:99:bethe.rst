@@ -17,7 +17,8 @@ derrida.evans:99:bethe
     mrnumber = {1718799},
     number = {26},
     pages = {4833--4850},
-    title = {Bethe ansatz solution for a defect particle in the asymmetric exclusion process},
+    title = {Bethe ansatz solution for a defect particle in the
+   asymmetric exclusion process},
     url = {https://doi.org/10.1088/0305-4470/32/26/303},
     volume = {32},
     year = {1999}

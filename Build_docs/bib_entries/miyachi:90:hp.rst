@@ -10,7 +10,8 @@ miyachi:90:hp
    @article{miyachi:90:hp,
     author = {Miyachi, Akihiko},
     doi = {10.4064/sm-95-3-205-228},
-    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia Mathematica},
+    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia
+   Mathematica},
     issn = {0039-3223},
     journal = {Studia Math.},
     mrclass = {42B30 (46E10 46F20)},

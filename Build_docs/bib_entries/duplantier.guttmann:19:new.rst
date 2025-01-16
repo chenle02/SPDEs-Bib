@@ -16,7 +16,8 @@ duplantier.guttmann:19:new
     mrnumber = {4031611},
     number = {10},
     pages = {104010, 13},
-    title = {New scaling laws for self-avoiding walks: bridges and worms},
+    title = {New scaling laws for self-avoiding walks: bridges and
+   worms},
     url = {https://doi.org/10.1088/1742-5468/ab4584},
     year = {2019}
    }

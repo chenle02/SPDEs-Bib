@@ -17,7 +17,9 @@ salins:22:existence
     mrnumber = {4486234},
     number = {5},
     pages = {Paper No. 2250014, 30},
-    title = {Existence and uniqueness of global solutions to the stochastic heat equation with superlinear drift on an unbounded spatial domain},
+    title = {Existence and uniqueness of global solutions to the
+   stochastic heat equation with superlinear drift on an
+   unbounded spatial domain},
     url = {https://doi.org/10.1142/S0219493722500149},
     volume = {22},
     year = {2022}

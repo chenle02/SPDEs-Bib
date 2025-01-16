@@ -8,7 +8,7 @@ hitczenko:94:on
 .. code-block:: bibtex
 
    @article{hitczenko:94:on,
-    author = {Hitczenko, Pawe\l},
+    author = {Hitczenko, Pawe\l },
     doi = {10.2307/2160390},
     fjournal = {Proceedings of the American Mathematical Society},
     issn = {0002-9939},
@@ -18,7 +18,8 @@ hitczenko:94:on
     mrreviewer = {W. A. Woyczy\'{n}ski},
     number = {1},
     pages = {253--258},
-    title = {On the behavior of the constant in a decoupling inequality for martingales},
+    title = {On the behavior of the constant in a decoupling inequality
+   for martingales},
     url = {https://doi.org/10.2307/2160390},
     volume = {121},
     year = {1994}

@@ -17,7 +17,8 @@ gyongy:82:on
     mrnumber = {674448},
     number = {4},
     pages = {231--254},
-    title = {On stochastic equations with respect to semimartingales. {III}},
+    title = {On stochastic equations with respect to semimartingales.
+   {III}},
     url = {https://doi.org/10.1080/17442508208833220},
     volume = {7},
     year = {1982}

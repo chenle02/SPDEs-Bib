@@ -17,7 +17,8 @@ brunet.derrida:15:exactly
     mrnumber = {3413633},
     number = {4},
     pages = {801--820},
-    title = {An exactly solvable travelling wave equation in the {F}isher-{KPP} class},
+    title = {An exactly solvable travelling wave equation in the
+   {F}isher-{KPP} class},
     url = {https://doi.org/10.1007/s10955-015-1350-6},
     volume = {161},
     year = {2015}

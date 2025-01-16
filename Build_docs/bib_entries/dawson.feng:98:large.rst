@@ -18,7 +18,8 @@ dawson.feng:98:large
     mrreviewer = {Anatolii A. Pukhal{\cprime}skiu{i}},
     number = {2},
     pages = {207--232},
-    title = {Large deviations for the {F}leming-{V}iot process with neutral mutation and selection},
+    title = {Large deviations for the {F}leming-{V}iot process with
+   neutral mutation and selection},
     url = {https://doi.org/10.1016/S0304-4149(98)00035-0},
     volume = {77},
     year = {1998}

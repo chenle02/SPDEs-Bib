@@ -18,7 +18,8 @@ beghin.orsingher:05:distribution
     mrreviewer = {Aim\'{e} Lachal},
     number = {6},
     pages = {1017--1040},
-    title = {The distribution of the local time for ``pseudoprocesses'' and its connection with fractional diffusion equations},
+    title = {The distribution of the local time for ``pseudoprocesses''
+   and its connection with fractional diffusion equations},
     url = {https://doi.org/10.1016/j.spa.2005.02.001},
     volume = {115},
     year = {2005}

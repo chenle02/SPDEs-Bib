@@ -18,7 +18,9 @@ shen:99:travelling
     mrreviewer = {Weiqing\ Xie},
     number = {1},
     pages = {1--54},
-    title = {Travelling waves in time almost periodic structures governed by bistable nonlinearities. {I}. {S}tability and uniqueness},
+    title = {Travelling waves in time almost periodic structures
+   governed by bistable nonlinearities. {I}. {S}tability and
+   uniqueness},
     url = {https://doi.org/10.1006/jdeq.1999.3651},
     volume = {159},
     year = {1999}

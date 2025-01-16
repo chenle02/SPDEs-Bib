@@ -18,7 +18,8 @@ da-prato.tubaro:00:self-adjointness
     mrreviewer = {Vladimir I. Bogachev},
     number = {1},
     pages = {131--145},
-    title = {Self-adjointness of some infinite-dimensional elliptic operators and application to stochastic quantization},
+    title = {Self-adjointness of some infinite-dimensional elliptic
+   operators and application to stochastic quantization},
     url = {https://doi.org/10.1007/PL00008739},
     volume = {118},
     year = {2000}

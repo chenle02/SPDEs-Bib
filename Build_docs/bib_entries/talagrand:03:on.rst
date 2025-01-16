@@ -10,7 +10,8 @@ talagrand:03:on
    @article{talagrand:03:on,
     author = {Talagrand, Michel},
     doi = {10.1016/j.crma.2003.09.001},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {82B44 (60E15 60K35)},

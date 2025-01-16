@@ -8,7 +8,8 @@ kertesz.horvath.ea:93:self-affine
 .. code-block:: bibtex
 
    @article{kertesz.horvath.ea:93:self-affine,
-    author = {Kert\'{e}sz, J\'{a}nos and Horv\'{a}th, Viktor k. and Weber, Ferenc},
+    author = {Kert\'{e}sz, J\'{a}nos and Horv\'{a}th, Viktor k. and
+   Weber, Ferenc},
     doi = {10.1142/S0218348X93000101},
     eprint = {https://doi.org/10.1142/S0218348X93000101},
     fjournal = {Fractals},

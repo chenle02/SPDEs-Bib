@@ -8,7 +8,8 @@ tuan.lesnic.ea:22:regularization
 .. code-block:: bibtex
 
    @article{tuan.lesnic.ea:22:regularization,
-    author = {Tuan, Nguyen Huy and Lesnic, Daniel and Thach, Tran Ngoc and Ngoc, Tran Bao},
+    author = {Tuan, Nguyen Huy and Lesnic, Daniel and Thach, Tran Ngoc
+   and Ngoc, Tran Bao},
     doi = {10.1515/jiip-2020-0013},
     fjournal = {Journal of Inverse and Ill-Posed Problems},
     issn = {0928-0219,1569-3945},
@@ -18,7 +19,8 @@ tuan.lesnic.ea:22:regularization
     mrreviewer = {Le\ Chen},
     number = {3},
     pages = {351--362},
-    title = {Regularization of the backward stochastic heat conduction problem},
+    title = {Regularization of the backward stochastic heat conduction
+   problem},
     url = {https://doi.org/10.1515/jiip-2020-0013},
     volume = {30},
     year = {2022}

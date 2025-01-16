@@ -18,7 +18,8 @@ dyson.lieb.ea:78:phase
     mrreviewer = {Derek\ W.\ Robinson},
     number = {4},
     pages = {335--383},
-    title = {Phase transitions in quantum spin systems with isotropic and nonisotropic interactions},
+    title = {Phase transitions in quantum spin systems with isotropic
+   and nonisotropic interactions},
     url = {https://doi.org/10.1007/BF01106729},
     volume = {18},
     year = {1978}

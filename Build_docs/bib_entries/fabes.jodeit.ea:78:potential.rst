@@ -18,7 +18,8 @@ fabes.jodeit.ea:78:potential
     mrreviewer = {G. Wildenhain},
     number = {3-4},
     pages = {165--186},
-    title = {Potential techniques for boundary value problems on {$C^{1}$}-domains},
+    title = {Potential techniques for boundary value problems on
+   {$C^{1}$}-domains},
     url = {https://doi.org/10.1007/BF02545747},
     volume = {141},
     year = {1978}

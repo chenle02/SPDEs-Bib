@@ -15,7 +15,8 @@ dudley:67:sizes
     mrnumber = {0220340},
     mrreviewer = {H. Heyer},
     pages = {290--330},
-    title = {The sizes of compact subsets of {H}ilbert space and continuity of {G}aussian processes},
+    title = {The sizes of compact subsets of {H}ilbert space and
+   continuity of {G}aussian processes},
     url = {https://doi.org/10.1016/0022-1236(67)90017-1},
     volume = {1},
     year = {1967}

@@ -17,7 +17,8 @@ iwata:87:infinite-dimensional
     mrnumber = {863723},
     number = {1},
     pages = {141--159},
-    title = {An infinite-dimensional stochastic differential equation with state space {$C({\bf R})$}},
+    title = {An infinite-dimensional stochastic differential equation
+   with state space {$C({\bf R})$}},
     url = {https://doi.org/10.1007/BF01845644},
     volume = {74},
     year = {1987}

@@ -8,7 +8,8 @@ shen.shen.ea:22:population
 .. code-block:: bibtex
 
    @article{shen.shen.ea:22:population,
-    author = {Shen, Wenxian and Shen, Zhongwei and Xue, Shuwen and Zhou, Dun},
+    author = {Shen, Wenxian and Shen, Zhongwei and Xue, Shuwen and Zhou,
+   Dun},
     doi = {10.1007/s00285-022-01728-0},
     fjournal = {Journal of Mathematical Biology},
     issn = {0303-6812,1432-1416},
@@ -17,7 +18,8 @@ shen.shen.ea:22:population
     mrnumber = {4392478},
     number = {4},
     pages = {Paper No. 30, 42},
-    title = {Population dynamics under climate change: persistence criterion and effects of fluctuations},
+    title = {Population dynamics under climate change: persistence
+   criterion and effects of fluctuations},
     url = {https://doi.org/10.1007/s00285-022-01728-0},
     volume = {84},
     year = {2022}

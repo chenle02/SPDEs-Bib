@@ -18,7 +18,8 @@ shieh.xiao:06:images
     mrreviewer = {Ren\'{e}\ L.\ Schilling},
     number = {1},
     pages = {37--60},
-    title = {Images of {G}aussian random fields: {S}alem sets and interior points},
+    title = {Images of {G}aussian random fields: {S}alem sets and
+   interior points},
     url = {https://doi.org/10.4064/sm176-1-3},
     volume = {176},
     year = {2006}

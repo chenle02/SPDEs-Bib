@@ -13,9 +13,11 @@ friedman:75:stochastic
     mrnumber = {0494490},
     mrreviewer = {D. Kannan},
     pages = {xiii+231},
-    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers], New York-London},
+    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers],
+   New York-London},
     series = {Probability and Mathematical Statistics, Vol. 28},
-    title = {Stochastic differential equations and applications. {V}ol. 1},
+    title = {Stochastic differential equations and applications. {V}ol.
+   1},
     year = {1975}
    }
 

@@ -17,7 +17,8 @@ cortazar.elgueta:91:unstability
     mrreviewer = {L. Hsiao},
     number = {2},
     pages = {149--155},
-    title = {Unstability of the steady solution of a nonlinear reaction-diffusion equation},
+    title = {Unstability of the steady solution of a nonlinear
+   reaction-diffusion equation},
     volume = {17},
     year = {1991}
    }

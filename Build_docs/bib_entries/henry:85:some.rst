@@ -18,7 +18,8 @@ henry:85:some
     mrreviewer = {Yu. E. Gliklikh},
     number = {2},
     pages = {165--205},
-    title = {Some infinite-dimensional {M}orse-{S}male systems defined by parabolic partial differential equations},
+    title = {Some infinite-dimensional {M}orse-{S}male systems defined
+   by parabolic partial differential equations},
     url = {https://doi.org/10.1016/0022-0396(85)90153-6},
     volume = {59},
     year = {1985}

@@ -17,7 +17,8 @@ shen.tsai:19:stochastic
     mrnumber = {3951443},
     number = {6},
     pages = {2685--2705},
-    title = {Stochastic telegraph equation limit for the stochastic six vertex model},
+    title = {Stochastic telegraph equation limit for the stochastic six
+   vertex model},
     url = {https://doi.org/10.1090/proc/14415},
     volume = {147},
     year = {2019}

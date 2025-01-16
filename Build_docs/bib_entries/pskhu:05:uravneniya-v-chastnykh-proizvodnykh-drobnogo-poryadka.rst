@@ -15,7 +15,8 @@ pskhu:05:uravneniya-v-chastnykh-proizvodnykh-drobnogo-poryadka
     mrreviewer = {Anatoly Kilbas},
     pages = {200},
     publisher = {``Nauka'', Moscow},
-    title = {{\cyr Uravneniya v chastnykh proizvodnykh drobnogo poryadka}},
+    title = {{\cyr Uravneniya v chastnykh proizvodnykh drobnogo
+   poryadka}},
     year = {2005}
    }
 

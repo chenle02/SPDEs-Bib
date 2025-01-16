@@ -13,7 +13,9 @@ podlubny:99:fractional
     mrclass = {26A33 (34K05)},
     mrnumber = {1658022},
     mrreviewer = {Anatoly Kilbas},
-    note = {An introduction to fractional derivatives, fractional differential equations, to methods of their solution and some of their applications},
+    note = {An introduction to fractional derivatives, fractional
+   differential equations, to methods of their solution and
+   some of their applications},
     pages = {xxiv+340},
     publisher = {Academic Press, Inc., San Diego, CA},
     series = {Mathematics in Science and Engineering},

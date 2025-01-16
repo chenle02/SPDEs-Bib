@@ -8,7 +8,8 @@ nualart.ruascanu.ea:02:differential
 .. code-block:: bibtex
 
    @article{nualart.ruascanu.ea:02:differential,
-    author = {Nualart, David and Ru{a}\c{s}canu, Aurel and Ru{a}\c{s}canu, Aurel},
+    author = {Nualart, David and Ru{a}\c{s}canu, Aurel and
+   Ru{a}\c{s}canu, Aurel},
     fjournal = {Universitat de Barcelona. Collectanea Mathematica},
     issn = {0010-0757},
     journal = {Collect. Math.},
@@ -17,7 +18,8 @@ nualart.ruascanu.ea:02:differential
     mrreviewer = {Rainer Buckdahn},
     number = {1},
     pages = {55--81},
-    title = {Differential equations driven by fractional {B}rownian motion},
+    title = {Differential equations driven by fractional {B}rownian
+   motion},
     volume = {53},
     year = {2002}
    }

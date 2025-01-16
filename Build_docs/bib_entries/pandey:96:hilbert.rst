@@ -17,7 +17,8 @@ pandey:96:hilbert
     pages = {xvi+262},
     publisher = {John Wiley \& Sons, Inc., New York},
     series = {Pure and Applied Mathematics (New York)},
-    title = {The {H}ilbert transform of {S}chwartz distributions and applications},
+    title = {The {H}ilbert transform of {S}chwartz distributions and
+   applications},
     year = {1996}
    }
 

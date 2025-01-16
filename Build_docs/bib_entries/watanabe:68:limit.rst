@@ -17,7 +17,8 @@ watanabe:68:limit
     mrnumber = {237008},
     mrreviewer = {P. E. Ney},
     pages = {141--167},
-    title = {A limit theorem of branching processes and continuous state branching processes},
+    title = {A limit theorem of branching processes and continuous
+   state branching processes},
     url = {https://doi.org/10.1215/kjm/1250524180},
     volume = {8},
     year = {1968}

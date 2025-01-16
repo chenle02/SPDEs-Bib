@@ -8,7 +8,8 @@ comets.quastel.ea:09:fluctuations
 .. code-block:: bibtex
 
    @article{comets.quastel.ea:09:fluctuations,
-    author = {Comets, Francis and Quastel, Jeremy and Ram\'{i}rez, Alejandro F.},
+    author = {Comets, Francis and Quastel, Jeremy and Ram\'{i}rez,
+   Alejandro F.},
     doi = {10.1090/S0002-9947-09-04889-2},
     fjournal = {Transactions of the American Mathematical Society},
     issn = {0002-9947},
@@ -18,7 +19,8 @@ comets.quastel.ea:09:fluctuations
     mrreviewer = {Nikita Y. Ratanov},
     number = {11},
     pages = {6165--6189},
-    title = {Fluctuations of the front in a one dimensional model of {$X+Y\to2X$}},
+    title = {Fluctuations of the front in a one dimensional model of
+   {$X+Y\to2X$}},
     url = {https://doi.org/10.1090/S0002-9947-09-04889-2},
     volume = {361},
     year = {2009}

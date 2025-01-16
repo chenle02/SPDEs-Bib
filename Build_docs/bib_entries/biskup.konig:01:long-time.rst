@@ -18,7 +18,8 @@ biskup.konig:01:long-time
     mrreviewer = {Peter Eichelsbacher},
     number = {2},
     pages = {636--682},
-    title = {Long-time tails in the parabolic {A}nderson model with bounded potential},
+    title = {Long-time tails in the parabolic {A}nderson model with
+   bounded potential},
     url = {https://doi.org/10.1214/aop/1008956688},
     volume = {29},
     year = {2001}

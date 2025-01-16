@@ -8,7 +8,8 @@ deuschel.giacomin.ea:05:scaling
 .. code-block:: bibtex
 
    @article{deuschel.giacomin.ea:05:scaling,
-    author = {Deuschel, Jean-Dominique and Giacomin, Giambattista and Zambotti, Lorenzo},
+    author = {Deuschel, Jean-Dominique and Giacomin, Giambattista and
+   Zambotti, Lorenzo},
     doi = {10.1007/s00440-004-0401-8},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051,1432-2064},
@@ -18,7 +19,8 @@ deuschel.giacomin.ea:05:scaling
     mrreviewer = {Peter\ Eichelsbacher},
     number = {4},
     pages = {471--500},
-    title = {Scaling limits of equilibrium wetting models in {$(1+1)$}-dimension},
+    title = {Scaling limits of equilibrium wetting models in
+   {$(1+1)$}-dimension},
     url = {https://doi.org/10.1007/s00440-004-0401-8},
     volume = {132},
     year = {2005}

@@ -17,7 +17,8 @@ marton:96:bounding
     mrnumber = {1404531},
     number = {2},
     pages = {857--866},
-    title = {Bounding {$\overline d$}-distance by informational divergence: a method to prove measure concentration},
+    title = {Bounding {$\overline d$}-distance by informational
+   divergence: a method to prove measure concentration},
     url = {https://doi.org/10.1214/aop/1039639365},
     volume = {24},
     year = {1996}

@@ -16,7 +16,8 @@ santalla.ferreira:18:eden
     numpages = {7},
     pages = {022405},
     publisher = {American Physical Society},
-    title = {Eden model with nonlocal growth rules and kinetic roughening in biological systems},
+    title = {Eden model with nonlocal growth rules and kinetic
+   roughening in biological systems},
     url = {https://link.aps.org/doi/10.1103/PhysRevE.98.022405},
     volume = {98},
     year = {2018}

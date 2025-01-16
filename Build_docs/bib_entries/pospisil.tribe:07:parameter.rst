@@ -18,7 +18,8 @@ pospisil.tribe:07:parameter
     mrreviewer = {Isamu D\^{o}ku},
     number = {3},
     pages = {593--611},
-    title = {Parameter estimates and exact variations for stochastic heat equations driven by space-time white noise},
+    title = {Parameter estimates and exact variations for stochastic
+   heat equations driven by space-time white noise},
     url = {https://doi.org/10.1080/07362990701282849},
     volume = {25},
     year = {2007}

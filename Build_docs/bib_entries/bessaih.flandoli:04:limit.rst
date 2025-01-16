@@ -17,7 +17,8 @@ bessaih.flandoli:04:limit
     mrnumber = {2040895},
     number = {2},
     pages = {189--215},
-    title = {Limit behaviour of a dense collection of vortex filaments},
+    title = {Limit behaviour of a dense collection of vortex
+   filaments},
     url = {https://doi.org/10.1142/S0218202504003209},
     volume = {14},
     year = {2004}

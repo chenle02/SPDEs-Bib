@@ -18,7 +18,8 @@ blunck.weis:01:operator
     mrreviewer = {Valentina Casarino},
     number = {1},
     pages = {35--54},
-    title = {Operator theoretic properties of semigroups in terms of their generators},
+    title = {Operator theoretic properties of semigroups in terms of
+   their generators},
     url = {https://doi.org/10.4064/sm146-1-3},
     volume = {146},
     year = {2001}

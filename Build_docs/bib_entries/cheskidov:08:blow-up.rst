@@ -18,7 +18,8 @@ cheskidov:08:blow-up
     mrreviewer = {Woodford W. Zachary},
     number = {10},
     pages = {5101--5120},
-    title = {Blow-up in finite time for the dyadic model of the {N}avier-{S}tokes equations},
+    title = {Blow-up in finite time for the dyadic model of the
+   {N}avier-{S}tokes equations},
     url = {https://doi.org/10.1090/S0002-9947-08-04494-2},
     volume = {360},
     year = {2008}

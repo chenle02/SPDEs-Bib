@@ -18,7 +18,8 @@ nourdin.taqqu:14:central
     mrreviewer = {S\"{o}ren M\"{o}ller},
     number = {1},
     pages = {220--248},
-    title = {Central and non-central limit theorems in a free probability setting},
+    title = {Central and non-central limit theorems in a free
+   probability setting},
     url = {https://doi.org/10.1007/s10959-012-0443-2},
     volume = {27},
     year = {2014}

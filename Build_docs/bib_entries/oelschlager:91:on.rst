@@ -18,7 +18,8 @@ oelschlager:91:on
     mrreviewer = {Giuseppe\ Toscani},
     number = {4},
     pages = {297--310},
-    title = {On the connection between {H}amiltonian many-particle systems and the hydrodynamical equations},
+    title = {On the connection between {H}amiltonian many-particle
+   systems and the hydrodynamical equations},
     url = {https://doi.org/10.1007/BF00375277},
     volume = {115},
     year = {1991}

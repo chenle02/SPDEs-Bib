@@ -8,7 +8,8 @@ corcuera.nualart.ea:07:functional
 .. code-block:: bibtex
 
    @article{corcuera.nualart.ea:07:functional,
-    author = {Corcuera, Jos\'{e} Manuel and Nualart, David and Woerner, Jeannette H. C.},
+    author = {Corcuera, Jos\'{e} Manuel and Nualart, David and Woerner,
+   Jeannette H. C.},
     doi = {10.1080/07362990601052201},
     fjournal = {Stochastic Analysis and Applications},
     issn = {0736-2994},
@@ -18,7 +19,8 @@ corcuera.nualart.ea:07:functional
     mrreviewer = {Stilian A. Stoev},
     number = {1},
     pages = {169--186},
-    title = {A functional central limit theorem for the realized power variation of integrated stable processes},
+    title = {A functional central limit theorem for the realized power
+   variation of integrated stable processes},
     url = {https://doi.org/10.1080/07362990601052201},
     volume = {25},
     year = {2007}

@@ -18,7 +18,8 @@ bourgain:80:characterization
     mrreviewer = {R.\ W.\ Cross},
     number = {1-2},
     pages = {48--53},
-    title = {A characterization of non-{D}unford-{P}ettis operators on {$L\sp{1}$}},
+    title = {A characterization of non-{D}unford-{P}ettis operators on
+   {$L\sp{1}$}},
     url = {https://doi.org/10.1007/BF02762867},
     volume = {37},
     year = {1980}

@@ -17,7 +17,8 @@ gartner.konig.ea:00:almost
     mrnumber = {1808375},
     number = {4},
     pages = {547--573},
-    title = {Almost sure asymptotics for the continuous parabolic {A}nderson model},
+    title = {Almost sure asymptotics for the continuous parabolic
+   {A}nderson model},
     url = {https://doi.org/10.1007/PL00008754},
     volume = {118},
     year = {2000}

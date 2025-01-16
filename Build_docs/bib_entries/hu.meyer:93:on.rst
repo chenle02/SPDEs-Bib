@@ -15,7 +15,8 @@ hu.meyer:93:on
     mrreviewer = {Josep Lluis Sol\'{e} i Clivill\'{e}s},
     pages = {141--147},
     publisher = {Springer, New York},
-    title = {On the approximation of multiple {S}tratonovich integrals},
+    title = {On the approximation of multiple {S}tratonovich
+   integrals},
     year = {1993}
    }
 

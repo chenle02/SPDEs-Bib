@@ -17,7 +17,8 @@ lacoin:14:non-coincidence
     mrnumber = {3230008},
     number = {3-4},
     pages = {777--808},
-    title = {Non-coincidence of quenched and annealed connective constants on the supercritical planar percolation cluster},
+    title = {Non-coincidence of quenched and annealed connective
+   constants on the supercritical planar percolation cluster},
     url = {https://doi.org/10.1007/s00440-013-0520-1},
     volume = {159},
     year = {2014}

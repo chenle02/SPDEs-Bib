@@ -15,7 +15,8 @@ brunet.derrida:00:ground
     journal = {Phys. A: Stat. Mech. Appl.},
     number = {1},
     pages = {398--407},
-    title = {Ground state energy of a non-integer number of particles with \ensuremath{\delta} attractive interactions},
+    title = {Ground state energy of a non-integer number of particles
+   with \ensuremath{\delta} attractive interactions},
     url = {https://www.sciencedirect.com/science/article/pii/S0378437199005269},
     volume = {279},
     year = {2000}

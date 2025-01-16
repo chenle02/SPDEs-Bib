@@ -17,7 +17,8 @@ zambotti:21:brief
     mrnumber = {4182330},
     number = {1},
     pages = {471--487},
-    title = {A brief and personal history of stochastic partial differential equations},
+    title = {A brief and personal history of stochastic partial
+   differential equations},
     url = {https://doi.org/10.3934/dcds.2020264},
     volume = {41},
     year = {2021}

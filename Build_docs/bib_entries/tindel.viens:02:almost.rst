@@ -17,7 +17,8 @@ tindel.viens:02:almost
     mrnumber = {1919608},
     mrreviewer = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
     pages = {53--74},
-    title = {Almost sure exponential behaviour for a parabolic {SPDE} on a manifold},
+    title = {Almost sure exponential behaviour for a parabolic {SPDE}
+   on a manifold},
     url = {https://doi.org/10.1016/S0304-4149(02)00102-3},
     volume = {100},
     year = {2002}

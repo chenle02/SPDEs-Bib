@@ -16,7 +16,8 @@ caputo:67:linear
     month = {11},
     number = {5},
     pages = {529--539},
-    title = {Linear Models of Dissipation whose $Q$ is almost Frequency Independent--{II}},
+    title = {Linear Models of Dissipation whose $Q$ is almost Frequency
+   Independent--{II}},
     url = {https://doi.org/10.1111/j.1365-246X.1967.tb02303.x},
     volume = {13},
     year = {1967}

@@ -16,7 +16,8 @@ khoshnevisan.xiao:04:additive
     pages = {151--170},
     publisher = {Birkh\"{a}user, Basel},
     series = {Progr. Probab.},
-    title = {Additive {L}\'{e}vy processes: capacity and {H}ausdorff dimension},
+    title = {Additive {L}\'{e}vy processes: capacity and {H}ausdorff
+   dimension},
     volume = {57},
     year = {2004}
    }

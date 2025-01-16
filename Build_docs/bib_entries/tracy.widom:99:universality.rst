@@ -15,7 +15,8 @@ tracy.widom:99:universality
     pages = {230--239},
     publisher = {World Sci. Publ., River Edge, NJ},
     series = {Ser. Adv. Statist. Mech.},
-    title = {Universality of the distribution functions of random matrix theory},
+    title = {Universality of the distribution functions of random
+   matrix theory},
     volume = {14},
     year = {1999}
    }

@@ -18,7 +18,9 @@ oelschlager:89:on
     mrreviewer = {Ralf\ Manthey},
     number = {4},
     pages = {565--586},
-    title = {On the derivation of reaction-diffusion equations as limit dynamics of systems of moderately interacting stochastic processes},
+    title = {On the derivation of reaction-diffusion equations as limit
+   dynamics of systems of moderately interacting stochastic
+   processes},
     url = {https://doi.org/10.1007/BF00341284},
     volume = {82},
     year = {1989}

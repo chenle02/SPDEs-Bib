@@ -18,7 +18,8 @@ fang.zhang:05:study
     mrreviewer = {Josef Teichmann},
     number = {3},
     pages = {356--390},
-    title = {A study of a class of stochastic differential equations with non-{L}ipschitzian coefficients},
+    title = {A study of a class of stochastic differential equations
+   with non-{L}ipschitzian coefficients},
     url = {https://doi.org/10.1007/s00440-004-0398-z},
     volume = {132},
     year = {2005}

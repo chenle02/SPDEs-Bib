@@ -17,7 +17,8 @@ eldan.koehler.ea:22:spectral
     mrnumber = {4408509},
     number = {3-4},
     pages = {1035--1051},
-    title = {A spectral condition for spectral gap: fast mixing in high-temperature {I}sing models},
+    title = {A spectral condition for spectral gap: fast mixing in
+   high-temperature {I}sing models},
     url = {https://doi.org/10.1007/s00440-021-01085-x},
     volume = {182},
     year = {2022}

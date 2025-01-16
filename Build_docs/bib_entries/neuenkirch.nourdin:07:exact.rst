@@ -18,7 +18,9 @@ neuenkirch.nourdin:07:exact
     mrreviewer = {Thomas D. Simon},
     number = {4},
     pages = {871--899},
-    title = {Exact rate of convergence of some approximation schemes associated to {SDE}s driven by a fractional {B}rownian motion},
+    title = {Exact rate of convergence of some approximation schemes
+   associated to {SDE}s driven by a fractional {B}rownian
+   motion},
     url = {https://doi.org/10.1007/s10959-007-0083-0},
     volume = {20},
     year = {2007}

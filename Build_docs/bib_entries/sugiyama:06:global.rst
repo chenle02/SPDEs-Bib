@@ -9,14 +9,17 @@ sugiyama:06:global
 
    @article{sugiyama:06:global,
     author = {Sugiyama, Yoshie},
-    fjournal = {Differential and Integral Equations. An International Journal for Theory \& Applications},
+    fjournal = {Differential and Integral Equations. An International
+   Journal for Theory \& Applications},
     issn = {0893-4983},
     journal = {Differential Integral Equations},
     mrclass = {35K45 (35B40 35K57 92C17)},
     mrnumber = {2263432},
     number = {8},
     pages = {841--876},
-    title = {Global existence in sub-critical cases and finite time blow-up in super-critical cases to degenerate {K}eller-{S}egel systems},
+    title = {Global existence in sub-critical cases and finite time
+   blow-up in super-critical cases to degenerate
+   {K}eller-{S}egel systems},
     volume = {19},
     year = {2006}
    }

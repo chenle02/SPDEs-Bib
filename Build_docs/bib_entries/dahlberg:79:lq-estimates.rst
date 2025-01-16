@@ -18,7 +18,8 @@ dahlberg:79:lq-estimates
     mrreviewer = {Jang Mei G. Wu},
     number = {1},
     pages = {149--170},
-    title = {{$L^{q}$}-estimates for {G}reen potentials in {L}ipschitz domains},
+    title = {{$L^{q}$}-estimates for {G}reen potentials in {L}ipschitz
+   domains},
     url = {https://doi.org/10.7146/math.scand.a-11800},
     volume = {44},
     year = {1979}

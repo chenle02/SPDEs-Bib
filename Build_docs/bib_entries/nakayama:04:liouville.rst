@@ -10,7 +10,8 @@ nakayama:04:liouville
    @article{nakayama:04:liouville,
     author = {Nakayama, Yu},
     doi = {10.1142/S0217751X04019500},
-    fjournal = {International Journal of Modern Physics A. Particles and Fields. Gravitation. Cosmology},
+    fjournal = {International Journal of Modern Physics A. Particles and
+   Fields. Gravitation. Cosmology},
     issn = {0217-751X},
     journal = {Internat. J. Modern Phys. A},
     mrclass = {81T40 (81-02 81T30)},

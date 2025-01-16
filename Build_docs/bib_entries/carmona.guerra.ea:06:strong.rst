@@ -8,7 +8,8 @@ carmona.guerra.ea:06:strong
 .. code-block:: bibtex
 
    @article{carmona.guerra.ea:06:strong,
-    author = {Carmona, Philippe and Guerra, Francesco and Hu, Yueyun and Menjane, Olivier},
+    author = {Carmona, Philippe and Guerra, Francesco and Hu, Yueyun and
+   Menjane, Olivier},
     doi = {10.1007/s10959-006-0010-9},
     fjournal = {Journal of Theoretical Probability},
     issn = {0894-9840},
@@ -18,7 +19,8 @@ carmona.guerra.ea:06:strong
     mrreviewer = {Marina Vachkovskaia},
     number = {1},
     pages = {134--151},
-    title = {Strong disorder for a certain class of directed polymers in a random environment},
+    title = {Strong disorder for a certain class of directed polymers
+   in a random environment},
     url = {https://doi.org/10.1007/s10959-006-0010-9},
     volume = {19},
     year = {2006}

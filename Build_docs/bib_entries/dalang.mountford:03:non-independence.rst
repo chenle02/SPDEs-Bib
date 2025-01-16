@@ -18,7 +18,8 @@ dalang.mountford:03:non-independence
     mrreviewer = {Anne Estrade},
     number = {3},
     pages = {967--985},
-    title = {Non-independence of excursions of the {B}rownian sheet and of additive {B}rownian motion},
+    title = {Non-independence of excursions of the {B}rownian sheet and
+   of additive {B}rownian motion},
     url = {https://doi.org/10.1090/S0002-9947-02-03138-0},
     volume = {355},
     year = {2003}

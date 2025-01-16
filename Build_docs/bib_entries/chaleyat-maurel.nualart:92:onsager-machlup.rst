@@ -18,7 +18,8 @@ chaleyat-maurel.nualart:92:onsager-machlup
     mrreviewer = {L. A. Shepp},
     number = {2},
     pages = {247--270},
-    title = {The {O}nsager-{M}achlup functional for a class of anticipating processes},
+    title = {The {O}nsager-{M}achlup functional for a class of
+   anticipating processes},
     url = {https://doi.org/10.1007/BF01192445},
     volume = {94},
     year = {1992}

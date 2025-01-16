@@ -9,7 +9,8 @@ galaktionov:82:conditions
 
    @article{galaktionov:82:conditions,
     author = {Galaktionov, V. A.},
-    fjournal = {Akademiya Nauk SSSR. Zhurnal Vychislitel{\cprime}nou{i} Matematiki i Matematicheskou{i} Fiziki},
+    fjournal = {Akademiya Nauk SSSR. Zhurnal Vychislitel{\cprime}nou{i}
+   Matematiki i Matematicheskou{i} Fiziki},
     issn = {0044-4669},
     journal = {Zh. Vychisl. Mat. i Mat. Fiz.},
     mrclass = {35K60},
@@ -17,7 +18,8 @@ galaktionov:82:conditions
     mrreviewer = {V. \v{D}urikovi\v{c}},
     number = {2},
     pages = {322--338, 492},
-    title = {Conditions for the absence of global solutions of a class of quasilinear parabolic equations},
+    title = {Conditions for the absence of global solutions of a class
+   of quasilinear parabolic equations},
     volume = {22},
     year = {1982}
    }

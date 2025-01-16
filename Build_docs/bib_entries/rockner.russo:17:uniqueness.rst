@@ -18,7 +18,8 @@ rockner.russo:17:uniqueness
     mrreviewer = {Le\ Chen},
     number = {3},
     pages = {1049--1062},
-    title = {Uniqueness for a class of stochastic {F}okker-{P}lanck and porous media equations},
+    title = {Uniqueness for a class of stochastic {F}okker-{P}lanck and
+   porous media equations},
     url = {https://doi.org/10.1007/s00028-016-0372-0},
     volume = {17},
     year = {2017}

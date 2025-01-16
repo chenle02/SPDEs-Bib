@@ -9,7 +9,8 @@ zabczyk:89:symmetric
 
    @incollection{zabczyk:89:symmetric,
     author = {Zabczyk, J.},
-    booktitle = {Stochastic partial differential equations and applications, {II} ({T}rento, 1988)},
+    booktitle = {Stochastic partial differential equations and
+   applications, {II} ({T}rento, 1988)},
     doi = {10.1007/BFb0083952},
     mrclass = {60H10 (60F10 60H15 60J25)},
     mrnumber = {1019609},

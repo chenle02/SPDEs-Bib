@@ -18,7 +18,9 @@ cerrai.glatt-holtz:20:on
     mrreviewer = {Giovanni Zanco},
     number = {8},
     pages = {108421, 38},
-    title = {On the convergence of stationary solutions in the {S}moluchowski-{K}ramers approximation of infinite dimensional systems},
+    title = {On the convergence of stationary solutions in the
+   {S}moluchowski-{K}ramers approximation of infinite
+   dimensional systems},
     url = {https://doi.org/10.1016/j.jfa.2019.108421},
     volume = {278},
     year = {2020}

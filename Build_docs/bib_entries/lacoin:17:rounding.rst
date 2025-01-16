@@ -17,7 +17,8 @@ lacoin:17:rounding
     mrnumber = {3655857},
     number = {2},
     pages = {917--943},
-    title = {The rounding of the phase transition for disordered pinning with stretched exponential tails},
+    title = {The rounding of the phase transition for disordered
+   pinning with stretched exponential tails},
     url = {https://doi.org/10.1214/16-AAP1220},
     volume = {27},
     year = {2017}

@@ -18,7 +18,8 @@ deift.gioev:07:universality
     mrreviewer = {Du ang\ V\~u\ Giang},
     number = {6},
     pages = {867--910},
-    title = {Universality at the edge of the spectrum for unitary, orthogonal, and symplectic ensembles of random matrices},
+    title = {Universality at the edge of the spectrum for unitary,
+   orthogonal, and symplectic ensembles of random matrices},
     url = {https://doi.org/10.1002/cpa.20164},
     volume = {60},
     year = {2007}

@@ -18,7 +18,8 @@ li:92:lim
     mrreviewer = {M.\ Cs\"{o}rg\H{o}},
     number = {1},
     pages = {69--90},
-    title = {Lim inf results for the {W}iener process and its increments under the {$L_2$}-norm},
+    title = {Lim inf results for the {W}iener process and its
+   increments under the {$L_2$}-norm},
     url = {https://doi.org/10.1007/BF01205237},
     volume = {92},
     year = {1992}

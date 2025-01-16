@@ -15,7 +15,8 @@ revuz.yor:94:continuous
     mrnumber = {1303781},
     pages = {xii+560},
     publisher = {Springer-Verlag, Berlin},
-    series = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+    series = {Grundlehren der mathematischen Wissenschaften [Fundamental
+   Principles of Mathematical Sciences]},
     title = {Continuous martingales and {B}rownian motion},
     volume = {293},
     year = {1994}

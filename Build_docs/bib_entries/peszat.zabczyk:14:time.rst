@@ -18,7 +18,8 @@ peszat.zabczyk:14:time
     mrreviewer = {Anna Karczewska},
     number = {2},
     pages = {676--683},
-    title = {Time regularity for stochastic {V}olterra equations by the dilation theorem},
+    title = {Time regularity for stochastic {V}olterra equations by the
+   dilation theorem},
     url = {https://doi.org/10.1016/j.jmaa.2013.07.055},
     volume = {409},
     year = {2014}

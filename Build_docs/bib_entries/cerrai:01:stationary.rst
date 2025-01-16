@@ -18,7 +18,9 @@ cerrai:01:stationary
     mrreviewer = {Vassili N. Kolokol{\cprime}tsov},
     number = {3},
     pages = {824--852},
-    title = {Stationary {H}amilton-{J}acobi equations in {H}ilbert spaces and applications to a stochastic optimal control problem},
+    title = {Stationary {H}amilton-{J}acobi equations in {H}ilbert
+   spaces and applications to a stochastic optimal control
+   problem},
     url = {https://doi.org/10.1137/S0363012999359949},
     volume = {40},
     year = {2001}

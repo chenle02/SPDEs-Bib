@@ -15,7 +15,8 @@ hetzer.nguyen.ea:10:effects
     mrclass = {92D25 (35K51 35K91)},
     mrnumber = {2740601},
     pages = {No. 160, 17},
-    title = {Effects of small spatial variation of the reproduction rate in a two species competition model},
+    title = {Effects of small spatial variation of the reproduction
+   rate in a two species competition model},
     year = {2010}
    }
 

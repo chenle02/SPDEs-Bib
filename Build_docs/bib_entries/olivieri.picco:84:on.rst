@@ -17,7 +17,8 @@ olivieri.picco:84:on
     mrreviewer = {V. P. Kalashnikov},
     number = {1},
     pages = {125--144},
-    title = {On the existence of thermodynamics for the random energy model},
+    title = {On the existence of thermodynamics for the random energy
+   model},
     url = {http://projecteuclid.org/euclid.cmp/1103941722},
     volume = {96},
     year = {1984}

@@ -8,7 +8,8 @@ arguin.bovier.ea:13:extremal
 .. code-block:: bibtex
 
    @article{arguin.bovier.ea:13:extremal,
-    author = {Arguin, Louis-Pierre and Bovier, Anton and Kistler, Nicola},
+    author = {Arguin, Louis-Pierre and Bovier, Anton and Kistler,
+   Nicola},
     doi = {10.1007/s00440-012-0464-x},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},

@@ -17,7 +17,8 @@ kim:19:on
     mrnumber = {3958428},
     number = {6},
     pages = {2207--2227},
-    title = {On the large-scale structure of the tall peaks for stochastic heat equations with fractional {L}aplacian},
+    title = {On the large-scale structure of the tall peaks for
+   stochastic heat equations with fractional {L}aplacian},
     url = {https://doi.org/10.1016/j.spa.2018.07.006},
     volume = {129},
     year = {2019}

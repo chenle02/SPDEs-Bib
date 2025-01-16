@@ -8,7 +8,8 @@ barbato.bianchi.ea:13:dyadic
 .. code-block:: bibtex
 
    @article{barbato.bianchi.ea:13:dyadic,
-    author = {Barbato, David and Bianchi, Luigi Amedeo and Flandoli, Franco and Morandin, Francesco},
+    author = {Barbato, David and Bianchi, Luigi Amedeo and Flandoli,
+   Franco and Morandin, Francesco},
     doi = {10.1063/1.4792488},
     fjournal = {Journal of Mathematical Physics},
     issn = {0022-2488},

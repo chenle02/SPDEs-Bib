@@ -18,7 +18,8 @@ baldi.roynette:92:some
     mrreviewer = {Endre Cs\'{a}ki},
     number = {4},
     pages = {457--484},
-    title = {Some exact equivalents for the {B}rownian motion in {H}\"{o}lder norm},
+    title = {Some exact equivalents for the {B}rownian motion in
+   {H}\"{o}lder norm},
     url = {https://doi.org/10.1007/BF01192717},
     volume = {93},
     year = {1992}

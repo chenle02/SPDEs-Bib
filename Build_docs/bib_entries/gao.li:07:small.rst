@@ -18,7 +18,8 @@ gao.li:07:small
     mrreviewer = {Isamu\ D\^{o}ku},
     number = {3},
     pages = {1339--1350},
-    title = {Small ball probabilities for the {S}lepian {G}aussian fields},
+    title = {Small ball probabilities for the {S}lepian {G}aussian
+   fields},
     url = {https://doi.org/10.1090/S0002-9947-06-03963-8},
     volume = {359},
     year = {2007}

@@ -18,7 +18,8 @@ onatski:08:tracy-widom
     mrreviewer = {Alexander Roitershtein},
     number = {2},
     pages = {470--490},
-    title = {The {T}racy-{W}idom limit for the largest eigenvalues of singular complex {W}ishart matrices},
+    title = {The {T}racy-{W}idom limit for the largest eigenvalues of
+   singular complex {W}ishart matrices},
     url = {https://doi.org/10.1214/07-AAP454},
     volume = {18},
     year = {2008}

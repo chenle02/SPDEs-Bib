@@ -8,9 +8,11 @@ nourdin.peccati.ea:20:sojourn
 .. code-block:: bibtex
 
    @article{nourdin.peccati.ea:20:sojourn,
-    author = {Nourdin, Ivan and Peccati, Giovanni and Seuret, St\'{e}phane},
+    author = {Nourdin, Ivan and Peccati, Giovanni and Seuret,
+   St\'{e}phane},
     doi = {10.3150/19-BEJ1105},
-    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for
+   Mathematical Statistics and Probability},
     issn = {1350-7265},
     journal = {Bernoulli},
     mrclass = {60G22 (28A80)},

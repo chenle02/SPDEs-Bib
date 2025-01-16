@@ -18,7 +18,8 @@ mckean:75:application
     mrreviewer = {Richard S. Ellis},
     number = {3},
     pages = {323--331},
-    title = {Application of {B}rownian motion to the equation of {K}olmogorov-{P}etrovskii-{P}iskunov},
+    title = {Application of {B}rownian motion to the equation of
+   {K}olmogorov-{P}etrovskii-{P}iskunov},
     url = {https://doi.org/10.1002/cpa.3160280302},
     volume = {28},
     year = {1975}

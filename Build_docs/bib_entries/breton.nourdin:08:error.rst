@@ -16,7 +16,8 @@ breton.nourdin:08:error
     mrnumber = {2447835},
     mrreviewer = {Jason R. Swanson},
     pages = {482--493},
-    title = {Error bounds on the non-normal approximation of {H}ermite power variations of fractional {B}rownian motion},
+    title = {Error bounds on the non-normal approximation of {H}ermite
+   power variations of fractional {B}rownian motion},
     url = {https://doi.org/10.1214/ECP.v13-1415},
     volume = {13},
     year = {2008}

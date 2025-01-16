@@ -18,7 +18,9 @@ loh.sun.ea:21:on
     mrreviewer = {A. Ya. Olenko},
     number = {6},
     pages = {3127--3152},
-    title = {On fixed-domain asymptotics, parameter estimation and isotropic {G}aussian random fields with {M}at\'{e}rn covariance functions},
+    title = {On fixed-domain asymptotics, parameter estimation and
+   isotropic {G}aussian random fields with {M}at\'{e}rn
+   covariance functions},
     url = {https://doi.org/10.1214/21-aos2077},
     volume = {49},
     year = {2021}

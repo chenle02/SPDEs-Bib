@@ -18,7 +18,8 @@ deift.park:11:long-time
     mrreviewer = {Olivier\ J.\ Goubet},
     number = {24},
     pages = {5505--5624},
-    title = {Long-time asymptotics for solutions of the {NLS} equation with a delta potential and even initial data},
+    title = {Long-time asymptotics for solutions of the {NLS} equation
+   with a delta potential and even initial data},
     url = {https://doi.org/10.1007/s11005-010-0458-5},
     year = {2011}
    }

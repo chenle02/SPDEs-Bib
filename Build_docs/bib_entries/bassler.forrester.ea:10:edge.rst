@@ -18,7 +18,8 @@ bassler.forrester.ea:10:edge
     mrreviewer = {Antonio Auffinger},
     number = {12},
     pages = {123305, 16},
-    title = {Edge effects in some perturbations of the {G}aussian unitary ensemble},
+    title = {Edge effects in some perturbations of the {G}aussian
+   unitary ensemble},
     url = {https://doi.org/10.1063/1.3521288},
     volume = {51},
     year = {2010}

@@ -17,7 +17,8 @@ buckdahn.malliavin.ea:97:multidimensional
     mrnumber = {1489184},
     number = {1-2},
     pages = {117--145},
-    title = {Multidimensional linear stochastic differential equations in the {S}korohod sense},
+    title = {Multidimensional linear stochastic differential equations
+   in the {S}korohod sense},
     url = {https://doi.org/10.1080/17442509708834130},
     volume = {62},
     year = {1997}

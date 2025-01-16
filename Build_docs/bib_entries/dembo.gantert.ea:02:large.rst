@@ -8,7 +8,8 @@ dembo.gantert.ea:02:large
 .. code-block:: bibtex
 
    @article{dembo.gantert.ea:02:large,
-    author = {Dembo, Amir and Gantert, Nina and Peres, Yuval and Zeitouni, Ofer},
+    author = {Dembo, Amir and Gantert, Nina and Peres, Yuval and
+   Zeitouni, Ofer},
     doi = {10.1007/s004400100162},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},
@@ -18,7 +19,8 @@ dembo.gantert.ea:02:large
     mrreviewer = {Boualem Djehiche},
     number = {2},
     pages = {241--288},
-    title = {Large deviations for random walks on {G}alton-{W}atson trees: averaging and uncertainty},
+    title = {Large deviations for random walks on {G}alton-{W}atson
+   trees: averaging and uncertainty},
     url = {https://doi.org/10.1007/s004400100162},
     volume = {122},
     year = {2002}

@@ -8,7 +8,8 @@ brzezniak.komorowski.ea:22:ergodicity
 .. code-block:: bibtex
 
    @article{brzezniak.komorowski.ea:22:ergodicity,
-    author = {Brze\'{z}niak, Zdzis{\l}aw and Komorowski, Tomasz and Peszat, Szymon},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Komorowski, Tomasz and
+   Peszat, Szymon},
     doi = {10.1214/21-ecp443},
     fjournal = {Electronic Communications in Probability},
     issn = {1083-589X},
@@ -17,7 +18,8 @@ brzezniak.komorowski.ea:22:ergodicity
     mrnumber = {4368698},
     mrreviewer = {Qi\ L\"{u}},
     pages = {Paper No. 4, 10},
-    title = {Ergodicity for stochastic equations of {N}avier-{S}tokes type},
+    title = {Ergodicity for stochastic equations of {N}avier-{S}tokes
+   type},
     url = {https://doi.org/10.1214/21-ecp443},
     volume = {27},
     year = {2022}

@@ -17,7 +17,8 @@ negreanu.tello:19:global
     mrnumber = {3926158},
     number = {2},
     pages = {1116--1131},
-    title = {Global existence and asymptotic behavior of solutions to a predator-prey chemotaxis system with two chemicals},
+    title = {Global existence and asymptotic behavior of solutions to a
+   predator-prey chemotaxis system with two chemicals},
     url = {https://doi.org/10.1016/j.jmaa.2019.02.007},
     volume = {474},
     year = {2019}

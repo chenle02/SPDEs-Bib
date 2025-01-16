@@ -18,7 +18,8 @@ hsu.ouyang:09:quasi-invariance
     mrreviewer = {Maria Gordina},
     number = {5},
     pages = {1379--1395},
-    title = {Quasi-invariance of the {W}iener measure on the path space over a complete {R}iemannian manifold},
+    title = {Quasi-invariance of the {W}iener measure on the path space
+   over a complete {R}iemannian manifold},
     url = {https://doi.org/10.1016/j.jfa.2009.05.017},
     volume = {257},
     year = {2009}

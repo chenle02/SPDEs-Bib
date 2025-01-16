@@ -17,7 +17,8 @@ bourgain.kahane:10:sur
     mrreviewer = {P.\ L.\ Duren},
     number = {4},
     pages = {1201--1214},
-    title = {Sur les s\'{e}ries de {F}ourier des fonctions continues unimodulaires},
+    title = {Sur les s\'{e}ries de {F}ourier des fonctions continues
+   unimodulaires},
     url = {http://aif.cedram.org/item?id=AIF_2010__60_4_1201_0},
     volume = {60},
     year = {2010}

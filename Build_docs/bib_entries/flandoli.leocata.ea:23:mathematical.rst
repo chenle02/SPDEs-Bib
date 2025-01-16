@@ -16,7 +16,8 @@ flandoli.leocata.ea:23:mathematical
     mrclass = {92C32},
     mrnumber = {4544112},
     pages = {Paper No. 111432, 12},
-    title = {The mathematical modeling of cancer growth and angiogenesis by an individual based interacting system},
+    title = {The mathematical modeling of cancer growth and
+   angiogenesis by an individual based interacting system},
     url = {https://doi.org/10.1016/j.jtbi.2023.111432},
     volume = {562},
     year = {2023}

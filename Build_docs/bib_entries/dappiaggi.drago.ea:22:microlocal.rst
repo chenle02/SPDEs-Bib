@@ -8,7 +8,8 @@ dappiaggi.drago.ea:22:microlocal
 .. code-block:: bibtex
 
    @article{dappiaggi.drago.ea:22:microlocal,
-    author = {Dappiaggi, Claudio and Drago, Nicol\`o and Rinaldi, Paolo and Zambotti, Lorenzo},
+    author = {Dappiaggi, Claudio and Drago, Nicol\`o and Rinaldi, Paolo
+   and Zambotti, Lorenzo},
     doi = {10.1142/S0219199721500759},
     fjournal = {Communications in Contemporary Mathematics},
     issn = {0219-1997,1793-6683},
@@ -18,7 +19,8 @@ dappiaggi.drago.ea:22:microlocal
     mrreviewer = {Michael\ D\"{u}tsch},
     number = {7},
     pages = {Paper No. 2150075, 74},
-    title = {A microlocal approach to renormalization in stochastic {PDE}s},
+    title = {A microlocal approach to renormalization in stochastic
+   {PDE}s},
     url = {https://doi.org/10.1142/S0219199721500759},
     volume = {24},
     year = {2022}

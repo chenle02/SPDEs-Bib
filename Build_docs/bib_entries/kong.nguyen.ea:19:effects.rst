@@ -17,7 +17,9 @@ kong.nguyen.ea:19:effects
     mrnumber = {3927414},
     number = {4},
     pages = {1613--1636},
-    title = {Effects of localized spatial variations on the uniform persistence and spreading speeds of time periodic two species competition systems},
+    title = {Effects of localized spatial variations on the uniform
+   persistence and spreading speeds of time periodic two
+   species competition systems},
     url = {https://doi.org/10.3934/cpaa.2019077},
     volume = {18},
     year = {2019}

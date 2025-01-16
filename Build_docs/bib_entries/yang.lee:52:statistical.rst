@@ -16,7 +16,8 @@ yang.lee:52:statistical
     mrnumber = {53028},
     mrreviewer = {L. Van Hove},
     pages = {404--409},
-    title = {Statistical theory of equations of state and phase transitions. {I}. {T}heory of condensation},
+    title = {Statistical theory of equations of state and phase
+   transitions. {I}. {T}heory of condensation},
     volume = {87},
     year = {1952}
    }

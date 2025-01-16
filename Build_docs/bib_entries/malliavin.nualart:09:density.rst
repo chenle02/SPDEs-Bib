@@ -18,7 +18,8 @@ malliavin.nualart:09:density
     mrreviewer = {H\'{e}l\`ene Airault},
     number = {12},
     pages = {4197--4214},
-    title = {Density minoration of a strongly non-degenerated random variable},
+    title = {Density minoration of a strongly non-degenerated random
+   variable},
     url = {https://doi.org/10.1016/j.jfa.2008.11.016},
     volume = {256},
     year = {2009}

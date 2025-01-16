@@ -8,8 +8,10 @@ cirel-son.ibragimov.ea:76:norms
 .. code-block:: bibtex
 
    @inproceedings{cirel-son.ibragimov.ea:76:norms,
-    author = {Cirel{\cprime}son, B. S. and Ibragimov, I. A. and Sudakov, V. N.},
-    booktitle = {Proceedings of the {T}hird {J}apan-{USSR} {S}ymposium on {P}robability {T}heory ({T}ashkent, 1975)},
+    author = {Cirel{\cprime}son, B. S. and Ibragimov, I. A. and Sudakov,
+   V. N.},
+    booktitle = {Proceedings of the {T}hird {J}apan-{USSR} {S}ymposium on
+   {P}robability {T}heory ({T}ashkent, 1975)},
     mrclass = {60G15},
     mrnumber = {0458556},
     mrreviewer = {R. M. Dudley},

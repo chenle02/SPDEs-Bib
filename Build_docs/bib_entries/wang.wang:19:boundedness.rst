@@ -17,7 +17,8 @@ wang.wang:19:boundedness
     mrnumber = {3899907},
     number = {1},
     pages = {011507, 14},
-    title = {Boundedness in the higher-dimensional {K}eller-{S}egel model with signal-dependent motility and logistic growth},
+    title = {Boundedness in the higher-dimensional {K}eller-{S}egel
+   model with signal-dependent motility and logistic growth},
     url = {https://doi.org/10.1063/1.5061738},
     volume = {60},
     year = {2019}

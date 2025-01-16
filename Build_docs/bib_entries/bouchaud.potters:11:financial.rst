@@ -14,7 +14,8 @@ bouchaud.potters:11:financial
     mrnumber = {2932660},
     pages = {824--850},
     publisher = {Oxford Univ. Press, Oxford},
-    title = {Financial applications of random matrix theory: a short review},
+    title = {Financial applications of random matrix theory: a short
+   review},
     year = {2011}
    }
 

@@ -8,7 +8,8 @@ caravenna.garavaglia.ea:19:diameter
 .. code-block:: bibtex
 
    @article{caravenna.garavaglia.ea:19:diameter,
-    author = {Caravenna, Francesco and Garavaglia, Alessandro and van der Hofstad, Remco},
+    author = {Caravenna, Francesco and Garavaglia, Alessandro and van
+   der Hofstad, Remco},
     doi = {10.1002/rsa.20798},
     fjournal = {Random Structures \& Algorithms},
     issn = {1042-9832},

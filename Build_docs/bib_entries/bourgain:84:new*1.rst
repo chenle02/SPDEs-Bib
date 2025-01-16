@@ -18,7 +18,8 @@ bourgain:84:new*1
     mrreviewer = {S.\ V.\ Kislyakov},
     number = {1-2},
     pages = {1--48},
-    title = {New {B}anach space properties of the disc algebra and {$H\sp{infty }$}},
+    title = {New {B}anach space properties of the disc algebra and
+   {$H\sp{infty }$}},
     url = {https://doi.org/10.1007/BF02392189},
     volume = {152},
     year = {1984}

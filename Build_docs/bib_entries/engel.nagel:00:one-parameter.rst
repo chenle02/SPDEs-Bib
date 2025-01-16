@@ -13,7 +13,9 @@ engel.nagel:00:one-parameter
     mrclass = {47D06 (34G10 35K90 47N20)},
     mrnumber = {1721989},
     mrreviewer = {C. J. K. Batty},
-    note = {With contributions by S. Brendle, M. Campiti, T. Hahn, G. Metafune, G. Nickel, D. Pallara, C. Perazzoli, A. Rhandi, S. Romanelli and R. Schnaubelt},
+    note = {With contributions by S. Brendle, M. Campiti, T. Hahn, G.
+   Metafune, G. Nickel, D. Pallara, C. Perazzoli, A. Rhandi,
+   S. Romanelli and R. Schnaubelt},
     pages = {xxii+586},
     publisher = {Springer-Verlag, New York},
     series = {Graduate Texts in Mathematics},

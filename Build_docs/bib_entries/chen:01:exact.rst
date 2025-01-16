@@ -18,7 +18,8 @@ chen:01:exact
     mrreviewer = {M. Iosifescu},
     number = {4},
     pages = {1242--1262},
-    title = {Exact convergence rates for the distribution of particles in branching random walks},
+    title = {Exact convergence rates for the distribution of particles
+   in branching random walks},
     url = {https://doi.org/10.1214/aoap/1015345402},
     volume = {11},
     year = {2001}

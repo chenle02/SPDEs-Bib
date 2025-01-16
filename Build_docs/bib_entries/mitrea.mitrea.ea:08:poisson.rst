@@ -18,7 +18,8 @@ mitrea.mitrea.ea:08:poisson
     mrreviewer = {Ingo F. Witt},
     number = {6},
     pages = {1295--1333},
-    title = {The {P}oisson problem for the exterior derivative operator with {D}irichlet boundary condition in nonsmooth domains},
+    title = {The {P}oisson problem for the exterior derivative operator
+   with {D}irichlet boundary condition in nonsmooth domains},
     url = {https://doi.org/10.3934/cpaa.2008.7.1295},
     volume = {7},
     year = {2008}

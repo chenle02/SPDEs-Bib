@@ -15,7 +15,8 @@ culik:65:use
     mrnumber = {202506},
     mrreviewer = {R. See},
     pages = {221--232},
-    title = {The use of abstract semantics and theory of graphs in multilingual translation dictionaries},
+    title = {The use of abstract semantics and theory of graphs in
+   multilingual translation dictionaries},
     volume = {13},
     year = {1965}
    }

@@ -13,7 +13,8 @@ zolotarev:86:one-dimensional
     isbn = {0-8218-4519-5},
     mrclass = {60-01 (60E07 60F05)},
     mrnumber = {854867},
-    note = {Translated from the Russian by H. H. McFaden, Translation edited by Ben Silver},
+    note = {Translated from the Russian by H. H. McFaden, Translation
+   edited by Ben Silver},
     pages = {x+284},
     publisher = {American Mathematical Society, Providence, RI},
     series = {Translations of Mathematical Monographs},

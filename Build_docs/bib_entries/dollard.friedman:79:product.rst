@@ -13,11 +13,13 @@ dollard.friedman:79:product
     mrclass = {34-02 (34A10 81C99)},
     mrnumber = {552941},
     mrreviewer = {James V. Herod},
-    note = {With a foreword by Felix E. Browder, With an appendix by P. R. Masani},
+    note = {With a foreword by Felix E. Browder, With an appendix by
+   P. R. Masani},
     pages = {xxii+253},
     publisher = {Addison-Wesley Publishing Co., Reading, MA},
     series = {Encyclopedia of Mathematics and its Applications},
-    title = {Product integration with applications to differential equations},
+    title = {Product integration with applications to differential
+   equations},
     volume = {10},
     year = {1979}
    }

@@ -13,7 +13,10 @@ etheridge:11:some
     isbn = {978-3-642-16631-0},
     mrclass = {92D25 (60J25 60J68 60J70 60K35 92D10)},
     mrnumber = {2759587},
-    note = {Lectures from the 39th Probability Summer School held in Saint-Flour, 2009, \'{E}cole d'\'{E}t\'{e} de Probabilit\'{e}s de Saint-Flour. [Saint-Flour Probability Summer School]},
+    note = {Lectures from the 39th Probability Summer School held in
+   Saint-Flour, 2009, \'{E}cole d'\'{E}t\'{e} de
+   Probabilit\'{e}s de Saint-Flour. [Saint-Flour Probability
+   Summer School]},
     pages = {viii+119},
     publisher = {Springer, Heidelberg},
     series = {Lecture Notes in Mathematics},

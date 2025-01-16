@@ -17,7 +17,8 @@ fang.zeitouni:10:consistent
     mrnumber = {2606508},
     mrreviewer = {Sebastian\ M\"{u}ller},
     pages = {106--118},
-    title = {Consistent minimal displacement of branching random walks},
+    title = {Consistent minimal displacement of branching random
+   walks},
     url = {https://doi.org/10.1214/ECP.v15-1533},
     volume = {15},
     year = {2010}

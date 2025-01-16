@@ -18,7 +18,8 @@ blomker.hairer.ea:05:modulation
     mrreviewer = {Nikita Y. Ratanov},
     number = {2},
     pages = {479--512},
-    title = {Modulation equations: stochastic bifurcation in large domains},
+    title = {Modulation equations: stochastic bifurcation in large
+   domains},
     url = {https://doi.org/10.1007/s00220-005-1368-8},
     volume = {258},
     year = {2005}

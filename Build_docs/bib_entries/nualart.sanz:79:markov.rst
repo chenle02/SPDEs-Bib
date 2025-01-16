@@ -17,7 +17,8 @@ nualart.sanz:79:markov
     mrreviewer = {M. Zakai},
     number = {1},
     pages = {1--16},
-    title = {A {M}arkov property for two-parameter {G}aussian processes},
+    title = {A {M}arkov property for two-parameter {G}aussian
+   processes},
     volume = {3},
     year = {1979}
    }

@@ -18,7 +18,8 @@ bourgain:87:on*2
     pages = {168--176},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {On dimension free maximal inequalities for convex symmetric bodies in {${\bf R}^n$}},
+    title = {On dimension free maximal inequalities for convex
+   symmetric bodies in {${\bf R}^n$}},
     url = {https://doi.org/10.1007/BFb0078144},
     volume = {1267},
     year = {1987}

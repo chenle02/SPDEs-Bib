@@ -10,7 +10,8 @@ lankeit:15:chemotaxis
    @article{lankeit:15:chemotaxis,
     author = {Lankeit, Johannes},
     doi = {10.3934/dcdsb.2015.20.1499},
-    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A Journal Bridging Mathematics and Sciences},
+    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A
+   Journal Bridging Mathematics and Sciences},
     issn = {1531-3492},
     journal = {Discrete Contin. Dyn. Syst. Ser. B},
     mrclass = {35M33 (35A01 35A02 35B40 35K51 92C17 92D25)},

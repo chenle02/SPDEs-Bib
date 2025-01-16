@@ -18,7 +18,8 @@ boue.dupuis:98:variational
     mrreviewer = {Catherine Donati-Martin},
     number = {4},
     pages = {1641--1659},
-    title = {A variational representation for certain functionals of {B}rownian motion},
+    title = {A variational representation for certain functionals of
+   {B}rownian motion},
     url = {https://doi.org/10.1214/aop/1022855876},
     volume = {26},
     year = {1998}

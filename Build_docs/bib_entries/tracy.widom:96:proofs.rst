@@ -17,7 +17,8 @@ tracy.widom:96:proofs
     mrreviewer = {Rinat M. Kashaev},
     number = {3},
     pages = {667--680},
-    title = {Proofs of two conjectures related to the thermodynamic {B}ethe ansatz},
+    title = {Proofs of two conjectures related to the thermodynamic
+   {B}ethe ansatz},
     url = {http://projecteuclid.org/euclid.cmp/1104287120},
     volume = {179},
     year = {1996}

@@ -9,7 +9,8 @@ quastel:00:free
 
    @incollection{quastel:00:free,
     author = {Quastel, Jeremy},
-    booktitle = {Hydrodynamic limits and related topics ({T}oronto, {ON}, 1998)},
+    booktitle = {Hydrodynamic limits and related topics ({T}oronto, {ON},
+   1998)},
     doi = {10.1214/aop/1019160497},
     mrclass = {60K35 (82C41)},
     mrnumber = {1798647},

@@ -16,7 +16,8 @@ zabczyk:85:structural
     pages = {591--609},
     publisher = {PWN, Warsaw},
     series = {Banach Center Publ.},
-    title = {Structural properties and limit behaviour of linear stochastic systems in {H}ilbert spaces},
+    title = {Structural properties and limit behaviour of linear
+   stochastic systems in {H}ilbert spaces},
     volume = {14},
     year = {1985}
    }

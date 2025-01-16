@@ -15,7 +15,8 @@ assing.herman:21:extension
     mrclass = {60J45 (35J25 35J70 47G20 60J55 60J60)},
     mrnumber = {4262340},
     pages = {Paper No. 67, 32},
-    title = {Extension technique for functions of diffusion operators: a stochastic approach},
+    title = {Extension technique for functions of diffusion operators:
+   a stochastic approach},
     url = {https://doi.org/10.1214/21-ejp624},
     volume = {26},
     year = {2021}

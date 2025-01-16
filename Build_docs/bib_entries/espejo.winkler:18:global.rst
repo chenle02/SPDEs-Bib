@@ -18,7 +18,9 @@ espejo.winkler:18:global
     mrreviewer = {Mohammed Guedda},
     number = {4},
     pages = {1227--1259},
-    title = {Global classical solvability and stabilization in a two-dimensional chemotaxis-{N}avier-{S}tokes system modeling coral fertilization},
+    title = {Global classical solvability and stabilization in a
+   two-dimensional chemotaxis-{N}avier-{S}tokes system
+   modeling coral fertilization},
     url = {https://doi.org/10.1088/1361-6544/aa9d5f},
     volume = {31},
     year = {2018}

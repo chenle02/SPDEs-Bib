@@ -18,7 +18,8 @@ jin.kim.ea:18:boundedness
     mrreviewer = {Bj\"{o}rn Augner},
     number = {3},
     pages = {1632--1657},
-    title = {Boundedness, stabilization, and pattern formation driven by density-suppressed motility},
+    title = {Boundedness, stabilization, and pattern formation driven
+   by density-suppressed motility},
     url = {https://doi.org/10.1137/17M1144647},
     volume = {78},
     year = {2018}

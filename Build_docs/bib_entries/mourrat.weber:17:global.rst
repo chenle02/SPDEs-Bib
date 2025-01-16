@@ -18,7 +18,8 @@ mourrat.weber:17:global
     mrreviewer = {Dimitri Petritis},
     number = {4},
     pages = {2398--2476},
-    title = {Global well-posedness of the dynamic {$\Phi^4$} model in the plane},
+    title = {Global well-posedness of the dynamic {$\Phi^4$} model in
+   the plane},
     url = {https://doi.org/10.1214/16-AOP1116},
     volume = {45},
     year = {2017}

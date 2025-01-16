@@ -18,7 +18,8 @@ maslowski.nualart:03:evolution
     mrreviewer = {M. Z\"{a}hle},
     number = {1},
     pages = {277--305},
-    title = {Evolution equations driven by a fractional {B}rownian motion},
+    title = {Evolution equations driven by a fractional {B}rownian
+   motion},
     url = {https://doi.org/10.1016/S0022-1236(02)00065-4},
     volume = {202},
     year = {2003}

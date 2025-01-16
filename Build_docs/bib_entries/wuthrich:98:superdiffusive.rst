@@ -18,7 +18,8 @@ wuthrich:98:superdiffusive
     mrreviewer = {Anton Bovier},
     number = {3},
     pages = {1000--1015},
-    title = {Superdiffusive behavior of two-dimensional {B}rownian motion in a {P}oissonian potential},
+    title = {Superdiffusive behavior of two-dimensional {B}rownian
+   motion in a {P}oissonian potential},
     url = {https://doi.org/10.1214/aop/1022855742},
     volume = {26},
     year = {1998}

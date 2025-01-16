@@ -16,7 +16,8 @@ calvez.corrias:08:parabolic-parabolic
     mrnumber = {2433703},
     number = {2},
     pages = {417--447},
-    title = {The parabolic-parabolic {K}eller-{S}egel model in {$\Bbb R^2$}},
+    title = {The parabolic-parabolic {K}eller-{S}egel model in {$\Bbb
+   R^2$}},
     url = {http://projecteuclid.org/euclid.cms/1214949930},
     volume = {6},
     year = {2008}

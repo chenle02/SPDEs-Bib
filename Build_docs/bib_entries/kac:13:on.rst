@@ -18,7 +18,8 @@ kac:13:on
     mrreviewer = {Keivan Aghababaei Samani},
     number = {5},
     pages = {785--795},
-    title = {On certain {T}oeplitz-like matrices and their relation to the problem of lattice vibrations},
+    title = {On certain {T}oeplitz-like matrices and their relation to
+   the problem of lattice vibrations},
     url = {https://doi.org/10.1007/s10955-012-0675-7},
     volume = {151},
     year = {2013}

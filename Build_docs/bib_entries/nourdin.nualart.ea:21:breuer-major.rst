@@ -17,7 +17,8 @@ nourdin.nualart.ea:21:breuer-major
     mrnumber = {4151212},
     mrreviewer = {Daniel M. Harnett},
     pages = {1--20},
-    title = {The {B}reuer-{M}ajor theorem in total variation: improved rates under minimal regularity},
+    title = {The {B}reuer-{M}ajor theorem in total variation: improved
+   rates under minimal regularity},
     url = {https://doi.org/10.1016/j.spa.2020.08.007},
     volume = {131},
     year = {2021}

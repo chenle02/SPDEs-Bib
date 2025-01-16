@@ -16,7 +16,8 @@ hu:93:calculation
     pages = {161--171},
     publisher = {Gordon and Breach, Montreux},
     series = {Stochastics Monogr.},
-    title = {Calculation of {F}eynman path integral for certain central forces},
+    title = {Calculation of {F}eynman path integral for certain central
+   forces},
     volume = {8},
     year = {1993}
    }

@@ -19,7 +19,8 @@ rider:03:limit
     note = {Random matrix theory},
     number = {12},
     pages = {3401--3409},
-    title = {A limit theorem at the edge of a non-{H}ermitian random matrix ensemble},
+    title = {A limit theorem at the edge of a non-{H}ermitian random
+   matrix ensemble},
     url = {https://doi.org/10.1088/0305-4470/36/12/331},
     volume = {36},
     year = {2003}

@@ -17,7 +17,8 @@ mueller.mytnik.ea:21:speed
     mrnumber = {4259374},
     number = {2},
     pages = {699--732},
-    title = {The speed of a random front for stochastic reaction-diffusion equations with strong noise},
+    title = {The speed of a random front for stochastic
+   reaction-diffusion equations with strong noise},
     url = {https://doi.org/10.1007/s00220-021-04084-0},
     volume = {384},
     year = {2021}

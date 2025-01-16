@@ -17,7 +17,8 @@ zeitouni.dembo:87:erratum
     mrreviewer = {R.\ S.\ Bucy},
     number = {4},
     pages = {341},
-    title = {Erratum: ``{A} maximum a posteriori estimator for trajectories of diffusion processes''},
+    title = {Erratum: ``{A} maximum a posteriori estimator for
+   trajectories of diffusion processes''},
     volume = {20},
     year = {1987}
    }

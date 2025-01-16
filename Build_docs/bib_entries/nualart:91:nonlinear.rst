@@ -15,7 +15,8 @@ nualart:91:nonlinear
     mrreviewer = {Denis R. Bell},
     pages = {397--431},
     publisher = {Academic Press, Boston, MA},
-    title = {Nonlinear transformations of the {W}iener measure and applications},
+    title = {Nonlinear transformations of the {W}iener measure and
+   applications},
     year = {1991}
    }
 

@@ -16,7 +16,8 @@ harris:60:lower
     mrnumber = {115221},
     mrreviewer = {G. Newell},
     pages = {13--20},
-    title = {A lower bound for the critical probability in a certain percolation process},
+    title = {A lower bound for the critical probability in a certain
+   percolation process},
     volume = {56},
     year = {1960}
    }

@@ -17,7 +17,8 @@ cranston.zhao:87:conditional
     mrreviewer = {Ross\ Pinsky},
     number = {4},
     pages = {613--625},
-    title = {Conditional transformation of drift formula and potential theory for {${1\over 2}\Delta +b(\cdot)\cdot\nabla$}},
+    title = {Conditional transformation of drift formula and potential
+   theory for {${1\over 2}\Delta +b(\cdot)\cdot\nabla$}},
     url = {http://projecteuclid.org/euclid.cmp/1104160055},
     volume = {112},
     year = {1987}

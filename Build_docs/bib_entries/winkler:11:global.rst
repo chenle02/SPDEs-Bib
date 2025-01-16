@@ -18,7 +18,8 @@ winkler:11:global
     mrreviewer = {Temur Jangveladze},
     number = {2},
     pages = {176--190},
-    title = {Global solutions in a fully parabolic chemotaxis system with singular sensitivity},
+    title = {Global solutions in a fully parabolic chemotaxis system
+   with singular sensitivity},
     url = {https://doi.org/10.1002/mma.1346},
     volume = {34},
     year = {2011}

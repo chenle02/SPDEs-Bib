@@ -18,7 +18,8 @@ bal.gu:15:limiting
     mrreviewer = {Juan Casado-D\'{i}az},
     number = {3},
     pages = {729--748},
-    title = {Limiting models for equations with large random potential: a review},
+    title = {Limiting models for equations with large random potential:
+   a review},
     url = {https://doi.org/10.4310/CMS.2015.v13.n3.a7},
     volume = {13},
     year = {2015}

@@ -17,7 +17,8 @@ sasamoto:05:spatial
     mrnumber = {2165697},
     number = {33},
     pages = {L549--L556},
-    title = {Spatial correlations of the 1{D} {KPZ} surface on a flat substrate},
+    title = {Spatial correlations of the 1{D} {KPZ} surface on a flat
+   substrate},
     url = {https://doi.org/10.1088/0305-4470/38/33/L01},
     volume = {38},
     year = {2005}

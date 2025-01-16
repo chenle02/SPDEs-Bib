@@ -17,7 +17,8 @@ hanyga.seredynska:08:on
     mrnumber = {2386581},
     number = {2},
     pages = {269--303},
-    title = {On a mathematical framework for the constitutive equations of anisotropic dielectric relaxation},
+    title = {On a mathematical framework for the constitutive equations
+   of anisotropic dielectric relaxation},
     url = {https://doi.org/10.1007/s10955-008-9501-7},
     volume = {131},
     year = {2008}

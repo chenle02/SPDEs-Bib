@@ -9,7 +9,9 @@ bourgain:90:riesz-raikov
 
    @incollection{bourgain:90:riesz-raikov,
     author = {Bourgain, J.},
-    booktitle = {Festschrift in honor of {I}. {I}. {P}iatetski-{S}hapiro on the occasion of his sixtieth birthday, {P}art {II} ({R}amat {A}viv, 1989)},
+    booktitle = {Festschrift in honor of {I}. {I}. {P}iatetski-{S}hapiro on
+   the occasion of his sixtieth birthday, {P}art {II} ({R}amat
+   {A}viv, 1989)},
     mrclass = {11K70 (11K55 11R04)},
     mrnumber = {1159107},
     mrreviewer = {R.\ G.\ Stoneham},

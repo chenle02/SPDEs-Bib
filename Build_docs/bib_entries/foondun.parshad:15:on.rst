@@ -18,7 +18,8 @@ foondun.parshad:15:on
     mrreviewer = {Carles Rovira},
     number = {9},
     pages = {4085--4094},
-    title = {On non-existence of global solutions to a class of stochastic heat equations},
+    title = {On non-existence of global solutions to a class of
+   stochastic heat equations},
     url = {https://doi.org/10.1090/proc/12036},
     volume = {143},
     year = {2015}

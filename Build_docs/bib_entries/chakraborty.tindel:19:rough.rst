@@ -18,7 +18,8 @@ chakraborty.tindel:19:rough
     mrreviewer = {Khoa L\^{e}},
     number = {5},
     pages = {1533--1555},
-    title = {Rough differential equations with power type nonlinearities},
+    title = {Rough differential equations with power type
+   nonlinearities},
     url = {https://doi.org/10.1016/j.spa.2018.05.010},
     volume = {129},
     year = {2019}

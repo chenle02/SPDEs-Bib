@@ -18,7 +18,8 @@ bourgain:80:dunford-pettis
     mrreviewer = {R.\ W.\ Cross},
     number = {1-2},
     pages = {34--47},
-    title = {Dunford-{P}ettis operators on {$L\sp{1}$} and the {R}adon-{N}ikod\'{y}m property},
+    title = {Dunford-{P}ettis operators on {$L\sp{1}$} and the
+   {R}adon-{N}ikod\'{y}m property},
     url = {https://doi.org/10.1007/BF02762866},
     volume = {37},
     year = {1980}

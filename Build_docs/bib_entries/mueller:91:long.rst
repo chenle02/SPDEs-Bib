@@ -18,7 +18,8 @@ mueller:91:long
     mrreviewer = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
     number = {4},
     pages = {505--517},
-    title = {Long time existence for the heat equation with a noise term},
+    title = {Long time existence for the heat equation with a noise
+   term},
     url = {https://doi.org/10.1007/BF01192141},
     volume = {90},
     year = {1991}

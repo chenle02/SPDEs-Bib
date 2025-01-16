@@ -18,7 +18,8 @@ winkler:20:blow-up
     mrreviewer = {Lech Slawik},
     number = {2},
     pages = {585--624},
-    title = {Blow-up profiles and life beyond blow-up in the fully parabolic {K}eller-{S}egel system},
+    title = {Blow-up profiles and life beyond blow-up in the fully
+   parabolic {K}eller-{S}egel system},
     url = {https://doi.org/10.1007/s11854-020-0109-4},
     volume = {141},
     year = {2020}

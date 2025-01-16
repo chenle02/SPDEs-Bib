@@ -9,13 +9,15 @@ galaktionov.vazquez:98:dynamical
 
    @incollection{galaktionov.vazquez:98:dynamical,
     author = {Galaktionov, Victor A. and Vazquez, Juan L.},
-    booktitle = {International {C}onference on {D}ifferential {E}quations ({L}isboa, 1995)},
+    booktitle = {International {C}onference on {D}ifferential {E}quations
+   ({L}isboa, 1995)},
     mrclass = {35K55 (35B40 58F39)},
     mrnumber = {1639327},
     mrreviewer = {Lisa Santos},
     pages = {82--106},
     publisher = {World Sci. Publ., River Edge, NJ},
-    title = {A dynamical systems approach for the asymptotic analysis of nonlinear heat equations},
+    title = {A dynamical systems approach for the asymptotic analysis
+   of nonlinear heat equations},
     year = {1998}
    }
 

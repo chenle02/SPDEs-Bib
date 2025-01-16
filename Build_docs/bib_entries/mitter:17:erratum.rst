@@ -17,7 +17,9 @@ mitter:17:erratum
     mrnumber = {3596856},
     number = {2},
     pages = {453--455},
-    title = {Erratum to: {O}n a finite range decomposition of the resolvent of a fractional power of the {L}aplacian [ {MR}3493191]},
+    title = {Erratum to: {O}n a finite range decomposition of the
+   resolvent of a fractional power of the {L}aplacian [
+   {MR}3493191]},
     url = {https://doi.org/10.1007/s10955-016-1687-5},
     volume = {166},
     year = {2017}

@@ -17,7 +17,8 @@ flandoli.gubinelli.ea:11:full
     mrnumber = {2802460},
     number = {7},
     pages = {1445--1463},
-    title = {Full well-posedness of point vortex dynamics corresponding to stochastic 2{D} {E}uler equations},
+    title = {Full well-posedness of point vortex dynamics corresponding
+   to stochastic 2{D} {E}uler equations},
     url = {https://doi.org/10.1016/j.spa.2011.03.004},
     volume = {121},
     year = {2011}

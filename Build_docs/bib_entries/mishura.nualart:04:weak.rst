@@ -18,7 +18,8 @@ mishura.nualart:04:weak
     mrreviewer = {Anna Amirdjanova},
     number = {4},
     pages = {253--261},
-    title = {Weak solutions for stochastic differential equations with additive fractional noise},
+    title = {Weak solutions for stochastic differential equations with
+   additive fractional noise},
     url = {https://doi.org/10.1016/j.spl.2004.10.011},
     volume = {70},
     year = {2004}

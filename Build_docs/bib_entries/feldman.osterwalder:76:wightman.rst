@@ -18,7 +18,8 @@ feldman.osterwalder:76:wightman
     mrreviewer = {James D. Fabrey},
     number = {1},
     pages = {80--135},
-    title = {The {W}ightman axioms and the mass gap for weakly coupled {$(\Phi ^{4})_{3}$} quantum field theories},
+    title = {The {W}ightman axioms and the mass gap for weakly coupled
+   {$(\Phi ^{4})_{3}$} quantum field theories},
     url = {https://doi.org/10.1016/0003-4916(76)90223-2},
     volume = {97},
     year = {1976}

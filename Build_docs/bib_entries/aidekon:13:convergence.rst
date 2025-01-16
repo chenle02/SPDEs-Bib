@@ -18,7 +18,8 @@ aidekon:13:convergence
     mrreviewer = {P\'{e}ter Kevei},
     number = {3A},
     pages = {1362--1426},
-    title = {Convergence in law of the minimum of a branching random walk},
+    title = {Convergence in law of the minimum of a branching random
+   walk},
     url = {https://doi.org/10.1214/12-AOP750},
     volume = {41},
     year = {2013}

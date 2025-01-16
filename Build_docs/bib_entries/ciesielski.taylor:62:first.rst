@@ -17,7 +17,9 @@ ciesielski.taylor:62:first
     mrnumber = {143257},
     mrreviewer = {D. A. Darling},
     pages = {434--450},
-    title = {First passage times and sojourn times for {B}rownian motion in space and the exact {H}ausdorff measure of the sample path},
+    title = {First passage times and sojourn times for {B}rownian
+   motion in space and the exact {H}ausdorff measure of the
+   sample path},
     url = {https://doi.org/10.2307/1993838},
     volume = {103},
     year = {1962}

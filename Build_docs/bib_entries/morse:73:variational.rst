@@ -13,9 +13,11 @@ morse:73:variational
     mrnumber = {420368},
     mrreviewer = {U. D'Ambrosio},
     pages = {xi+260},
-    publisher = {Interscience Publishers [John Wiley \& Sons], New York-London-Sydney},
+    publisher = {Interscience Publishers [John Wiley \& Sons], New
+   York-London-Sydney},
     series = {Pure and Applied Mathematics},
-    title = {Variational analysis: critical extremals and {S}turmian extensions},
+    title = {Variational analysis: critical extremals and {S}turmian
+   extensions},
     year = {1973}
    }
 

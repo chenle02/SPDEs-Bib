@@ -17,7 +17,8 @@ khoshnevisan.wu.ea:06:sectorial
     mrnumber = {2261054},
     mrreviewer = {Hong Xue},
     pages = {no. 32, 817--843},
-    title = {Sectorial local non-determinism and the geometry of the {B}rownian sheet},
+    title = {Sectorial local non-determinism and the geometry of the
+   {B}rownian sheet},
     url = {https://doi.org/10.1214/EJP.v11-353},
     volume = {11},
     year = {2006}

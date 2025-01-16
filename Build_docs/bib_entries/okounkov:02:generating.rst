@@ -18,7 +18,8 @@ okounkov:02:generating
     mrreviewer = {Gilberto Bini},
     number = {18},
     pages = {933--957},
-    title = {Generating functions for intersection numbers on moduli spaces of curves},
+    title = {Generating functions for intersection numbers on moduli
+   spaces of curves},
     url = {https://doi.org/10.1155/S1073792802110099},
     year = {2002}
    }

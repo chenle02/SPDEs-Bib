@@ -17,7 +17,8 @@ dkhil:04:singular
     mrreviewer = {Joseph So},
     number = {1},
     pages = {101--115},
-    title = {Singular limit of a degenerate chemotaxis-{F}isher equation},
+    title = {Singular limit of a degenerate chemotaxis-{F}isher
+   equation},
     url = {http://projecteuclid.org/euclid.hmj/1150998073},
     volume = {34},
     year = {2004}

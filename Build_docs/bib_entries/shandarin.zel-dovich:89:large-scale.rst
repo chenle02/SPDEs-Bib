@@ -17,7 +17,8 @@ shandarin.zel-dovich:89:large-scale
     mrnumber = {989562},
     number = {2},
     pages = {185--220},
-    title = {The large-scale structure of the universe: turbulence, intermittency, structures in a self-gravitating medium},
+    title = {The large-scale structure of the universe: turbulence,
+   intermittency, structures in a self-gravitating medium},
     url = {https://doi.org/10.1103/RevModPhys.61.185},
     volume = {61},
     year = {1989}

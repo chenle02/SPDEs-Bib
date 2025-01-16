@@ -17,7 +17,8 @@ duplantier:99:harmonic
     mrnumber = {1688869},
     number = {20},
     pages = {3940--3943},
-    title = {Harmonic measure exponents for two-dimensional percolation},
+    title = {Harmonic measure exponents for two-dimensional
+   percolation},
     url = {https://doi.org/10.1103/PhysRevLett.82.3940},
     volume = {82},
     year = {1999}

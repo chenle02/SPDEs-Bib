@@ -18,7 +18,8 @@ tindel.liu.ea:21:on
     mrreviewer = {Gennady Y. Kulikov},
     number = {1},
     pages = {399--423},
-    title = {On the anticipative nonlinear filtering problem and its stability},
+    title = {On the anticipative nonlinear filtering problem and its
+   stability},
     url = {https://doi.org/10.1007/s00245-019-09649-z},
     volume = {84},
     year = {2021}

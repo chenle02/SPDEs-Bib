@@ -18,7 +18,9 @@ chen:17:nonlinear
     mrreviewer = {Feng-Yu Wang},
     number = {12},
     pages = {8497--8535},
-    title = {Nonlinear stochastic time-fractional diffusion equations on {$\Bbb{R}$}: moments, {H}\"{o}lder regularity and intermittency},
+    title = {Nonlinear stochastic time-fractional diffusion equations
+   on {$\Bbb{R}$}: moments, {H}\"{o}lder regularity and
+   intermittency},
     url = {https://doi.org/10.1090/tran/6951},
     volume = {369},
     year = {2017}

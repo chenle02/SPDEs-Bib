@@ -14,8 +14,10 @@ durrett:88:lecture
     mrnumber = {940469},
     mrreviewer = {R. T. Smythe},
     pages = {viii+335},
-    publisher = {Wadsworth \& Brooks/Cole Advanced Books \& Software, Pacific Grove, CA},
-    series = {The Wadsworth \& Brooks/Cole Statistics/Probability Series},
+    publisher = {Wadsworth \& Brooks/Cole Advanced Books \& Software,
+   Pacific Grove, CA},
+    series = {The Wadsworth \& Brooks/Cole Statistics/Probability
+   Series},
     title = {Lecture notes on particle systems and percolation},
     year = {1988}
    }

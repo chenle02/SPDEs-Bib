@@ -8,9 +8,11 @@ blomker.cannizzaro.ea:20:random
 .. code-block:: bibtex
 
    @article{blomker.cannizzaro.ea:20:random,
-    author = {Bl\"{o}mker, Dirk and Cannizzaro, Giuseppe and Romito, Marco},
+    author = {Bl\"{o}mker, Dirk and Cannizzaro, Giuseppe and Romito,
+   Marco},
     doi = {10.1017/prm.2018.157},
-    fjournal = {Proceedings of the Royal Society of Edinburgh. Section A. Mathematics},
+    fjournal = {Proceedings of the Royal Society of Edinburgh. Section A.
+   Mathematics},
     issn = {0308-2105},
     journal = {Proc. Roy. Soc. Edinburgh Sect. A},
     mrclass = {35K59 (35B30 35K57 35R60)},

@@ -18,7 +18,10 @@ jakab.mitrea.ea:07:traces
     mrreviewer = {Juha K. Kinnunen},
     number = {1},
     pages = {50--112},
-    title = {Traces of functions in {H}ardy and {B}esov spaces on {L}ipschitz domains with applications to compensated compactness and the theory of {H}ardy and {B}ergman type spaces},
+    title = {Traces of functions in {H}ardy and {B}esov spaces on
+   {L}ipschitz domains with applications to compensated
+   compactness and the theory of {H}ardy and {B}ergman type
+   spaces},
     url = {https://doi.org/10.1016/j.jfa.2007.01.004},
     volume = {246},
     year = {2007}

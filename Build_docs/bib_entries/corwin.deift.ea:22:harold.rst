@@ -8,7 +8,8 @@ corwin.deift.ea:22:harold
 .. code-block:: bibtex
 
    @article{corwin.deift.ea:22:harold,
-    author = {Corwin, Ivan Z. and Deift, Percy A. and Its, Alexander R.},
+    author = {Corwin, Ivan Z. and Deift, Percy A. and Its, Alexander
+   R.},
     doi = {10.1090/bull/1757},
     fjournal = {American Mathematical Society. Bulletin. New Series},
     issn = {0273-0979},

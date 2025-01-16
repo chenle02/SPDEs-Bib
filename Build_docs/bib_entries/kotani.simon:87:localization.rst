@@ -17,7 +17,8 @@ kotani.simon:87:localization
     mrreviewer = {Werner Kohler},
     number = {1},
     pages = {103--119},
-    title = {Localization in general one-dimensional random systems. {II}. {C}ontinuum {S}chr\"{o}dinger operators},
+    title = {Localization in general one-dimensional random systems.
+   {II}. {C}ontinuum {S}chr\"{o}dinger operators},
     url = {http://projecteuclid.org/euclid.cmp/1104159811},
     volume = {112},
     year = {1987}

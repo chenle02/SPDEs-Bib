@@ -18,7 +18,8 @@ amir.corwin.ea:11:probability
     mrreviewer = {Timo Sepp\"{a}l\"{a}inen},
     number = {4},
     pages = {466--537},
-    title = {Probability distribution of the free energy of the continuum directed random polymer in {$1+1$} dimensions},
+    title = {Probability distribution of the free energy of the
+   continuum directed random polymer in {$1+1$} dimensions},
     url = {https://doi.org/10.1002/cpa.20347},
     volume = {64},
     year = {2011}

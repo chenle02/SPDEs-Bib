@@ -16,7 +16,8 @@ flandoli:95:regularity
     pages = {x+79},
     publisher = {Gordon and Breach Science Publishers, Yverdon},
     series = {Stochastics Monographs},
-    title = {Regularity theory and stochastic flows for parabolic {SPDE}s},
+    title = {Regularity theory and stochastic flows for parabolic
+   {SPDE}s},
     volume = {9},
     year = {1995}
    }

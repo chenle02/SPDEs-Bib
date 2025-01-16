@@ -18,7 +18,8 @@ negreanu.tello:18:on
     mrreviewer = {Jingyu Li},
     number = {3},
     pages = {733--751},
-    title = {On a parabolic-elliptic system with gradient dependent chemotactic coefficient},
+    title = {On a parabolic-elliptic system with gradient dependent
+   chemotactic coefficient},
     url = {https://doi.org/10.1016/j.jde.2018.01.040},
     volume = {265},
     year = {2018}

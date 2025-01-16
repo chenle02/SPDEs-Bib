@@ -18,7 +18,8 @@ li.shu.ea:17:local
     mrreviewer = {Jason M. Graham},
     number = {2-3},
     pages = {943--967},
-    title = {Local discontinuous {G}alerkin method for the {K}eller-{S}egel chemotaxis model},
+    title = {Local discontinuous {G}alerkin method for the
+   {K}eller-{S}egel chemotaxis model},
     url = {https://doi.org/10.1007/s10915-016-0354-y},
     volume = {73},
     year = {2017}

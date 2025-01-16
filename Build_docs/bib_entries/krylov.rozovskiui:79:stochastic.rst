@@ -14,7 +14,8 @@ krylov.rozovskiui:79:stochastic
     mrnumber = {570795},
     mrreviewer = {Jean M\'{e}min},
     pages = {71--147, 256},
-    publisher = {Akad. Nauk SSSR, Vsesoyuz. Inst. Nauchn. i Tekhn. Informatsii, Moscow},
+    publisher = {Akad. Nauk SSSR, Vsesoyuz. Inst. Nauchn. i Tekhn.
+   Informatsii, Moscow},
     title = {Stochastic evolution equations},
     year = {1979}
    }

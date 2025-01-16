@@ -18,7 +18,8 @@ bourgain:07:some
     pages = {99--116},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Some arithmetical applications of the sum-product theorems in finite fields},
+    title = {Some arithmetical applications of the sum-product theorems
+   in finite fields},
     url = {https://doi.org/10.1007/978-3-540-72053-9_6},
     volume = {1910},
     year = {2007}

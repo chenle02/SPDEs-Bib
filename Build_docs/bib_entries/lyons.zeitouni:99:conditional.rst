@@ -18,7 +18,8 @@ lyons.zeitouni:99:conditional
     mrreviewer = {David\ Nualart},
     number = {4},
     pages = {1738--1749},
-    title = {Conditional exponential moments for iterated {W}iener integrals},
+    title = {Conditional exponential moments for iterated {W}iener
+   integrals},
     url = {https://doi.org/10.1214/aop/1022677546},
     volume = {27},
     year = {1999}

@@ -18,7 +18,8 @@ dalang.hou:97:on
     mrreviewer = {Marco Ferrante},
     number = {2},
     pages = {265--287},
-    title = {On {M}arkov properties of {L}\'{e}vy waves in two dimensions},
+    title = {On {M}arkov properties of {L}\'{e}vy waves in two
+   dimensions},
     url = {https://doi.org/10.1016/S0304-4149(97)00087-2},
     volume = {72},
     year = {1997}

@@ -16,7 +16,8 @@ duan.wang:14:effective
     pages = {xii+270},
     publisher = {Elsevier, Amsterdam},
     series = {Elsevier Insights},
-    title = {Effective dynamics of stochastic partial differential equations},
+    title = {Effective dynamics of stochastic partial differential
+   equations},
     year = {2014}
    }
 

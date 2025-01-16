@@ -18,7 +18,8 @@ hu.mohammed.ea:04:discrete-time
     mrreviewer = {Jan I. Seidler},
     number = {1A},
     pages = {265--314},
-    title = {Discrete-time approximations of stochastic delay equations: the {M}ilstein scheme},
+    title = {Discrete-time approximations of stochastic delay
+   equations: the {M}ilstein scheme},
     url = {https://doi.org/10.1214/aop/1078415836},
     volume = {32},
     year = {2004}

@@ -8,7 +8,8 @@ berestycki.berestycki.ea:13:genealogy
 .. code-block:: bibtex
 
    @article{berestycki.berestycki.ea:13:genealogy,
-    author = {Berestycki, Julien and Berestycki, Nathana\"{e}l and Schweinsberg, Jason},
+    author = {Berestycki, Julien and Berestycki, Nathana\"{e}l and
+   Schweinsberg, Jason},
     doi = {10.1214/11-AOP728},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ berestycki.berestycki.ea:13:genealogy
     mrreviewer = {Anna Talarczyk},
     number = {2},
     pages = {527--618},
-    title = {The genealogy of branching {B}rownian motion with absorption},
+    title = {The genealogy of branching {B}rownian motion with
+   absorption},
     url = {https://doi.org/10.1214/11-AOP728},
     volume = {41},
     year = {2013}

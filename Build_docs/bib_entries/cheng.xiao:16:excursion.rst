@@ -10,7 +10,8 @@ cheng.xiao:16:excursion
    @article{cheng.xiao:16:excursion,
     author = {Cheng, Dan and Xiao, Yimin},
     doi = {10.3150/14-BEJ688},
-    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for
+   Mathematical Statistics and Probability},
     issn = {1350-7265,1573-9759},
     journal = {Bernoulli},
     mrclass = {60G60 (60G70)},
@@ -18,7 +19,8 @@ cheng.xiao:16:excursion
     mrreviewer = {Kirstin\ Strokorb},
     number = {2},
     pages = {1113--1130},
-    title = {Excursion probability of {G}aussian random fields on sphere},
+    title = {Excursion probability of {G}aussian random fields on
+   sphere},
     url = {https://doi.org/10.3150/14-BEJ688},
     volume = {22},
     year = {2016}

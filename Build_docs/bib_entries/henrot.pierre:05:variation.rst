@@ -16,7 +16,8 @@ henrot.pierre:05:variation
     note = {Une analyse g\'{e}om\'{e}trique. [A geometric analysis]},
     pages = {xii+334},
     publisher = {Springer, Berlin},
-    series = {Math\'{e}matiques \& Applications (Berlin) [Mathematics \& Applications]},
+    series = {Math\'{e}matiques \& Applications (Berlin) [Mathematics \&
+   Applications]},
     title = {Variation et optimisation de formes},
     url = {https://doi.org/10.1007/3-540-37689-5},
     volume = {48},

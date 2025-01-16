@@ -10,7 +10,9 @@ duplantier.kostov:90:geometrical
    @article{duplantier.kostov:90:geometrical,
     author = {Duplantier, Bertrand and Kostov, Ivan K.},
     doi = {10.1016/0550-3213(90)90456-N},
-    fjournal = {Nuclear Physics. B. Theoretical, Phenomenological, and Experimental High Energy Physics. Quantum Field Theory and Statistical Systems},
+    fjournal = {Nuclear Physics. B. Theoretical, Phenomenological, and
+   Experimental High Energy Physics. Quantum Field Theory and
+   Statistical Systems},
     issn = {0550-3213},
     journal = {Nuclear Phys. B},
     mrclass = {82B41 (81T40 82B23 82B43)},
@@ -18,7 +20,8 @@ duplantier.kostov:90:geometrical
     mrreviewer = {Sergei V. Pokrovskiu{i}},
     number = {2-3},
     pages = {491--541},
-    title = {Geometrical critical phenomena on a random surface of arbitrary genus},
+    title = {Geometrical critical phenomena on a random surface of
+   arbitrary genus},
     url = {https://doi.org/10.1016/0550-3213(90)90456-N},
     volume = {340},
     year = {1990}

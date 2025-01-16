@@ -18,7 +18,8 @@ nane.xiao.ea:20:strong
     mrreviewer = {Yizao Wang},
     number = {1},
     pages = {123737, 20},
-    title = {Strong laws of large numbers for arrays of random variables and stable random fields},
+    title = {Strong laws of large numbers for arrays of random
+   variables and stable random fields},
     url = {https://doi.org/10.1016/j.jmaa.2019.123737},
     volume = {484},
     year = {2020}

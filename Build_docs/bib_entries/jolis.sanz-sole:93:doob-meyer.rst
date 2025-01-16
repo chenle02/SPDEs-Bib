@@ -16,7 +16,8 @@ jolis.sanz-sole:93:doob-meyer
     pages = {177--201},
     publisher = {Gordon and Breach, Montreux},
     series = {Stochastics Monogr.},
-    title = {Doob-{M}eyer decomposition and integrator properties of the {W}ong-{Z}akai anticipating integral},
+    title = {Doob-{M}eyer decomposition and integrator properties of
+   the {W}ong-{Z}akai anticipating integral},
     volume = {8},
     year = {1993}
    }

@@ -18,7 +18,8 @@ goncalves.jara:14:nonlinear
     mrreviewer = {Mathew Joseph},
     number = {2},
     pages = {597--644},
-    title = {Nonlinear fluctuations of weakly asymmetric interacting particle systems},
+    title = {Nonlinear fluctuations of weakly asymmetric interacting
+   particle systems},
     url = {https://doi.org/10.1007/s00205-013-0693-x},
     volume = {212},
     year = {2014}

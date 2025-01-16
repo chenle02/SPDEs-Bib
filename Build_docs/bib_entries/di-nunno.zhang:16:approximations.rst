@@ -18,7 +18,8 @@ di-nunno.zhang:16:approximations
     mrreviewer = {Pao-Liu Chow},
     number = {3},
     pages = {1443--1466},
-    title = {Approximations of stochastic partial differential equations},
+    title = {Approximations of stochastic partial differential
+   equations},
     url = {https://doi.org/10.1214/15-AAP1122},
     volume = {26},
     year = {2016}

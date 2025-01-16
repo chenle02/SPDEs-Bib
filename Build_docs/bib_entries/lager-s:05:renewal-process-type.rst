@@ -18,7 +18,8 @@ lager-s:05:renewal-process-type
     mrreviewer = {Sreenivasan Ravi},
     number = {4},
     pages = {1134--1144},
-    title = {A renewal-process-type expression for the moments of inverse subordinators},
+    title = {A renewal-process-type expression for the moments of
+   inverse subordinators},
     url = {https://doi.org/10.1239/jap/1134587822},
     volume = {42},
     year = {2005}

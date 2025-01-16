@@ -18,7 +18,8 @@ kyprianou:98:slow
     mrreviewer = {D. R. Grey},
     number = {4},
     pages = {795--801},
-    title = {Slow variation and uniqueness of solutions to the functional equation in the branching random walk},
+    title = {Slow variation and uniqueness of solutions to the
+   functional equation in the branching random walk},
     url = {https://doi.org/10.1239/jap/1032438375},
     volume = {35},
     year = {1998}

@@ -18,7 +18,8 @@ burdzy.quastel:06:annihilating-branching
     mrreviewer = {Luis G. Gorostiza},
     number = {6},
     pages = {2382--2405},
-    title = {An annihilating-branching particle model for the heat equation with average temperature zero},
+    title = {An annihilating-branching particle model for the heat
+   equation with average temperature zero},
     url = {https://doi.org/10.1214/009117906000000511},
     volume = {34},
     year = {2006}

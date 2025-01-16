@@ -9,7 +9,8 @@ flandoli:06:two
 
    @incollection{flandoli:06:two,
     author = {Flandoli, Franco},
-    booktitle = {Stochastic partial differential equations and applications---{VII}},
+    booktitle = {Stochastic partial differential equations and
+   applications---{VII}},
     doi = {10.1201/9781420028720.ch11},
     isbn = {978-0-8247-0027-0; 0-8247-0027-9},
     mrclass = {60G60 (60H15)},

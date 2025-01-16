@@ -18,7 +18,8 @@ gubinelli.perkowski:20:infinitesimal
     mrreviewer = {G. Cannizzaro},
     number = {3-4},
     pages = {1067--1124},
-    title = {The infinitesimal generator of the stochastic {B}urgers equation},
+    title = {The infinitesimal generator of the stochastic {B}urgers
+   equation},
     url = {https://doi.org/10.1007/s00440-020-00996-5},
     volume = {178},
     year = {2020}

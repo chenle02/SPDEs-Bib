@@ -13,7 +13,8 @@ stoyanov:13:counterexamples
     mrclass = {60-01 (60-02 60Axx 60Fxx 60Gxx 60Jxx)},
     mrnumber = {3837562},
     mrreviewer = {Anthony G. Pakes},
-    note = {Third edition of [ MR0930671], Revised, corrected and amended reprint of the second edition [ MR3444842]},
+    note = {Third edition of [ MR0930671], Revised, corrected and
+   amended reprint of the second edition [ MR3444842]},
     pages = {xxx+368},
     publisher = {Dover Publications, Inc., Mineola, NY},
     title = {Counterexamples in probability},

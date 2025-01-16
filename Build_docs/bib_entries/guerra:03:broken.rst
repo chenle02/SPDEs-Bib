@@ -18,7 +18,8 @@ guerra:03:broken
     mrreviewer = {Beat M. Niederhauser},
     number = {1},
     pages = {1--12},
-    title = {Broken replica symmetry bounds in the mean field spin glass model},
+    title = {Broken replica symmetry bounds in the mean field spin
+   glass model},
     url = {https://doi.org/10.1007/s00220-002-0773-5},
     volume = {233},
     year = {2003}

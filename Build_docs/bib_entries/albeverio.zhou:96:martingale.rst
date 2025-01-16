@@ -18,7 +18,8 @@ albeverio.zhou:96:martingale
     mrreviewer = {H. Kesten},
     number = {1},
     pages = {171--189},
-    title = {A martingale approach to directed polymers in a random environment},
+    title = {A martingale approach to directed polymers in a random
+   environment},
     url = {https://doi.org/10.1007/BF02213739},
     volume = {9},
     year = {1996}

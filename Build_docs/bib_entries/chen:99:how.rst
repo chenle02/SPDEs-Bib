@@ -17,7 +17,8 @@ chen:99:how
     mrnumber = {1733150},
     number = {3},
     pages = {1324--1346},
-    title = {How often does a {H}arris recurrent {M}arkov chain recur?},
+    title = {How often does a {H}arris recurrent {M}arkov chain
+   recur?},
     url = {https://doi.org/10.1214/aop/1022677449},
     volume = {27},
     year = {1999}

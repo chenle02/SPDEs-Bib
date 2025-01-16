@@ -14,7 +14,8 @@ stanley:97:enumerative
     mrclass = {05-02 (05A15 06-02 11-02)},
     mrnumber = {1442260},
     mrreviewer = {Wayne M. Dymacek},
-    note = {With a foreword by Gian-Carlo Rota, Corrected reprint of the 1986 original},
+    note = {With a foreword by Gian-Carlo Rota, Corrected reprint of
+   the 1986 original},
     pages = {xii+325},
     publisher = {Cambridge University Press, Cambridge},
     series = {Cambridge Studies in Advanced Mathematics},

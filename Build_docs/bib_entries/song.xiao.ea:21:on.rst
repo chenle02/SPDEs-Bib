@@ -18,7 +18,8 @@ song.xiao.ea:21:on
     mrreviewer = {David\ Nualart},
     number = {2},
     pages = {Paper No. 125261, 22},
-    title = {On collision of multiple eigenvalues for matrix-valued {G}aussian processes},
+    title = {On collision of multiple eigenvalues for matrix-valued
+   {G}aussian processes},
     url = {https://doi.org/10.1016/j.jmaa.2021.125261},
     volume = {502},
     year = {2021}

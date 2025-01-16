@@ -17,7 +17,8 @@ deift.zhou:94:long-time
     mrreviewer = {Spyridon\ Kamvissis},
     number = {1},
     pages = {175--191},
-    title = {Long-time asymptotics for integrable systems. {H}igher order theory},
+    title = {Long-time asymptotics for integrable systems. {H}igher
+   order theory},
     url = {http://projecteuclid.org/euclid.cmp/1104271038},
     volume = {165},
     year = {1994}

@@ -17,7 +17,8 @@ lankeit:16:new
     mrnumber = {3454184},
     number = {3},
     pages = {394--404},
-    title = {A new approach toward boundedness in a two-dimensional parabolic chemotaxis system with singular sensitivity},
+    title = {A new approach toward boundedness in a two-dimensional
+   parabolic chemotaxis system with singular sensitivity},
     url = {https://doi.org/10.1002/mma.3489},
     volume = {39},
     year = {2016}

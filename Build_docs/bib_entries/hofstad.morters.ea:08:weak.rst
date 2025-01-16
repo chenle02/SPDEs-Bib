@@ -8,7 +8,8 @@ hofstad.morters.ea:08:weak
 .. code-block:: bibtex
 
    @article{hofstad.morters.ea:08:weak,
-    author = {van der Hofstad, Remco and M\"{o}rters, Peter and Sidorova, Nadia},
+    author = {van der Hofstad, Remco and M\"{o}rters, Peter and
+   Sidorova, Nadia},
     doi = {10.1214/08-AAP526},
     fjournal = {The Annals of Applied Probability},
     issn = {1050-5164},
@@ -17,7 +18,8 @@ hofstad.morters.ea:08:weak
     mrnumber = {2474543},
     number = {6},
     pages = {2450--2494},
-    title = {Weak and almost sure limits for the parabolic {A}nderson model with heavy tailed potentials},
+    title = {Weak and almost sure limits for the parabolic {A}nderson
+   model with heavy tailed potentials},
     url = {https://doi.org/10.1214/08-AAP526},
     volume = {18},
     year = {2008}

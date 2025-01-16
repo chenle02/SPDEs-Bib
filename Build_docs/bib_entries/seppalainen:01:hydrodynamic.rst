@@ -18,7 +18,8 @@ seppalainen:01:hydrodynamic
     mrreviewer = {Herv\'{e} Jean F. Guiol},
     number = {1-2},
     pages = {69--96},
-    title = {Hydrodynamic profiles for the totally asymmetric exclusion process with a slow bond},
+    title = {Hydrodynamic profiles for the totally asymmetric exclusion
+   process with a slow bond},
     url = {https://doi.org/10.1023/A:1026508625058},
     volume = {102},
     year = {2001}

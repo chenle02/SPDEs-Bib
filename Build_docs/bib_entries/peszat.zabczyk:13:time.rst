@@ -18,7 +18,8 @@ peszat.zabczyk:13:time
     mrreviewer = {Raluca M. Balan},
     number = {3},
     pages = {719--751},
-    title = {Time regularity of solutions to linear equations with {L}\'{e}vy noise in infinite dimensions},
+    title = {Time regularity of solutions to linear equations with
+   {L}\'{e}vy noise in infinite dimensions},
     url = {https://doi.org/10.1016/j.spa.2012.10.012},
     volume = {123},
     year = {2013}

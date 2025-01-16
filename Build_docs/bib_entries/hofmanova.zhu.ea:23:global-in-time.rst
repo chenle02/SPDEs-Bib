@@ -8,7 +8,8 @@ hofmanova.zhu.ea:23:global-in-time
 .. code-block:: bibtex
 
    @article{hofmanova.zhu.ea:23:global-in-time,
-    author = {Hofmanov\'{a}, Martina and Zhu, Rongchan and Zhu, Xiangchan},
+    author = {Hofmanov\'{a}, Martina and Zhu, Rongchan and Zhu,
+   Xiangchan},
     doi = {10.1214/22-aop1607},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,9 @@ hofmanova.zhu.ea:23:global-in-time
     mrreviewer = {Martin Ondrej\'{a}t},
     number = {2},
     pages = {524--579},
-    title = {Global-in-time probabilistically strong and {M}arkov solutions to stochastic 3{D} {N}avier-{S}tokes equations: existence and nonuniqueness},
+    title = {Global-in-time probabilistically strong and {M}arkov
+   solutions to stochastic 3{D} {N}avier-{S}tokes equations:
+   existence and nonuniqueness},
     url = {https://doi.org/10.1214/22-aop1607},
     volume = {51},
     year = {2023}

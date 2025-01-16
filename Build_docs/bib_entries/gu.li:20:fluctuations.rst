@@ -18,7 +18,8 @@ gu.li:20:fluctuations
     mrreviewer = {Jorge A. Le\'{o}n},
     number = {6},
     pages = {5422--5440},
-    title = {Fluctuations of a nonlinear stochastic heat equation in dimensions three and higher},
+    title = {Fluctuations of a nonlinear stochastic heat equation in
+   dimensions three and higher},
     url = {https://doi.org/10.1137/19M1296380},
     volume = {52},
     year = {2020}

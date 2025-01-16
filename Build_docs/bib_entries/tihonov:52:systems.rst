@@ -15,7 +15,8 @@ tihonov:52:systems
     mrnumber = {55515},
     mrreviewer = {J. L. Massera},
     pages = {575--586},
-    title = {Systems of differential equations containing small parameters in the derivatives},
+    title = {Systems of differential equations containing small
+   parameters in the derivatives},
     volume = {31(73)},
     year = {1952}
    }

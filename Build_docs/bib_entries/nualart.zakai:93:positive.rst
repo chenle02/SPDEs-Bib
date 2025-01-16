@@ -9,7 +9,8 @@ nualart.zakai:93:positive
 
    @incollection{nualart.zakai:93:positive,
     author = {Nualart, David and Zakai, Moshe},
-    booktitle = {Barcelona {S}eminar on {S}tochastic {A}nalysis ({S}t. {F}eliu de {G}u\'{i}xols, 1991)},
+    booktitle = {Barcelona {S}eminar on {S}tochastic {A}nalysis ({S}t.
+   {F}eliu de {G}u\'{i}xols, 1991)},
     mrclass = {60G20 (46F25 60H99)},
     mrnumber = {1265047},
     mrreviewer = {Jan Ub\o e},

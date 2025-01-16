@@ -17,7 +17,8 @@ deift.it-s.ea:93:long-time
     pages = {181--204},
     publisher = {Springer, Berlin},
     series = {Springer Ser. Nonlinear Dynam.},
-    title = {Long-time asymptotics for integrable nonlinear wave equations},
+    title = {Long-time asymptotics for integrable nonlinear wave
+   equations},
     year = {1993}
    }
 

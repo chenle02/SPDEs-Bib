@@ -9,7 +9,8 @@ zambotti:06:ito-tanakas
 
    @incollection{zambotti:06:ito-tanakas,
     author = {Zambotti, Lorenzo},
-    booktitle = {Stochastic partial differential equations and applications---{VII}},
+    booktitle = {Stochastic partial differential equations and
+   applications---{VII}},
     doi = {10.1201/9781420028720.ch27},
     isbn = {978-0-8247-0027-0; 0-8247-0027-9},
     mrclass = {60H15 (35K55 35R60 60H07)},
@@ -18,7 +19,9 @@ zambotti:06:ito-tanakas
     pages = {337--347},
     publisher = {Chapman \& Hall/CRC, Boca Raton, FL},
     series = {Lect. Notes Pure Appl. Math.},
-    title = {It\^{o}-{T}anaka's formula for stochastic partial differential equations driven by additive space-time white noise},
+    title = {It\^{o}-{T}anaka's formula for stochastic partial
+   differential equations driven by additive space-time white
+   noise},
     url = {https://doi.org/10.1201/9781420028720.ch27},
     volume = {245},
     year = {2006}

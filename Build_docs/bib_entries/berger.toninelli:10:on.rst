@@ -16,7 +16,8 @@ berger.toninelli:10:on
     mrnumber = {2650777},
     mrreviewer = {Rongfeng Sun},
     pages = {no. 21, 654--683},
-    title = {On the critical point of the random walk pinning model in dimension {$d=3$}},
+    title = {On the critical point of the random walk pinning model in
+   dimension {$d=3$}},
     url = {https://doi.org/10.1214/EJP.v15-761},
     volume = {15},
     year = {2010}

@@ -18,7 +18,8 @@ mierczynski.shen:05:faber-krahn
     mrreviewer = {Sandra\ Cerrai},
     number = {1},
     pages = {101--114},
-    title = {The {F}aber-{K}rahn inequality for random/nonautonomous parabolic equations},
+    title = {The {F}aber-{K}rahn inequality for random/nonautonomous
+   parabolic equations},
     url = {https://doi.org/10.3934/cpaa.2005.4.101},
     volume = {4},
     year = {2005}

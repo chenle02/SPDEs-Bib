@@ -16,7 +16,8 @@ balan.louhichi:10:explicit
     mrnumber = {2726089},
     mrreviewer = {Makoto Yamazato},
     pages = {428--441},
-    title = {Explicit conditions for the convergence of point processes associated to stationary arrays},
+    title = {Explicit conditions for the convergence of point processes
+   associated to stationary arrays},
     url = {https://doi.org/10.1214/ECP.v15-1563},
     volume = {15},
     year = {2010}

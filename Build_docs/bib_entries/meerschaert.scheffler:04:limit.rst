@@ -18,7 +18,8 @@ meerschaert.scheffler:04:limit
     mrreviewer = {Thomas Polaski},
     number = {3},
     pages = {623--638},
-    title = {Limit theorems for continuous-time random walks with infinite mean waiting times},
+    title = {Limit theorems for continuous-time random walks with
+   infinite mean waiting times},
     url = {https://doi.org/10.1239/jap/1091543414},
     volume = {41},
     year = {2004}

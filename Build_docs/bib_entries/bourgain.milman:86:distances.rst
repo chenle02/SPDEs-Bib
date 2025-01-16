@@ -18,7 +18,8 @@ bourgain.milman:86:distances
     mrreviewer = {David\ Yost},
     number = {1},
     pages = {31--46},
-    title = {Distances between normed spaces, their subspaces and quotient spaces},
+    title = {Distances between normed spaces, their subspaces and
+   quotient spaces},
     url = {https://doi.org/10.1007/BF01257060},
     volume = {9},
     year = {1986}

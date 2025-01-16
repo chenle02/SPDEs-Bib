@@ -18,7 +18,8 @@ zhang:08:euler
     mrreviewer = {Daniel Ocone},
     number = {9},
     pages = {2226--2250},
-    title = {Euler schemes and large deviations for stochastic {V}olterra equations with singular kernels},
+    title = {Euler schemes and large deviations for stochastic
+   {V}olterra equations with singular kernels},
     url = {https://doi.org/10.1016/j.jde.2008.02.019},
     volume = {244},
     year = {2008}

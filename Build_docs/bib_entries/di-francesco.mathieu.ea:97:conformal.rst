@@ -8,7 +8,8 @@ di-francesco.mathieu.ea:97:conformal
 .. code-block:: bibtex
 
    @book{di-francesco.mathieu.ea:97:conformal,
-    author = {Di Francesco, Philippe and Mathieu, Pierre and S\'{e}n\'{e}chal, David},
+    author = {Di Francesco, Philippe and Mathieu, Pierre and
+   S\'{e}n\'{e}chal, David},
     doi = {10.1007/978-1-4612-2256-9},
     isbn = {0-387-94785-X},
     mrclass = {81T40 (81-02)},

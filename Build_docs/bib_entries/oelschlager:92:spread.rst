@@ -17,7 +17,8 @@ oelschlager:92:spread
     mrnumber = {1154695},
     number = {4},
     pages = {321--354},
-    title = {The spread of a parasitic infection in a spatially distributed host population},
+    title = {The spread of a parasitic infection in a spatially
+   distributed host population},
     url = {https://doi.org/10.1007/BF00173291},
     volume = {30},
     year = {1992}

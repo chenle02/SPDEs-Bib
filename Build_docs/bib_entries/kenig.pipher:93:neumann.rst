@@ -18,7 +18,8 @@ kenig.pipher:93:neumann
     mrreviewer = {Bruno Franchi},
     number = {3},
     pages = {447--509},
-    title = {The {N}eumann problem for elliptic equations with nonsmooth coefficients},
+    title = {The {N}eumann problem for elliptic equations with
+   nonsmooth coefficients},
     url = {https://doi.org/10.1007/BF01244315},
     volume = {113},
     year = {1993}

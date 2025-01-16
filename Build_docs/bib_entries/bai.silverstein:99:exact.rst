@@ -17,7 +17,8 @@ bai.silverstein:99:exact
     mrnumber = {1733159},
     number = {3},
     pages = {1536--1555},
-    title = {Exact separation of eigenvalues of large-dimensional sample covariance matrices},
+    title = {Exact separation of eigenvalues of large-dimensional
+   sample covariance matrices},
     url = {https://doi.org/10.1214/aop/1022677458},
     volume = {27},
     year = {1999}

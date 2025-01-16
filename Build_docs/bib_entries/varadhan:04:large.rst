@@ -17,7 +17,8 @@ varadhan:04:large
     pages = {1--27},
     publisher = {Math. Soc. Japan, Tokyo},
     series = {Adv. Stud. Pure Math.},
-    title = {Large deviations for the asymmetric simple exclusion process},
+    title = {Large deviations for the asymmetric simple exclusion
+   process},
     url = {https://doi.org/10.2969/aspm/03910001},
     volume = {39},
     year = {2004}

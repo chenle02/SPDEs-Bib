@@ -17,7 +17,8 @@ millet.sanz-sole:94:simple
     pages = {36--48},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {A simple proof of the support theorem for diffusion processes},
+    title = {A simple proof of the support theorem for diffusion
+   processes},
     url = {https://doi.org/10.1007/BFb0073832},
     volume = {1583},
     year = {1994}

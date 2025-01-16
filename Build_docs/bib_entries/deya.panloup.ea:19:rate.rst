@@ -18,7 +18,9 @@ deya.panloup.ea:19:rate
     mrreviewer = {Mireia Besal\'{u}},
     number = {1},
     pages = {464--518},
-    title = {Rate of convergence to equilibrium of fractional driven stochastic differential equations with rough multiplicative noise},
+    title = {Rate of convergence to equilibrium of fractional driven
+   stochastic differential equations with rough multiplicative
+   noise},
     url = {https://doi.org/10.1214/18-AOP1265},
     volume = {47},
     year = {2019}

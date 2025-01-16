@@ -18,7 +18,8 @@ dalang.mueller.ea:06:hitting
     mrreviewer = {Jan I. Seidler},
     number = {4},
     pages = {1423--1450},
-    title = {Hitting properties of parabolic s.p.d.e.'s with reflection},
+    title = {Hitting properties of parabolic s.p.d.e.'s with
+   reflection},
     url = {https://doi.org/10.1214/009117905000000792},
     volume = {34},
     year = {2006}

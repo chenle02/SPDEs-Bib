@@ -9,7 +9,8 @@ maslowski.seidler.ea:93:integral
 
    @article{maslowski.seidler.ea:93:integral,
     author = {Maslowski, Bohdan and Seidler, Jan and Vrko\v{c}, Ivo},
-    fjournal = {Differential and Integral Equations. An International Journal for Theory and Applications},
+    fjournal = {Differential and Integral Equations. An International
+   Journal for Theory and Applications},
     issn = {0893-4983},
     journal = {Differential Integral Equations},
     mrclass = {60H15 (35B35 35R60)},
@@ -17,7 +18,8 @@ maslowski.seidler.ea:93:integral
     mrreviewer = {Jerzy\ Zabczyk},
     number = {2},
     pages = {355--382},
-    title = {Integral continuity and stability for stochastic hyperbolic equations},
+    title = {Integral continuity and stability for stochastic
+   hyperbolic equations},
     volume = {6},
     year = {1993}
    }

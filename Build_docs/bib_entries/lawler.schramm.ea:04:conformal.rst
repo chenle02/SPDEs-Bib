@@ -8,7 +8,8 @@ lawler.schramm.ea:04:conformal
 .. code-block:: bibtex
 
    @article{lawler.schramm.ea:04:conformal,
-    author = {Lawler, Gregory F. and Schramm, Oded and Werner, Wendelin},
+    author = {Lawler, Gregory F. and Schramm, Oded and Werner,
+   Wendelin},
     doi = {10.1214/aop/1079021469},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ lawler.schramm.ea:04:conformal
     mrreviewer = {Olivier Raimond},
     number = {1B},
     pages = {939--995},
-    title = {Conformal invariance of planar loop-erased random walks and uniform spanning trees},
+    title = {Conformal invariance of planar loop-erased random walks
+   and uniform spanning trees},
     url = {https://doi.org/10.1214/aop/1079021469},
     volume = {32},
     year = {2004}

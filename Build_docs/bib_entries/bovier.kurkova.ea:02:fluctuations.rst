@@ -18,7 +18,8 @@ bovier.kurkova.ea:02:fluctuations
     mrreviewer = {Nicoletta Cancrini},
     number = {2},
     pages = {605--651},
-    title = {Fluctuations of the free energy in the {REM} and the {$p$}-spin {SK} models},
+    title = {Fluctuations of the free energy in the {REM} and the
+   {$p$}-spin {SK} models},
     url = {https://doi.org/10.1214/aop/1023481004},
     volume = {30},
     year = {2002}

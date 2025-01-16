@@ -16,7 +16,8 @@ nualart.pardoux:91:stochastic
     pages = {155--175},
     publisher = {Birkh\"{a}user Boston, Boston, MA},
     series = {Progr. Probab.},
-    title = {Stochastic differential equations with boundary conditions},
+    title = {Stochastic differential equations with boundary
+   conditions},
     volume = {26},
     year = {1991}
    }

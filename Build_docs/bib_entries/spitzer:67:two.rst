@@ -9,7 +9,8 @@ spitzer:67:two
 
    @incollection{spitzer:67:two,
     author = {Spitzer, F.},
-    booktitle = {Symposium on {P}robability {M}ethods in {A}nalysis ({L}outraki, 1966)},
+    booktitle = {Symposium on {P}robability {M}ethods in {A}nalysis
+   ({L}outraki, 1966)},
     mrclass = {60.65},
     mrnumber = {224165},
     mrreviewer = {J.\ L.\ Snell},

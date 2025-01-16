@@ -17,7 +17,8 @@ ishida.seki.ea:14:boundedness
     mrnumber = {3199754},
     number = {8},
     pages = {2993--3010},
-    title = {Boundedness in quasilinear {K}eller-{S}egel systems of parabolic-parabolic type on non-convex bounded domains},
+    title = {Boundedness in quasilinear {K}eller-{S}egel systems of
+   parabolic-parabolic type on non-convex bounded domains},
     url = {https://doi.org/10.1016/j.jde.2014.01.028},
     volume = {256},
     year = {2014}

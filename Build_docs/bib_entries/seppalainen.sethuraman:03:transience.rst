@@ -18,7 +18,9 @@ seppalainen.sethuraman:03:transience
     mrreviewer = {Boualem Djehiche},
     number = {1},
     pages = {148--169},
-    title = {Transience of second-class particles and diffusive bounds for additive functionals in one-dimensional asymmetric exclusion processes},
+    title = {Transience of second-class particles and diffusive bounds
+   for additive functionals in one-dimensional asymmetric
+   exclusion processes},
     url = {https://doi.org/10.1214/aop/1046294307},
     volume = {31},
     year = {2003}

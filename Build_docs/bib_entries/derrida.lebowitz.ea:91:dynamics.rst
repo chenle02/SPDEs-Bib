@@ -8,7 +8,8 @@ derrida.lebowitz.ea:91:dynamics
 .. code-block:: bibtex
 
    @article{derrida.lebowitz.ea:91:dynamics,
-    author = {Derrida, B. and Lebowitz, J. L. and Speer, E. R. and Spohn, H.},
+    author = {Derrida, B. and Lebowitz, J. L. and Speer, E. R. and
+   Spohn, H.},
     fjournal = {Journal of Physics. A. Mathematical and General},
     issn = {0305-4470,1751-8121},
     journal = {J. Phys. A},

@@ -8,7 +8,8 @@ baeumer.meerschaert.ea:05:space-time
 .. code-block:: bibtex
 
    @article{baeumer.meerschaert.ea:05:space-time,
-    author = {Baeumer, Boris and Meerschaert, Mark M. and Mortensen, Jeff},
+    author = {Baeumer, Boris and Meerschaert, Mark M. and Mortensen,
+   Jeff},
     doi = {10.1090/S0002-9939-05-07949-9},
     fjournal = {Proceedings of the American Mathematical Society},
     issn = {0002-9939},

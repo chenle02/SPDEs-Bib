@@ -17,7 +17,8 @@ mimura:17:variational
     mrnumber = {3632226},
     number = {2},
     pages = {1477--1521},
-    title = {The variational formulation of the fully parabolic {K}eller-{S}egel system with degenerate diffusion},
+    title = {The variational formulation of the fully parabolic
+   {K}eller-{S}egel system with degenerate diffusion},
     url = {https://doi.org/10.1016/j.jde.2017.03.020},
     volume = {263},
     year = {2017}

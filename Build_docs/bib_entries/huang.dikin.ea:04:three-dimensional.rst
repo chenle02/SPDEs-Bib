@@ -8,7 +8,8 @@ huang.dikin.ea:04:three-dimensional
 .. code-block:: bibtex
 
    @article{huang.dikin.ea:04:three-dimensional,
-    author = {Huang, Z. and Dikin, D. A. and Ding, W. and Qiao, Y. and Chen, X. and Fridman, Y. and Ruoff, R. S.},
+    author = {Huang, Z. and Dikin, D. A. and Ding, W. and Qiao, Y. and
+   Chen, X. and Fridman, Y. and Ruoff, R. S.},
     doi = {10.1111/j.0022-2720.2004.01418.x},
     fjournal = {Journal of Microscopy},
     issn = {0022-2720},

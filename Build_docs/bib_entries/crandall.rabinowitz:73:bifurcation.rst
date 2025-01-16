@@ -17,7 +17,8 @@ crandall.rabinowitz:73:bifurcation
     mrnumber = {341212},
     mrreviewer = {Norman Dancer},
     pages = {161--180},
-    title = {Bifurcation, perturbation of simple eigenvalues and linearized stability},
+    title = {Bifurcation, perturbation of simple eigenvalues and
+   linearized stability},
     url = {https://doi.org/10.1007/BF00282325},
     volume = {52},
     year = {1973}

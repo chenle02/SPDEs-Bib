@@ -18,7 +18,9 @@ leon.villa:11:osgood
     mrreviewer = {Victoria Knopova},
     number = {4},
     pages = {470--477},
-    title = {An {O}sgood criterion for integral equations with applications to stochastic differential equations with an additive noise},
+    title = {An {O}sgood criterion for integral equations with
+   applications to stochastic differential equations with an
+   additive noise},
     url = {https://doi.org/10.1016/j.spl.2010.12.001},
     volume = {81},
     year = {2011}

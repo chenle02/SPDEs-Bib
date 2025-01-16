@@ -9,9 +9,11 @@ popa:76:on
 
    @article{popa:76:on,
     author = {Popa, V.},
-    fjournal = {Buletinul \c{S}tiin\c{t}ific \c{s}i Tehnic al Institutului Politehnic "Traian Vuia" Timi\c{s}oara},
+    fjournal = {Buletinul \c{S}tiin\c{t}ific \c{s}i Tehnic al Institutului
+   Politehnic "Traian Vuia" Timi\c{s}oara},
     issn = {1220-0581},
-    journal = {Bul. \c{S}ti. Tehn. Inst. Politehn. "Traian Vuia" Timi\c{s}oara},
+    journal = {Bul. \c{S}ti. Tehn. Inst. Politehn. "Traian Vuia"
+   Timi\c{s}oara},
     mrclass = {54E55},
     mrnumber = {448313},
     mrreviewer = {Toma Albu},

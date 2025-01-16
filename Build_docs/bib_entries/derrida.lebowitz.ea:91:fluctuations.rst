@@ -8,7 +8,8 @@ derrida.lebowitz.ea:91:fluctuations
 .. code-block:: bibtex
 
    @article{derrida.lebowitz.ea:91:fluctuations,
-    author = {Derrida, B. and Lebowitz, J. L. and Speer, E. R. and Spohn, H.},
+    author = {Derrida, B. and Lebowitz, J. L. and Speer, E. R. and
+   Spohn, H.},
     doi = {10.1103/PhysRevLett.67.165},
     fjournal = {Physical Review Letters},
     issn = {0031-9007},

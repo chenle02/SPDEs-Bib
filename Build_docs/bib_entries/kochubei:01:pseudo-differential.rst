@@ -17,7 +17,8 @@ kochubei:01:pseudo-differential
     pages = {xii+316},
     publisher = {Marcel Dekker, Inc., New York},
     series = {Monographs and Textbooks in Pure and Applied Mathematics},
-    title = {Pseudo-differential equations and stochastics over non-{A}rchimedean fields},
+    title = {Pseudo-differential equations and stochastics over
+   non-{A}rchimedean fields},
     url = {https://doi.org/10.1201/9780203908167},
     volume = {244},
     year = {2001}

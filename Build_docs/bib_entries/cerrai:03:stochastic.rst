@@ -18,7 +18,8 @@ cerrai:03:stochastic
     mrreviewer = {B. G. Pachpatte},
     number = {2},
     pages = {271--304},
-    title = {Stochastic reaction-diffusion systems with multiplicative noise and non-{L}ipschitz reaction term},
+    title = {Stochastic reaction-diffusion systems with multiplicative
+   noise and non-{L}ipschitz reaction term},
     url = {https://doi.org/10.1007/s00440-002-0230-6},
     volume = {125},
     year = {2003}

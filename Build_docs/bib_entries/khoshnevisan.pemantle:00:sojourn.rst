@@ -10,7 +10,8 @@ khoshnevisan.pemantle:00:sojourn
    @incollection{khoshnevisan.pemantle:00:sojourn,
     author = {Khoshnevisan, D. and Pemantle, R.},
     doi = {10.1023/A:1010324606980},
-    fjournal = {Periodica Mathematica Hungarica. Journal of the J\'{a}nos Bolyai Mathematical Society},
+    fjournal = {Periodica Mathematica Hungarica. Journal of the J\'{a}nos
+   Bolyai Mathematical Society},
     issn = {0031-5303},
     journal = {Period. Math. Hungar.},
     mrclass = {60G60 (60G15)},

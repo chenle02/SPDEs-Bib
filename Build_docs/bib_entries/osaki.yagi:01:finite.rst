@@ -17,7 +17,8 @@ osaki.yagi:01:finite
     mrreviewer = {Philippe Lauren\c{c}ot},
     number = {3},
     pages = {441--469},
-    title = {Finite dimensional attractor for one-dimensional {K}eller-{S}egel equations},
+    title = {Finite dimensional attractor for one-dimensional
+   {K}eller-{S}egel equations},
     url = {http://www.math.kobe-u.ac.jp/~fe/xml/mr1893940.xml},
     volume = {44},
     year = {2001}

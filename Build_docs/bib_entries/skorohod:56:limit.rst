@@ -9,7 +9,8 @@ skorohod:56:limit
 
    @article{skorohod:56:limit,
     author = {Skorohod, A. V.},
-    fjournal = {Akademija Nauk SSSR. Teorija Verojatnosteu{i} i ee Primenenija},
+    fjournal = {Akademija Nauk SSSR. Teorija Verojatnosteu{i} i ee
+   Primenenija},
     issn = {0040-361x},
     journal = {Teor. Veroyatnost. i Primenen.},
     mrclass = {60.0X},

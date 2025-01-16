@@ -10,7 +10,8 @@ bourgain.chang:10:on
    @article{bourgain.chang:10:on,
     author = {Bourgain, Jean and Chang, Mei-Chu},
     doi = {10.1016/j.crma.2009.12.013},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {11L40},

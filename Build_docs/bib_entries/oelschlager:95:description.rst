@@ -18,7 +18,8 @@ oelschlager:95:description
     mrreviewer = {Ana\ M.\ Carpio},
     number = {7},
     pages = {887--922},
-    title = {The description of many-particle systems by the equations for a viscous, compressible, barotropic fluid},
+    title = {The description of many-particle systems by the equations
+   for a viscous, compressible, barotropic fluid},
     url = {https://doi.org/10.1142/S0218202595000486},
     volume = {5},
     year = {1995}

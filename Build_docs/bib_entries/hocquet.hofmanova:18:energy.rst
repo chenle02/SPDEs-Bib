@@ -18,7 +18,8 @@ hocquet.hofmanova:18:energy
     mrreviewer = {Le\ Chen},
     number = {4},
     pages = {1407--1466},
-    title = {An energy method for rough partial differential equations},
+    title = {An energy method for rough partial differential
+   equations},
     url = {https://doi.org/10.1016/j.jde.2018.04.006},
     volume = {265},
     year = {2018}

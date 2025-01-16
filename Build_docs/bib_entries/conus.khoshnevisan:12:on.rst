@@ -18,7 +18,8 @@ conus.khoshnevisan:12:on
     mrreviewer = {David Nualart},
     number = {3-4},
     pages = {681--701},
-    title = {On the existence and position of the farthest peaks of a family of stochastic heat and wave equations},
+    title = {On the existence and position of the farthest peaks of a
+   family of stochastic heat and wave equations},
     url = {https://doi.org/10.1007/s00440-010-0333-4},
     volume = {152},
     year = {2012}

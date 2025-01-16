@@ -18,7 +18,8 @@ ferrante.nualart:95:markov
     mrreviewer = {Axel Ernest Grorud},
     number = {1-2},
     pages = {55--69},
-    title = {Markov field property for stochastic differential equations with boundary conditions},
+    title = {Markov field property for stochastic differential
+   equations with boundary conditions},
     url = {https://doi.org/10.1080/17442509508834018},
     volume = {55},
     year = {1995}

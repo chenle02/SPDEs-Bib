@@ -8,7 +8,8 @@ chang.krantz.ea:93:hp
 .. code-block:: bibtex
 
    @article{chang.krantz.ea:93:hp,
-    author = {Chang, Der-Chen and Krantz, Steven G. and Stein, Elias M.},
+    author = {Chang, Der-Chen and Krantz, Steven G. and Stein, Elias
+   M.},
     doi = {10.1006/jfan.1993.1069},
     fjournal = {Journal of Functional Analysis},
     issn = {0022-1236},
@@ -17,7 +18,8 @@ chang.krantz.ea:93:hp
     mrnumber = {1223705},
     number = {2},
     pages = {286--347},
-    title = {{$H^p$} theory on a smooth domain in {${\bf R}^N$} and elliptic boundary value problems},
+    title = {{$H^p$} theory on a smooth domain in {${\bf R}^N$} and
+   elliptic boundary value problems},
     url = {https://doi.org/10.1006/jfan.1993.1069},
     volume = {114},
     year = {1993}

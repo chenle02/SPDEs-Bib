@@ -18,7 +18,8 @@ gu.ryzhik.ea:18:edwards-wilkinson
     mrreviewer = {Hongbo Fu},
     number = {2},
     pages = {351--388},
-    title = {The {E}dwards-{W}ilkinson limit of the random heat equation in dimensions three and higher},
+    title = {The {E}dwards-{W}ilkinson limit of the random heat
+   equation in dimensions three and higher},
     url = {https://doi.org/10.1007/s00220-018-3202-0},
     volume = {363},
     year = {2018}

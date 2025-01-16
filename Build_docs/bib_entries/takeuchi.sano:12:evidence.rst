@@ -16,7 +16,9 @@ takeuchi.sano:12:evidence
     month = {Jun},
     number = {5},
     pages = {853--890},
-    title = {Evidence for Geometry-Dependent Universal Fluctuations of the Kardar-Parisi-Zhang Interfaces in Liquid-Crystal Turbulence},
+    title = {Evidence for Geometry-Dependent Universal Fluctuations of
+   the Kardar-Parisi-Zhang Interfaces in Liquid-Crystal
+   Turbulence},
     url = {https://doi.org/10.1007/s10955-012-0503-0},
     volume = {147},
     year = {2012}

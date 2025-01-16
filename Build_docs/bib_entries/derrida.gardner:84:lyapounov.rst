@@ -17,7 +17,8 @@ derrida.gardner:84:lyapounov
     mrnumber = {763431},
     number = {8},
     pages = {1283--1295},
-    title = {Lyapounov exponent of the one-dimensional {A}nderson model: weak disorder expansions},
+    title = {Lyapounov exponent of the one-dimensional {A}nderson
+   model: weak disorder expansions},
     url = {https://doi.org/10.1051/jphys:019840045080128300},
     volume = {45},
     year = {1984}

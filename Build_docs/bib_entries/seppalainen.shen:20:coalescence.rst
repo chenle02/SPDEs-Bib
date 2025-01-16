@@ -16,7 +16,8 @@ seppalainen.shen:20:coalescence
     mrnumber = {4125790},
     mrreviewer = {Jere Koskela},
     pages = {Paper No. 85, 31},
-    title = {Coalescence estimates for the corner growth model with exponential weights},
+    title = {Coalescence estimates for the corner growth model with
+   exponential weights},
     url = {https://doi.org/10.1214/20-ejp489},
     volume = {25},
     year = {2020}

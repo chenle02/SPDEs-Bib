@@ -9,7 +9,8 @@ zhong.xiao:95:local
 
    @article{zhong.xiao:95:local,
     author = {Zhong, Yu Quan and Xiao, Yi Min},
-    fjournal = {Acta Mathematica Scientia. Series A. Shuxue Wuli Xuebao. Chinese Edition},
+    fjournal = {Acta Mathematica Scientia. Series A. Shuxue Wuli Xuebao.
+   Chinese Edition},
     issn = {1003-3998},
     journal = {Acta Math. Sci. (Chinese)},
     mrclass = {60J30 (60J55)},
@@ -17,7 +18,8 @@ zhong.xiao:95:local
     mrreviewer = {Tu\ Sheng\ Zhang},
     number = {2},
     pages = {141--152},
-    title = {Local times and multiple points of stable sheet intersections},
+    title = {Local times and multiple points of stable sheet
+   intersections},
     volume = {15},
     year = {1995}
    }

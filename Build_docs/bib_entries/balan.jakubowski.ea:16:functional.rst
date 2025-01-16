@@ -18,7 +18,8 @@ balan.jakubowski.ea:16:functional
     mrreviewer = {Danijel Krizmani\'{c}},
     number = {2},
     pages = {491--526},
-    title = {Functional convergence of linear processes with heavy-tailed innovations},
+    title = {Functional convergence of linear processes with
+   heavy-tailed innovations},
     url = {https://doi.org/10.1007/s10959-014-0581-9},
     volume = {29},
     year = {2016}

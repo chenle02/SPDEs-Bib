@@ -8,7 +8,8 @@ mueller.neuman.ea:20:improved
 .. code-block:: bibtex
 
    @article{mueller.neuman.ea:20:improved,
-    author = {Mueller, Carl and Neuman, Eyal and Salins, Michael and Truong, Giang},
+    author = {Mueller, Carl and Neuman, Eyal and Salins, Michael and
+   Truong, Giang},
     doi = {10.31390/josa.1.2.01},
     fjournal = {Journal of Stochastic Analysis. JOSA},
     journal = {J. Stoch. Anal.},
@@ -17,7 +18,8 @@ mueller.neuman.ea:20:improved
     mrreviewer = {Andrey Sarantsev},
     number = {2},
     pages = {Art. 1, 7},
-    title = {An improved uniqueness result for a system of {SDE} related to the stochastic wave equation},
+    title = {An improved uniqueness result for a system of {SDE}
+   related to the stochastic wave equation},
     url = {https://doi.org/10.31390/josa.1.2.01},
     volume = {1},
     year = {2020}

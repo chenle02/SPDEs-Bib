@@ -18,7 +18,8 @@ khoshnevisan.lewis:96:uniform
     mrreviewer = {Zhan Shi},
     number = {2},
     pages = {317--333},
-    title = {The uniform modulus of continuity of iterated {B}rownian motion},
+    title = {The uniform modulus of continuity of iterated {B}rownian
+   motion},
     url = {https://doi.org/10.1007/BF02214652},
     volume = {9},
     year = {1996}

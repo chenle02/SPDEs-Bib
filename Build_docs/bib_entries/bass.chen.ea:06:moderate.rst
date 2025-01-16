@@ -17,7 +17,9 @@ bass.chen.ea:06:moderate
     mrnumber = {2261059},
     mrreviewer = {Firas Rassoul-Agha},
     pages = {no. 37, 993--1030},
-    title = {Moderate deviations and laws of the iterated logarithm for the renormalized self-intersection local times of planar random walks},
+    title = {Moderate deviations and laws of the iterated logarithm for
+   the renormalized self-intersection local times of planar
+   random walks},
     url = {https://doi.org/10.1214/EJP.v11-362},
     volume = {11},
     year = {2006}

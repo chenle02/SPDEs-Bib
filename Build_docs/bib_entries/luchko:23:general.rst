@@ -16,7 +16,8 @@ luchko:23:general
     mrclass = {26A33 (34A08 41A58)},
     mrnumber = {4642591},
     pages = {Paper No. 133906, 8},
-    title = {General fractional integrals and derivatives and their applications},
+    title = {General fractional integrals and derivatives and their
+   applications},
     url = {https://doi.org/10.1016/j.physd.2023.133906},
     volume = {455},
     year = {2023}

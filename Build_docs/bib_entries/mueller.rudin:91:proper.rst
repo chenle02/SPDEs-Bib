@@ -10,7 +10,8 @@ mueller.rudin:91:proper
    @article{mueller.rudin:91:proper,
     author = {Mueller, Carl and Rudin, Walter},
     doi = {10.1080/17476939108814502},
-    fjournal = {Complex Variables. Theory and Application. An International Journal},
+    fjournal = {Complex Variables. Theory and Application. An
+   International Journal},
     issn = {0278-1077},
     journal = {Complex Variables Theory Appl.},
     mrclass = {30C25 (30F99)},

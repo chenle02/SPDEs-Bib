@@ -18,7 +18,9 @@ federico.goldys.ea:11:hjb
     mrreviewer = {Marino\ Belloni},
     number = {6},
     pages = {2378--2414},
-    title = {H{JB} equations for the optimal control of differential equations with delays and state constraints, {II}: {V}erification and optimal feedbacks},
+    title = {H{JB} equations for the optimal control of differential
+   equations with delays and state constraints, {II}:
+   {V}erification and optimal feedbacks},
     url = {https://doi.org/10.1137/100804292},
     volume = {49},
     year = {2011}

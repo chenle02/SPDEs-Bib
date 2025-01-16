@@ -18,7 +18,8 @@ biler.karch.ea:19:global
     mrreviewer = {Jingyu Li},
     number = {11},
     pages = {6352--6369},
-    title = {Global radial solutions in classical {K}eller-{S}egel model of chemotaxis},
+    title = {Global radial solutions in classical {K}eller-{S}egel
+   model of chemotaxis},
     url = {https://doi.org/10.1016/j.jde.2019.06.024},
     volume = {267},
     year = {2019}

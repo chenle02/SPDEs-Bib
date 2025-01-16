@@ -18,7 +18,8 @@ chow.shen:95:dynamics
     mrreviewer = {Sergey\ A.\ Vakulenko},
     number = {6},
     pages = {1764--1781},
-    title = {Dynamics in a discrete {N}agumo equation: spatial topological chaos},
+    title = {Dynamics in a discrete {N}agumo equation: spatial
+   topological chaos},
     url = {https://doi.org/10.1137/S0036139994261757},
     volume = {55},
     year = {1995}

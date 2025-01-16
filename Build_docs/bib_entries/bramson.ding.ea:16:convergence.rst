@@ -18,7 +18,8 @@ bramson.ding.ea:16:convergence
     mrreviewer = {Serguei\ Popov},
     number = {1},
     pages = {62--123},
-    title = {Convergence in law of the maximum of the two-dimensional discrete {G}aussian free field},
+    title = {Convergence in law of the maximum of the two-dimensional
+   discrete {G}aussian free field},
     url = {https://doi.org/10.1002/cpa.21621},
     volume = {69},
     year = {2016}

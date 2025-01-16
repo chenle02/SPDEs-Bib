@@ -8,7 +8,8 @@ landim.quastel.ea:04:superdiffusivity
 .. code-block:: bibtex
 
    @article{landim.quastel.ea:04:superdiffusivity,
-    author = {Landim, C. and Quastel, J. and Salmhofer, M. and Yau, H.-T.},
+    author = {Landim, C. and Quastel, J. and Salmhofer, M. and Yau,
+   H.-T.},
     doi = {10.1007/s00220-003-1020-4},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},
@@ -18,7 +19,8 @@ landim.quastel.ea:04:superdiffusivity
     mrreviewer = {Christian Maes},
     number = {3},
     pages = {455--481},
-    title = {Superdiffusivity of asymmetric exclusion process in dimensions one and two},
+    title = {Superdiffusivity of asymmetric exclusion process in
+   dimensions one and two},
     url = {https://doi.org/10.1007/s00220-003-1020-4},
     volume = {244},
     year = {2004}

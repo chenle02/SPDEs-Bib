@@ -17,7 +17,8 @@ chen:94:on
     mrreviewer = {Igor S. Borisov},
     number = {2},
     pages = {1026--1043},
-    title = {On {S}trassen's law of the iterated logarithm in {B}anach space},
+    title = {On {S}trassen's law of the iterated logarithm in {B}anach
+   space},
     url = {http://links.jstor.org/sici?sici=0091-1798(199404)22:2<1026:OSLOTI>2.0.CO;2-S&origin=MSN},
     volume = {22},
     year = {1994}

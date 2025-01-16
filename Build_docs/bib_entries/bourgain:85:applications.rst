@@ -18,7 +18,8 @@ bourgain:85:applications
     mrreviewer = {P.\ Wojtaszczyk},
     number = {2},
     pages = {277--283},
-    title = {Applications of the spaces of homogeneous polynomials to some problems on the ball algebra},
+    title = {Applications of the spaces of homogeneous polynomials to
+   some problems on the ball algebra},
     url = {https://doi.org/10.2307/2044761},
     volume = {93},
     year = {1985}

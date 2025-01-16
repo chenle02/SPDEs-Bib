@@ -17,7 +17,8 @@ wang.hillen:07:classical
     mrnumber = {2356982},
     number = {3},
     pages = {037108, 13},
-    title = {Classical solutions and pattern formation for a volume filling chemotaxis model},
+    title = {Classical solutions and pattern formation for a volume
+   filling chemotaxis model},
     url = {https://doi.org/10.1063/1.2766864},
     volume = {17},
     year = {2007}

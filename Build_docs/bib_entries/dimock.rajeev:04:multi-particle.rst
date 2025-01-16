@@ -18,7 +18,8 @@ dimock.rajeev:04:multi-particle
     mrreviewer = {Igor Yurievich Popov},
     number = {39},
     pages = {9157--9173},
-    title = {Multi-particle {S}chr\"{o}dinger operators with point interactions in the plane},
+    title = {Multi-particle {S}chr\"{o}dinger operators with point
+   interactions in the plane},
     url = {https://doi.org/10.1088/0305-4470/37/39/008},
     volume = {37},
     year = {2004}

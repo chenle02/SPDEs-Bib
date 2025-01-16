@@ -8,7 +8,8 @@ bardina.nourdin.ea:10:weak
 .. code-block:: bibtex
 
    @article{bardina.nourdin.ea:10:weak,
-    author = {Bardina, X. and Nourdin, I. and Rovira, C. and Tindel, S.},
+    author = {Bardina, X. and Nourdin, I. and Rovira, C. and Tindel,
+   S.},
     doi = {10.1016/j.spa.2009.10.008},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149},

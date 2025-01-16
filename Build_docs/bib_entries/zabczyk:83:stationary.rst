@@ -17,7 +17,8 @@ zabczyk:83:stationary
     mrreviewer = {Ludwig\ Arnold},
     number = {3-4},
     pages = {197--209},
-    title = {Stationary distribution for linear equations driven by general noise},
+    title = {Stationary distribution for linear equations driven by
+   general noise},
     volume = {31},
     year = {1983}
    }

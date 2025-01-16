@@ -18,7 +18,8 @@ hochberg.orsingher:96:composition
     mrreviewer = {Joerg-Uwe Loebus},
     number = {2},
     pages = {511--532},
-    title = {Composition of stochastic processes governed by higher-order parabolic and hyperbolic equations},
+    title = {Composition of stochastic processes governed by
+   higher-order parabolic and hyperbolic equations},
     url = {https://doi.org/10.1007/BF02214661},
     volume = {9},
     year = {1996}

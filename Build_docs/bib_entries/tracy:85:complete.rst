@@ -18,7 +18,8 @@ tracy:85:complete
     mrreviewer = {Anatoliy Prykarpatsky},
     number = {2},
     pages = {253--264},
-    title = {Complete integrability in statistical mechanics and the {Y}ang-{B}axter equations},
+    title = {Complete integrability in statistical mechanics and the
+   {Y}ang-{B}axter equations},
     url = {https://doi.org/10.1016/0167-2789(85)90183-6},
     volume = {14},
     year = {1985}

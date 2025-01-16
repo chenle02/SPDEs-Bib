@@ -8,7 +8,8 @@ chen.hu.ea:17:spatial
 .. code-block:: bibtex
 
    @article{chen.hu.ea:17:spatial,
-    author = {Chen, Xia and Hu, Yaozhong and Nualart, David and Tindel, Samy},
+    author = {Chen, Xia and Hu, Yaozhong and Nualart, David and Tindel,
+   Samy},
     doi = {10.1214/17-EJP83},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},
@@ -16,7 +17,8 @@ chen.hu.ea:17:spatial
     mrnumber = {3690290},
     mrreviewer = {Peter Karl Friz},
     pages = {Paper No. 65, 38},
-    title = {Spatial asymptotics for the parabolic {A}nderson model driven by a {G}aussian rough noise},
+    title = {Spatial asymptotics for the parabolic {A}nderson model
+   driven by a {G}aussian rough noise},
     url = {https://doi.org/10.1214/17-EJP83},
     volume = {22},
     year = {2017}

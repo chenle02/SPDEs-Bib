@@ -10,7 +10,8 @@ zeitouni.gutman:91:on
    @article{zeitouni.gutman:91:on,
     author = {Zeitouni, Ofer and Gutman, Michael},
     doi = {10.1109/18.75244},
-    fjournal = {Institute of Electrical and Electronics Engineers. Transactions on Information Theory},
+    fjournal = {Institute of Electrical and Electronics Engineers.
+   Transactions on Information Theory},
     issn = {0018-9448,1557-9654},
     journal = {IEEE Trans. Inform. Theory},
     mrclass = {94A13 (60F10 62G10)},

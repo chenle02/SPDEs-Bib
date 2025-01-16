@@ -8,7 +8,9 @@ basor.bottcher.ea:22:remembrances
 .. code-block:: bibtex
 
    @article{basor.bottcher.ea:22:remembrances,
-    author = {Basor, Estelle and B\"{o}ttcher, Albrecht and Corwin, Ivan and Diaconis, Persi and Ehrhardt, Torsten and Kelley, Al and Simon, Barry and Tracy, Craig A. and Tromba, Tony},
+    author = {Basor, Estelle and B\"{o}ttcher, Albrecht and Corwin, Ivan
+   and Diaconis, Persi and Ehrhardt, Torsten and Kelley, Al
+   and Simon, Barry and Tracy, Craig A. and Tromba, Tony},
     doi = {10.1090/noti2457},
     fjournal = {Notices of the American Mathematical Society},
     issn = {0002-9920},

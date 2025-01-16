@@ -18,7 +18,8 @@ tindel.tudor.ea:04:sharp
     mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},
     number = {2},
     pages = {280--313},
-    title = {Sharp {G}aussian regularity on the circle, and applications to the fractional stochastic heat equation},
+    title = {Sharp {G}aussian regularity on the circle, and
+   applications to the fractional stochastic heat equation},
     url = {https://doi.org/10.1016/j.jfa.2003.12.002},
     volume = {217},
     year = {2004}

@@ -8,7 +8,8 @@ baudoin.nualart.ea:16:on
 .. code-block:: bibtex
 
    @article{baudoin.nualart.ea:16:on,
-    author = {Baudoin, F. and Nualart, E. and Ouyang, C. and Tindel, S.},
+    author = {Baudoin, F. and Nualart, E. and Ouyang, C. and Tindel,
+   S.},
     doi = {10.1214/15-AOP1028},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ baudoin.nualart.ea:16:on
     mrreviewer = {Jingyu Huang},
     number = {4},
     pages = {2554--2590},
-    title = {On probability laws of solutions to differential systems driven by a fractional {B}rownian motion},
+    title = {On probability laws of solutions to differential systems
+   driven by a fractional {B}rownian motion},
     url = {https://doi.org/10.1214/15-AOP1028},
     volume = {44},
     year = {2016}

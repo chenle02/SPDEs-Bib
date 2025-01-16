@@ -9,7 +9,8 @@ zeitouni.gutman:91:correction
 
    @article{zeitouni.gutman:91:correction,
     author = {Zeitouni, Ofer and Gutman, Michael},
-    fjournal = {Institute of Electrical and Electronics Engineers. Transactions on Information Theory},
+    fjournal = {Institute of Electrical and Electronics Engineers.
+   Transactions on Information Theory},
     issn = {0018-9448,1557-9654},
     journal = {IEEE Trans. Inform. Theory},
     mrclass = {94A13 (60F10 62G10)},
@@ -17,7 +18,8 @@ zeitouni.gutman:91:correction
     mrreviewer = {Tamer\ Ba\c{s}ar},
     number = {3},
     pages = {698},
-    title = {Correction to: ``{O}n universal hypotheses testing via large deviations''},
+    title = {Correction to: ``{O}n universal hypotheses testing via
+   large deviations''},
     volume = {37},
     year = {1991}
    }

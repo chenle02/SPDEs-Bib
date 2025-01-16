@@ -12,7 +12,8 @@ kelvin:87:stability
     journal = {Phil. Mag},
     number = {5},
     pages = {188--196},
-    title = {Stability of fluid motion: rectilinear motion of viscous fluid between two parallel plates},
+    title = {Stability of fluid motion: rectilinear motion of viscous
+   fluid between two parallel plates},
     volume = {24},
     year = {1887}
    }

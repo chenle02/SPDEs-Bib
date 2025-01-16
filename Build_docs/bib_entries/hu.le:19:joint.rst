@@ -17,7 +17,8 @@ hu.le:19:joint
     mrnumber = {4066504},
     number = {3},
     pages = {764--780},
-    title = {Joint {H}\"{o}lder continuity of parabolic {A}nderson model},
+    title = {Joint {H}\"{o}lder continuity of parabolic {A}nderson
+   model},
     url = {https://doi.org/10.1007/s10473-019-0309-0},
     volume = {39},
     year = {2019}

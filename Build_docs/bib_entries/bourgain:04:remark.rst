@@ -17,7 +17,8 @@ bourgain:04:remark
     mrnumber = {2124457},
     mrreviewer = {Dario\ Bambusi},
     pages = {125--157},
-    title = {A remark on normal forms and the ``{$I$}-method'' for periodic {NLS}},
+    title = {A remark on normal forms and the ``{$I$}-method'' for
+   periodic {NLS}},
     url = {https://doi.org/10.1007/BF02789044},
     volume = {94},
     year = {2004}

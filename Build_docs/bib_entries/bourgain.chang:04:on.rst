@@ -18,7 +18,8 @@ bourgain.chang:04:on
     mrreviewer = {Ben\ Joseph\ Green},
     number = {2},
     pages = {473--497},
-    title = {On the size of {$k$}-fold sum and product sets of integers},
+    title = {On the size of {$k$}-fold sum and product sets of
+   integers},
     url = {https://doi.org/10.1090/S0894-0347-03-00446-6},
     volume = {17},
     year = {2004}

@@ -14,7 +14,8 @@ feller:66:introduction
     mrreviewer = {S. Orey},
     pages = {xviii+636},
     publisher = {John Wiley \& Sons, Inc., New York-London-Sydney},
-    title = {An introduction to probability theory and its applications. {V}ol. {II}},
+    title = {An introduction to probability theory and its
+   applications. {V}ol. {II}},
     year = {1966}
    }
 

@@ -16,7 +16,8 @@ gartner.molchanov:90:parabolic
     mrnumber = {1069840},
     number = {3},
     pages = {613--655},
-    title = {Parabolic problems for the {A}nderson model. {I}. {I}ntermittency and related topics},
+    title = {Parabolic problems for the {A}nderson model. {I}.
+   {I}ntermittency and related topics},
     url = {http://projecteuclid.org/euclid.cmp/1104201232},
     volume = {132},
     year = {1990}

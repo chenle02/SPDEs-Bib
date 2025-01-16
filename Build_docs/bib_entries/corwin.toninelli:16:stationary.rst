@@ -15,7 +15,8 @@ corwin.toninelli:16:stationary
     mrclass = {82C20 (60J27 60K35 82C24)},
     mrnumber = {3510252},
     pages = {Paper No. 44, 12},
-    title = {Stationary measure of the driven two-dimensional {$q$}-{W}hittaker particle system on the torus},
+    title = {Stationary measure of the driven two-dimensional
+   {$q$}-{W}hittaker particle system on the torus},
     url = {https://doi.org/10.1214/16-ECP4624},
     volume = {21},
     year = {2016}

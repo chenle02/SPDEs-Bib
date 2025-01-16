@@ -17,7 +17,8 @@ prolhac.spohn:11:one-dimensional
     mrreviewer = {Florent Benaych-Georges},
     number = {3},
     pages = {P03020, 15},
-    title = {The one-dimensional {KPZ} equation and the {A}iry process},
+    title = {The one-dimensional {KPZ} equation and the {A}iry
+   process},
     url = {https://doi.org/10.1088/1742-5468/2011/03/p03020},
     year = {2011}
    }

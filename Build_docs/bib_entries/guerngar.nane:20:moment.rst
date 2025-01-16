@@ -17,7 +17,8 @@ guerngar.nane:20:moment
     mrnumber = {4140033},
     number = {10},
     pages = {6246--6270},
-    title = {Moment bounds of a class of stochastic heat equations driven by space-time colored noise in bounded domains},
+    title = {Moment bounds of a class of stochastic heat equations
+   driven by space-time colored noise in bounded domains},
     url = {https://doi.org/10.1016/j.spa.2020.05.009},
     volume = {130},
     year = {2020}

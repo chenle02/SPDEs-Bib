@@ -14,7 +14,8 @@ tulino.verdu:11:asymptotic
     mrnumber = {2932661},
     pages = {851--872},
     publisher = {Oxford Univ. Press, Oxford},
-    title = {Asymptotic singular value distributions in information theory},
+    title = {Asymptotic singular value distributions in information
+   theory},
     year = {2011}
    }
 

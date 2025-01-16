@@ -17,7 +17,8 @@ conlon.doering:05:on
     mrnumber = {2182316},
     number = {3-4},
     pages = {421--477},
-    title = {On travelling waves for the stochastic {F}isher-{K}olmogorov-{P}etrovsky-{P}iscunov equation},
+    title = {On travelling waves for the stochastic
+   {F}isher-{K}olmogorov-{P}etrovsky-{P}iscunov equation},
     url = {https://doi.org/10.1007/s10955-005-5960-2},
     volume = {120},
     year = {2005}

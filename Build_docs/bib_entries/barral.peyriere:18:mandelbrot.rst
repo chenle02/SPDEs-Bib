@@ -17,7 +17,8 @@ barral.peyriere:18:mandelbrot
     mrnumber = {3878143},
     number = {5},
     pages = {883--917},
-    title = {Mandelbrot cascades on random weighted trees and nonlinear smoothing transforms},
+    title = {Mandelbrot cascades on random weighted trees and nonlinear
+   smoothing transforms},
     url = {https://doi.org/10.4310/AJM.2018.v22.n5.a5},
     volume = {22},
     year = {2018}

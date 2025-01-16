@@ -17,7 +17,9 @@ hara.tasaki:87:rigorous
     mrnumber = {892925},
     number = {1-2},
     pages = {99--121},
-    title = {A rigorous control of logarithmic corrections in four-dimensional {$\phi^4$} spin systems. {II}. {C}ritical behavior of susceptibility and correlation length},
+    title = {A rigorous control of logarithmic corrections in
+   four-dimensional {$\phi^4$} spin systems. {II}. {C}ritical
+   behavior of susceptibility and correlation length},
     url = {https://doi.org/10.1007/BF01009036},
     volume = {47},
     year = {1987}

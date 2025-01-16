@@ -17,7 +17,8 @@ flandoli.russo.ea:03:some
     mrreviewer = {Anna Milian},
     number = {2},
     pages = {493--542},
-    title = {Some {SDE}s with distributional drift. {I}. {G}eneral calculus},
+    title = {Some {SDE}s with distributional drift. {I}. {G}eneral
+   calculus},
     url = {http://projecteuclid.org/euclid.ojm/1153493096},
     volume = {40},
     year = {2003}

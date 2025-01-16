@@ -17,7 +17,8 @@ budd.dold.ea:93:blowup
     mrnumber = {1218381},
     number = {3},
     pages = {718--742},
-    title = {Blowup in a partial differential equation with conserved first integral},
+    title = {Blowup in a partial differential equation with conserved
+   first integral},
     url = {https://doi.org/10.1137/0153036},
     volume = {53},
     year = {1993}

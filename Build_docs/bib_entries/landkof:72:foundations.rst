@@ -14,7 +14,8 @@ landkof:72:foundations
     note = {Translated from the Russian by A. P. Doohovskoy},
     pages = {x+424},
     publisher = {Springer-Verlag, New York-Heidelberg},
-    series = {Die Grundlehren der mathematischen Wissenschaften, Band 180},
+    series = {Die Grundlehren der mathematischen Wissenschaften, Band
+   180},
     title = {Foundations of modern potential theory},
     year = {1972}
    }

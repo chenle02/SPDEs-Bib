@@ -17,7 +17,8 @@ chen:00:on
     mrnumber = {1736591},
     number = {1},
     pages = {89--123},
-    title = {On the limit laws of the second order for additive functionals of {H}arris recurrent {M}arkov chains},
+    title = {On the limit laws of the second order for additive
+   functionals of {H}arris recurrent {M}arkov chains},
     url = {https://doi.org/10.1007/PL00008724},
     volume = {116},
     year = {2000}

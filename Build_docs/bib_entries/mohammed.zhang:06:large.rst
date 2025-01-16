@@ -10,7 +10,8 @@ mohammed.zhang:06:large
    @article{mohammed.zhang:06:large,
     author = {Mohammed, Salah-Eldin A. and Zhang, Tusheng},
     doi = {10.3934/dcdsb.2006.6.881},
-    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A Journal Bridging Mathematics and Sciences},
+    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A
+   Journal Bridging Mathematics and Sciences},
     issn = {1531-3492},
     journal = {Discrete Contin. Dyn. Syst. Ser. B},
     mrclass = {60F10 (60J27)},

@@ -18,7 +18,8 @@ bourgain.fuchs:11:proof
     mrreviewer = {Matthias\ Beck},
     number = {4},
     pages = {945--967},
-    title = {A proof of the positive density conjecture for integer {A}pollonian circle packings},
+    title = {A proof of the positive density conjecture for integer
+   {A}pollonian circle packings},
     url = {https://doi.org/10.1090/S0894-0347-2011-00707-8},
     volume = {24},
     year = {2011}

@@ -17,7 +17,8 @@ palmer.tracy:81:two-dimensional
     mrnumber = {626865},
     number = {3},
     pages = {329--388},
-    title = {Two-dimensional {I}sing correlations: convergence of the scaling limit},
+    title = {Two-dimensional {I}sing correlations: convergence of the
+   scaling limit},
     url = {https://doi.org/10.1016/0196-8858(81)90010-5},
     volume = {2},
     year = {1981}

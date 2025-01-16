@@ -17,7 +17,8 @@ wang.li.ea:14:boundedness
     mrnumber = {3094606},
     number = {2},
     pages = {789--802},
-    title = {Boundedness in a parabolic-parabolic quasilinear chemotaxis system with logistic source},
+    title = {Boundedness in a parabolic-parabolic quasilinear
+   chemotaxis system with logistic source},
     url = {https://doi.org/10.3934/dcds.2014.34.789},
     volume = {34},
     year = {2014}

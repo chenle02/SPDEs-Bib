@@ -9,7 +9,8 @@ nersesjan:68:cauchy
 
    @article{nersesjan:68:cauchy,
     author = {Nersesjan, A. B.},
-    fjournal = {Izvestija Akademii Nauk Armjanskou{i} SSR. Serija Matematika},
+    fjournal = {Izvestija Akademii Nauk Armjanskou{i} SSR. Serija
+   Matematika},
     issn = {0002-3043},
     journal = {Izv. Akad. Nauk Armjan. SSR Ser. Mat.},
     mrclass = {35.37},
@@ -17,7 +18,8 @@ nersesjan:68:cauchy
     mrreviewer = {R. N. Goss},
     number = {2},
     pages = {79--100},
-    title = {The {C}auchy problem for degenerating second-order hyperbolic equations},
+    title = {The {C}auchy problem for degenerating second-order
+   hyperbolic equations},
     volume = {3},
     year = {1968}
    }

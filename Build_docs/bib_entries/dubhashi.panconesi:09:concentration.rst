@@ -16,7 +16,8 @@ dubhashi.panconesi:09:concentration
     mrreviewer = {Yannis C. Stamatiou},
     pages = {xvi+196},
     publisher = {Cambridge University Press, Cambridge},
-    title = {Concentration of measure for the analysis of randomized algorithms},
+    title = {Concentration of measure for the analysis of randomized
+   algorithms},
     url = {https://doi.org/10.1017/CBO9780511581274},
     year = {2009}
    }

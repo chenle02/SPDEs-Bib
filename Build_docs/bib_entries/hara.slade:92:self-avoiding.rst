@@ -17,7 +17,8 @@ hara.slade:92:self-avoiding
     mrreviewer = {Neal Madras},
     number = {1},
     pages = {101--136},
-    title = {Self-avoiding walk in five or more dimensions. {I}. {T}he critical behaviour},
+    title = {Self-avoiding walk in five or more dimensions. {I}. {T}he
+   critical behaviour},
     url = {http://projecteuclid.org/euclid.cmp/1104250528},
     volume = {147},
     year = {1992}

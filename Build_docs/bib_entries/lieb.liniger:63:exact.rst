@@ -16,7 +16,8 @@ lieb.liniger:63:exact
     mrnumber = {156630},
     mrreviewer = {E. J. Verboven},
     pages = {1605--1616},
-    title = {Exact analysis of an interacting {B}ose gas. {I}. {T}he general solution and the ground state},
+    title = {Exact analysis of an interacting {B}ose gas. {I}. {T}he
+   general solution and the ground state},
     volume = {130},
     year = {1963}
    }

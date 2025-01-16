@@ -17,7 +17,8 @@ cuevas.silva.ea:20:on
     mrnumber = {4056463},
     number = {2},
     pages = {769--798},
-    title = {On the time-fractional {K}eller-{S}egel model for chemotaxis},
+    title = {On the time-fractional {K}eller-{S}egel model for
+   chemotaxis},
     url = {https://doi.org/10.1002/mma.5959},
     volume = {43},
     year = {2020}

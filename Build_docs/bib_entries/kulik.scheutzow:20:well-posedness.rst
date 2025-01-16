@@ -18,7 +18,8 @@ kulik.scheutzow:20:well-posedness
     mrreviewer = {Anatoly V. Swishchuk},
     number = {6},
     pages = {3041--3076},
-    title = {Well-posedness, stability and sensitivities for stochastic delay equations: a generalized coupling approach},
+    title = {Well-posedness, stability and sensitivities for stochastic
+   delay equations: a generalized coupling approach},
     url = {https://doi.org/10.1214/20-AOP1449},
     volume = {48},
     year = {2020}

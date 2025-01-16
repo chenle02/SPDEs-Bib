@@ -18,7 +18,8 @@ winkler:08:chemotaxis
     mrreviewer = {Gabriela Marinoschi},
     number = {2},
     pages = {708--729},
-    title = {Chemotaxis with logistic source: very weak global solutions and their boundedness properties},
+    title = {Chemotaxis with logistic source: very weak global
+   solutions and their boundedness properties},
     url = {https://doi.org/10.1016/j.jmaa.2008.07.071},
     volume = {348},
     year = {2008}

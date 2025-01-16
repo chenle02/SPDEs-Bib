@@ -8,7 +8,8 @@ bourgain.ford.ea:10:on
 .. code-block:: bibtex
 
    @article{bourgain.ford.ea:10:on,
-    author = {Bourgain, Jean and Ford, Kevin and Konyagin, Sergei V. and Shparlinski, Igor E.},
+    author = {Bourgain, Jean and Ford, Kevin and Konyagin, Sergei V. and
+   Shparlinski, Igor E.},
     doi = {10.1307/mmj/1281531459},
     fjournal = {Michigan Mathematical Journal},
     issn = {0026-2285,1945-2365},

@@ -17,7 +17,8 @@ ghosh.peres:17:rigidity
     mrnumber = {3679882},
     number = {10},
     pages = {1789--1858},
-    title = {Rigidity and tolerance in point processes: {G}aussian zeros and {G}inibre eigenvalues},
+    title = {Rigidity and tolerance in point processes: {G}aussian
+   zeros and {G}inibre eigenvalues},
     url = {https://doi.org/10.1215/00127094-2017-0002},
     volume = {166},
     year = {2017}

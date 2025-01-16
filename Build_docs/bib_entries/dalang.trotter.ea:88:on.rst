@@ -8,7 +8,8 @@ dalang.trotter.ea:88:on
 .. code-block:: bibtex
 
    @article{dalang.trotter.ea:88:on,
-    author = {Dalang, Robert C. and Trotter, Jr., L. E. and de Werra, D.},
+    author = {Dalang, Robert C. and Trotter, Jr., L. E. and de Werra,
+   D.},
     doi = {10.1016/0095-8956(88)90076-7},
     fjournal = {Journal of Combinatorial Theory. Series B},
     issn = {0095-8956},

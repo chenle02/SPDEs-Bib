@@ -18,7 +18,8 @@ li.xiao:17:wavelet-based
     mrreviewer = {Paulo\ E.\ Oliveira},
     number = {10},
     pages = {4824--4842},
-    title = {Wavelet-based estimation of regression function with strong mixing errors under fixed design},
+    title = {Wavelet-based estimation of regression function with
+   strong mixing errors under fixed design},
     url = {https://doi.org/10.1080/03610926.2015.1089288},
     volume = {46},
     year = {2017}

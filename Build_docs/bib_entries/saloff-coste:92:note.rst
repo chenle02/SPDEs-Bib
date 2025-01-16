@@ -18,7 +18,8 @@ saloff-coste:92:note
     mrreviewer = {Thierry Coulhon},
     number = {2},
     pages = {27--38},
-    title = {A note on {P}oincar\'{e}, {S}obolev, and {H}arnack inequalities},
+    title = {A note on {P}oincar\'{e}, {S}obolev, and {H}arnack
+   inequalities},
     url = {https://doi.org/10.1155/S1073792892000047},
     year = {1992}
    }

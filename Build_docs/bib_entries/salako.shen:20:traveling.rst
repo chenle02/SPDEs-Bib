@@ -15,7 +15,9 @@ salako.shen:20:traveling
     mrclass = {35K51 (35B35 35B40 35C07 35K57 35Q92 92C17)},
     mrnumber = {4113451},
     pages = {Paper No. 53, 18},
-    title = {Traveling wave solutions for fully parabolic {K}eller-{S}egel chemotaxis systems with a logistic source},
+    title = {Traveling wave solutions for fully parabolic
+   {K}eller-{S}egel chemotaxis systems with a logistic
+   source},
     year = {2020}
    }
 

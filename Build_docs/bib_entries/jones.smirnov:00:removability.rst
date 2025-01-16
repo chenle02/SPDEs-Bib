@@ -18,7 +18,8 @@ jones.smirnov:00:removability
     mrreviewer = {Petra\ Bonfert-Taylor},
     number = {2},
     pages = {263--279},
-    title = {Removability theorems for {S}obolev functions and quasiconformal maps},
+    title = {Removability theorems for {S}obolev functions and
+   quasiconformal maps},
     url = {https://doi.org/10.1007/BF02384320},
     volume = {38},
     year = {2000}

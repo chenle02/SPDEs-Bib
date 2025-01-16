@@ -10,7 +10,8 @@ mueller:83:strassens
    @article{mueller:83:strassens,
     author = {Mueller, Carl},
     doi = {10.1007/BF00534174},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60J65 (60E15)},

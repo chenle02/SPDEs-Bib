@@ -17,7 +17,8 @@ pitt:73:some
     mrnumber = {319254},
     mrreviewer = {H. P. McKean, Jr.},
     pages = {343--365},
-    title = {Some problems in the spectral theory of stationary processes on {$R^{d}$}},
+    title = {Some problems in the spectral theory of stationary
+   processes on {$R^{d}$}},
     url = {https://doi.org/10.1512/iumj.1973.23.23028},
     volume = {23},
     year = {1973}

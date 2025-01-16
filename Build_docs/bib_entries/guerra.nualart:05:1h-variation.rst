@@ -18,7 +18,9 @@ guerra.nualart:05:1h-variation
     mrreviewer = {M. Z\"{a}hle},
     number = {1},
     pages = {91--115},
-    title = {The {$1/H$}-variation of the divergence integral with respect to the fractional {B}rownian motion for {$H>1/2$} and fractional {B}essel processes},
+    title = {The {$1/H$}-variation of the divergence integral with
+   respect to the fractional {B}rownian motion for {$H>1/2$}
+   and fractional {B}essel processes},
     url = {https://doi.org/10.1016/j.spa.2004.07.008},
     volume = {115},
     year = {2005}

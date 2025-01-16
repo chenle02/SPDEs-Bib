@@ -18,7 +18,9 @@ chen:12:quenched
     mrreviewer = {J\'{a}nos Engl\"{a}nder},
     number = {4},
     pages = {1436--1482},
-    title = {Quenched asymptotics for {B}rownian motion of renormalized {P}oisson potential and for the related parabolic {A}nderson models},
+    title = {Quenched asymptotics for {B}rownian motion of renormalized
+   {P}oisson potential and for the related parabolic
+   {A}nderson models},
     url = {https://doi.org/10.1214/11-AOP655},
     volume = {40},
     year = {2012}

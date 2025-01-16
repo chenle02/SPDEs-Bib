@@ -14,7 +14,8 @@ polyanin:02:handbook
     mrnumber = {1935578},
     pages = {xviii+781},
     publisher = {Chapman \& Hall/CRC, Boca Raton, FL},
-    title = {Handbook of linear partial differential equations for engineers and scientists},
+    title = {Handbook of linear partial differential equations for
+   engineers and scientists},
     year = {2002}
    }
 

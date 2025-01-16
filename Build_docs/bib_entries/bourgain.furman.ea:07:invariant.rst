@@ -8,9 +8,11 @@ bourgain.furman.ea:07:invariant
 .. code-block:: bibtex
 
    @article{bourgain.furman.ea:07:invariant,
-    author = {Bourgain, Jean and Furman, Alex and Lindenstrauss, Elon and Mozes, Shahar},
+    author = {Bourgain, Jean and Furman, Alex and Lindenstrauss, Elon
+   and Mozes, Shahar},
     doi = {10.1016/j.crma.2007.04.017},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {37A15 (22F10 28D15)},
@@ -18,7 +20,8 @@ bourgain.furman.ea:07:invariant
     mrreviewer = {Bryna\ Kra},
     number = {12},
     pages = {737--742},
-    title = {Invariant measures and stiffness for non-abelian groups of toral automorphisms},
+    title = {Invariant measures and stiffness for non-abelian groups of
+   toral automorphisms},
     url = {https://doi.org/10.1016/j.crma.2007.04.017},
     volume = {344},
     year = {2007}

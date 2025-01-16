@@ -18,7 +18,8 @@ bennett.bez.ea:09:heat-flow
     mrreviewer = {Alberto Portal},
     number = {6},
     pages = {971--979},
-    title = {Heat-flow monotonicity related to the {H}ausdorff-{Y}oung inequality},
+    title = {Heat-flow monotonicity related to the {H}ausdorff-{Y}oung
+   inequality},
     url = {https://doi.org/10.1112/blms/bdp073},
     volume = {41},
     year = {2009}

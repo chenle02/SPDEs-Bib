@@ -17,7 +17,8 @@ duc.nualart:90:stochastic
     mrreviewer = {Denis R. Bell},
     number = {1},
     pages = {47--60},
-    title = {Stochastic processes possessing a {S}korohod integral representation},
+    title = {Stochastic processes possessing a {S}korohod integral
+   representation},
     volume = {30},
     year = {1990}
    }

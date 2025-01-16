@@ -18,7 +18,8 @@ spitzer:77:stochastic
     mrreviewer = {T.\ M.\ Liggett},
     number = {5},
     pages = {880--890},
-    title = {Stochastic time evolution of one dimensional infinite particle systems},
+    title = {Stochastic time evolution of one dimensional infinite
+   particle systems},
     url = {https://doi.org/10.1090/S0002-9904-1977-14322-X},
     volume = {83},
     year = {1977}

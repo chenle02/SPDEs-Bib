@@ -17,7 +17,8 @@ cerrai:95:weakly
     mrreviewer = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
     number = {3},
     pages = {351--371},
-    title = {Weakly continuous semigroups in the space of functions with polynomial growth},
+    title = {Weakly continuous semigroups in the space of functions
+   with polynomial growth},
     volume = {4},
     year = {1995}
    }

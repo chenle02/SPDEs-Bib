@@ -18,7 +18,8 @@ balazs.seppalainen:07:exact
     mrreviewer = {Wolfgang Freudenberg},
     number = {2},
     pages = {431--455},
-    title = {Exact connections between current fluctuations and the second class particle in a class of deposition models},
+    title = {Exact connections between current fluctuations and the
+   second class particle in a class of deposition models},
     url = {https://doi.org/10.1007/s10955-007-9291-3},
     volume = {127},
     year = {2007}

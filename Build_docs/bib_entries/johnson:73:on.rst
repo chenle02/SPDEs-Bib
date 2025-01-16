@@ -17,7 +17,8 @@ johnson:73:on
     mrnumber = {312817},
     mrreviewer = {L. M. Hocking},
     pages = {183--203},
-    title = {On the development of a solitary wave moving over an uneven bottom},
+    title = {On the development of a solitary wave moving over an
+   uneven bottom},
     url = {https://doi.org/10.1017/s0305004100047605},
     volume = {73},
     year = {1973}

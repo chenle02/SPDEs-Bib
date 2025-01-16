@@ -18,7 +18,8 @@ wu.xiao:10:regularity
     mrreviewer = {Ivan\ Nourdin},
     number = {4},
     pages = {972--1001},
-    title = {Regularity of intersection local times of fractional {B}rownian motions},
+    title = {Regularity of intersection local times of fractional
+   {B}rownian motions},
     url = {https://doi.org/10.1007/s10959-009-0221-y},
     volume = {23},
     year = {2010}

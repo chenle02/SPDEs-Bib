@@ -15,7 +15,8 @@ adler:11:spectral
     mrreviewer = {Nizar Demni},
     pages = {86--102},
     publisher = {Oxford Univ. Press, Oxford},
-    title = {Spectral statistics of orthogonal and symplectic ensembles},
+    title = {Spectral statistics of orthogonal and symplectic
+   ensembles},
     year = {2011}
    }
 

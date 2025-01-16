@@ -18,7 +18,8 @@ nualart.pardoux:91:second
     mrreviewer = {Mireille Chaleyat-Maurel},
     number = {1},
     pages = {1--24},
-    title = {Second order stochastic differential equations with {D}irichlet boundary conditions},
+    title = {Second order stochastic differential equations with
+   {D}irichlet boundary conditions},
     url = {https://doi.org/10.1016/0304-4149(91)90028-B},
     volume = {39},
     year = {1991}

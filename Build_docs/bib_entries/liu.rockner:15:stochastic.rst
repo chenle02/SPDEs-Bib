@@ -17,7 +17,8 @@ liu.rockner:15:stochastic
     pages = {vi+266},
     publisher = {Springer, Cham},
     series = {Universitext},
-    title = {Stochastic partial differential equations: an introduction},
+    title = {Stochastic partial differential equations: an
+   introduction},
     url = {https://doi.org/10.1007/978-3-319-22354-4},
     year = {2015}
    }

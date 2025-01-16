@@ -15,7 +15,8 @@ forstner:67:wirtschaftliches
     mrreviewer = {G. Tintner},
     pages = {xi, 1--258},
     publisher = {Hain, Meisenheim},
-    title = {Wirtschaftliches {W}achstum bei vollst\"{a}ndiger {K}onkurrenz und linearer {T}echnologie},
+    title = {Wirtschaftliches {W}achstum bei vollst\"{a}ndiger
+   {K}onkurrenz und linearer {T}echnologie},
     year = {1967}
    }
 

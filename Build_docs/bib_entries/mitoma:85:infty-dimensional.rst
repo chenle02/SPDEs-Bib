@@ -18,7 +18,8 @@ mitoma:85:infty-dimensional
     mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},
     number = {3},
     pages = {342--359},
-    title = {An {$infty$}-dimensional inhomogeneous {L}angevin's equation},
+    title = {An {$infty$}-dimensional inhomogeneous {L}angevin's
+   equation},
     url = {https://doi.org/10.1016/0022-1236(85)90027-8},
     volume = {61},
     year = {1985}

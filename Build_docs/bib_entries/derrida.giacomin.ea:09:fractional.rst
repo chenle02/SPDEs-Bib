@@ -8,7 +8,8 @@ derrida.giacomin.ea:09:fractional
 .. code-block:: bibtex
 
    @article{derrida.giacomin.ea:09:fractional,
-    author = {Derrida, Bernard and Giacomin, Giambattista and Lacoin, Hubert and Toninelli, Fabio Lucio},
+    author = {Derrida, Bernard and Giacomin, Giambattista and Lacoin,
+   Hubert and Toninelli, Fabio Lucio},
     doi = {10.1007/s00220-009-0737-0},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616,1432-0916},
@@ -18,7 +19,8 @@ derrida.giacomin.ea:09:fractional
     mrreviewer = {Rongfeng\ Sun},
     number = {3},
     pages = {867--887},
-    title = {Fractional moment bounds and disorder relevance for pinning models},
+    title = {Fractional moment bounds and disorder relevance for
+   pinning models},
     url = {https://doi.org/10.1007/s00220-009-0737-0},
     volume = {287},
     year = {2009}

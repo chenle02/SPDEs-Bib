@@ -17,7 +17,8 @@ ghosal.sen:22:multivariate
     mrnumber = {4404927},
     number = {2},
     pages = {1012--1037},
-    title = {Multivariate ranks and quantiles using optimal transport: consistency, rates and nonparametric testing},
+    title = {Multivariate ranks and quantiles using optimal transport:
+   consistency, rates and nonparametric testing},
     url = {https://doi.org/10.1214/21-aos2136},
     volume = {50},
     year = {2022}

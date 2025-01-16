@@ -18,7 +18,8 @@ nualart.ouknine:04:regularization
     mrreviewer = {Samy Tindel},
     number = {2},
     pages = {201--221},
-    title = {Regularization of quasilinear heat equations by a fractional noise},
+    title = {Regularization of quasilinear heat equations by a
+   fractional noise},
     url = {https://doi.org/10.1142/S0219493704001012},
     volume = {4},
     year = {2004}

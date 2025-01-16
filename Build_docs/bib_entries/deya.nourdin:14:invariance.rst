@@ -10,7 +10,8 @@ deya.nourdin:14:invariance
    @article{deya.nourdin:14:invariance,
     author = {Deya, Aur\'{e}lien and Nourdin, Ivan},
     doi = {10.3150/12-BEJ498},
-    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for
+   Mathematical Statistics and Probability},
     issn = {1350-7265},
     journal = {Bernoulli},
     mrclass = {46L54 (46L40 60F05 60F17 60J65)},
@@ -18,7 +19,8 @@ deya.nourdin:14:invariance
     mrreviewer = {S\"{o}ren M\"{o}ller},
     number = {2},
     pages = {586--603},
-    title = {Invariance principles for homogeneous sums of free random variables},
+    title = {Invariance principles for homogeneous sums of free random
+   variables},
     url = {https://doi.org/10.3150/12-BEJ498},
     volume = {20},
     year = {2014}

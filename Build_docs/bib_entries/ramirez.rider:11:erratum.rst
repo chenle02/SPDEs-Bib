@@ -17,7 +17,8 @@ ramirez.rider:11:erratum
     mrnumber = {2837124},
     number = {2},
     pages = {561--563},
-    title = {Erratum to: {D}iffusion at the random matrix hard edge [MR2504858]},
+    title = {Erratum to: {D}iffusion at the random matrix hard edge
+   [MR2504858]},
     url = {https://doi.org/10.1007/s00220-011-1333-7},
     volume = {307},
     year = {2011}

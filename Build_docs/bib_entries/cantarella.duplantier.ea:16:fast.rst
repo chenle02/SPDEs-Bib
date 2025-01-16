@@ -8,7 +8,8 @@ cantarella.duplantier.ea:16:fast
 .. code-block:: bibtex
 
    @article{cantarella.duplantier.ea:16:fast,
-    author = {Cantarella, Jason and Duplantier, Bertrand and Shonkwiler, Clayton and Uehara, Erica},
+    author = {Cantarella, Jason and Duplantier, Bertrand and Shonkwiler,
+   Clayton and Uehara, Erica},
     doi = {10.1088/1751-8113/49/27/275202},
     fjournal = {Journal of Physics. A. Mathematical and Theoretical},
     issn = {1751-8113},
@@ -17,7 +18,8 @@ cantarella.duplantier.ea:16:fast
     mrnumber = {3512103},
     number = {27},
     pages = {275202, 9},
-    title = {A fast direct sampling algorithm for equilateral closed polygons},
+    title = {A fast direct sampling algorithm for equilateral closed
+   polygons},
     url = {https://doi.org/10.1088/1751-8113/49/27/275202},
     volume = {49},
     year = {2016}

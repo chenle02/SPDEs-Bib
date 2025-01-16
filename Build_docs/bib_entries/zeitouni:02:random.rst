@@ -9,7 +9,8 @@ zeitouni:02:random
 
    @inproceedings{zeitouni:02:random,
     author = {Zeitouni, Ofer},
-    booktitle = {Proceedings of the {I}nternational {C}ongress of {M}athematicians, {V}ol. {III} ({B}eijing, 2002)},
+    booktitle = {Proceedings of the {I}nternational {C}ongress of
+   {M}athematicians, {V}ol. {III} ({B}eijing, 2002)},
     isbn = {7-04-008690-5},
     mrclass = {60K37 (82C41 82C44)},
     mrnumber = {1957524},

@@ -16,7 +16,8 @@ barski.zabczyk:20:mathematics
     pages = {xvi+382},
     publisher = {Cambridge University Press, Cambridge},
     series = {Encyclopedia of Mathematics and its Applications},
-    title = {Mathematics of the bond market---a {L}\'{e}vy processes approach},
+    title = {Mathematics of the bond market---a {L}\'{e}vy processes
+   approach},
     url = {https://doi.org/10.1017/9781316181836},
     volume = {174},
     year = {2020}

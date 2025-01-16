@@ -18,7 +18,8 @@ mytnik.perkins:03:regularity
     mrreviewer = {Ilya S. Molchanov},
     number = {3},
     pages = {1413--1440},
-    title = {Regularity and irregularity of {$(1+\beta)$}-stable super-{B}rownian motion},
+    title = {Regularity and irregularity of {$(1+\beta)$}-stable
+   super-{B}rownian motion},
     url = {https://doi.org/10.1214/aop/1055425785},
     volume = {31},
     year = {2003}

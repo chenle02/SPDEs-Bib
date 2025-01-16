@@ -8,7 +8,8 @@ cranston.scheutzow.ea:99:linear
 .. code-block:: bibtex
 
    @article{cranston.scheutzow.ea:99:linear,
-    author = {Cranston, Michael and Scheutzow, Michael and Steinsaltz, David},
+    author = {Cranston, Michael and Scheutzow, Michael and Steinsaltz,
+   David},
     doi = {10.1214/ECP.v4-1010},
     fjournal = {Electronic Communications in Probability},
     issn = {1083-589X},

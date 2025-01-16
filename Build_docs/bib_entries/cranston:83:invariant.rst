@@ -10,7 +10,8 @@ cranston:83:invariant
    @article{cranston:83:invariant,
     author = {Cranston, M.},
     doi = {10.1007/BF00532479},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60J60 (31A35 60J50)},

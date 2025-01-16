@@ -18,7 +18,8 @@ nourdin.nualart:10:central
     mrreviewer = {Maria Jolis},
     number = {1},
     pages = {39--64},
-    title = {Central limit theorems for multiple {S}korokhod integrals},
+    title = {Central limit theorems for multiple {S}korokhod
+   integrals},
     url = {https://doi.org/10.1007/s10959-009-0258-y},
     volume = {23},
     year = {2010}

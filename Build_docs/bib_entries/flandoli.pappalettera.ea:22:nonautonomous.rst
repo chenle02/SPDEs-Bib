@@ -8,7 +8,8 @@ flandoli.pappalettera.ea:22:nonautonomous
 .. code-block:: bibtex
 
    @article{flandoli.pappalettera.ea:22:nonautonomous,
-    author = {Flandoli, Franco and Pappalettera, Umberto and Tonello, Elisa},
+    author = {Flandoli, Franco and Pappalettera, Umberto and Tonello,
+   Elisa},
     doi = {10.1142/S0219493722400032},
     fjournal = {Stochastics and Dynamics},
     issn = {0219-4937,1793-6799},

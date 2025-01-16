@@ -8,7 +8,8 @@ dawson.fleischmann.ea:00:finite
 .. code-block:: bibtex
 
    @article{dawson.fleischmann.ea:00:finite,
-    author = {Dawson, Donald A. and Fleischmann, Klaus and Mueller, Carl},
+    author = {Dawson, Donald A. and Fleischmann, Klaus and Mueller,
+   Carl},
     doi = {10.1214/aop/1019160254},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},

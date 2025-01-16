@@ -18,7 +18,8 @@ mytnik.neuman:15:pathwise
     mrreviewer = {Sergey V. Lototsky},
     number = {9},
     pages = {3355--3372},
-    title = {Pathwise uniqueness for the stochastic heat equation with {H}\"{o}lder continuous drift and noise coefficients},
+    title = {Pathwise uniqueness for the stochastic heat equation with
+   {H}\"{o}lder continuous drift and noise coefficients},
     url = {https://doi.org/10.1016/j.spa.2015.04.009},
     volume = {125},
     year = {2015}

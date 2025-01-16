@@ -17,7 +17,8 @@ obayashi:18:volume-optimal
     mrreviewer = {Elizabeth Munch},
     number = {4},
     pages = {508--534},
-    title = {Volume-optimal cycle: tightest representative cycle of a generator in persistent homology},
+    title = {Volume-optimal cycle: tightest representative cycle of a
+   generator in persistent homology},
     url = {https://doi.org/10.1137/17M1159439},
     volume = {2},
     year = {2018}

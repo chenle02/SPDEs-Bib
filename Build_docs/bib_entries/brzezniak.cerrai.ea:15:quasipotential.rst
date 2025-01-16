@@ -18,7 +18,9 @@ brzezniak.cerrai.ea:15:quasipotential
     mrreviewer = {Hakima Bessaih},
     number = {3-4},
     pages = {739--793},
-    title = {Quasipotential and exit time for 2{D} stochastic {N}avier-{S}tokes equations driven by space time white noise},
+    title = {Quasipotential and exit time for 2{D} stochastic
+   {N}avier-{S}tokes equations driven by space time white
+   noise},
     url = {https://doi.org/10.1007/s00440-014-0584-6},
     volume = {162},
     year = {2015}

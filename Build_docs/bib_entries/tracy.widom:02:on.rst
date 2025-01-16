@@ -15,7 +15,8 @@ tracy.widom:02:on
     pages = {467--474},
     publisher = {Birkh\"{a}user Boston, Boston, MA},
     series = {Prog. Math. Phys.},
-    title = {On a distribution function arising in computational biology},
+    title = {On a distribution function arising in computational
+   biology},
     volume = {23},
     year = {2002}
    }

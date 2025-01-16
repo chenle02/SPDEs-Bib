@@ -8,7 +8,8 @@ ferrante.rovira.ea:00:stochastic
 .. code-block:: bibtex
 
    @article{ferrante.rovira.ea:00:stochastic,
-    author = {Ferrante, Marco and Rovira, Carles and Sanz-Sol\'{e}, Marta},
+    author = {Ferrante, Marco and Rovira, Carles and Sanz-Sol\'{e},
+   Marta},
     doi = {10.1006/jfan.2000.3631},
     fjournal = {Journal of Functional Analysis},
     issn = {0022-1236},
@@ -18,7 +19,8 @@ ferrante.rovira.ea:00:stochastic
     mrreviewer = {R\'{e}mi L\'{e}andre},
     number = {1},
     pages = {138--177},
-    title = {Stochastic delay equations with hereditary drift: estimates of the density},
+    title = {Stochastic delay equations with hereditary drift:
+   estimates of the density},
     url = {https://doi.org/10.1006/jfan.2000.3631},
     volume = {177},
     year = {2000}

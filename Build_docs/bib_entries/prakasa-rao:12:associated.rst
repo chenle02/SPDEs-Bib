@@ -17,7 +17,8 @@ prakasa-rao:12:associated
     pages = {xii+272},
     publisher = {Birkh\"{a}user/Springer, Basel},
     series = {Probability and its Applications},
-    title = {Associated sequences, demimartingales and nonparametric inference},
+    title = {Associated sequences, demimartingales and nonparametric
+   inference},
     url = {https://doi.org/10.1007/978-3-0348-0240-6},
     year = {2012}
    }

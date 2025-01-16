@@ -8,9 +8,11 @@ caruana.friz.ea:11:rough
 .. code-block:: bibtex
 
    @article{caruana.friz.ea:11:rough,
-    author = {Caruana, Michael and Friz, Peter K. and Oberhauser, Harald},
+    author = {Caruana, Michael and Friz, Peter K. and Oberhauser,
+   Harald},
     doi = {10.1016/j.anihpc.2010.11.002},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Analyse Non Lin\'{e}aire},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Analyse Non
+   Lin\'{e}aire},
     issn = {0294-1449},
     journal = {Ann. Inst. H. Poincar\'{e} Anal. Non Lin\'{e}aire},
     mrclass = {60H15 (35K55 35R60 60G17)},
@@ -18,7 +20,8 @@ caruana.friz.ea:11:rough
     mrreviewer = {Hendrik Weber},
     number = {1},
     pages = {27--46},
-    title = {A (rough) pathwise approach to a class of non-linear stochastic partial differential equations},
+    title = {A (rough) pathwise approach to a class of non-linear
+   stochastic partial differential equations},
     url = {https://doi.org/10.1016/j.anihpc.2010.11.002},
     volume = {28},
     year = {2011}

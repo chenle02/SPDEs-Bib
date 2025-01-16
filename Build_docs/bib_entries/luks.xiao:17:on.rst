@@ -18,7 +18,8 @@ luks.xiao:17:on
     mrreviewer = {Jian\ Wang},
     number = {1},
     pages = {297--325},
-    title = {On the double points of operator stable {L}\'{e}vy processes},
+    title = {On the double points of operator stable {L}\'{e}vy
+   processes},
     url = {https://doi.org/10.1007/s10959-015-0638-4},
     volume = {30},
     year = {2017}

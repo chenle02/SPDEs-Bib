@@ -17,7 +17,8 @@ wainwright:19:high-dimensional
     note = {A non-asymptotic viewpoint},
     pages = {xvii+552},
     publisher = {Cambridge University Press, Cambridge},
-    series = {Cambridge Series in Statistical and Probabilistic Mathematics},
+    series = {Cambridge Series in Statistical and Probabilistic
+   Mathematics},
     title = {High-dimensional statistics},
     url = {https://doi.org/10.1017/9781108627771},
     volume = {48},

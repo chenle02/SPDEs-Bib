@@ -18,7 +18,8 @@ derrida.dou-cot.ea:04:current
     mrreviewer = {Ellen\ Saada},
     number = {3-4},
     pages = {717--748},
-    title = {Current fluctuations in the one-dimensional symmetric exclusion process with open boundaries},
+    title = {Current fluctuations in the one-dimensional symmetric
+   exclusion process with open boundaries},
     url = {https://doi.org/10.1023/B:JOSS.0000022379.95508.b2},
     volume = {115},
     year = {2004}

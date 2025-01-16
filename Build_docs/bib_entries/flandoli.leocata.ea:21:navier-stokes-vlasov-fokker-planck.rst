@@ -17,7 +17,8 @@ flandoli.leocata.ea:21:navier-stokes-vlasov-fokker-planck
     mrnumber = {4234291},
     number = {2},
     pages = {Paper No. 40, 39},
-    title = {The {N}avier-{S}tokes-{V}lasov-{F}okker-{P}lanck system as a scaling limit of particles in a fluid},
+    title = {The {N}avier-{S}tokes-{V}lasov-{F}okker-{P}lanck system as
+   a scaling limit of particles in a fluid},
     url = {https://doi.org/10.1007/s00021-021-00570-6},
     volume = {23},
     year = {2021}

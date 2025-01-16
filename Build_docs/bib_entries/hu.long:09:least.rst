@@ -18,7 +18,8 @@ hu.long:09:least
     mrreviewer = {Jing Zheng},
     number = {8},
     pages = {2465--2480},
-    title = {Least squares estimator for {O}rnstein-{U}hlenbeck processes driven by {$\alpha$}-stable motions},
+    title = {Least squares estimator for {O}rnstein-{U}hlenbeck
+   processes driven by {$\alpha$}-stable motions},
     url = {https://doi.org/10.1016/j.spa.2008.12.006},
     volume = {119},
     year = {2009}

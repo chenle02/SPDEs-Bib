@@ -8,7 +8,8 @@ broux.caravenna.ea:23:example
 .. code-block:: bibtex
 
    @article{broux.caravenna.ea:23:example,
-    author = {Broux, Lucas and Caravenna, Francesco and Zambotti, Lorenzo},
+    author = {Broux, Lucas and Caravenna, Francesco and Zambotti,
+   Lorenzo},
     doi = {10.21711/231766362023/rmc582},
     fjournal = {Matem\'{a}tica Contempor\^{a}nea},
     issn = {0103-9059,2317-6636},

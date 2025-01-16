@@ -17,7 +17,8 @@ comets.neveu:95:sherrington-kirkpatrick
     mrreviewer = {Boguslaw Zegarlinski},
     number = {3},
     pages = {549--564},
-    title = {The {S}herrington-{K}irkpatrick model of spin glasses and stochastic calculus: the high temperature case},
+    title = {The {S}herrington-{K}irkpatrick model of spin glasses and
+   stochastic calculus: the high temperature case},
     url = {http://projecteuclid.org/euclid.cmp/1104271703},
     volume = {166},
     year = {1995}

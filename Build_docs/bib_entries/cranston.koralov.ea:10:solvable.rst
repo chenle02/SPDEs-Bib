@@ -8,7 +8,8 @@ cranston.koralov.ea:10:solvable
 .. code-block:: bibtex
 
    @article{cranston.koralov.ea:10:solvable,
-    author = {Cranston, M. and Koralov, L. and Molchanov, S. and Vainberg, B.},
+    author = {Cranston, M. and Koralov, L. and Molchanov, S. and
+   Vainberg, B.},
     doi = {10.1515/ROSE.2010.73},
     fjournal = {Random Operators and Stochastic Equations},
     issn = {0926-6364,1569-397X},
@@ -18,7 +19,8 @@ cranston.koralov.ea:10:solvable
     mrreviewer = {Quansheng\ Liu},
     number = {1},
     pages = {73--95},
-    title = {A solvable model for homopolymers and self-similarity near the critical point},
+    title = {A solvable model for homopolymers and self-similarity near
+   the critical point},
     url = {https://doi.org/10.1515/ROSE.2010.73},
     volume = {18},
     year = {2010}

@@ -9,7 +9,8 @@ xiao:04:random
 
    @incollection{xiao:04:random,
     author = {Xiao, Yimin},
-    booktitle = {Fractal geometry and applications: a jubilee of {B}eno\^{i}t {M}andelbrot, {P}art 2},
+    booktitle = {Fractal geometry and applications: a jubilee of
+   {B}eno\^{i}t {M}andelbrot, {P}art 2},
     doi = {10.1090/pspum/072.2/2112126},
     isbn = {0-8218-3638-2},
     mrclass = {60G17 (28A78 28A80 60J25 60J60)},

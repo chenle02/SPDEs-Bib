@@ -18,7 +18,8 @@ cannizzaro.friz.ea:17:malliavin
     mrreviewer = {Yaozhong Hu},
     number = {1},
     pages = {363--419},
-    title = {Malliavin calculus for regularity structures: the case of g{PAM}},
+    title = {Malliavin calculus for regularity structures: the case of
+   g{PAM}},
     url = {https://doi.org/10.1016/j.jfa.2016.09.024},
     volume = {272},
     year = {2017}

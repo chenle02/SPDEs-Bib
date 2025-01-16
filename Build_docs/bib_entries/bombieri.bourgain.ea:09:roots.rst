@@ -18,7 +18,8 @@ bombieri.bourgain.ea:09:roots
     mrreviewer = {Michael\ E.\ Zieve},
     number = {5},
     pages = {802--834},
-    title = {Roots of polynomials in subgroups of {$\Bbb F^*_p$} and applications to congruences},
+    title = {Roots of polynomials in subgroups of {$\Bbb F^*_p$} and
+   applications to congruences},
     url = {https://doi.org/10.1093/imrn/rnn147},
     year = {2009}
    }

@@ -15,7 +15,8 @@ wasow:87:asymptotic
     note = {Reprint of the 1976 edition},
     pages = {x+374},
     publisher = {Dover Publications, Inc., New York},
-    title = {Asymptotic expansions for ordinary differential equations},
+    title = {Asymptotic expansions for ordinary differential
+   equations},
     year = {1987}
    }
 

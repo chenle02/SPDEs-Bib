@@ -9,7 +9,8 @@ bourgain.li:14:on
 
    @article{bourgain.li:14:on,
     author = {Bourgain, Jean and Li, Dong},
-    fjournal = {Differential and Integral Equations. An International Journal for Theory \& Applications},
+    fjournal = {Differential and Integral Equations. An International
+   Journal for Theory \& Applications},
     issn = {0893-4983},
     journal = {Differential Integral Equations},
     mrclass = {42B20 (46E35)},

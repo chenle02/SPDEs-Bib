@@ -17,7 +17,8 @@ berger.zeitouni:08:quenched
     pages = {137--160},
     publisher = {Birkh\"{a}user, Basel},
     series = {Progr. Probab.},
-    title = {A quenched invariance principle for certain ballistic random walks in i.i.d. environments},
+    title = {A quenched invariance principle for certain ballistic
+   random walks in i.i.d. environments},
     url = {https://doi.org/10.1007/978-3-7643-8786-0_7},
     volume = {60},
     year = {2008}

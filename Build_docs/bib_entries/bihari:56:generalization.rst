@@ -17,7 +17,9 @@ bihari:56:generalization
     mrnumber = {79154},
     mrreviewer = {R. Bellman},
     pages = {81--94},
-    title = {A generalization of a lemma of {B}ellman and its application to uniqueness problems of differential equations},
+    title = {A generalization of a lemma of {B}ellman and its
+   application to uniqueness problems of differential
+   equations},
     url = {https://doi.org/10.1007/BF02022967},
     volume = {7},
     year = {1956}

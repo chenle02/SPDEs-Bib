@@ -18,7 +18,8 @@ chong.kevei:20:almost-sure
     mrreviewer = {Le\ Chen},
     number = {3},
     pages = {1466--1494},
-    title = {The almost-sure asymptotic behavior of the solution to the stochastic heat equation with {L}\'{e}vy noise},
+    title = {The almost-sure asymptotic behavior of the solution to the
+   stochastic heat equation with {L}\'{e}vy noise},
     url = {https://doi.org/10.1214/19-AOP1401},
     volume = {48},
     year = {2020}

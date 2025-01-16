@@ -14,7 +14,8 @@ chen:13:moments
     institution = {MATHAA},
     journal = {EPFL Ph.D. Thesis},
     publisher = {EPFL},
-    title = {Moments, Intermittency, and Growth Indices for Nonlinear Stochastic PDE's with Rough Initial Conditions},
+    title = {Moments, Intermittency, and Growth Indices for Nonlinear
+   Stochastic PDE's with Rough Initial Conditions},
     url = {http://infoscience.epfl.ch/record/185885},
     year = {2013}
    }

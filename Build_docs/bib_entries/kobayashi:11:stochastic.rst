@@ -18,7 +18,8 @@ kobayashi:11:stochastic
     mrreviewer = {Jan I. Seidler},
     number = {3},
     pages = {789--820},
-    title = {Stochastic calculus for a time-changed semimartingale and the associated stochastic differential equations},
+    title = {Stochastic calculus for a time-changed semimartingale and
+   the associated stochastic differential equations},
     url = {https://doi.org/10.1007/s10959-010-0320-9},
     volume = {24},
     year = {2011}

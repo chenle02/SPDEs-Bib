@@ -8,7 +8,8 @@ shangerganesh.barani-balan.ea:14:existence
 .. code-block:: bibtex
 
    @article{shangerganesh.barani-balan.ea:14:existence,
-    author = {Shangerganesh, L. and Barani Balan, N. and Balachandran, K.},
+    author = {Shangerganesh, L. and Barani Balan, N. and Balachandran,
+   K.},
     doi = {10.11650/tjm.18.2014.3080},
     fjournal = {Taiwanese Journal of Mathematics},
     issn = {1027-5487},
@@ -17,7 +18,8 @@ shangerganesh.barani-balan.ea:14:existence
     mrnumber = {3265079},
     number = {5},
     pages = {1605--1622},
-    title = {Existence and uniqueness of solutions of degenerate chemotaxis system},
+    title = {Existence and uniqueness of solutions of degenerate
+   chemotaxis system},
     url = {https://doi.org/10.11650/tjm.18.2014.3080},
     volume = {18},
     year = {2014}

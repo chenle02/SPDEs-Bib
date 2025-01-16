@@ -18,7 +18,8 @@ senba.suzuki:02:weak
     mrreviewer = {Piotr Biler},
     number = {1},
     pages = {17--51},
-    title = {Weak solutions to a parabolic-elliptic system of chemotaxis},
+    title = {Weak solutions to a parabolic-elliptic system of
+   chemotaxis},
     url = {https://doi.org/10.1006/jfan.2001.3802},
     volume = {191},
     year = {2002}

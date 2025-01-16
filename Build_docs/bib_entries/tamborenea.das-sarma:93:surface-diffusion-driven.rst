@@ -16,7 +16,8 @@ tamborenea.das-sarma:93:surface-diffusion-driven
     numpages = {0},
     pages = {2575--2594},
     publisher = {American Physical Society},
-    title = {Surface-diffusion-driven kinetic growth on one-dimensional substrates},
+    title = {Surface-diffusion-driven kinetic growth on one-dimensional
+   substrates},
     url = {https://link.aps.org/doi/10.1103/PhysRevE.48.2575},
     volume = {48},
     year = {1993}

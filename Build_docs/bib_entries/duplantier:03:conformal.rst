@@ -10,7 +10,8 @@ duplantier:03:conformal
    @article{duplantier:03:conformal,
     author = {Duplantier, Bertrand},
     doi = {10.1007/s00023-003-0931-0},
-    fjournal = {Annales Henri Poincar\'{e}. A Journal of Theoretical and Mathematical Physics},
+    fjournal = {Annales Henri Poincar\'{e}. A Journal of Theoretical and
+   Mathematical Physics},
     issn = {1424-0637},
     journal = {Ann. Henri Poincar\'{e}},
     mrclass = {82B27 (82B20 82B31)},

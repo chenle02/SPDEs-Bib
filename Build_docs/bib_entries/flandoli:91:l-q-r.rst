@@ -16,7 +16,8 @@ flandoli:91:l-q-r
     pages = {276--283},
     publisher = {Birkh\"{a}user Boston, Boston, MA},
     series = {Progr. Systems Control Theory},
-    title = {L-{Q}-{R} approach to a class of non-well-posed parabolic systems},
+    title = {L-{Q}-{R} approach to a class of non-well-posed parabolic
+   systems},
     volume = {7},
     year = {1991}
    }

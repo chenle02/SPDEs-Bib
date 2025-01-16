@@ -17,7 +17,8 @@ viens.zhang:08:almost
     mrnumber = {2464192},
     number = {10},
     pages = {2810--2860},
-    title = {Almost sure exponential behavior of a directed polymer in a fractional {B}rownian environment},
+    title = {Almost sure exponential behavior of a directed polymer in
+   a fractional {B}rownian environment},
     url = {https://doi.org/10.1016/j.jfa.2008.06.020},
     volume = {255},
     year = {2008}

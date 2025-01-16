@@ -17,7 +17,8 @@ bourgain.wang:07:diffusion
     pages = {21--42},
     publisher = {Princeton Univ. Press, Princeton, NJ},
     series = {Ann. of Math. Stud.},
-    title = {Diffusion bound for a nonlinear {S}chr\"{o}dinger equation},
+    title = {Diffusion bound for a nonlinear {S}chr\"{o}dinger
+   equation},
     volume = {163},
     year = {2007}
    }

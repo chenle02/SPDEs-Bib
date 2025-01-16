@@ -8,7 +8,8 @@ dembo.poonen.ea:02:random
 .. code-block:: bibtex
 
    @article{dembo.poonen.ea:02:random,
-    author = {Dembo, Amir and Poonen, Bjorn and Shao, Qi-Man and Zeitouni, Ofer},
+    author = {Dembo, Amir and Poonen, Bjorn and Shao, Qi-Man and
+   Zeitouni, Ofer},
     doi = {10.1090/S0894-0347-02-00386-7},
     fjournal = {Journal of the American Mathematical Society},
     issn = {0894-0347,1088-6834},

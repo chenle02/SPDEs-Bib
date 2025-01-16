@@ -18,7 +18,9 @@ kohatsu-higa.sanz-sole:97:existence
     mrreviewer = {Marco Ferrante},
     number = {1-2},
     pages = {1--22},
-    title = {Existence and regularity of density for solutions to stochastic differential equations with boundary conditions},
+    title = {Existence and regularity of density for solutions to
+   stochastic differential equations with boundary
+   conditions},
     url = {https://doi.org/10.1080/17442509708834096},
     volume = {60},
     year = {1997}

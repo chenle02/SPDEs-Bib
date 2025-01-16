@@ -18,7 +18,8 @@ hetzer.shen:02:uniform
     mrreviewer = {Michael\ Grinfeld},
     number = {1},
     pages = {204--227},
-    title = {Uniform persistence, coexistence, and extinction in almost periodic/nonautonomous competition diffusion systems},
+    title = {Uniform persistence, coexistence, and extinction in almost
+   periodic/nonautonomous competition diffusion systems},
     url = {https://doi.org/10.1137/S0036141001390695},
     volume = {34},
     year = {2002}

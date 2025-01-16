@@ -18,7 +18,8 @@ goldys.neerven:03:transition
     mrreviewer = {Vladimir\ I.\ Bogachev},
     number = {3},
     pages = {283--330},
-    title = {Transition semigroups of {B}anach space-valued {O}rnstein-{U}hlenbeck processes},
+    title = {Transition semigroups of {B}anach space-valued
+   {O}rnstein-{U}hlenbeck processes},
     url = {https://doi.org/10.1023/A:1023261101091},
     volume = {76},
     year = {2003}

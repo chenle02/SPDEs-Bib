@@ -14,7 +14,8 @@ wang.zheng.ea:03:universality
     journal = {Materials Chemistry and Physics},
     number = {2},
     pages = {254--257},
-    title = {The universality classes in growth of iron nitride thin films deposited by magnetron sputtering},
+    title = {The universality classes in growth of iron nitride thin
+   films deposited by magnetron sputtering},
     url = {https://www.sciencedirect.com/science/article/pii/S0254058403002177},
     volume = {82},
     year = {2003}

@@ -18,7 +18,8 @@ johansson:00:transversal
     mrreviewer = {Timo Sepp\"{a}l\"{a}inen},
     number = {4},
     pages = {445--456},
-    title = {Transversal fluctuations for increasing subsequences on the plane},
+    title = {Transversal fluctuations for increasing subsequences on
+   the plane},
     url = {https://doi.org/10.1007/s004400050258},
     volume = {116},
     year = {2000}

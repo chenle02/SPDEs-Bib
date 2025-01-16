@@ -8,9 +8,11 @@ friz.gassiat.ea:17:eikonal
 .. code-block:: bibtex
 
    @article{friz.gassiat.ea:17:eikonal,
-    author = {Friz, Peter K. and Gassiat, Paul and Lions, Pierre-Louis and Souganidis, Panagiotis E.},
+    author = {Friz, Peter K. and Gassiat, Paul and Lions, Pierre-Louis
+   and Souganidis, Panagiotis E.},
     doi = {10.1007/s40072-016-0087-9},
-    fjournal = {Stochastic Partial Differential Equations. Analysis and Computations},
+    fjournal = {Stochastic Partial Differential Equations. Analysis and
+   Computations},
     issn = {2194-0401,2194-041X},
     journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
     mrclass = {35R60 (35G20 60H15)},
@@ -18,7 +20,8 @@ friz.gassiat.ea:17:eikonal
     mrreviewer = {Le\ Chen},
     number = {2},
     pages = {256--277},
-    title = {Eikonal equations and pathwise solutions to fully non-linear {SPDE}s},
+    title = {Eikonal equations and pathwise solutions to fully
+   non-linear {SPDE}s},
     url = {https://doi.org/10.1007/s40072-016-0087-9},
     volume = {5},
     year = {2017}

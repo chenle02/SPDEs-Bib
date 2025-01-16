@@ -18,7 +18,8 @@ kurtz.xiong:99:particle
     mrreviewer = {Sylvie M\'{e}l\'{e}ard},
     number = {1},
     pages = {103--126},
-    title = {Particle representations for a class of nonlinear {SPDE}s},
+    title = {Particle representations for a class of nonlinear
+   {SPDE}s},
     url = {https://doi.org/10.1016/S0304-4149(99)00024-1},
     volume = {83},
     year = {1999}

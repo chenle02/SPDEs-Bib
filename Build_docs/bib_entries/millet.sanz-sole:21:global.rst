@@ -16,7 +16,8 @@ millet.sanz-sole:21:global
     mrclass = {60H15 (35R60 60G17 60G60)},
     mrnumber = {4264843},
     pages = {175--211},
-    title = {Global solutions to stochastic wave equations with superlinear coefficients},
+    title = {Global solutions to stochastic wave equations with
+   superlinear coefficients},
     url = {https://doi.org/10.1016/j.spa.2021.05.002},
     volume = {139},
     year = {2021}

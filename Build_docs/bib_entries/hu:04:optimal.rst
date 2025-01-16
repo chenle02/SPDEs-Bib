@@ -15,7 +15,8 @@ hu:04:optimal
     mrreviewer = {Josef Teichmann},
     pages = {164--173},
     publisher = {World Sci. Publ., River Edge, NJ},
-    title = {Optimal consumption and portfolio in a market where the volatility is driven by fractional {B}rownian motion},
+    title = {Optimal consumption and portfolio in a market where the
+   volatility is driven by fractional {B}rownian motion},
     year = {2004}
    }
 

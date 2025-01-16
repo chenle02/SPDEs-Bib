@@ -18,7 +18,8 @@ deift.krasovsky.ea:11:asymptotics
     mrreviewer = {Sasha\ Sodin},
     number = {9},
     pages = {2117--2160},
-    title = {Asymptotics for a determinant with a confluent hypergeometric kernel},
+    title = {Asymptotics for a determinant with a confluent
+   hypergeometric kernel},
     url = {https://doi.org/10.1093/imrn/rnq150},
     year = {2011}
    }

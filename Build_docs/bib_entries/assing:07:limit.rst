@@ -18,7 +18,8 @@ assing:07:limit
     mrreviewer = {B. M. Gurevich},
     number = {6},
     pages = {766--790},
-    title = {A limit theorem for quadratic fluctuations in symmetric simple exclusion},
+    title = {A limit theorem for quadratic fluctuations in symmetric
+   simple exclusion},
     url = {https://doi.org/10.1016/j.spa.2006.10.005},
     volume = {117},
     year = {2007}

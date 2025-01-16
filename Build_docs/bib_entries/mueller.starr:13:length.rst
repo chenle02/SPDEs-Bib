@@ -17,7 +17,8 @@ mueller.starr:13:length
     mrnumber = {3055815},
     number = {2},
     pages = {514--540},
-    title = {The length of the longest increasing subsequence of a random {M}allows permutation},
+    title = {The length of the longest increasing subsequence of a
+   random {M}allows permutation},
     url = {https://doi.org/10.1007/s10959-011-0364-5},
     volume = {26},
     year = {2013}

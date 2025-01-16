@@ -18,7 +18,8 @@ derriennic.hachem:88:sur
     mrreviewer = {Isaac Meilijson},
     number = {2},
     pages = {221--224},
-    title = {Sur la convergence en moyenne des suites presque sous-additives},
+    title = {Sur la convergence en moyenne des suites presque
+   sous-additives},
     url = {https://doi.org/10.1007/BF01163292},
     volume = {198},
     year = {1988}

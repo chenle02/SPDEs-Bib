@@ -17,7 +17,8 @@ quastel.spohn:15:one-dimensional
     mrnumber = {3373647},
     number = {4},
     pages = {965--984},
-    title = {The one-dimensional {KPZ} equation and its universality class},
+    title = {The one-dimensional {KPZ} equation and its universality
+   class},
     url = {https://doi.org/10.1007/s10955-015-1250-9},
     volume = {160},
     year = {2015}

@@ -18,7 +18,8 @@ athreya.joseph.ea:21:small
     mrreviewer = {Vivek Kumar},
     number = {5},
     pages = {2548--2572},
-    title = {Small ball probabilities and a support theorem for the stochastic heat equation},
+    title = {Small ball probabilities and a support theorem for the
+   stochastic heat equation},
     url = {https://doi.org/10.1214/21-aop1515},
     volume = {49},
     year = {2021}

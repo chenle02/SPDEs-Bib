@@ -18,7 +18,8 @@ barral:03:poissonian
     mrreviewer = {Thierry\ Edmond\ Huillet},
     number = {3},
     pages = {813--856},
-    title = {Poissonian products of random weights: uniform convergence and related measures},
+    title = {Poissonian products of random weights: uniform convergence
+   and related measures},
     url = {https://doi.org/10.4171/RMI/371},
     volume = {19},
     year = {2003}

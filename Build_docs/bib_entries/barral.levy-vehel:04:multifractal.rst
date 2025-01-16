@@ -17,7 +17,8 @@ barral.levy-vehel:04:multifractal
     mrnumber = {2080607},
     mrreviewer = {Marta\ Tyran-Kami\'nska},
     pages = {no. 16, 508--543},
-    title = {Multifractal analysis of a class of additive processes with correlated non-stationary increments},
+    title = {Multifractal analysis of a class of additive processes
+   with correlated non-stationary increments},
     url = {https://doi.org/10.1214/EJP.v9-208},
     volume = {9},
     year = {2004}

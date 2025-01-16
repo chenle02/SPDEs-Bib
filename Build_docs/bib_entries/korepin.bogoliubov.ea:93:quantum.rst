@@ -17,7 +17,8 @@ korepin.bogoliubov.ea:93:quantum
     pages = {xx+555},
     publisher = {Cambridge University Press, Cambridge},
     series = {Cambridge Monographs on Mathematical Physics},
-    title = {Quantum inverse scattering method and correlation functions},
+    title = {Quantum inverse scattering method and correlation
+   functions},
     url = {https://doi.org/10.1017/CBO9780511628832},
     year = {1993}
    }

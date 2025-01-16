@@ -16,7 +16,8 @@ cai.gan.ea:23:weak
     mrclass = {65C30 (65M60)},
     mrnumber = {4563539},
     pages = {1--20},
-    title = {Weak convergence of the backward {E}uler method for stochastic {C}ahn-{H}illiard equation with additive noise},
+    title = {Weak convergence of the backward {E}uler method for
+   stochastic {C}ahn-{H}illiard equation with additive noise},
     url = {https://doi.org/10.1016/j.apnum.2023.02.015},
     volume = {188},
     year = {2023}

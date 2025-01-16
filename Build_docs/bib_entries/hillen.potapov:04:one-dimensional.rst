@@ -17,7 +17,8 @@ hillen.potapov:04:one-dimensional
     mrnumber = {2087297},
     number = {15},
     pages = {1783--1801},
-    title = {The one-dimensional chemotaxis model: global existence and asymptotic profile},
+    title = {The one-dimensional chemotaxis model: global existence and
+   asymptotic profile},
     url = {https://doi.org/10.1002/mma.569},
     volume = {27},
     year = {2004}

@@ -17,7 +17,8 @@ lankeit:15:eventual
     mrnumber = {3294344},
     number = {4},
     pages = {1158--1191},
-    title = {Eventual smoothness and asymptotics in a three-dimensional chemotaxis system with logistic source},
+    title = {Eventual smoothness and asymptotics in a three-dimensional
+   chemotaxis system with logistic source},
     url = {https://doi.org/10.1016/j.jde.2014.10.016},
     volume = {258},
     year = {2015}

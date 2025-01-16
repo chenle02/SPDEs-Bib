@@ -18,7 +18,8 @@ rider.zhou:08:janossy
     mrreviewer = {Steven Joel Miller},
     number = {13},
     pages = {Art. ID rnn037, 51},
-    title = {Janossy densities for unitary ensembles at the spectral edge},
+    title = {Janossy densities for unitary ensembles at the spectral
+   edge},
     url = {https://doi.org/10.1093/imrn/rnn037},
     year = {2008}
    }

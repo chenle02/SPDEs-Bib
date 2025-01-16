@@ -17,7 +17,8 @@ matoussi.sabbagh.ea:17:backward
     mrnumber = {3682114},
     number = {9},
     pages = {2781--2815},
-    title = {Backward doubly {SDE}s and semilinear stochastic {PDE}s in a convex domain},
+    title = {Backward doubly {SDE}s and semilinear stochastic {PDE}s in
+   a convex domain},
     url = {https://doi.org/10.1016/j.spa.2016.12.010},
     volume = {127},
     year = {2017}

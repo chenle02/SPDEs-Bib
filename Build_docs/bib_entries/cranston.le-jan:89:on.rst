@@ -9,7 +9,8 @@ cranston.le-jan:89:on
 
    @article{cranston.le-jan:89:on,
     author = {Cranston, M. and Le Jan, Y.},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistique},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistique},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {60J65 (60H10)},
@@ -17,7 +18,8 @@ cranston.le-jan:89:on
     mrreviewer = {Pierre-Louis\ Lions},
     number = {2},
     pages = {99--107},
-    title = {On the noncoalescence of a two point {B}rownian motion reflecting on a circle},
+    title = {On the noncoalescence of a two point {B}rownian motion
+   reflecting on a circle},
     url = {http://www.numdam.org/item?id=AIHPB_1989__25_2_99_0},
     volume = {25},
     year = {1989}

@@ -9,7 +9,8 @@ bourgain:97:gibbs
 
    @incollection{bourgain:97:gibbs,
     author = {Bourgain, Jean},
-    booktitle = {The {L}egacy of {N}orbert {W}iener: {A} {C}entennial {S}ymposium ({C}ambridge, {MA}, 1994)},
+    booktitle = {The {L}egacy of {N}orbert {W}iener: {A} {C}entennial
+   {S}ymposium ({C}ambridge, {MA}, 1994)},
     doi = {10.1090/pspum/060/1460274},
     isbn = {0-8218-0415-4},
     mrclass = {35Q55 (35B99 58F27)},
@@ -17,7 +18,8 @@ bourgain:97:gibbs
     pages = {53--63},
     publisher = {Amer. Math. Soc., Providence, RI},
     series = {Proc. Sympos. Pure Math.},
-    title = {Gibbs measures, quasi-periodic solutions and nonlinear partial differential equations},
+    title = {Gibbs measures, quasi-periodic solutions and nonlinear
+   partial differential equations},
     url = {https://doi.org/10.1090/pspum/060/1460274},
     volume = {60},
     year = {1997}

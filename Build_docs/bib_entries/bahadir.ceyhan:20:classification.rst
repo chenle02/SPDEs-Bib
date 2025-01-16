@@ -17,7 +17,8 @@ bahadir.ceyhan:20:classification
     mrreviewer = {Yuval\ Wigderson},
     number = {3},
     pages = {43--74},
-    title = {A classification of isomorphism-invariant random digraphs},
+    title = {A classification of isomorphism-invariant random
+   digraphs},
     volume = {15},
     year = {2020}
    }

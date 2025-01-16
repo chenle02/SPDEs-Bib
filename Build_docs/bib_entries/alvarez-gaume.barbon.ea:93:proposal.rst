@@ -8,9 +8,12 @@ alvarez-gaume.barbon.ea:93:proposal
 .. code-block:: bibtex
 
    @article{alvarez-gaume.barbon.ea:93:proposal,
-    author = {Alvarez-Gaum\'{e}, L. and Barb\'{o}n, J. L. F. and Crnkovi\'{c}, \v{C}.},
+    author = {Alvarez-Gaum\'{e}, L. and Barb\'{o}n, J. L. F. and
+   Crnkovi\'{c}, \v{C}.},
     doi = {10.1016/0550-3213(93)90020-P},
-    fjournal = {Nuclear Physics. B. Theoretical, Phenomenological, and Experimental High Energy Physics. Quantum Field Theory and Statistical Systems},
+    fjournal = {Nuclear Physics. B. Theoretical, Phenomenological, and
+   Experimental High Energy Physics. Quantum Field Theory and
+   Statistical Systems},
     issn = {0550-3213},
     journal = {Nuclear Phys. B},
     mrclass = {81T30},

@@ -10,7 +10,8 @@ howison.lacey.ea:88:hele-shaw
    @article{howison.lacey.ea:88:hele-shaw,
     author = {Howison, S. D. and Lacey, A. A. and Ockendon, J. R.},
     doi = {10.1093/qjmam/41.2.183},
-    fjournal = {The Quarterly Journal of Mechanics and Applied Mathematics},
+    fjournal = {The Quarterly Journal of Mechanics and Applied
+   Mathematics},
     issn = {0033-5614},
     journal = {Quart. J. Mech. Appl. Math.},
     mrclass = {76E99},

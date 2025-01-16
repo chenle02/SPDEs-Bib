@@ -15,7 +15,8 @@ olla.tsai:19:exceedingly
     mrclass = {60F10 (60K35 82C22)},
     mrnumber = {3916336},
     pages = {Paper No. 16, 71},
-    title = {Exceedingly large deviations of the totally asymmetric exclusion process},
+    title = {Exceedingly large deviations of the totally asymmetric
+   exclusion process},
     url = {https://doi.org/10.1214/19-EJP278},
     volume = {24},
     year = {2019}

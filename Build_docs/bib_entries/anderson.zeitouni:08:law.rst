@@ -18,7 +18,8 @@ anderson.zeitouni:08:law
     mrreviewer = {Myl\`ene\ Ma\"{i}da},
     number = {8},
     pages = {1118--1154},
-    title = {A law of large numbers for finite-range dependent random matrices},
+    title = {A law of large numbers for finite-range dependent random
+   matrices},
     url = {https://doi.org/10.1002/cpa.20235},
     volume = {61},
     year = {2008}

@@ -16,7 +16,8 @@ lei.nualart:12:stochastic
     mrreviewer = {No\`elia Viles},
     number = {3},
     pages = {379--402},
-    title = {Stochastic calculus for {G}aussian processes and application to hitting times},
+    title = {Stochastic calculus for {G}aussian processes and
+   application to hitting times},
     volume = {6},
     year = {2012}
    }

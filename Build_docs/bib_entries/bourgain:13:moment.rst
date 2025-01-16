@@ -18,7 +18,8 @@ bourgain:13:moment
     mrreviewer = {F.\ M\'{o}ricz},
     number = {1},
     pages = {441--458},
-    title = {Moment inequalities for trigonometric polynomials with spectrum in curved hypersurfaces},
+    title = {Moment inequalities for trigonometric polynomials with
+   spectrum in curved hypersurfaces},
     url = {https://doi.org/10.1007/s11856-012-0077-1},
     volume = {193},
     year = {2013}

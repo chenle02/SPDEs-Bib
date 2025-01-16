@@ -9,7 +9,8 @@ zabczyk:02:classical
 
    @incollection{zabczyk:02:classical,
     author = {Zabczyk, Jerzy},
-    booktitle = {Mathematical control theory, {P}art 1, 2 ({T}rieste, 2001)},
+    booktitle = {Mathematical control theory, {P}art 1, 2 ({T}rieste,
+   2001)},
     mrclass = {93-01 (49-01)},
     mrnumber = {1972786},
     pages = {1--57},

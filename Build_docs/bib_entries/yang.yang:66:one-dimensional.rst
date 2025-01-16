@@ -15,7 +15,8 @@ yang.yang:66:one-dimensional
     mrclass = {82.99},
     mrnumber = {189696},
     pages = {9--10},
-    title = {One-dimensional chain of anisotropic spin-spin interactions},
+    title = {One-dimensional chain of anisotropic spin-spin
+   interactions},
     volume = {20},
     year = {1966}
    }

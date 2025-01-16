@@ -18,7 +18,8 @@ bourgain:88:remark
     mrreviewer = {Anatolij\ Dvure\v{c}enskij},
     number = {1},
     pages = {136--143},
-    title = {A remark on the uncertainty principle for {H}ilbertian basis},
+    title = {A remark on the uncertainty principle for {H}ilbertian
+   basis},
     url = {https://doi.org/10.1016/0022-1236(88)90033-X},
     volume = {79},
     year = {1988}

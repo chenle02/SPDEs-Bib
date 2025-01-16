@@ -18,7 +18,8 @@ bourgain.brezis:03:on
     mrreviewer = {Florin\ Iacob},
     number = {2},
     pages = {393--426},
-    title = {On the equation {${\rm div}\, Y=f$} and application to control of phases},
+    title = {On the equation {${\rm div}\, Y=f$} and application to
+   control of phases},
     url = {https://doi.org/10.1090/S0894-0347-02-00411-3},
     volume = {16},
     year = {2003}

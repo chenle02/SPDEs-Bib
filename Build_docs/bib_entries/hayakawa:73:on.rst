@@ -16,7 +16,8 @@ hayakawa:73:on
     mrnumber = {338569},
     mrreviewer = {J. A. Goldstein},
     pages = {503--505},
-    title = {On nonexistence of global solutions of some semilinear parabolic differential equations},
+    title = {On nonexistence of global solutions of some semilinear
+   parabolic differential equations},
     url = {http://projecteuclid.org/euclid.pja/1195519254},
     volume = {49},
     year = {1973}

@@ -18,7 +18,8 @@ simon:76:bound
     mrreviewer = {M.\ S. P. Eastham},
     number = {2},
     pages = {279--288},
-    title = {The bound state of weakly coupled {S}chr\"odinger operators in one and two dimensions},
+    title = {The bound state of weakly coupled {S}chr\"odinger
+   operators in one and two dimensions},
     url = {https://doi.org/10.1016/0003-4916(76)90038-5},
     volume = {97},
     year = {1976}

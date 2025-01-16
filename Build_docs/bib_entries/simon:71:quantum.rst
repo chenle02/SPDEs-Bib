@@ -15,7 +15,8 @@ simon:71:quantum
     pages = {xv+244},
     publisher = {Princeton University Press, Princeton, NJ},
     series = {Princeton Series in Physics},
-    title = {Quantum mechanics for {H}amiltonians defined as quadratic forms},
+    title = {Quantum mechanics for {H}amiltonians defined as quadratic
+   forms},
     year = {1971}
    }
 

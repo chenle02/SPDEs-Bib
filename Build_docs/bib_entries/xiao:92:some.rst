@@ -16,7 +16,8 @@ xiao:92:some
     mrnumber = {1205076},
     number = {2},
     pages = {237--240},
-    title = {Some properties of the image sets of two-parameter {O}rnstein-{U}hlenbeck processes},
+    title = {Some properties of the image sets of two-parameter
+   {O}rnstein-{U}hlenbeck processes},
     volume = {12},
     year = {1992}
    }

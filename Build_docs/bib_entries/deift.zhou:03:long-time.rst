@@ -19,7 +19,8 @@ deift.zhou:03:long-time
     note = {Dedicated to the memory of J\"urgen K. Moser},
     number = {8},
     pages = {1029--1077},
-    title = {Long-time asymptotics for solutions of the {NLS} equation with initial data in a weighted {S}obolev space},
+    title = {Long-time asymptotics for solutions of the {NLS} equation
+   with initial data in a weighted {S}obolev space},
     url = {https://doi.org/10.1002/cpa.3034},
     volume = {56},
     year = {2003}

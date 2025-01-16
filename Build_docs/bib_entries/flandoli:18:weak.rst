@@ -18,7 +18,8 @@ flandoli:18:weak
     mrreviewer = {Paul\ Andr\'{e}\ Razafimandimby},
     number = {7},
     pages = {1102--1149},
-    title = {Weak vorticity formulation of 2{D} {E}uler equations with white noise initial condition},
+    title = {Weak vorticity formulation of 2{D} {E}uler equations with
+   white noise initial condition},
     url = {https://doi.org/10.1080/03605302.2018.1467448},
     volume = {43},
     year = {2018}

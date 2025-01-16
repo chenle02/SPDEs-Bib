@@ -18,7 +18,8 @@ mainardi:96:fractional
     mrreviewer = {K. S. Miller},
     number = {9},
     pages = {1461--1477},
-    title = {Fractional relaxation-oscillation and fractional diffusion-wave phenomena},
+    title = {Fractional relaxation-oscillation and fractional
+   diffusion-wave phenomena},
     url = {https://doi.org/10.1016/0960-0779(95)00125-5},
     volume = {7},
     year = {1996}

@@ -18,7 +18,8 @@ johansson:01:discrete
     mrreviewer = {Nicholas S. Witte},
     number = {1},
     pages = {259--296},
-    title = {Discrete orthogonal polynomial ensembles and the {P}lancherel measure},
+    title = {Discrete orthogonal polynomial ensembles and the
+   {P}lancherel measure},
     url = {https://doi.org/10.2307/2661375},
     volume = {153},
     year = {2001}

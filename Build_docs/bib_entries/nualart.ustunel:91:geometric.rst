@@ -18,7 +18,8 @@ nualart.ustunel:91:geometric
     mrreviewer = {M. Zakai},
     number = {4},
     pages = {407--422},
-    title = {Geometric analysis of conditional independence on {W}iener space},
+    title = {Geometric analysis of conditional independence on {W}iener
+   space},
     url = {https://doi.org/10.1007/BF01199786},
     volume = {89},
     year = {1991}

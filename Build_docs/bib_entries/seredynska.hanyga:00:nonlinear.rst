@@ -17,7 +17,8 @@ seredynska.hanyga:00:nonlinear
     mrnumber = {1751881},
     number = {4},
     pages = {2135--2156},
-    title = {Nonlinear {H}amiltonian equations with fractional damping},
+    title = {Nonlinear {H}amiltonian equations with fractional
+   damping},
     url = {https://doi.org/10.1063/1.533231},
     volume = {41},
     year = {2000}

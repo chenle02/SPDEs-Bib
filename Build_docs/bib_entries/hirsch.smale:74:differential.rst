@@ -13,9 +13,11 @@ hirsch.smale:74:differential
     mrnumber = {486784},
     mrreviewer = {Carl P. Simon},
     pages = {xi+358},
-    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers], New York-London},
+    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers],
+   New York-London},
     series = {Pure and Applied Mathematics, Vol. 60},
-    title = {Differential equations, dynamical systems, and linear algebra},
+    title = {Differential equations, dynamical systems, and linear
+   algebra},
     year = {1974}
    }
 

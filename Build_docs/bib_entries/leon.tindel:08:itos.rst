@@ -10,7 +10,8 @@ leon.tindel:08:itos
    @article{leon.tindel:08:itos,
     author = {Le\'{o}n, Jorge A. and Tindel, Samy},
     doi = {10.1080/17442500701661687},
-    fjournal = {Stochastics. An International Journal of Probability and Stochastic Processes},
+    fjournal = {Stochastics. An International Journal of Probability and
+   Stochastic Processes},
     issn = {1744-2508},
     journal = {Stochastics},
     mrclass = {60H15 (60G15 60H07)},

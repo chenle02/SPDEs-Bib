@@ -16,7 +16,9 @@ hairer:23:introduction
     mrnumber = {4655977},
     number = {129},
     pages = {56--57},
-    title = {An introduction to singular stochastic {PDE}s: {A}llen-{C}ahn equations, metastability, and regularity structures [book review of 4458524]},
+    title = {An introduction to singular stochastic {PDE}s:
+   {A}llen-{C}ahn equations, metastability, and regularity
+   structures [book review of 4458524]},
     year = {2023}
    }
 

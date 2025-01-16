@@ -17,7 +17,9 @@ smirnov:93:decomposition
     mrreviewer = {Andrew\ Bucki},
     number = {4},
     pages = {206--238},
-    title = {Decomposition of solenoidal vector charges into elementary solenoids, and the structure of normal one-dimensional flows},
+    title = {Decomposition of solenoidal vector charges into elementary
+   solenoids, and the structure of normal one-dimensional
+   flows},
     volume = {5},
     year = {1993}
    }

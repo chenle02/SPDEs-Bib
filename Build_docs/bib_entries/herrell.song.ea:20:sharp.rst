@@ -8,7 +8,8 @@ herrell.song.ea:20:sharp
 .. code-block:: bibtex
 
    @article{herrell.song.ea:20:sharp,
-    author = {Herrell, Randall and Song, Renming and Wu, Dongsheng and Xiao, Yimin},
+    author = {Herrell, Randall and Song, Renming and Wu, Dongsheng and
+   Xiao, Yimin},
     doi = {10.1080/07362994.2020.1721301},
     fjournal = {Stochastic Analysis and Applications},
     issn = {0736-2994},
@@ -18,7 +19,8 @@ herrell.song.ea:20:sharp
     mrreviewer = {Ciprian A. Tudor},
     number = {4},
     pages = {747--768},
-    title = {Sharp space-time regularity of the solution to stochastic heat equation driven by fractional-colored noise},
+    title = {Sharp space-time regularity of the solution to stochastic
+   heat equation driven by fractional-colored noise},
     url = {https://doi.org/10.1080/07362994.2020.1721301},
     volume = {38},
     year = {2020}

@@ -17,7 +17,8 @@ ahmed.zabczyk:96:partially
     mrreviewer = {Vivek S. Borkar},
     number = {4},
     pages = {521--538},
-    title = {Partially observed optimal controls for nonlinear infinite-dimensional stochastic systems},
+    title = {Partially observed optimal controls for nonlinear
+   infinite-dimensional stochastic systems},
     volume = {5},
     year = {1996}
    }

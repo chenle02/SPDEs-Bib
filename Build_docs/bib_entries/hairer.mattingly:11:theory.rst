@@ -16,7 +16,8 @@ hairer.mattingly:11:theory
     mrnumber = {2786645},
     mrreviewer = {Feng-Yu Wang},
     pages = {no. 23, 658--738},
-    title = {A theory of hypoellipticity and unique ergodicity for semilinear stochastic {PDE}s},
+    title = {A theory of hypoellipticity and unique ergodicity for
+   semilinear stochastic {PDE}s},
     url = {https://doi.org/10.1214/EJP.v16-875},
     volume = {16},
     year = {2011}

@@ -15,7 +15,8 @@ gu.bal:14:invariance
     mrclass = {60J65 (60F05 60F17 60K37)},
     mrnumber = {3164754},
     pages = {no. 1, 19},
-    title = {An invariance principle for {B}rownian motion in random scenery},
+    title = {An invariance principle for {B}rownian motion in random
+   scenery},
     url = {https://doi.org/10.1214/EJP.v19-2894},
     volume = {19},
     year = {2014}

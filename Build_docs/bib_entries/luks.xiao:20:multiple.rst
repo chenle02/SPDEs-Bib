@@ -18,7 +18,8 @@ luks.xiao:20:multiple
     mrreviewer = {Doncho\ S.\ Donchev},
     number = {1},
     pages = {153--179},
-    title = {Multiple points of operator semistable {L}\'{e}vy processes},
+    title = {Multiple points of operator semistable {L}\'{e}vy
+   processes},
     url = {https://doi.org/10.1007/s10959-018-0859-4},
     volume = {33},
     year = {2020}

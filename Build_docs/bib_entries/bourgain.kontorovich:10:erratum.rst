@@ -17,7 +17,8 @@ bourgain.kontorovich:10:erratum
     mrnumber = {2739002},
     number = {6},
     pages = {1548--1549},
-    title = {Erratum to: {O}n representations of integers in thin subgroups of {${\rm SL}_2(\Bbb Z)$} [MR2746949]},
+    title = {Erratum to: {O}n representations of integers in thin
+   subgroups of {${\rm SL}_2(\Bbb Z)$} [MR2746949]},
     url = {https://doi.org/10.1007/s00039-010-0104-5},
     volume = {20},
     year = {2010}

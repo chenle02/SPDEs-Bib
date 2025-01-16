@@ -18,7 +18,8 @@ gyongy.pardoux:93:on*1
     mrreviewer = {Ralf Manthey},
     number = {4},
     pages = {413--425},
-    title = {On quasi-linear stochastic partial differential equations},
+    title = {On quasi-linear stochastic partial differential
+   equations},
     url = {https://doi.org/10.1007/BF01192556},
     volume = {94},
     year = {1993}

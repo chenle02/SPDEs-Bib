@@ -18,7 +18,8 @@ allouba:98:different
     mrreviewer = {Bj\"{o}rn Schmalfuss},
     number = {5},
     pages = {787--810},
-    title = {Different types of {SPDE}s in the eyes of {G}irsanov's theorem},
+    title = {Different types of {SPDE}s in the eyes of {G}irsanov's
+   theorem},
     url = {https://doi.org/10.1080/07362999808809562},
     volume = {16},
     year = {1998}

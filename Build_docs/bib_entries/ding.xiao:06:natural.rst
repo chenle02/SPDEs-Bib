@@ -10,7 +10,9 @@ ding.xiao:06:natural
    @article{ding.xiao:06:natural,
     author = {Ding, Xiaoqing and Xiao, Yimin},
     doi = {10.1007/s11253-006-0124-3},
-    fjournal = {Nats\={i}onal{\cprime}na Akadem\={i}ya Nauk Ukra\"{i}ni. \={I}nstitut Matematiki. Ukra\"{i}ns{\cprime}kiu{i} Matematichniu{i} Zhurnal},
+    fjournal = {Nats\={i}onal{\cprime}na Akadem\={i}ya Nauk Ukra\"{i}ni.
+   \={I}nstitut Matematiki. Ukra\"{i}ns{\cprime}kiu{i}
+   Matematichniu{i} Zhurnal},
     issn = {1027-3190},
     journal = {Ukra\"{i}n. Mat. Zh.},
     mrclass = {60G99 (30B20 30B50)},

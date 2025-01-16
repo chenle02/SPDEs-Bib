@@ -8,7 +8,8 @@ nourdin.peccati.ea:16:classical
 .. code-block:: bibtex
 
    @article{nourdin.peccati.ea:16:classical,
-    author = {Nourdin, Ivan and Peccati, Giovanni and Poly, Guillaume and Simone, Rosaria},
+    author = {Nourdin, Ivan and Peccati, Giovanni and Poly, Guillaume
+   and Simone, Rosaria},
     doi = {10.1007/s10959-014-0590-8},
     fjournal = {Journal of Theoretical Probability},
     issn = {0894-9840},
@@ -17,7 +18,8 @@ nourdin.peccati.ea:16:classical
     mrnumber = {3500415},
     number = {2},
     pages = {653--680},
-    title = {Classical and free fourth moment theorems: universality and thresholds},
+    title = {Classical and free fourth moment theorems: universality
+   and thresholds},
     url = {https://doi.org/10.1007/s10959-014-0590-8},
     volume = {29},
     year = {2016}

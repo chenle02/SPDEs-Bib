@@ -16,7 +16,9 @@ engelbert.schmidt:81:on
     pages = {47--55},
     publisher = {Springer, Berlin-New York},
     series = {Lecture Notes in Control and Information Sci.},
-    title = {On the behaviour of certain functionals of the {W}iener process and applications to stochastic differential equations},
+    title = {On the behaviour of certain functionals of the {W}iener
+   process and applications to stochastic differential
+   equations},
     volume = {36},
     year = {1981}
    }

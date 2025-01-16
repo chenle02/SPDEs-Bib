@@ -18,7 +18,9 @@ kosygina.yilmaz.ea:20:homogenization
     mrreviewer = {Ben\ W.\ Schweizer},
     number = {1},
     pages = {32--56},
-    title = {Homogenization of a class of one-dimensional nonconvex viscous {H}amilton-{J}acobi equations with random potential},
+    title = {Homogenization of a class of one-dimensional nonconvex
+   viscous {H}amilton-{J}acobi equations with random
+   potential},
     url = {https://doi.org/10.1080/03605302.2019.1657448},
     volume = {45},
     year = {2020}

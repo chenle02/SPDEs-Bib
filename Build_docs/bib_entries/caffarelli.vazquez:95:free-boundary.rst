@@ -18,7 +18,8 @@ caffarelli.vazquez:95:free-boundary
     mrreviewer = {J. R. Ockendon},
     number = {2},
     pages = {411--441},
-    title = {A free-boundary problem for the heat equation arising in flame propagation},
+    title = {A free-boundary problem for the heat equation arising in
+   flame propagation},
     url = {https://doi.org/10.2307/2154895},
     volume = {347},
     year = {1995}

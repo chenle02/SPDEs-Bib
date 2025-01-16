@@ -10,7 +10,8 @@ tapia.zambotti:20:geometry
    @article{tapia.zambotti:20:geometry,
     author = {Tapia, Nikolas and Zambotti, Lorenzo},
     doi = {10.1112/plms.12311},
-    fjournal = {Proceedings of the London Mathematical Society. Third Series},
+    fjournal = {Proceedings of the London Mathematical Society. Third
+   Series},
     issn = {0024-6115,1460-244X},
     journal = {Proc. Lond. Math. Soc. (3)},
     mrclass = {60L20 (16T05 60H10 60L30)},

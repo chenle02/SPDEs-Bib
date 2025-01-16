@@ -16,7 +16,8 @@ kramers:40:brownian
     mrnumber = {2962},
     mrreviewer = {N. Wiener},
     pages = {284--304},
-    title = {Brownian motion in a field of force and the diffusion model of chemical reactions},
+    title = {Brownian motion in a field of force and the diffusion
+   model of chemical reactions},
     volume = {7},
     year = {1940}
    }

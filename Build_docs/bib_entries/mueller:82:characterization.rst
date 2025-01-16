@@ -10,7 +10,8 @@ mueller:82:characterization
    @article{mueller:82:characterization,
     author = {Mueller, Carl},
     doi = {10.4064/sm-72-1-47-57},
-    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia Mathematica},
+    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia
+   Mathematica},
     issn = {0039-3223},
     journal = {Studia Math.},
     mrclass = {42B30 (30D55 46E15 60G46)},

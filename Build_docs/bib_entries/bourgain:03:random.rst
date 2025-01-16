@@ -18,7 +18,8 @@ bourgain:03:random
     pages = {70--98},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Random lattice {S}chr\"{o}dinger operators with decaying potential: some higher dimensional phenomena},
+    title = {Random lattice {S}chr\"{o}dinger operators with decaying
+   potential: some higher dimensional phenomena},
     url = {https://doi.org/10.1007/978-3-540-36428-3_7},
     volume = {1807},
     year = {2003}

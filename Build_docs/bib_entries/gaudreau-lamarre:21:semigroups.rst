@@ -17,7 +17,8 @@ gaudreau-lamarre:21:semigroups
     mrnumber = {4290509},
     mrreviewer = {Federica\ Gregorio},
     pages = {Paper No. 107, 47},
-    title = {Semigroups for one-dimensional {S}chr\"{o}dinger operators with multiplicative {G}aussian noise},
+    title = {Semigroups for one-dimensional {S}chr\"{o}dinger operators
+   with multiplicative {G}aussian noise},
     url = {https://doi.org/10.1214/21-EJP654},
     volume = {26},
     year = {2021}

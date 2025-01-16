@@ -8,9 +8,11 @@ knizhnik.polyakov.ea:88:fractal
 .. code-block:: bibtex
 
    @article{knizhnik.polyakov.ea:88:fractal,
-    author = {Knizhnik, V. G. and Polyakov, A. M. and Zamolodchikov, A. B.},
+    author = {Knizhnik, V. G. and Polyakov, A. M. and Zamolodchikov, A.
+   B.},
     doi = {10.1142/S0217732388000982},
-    fjournal = {Modern Physics Letters A. Particles and Fields, Gravitation, Cosmology, Nuclear Physics},
+    fjournal = {Modern Physics Letters A. Particles and Fields,
+   Gravitation, Cosmology, Nuclear Physics},
     issn = {0217-7323},
     journal = {Modern Phys. Lett. A},
     mrclass = {83C45 (81E13 81E15 81G25)},

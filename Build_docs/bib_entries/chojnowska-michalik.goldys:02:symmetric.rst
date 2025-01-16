@@ -18,7 +18,8 @@ chojnowska-michalik.goldys:02:symmetric
     mrreviewer = {Catherine\ Donati-Martin},
     number = {4},
     pages = {459--486},
-    title = {Symmetric {O}rnstein-{U}hlenbeck semigroups and their generators},
+    title = {Symmetric {O}rnstein-{U}hlenbeck semigroups and their
+   generators},
     url = {https://doi.org/10.1007/s004400200222},
     volume = {124},
     year = {2002}

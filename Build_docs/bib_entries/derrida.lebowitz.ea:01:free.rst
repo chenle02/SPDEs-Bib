@@ -17,7 +17,8 @@ derrida.lebowitz.ea:01:free
     mrnumber = {1862335},
     number = {15},
     pages = {150601, 4},
-    title = {Free energy functional for nonequilibrium systems: an exactly solvable case},
+    title = {Free energy functional for nonequilibrium systems: an
+   exactly solvable case},
     url = {https://doi.org/10.1103/PhysRevLett.87.150601},
     volume = {87},
     year = {2001}

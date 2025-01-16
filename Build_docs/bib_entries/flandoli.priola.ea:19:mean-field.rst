@@ -18,7 +18,8 @@ flandoli.priola.ea:19:mean-field
     mrreviewer = {Adam\ Andersson},
     number = {6},
     pages = {3037--3067},
-    title = {A mean-field model with discontinuous coefficients for neurons with spatial interaction},
+    title = {A mean-field model with discontinuous coefficients for
+   neurons with spatial interaction},
     url = {https://doi.org/10.3934/dcds.2019126},
     volume = {39},
     year = {2019}

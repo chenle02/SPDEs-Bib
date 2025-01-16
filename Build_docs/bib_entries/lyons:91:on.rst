@@ -10,7 +10,8 @@ lyons:91:on
    @article{lyons:91:on,
     author = {Lyons, Terry},
     doi = {10.1098/rspa.1991.0017},
-    fjournal = {Proceedings of the Royal Society. London. Series A. Mathematical, Physical and Engineering Sciences},
+    fjournal = {Proceedings of the Royal Society. London. Series A.
+   Mathematical, Physical and Engineering Sciences},
     issn = {0962-8444},
     journal = {Proc. Roy. Soc. London Ser. A},
     mrclass = {60H05},

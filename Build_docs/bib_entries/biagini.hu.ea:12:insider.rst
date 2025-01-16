@@ -8,7 +8,8 @@ biagini.hu.ea:12:insider
 .. code-block:: bibtex
 
    @article{biagini.hu.ea:12:insider,
-    author = {Biagini, Francesca and Hu, Yaozhong and Meyer-Brandis, Thilo and {\O}ksendal, Bernt},
+    author = {Biagini, Francesca and Hu, Yaozhong and Meyer-Brandis,
+   Thilo and {\O}ksendal, Bernt},
     doi = {10.1007/s11579-012-0065-6},
     fjournal = {Mathematics and Financial Economics},
     issn = {1862-9679},

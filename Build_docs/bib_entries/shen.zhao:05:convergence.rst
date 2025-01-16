@@ -18,7 +18,8 @@ shen.zhao:05:convergence
     mrreviewer = {Addolorata\ Salvatore},
     number = {1},
     pages = {203--212},
-    title = {Convergence in almost periodic cooperative systems with a first integral},
+    title = {Convergence in almost periodic cooperative systems with a
+   first integral},
     url = {https://doi.org/10.1090/S0002-9939-04-07556-2},
     volume = {133},
     year = {2005}

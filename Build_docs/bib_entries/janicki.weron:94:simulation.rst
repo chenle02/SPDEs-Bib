@@ -16,7 +16,8 @@ janicki.weron:94:simulation
     pages = {xii+355},
     publisher = {Marcel Dekker, Inc., New York},
     series = {Monographs and Textbooks in Pure and Applied Mathematics},
-    title = {Simulation and chaotic behavior of {$\alpha$}-stable stochastic processes},
+    title = {Simulation and chaotic behavior of {$\alpha$}-stable
+   stochastic processes},
     volume = {178},
     year = {1994}
    }

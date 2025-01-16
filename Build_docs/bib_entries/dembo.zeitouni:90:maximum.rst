@@ -18,7 +18,8 @@ dembo.zeitouni:90:maximum
     mrreviewer = {M.\ Zakai},
     number = {2},
     pages = {151--167},
-    title = {Maximum a posteriori estimation of elliptic {G}aussian fields observed via a noisy nonlinear channel},
+    title = {Maximum a posteriori estimation of elliptic {G}aussian
+   fields observed via a noisy nonlinear channel},
     url = {https://doi.org/10.1016/0047-259X(90)90022-A},
     volume = {35},
     year = {1990}

@@ -18,7 +18,8 @@ cerrai:96:elliptic
     mrreviewer = {Kazuaki Taira},
     number = {1-2},
     pages = {281--317},
-    title = {Elliptic and parabolic equations in {${\bf R}^n$} with coefficients having polynomial growth},
+    title = {Elliptic and parabolic equations in {${\bf R}^n$} with
+   coefficients having polynomial growth},
     url = {https://doi.org/10.1080/03605309608821185},
     volume = {21},
     year = {1996}

@@ -9,7 +9,8 @@ sanz-sole:02:applications
 
    @incollection{sanz-sole:02:applications,
     author = {Sanz-Sol\'{e}, Marta},
-    booktitle = {Stochastic partial differential equations and applications ({T}rento, 2002)},
+    booktitle = {Stochastic partial differential equations and applications
+   ({T}rento, 2002)},
     mrclass = {60H07 (60H15)},
     mrnumber = {1919522},
     pages = {429--442},

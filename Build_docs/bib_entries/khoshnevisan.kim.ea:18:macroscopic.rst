@@ -18,7 +18,8 @@ khoshnevisan.kim.ea:18:macroscopic
     mrreviewer = {Vadym M. Radchenko},
     number = {1},
     pages = {307--346},
-    title = {A macroscopic multifractal analysis of parabolic stochastic {PDE}s},
+    title = {A macroscopic multifractal analysis of parabolic
+   stochastic {PDE}s},
     url = {https://doi.org/10.1007/s00220-018-3136-6},
     volume = {360},
     year = {2018}

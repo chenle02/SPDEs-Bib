@@ -18,7 +18,8 @@ grimmett.kesten.ea:93:random
     mrreviewer = {Pablo A. Ferrari},
     number = {1},
     pages = {33--44},
-    title = {Random walk on the infinite cluster of the percolation model},
+    title = {Random walk on the infinite cluster of the percolation
+   model},
     url = {https://doi.org/10.1007/BF01195881},
     volume = {96},
     year = {1993}

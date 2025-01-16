@@ -16,7 +16,9 @@ roy.pandit:20:one-dimensional
     mrnumber = {4083969},
     number = {3},
     pages = {030103(R), 6},
-    title = {One-dimensional {K}ardar-{P}arisi-{Z}hang and {K}uramoto-{S}ivashinsky universality class: limit distributions},
+    title = {One-dimensional {K}ardar-{P}arisi-{Z}hang and
+   {K}uramoto-{S}ivashinsky universality class: limit
+   distributions},
     volume = {101},
     year = {2020}
    }

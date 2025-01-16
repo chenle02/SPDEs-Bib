@@ -17,7 +17,9 @@ shen:17:stability
     mrnumber = {3694263},
     number = {9},
     pages = {3466--3491},
-    title = {Stability of transition waves and positive entire solutions of {F}isher-{KPP} equations with time and space dependence},
+    title = {Stability of transition waves and positive entire
+   solutions of {F}isher-{KPP} equations with time and space
+   dependence},
     url = {https://doi.org/10.1088/1361-6544/aa7f08},
     volume = {30},
     year = {2017}

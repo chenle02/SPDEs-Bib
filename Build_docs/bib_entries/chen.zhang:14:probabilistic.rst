@@ -18,7 +18,8 @@ chen.zhang:14:probabilistic
     mrreviewer = {Sergey V. Lototsky},
     number = {6},
     pages = {2135--2149},
-    title = {A probabilistic approach to mixed boundary value problems for elliptic operators with singular coefficients},
+    title = {A probabilistic approach to mixed boundary value problems
+   for elliptic operators with singular coefficients},
     url = {https://doi.org/10.1090/S0002-9939-2014-11907-1},
     volume = {142},
     year = {2014}

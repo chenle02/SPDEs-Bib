@@ -8,7 +8,8 @@ di-nezza.palatucci.ea:12:hitchhikers
 .. code-block:: bibtex
 
    @article{di-nezza.palatucci.ea:12:hitchhikers,
-    author = {Di Nezza, Eleonora and Palatucci, Giampiero and Valdinoci, Enrico},
+    author = {Di Nezza, Eleonora and Palatucci, Giampiero and Valdinoci,
+   Enrico},
     doi = {10.1016/j.bulsci.2011.12.004},
     fjournal = {Bulletin des Sciences Math\'{e}matiques},
     issn = {0007-4497},

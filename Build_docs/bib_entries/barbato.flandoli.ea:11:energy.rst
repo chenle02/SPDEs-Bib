@@ -18,7 +18,8 @@ barbato.flandoli.ea:11:energy
     mrreviewer = {Nader Masmoudi},
     number = {4},
     pages = {1925--1946},
-    title = {Energy dissipation and self-similar solutions for an unforced inviscid dyadic model},
+    title = {Energy dissipation and self-similar solutions for an
+   unforced inviscid dyadic model},
     url = {https://doi.org/10.1090/S0002-9947-2010-05302-4},
     volume = {363},
     year = {2011}

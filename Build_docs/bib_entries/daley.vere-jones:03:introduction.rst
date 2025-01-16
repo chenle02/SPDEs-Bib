@@ -18,7 +18,8 @@ daley.vere-jones:03:introduction
     pages = {xxii+469},
     publisher = {Springer-Verlag, New York},
     series = {Probability and its Applications (New York)},
-    title = {An introduction to the theory of point processes. {V}ol. {I}},
+    title = {An introduction to the theory of point processes. {V}ol.
+   {I}},
     year = {2003}
    }
 

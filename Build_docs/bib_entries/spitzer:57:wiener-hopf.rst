@@ -16,7 +16,8 @@ spitzer:57:wiener-hopf
     mrnumber = {90917},
     mrreviewer = {J.\ Kiefer},
     pages = {327--343},
-    title = {The {W}iener-{H}opf equation whose kernel is a probability density},
+    title = {The {W}iener-{H}opf equation whose kernel is a probability
+   density},
     url = {http://projecteuclid.org/euclid.dmj/1077467479},
     volume = {24},
     year = {1957}

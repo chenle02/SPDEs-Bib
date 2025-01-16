@@ -17,7 +17,8 @@ dunlap.gu.ea:23:fluctuation
     mrnumber = {4642816},
     number = {11},
     pages = {3104--3149},
-    title = {Fluctuation exponents of the {KPZ} equation on a large torus},
+    title = {Fluctuation exponents of the {KPZ} equation on a large
+   torus},
     url = {https://doi.org/10.1002/cpa.22110},
     volume = {76},
     year = {2023}

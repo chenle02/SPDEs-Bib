@@ -14,7 +14,8 @@ feller:71:introduction
     mrnumber = {270403},
     pages = {xxiv+669},
     publisher = {John Wiley \& Sons, Inc., New York-London-Sydney},
-    title = {An introduction to probability theory and its applications. {V}ol. {II}},
+    title = {An introduction to probability theory and its
+   applications. {V}ol. {II}},
     year = {1971}
    }
 

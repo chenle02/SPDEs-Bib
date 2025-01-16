@@ -8,9 +8,11 @@ blomer.bourgain.ea:17:small
 .. code-block:: bibtex
 
    @article{blomer.bourgain.ea:17:small,
-    author = {Blomer, Valentin and Bourgain, Jean and Radziwi\l \l , Maksym and Rudnick, Ze\'{e}v},
+    author = {Blomer, Valentin and Bourgain, Jean and Radziwi\l \l ,
+   Maksym and Rudnick, Ze\'{e}v},
     doi = {10.24033/asens.2345},
-    fjournal = {Annales Scientifiques de l'\'{E}cole Normale Sup\'{e}rieure. Quatri\`eme S\'{e}rie},
+    fjournal = {Annales Scientifiques de l'\'{E}cole Normale
+   Sup\'{e}rieure. Quatri\`eme S\'{e}rie},
     issn = {0012-9593,1873-2151},
     journal = {Ann. Sci. \'{E}c. Norm. Sup\'{e}r. (4)},
     mrclass = {37D50 (11K60 58J50)},

@@ -18,7 +18,8 @@ stocke:84:differentiability
     mrreviewer = {Takahide Kurokawa},
     number = {2},
     pages = {269--286},
-    title = {Differentiability properties of {B}essel potentials and {B}esov functions},
+    title = {Differentiability properties of {B}essel potentials and
+   {B}esov functions},
     url = {https://doi.org/10.1007/BF02384383},
     volume = {22},
     year = {1984}

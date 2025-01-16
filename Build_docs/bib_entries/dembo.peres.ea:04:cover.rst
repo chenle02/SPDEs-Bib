@@ -8,7 +8,8 @@ dembo.peres.ea:04:cover
 .. code-block:: bibtex
 
    @article{dembo.peres.ea:04:cover,
-    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni, Ofer},
+    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni,
+   Ofer},
     doi = {10.4007/annals.2004.160.433},
     fjournal = {Annals of Mathematics. Second Series},
     issn = {0003-486X,1939-8980},
@@ -18,7 +19,8 @@ dembo.peres.ea:04:cover
     mrreviewer = {M.\ G.\ Shur},
     number = {2},
     pages = {433--464},
-    title = {Cover times for {B}rownian motion and random walks in two dimensions},
+    title = {Cover times for {B}rownian motion and random walks in two
+   dimensions},
     url = {https://doi.org/10.4007/annals.2004.160.433},
     volume = {160},
     year = {2004}

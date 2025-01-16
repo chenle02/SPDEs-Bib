@@ -17,7 +17,8 @@ bourgain:78:on
     mrreviewer = {Thomas\ E.\ Armstrong},
     number = {2},
     pages = {121--133},
-    title = {On the representation of two-dimensional unconditional and symmetric norms},
+    title = {On the representation of two-dimensional unconditional and
+   symmetric norms},
     volume = {30},
     year = {1978}
    }

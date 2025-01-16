@@ -17,7 +17,8 @@ athreya.butkovsky.ea:20:strong
     mrnumber = {4079434},
     number = {1},
     pages = {178--210},
-    title = {Strong existence and uniqueness for stable stochastic differential equations with distributional drift},
+    title = {Strong existence and uniqueness for stable stochastic
+   differential equations with distributional drift},
     url = {https://doi.org/10.1214/19-AOP1358},
     volume = {48},
     year = {2020}

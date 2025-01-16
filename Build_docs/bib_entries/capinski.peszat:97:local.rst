@@ -18,7 +18,8 @@ capinski.peszat:97:local
     mrreviewer = {Wilfried\ Grecksch},
     number = {2},
     pages = {185--200},
-    title = {Local existence and uniqueness of strong solutions to {$3$}-{D} stochastic {N}avier-{S}tokes equations},
+    title = {Local existence and uniqueness of strong solutions to
+   {$3$}-{D} stochastic {N}avier-{S}tokes equations},
     url = {https://doi.org/10.1007/PL00001415},
     volume = {4},
     year = {1997}

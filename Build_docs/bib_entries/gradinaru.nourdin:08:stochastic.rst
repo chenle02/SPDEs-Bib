@@ -17,7 +17,8 @@ gradinaru.nourdin:08:stochastic
     mrreviewer = {Jaya P. N. Bishwal},
     number = {1},
     pages = {1--19},
-    title = {Stochastic volatility: approximation and goodness-of-fit test},
+    title = {Stochastic volatility: approximation and goodness-of-fit
+   test},
     volume = {28},
     year = {2008}
    }

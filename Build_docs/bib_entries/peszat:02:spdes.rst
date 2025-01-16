@@ -9,7 +9,8 @@ peszat:02:spdes
 
    @incollection{peszat:02:spdes,
     author = {Peszat, Szymon},
-    booktitle = {Stochastic partial differential equations and applications ({T}rento, 2002)},
+    booktitle = {Stochastic partial differential equations and applications
+   ({T}rento, 2002)},
     isbn = {0-8247-0792-3},
     mrclass = {60H15 (60J65)},
     mrnumber = {1919521},

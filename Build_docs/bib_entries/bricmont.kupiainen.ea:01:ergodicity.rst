@@ -19,7 +19,8 @@ bricmont.kupiainen.ea:01:ergodicity
     note = {Dedicated to Joel L. Lebowitz},
     number = {1},
     pages = {65--81},
-    title = {Ergodicity of the 2{D} {N}avier-{S}tokes equations with random forcing},
+    title = {Ergodicity of the 2{D} {N}avier-{S}tokes equations with
+   random forcing},
     url = {https://doi.org/10.1007/s002200100510},
     volume = {224},
     year = {2001}

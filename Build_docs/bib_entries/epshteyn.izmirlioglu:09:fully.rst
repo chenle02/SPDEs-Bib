@@ -17,7 +17,8 @@ epshteyn.izmirlioglu:09:fully
     mrnumber = {2511733},
     number = {1-3},
     pages = {211--256},
-    title = {Fully discrete analysis of a discontinuous finite element method for the {K}eller-{S}egel chemotaxis model},
+    title = {Fully discrete analysis of a discontinuous finite element
+   method for the {K}eller-{S}egel chemotaxis model},
     url = {https://doi.org/10.1007/s10915-009-9281-5},
     volume = {40},
     year = {2009}

@@ -17,7 +17,8 @@ basor.tracy:92:asymptotics
     pages = {83--107},
     publisher = {World Sci. Publ., River Edge, NJ},
     series = {Adv. Ser. Math. Phys.},
-    title = {Asymptotics of a tau-function and {T}oeplitz determinants with singular generating functions},
+    title = {Asymptotics of a tau-function and {T}oeplitz determinants
+   with singular generating functions},
     url = {https://doi.org/10.1142/s0217751x92003732},
     volume = {16},
     year = {1992}

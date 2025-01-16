@@ -17,7 +17,8 @@ alama.deift.ea:89:eigenvalue
     mrreviewer = {B.\ Hellwig},
     number = {2},
     pages = {291--321},
-    title = {Eigenvalue branches of the {S}chr\"odinger operator {$H-\lambda W$} in a gap of {$\sigma(H)$}},
+    title = {Eigenvalue branches of the {S}chr\"odinger operator
+   {$H-\lambda W$} in a gap of {$\sigma(H)$}},
     url = {http://projecteuclid.org/euclid.cmp/1104178069},
     volume = {121},
     year = {1989}

@@ -9,7 +9,8 @@ xiao:11:properties
 
    @incollection{xiao:11:properties,
     author = {Xiao, Yimin},
-    booktitle = {Seminar on {S}tochastic {A}nalysis, {R}andom {F}ields and {A}pplications {VI}},
+    booktitle = {Seminar on {S}tochastic {A}nalysis, {R}andom {F}ields and
+   {A}pplications {VI}},
     doi = {10.1007/978-3-0348-0021-1\_18},
     isbn = {978-3-0348-0020-4},
     mrclass = {60G52 (60G17 60G18 60G60)},
@@ -18,7 +19,8 @@ xiao:11:properties
     pages = {279--308},
     publisher = {Birkh\"{a}user/Springer Basel AG, Basel},
     series = {Progr. Probab.},
-    title = {Properties of strong local nondeterminism and local times of stable random fields},
+    title = {Properties of strong local nondeterminism and local times
+   of stable random fields},
     url = {https://doi.org/10.1007/978-3-0348-0021-1_18},
     volume = {63},
     year = {2011}

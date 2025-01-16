@@ -8,7 +8,8 @@ ramirez.rider.ea:11:beta
 .. code-block:: bibtex
 
    @article{ramirez.rider.ea:11:beta,
-    author = {Ram\'{i}rez, Jos\'{e} A. and Rider, Brian and Vir\'{a}g, B\'{a}lint},
+    author = {Ram\'{i}rez, Jos\'{e} A. and Rider, Brian and Vir\'{a}g,
+   B\'{a}lint},
     doi = {10.1090/S0894-0347-2011-00703-0},
     fjournal = {Journal of the American Mathematical Society},
     issn = {0894-0347},
@@ -18,7 +19,8 @@ ramirez.rider.ea:11:beta
     mrreviewer = {Guangyu Yang},
     number = {4},
     pages = {919--944},
-    title = {Beta ensembles, stochastic {A}iry spectrum, and a diffusion},
+    title = {Beta ensembles, stochastic {A}iry spectrum, and a
+   diffusion},
     url = {https://doi.org/10.1090/S0894-0347-2011-00703-0},
     volume = {24},
     year = {2011}

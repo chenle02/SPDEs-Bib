@@ -16,7 +16,8 @@ zvonkin:74:transformation
     mrnumber = {336813},
     mrreviewer = {A. Friedman},
     pages = {129--149, 152},
-    title = {A transformation of the phase space of a diffusion process that will remove the drift},
+    title = {A transformation of the phase space of a diffusion process
+   that will remove the drift},
     volume = {93(135)},
     year = {1974}
    }

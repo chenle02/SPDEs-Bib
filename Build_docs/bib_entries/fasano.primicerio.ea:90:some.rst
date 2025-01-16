@@ -8,7 +8,8 @@ fasano.primicerio.ea:90:some
 .. code-block:: bibtex
 
    @article{fasano.primicerio.ea:90:some,
-    author = {Fasano, A. and Primicerio, M. and Howison, S. D. and Ockendon, J. R.},
+    author = {Fasano, A. and Primicerio, M. and Howison, S. D. and
+   Ockendon, J. R.},
     doi = {10.1090/qam/1040239},
     fjournal = {Quarterly of Applied Mathematics},
     issn = {0033-569X},
@@ -18,7 +19,8 @@ fasano.primicerio.ea:90:some
     mrreviewer = {Li Shang Jiang},
     number = {1},
     pages = {153--168},
-    title = {Some remarks on the regularization of supercooled one-phase {S}tefan problems in one dimension},
+    title = {Some remarks on the regularization of supercooled
+   one-phase {S}tefan problems in one dimension},
     url = {https://doi.org/10.1090/qam/1040239},
     volume = {48},
     year = {1990}

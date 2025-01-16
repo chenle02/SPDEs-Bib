@@ -18,7 +18,8 @@ nualart.ustunel.ea:88:on
     mrreviewer = {Yuh-Jia Lee},
     number = {4},
     pages = {233--240},
-    title = {On the moments of a multiple {W}iener-{I}t\^{o} integral and the space induced by the polynomials of the integral},
+    title = {On the moments of a multiple {W}iener-{I}t\^{o} integral
+   and the space induced by the polynomials of the integral},
     url = {https://doi.org/10.1080/17442508808833542},
     volume = {25},
     year = {1988}

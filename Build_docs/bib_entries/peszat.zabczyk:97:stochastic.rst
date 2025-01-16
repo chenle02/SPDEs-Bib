@@ -18,7 +18,8 @@ peszat.zabczyk:97:stochastic
     mrreviewer = {Zdzis{\l}aw Brze\'{z}niak},
     number = {2},
     pages = {187--204},
-    title = {Stochastic evolution equations with a spatially homogeneous {W}iener process},
+    title = {Stochastic evolution equations with a spatially
+   homogeneous {W}iener process},
     url = {https://doi.org/10.1016/S0304-4149(97)00089-6},
     volume = {72},
     year = {1997}

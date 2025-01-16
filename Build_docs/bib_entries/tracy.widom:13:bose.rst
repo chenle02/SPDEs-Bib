@@ -18,7 +18,8 @@ tracy.widom:13:bose
     mrreviewer = {Ivan Corwin},
     number = {1},
     pages = {1--12},
-    title = {The {B}ose gas and asymmetric simple exclusion process on the half-line},
+    title = {The {B}ose gas and asymmetric simple exclusion process on
+   the half-line},
     url = {https://doi.org/10.1007/s10955-012-0686-4},
     volume = {150},
     year = {2013}

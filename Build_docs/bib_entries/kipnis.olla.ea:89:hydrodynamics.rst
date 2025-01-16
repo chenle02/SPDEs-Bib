@@ -18,7 +18,8 @@ kipnis.olla.ea:89:hydrodynamics
     mrreviewer = {Shuenn Jyi Sheu},
     number = {2},
     pages = {115--137},
-    title = {Hydrodynamics and large deviation for simple exclusion processes},
+    title = {Hydrodynamics and large deviation for simple exclusion
+   processes},
     url = {https://doi.org/10.1002/cpa.3160420202},
     volume = {42},
     year = {1989}

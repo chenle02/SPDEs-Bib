@@ -17,7 +17,8 @@ biler.zienkiewicz:15:existence
     mrnumber = {3411404},
     number = {1},
     pages = {41--51},
-    title = {Existence of solutions for the {K}eller-{S}egel model of chemotaxis with measures as initial data},
+    title = {Existence of solutions for the {K}eller-{S}egel model of
+   chemotaxis with measures as initial data},
     url = {https://doi.org/10.4064/ba63-1-6},
     volume = {63},
     year = {2015}

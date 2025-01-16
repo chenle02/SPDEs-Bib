@@ -16,7 +16,8 @@ caravenna.chaumont:13:invariance
     mrnumber = {3068391},
     mrreviewer = {Allan Gut},
     pages = {no. 60, 32},
-    title = {An invariance principle for random walk bridges conditioned to stay positive},
+    title = {An invariance principle for random walk bridges
+   conditioned to stay positive},
     url = {https://doi.org/10.1214/EJP.v18-2362},
     volume = {18},
     year = {2013}

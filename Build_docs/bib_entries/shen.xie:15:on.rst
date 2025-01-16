@@ -18,7 +18,8 @@ shen.xie:15:on
     mrreviewer = {Mohamed\ Abdalla\ Darwish},
     number = {4},
     pages = {1665--1696},
-    title = {On principal spectrum points/principal eigenvalues of nonlocal dispersal operators and applications},
+    title = {On principal spectrum points/principal eigenvalues of
+   nonlocal dispersal operators and applications},
     url = {https://doi.org/10.3934/dcds.2015.35.1665},
     volume = {35},
     year = {2015}

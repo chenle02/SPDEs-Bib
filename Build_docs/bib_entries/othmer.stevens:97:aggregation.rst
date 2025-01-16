@@ -18,7 +18,8 @@ othmer.stevens:97:aggregation
     mrreviewer = {Istv\'{a}n Ratk\'{o}},
     number = {4},
     pages = {1044--1081},
-    title = {Aggregation, blowup, and collapse: the {ABC}s of taxis in reinforced random walks},
+    title = {Aggregation, blowup, and collapse: the {ABC}s of taxis in
+   reinforced random walks},
     url = {https://doi.org/10.1137/S0036139995288976},
     volume = {57},
     year = {1997}

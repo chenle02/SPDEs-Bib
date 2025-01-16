@@ -18,7 +18,8 @@ blomker.hairer.ea:07:multiscale
     mrreviewer = {Peter E. Kloeden},
     number = {7},
     pages = {1721--1744},
-    title = {Multiscale analysis for stochastic partial differential equations with quadratic nonlinearities},
+    title = {Multiscale analysis for stochastic partial differential
+   equations with quadratic nonlinearities},
     url = {https://doi.org/10.1088/0951-7715/20/7/009},
     volume = {20},
     year = {2007}

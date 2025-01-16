@@ -17,7 +17,8 @@ mierczynski.shen:16:formulas
     mrnumber = {3543652},
     number = {4},
     pages = {1189--1199},
-    title = {Formulas for generalized principal {L}yapunov exponent for parabolic {PDE}s},
+    title = {Formulas for generalized principal {L}yapunov exponent for
+   parabolic {PDE}s},
     url = {https://doi.org/10.3934/dcdss.2016048},
     volume = {9},
     year = {2016}

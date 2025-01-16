@@ -16,8 +16,10 @@ liggett:99:stochastic
     mrreviewer = {Ellen Saada},
     pages = {xii+332},
     publisher = {Springer-Verlag, Berlin},
-    series = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
-    title = {Stochastic interacting systems: contact, voter and exclusion processes},
+    series = {Grundlehren der mathematischen Wissenschaften [Fundamental
+   Principles of Mathematical Sciences]},
+    title = {Stochastic interacting systems: contact, voter and
+   exclusion processes},
     url = {https://doi.org/10.1007/978-3-662-03990-8},
     volume = {324},
     year = {1999}

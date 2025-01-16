@@ -17,7 +17,8 @@ lacoin:10:martingale
     mrnumber = {2726088},
     mrreviewer = {David\ A.\ Croydon},
     pages = {418--427},
-    title = {The martingale approach to disorder irrelevance for pinning models},
+    title = {The martingale approach to disorder irrelevance for
+   pinning models},
     url = {https://doi.org/10.1214/ECP.v15-1572},
     volume = {15},
     year = {2010}

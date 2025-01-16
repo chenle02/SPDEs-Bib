@@ -18,7 +18,8 @@ bouard.debussche:02:on
     mrreviewer = {Jinqiao Duan},
     number = {1},
     pages = {76--96},
-    title = {On the effect of a noise on the solutions of the focusing supercritical nonlinear {S}chr\"{o}dinger equation},
+    title = {On the effect of a noise on the solutions of the focusing
+   supercritical nonlinear {S}chr\"{o}dinger equation},
     url = {https://doi.org/10.1007/s004400100183},
     volume = {123},
     year = {2002}

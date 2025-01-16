@@ -18,7 +18,8 @@ mueller.tribe:94:phase
     mrreviewer = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
     number = {2},
     pages = {131--156},
-    title = {A phase transition for a stochastic {PDE} related to the contact process},
+    title = {A phase transition for a stochastic {PDE} related to the
+   contact process},
     url = {https://doi.org/10.1007/BF01199262},
     volume = {100},
     year = {1994}

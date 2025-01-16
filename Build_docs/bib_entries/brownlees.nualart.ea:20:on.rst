@@ -8,7 +8,8 @@ brownlees.nualart.ea:20:on
 .. code-block:: bibtex
 
    @article{brownlees.nualart.ea:20:on,
-    author = {Brownlees, Christian and Nualart, Eulalia and Sun, Yucheng},
+    author = {Brownlees, Christian and Nualart, Eulalia and Sun,
+   Yucheng},
     doi = {10.1080/07474938.2020.1735751},
     fjournal = {Econometric Reviews},
     issn = {0747-4938},
@@ -17,7 +18,8 @@ brownlees.nualart.ea:20:on
     mrnumber = {4167103},
     number = {10},
     pages = {991--1013},
-    title = {On the estimation of integrated volatility in the presence of jumps and microstructure noise},
+    title = {On the estimation of integrated volatility in the presence
+   of jumps and microstructure noise},
     url = {https://doi.org/10.1080/07474938.2020.1735751},
     volume = {39},
     year = {2020}

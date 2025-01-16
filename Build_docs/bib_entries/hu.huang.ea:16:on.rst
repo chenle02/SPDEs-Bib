@@ -16,7 +16,8 @@ hu.huang.ea:16:on
     mrnumber = {3485390},
     mrreviewer = {Jan I. Seidler},
     pages = {Paper No. 21, 13},
-    title = {On the intermittency front of stochastic heat equation driven by colored noises},
+    title = {On the intermittency front of stochastic heat equation
+   driven by colored noises},
     url = {https://doi.org/10.1214/16-ECP4364},
     volume = {21},
     year = {2016}

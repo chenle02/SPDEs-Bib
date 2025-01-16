@@ -16,7 +16,8 @@ lyons.peres:16:probability
     mrreviewer = {Laurent Miclo},
     pages = {xv+699},
     publisher = {Cambridge University Press, New York},
-    series = {Cambridge Series in Statistical and Probabilistic Mathematics},
+    series = {Cambridge Series in Statistical and Probabilistic
+   Mathematics},
     title = {Probability on trees and networks},
     url = {https://doi.org/10.1017/9781316672815},
     volume = {42},

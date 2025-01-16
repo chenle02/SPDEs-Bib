@@ -18,7 +18,8 @@ nualart.protter:96:skorohod
     mrreviewer = {Axel Ernest Grorud},
     number = {4},
     pages = {1029--1037},
-    title = {Skorohod integral of a product of two stochastic processes},
+    title = {Skorohod integral of a product of two stochastic
+   processes},
     url = {https://doi.org/10.1007/BF02214263},
     volume = {9},
     year = {1996}

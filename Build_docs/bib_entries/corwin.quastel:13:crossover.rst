@@ -18,7 +18,8 @@ corwin.quastel:13:crossover
     mrreviewer = {B. M. Gurevich},
     number = {3A},
     pages = {1243--1314},
-    title = {Crossover distributions at the edge of the rarefaction fan},
+    title = {Crossover distributions at the edge of the rarefaction
+   fan},
     url = {https://doi.org/10.1214/11-AOP725},
     volume = {41},
     year = {2013}

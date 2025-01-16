@@ -8,8 +8,10 @@ baik.barraquand.ea:18:facilitated
 .. code-block:: bibtex
 
    @incollection{baik.barraquand.ea:18:facilitated,
-    author = {Baik, Jinho and Barraquand, Guillaume and Corwin, Ivan and Suidan, Toufic},
-    booktitle = {Computation and combinatorics in dynamics, stochastics and control},
+    author = {Baik, Jinho and Barraquand, Guillaume and Corwin, Ivan and
+   Suidan, Toufic},
+    booktitle = {Computation and combinatorics in dynamics, stochastics and
+   control},
     mrclass = {60K35},
     mrnumber = {3967378},
     mrreviewer = {Hirofumi Osada},

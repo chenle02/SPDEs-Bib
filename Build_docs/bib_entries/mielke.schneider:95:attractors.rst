@@ -16,7 +16,8 @@ mielke.schneider:95:attractors
     mrnumber = {1355041},
     number = {5},
     pages = {743--768},
-    title = {Attractors for modulation equations on unbounded domains---existence and comparison},
+    title = {Attractors for modulation equations on unbounded
+   domains---existence and comparison},
     url = {http://stacks.iop.org/0951-7715/8/743},
     volume = {8},
     year = {1995}

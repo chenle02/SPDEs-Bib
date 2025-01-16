@@ -8,7 +8,8 @@ brzezniak.peszat.ea:01:continuity
 .. code-block:: bibtex
 
    @article{brzezniak.peszat.ea:01:continuity,
-    author = {Brze\'{z}niak, Zdzis{\l}aw and Peszat, Szymon and Zabczyk, Jerzy},
+    author = {Brze\'{z}niak, Zdzis{\l}aw and Peszat, Szymon and Zabczyk,
+   Jerzy},
     doi = {10.1023/A:1013752526625},
     fjournal = {Czechoslovak Mathematical Journal},
     issn = {0011-4642},

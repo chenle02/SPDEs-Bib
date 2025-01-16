@@ -13,7 +13,8 @@ watson:44:treatise
     mrnumber = {0010746},
     mrreviewer = {G. Szeg\"{o}},
     pages = {vi+804},
-    publisher = {Cambridge University Press, Cambridge, England; Macmillan Company, New York},
+    publisher = {Cambridge University Press, Cambridge, England; Macmillan
+   Company, New York},
     title = {A {T}reatise on the {T}heory of {B}essel {F}unctions},
     year = {1944}
    }

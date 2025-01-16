@@ -9,7 +9,8 @@ tracy.widom:99:asymptotics
 
    @incollection{tracy.widom:99:asymptotics,
     author = {Tracy, Craig A. and Widom, Harold},
-    booktitle = {Spectral problems in geometry and arithmetic ({I}owa {C}ity, {IA}, 1997)},
+    booktitle = {Spectral problems in geometry and arithmetic ({I}owa
+   {C}ity, {IA}, 1997)},
     doi = {10.1090/conm/237/1710795},
     mrclass = {47G10 (34E05 37K60 47B35 82B41)},
     mrnumber = {1710795},

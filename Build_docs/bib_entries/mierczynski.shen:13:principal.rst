@@ -9,21 +9,22 @@ mierczynski.shen:13:principal
 
    @article{mierczynski.shen:13:principal,
     author = {Mierczy\'{n}ski, Janusz and Shen, Wenxian},
-    doi = {10.1090/S0002-9947-2013-05814-X},
-    fjournal = {Transactions of the American Mathematical Society},
-    issn = {0002-9947,1088-6850},
-    journal = {Trans. Amer. Math. Soc.},
-    mrclass = {37H15 (37A30 37L55)},
-    mrnumber = {3074376},
-    mrreviewer = {Md.\ Shafiqul\ Islam},
-    number = {10},
-    pages = {5329--5365},
-    title = {Principal {L}yapunov exponents and principal {F}loquet spaces of positive random dynamical systems. {I}. {G}eneral theory},
-    url = {https://doi.org/10.1090/S0002-9947-2013-05814-X},
-    volume = {365},
+    doi = {10.1016/j.jmaa.2013.03.039},
+    fjournal = {Journal of Mathematical Analysis and Applications},
+    issn = {0022-247X,1096-0813},
+    journal = {J. Math. Anal. Appl.},
+    mrclass = {37Hxx},
+    mrnumber = {3045185},
+    number = {2},
+    pages = {438--458},
+    title = {Principal {L}yapunov exponents and principal {F}loquet
+   spaces of positive random dynamical systems. {II}.
+   {F}inite-dimensional systems},
+    url = {https://doi.org/10.1016/j.jmaa.2013.03.039},
+    volume = {404},
     year = {2013}
    }
-`The URL link to the source <ttps://doi.org/10.1090/S0002-9947-2013-05814-X}>`_
+`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2013.03.039}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

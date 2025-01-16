@@ -15,7 +15,8 @@ millet.sanz-sole:96:varadhan
     mrreviewer = {R\'{e}mi L\'{e}andre},
     pages = {330--342},
     publisher = {World Sci. Publ., River Edge, NJ},
-    title = {Varadhan estimates for the density of the solution to a parabolic stochastic partial differential equation},
+    title = {Varadhan estimates for the density of the solution to a
+   parabolic stochastic partial differential equation},
     year = {1996}
    }
 

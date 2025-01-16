@@ -17,7 +17,8 @@ godlewski.raviart:96:numerical
     pages = {viii+509},
     publisher = {Springer-Verlag, New York},
     series = {Applied Mathematical Sciences},
-    title = {Numerical approximation of hyperbolic systems of conservation laws},
+    title = {Numerical approximation of hyperbolic systems of
+   conservation laws},
     url = {https://doi.org/10.1007/978-1-4612-0713-9},
     volume = {118},
     year = {1996}

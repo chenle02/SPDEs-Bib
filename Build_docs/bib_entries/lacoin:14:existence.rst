@@ -17,7 +17,8 @@ lacoin:14:existence
     mrnumber = {3176415},
     number = {6},
     pages = {1461--1482},
-    title = {Existence of a non-averaging regime for the self-avoiding walk on a high-dimensional infinite percolation cluster},
+    title = {Existence of a non-averaging regime for the self-avoiding
+   walk on a high-dimensional infinite percolation cluster},
     url = {https://doi.org/10.1007/s10955-014-0926-x},
     volume = {154},
     year = {2014}

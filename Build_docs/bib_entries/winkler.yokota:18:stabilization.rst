@@ -10,7 +10,8 @@ winkler.yokota:18:stabilization
    @article{winkler.yokota:18:stabilization,
     author = {Winkler, Michael and Yokota, Tomomi},
     doi = {10.1016/j.na.2018.01.002},
-    fjournal = {Nonlinear Analysis. Theory, Methods \& Applications. An International Multidisciplinary Journal},
+    fjournal = {Nonlinear Analysis. Theory, Methods \& Applications. An
+   International Multidisciplinary Journal},
     issn = {0362-546X},
     journal = {Nonlinear Anal.},
     mrclass = {35K51 (35B40 35K59 35K65 35K67 92C17)},

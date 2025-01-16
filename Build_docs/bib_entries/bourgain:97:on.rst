@@ -18,7 +18,8 @@ bourgain:97:on
     mrreviewer = {Spyridon\ Kamvissis},
     number = {9},
     pages = {437--447},
-    title = {On the compactness of the support of solutions of dispersive equations},
+    title = {On the compactness of the support of solutions of
+   dispersive equations},
     url = {https://doi.org/10.1155/S1073792897000305},
     year = {1997}
    }

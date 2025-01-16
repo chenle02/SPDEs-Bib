@@ -18,7 +18,9 @@ viglialoro.woolley:20:solvability
     mrreviewer = {Corina-\c{S}tefania Drapaca},
     number = {14},
     pages = {2507--2525},
-    title = {Solvability of a {K}eller-{S}egel system with signal-dependent sensitivity and essentially sublinear production},
+    title = {Solvability of a {K}eller-{S}egel system with
+   signal-dependent sensitivity and essentially sublinear
+   production},
     url = {https://doi.org/10.1080/00036811.2019.1569227},
     volume = {99},
     year = {2020}

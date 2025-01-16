@@ -18,7 +18,8 @@ burdzy.mytnik:05:super-brownian
     mrreviewer = {Denis R. Bell},
     number = {2},
     pages = {145--174},
-    title = {Super-{B}rownian motion with reflecting historical paths. {II}. {C}onvergence of approximations},
+    title = {Super-{B}rownian motion with reflecting historical paths.
+   {II}. {C}onvergence of approximations},
     url = {https://doi.org/10.1007/s00440-004-0413-4},
     volume = {133},
     year = {2005}

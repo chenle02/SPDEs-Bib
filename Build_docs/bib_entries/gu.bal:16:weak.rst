@@ -10,7 +10,8 @@ gu.bal:16:weak
    @article{gu.bal:16:weak,
     author = {Gu, Yu and Bal, Guillaume},
     doi = {10.1214/14-AIHP637},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {35B27 (35K40 60F05 60G44 60H15 60K37)},
@@ -18,7 +19,8 @@ gu.bal:16:weak
     mrreviewer = {Taras A. Mel{\cprime}nyk},
     number = {1},
     pages = {261--285},
-    title = {Weak convergence approach for parabolic equations with large, highly oscillatory, random potential},
+    title = {Weak convergence approach for parabolic equations with
+   large, highly oscillatory, random potential},
     url = {https://doi.org/10.1214/14-AIHP637},
     volume = {52},
     year = {2016}

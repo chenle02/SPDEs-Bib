@@ -10,7 +10,8 @@ memin:80:espaces
    @article{memin:80:espaces,
     author = {M\'{e}min, Jean},
     doi = {10.1007/BF00534184},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60H05 (60G44)},
@@ -18,7 +19,8 @@ memin:80:espaces
     mrreviewer = {Yu. M. Kabanov},
     number = {1},
     pages = {9--39},
-    title = {Espaces de semi martingales et changement de probabilit\'{e}},
+    title = {Espaces de semi martingales et changement de
+   probabilit\'{e}},
     url = {https://doi.org/10.1007/BF00534184},
     volume = {52},
     year = {1980}

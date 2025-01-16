@@ -8,7 +8,8 @@ caballero.fernandez.ea:98:estimation
 .. code-block:: bibtex
 
    @article{caballero.fernandez.ea:98:estimation,
-    author = {Caballero, Mar\'{i}a Emilia and Fern\'{a}ndez, Bego\~{n}a and Nualart, David},
+    author = {Caballero, Mar\'{i}a Emilia and Fern\'{a}ndez, Bego\~{n}a
+   and Nualart, David},
     doi = {10.1023/A:1022614917458},
     fjournal = {Journal of Theoretical Probability},
     issn = {0894-9840},

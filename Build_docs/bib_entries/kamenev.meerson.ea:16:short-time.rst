@@ -17,7 +17,9 @@ kamenev.meerson.ea:16:short-time
     mrnumber = {3731817},
     number = {3},
     pages = {032108, 9},
-    title = {Short-time height distribution in the one-dimensional {K}ardar-{P}arisi-{Z}hang equation: starting from a parabola},
+    title = {Short-time height distribution in the one-dimensional
+   {K}ardar-{P}arisi-{Z}hang equation: starting from a
+   parabola},
     url = {https://doi.org/10.1103/physreve.94.032108},
     volume = {94},
     year = {2016}

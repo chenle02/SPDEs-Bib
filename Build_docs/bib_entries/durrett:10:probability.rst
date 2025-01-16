@@ -16,7 +16,8 @@ durrett:10:probability
     mrnumber = {2722836},
     pages = {x+428},
     publisher = {Cambridge University Press, Cambridge},
-    series = {Cambridge Series in Statistical and Probabilistic Mathematics},
+    series = {Cambridge Series in Statistical and Probabilistic
+   Mathematics},
     title = {Probability: theory and examples},
     url = {https://doi.org/10.1017/CBO9780511779398},
     volume = {31},

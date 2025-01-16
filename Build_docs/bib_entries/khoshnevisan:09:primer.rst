@@ -9,7 +9,8 @@ khoshnevisan:09:primer
 
    @incollection{khoshnevisan:09:primer,
     author = {Khoshnevisan, Davar},
-    booktitle = {A minicourse on stochastic partial differential equations},
+    booktitle = {A minicourse on stochastic partial differential
+   equations},
     doi = {10.1007/978-3-540-85994-9\_1},
     mrclass = {60H15 (35R60 60H40)},
     mrnumber = {2508772},

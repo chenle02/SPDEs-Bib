@@ -10,7 +10,8 @@ bourgain:80:nondentable
    @article{bourgain:80:nondentable,
     author = {Bourgain, J.},
     doi = {10.4064/sm-68-2-131-139},
-    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia Mathematica},
+    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Studia
+   Mathematica},
     issn = {0039-3223,1730-6337},
     journal = {Studia Math.},
     mrclass = {46B20},

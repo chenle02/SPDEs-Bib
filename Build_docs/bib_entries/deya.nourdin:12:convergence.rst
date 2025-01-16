@@ -9,7 +9,8 @@ deya.nourdin:12:convergence
 
    @article{deya.nourdin:12:convergence,
     author = {Deya, Aur\'{e}lien and Nourdin, Ivan},
-    fjournal = {ALEA. Latin American Journal of Probability and Mathematical Statistics},
+    fjournal = {ALEA. Latin American Journal of Probability and
+   Mathematical Statistics},
     journal = {ALEA Lat. Am. J. Probab. Math. Stat.},
     mrclass = {46L54 (60B20 60H05 60H07)},
     mrnumber = {2893412},

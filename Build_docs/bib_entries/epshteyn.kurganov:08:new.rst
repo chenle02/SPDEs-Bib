@@ -18,7 +18,8 @@ epshteyn.kurganov:08:new
     mrreviewer = {Bisso Saley},
     number = {1},
     pages = {386--408},
-    title = {New interior penalty discontinuous {G}alerkin methods for the {K}eller-{S}egel chemotaxis model},
+    title = {New interior penalty discontinuous {G}alerkin methods for
+   the {K}eller-{S}egel chemotaxis model},
     url = {https://doi.org/10.1137/07070423X},
     volume = {47},
     year = {2008/09}

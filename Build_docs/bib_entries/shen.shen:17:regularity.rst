@@ -17,7 +17,8 @@ shen.shen:17:regularity
     mrnumber = {3584896},
     number = {5},
     pages = {3390--3430},
-    title = {Regularity and stability of transition fronts in nonlocal equations with time heterogeneous ignition nonlinearity},
+    title = {Regularity and stability of transition fronts in nonlocal
+   equations with time heterogeneous ignition nonlinearity},
     url = {https://doi.org/10.1016/j.jde.2016.11.032},
     volume = {262},
     year = {2017}

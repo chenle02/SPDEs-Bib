@@ -9,7 +9,8 @@ otobe:04:invariant
 
    @article{otobe:04:invariant,
     author = {Otobe, Yoshiki},
-    fjournal = {The University of Tokyo. Journal of Mathematical Sciences},
+    fjournal = {The University of Tokyo. Journal of Mathematical
+   Sciences},
     issn = {1340-5705},
     journal = {J. Math. Sci. Univ. Tokyo},
     mrclass = {60H15 (60G60 82C05)},

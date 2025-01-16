@@ -17,7 +17,8 @@ tracy.widom:16:on
     mrnumber = {3512121},
     number = {29},
     pages = {294001, 17},
-    title = {On the ground state energy of the {$\delta$}-function {B}ose gas},
+    title = {On the ground state energy of the {$\delta$}-function
+   {B}ose gas},
     url = {https://doi.org/10.1088/1751-8113/49/29/294001},
     volume = {49},
     year = {2016}

@@ -18,7 +18,8 @@ bourgain:86:metrical
     mrreviewer = {R.\ C.\ James},
     number = {2},
     pages = {222--230},
-    title = {The metrical interpretation of superreflexivity in {B}anach spaces},
+    title = {The metrical interpretation of superreflexivity in
+   {B}anach spaces},
     url = {https://doi.org/10.1007/BF02766125},
     volume = {56},
     year = {1986}

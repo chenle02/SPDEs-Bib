@@ -18,7 +18,8 @@ quastel.yau:98:lattice
     mrreviewer = {S. R. S. Varadhan},
     number = {1},
     pages = {51--108},
-    title = {Lattice gases, large deviations, and the incompressible {N}avier-{S}tokes equations},
+    title = {Lattice gases, large deviations, and the incompressible
+   {N}avier-{S}tokes equations},
     url = {https://doi.org/10.2307/120992},
     volume = {148},
     year = {1998}

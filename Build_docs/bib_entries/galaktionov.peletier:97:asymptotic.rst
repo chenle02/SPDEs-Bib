@@ -17,7 +17,8 @@ galaktionov.peletier:97:asymptotic
     mrnumber = {1475779},
     number = {1},
     pages = {83--98},
-    title = {Asymptotic behaviour near finite-time extinction for the fast diffusion equation},
+    title = {Asymptotic behaviour near finite-time extinction for the
+   fast diffusion equation},
     url = {https://doi.org/10.1007/s002050050048},
     volume = {139},
     year = {1997}

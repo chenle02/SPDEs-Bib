@@ -18,7 +18,8 @@ smirnov:01:on
     mrreviewer = {Peter\ Ha\"{i}ssinsky},
     number = {2},
     pages = {287--295},
-    title = {On supports of dynamical laminations and biaccessible points in polynomial {J}ulia sets},
+    title = {On supports of dynamical laminations and biaccessible
+   points in polynomial {J}ulia sets},
     url = {https://doi.org/10.4064/cm87-2-11},
     volume = {87},
     year = {2001}

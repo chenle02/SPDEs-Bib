@@ -18,7 +18,8 @@ bramson.durrett:88:simple
     mrreviewer = {Kai Long Ren},
     number = {2},
     pages = {293--298},
-    title = {A simple proof of the stability criterion of {G}ray and {G}riffeath},
+    title = {A simple proof of the stability criterion of {G}ray and
+   {G}riffeath},
     url = {https://doi.org/10.1007/BF00356107},
     volume = {80},
     year = {1988}

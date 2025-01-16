@@ -17,7 +17,9 @@ ishida.ono.ea:13:possibility
     mrnumber = {3056933},
     number = {7},
     pages = {745--760},
-    title = {Possibility of the existence of blow-up solutions to quasilinear degenerate {K}eller-{S}egel systems of parabolic-parabolic type},
+    title = {Possibility of the existence of blow-up solutions to
+   quasilinear degenerate {K}eller-{S}egel systems of
+   parabolic-parabolic type},
     url = {https://doi.org/10.1002/mma.2622},
     volume = {36},
     year = {2013}

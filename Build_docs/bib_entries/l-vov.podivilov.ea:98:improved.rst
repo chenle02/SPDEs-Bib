@@ -8,9 +8,12 @@ l-vov.podivilov.ea:98:improved
 .. code-block:: bibtex
 
    @article{l-vov.podivilov.ea:98:improved,
-    author = {L{\cprime}vov, Victor S. and Podivilov, Evgenii and Pomyalov, Anna and Procaccia, Itamar and Vandembroucq, Damien},
+    author = {L{\cprime}vov, Victor S. and Podivilov, Evgenii and
+   Pomyalov, Anna and Procaccia, Itamar and Vandembroucq,
+   Damien},
     doi = {10.1103/PhysRevE.58.1811},
-    fjournal = {Physical Review E. Statistical, Nonlinear, and Soft Matter Physics},
+    fjournal = {Physical Review E. Statistical, Nonlinear, and Soft Matter
+   Physics},
     issn = {1539-3755},
     journal = {Phys. Rev. E (3)},
     mrclass = {76F99},

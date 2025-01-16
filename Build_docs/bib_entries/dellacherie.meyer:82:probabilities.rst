@@ -12,7 +12,8 @@ dellacherie.meyer:82:probabilities
     isbn = {0-444-86526-8},
     mrclass = {60-02 (31-02 60Gxx 60H05)},
     mrnumber = {745449},
-    note = {Theory of martingales, Translated from the French by J. P. Wilson},
+    note = {Theory of martingales, Translated from the French by J. P.
+   Wilson},
     pages = {xvii+463},
     publisher = {North-Holland Publishing Co., Amsterdam},
     series = {North-Holland Mathematics Studies},

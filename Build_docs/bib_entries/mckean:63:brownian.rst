@@ -9,7 +9,8 @@ mckean:63:brownian
 
    @article{mckean:63:brownian,
     author = {McKean, Jr., H. P.},
-    fjournal = {Akademija Nauk SSSR. Teorija Verojatnosteu{i} i ee Primenenija},
+    fjournal = {Akademija Nauk SSSR. Teorija Verojatnosteu{i} i ee
+   Primenenija},
     issn = {0040-361x},
     journal = {Teor. Verojatnost. i Primenen.},
     mrclass = {60.62},

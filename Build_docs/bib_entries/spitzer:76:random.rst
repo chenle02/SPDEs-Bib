@@ -9,7 +9,9 @@ spitzer:76:random
 
    @incollection{spitzer:76:random,
     author = {Spitzer, Frank},
-    booktitle = {Surveys in applied mathematics ({P}roc. {F}irst {L}os {A}lamos {S}ympos. {M}ath. in {N}atural {S}ci., {L}os {A}lamos, {N}.{M}., 1974)},
+    booktitle = {Surveys in applied mathematics ({P}roc. {F}irst {L}os
+   {A}lamos {S}ympos. {M}ath. in {N}atural {S}ci., {L}os
+   {A}lamos, {N}.{M}., 1974)},
     mrclass = {60K35},
     mrnumber = {652304},
     pages = {123--127},

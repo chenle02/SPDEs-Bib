@@ -18,7 +18,8 @@ comets.yoshida:13:localization
     mrreviewer = {Glauco Valle},
     number = {1},
     pages = {417--447},
-    title = {Localization transition for polymers in {P}oissonian medium},
+    title = {Localization transition for polymers in {P}oissonian
+   medium},
     url = {https://doi.org/10.1007/s00220-013-1744-8},
     volume = {323},
     year = {2013}

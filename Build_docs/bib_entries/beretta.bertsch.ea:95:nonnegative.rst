@@ -8,7 +8,8 @@ beretta.bertsch.ea:95:nonnegative
 .. code-block:: bibtex
 
    @article{beretta.bertsch.ea:95:nonnegative,
-    author = {Beretta, Elena and Bertsch, Michiel and Dal Passo, Roberta},
+    author = {Beretta, Elena and Bertsch, Michiel and Dal Passo,
+   Roberta},
     doi = {10.1007/BF00379920},
     fjournal = {Archive for Rational Mechanics and Analysis},
     issn = {0003-9527},
@@ -18,7 +19,8 @@ beretta.bertsch.ea:95:nonnegative
     mrreviewer = {Minkyu Kwak},
     number = {2},
     pages = {175--200},
-    title = {Nonnegative solutions of a fourth-order nonlinear degenerate parabolic equation},
+    title = {Nonnegative solutions of a fourth-order nonlinear
+   degenerate parabolic equation},
     url = {https://doi.org/10.1007/BF00379920},
     volume = {129},
     year = {1995}

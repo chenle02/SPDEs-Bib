@@ -9,7 +9,8 @@ zabczyk:77:selection
 
    @incollection{zabczyk:77:selection,
     author = {Zabczyk, J.},
-    booktitle = {New trends in systems analysis ({P}roc. {I}nternat. {S}ympos., {V}ersailles, 1976)},
+    booktitle = {New trends in systems analysis ({P}roc. {I}nternat.
+   {S}ympos., {V}ersailles, 1976)},
     isbn = {3-540-08406-1},
     mrclass = {60G40 (62L15)},
     mrnumber = {488270},

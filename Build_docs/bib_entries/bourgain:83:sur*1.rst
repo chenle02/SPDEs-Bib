@@ -9,7 +9,8 @@ bourgain:83:sur*1
 
    @incollection{bourgain:83:sur*1,
     author = {Bourgain, Jean},
-    booktitle = {Harmonic analysis: study group on translation-invariant {B}anach spaces},
+    booktitle = {Harmonic analysis: study group on translation-invariant
+   {B}anach spaces},
     mrclass = {44A15 (42A50)},
     mrnumber = {697396},
     pages = {Exp. No. 3, 9},

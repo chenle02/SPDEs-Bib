@@ -18,7 +18,9 @@ winkler:19:how
     mrreviewer = {Si Ning Zheng},
     number = {3-4},
     pages = {1237--1282},
-    title = {How unstable is spatial homogeneity in {K}eller-{S}egel systems? {A} new critical mass phenomenon in two- and higher-dimensional parabolic-elliptic cases},
+    title = {How unstable is spatial homogeneity in {K}eller-{S}egel
+   systems? {A} new critical mass phenomenon in two- and
+   higher-dimensional parabolic-elliptic cases},
     url = {https://doi.org/10.1007/s00208-018-1722-8},
     volume = {373},
     year = {2019}

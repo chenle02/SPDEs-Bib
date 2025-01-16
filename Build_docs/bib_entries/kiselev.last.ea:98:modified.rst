@@ -18,7 +18,8 @@ kiselev.last.ea:98:modified
     mrreviewer = {G\"unter\ Stolz},
     number = {1},
     pages = {1--45},
-    title = {Modified {P}r\"ufer and {EFGP} transforms and the spectral analysis of one-dimensional {S}chr\"odinger operators},
+    title = {Modified {P}r\"ufer and {EFGP} transforms and the spectral
+   analysis of one-dimensional {S}chr\"odinger operators},
     url = {https://doi.org/10.1007/s002200050346},
     volume = {194},
     year = {1998}

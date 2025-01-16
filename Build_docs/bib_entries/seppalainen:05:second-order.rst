@@ -18,7 +18,9 @@ seppalainen:05:second-order
     mrreviewer = {Ellen Saada},
     number = {2},
     pages = {759--797},
-    title = {Second-order fluctuations and current across characteristic for a one-dimensional growth model of independent random walks},
+    title = {Second-order fluctuations and current across
+   characteristic for a one-dimensional growth model of
+   independent random walks},
     url = {https://doi.org/10.1214/009117904000000946},
     volume = {33},
     year = {2005}

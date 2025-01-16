@@ -18,7 +18,8 @@ cranston.le-jan:90:noncoalescence
     mrreviewer = {H.-J.\ Engelbert},
     number = {2},
     pages = {241--252},
-    title = {Noncoalescence for the {S}korohod equation in a convex domain of {${\bf R}^2$}},
+    title = {Noncoalescence for the {S}korohod equation in a convex
+   domain of {${\bf R}^2$}},
     url = {https://doi.org/10.1007/BF01198431},
     volume = {87},
     year = {1990}

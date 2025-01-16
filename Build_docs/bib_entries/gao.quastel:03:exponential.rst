@@ -18,7 +18,8 @@ gao.quastel:03:exponential
     mrreviewer = {Paolo Dai Pra},
     number = {4},
     pages = {1591--1600},
-    title = {Exponential decay of entropy in the random transposition and {B}ernoulli-{L}aplace models},
+    title = {Exponential decay of entropy in the random transposition
+   and {B}ernoulli-{L}aplace models},
     url = {https://doi.org/10.1214/aoap/1069786512},
     volume = {13},
     year = {2003}

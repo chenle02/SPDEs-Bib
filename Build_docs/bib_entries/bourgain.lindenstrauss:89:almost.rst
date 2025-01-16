@@ -18,7 +18,8 @@ bourgain.lindenstrauss:89:almost
     pages = {278--288},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Almost {E}uclidean sections in spaces with a symmetric basis},
+    title = {Almost {E}uclidean sections in spaces with a symmetric
+   basis},
     url = {https://doi.org/10.1007/BFb0090062},
     volume = {1376},
     year = {1989}

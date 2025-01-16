@@ -18,7 +18,8 @@ da-prato.debussche:02:two-dimensional
     mrreviewer = {Peter E. Kloeden},
     number = {1},
     pages = {180--210},
-    title = {Two-dimensional {N}avier-{S}tokes equations driven by a space-time white noise},
+    title = {Two-dimensional {N}avier-{S}tokes equations driven by a
+   space-time white noise},
     url = {https://doi.org/10.1006/jfan.2002.3919},
     volume = {196},
     year = {2002}

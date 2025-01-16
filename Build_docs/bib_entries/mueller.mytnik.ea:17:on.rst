@@ -18,7 +18,8 @@ mueller.mytnik.ea:17:on
     mrreviewer = {Huili Liu},
     number = {6A},
     pages = {3481--3534},
-    title = {On the boundary of the support of super-{B}rownian notion},
+    title = {On the boundary of the support of super-{B}rownian
+   notion},
     url = {https://doi.org/10.1214/16-AOP1141},
     volume = {45},
     year = {2017}

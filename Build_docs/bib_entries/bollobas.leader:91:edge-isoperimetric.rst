@@ -10,7 +10,8 @@ bollobas.leader:91:edge-isoperimetric
    @article{bollobas.leader:91:edge-isoperimetric,
     author = {Bollob\'{a}s, B\'{e}la and Leader, Imre},
     doi = {10.1007/BF01275667},
-    fjournal = {Combinatorica. An International Journal on Combinatorics and the Theory of Computing},
+    fjournal = {Combinatorica. An International Journal on Combinatorics
+   and the Theory of Computing},
     issn = {0209-9683},
     journal = {Combinatorica},
     mrclass = {51M25 (05C35)},

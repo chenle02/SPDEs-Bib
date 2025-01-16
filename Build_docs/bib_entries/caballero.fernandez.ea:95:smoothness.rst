@@ -8,7 +8,8 @@ caballero.fernandez.ea:95:smoothness
 .. code-block:: bibtex
 
    @article{caballero.fernandez.ea:95:smoothness,
-    author = {Caballero, Mar\'{i}a Emilia and Fern\'{a}ndez, Bego\~{n}a and Nualart, David},
+    author = {Caballero, Mar\'{i}a Emilia and Fern\'{a}ndez, Bego\~{n}a
+   and Nualart, David},
     doi = {10.1080/17442509508833978},
     fjournal = {Stochastics and Stochastics Reports},
     issn = {1045-1129},
@@ -18,7 +19,8 @@ caballero.fernandez.ea:95:smoothness
     mrreviewer = {Axel Ernest Grorud},
     number = {3-4},
     pages = {303--322},
-    title = {Smoothness of distributions for solutions of anticipating stochastic differential equations},
+    title = {Smoothness of distributions for solutions of anticipating
+   stochastic differential equations},
     url = {https://doi.org/10.1080/17442509508833978},
     volume = {52},
     year = {1995}

@@ -18,7 +18,8 @@ hu.oksendal.ea:04:general
     mrreviewer = {Andrzej Kozlowski},
     number = {1-2},
     pages = {1--23},
-    title = {General fractional multiparameter white noise theory and stochastic partial differential equations},
+    title = {General fractional multiparameter white noise theory and
+   stochastic partial differential equations},
     url = {https://doi.org/10.1081/PDE-120028841},
     volume = {29},
     year = {2004}

@@ -8,7 +8,8 @@ zeldovich.molchanov.ea:87:intermittency
 .. code-block:: bibtex
 
    @article{zeldovich.molchanov.ea:87:intermittency,
-    author = {Ya B Zel'dovich and S A Molchanov and A A Ruzmau{i}kin and Dmitrii D Sokolov},
+    author = {Ya B Zel'dovich and S A Molchanov and A A Ruzmau{i}kin and
+   Dmitrii D Sokolov},
     doi = {10.1070/PU1987v030n05ABEH002867},
     journal = {Soviet Physics Uspekhi},
     month = {may},

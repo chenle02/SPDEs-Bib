@@ -17,7 +17,8 @@ cercle.rhodes.ea:23:probabilistic
     mrnumber = {4593603},
     mrreviewer = {H\'el\`ene\ Airault},
     pages = {31--64},
-    title = {Probabilistic construction of {T}oda conformal field theories},
+    title = {Probabilistic construction of {T}oda conformal field
+   theories},
     url = {https://doi.org/10.5802/ahl.158},
     volume = {6},
     year = {2023}

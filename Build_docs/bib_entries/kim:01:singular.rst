@@ -10,7 +10,8 @@ kim:01:singular
    @article{kim:01:singular,
     author = {Kim, Inwon Christina},
     doi = {10.1016/S0362-546X(00)00149-8},
-    fjournal = {Nonlinear Analysis. Theory, Methods \& Applications. An International Multidisciplinary Journal},
+    fjournal = {Nonlinear Analysis. Theory, Methods \& Applications. An
+   International Multidisciplinary Journal},
     issn = {0362-546X},
     journal = {Nonlinear Anal.},
     mrclass = {35K57 (35B25 35K55 35Q80 92C17)},

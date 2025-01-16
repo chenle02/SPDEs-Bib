@@ -18,7 +18,8 @@ alikakos:79:lp
     mrreviewer = {Mieczyslaw Altman},
     number = {8},
     pages = {827--868},
-    title = {{$L^{p}$} bounds of solutions of reaction-diffusion equations},
+    title = {{$L^{p}$} bounds of solutions of reaction-diffusion
+   equations},
     url = {https://doi.org/10.1080/03605307908820113},
     volume = {4},
     year = {1979}

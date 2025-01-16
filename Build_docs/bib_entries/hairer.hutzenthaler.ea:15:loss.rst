@@ -8,7 +8,8 @@ hairer.hutzenthaler.ea:15:loss
 .. code-block:: bibtex
 
    @article{hairer.hutzenthaler.ea:15:loss,
-    author = {Hairer, Martin and Hutzenthaler, Martin and Jentzen, Arnulf},
+    author = {Hairer, Martin and Hutzenthaler, Martin and Jentzen,
+   Arnulf},
     doi = {10.1214/13-AOP838},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},

@@ -17,7 +17,8 @@ baik.lee:16:fluctuations
     mrnumber = {3554380},
     number = {2},
     pages = {185--224},
-    title = {Fluctuations of the free energy of the spherical {S}herrington-{K}irkpatrick model},
+    title = {Fluctuations of the free energy of the spherical
+   {S}herrington-{K}irkpatrick model},
     url = {https://doi.org/10.1007/s10955-016-1610-0},
     volume = {165},
     year = {2016}

@@ -17,7 +17,8 @@ simon:98:classical
     mrnumber = {1627806},
     number = {1},
     pages = {82--203},
-    title = {The classical moment problem as a self-adjoint finite difference operator},
+    title = {The classical moment problem as a self-adjoint finite
+   difference operator},
     url = {https://doi.org/10.1006/aima.1998.1728},
     volume = {137},
     year = {1998}

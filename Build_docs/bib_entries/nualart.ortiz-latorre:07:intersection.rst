@@ -18,7 +18,8 @@ nualart.ortiz-latorre:07:intersection
     mrreviewer = {Samy Tindel},
     number = {4},
     pages = {759--767},
-    title = {Intersection local time for two independent fractional {B}rownian motions},
+    title = {Intersection local time for two independent fractional
+   {B}rownian motions},
     url = {https://doi.org/10.1007/s10959-007-0106-x},
     volume = {20},
     year = {2007}

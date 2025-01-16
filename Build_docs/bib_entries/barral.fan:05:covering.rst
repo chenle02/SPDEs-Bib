@@ -18,7 +18,8 @@ barral.fan:05:covering
     mrreviewer = {Ren\'e\ L.\ Schilling},
     number = {4},
     pages = {275--317},
-    title = {Covering numbers of different points in {D}voretzky covering},
+    title = {Covering numbers of different points in {D}voretzky
+   covering},
     url = {https://doi.org/10.1016/j.bulsci.2004.05.007},
     volume = {129},
     year = {2005}

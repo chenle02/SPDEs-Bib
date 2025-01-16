@@ -18,7 +18,8 @@ han.hu.ea:16:optimal
     mrreviewer = {Stefan Tappe},
     number = {4},
     pages = {639--647},
-    title = {Optimal pricing barriers in a regulated market using reflected diffusion processes},
+    title = {Optimal pricing barriers in a regulated market using
+   reflected diffusion processes},
     url = {https://doi.org/10.1080/14697688.2015.1034163},
     volume = {16},
     year = {2016}

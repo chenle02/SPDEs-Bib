@@ -18,7 +18,8 @@ tao.winkler:15:persistence
     mrreviewer = {Etsushi Nakaguchi},
     number = {11},
     pages = {6142--6161},
-    title = {Persistence of mass in a chemotaxis system with logistic source},
+    title = {Persistence of mass in a chemotaxis system with logistic
+   source},
     url = {https://doi.org/10.1016/j.jde.2015.07.019},
     volume = {259},
     year = {2015}

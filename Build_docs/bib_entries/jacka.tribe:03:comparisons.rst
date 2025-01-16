@@ -18,7 +18,8 @@ jacka.tribe:03:comparisons
     mrreviewer = {S. N. Ethier},
     number = {3},
     pages = {1679--1712},
-    title = {Comparisons for measure valued processes with interactions},
+    title = {Comparisons for measure valued processes with
+   interactions},
     url = {https://doi.org/10.1214/aop/1055425794},
     volume = {31},
     year = {2003}

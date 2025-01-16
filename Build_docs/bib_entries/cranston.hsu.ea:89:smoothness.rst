@@ -17,7 +17,8 @@ cranston.hsu.ea:89:smoothness
     mrreviewer = {S.\ J.\ Taylor},
     number = {1},
     pages = {144--150},
-    title = {Smoothness of the convex hull of planar {B}rownian motion},
+    title = {Smoothness of the convex hull of planar {B}rownian
+   motion},
     url = {http://links.jstor.org/sici?sici=0091-1798(198901)17:1<144:SOTCHO>2.0.CO;2-V&origin=MSN},
     volume = {17},
     year = {1989}

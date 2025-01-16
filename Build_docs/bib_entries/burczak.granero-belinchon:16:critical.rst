@@ -17,7 +17,8 @@ burczak.granero-belinchon:16:critical
     mrnumber = {3580331},
     number = {12},
     pages = {3810--3836},
-    title = {Critical {K}eller-{S}egel meets {B}urgers on {$\Bbb S^1$}: large-time smooth solutions},
+    title = {Critical {K}eller-{S}egel meets {B}urgers on {$\Bbb S^1$}:
+   large-time smooth solutions},
     url = {https://doi.org/10.1088/0951-7715/29/12/3810},
     volume = {29},
     year = {2016}

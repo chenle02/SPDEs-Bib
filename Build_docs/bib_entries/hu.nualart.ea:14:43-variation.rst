@@ -18,7 +18,9 @@ hu.nualart.ea:14:43-variation
     mrreviewer = {Tam\'{a}s Szabados},
     number = {3},
     pages = {789--825},
-    title = {The {$\frac{4}{3}$}-variation of the derivative of the self-intersection {B}rownian local time and related processes},
+    title = {The {$\frac{4}{3}$}-variation of the derivative of the
+   self-intersection {B}rownian local time and related
+   processes},
     url = {https://doi.org/10.1007/s10959-012-0469-5},
     volume = {27},
     year = {2014}

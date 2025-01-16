@@ -8,7 +8,8 @@ fischer.kolar.ea:91:ivo*1
 .. code-block:: bibtex
 
    @article{fischer.kolar.ea:91:ivo*1,
-    author = {Fischer, Jan and Kol\'{a}\v{r}, Pavel and Maslowski, Bohdan and Seidler, Jan and Schwabik, \v{S}tefan},
+    author = {Fischer, Jan and Kol\'{a}\v{r}, Pavel and Maslowski,
+   Bohdan and Seidler, Jan and Schwabik, \v{S}tefan},
     fjournal = {Czechoslovak Mathematical Journal},
     issn = {0011-4642},
     journal = {Czechoslovak Math. J.},

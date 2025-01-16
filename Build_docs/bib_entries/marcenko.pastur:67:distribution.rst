@@ -16,7 +16,8 @@ marcenko.pastur:67:distribution
     mrnumber = {208649},
     mrreviewer = {J. G. Wendel},
     pages = {507--536},
-    title = {Distribution of eigenvalues in certain sets of random matrices},
+    title = {Distribution of eigenvalues in certain sets of random
+   matrices},
     volume = {72(114)},
     year = {1967}
    }

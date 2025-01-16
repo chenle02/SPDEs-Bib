@@ -18,7 +18,8 @@ masiero.priola:17:well-posedness
     mrreviewer = {Jan I. Seidler},
     number = {3},
     pages = {1773--1812},
-    title = {Well-posedness of semilinear stochastic wave equations with {H}\"{o}lder continuous coefficients},
+    title = {Well-posedness of semilinear stochastic wave equations
+   with {H}\"{o}lder continuous coefficients},
     url = {https://doi.org/10.1016/j.jde.2017.03.031},
     volume = {263},
     year = {2017}

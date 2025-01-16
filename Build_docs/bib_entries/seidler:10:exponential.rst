@@ -16,7 +16,8 @@ seidler:10:exponential
     mrnumber = {2735374},
     mrreviewer = {Erika Hausenblas},
     pages = {no. 50, 1556--1573},
-    title = {Exponential estimates for stochastic convolutions in 2-smooth {B}anach spaces},
+    title = {Exponential estimates for stochastic convolutions in
+   2-smooth {B}anach spaces},
     url = {https://doi.org/10.1214/EJP.v15-808},
     volume = {15},
     year = {2010}

@@ -18,7 +18,8 @@ chen.rosen:10:large
     mrreviewer = {Michele Zito},
     number = {9},
     pages = {1837--1878},
-    title = {Large deviations and renormalization for {R}iesz potentials of stable intersection measures},
+    title = {Large deviations and renormalization for {R}iesz
+   potentials of stable intersection measures},
     url = {https://doi.org/10.1016/j.spa.2010.05.006},
     volume = {120},
     year = {2010}

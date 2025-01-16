@@ -18,7 +18,8 @@ muller.tribe:95:stochastic
     mrreviewer = {Ralf Manthey},
     number = {4},
     pages = {519--545},
-    title = {Stochastic p.d.e.'s arising from the long range contact and long range voter processes},
+    title = {Stochastic p.d.e.'s arising from the long range contact
+   and long range voter processes},
     url = {https://doi.org/10.1007/BF01198848},
     volume = {102},
     year = {1995}

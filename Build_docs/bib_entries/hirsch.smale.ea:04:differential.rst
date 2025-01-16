@@ -8,7 +8,8 @@ hirsch.smale.ea:04:differential
 .. code-block:: bibtex
 
    @book{hirsch.smale.ea:04:differential,
-    author = {Hirsch, Morris W. and Smale, Stephen and Devaney, Robert L.},
+    author = {Hirsch, Morris W. and Smale, Stephen and Devaney, Robert
+   L.},
     edition = {Second},
     isbn = {0-12-349703-5},
     mrclass = {37-01 (34-01 34Cxx)},
@@ -17,7 +18,8 @@ hirsch.smale.ea:04:differential
     pages = {xiv+417},
     publisher = {Elsevier/Academic Press, Amsterdam},
     series = {Pure and Applied Mathematics (Amsterdam)},
-    title = {Differential equations, dynamical systems, and an introduction to chaos},
+    title = {Differential equations, dynamical systems, and an
+   introduction to chaos},
     volume = {60},
     year = {2004}
    }

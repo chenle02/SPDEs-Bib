@@ -18,7 +18,8 @@ gess.ouyang.ea:20:density
     mrreviewer = {Keisuke Hara},
     number = {2},
     pages = {611--648},
-    title = {Density bounds for solutions to differential equations driven by {G}aussian rough paths},
+    title = {Density bounds for solutions to differential equations
+   driven by {G}aussian rough paths},
     url = {https://doi.org/10.1007/s10959-019-00967-0},
     volume = {33},
     year = {2020}

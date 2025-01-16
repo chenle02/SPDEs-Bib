@@ -18,7 +18,8 @@ lan.marinucci.ea:18:strong
     mrreviewer = {David\ Ginsbourger},
     number = {4},
     pages = {1294--1315},
-    title = {Strong local nondeterminism and exact modulus of continuity for spherical {G}aussian fields},
+    title = {Strong local nondeterminism and exact modulus of
+   continuity for spherical {G}aussian fields},
     url = {https://doi.org/10.1016/j.spa.2017.07.008},
     volume = {128},
     year = {2018}

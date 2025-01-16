@@ -17,7 +17,8 @@ tracy.widom:11:erratum
     mrnumber = {2794549},
     number = {3},
     pages = {875--878},
-    title = {Erratum to: {I}ntegral formulas for the asymmetric simple exclusion process [MR2386729]},
+    title = {Erratum to: {I}ntegral formulas for the asymmetric simple
+   exclusion process [MR2386729]},
     url = {https://doi.org/10.1007/s00220-011-1249-2},
     volume = {304},
     year = {2011}

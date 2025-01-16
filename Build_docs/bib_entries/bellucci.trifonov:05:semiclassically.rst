@@ -18,7 +18,9 @@ bellucci.trifonov:05:semiclassically
     mrreviewer = {Victor I. Stepanov},
     number = {7},
     pages = {L103--L114},
-    title = {Semiclassically concentrated solutions for the one-dimensional {F}okker-{P}lanck equation with a nonlocal nonlinearity},
+    title = {Semiclassically concentrated solutions for the
+   one-dimensional {F}okker-{P}lanck equation with a nonlocal
+   nonlinearity},
     url = {https://doi.org/10.1088/0305-4470/38/7/L01},
     volume = {38},
     year = {2005}

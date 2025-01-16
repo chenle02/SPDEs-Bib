@@ -17,7 +17,8 @@ seidler.zak:17:note
     mrnumber = {3666857},
     mrreviewer = {Charles-Edouard\ Br\'{e}hier},
     pages = {Paper No. 36, 13},
-    title = {A note on continuous-time stochastic approximation in infinite dimensions},
+    title = {A note on continuous-time stochastic approximation in
+   infinite dimensions},
     url = {https://doi.org/10.1214/17-ECP67},
     volume = {22},
     year = {2017}

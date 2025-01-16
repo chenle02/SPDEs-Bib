@@ -18,7 +18,8 @@ wang.zhai.ea:15:moderate
     mrreviewer = {Kumarasamy Sakthivel},
     number = {10},
     pages = {3363--3390},
-    title = {A moderate deviation principle for 2-{D} stochastic {N}avier-{S}tokes equations},
+    title = {A moderate deviation principle for 2-{D} stochastic
+   {N}avier-{S}tokes equations},
     url = {https://doi.org/10.1016/j.jde.2015.01.008},
     volume = {258},
     year = {2015}

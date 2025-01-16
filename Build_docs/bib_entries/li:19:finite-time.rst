@@ -17,7 +17,8 @@ li:19:finite-time
     mrnumber = {3994919},
     number = {1},
     pages = {123376, 18},
-    title = {Finite-time blow-up in quasilinear parabolic-elliptic chemotaxis system with nonlinear signal production},
+    title = {Finite-time blow-up in quasilinear parabolic-elliptic
+   chemotaxis system with nonlinear signal production},
     url = {https://doi.org/10.1016/j.jmaa.2019.123376},
     volume = {480},
     year = {2019}

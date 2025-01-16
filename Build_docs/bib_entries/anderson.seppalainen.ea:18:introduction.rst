@@ -8,7 +8,8 @@ anderson.seppalainen.ea:18:introduction
 .. code-block:: bibtex
 
    @book{anderson.seppalainen.ea:18:introduction,
-    author = {Anderson, David F. and Sepp\"{a}l\"{a}inen, Timo and Valk\'{o}, Benedek},
+    author = {Anderson, David F. and Sepp\"{a}l\"{a}inen, Timo and
+   Valk\'{o}, Benedek},
     isbn = {978-1-108-41585-9},
     mrclass = {60-01 (60Fxx)},
     mrnumber = {3753683},

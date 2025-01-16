@@ -18,7 +18,8 @@ bourgain.rudnick:12:restriction
     mrreviewer = {Tanya\ J.\ Christiansen},
     number = {4},
     pages = {878--937},
-    title = {Restriction of toral eigenfunctions to hypersurfaces and nodal sets},
+    title = {Restriction of toral eigenfunctions to hypersurfaces and
+   nodal sets},
     url = {https://doi.org/10.1007/s00039-012-0186-3},
     volume = {22},
     year = {2012}

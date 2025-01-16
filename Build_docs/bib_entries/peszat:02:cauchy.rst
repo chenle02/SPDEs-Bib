@@ -18,7 +18,8 @@ peszat:02:cauchy
     mrreviewer = {B. G. Pachpatte},
     number = {3},
     pages = {383--394},
-    title = {The {C}auchy problem for a nonlinear stochastic wave equation in any dimension},
+    title = {The {C}auchy problem for a nonlinear stochastic wave
+   equation in any dimension},
     url = {https://doi.org/10.1007/PL00013197},
     volume = {2},
     year = {2002}

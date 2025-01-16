@@ -17,7 +17,8 @@ nualart.thieullen:94:skorohod
     mrnumber = {1785002},
     number = {3-4},
     pages = {149--167},
-    title = {Skorohod stochastic differential equations on random intervals},
+    title = {Skorohod stochastic differential equations on random
+   intervals},
     url = {https://doi.org/10.1080/17442509408833917},
     volume = {49},
     year = {1994}

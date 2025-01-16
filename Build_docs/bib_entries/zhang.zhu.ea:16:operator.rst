@@ -8,7 +8,8 @@ zhang.zhu.ea:16:operator
 .. code-block:: bibtex
 
    @article{zhang.zhu.ea:16:operator,
-    author = {Zhang, Rongpei and Zhu, Jiang and Loula, Abimael F. D. and Yu, Xijun},
+    author = {Zhang, Rongpei and Zhu, Jiang and Loula, Abimael F. D. and
+   Yu, Xijun},
     doi = {10.1016/j.cam.2016.02.018},
     fjournal = {Journal of Computational and Applied Mathematics},
     issn = {0377-0427},
@@ -17,7 +18,8 @@ zhang.zhu.ea:16:operator
     mrnumber = {3475522},
     mrreviewer = {Mohammad Asadzadeh},
     pages = {312--326},
-    title = {Operator splitting combined with positivity-preserving discontinuous {G}alerkin method for the chemotaxis model},
+    title = {Operator splitting combined with positivity-preserving
+   discontinuous {G}alerkin method for the chemotaxis model},
     url = {https://doi.org/10.1016/j.cam.2016.02.018},
     volume = {302},
     year = {2016}

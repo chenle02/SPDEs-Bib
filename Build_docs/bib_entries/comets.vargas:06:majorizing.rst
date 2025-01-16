@@ -9,13 +9,15 @@ comets.vargas:06:majorizing
 
    @article{comets.vargas:06:majorizing,
     author = {Comets, Francis and Vargas, Vincent},
-    fjournal = {ALEA. Latin American Journal of Probability and Mathematical Statistics},
+    fjournal = {ALEA. Latin American Journal of Probability and
+   Mathematical Statistics},
     journal = {ALEA Lat. Am. J. Probab. Math. Stat.},
     mrclass = {60K35 (60K37)},
     mrnumber = {2249671},
     mrreviewer = {Jos\'{e} Trashorras},
     pages = {267--277},
-    title = {Majorizing multiplicative cascades for directed polymers in random media},
+    title = {Majorizing multiplicative cascades for directed polymers
+   in random media},
     volume = {2},
     year = {2006}
    }

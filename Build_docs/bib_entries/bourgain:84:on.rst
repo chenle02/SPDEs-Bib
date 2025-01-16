@@ -9,7 +9,9 @@ bourgain:84:on
 
    @inproceedings{bourgain:84:on,
     author = {Bourgain, J.},
-    booktitle = {Proceedings of the second international conference on operator algebras, ideals, and their applications in theoretical physics ({L}eipzig, 1983)},
+    booktitle = {Proceedings of the second international conference on
+   operator algebras, ideals, and their applications in
+   theoretical physics ({L}eipzig, 1983)},
     mrclass = {46J15 (32E25)},
     mrnumber = {763536},
     pages = {145--154},

@@ -17,7 +17,8 @@ cole:51:on
     mrnumber = {42889},
     mrreviewer = {R. Gerber},
     pages = {225--236},
-    title = {On a quasi-linear parabolic equation occurring in aerodynamics},
+    title = {On a quasi-linear parabolic equation occurring in
+   aerodynamics},
     url = {https://doi.org/10.1090/qam/42889},
     volume = {9},
     year = {1951}

@@ -17,7 +17,8 @@ weinberger:02:on
     mrnumber = {1943224},
     number = {6},
     pages = {511--548},
-    title = {On spreading speeds and traveling waves for growth and migration models in a periodic habitat},
+    title = {On spreading speeds and traveling waves for growth and
+   migration models in a periodic habitat},
     url = {https://doi.org/10.1007/s00285-002-0169-3},
     volume = {45},
     year = {2002}

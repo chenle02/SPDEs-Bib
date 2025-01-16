@@ -17,7 +17,8 @@ matoussi.sabbagh.ea:21:large
     mrnumber = {4239802},
     number = {2},
     pages = {849--879},
-    title = {Large deviation principles of obstacle problems for quasilinear stochastic {PDE}s},
+    title = {Large deviation principles of obstacle problems for
+   quasilinear stochastic {PDE}s},
     url = {https://doi.org/10.1007/s00245-019-09570-5},
     volume = {83},
     year = {2021}

@@ -18,7 +18,9 @@ galaktionov.vazquez:95:necessary
     mrreviewer = {Vladimir Grebenev},
     number = {3},
     pages = {225--244},
-    title = {Necessary and sufficient conditions for complete blow-up and extinction for one-dimensional quasilinear heat equations},
+    title = {Necessary and sufficient conditions for complete blow-up
+   and extinction for one-dimensional quasilinear heat
+   equations},
     url = {https://doi.org/10.1007/BF00383674},
     volume = {129},
     year = {1995}

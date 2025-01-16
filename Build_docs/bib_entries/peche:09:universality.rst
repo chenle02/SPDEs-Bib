@@ -18,7 +18,8 @@ peche:09:universality
     mrreviewer = {Florent\ Benaych-Georges},
     number = {3-4},
     pages = {481--516},
-    title = {Universality results for the largest eigenvalues of some sample covariance matrix ensembles},
+    title = {Universality results for the largest eigenvalues of some
+   sample covariance matrix ensembles},
     url = {https://doi.org/10.1007/s00440-007-0133-7},
     volume = {143},
     year = {2009}

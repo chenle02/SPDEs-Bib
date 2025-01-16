@@ -8,7 +8,8 @@ blanchet.calvez.ea:08:convergence
 .. code-block:: bibtex
 
    @article{blanchet.calvez.ea:08:convergence,
-    author = {Blanchet, Adrien and Calvez, Vincent and Carrillo, Jos\'{e} A.},
+    author = {Blanchet, Adrien and Calvez, Vincent and Carrillo,
+   Jos\'{e} A.},
     doi = {10.1137/070683337},
     fjournal = {SIAM Journal on Numerical Analysis},
     issn = {0036-1429},
@@ -17,7 +18,8 @@ blanchet.calvez.ea:08:convergence
     mrnumber = {2383208},
     number = {2},
     pages = {691--721},
-    title = {Convergence of the mass-transport steepest descent scheme for the subcritical {P}atlak-{K}eller-{S}egel model},
+    title = {Convergence of the mass-transport steepest descent scheme
+   for the subcritical {P}atlak-{K}eller-{S}egel model},
     url = {https://doi.org/10.1137/070683337},
     volume = {46},
     year = {2008}

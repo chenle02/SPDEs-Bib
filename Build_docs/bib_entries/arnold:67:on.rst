@@ -17,7 +17,8 @@ arnold:67:on
     mrnumber = {217833},
     mrreviewer = {M. Lo\`eve},
     pages = {262--268},
-    title = {On the asymptotic distribution of the eigenvalues of random matrices},
+    title = {On the asymptotic distribution of the eigenvalues of
+   random matrices},
     url = {https://doi.org/10.1016/0022-247X(67)90089-3},
     volume = {20},
     year = {1967}

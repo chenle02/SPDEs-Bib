@@ -18,7 +18,9 @@ cerrai.rockner:04:large
     mrreviewer = {Jorge A. Le\'{o}n},
     number = {1B},
     pages = {1100--1139},
-    title = {Large deviations for stochastic reaction-diffusion systems with multiplicative noise and non-{L}ipschitz reaction term},
+    title = {Large deviations for stochastic reaction-diffusion systems
+   with multiplicative noise and non-{L}ipschitz reaction
+   term},
     url = {https://doi.org/10.1214/aop/1079021473},
     volume = {32},
     year = {2004}

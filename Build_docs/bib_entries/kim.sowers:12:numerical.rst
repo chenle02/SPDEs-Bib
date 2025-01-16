@@ -18,7 +18,8 @@ kim.sowers:12:numerical
     mrreviewer = {Sonja Cox},
     number = {6},
     pages = {963--996},
-    title = {Numerical analysis of the stochastic moving boundary problem},
+    title = {Numerical analysis of the stochastic moving boundary
+   problem},
     url = {https://doi.org/10.1080/07362994.2012.704847},
     volume = {30},
     year = {2012}

@@ -8,7 +8,8 @@ david.duplantier.ea:93:renormalization*1
 .. code-block:: bibtex
 
    @article{david.duplantier.ea:93:renormalization*1,
-    author = {David, Fran\c{c}ois and Duplantier, Bertrand and Guitter, Emmanuel},
+    author = {David, Fran\c{c}ois and Duplantier, Bertrand and Guitter,
+   Emmanuel},
     doi = {10.1103/PhysRevLett.70.2205},
     fjournal = {Physical Review Letters},
     issn = {0031-9007},

@@ -18,7 +18,8 @@ friedland.rider.ea:04:concentration
     mrreviewer = {Peter M. Gibson},
     number = {3},
     pages = {1559--1576},
-    title = {Concentration of permanent estimators for certain large matrices},
+    title = {Concentration of permanent estimators for certain large
+   matrices},
     url = {https://doi.org/10.1214/105051604000000396},
     volume = {14},
     year = {2004}

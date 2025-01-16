@@ -16,7 +16,8 @@ carmona:82:exponential
     mrnumber = {650377},
     number = {1},
     pages = {191--213},
-    title = {Exponential localization in one-dimensional disordered systems},
+    title = {Exponential localization in one-dimensional disordered
+   systems},
     url = {http://projecteuclid.org/euclid.dmj/1077315080},
     volume = {49},
     year = {1982}

@@ -18,7 +18,8 @@ bourgain.schlag:00:anderson
     mrreviewer = {Jean-Michel\ Ghez},
     number = {1},
     pages = {143--175},
-    title = {Anderson localization for {S}chr\"{o}dinger operators on {$\bf Z$} with strongly mixing potentials},
+    title = {Anderson localization for {S}chr\"{o}dinger operators on
+   {$\bf Z$} with strongly mixing potentials},
     url = {https://doi.org/10.1007/PL00005538},
     volume = {215},
     year = {2000}

@@ -18,7 +18,8 @@ hausenblas.seidler:08:stochastic
     mrreviewer = {Martin Ondrej\'{a}t},
     number = {1},
     pages = {98--119},
-    title = {Stochastic convolutions driven by martingales: maximal inequalities and exponential integrability},
+    title = {Stochastic convolutions driven by martingales: maximal
+   inequalities and exponential integrability},
     url = {https://doi.org/10.1080/07362990701673047},
     volume = {26},
     year = {2008}

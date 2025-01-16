@@ -18,7 +18,8 @@ wu.xiao:09:continuity
     mrreviewer = {Marco\ Dozzi},
     number = {6},
     pages = {1823--1844},
-    title = {Continuity in the {H}urst index of the local times of anisotropic {G}aussian random fields},
+    title = {Continuity in the {H}urst index of the local times of
+   anisotropic {G}aussian random fields},
     url = {https://doi.org/10.1016/j.spa.2008.09.001},
     volume = {119},
     year = {2009}

@@ -17,7 +17,8 @@ baudoin.ouyang:13:gradient
     pages = {413--426},
     publisher = {Springer, New York},
     series = {Springer Proc. Math. Stat.},
-    title = {Gradient bounds for solutions of stochastic differential equations driven by fractional {B}rownian motions},
+    title = {Gradient bounds for solutions of stochastic differential
+   equations driven by fractional {B}rownian motions},
     url = {https://doi.org/10.1007/978-1-4614-5906-4_18},
     volume = {34},
     year = {2013}

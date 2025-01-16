@@ -18,7 +18,8 @@ pardoux.zeitouni:04:quenched
     mrreviewer = {Zhongmin\ Qian},
     number = {4},
     pages = {1272--1297},
-    title = {Quenched large deviations for one dimensional nonlinear filtering},
+    title = {Quenched large deviations for one dimensional nonlinear
+   filtering},
     url = {https://doi.org/10.1137/S0363012903365032},
     volume = {43},
     year = {2004/05}

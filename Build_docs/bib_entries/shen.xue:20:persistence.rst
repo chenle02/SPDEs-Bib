@@ -18,7 +18,8 @@ shen.xue:20:persistence
     mrreviewer = {Lake\ Rylie\ Ritter},
     number = {7},
     pages = {6236--6268},
-    title = {Persistence and spreading speeds of parabolic-elliptic {K}eller-{S}egel models in shifting environments},
+    title = {Persistence and spreading speeds of parabolic-elliptic
+   {K}eller-{S}egel models in shifting environments},
     url = {https://doi.org/10.1016/j.jde.2020.04.040},
     volume = {269},
     year = {2020}

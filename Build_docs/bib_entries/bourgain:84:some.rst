@@ -9,7 +9,8 @@ bourgain:84:some
 
    @article{bourgain:84:some,
     author = {Bourgain, J.},
-    fjournal = {Bulletin de la Soci\'{e}t\'{e} Math\'{e}matique de Belgique. S\'{e}rie B},
+    fjournal = {Bulletin de la Soci\'{e}t\'{e} Math\'{e}matique de
+   Belgique. S\'{e}rie B},
     issn = {0037-9476},
     journal = {Bull. Soc. Math. Belg. S\'{e}r. B},
     mrclass = {43A46},

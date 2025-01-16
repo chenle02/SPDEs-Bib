@@ -8,7 +8,8 @@ burger.di-francesco.ea:06:keller-segel
 .. code-block:: bibtex
 
    @article{burger.di-francesco.ea:06:keller-segel,
-    author = {Burger, Martin and Di Francesco, Marco and Dolak-Struss, Yasmin},
+    author = {Burger, Martin and Di Francesco, Marco and Dolak-Struss,
+   Yasmin},
     doi = {10.1137/050637923},
     fjournal = {SIAM Journal on Mathematical Analysis},
     issn = {0036-1410},
@@ -18,7 +19,8 @@ burger.di-francesco.ea:06:keller-segel
     mrreviewer = {Fabio A. C. C. Chalub},
     number = {4},
     pages = {1288--1315},
-    title = {The {K}eller-{S}egel model for chemotaxis with prevention of overcrowding: linear vs. nonlinear diffusion},
+    title = {The {K}eller-{S}egel model for chemotaxis with prevention
+   of overcrowding: linear vs. nonlinear diffusion},
     url = {https://doi.org/10.1137/050637923},
     volume = {38},
     year = {2006}

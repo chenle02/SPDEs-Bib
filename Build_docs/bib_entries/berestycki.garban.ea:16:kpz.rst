@@ -8,9 +8,11 @@ berestycki.garban.ea:16:kpz
 .. code-block:: bibtex
 
    @article{berestycki.garban.ea:16:kpz,
-    author = {Berestycki, Nathana\"el and Garban, Christophe and Rhodes, R\'emi and Vargas, Vincent},
+    author = {Berestycki, Nathana\"el and Garban, Christophe and Rhodes,
+   R\'emi and Vargas, Vincent},
     doi = {10.1112/jlms/jdw031},
-    fjournal = {Journal of the London Mathematical Society. Second Series},
+    fjournal = {Journal of the London Mathematical Society. Second
+   Series},
     issn = {0024-6107,1469-7750},
     journal = {J. Lond. Math. Soc. (2)},
     mrclass = {60J70 (35K08 60G15 81T20)},

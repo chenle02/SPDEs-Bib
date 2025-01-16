@@ -17,7 +17,8 @@ xiao:97:packing
     mrnumber = {1458008},
     number = {4},
     pages = {379--387},
-    title = {Packing dimension of the image of fractional {B}rownian motion},
+    title = {Packing dimension of the image of fractional {B}rownian
+   motion},
     url = {https://doi.org/10.1016/S0167-7152(96)00151-4},
     volume = {33},
     year = {1997}

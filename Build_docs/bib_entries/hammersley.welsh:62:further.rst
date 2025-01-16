@@ -10,14 +10,16 @@ hammersley.welsh:62:further
    @article{hammersley.welsh:62:further,
     author = {Hammersley, J. M. and Welsh, D. J. A.},
     doi = {10.1093/qmath/13.1.108},
-    fjournal = {The Quarterly Journal of Mathematics. Oxford. Second Series},
+    fjournal = {The Quarterly Journal of Mathematics. Oxford. Second
+   Series},
     issn = {0033-5606},
     journal = {Quart. J. Math. Oxford Ser. (2)},
     mrclass = {05.10},
     mrnumber = {139535},
     mrreviewer = {I. J. Good},
     pages = {108--110},
-    title = {Further results on the rate of convergence to the connective constant of the hypercubical lattice},
+    title = {Further results on the rate of convergence to the
+   connective constant of the hypercubical lattice},
     url = {https://doi.org/10.1093/qmath/13.1.108},
     volume = {13},
     year = {1962}

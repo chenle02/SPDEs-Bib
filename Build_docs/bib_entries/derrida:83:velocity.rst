@@ -18,7 +18,8 @@ derrida:83:velocity
     mrreviewer = {M.\ Lawrence\ Glasser},
     number = {3},
     pages = {433--450},
-    title = {Velocity and diffusion constant of a periodic one-dimensional hopping model},
+    title = {Velocity and diffusion constant of a periodic
+   one-dimensional hopping model},
     url = {https://doi.org/10.1007/BF01019492},
     volume = {31},
     year = {1983}

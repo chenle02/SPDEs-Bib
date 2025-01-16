@@ -17,7 +17,8 @@ caravenna.corbetta:18:asymptotic
     mrnumber = {3758347},
     number = {3},
     pages = {1034--1071},
-    title = {The asymptotic smile of a multiscaling stochastic volatility model},
+    title = {The asymptotic smile of a multiscaling stochastic
+   volatility model},
     url = {https://doi.org/10.1016/j.spa.2017.06.014},
     volume = {128},
     year = {2018}

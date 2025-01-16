@@ -17,7 +17,8 @@ diaz.nagai:95:symmetrization
     mrreviewer = {Yoram Schiffmann},
     number = {2},
     pages = {659--680},
-    title = {Symmetrization in a parabolic-elliptic system related to chemotaxis},
+    title = {Symmetrization in a parabolic-elliptic system related to
+   chemotaxis},
     volume = {5},
     year = {1995}
    }

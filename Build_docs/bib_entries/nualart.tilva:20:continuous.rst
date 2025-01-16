@@ -18,7 +18,8 @@ nualart.tilva:20:continuous
     mrreviewer = {Daniel M. Harnett},
     number = {4},
     pages = {668--685},
-    title = {Continuous {B}reuer-{M}ajor theorem for vector valued fields},
+    title = {Continuous {B}reuer-{M}ajor theorem for vector valued
+   fields},
     url = {https://doi.org/10.1080/07362994.2019.1711118},
     volume = {38},
     year = {2020}

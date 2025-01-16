@@ -18,7 +18,8 @@ li.xiao:07:mean
     mrreviewer = {Yichuan\ Zhao},
     number = {2},
     pages = {299--324},
-    title = {Mean integrated squared error of nonlinear wavelet-based estimators with long memory data},
+    title = {Mean integrated squared error of nonlinear wavelet-based
+   estimators with long memory data},
     url = {https://doi.org/10.1007/s10463-006-0048-6},
     volume = {59},
     year = {2007}

@@ -8,7 +8,8 @@ dalang.khoshnevisan.ea:09:hitting
 .. code-block:: bibtex
 
    @article{dalang.khoshnevisan.ea:09:hitting,
-    author = {Dalang, Robert C. and Khoshnevisan, Davar and Nualart, Eulalia},
+    author = {Dalang, Robert C. and Khoshnevisan, Davar and Nualart,
+   Eulalia},
     doi = {10.1007/s00440-008-0150-1},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},
@@ -18,7 +19,8 @@ dalang.khoshnevisan.ea:09:hitting
     mrreviewer = {David Nualart},
     number = {3-4},
     pages = {371--427},
-    title = {Hitting probabilities for systems for non-linear stochastic heat equations with multiplicative noise},
+    title = {Hitting probabilities for systems for non-linear
+   stochastic heat equations with multiplicative noise},
     url = {https://doi.org/10.1007/s00440-008-0150-1},
     volume = {144},
     year = {2009}

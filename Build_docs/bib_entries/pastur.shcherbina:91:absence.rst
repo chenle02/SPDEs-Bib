@@ -18,7 +18,8 @@ pastur.shcherbina:91:absence
     mrreviewer = {Klaus Ziegler},
     number = {1-2},
     pages = {1--19},
-    title = {Absence of self-averaging of the order parameter in the {S}herrington-{K}irkpatrick model},
+    title = {Absence of self-averaging of the order parameter in the
+   {S}herrington-{K}irkpatrick model},
     url = {https://doi.org/10.1007/BF01020856},
     volume = {62},
     year = {1991}

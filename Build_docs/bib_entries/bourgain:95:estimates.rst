@@ -9,7 +9,8 @@ bourgain:95:estimates
 
    @incollection{bourgain:95:estimates,
     author = {Bourgain, J.},
-    booktitle = {Geometric aspects of functional analysis ({I}srael, 1992--1994)},
+    booktitle = {Geometric aspects of functional analysis ({I}srael,
+   1992--1994)},
     isbn = {3-7643-5207-8},
     mrclass = {42B15},
     mrnumber = {1353448},

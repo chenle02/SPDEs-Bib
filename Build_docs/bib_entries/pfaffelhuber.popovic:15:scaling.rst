@@ -18,7 +18,8 @@ pfaffelhuber.popovic:15:scaling
     mrreviewer = {Ross S. McVinish},
     number = {6},
     pages = {3162--3208},
-    title = {Scaling limits of spatial compartment models for chemical reaction networks},
+    title = {Scaling limits of spatial compartment models for chemical
+   reaction networks},
     url = {https://doi.org/10.1214/14-AAP1070},
     volume = {25},
     year = {2015}

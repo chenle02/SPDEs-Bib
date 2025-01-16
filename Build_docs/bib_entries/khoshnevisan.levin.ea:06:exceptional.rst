@@ -8,7 +8,8 @@ khoshnevisan.levin.ea:06:exceptional
 .. code-block:: bibtex
 
    @article{khoshnevisan.levin.ea:06:exceptional,
-    author = {Khoshnevisan, Davar and Levin, David A. and M\'{e}ndez-Hern\'{a}ndez, Pedro J.},
+    author = {Khoshnevisan, Davar and Levin, David A. and
+   M\'{e}ndez-Hern\'{a}ndez, Pedro J.},
     doi = {10.1007/s00440-005-0435-6},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},
@@ -18,7 +19,8 @@ khoshnevisan.levin.ea:06:exceptional
     mrreviewer = {Michele Zito},
     number = {3},
     pages = {383--416},
-    title = {Exceptional times and invariance for dynamical random walks},
+    title = {Exceptional times and invariance for dynamical random
+   walks},
     url = {https://doi.org/10.1007/s00440-005-0435-6},
     volume = {134},
     year = {2006}

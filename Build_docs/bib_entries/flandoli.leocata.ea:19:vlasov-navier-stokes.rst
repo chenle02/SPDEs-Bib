@@ -10,7 +10,8 @@ flandoli.leocata.ea:19:vlasov-navier-stokes
    @article{flandoli.leocata.ea:19:vlasov-navier-stokes,
     author = {Flandoli, Franco and Leocata, Marta and Ricci, Cristiano},
     doi = {10.3934/dcdsb.2018313},
-    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A Journal Bridging Mathematics and Sciences},
+    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A
+   Journal Bridging Mathematics and Sciences},
     issn = {1531-3492,1553-524X},
     journal = {Discrete Contin. Dyn. Syst. Ser. B},
     mrclass = {35Q83 (35Q30 60K35 76D05)},
@@ -18,7 +19,8 @@ flandoli.leocata.ea:19:vlasov-navier-stokes
     mrreviewer = {Sebastian\ Hermann\ Bauer},
     number = {8},
     pages = {3741--3753},
-    title = {The {V}lasov-{N}avier-{S}tokes equations as a mean field limit},
+    title = {The {V}lasov-{N}avier-{S}tokes equations as a mean field
+   limit},
     url = {https://doi.org/10.3934/dcdsb.2018313},
     volume = {24},
     year = {2019}

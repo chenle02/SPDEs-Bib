@@ -17,7 +17,8 @@ black:20:global
     mrnumber = {4043685},
     number = {2},
     pages = {119--137},
-    title = {Global generalized solutions to a parabolic-elliptic {K}eller-{S}egel system with singular sensitivity},
+    title = {Global generalized solutions to a parabolic-elliptic
+   {K}eller-{S}egel system with singular sensitivity},
     url = {https://doi.org/10.3934/dcdss.2020007},
     volume = {13},
     year = {2020}

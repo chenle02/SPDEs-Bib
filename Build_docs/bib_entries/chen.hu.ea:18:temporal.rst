@@ -8,7 +8,8 @@ chen.hu.ea:18:temporal
 .. code-block:: bibtex
 
    @article{chen.hu.ea:18:temporal,
-    author = {Chen, Xia and Hu, Yaozhong and Song, Jian and Song, Xiaoming},
+    author = {Chen, Xia and Hu, Yaozhong and Song, Jian and Song,
+   Xiaoming},
     doi = {10.1214/18-EJP139},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},
@@ -16,7 +17,8 @@ chen.hu.ea:18:temporal
     mrnumber = {3771751},
     mrreviewer = {Robert C. Dalang},
     pages = {Paper No. 14, 39},
-    title = {Temporal asymptotics for fractional parabolic {A}nderson model},
+    title = {Temporal asymptotics for fractional parabolic {A}nderson
+   model},
     url = {https://doi.org/10.1214/18-EJP139},
     volume = {23},
     year = {2018}

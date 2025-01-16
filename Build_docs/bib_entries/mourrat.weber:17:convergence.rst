@@ -18,7 +18,8 @@ mourrat.weber:17:convergence
     mrreviewer = {Arvind Ayyer},
     number = {4},
     pages = {717--812},
-    title = {Convergence of the two-dimensional dynamic {I}sing-{K}ac model to {$\Phi^4_2$}},
+    title = {Convergence of the two-dimensional dynamic {I}sing-{K}ac
+   model to {$\Phi^4_2$}},
     url = {https://doi.org/10.1002/cpa.21655},
     volume = {70},
     year = {2017}

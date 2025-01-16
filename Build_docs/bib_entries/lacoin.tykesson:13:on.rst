@@ -9,14 +9,16 @@ lacoin.tykesson:13:on
 
    @article{lacoin.tykesson:13:on,
     author = {Lacoin, Hubert and Tykesson, Johan},
-    fjournal = {ALEA. Latin American Journal of Probability and Mathematical Statistics},
+    fjournal = {ALEA. Latin American Journal of Probability and
+   Mathematical Statistics},
     issn = {1980-0436},
     journal = {ALEA Lat. Am. J. Probab. Math. Stat.},
     mrclass = {60K35 (60G55)},
     mrnumber = {3083935},
     number = {1},
     pages = {505--524},
-    title = {On the easiest way to connect {$k$} points in the random interlacements process},
+    title = {On the easiest way to connect {$k$} points in the random
+   interlacements process},
     volume = {10},
     year = {2013}
    }

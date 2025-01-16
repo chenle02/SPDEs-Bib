@@ -18,7 +18,9 @@ zeitouni.dembo:90:change
     mrreviewer = {Ali\ S\"{u}leyman\ \"{U}st\"{u}nel},
     number = {3},
     pages = {411--425},
-    title = {A change of variables formula for {S}tratonovich integrals and existence of solutions for two-point stochastic boundary value problems},
+    title = {A change of variables formula for {S}tratonovich integrals
+   and existence of solutions for two-point stochastic
+   boundary value problems},
     url = {https://doi.org/10.1007/BF01197893},
     volume = {84},
     year = {1990}

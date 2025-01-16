@@ -8,7 +8,8 @@ rassoul-agha.seppalainen.ea:13:quenched
 .. code-block:: bibtex
 
    @article{rassoul-agha.seppalainen.ea:13:quenched,
-    author = {Rassoul-Agha, Firas and Sepp\"{a}l\"{a}inen, Timo and Yilmaz, Atilla},
+    author = {Rassoul-Agha, Firas and Sepp\"{a}l\"{a}inen, Timo and
+   Yilmaz, Atilla},
     doi = {10.1002/cpa.21417},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640},
@@ -18,7 +19,8 @@ rassoul-agha.seppalainen.ea:13:quenched
     mrreviewer = {Dimitris Cheliotis},
     number = {2},
     pages = {202--244},
-    title = {Quenched free energy and large deviations for random walks in random potentials},
+    title = {Quenched free energy and large deviations for random walks
+   in random potentials},
     url = {https://doi.org/10.1002/cpa.21417},
     volume = {66},
     year = {2013}

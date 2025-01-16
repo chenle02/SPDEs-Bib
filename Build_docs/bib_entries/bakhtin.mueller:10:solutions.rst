@@ -17,7 +17,8 @@ bakhtin.mueller:10:solutions
     mrreviewer = {Konstantinos B. Liaskos},
     number = {3},
     pages = {425--431},
-    title = {Solutions of semilinear wave equation via stochastic cascades},
+    title = {Solutions of semilinear wave equation via stochastic
+   cascades},
     url = {https://doi.org/10.31390/cosa.4.3.07},
     volume = {4},
     year = {2010}

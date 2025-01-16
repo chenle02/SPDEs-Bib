@@ -18,7 +18,8 @@ baik.deift.ea:00:on
     mrreviewer = {Martin\ V.\ Hildebrand},
     number = {4},
     pages = {702--731},
-    title = {On the distribution of the length of the second row of a {Y}oung diagram under {P}lancherel measure},
+    title = {On the distribution of the length of the second row of a
+   {Y}oung diagram under {P}lancherel measure},
     url = {https://doi.org/10.1007/PL00001635},
     volume = {10},
     year = {2000}

@@ -9,7 +9,8 @@ gorenflo.luchko.ea:99:on
 
    @article{gorenflo.luchko.ea:99:on,
     author = {Gorenflo, R. and Luchko, Yu. F. and Zabrejko, P. P.},
-    fjournal = {Fractional Calculus \& Applied Analysis. An International Journal for Theory and Applications},
+    fjournal = {Fractional Calculus \& Applied Analysis. An International
+   Journal for Theory and Applications},
     issn = {1311-0454},
     journal = {Fract. Calc. Appl. Anal.},
     mrclass = {34G10 (26A33 45J05 47N20)},
@@ -17,7 +18,8 @@ gorenflo.luchko.ea:99:on
     mrreviewer = {Alberto\ Venni},
     number = {2},
     pages = {163--176},
-    title = {On solvability of linear fractional differential equations in {B}anach spaces},
+    title = {On solvability of linear fractional differential equations
+   in {B}anach spaces},
     volume = {2},
     year = {1999}
    }

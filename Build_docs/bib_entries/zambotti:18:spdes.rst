@@ -9,7 +9,8 @@ zambotti:18:spdes
 
    @incollection{zambotti:18:spdes,
     author = {Zambotti, Lorenzo},
-    booktitle = {Stochastic partial differential equations and related fields},
+    booktitle = {Stochastic partial differential equations and related
+   fields},
     doi = {10.1007/978-3-319-74929-7\_16},
     isbn = {978-3-319-74929-7; 978-3-319-74928-0},
     mrclass = {60H15 (82C28)},

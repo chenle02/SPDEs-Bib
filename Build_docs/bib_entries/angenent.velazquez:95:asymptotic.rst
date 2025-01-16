@@ -18,7 +18,8 @@ angenent.velazquez:95:asymptotic
     mrreviewer = {Anders Linn\'{e}r},
     number = {1},
     pages = {71--110},
-    title = {Asymptotic shape of cusp singularities in curve shortening},
+    title = {Asymptotic shape of cusp singularities in curve
+   shortening},
     url = {https://doi.org/10.1215/S0012-7094-95-07704-7},
     volume = {77},
     year = {1995}

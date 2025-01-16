@@ -17,7 +17,8 @@ gatarek.go-dys:94:on
     mrnumber = {1787166},
     number = {1-2},
     pages = {41--51},
-    title = {On weak solutions of stochastic equations in {H}ilbert spaces},
+    title = {On weak solutions of stochastic equations in {H}ilbert
+   spaces},
     url = {https://doi.org/10.1080/17442509408833868},
     volume = {46},
     year = {1994}

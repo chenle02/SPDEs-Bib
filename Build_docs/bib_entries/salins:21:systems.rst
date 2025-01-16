@@ -16,7 +16,9 @@ salins:21:systems
     mrclass = {60H15 (60F10)},
     mrnumber = {4314097},
     pages = {159--194},
-    title = {Systems of small-noise stochastic reaction-diffusion equations satisfy a large deviations principle that is uniform over all initial data},
+    title = {Systems of small-noise stochastic reaction-diffusion
+   equations satisfy a large deviations principle that is
+   uniform over all initial data},
     url = {https://doi.org/10.1016/j.spa.2021.08.010},
     volume = {142},
     year = {2021}

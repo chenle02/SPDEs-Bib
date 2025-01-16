@@ -8,7 +8,8 @@ oconnell.seppalainen.ea:14:geometric
 .. code-block:: bibtex
 
    @article{oconnell.seppalainen.ea:14:geometric,
-    author = {O'Connell, Neil and Sepp\"{a}l\"{a}inen, Timo and Zygouras, Nikos},
+    author = {O'Connell, Neil and Sepp\"{a}l\"{a}inen, Timo and
+   Zygouras, Nikos},
     doi = {10.1007/s00222-013-0485-9},
     fjournal = {Inventiones Mathematicae},
     issn = {0020-9910},
@@ -18,7 +19,8 @@ oconnell.seppalainen.ea:14:geometric
     mrreviewer = {David Berm\'{u}dez},
     number = {2},
     pages = {361--416},
-    title = {Geometric {RSK} correspondence, {W}hittaker functions and symmetrized random polymers},
+    title = {Geometric {RSK} correspondence, {W}hittaker functions and
+   symmetrized random polymers},
     url = {https://doi.org/10.1007/s00222-013-0485-9},
     volume = {197},
     year = {2014}

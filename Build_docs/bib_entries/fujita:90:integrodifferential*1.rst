@@ -17,7 +17,8 @@ fujita:90:integrodifferential*1
     mrreviewer = {Hana Petzeltov\'{a}},
     number = {4},
     pages = {797--804},
-    title = {Integrodifferential equation which interpolates the heat equation and the wave equation. {II}},
+    title = {Integrodifferential equation which interpolates the heat
+   equation and the wave equation. {II}},
     url = {http://projecteuclid.org/euclid.ojm/1200782677},
     volume = {27},
     year = {1990}

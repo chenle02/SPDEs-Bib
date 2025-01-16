@@ -8,8 +8,10 @@ da-prato.malliavin.ea:92:compact
 .. code-block:: bibtex
 
    @article{da-prato.malliavin.ea:92:compact,
-    author = {Da Prato, Giuseppe and Malliavin, Paul and Nualart, David},
-    fjournal = {Comptes Rendus de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
+    author = {Da Prato, Giuseppe and Malliavin, Paul and Nualart,
+   David},
+    fjournal = {Comptes Rendus de l'Acad\'{e}mie des Sciences. S\'{e}rie
+   I. Math\'{e}matique},
     issn = {0764-4442},
     journal = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
     mrclass = {60H10 (46N30)},

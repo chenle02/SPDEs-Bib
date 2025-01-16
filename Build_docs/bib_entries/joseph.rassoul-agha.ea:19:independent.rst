@@ -8,7 +8,8 @@ joseph.rassoul-agha.ea:19:independent
 .. code-block:: bibtex
 
    @incollection{joseph.rassoul-agha.ea:19:independent,
-    author = {Joseph, Mathew and Rassoul-Agha, Firas and Sepp\"{a}l\"{a}inen, Timo},
+    author = {Joseph, Mathew and Rassoul-Agha, Firas and
+   Sepp\"{a}l\"{a}inen, Timo},
     booktitle = {Probability and analysis in interacting physical systems},
     doi = {10.1007/978-3-030-15338-0\_4},
     mrclass = {60K35 (60K37)},

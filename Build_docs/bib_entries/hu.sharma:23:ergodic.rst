@@ -16,7 +16,8 @@ hu.sharma:23:ergodic
     mrclass = {60H10 (62F10 62F12 62M05)},
     mrnumber = {4599495},
     pages = {Paper No. 115329, 19},
-    title = {Ergodic estimators of double exponential {O}rnstein-{U}hlenbeck processes},
+    title = {Ergodic estimators of double exponential
+   {O}rnstein-{U}hlenbeck processes},
     url = {https://doi.org/10.1016/j.cam.2023.115329},
     volume = {434},
     year = {2023}

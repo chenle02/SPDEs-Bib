@@ -17,7 +17,8 @@ kaplan:63:on
     mrnumber = {160044},
     mrreviewer = {P. Hartman},
     pages = {305--330},
-    title = {On the growth of solutions of quasi-linear parabolic equations},
+    title = {On the growth of solutions of quasi-linear parabolic
+   equations},
     url = {https://doi.org/10.1002/cpa.3160160307},
     volume = {16},
     year = {1963}

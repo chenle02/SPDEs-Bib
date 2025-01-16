@@ -7,19 +7,23 @@ bourgain:14:on
 
 .. code-block:: bibtex
 
-   @incollection{bourgain:14:on,
+   @article{bourgain:14:on,
     author = {Bourgain, Jean},
-    booktitle = {Advances in analysis: the legacy of {E}lias {M}. {S}tein},
-    isbn = {978-0-691-15941-6},
-    mrclass = {42B20 (42B25)},
-    mrnumber = {3329846},
-    mrreviewer = {Brett\ D.\ Wick},
-    pages = {47--62},
-    publisher = {Princeton Univ. Press, Princeton, NJ},
-    series = {Princeton Math. Ser.},
-    title = {On oscillatory integral operators in higher dimensions},
-    volume = {50},
+    doi = {10.1007/s11856-014-1037-z},
+    fjournal = {Israel Journal of Mathematics},
+    issn = {0021-2172,1565-8511},
+    journal = {Israel J. Math.},
+    mrclass = {60G15 (35J05 35P20)},
+    mrnumber = {3265298},
+    mrreviewer = {Isamu\ D\^{o}ku},
+    number = {2},
+    pages = {611--630},
+    title = {On toral eigenfunctions and the random wave model},
+    url = {https://doi.org/10.1007/s11856-014-1037-z},
+    volume = {201},
     year = {2014}
    }
+`The URL link to the source <ttps://doi.org/10.1007/s11856-014-1037-z}>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -16,7 +16,8 @@ nualart:18:moment
     mrnumber = {3841402},
     mrreviewer = {Isamu D\^{o}ku},
     pages = {Paper No. 41, 12},
-    title = {Moment bounds for some fractional stochastic heat equations on the ball},
+    title = {Moment bounds for some fractional stochastic heat
+   equations on the ball},
     url = {https://doi.org/10.1214/18-ECP147},
     volume = {23},
     year = {2018}

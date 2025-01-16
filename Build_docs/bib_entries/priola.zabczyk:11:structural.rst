@@ -18,7 +18,8 @@ priola.zabczyk:11:structural
     mrreviewer = {David Applebaum},
     number = {1-2},
     pages = {97--137},
-    title = {Structural properties of semilinear {SPDE}s driven by cylindrical stable processes},
+    title = {Structural properties of semilinear {SPDE}s driven by
+   cylindrical stable processes},
     url = {https://doi.org/10.1007/s00440-009-0243-5},
     volume = {149},
     year = {2011}

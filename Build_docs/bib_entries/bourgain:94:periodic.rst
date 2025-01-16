@@ -17,7 +17,8 @@ bourgain:94:periodic
     mrreviewer = {Elaine Machtyngier},
     number = {1},
     pages = {1--26},
-    title = {Periodic nonlinear {S}chr\"{o}dinger equation and invariant measures},
+    title = {Periodic nonlinear {S}chr\"{o}dinger equation and
+   invariant measures},
     url = {http://projecteuclid.org/euclid.cmp/1104271501},
     volume = {166},
     year = {1994}

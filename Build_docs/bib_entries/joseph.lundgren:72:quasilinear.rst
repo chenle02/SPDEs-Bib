@@ -17,7 +17,8 @@ joseph.lundgren:72:quasilinear
     mrnumber = {340701},
     mrreviewer = {Jean Mawhin},
     pages = {241--269},
-    title = {Quasilinear {D}irichlet problems driven by positive sources},
+    title = {Quasilinear {D}irichlet problems driven by positive
+   sources},
     url = {https://doi.org/10.1007/BF00250508},
     volume = {49},
     year = {1972/73}

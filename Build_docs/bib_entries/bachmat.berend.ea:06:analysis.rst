@@ -8,7 +8,8 @@ bachmat.berend.ea:06:analysis
 .. code-block:: bibtex
 
    @article{bachmat.berend.ea:06:analysis,
-    author = {Bachmat, E. and Berend, D. and Sapir, L. and Skiena, S. and Stolyarov, N.},
+    author = {Bachmat, E. and Berend, D. and Sapir, L. and Skiena, S.
+   and Stolyarov, N.},
     doi = {10.1088/0305-4470/39/29/L01},
     fjournal = {Journal of Physics. A. Mathematical and General},
     issn = {0305-4470},
@@ -17,7 +18,8 @@ bachmat.berend.ea:06:analysis
     mrnumber = {2247486},
     number = {29},
     pages = {L453--L459},
-    title = {Analysis of aeroplane boarding via spacetime geometry and random matrix theory},
+    title = {Analysis of aeroplane boarding via spacetime geometry and
+   random matrix theory},
     url = {https://doi.org/10.1088/0305-4470/39/29/L01},
     volume = {39},
     year = {2006}

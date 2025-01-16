@@ -17,7 +17,9 @@ galaktionov:85:proof
     mrreviewer = {Pavel Dr\'{a}bek},
     number = {1},
     pages = {15--23, 179--180},
-    title = {A proof of the localization of unbounded solutions of the nonlinear parabolic equation {$u_t=(u^\sigma u_x)_x+u^\beta$}},
+    title = {A proof of the localization of unbounded solutions of the
+   nonlinear parabolic equation {$u_t=(u^\sigma
+   u_x)_x+u^\beta$}},
     volume = {21},
     year = {1985}
    }

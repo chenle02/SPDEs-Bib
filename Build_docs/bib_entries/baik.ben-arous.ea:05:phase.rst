@@ -8,7 +8,8 @@ baik.ben-arous.ea:05:phase
 .. code-block:: bibtex
 
    @article{baik.ben-arous.ea:05:phase,
-    author = {Baik, Jinho and Ben Arous, G\'{e}rard and P\'{e}ch\'{e}, Sandrine},
+    author = {Baik, Jinho and Ben Arous, G\'{e}rard and P\'{e}ch\'{e},
+   Sandrine},
     doi = {10.1214/009117905000000233},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ baik.ben-arous.ea:05:phase
     mrreviewer = {Florent Benaych-Georges},
     number = {5},
     pages = {1643--1697},
-    title = {Phase transition of the largest eigenvalue for nonnull complex sample covariance matrices},
+    title = {Phase transition of the largest eigenvalue for nonnull
+   complex sample covariance matrices},
     url = {https://doi.org/10.1214/009117905000000233},
     volume = {33},
     year = {2005}

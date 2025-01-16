@@ -18,7 +18,8 @@ bourgain:09:multilinear
     mrreviewer = {Antonio\ Rojas Le\'{o}n},
     number = {5},
     pages = {1477--1502},
-    title = {Multilinear exponential sums in prime fields under optimal entropy condition on the sources},
+    title = {Multilinear exponential sums in prime fields under optimal
+   entropy condition on the sources},
     url = {https://doi.org/10.1007/s00039-008-0691-6},
     volume = {18},
     year = {2009}

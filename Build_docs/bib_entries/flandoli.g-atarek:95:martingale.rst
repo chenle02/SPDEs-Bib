@@ -18,7 +18,8 @@ flandoli.g-atarek:95:martingale
     mrreviewer = {Marek Capi\'{n}ski},
     number = {3},
     pages = {367--391},
-    title = {Martingale and stationary solutions for stochastic {N}avier-{S}tokes equations},
+    title = {Martingale and stationary solutions for stochastic
+   {N}avier-{S}tokes equations},
     url = {https://doi.org/10.1007/BF01192467},
     volume = {102},
     year = {1995}

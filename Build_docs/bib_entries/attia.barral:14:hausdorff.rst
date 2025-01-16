@@ -17,7 +17,8 @@ attia.barral:14:hausdorff
     mrnumber = {3231998},
     number = {1},
     pages = {139--187},
-    title = {Hausdorff and packing spectra, large deviations, and free energy for branching random walks in {$\Bbb{R}^d$}},
+    title = {Hausdorff and packing spectra, large deviations, and free
+   energy for branching random walks in {$\Bbb{R}^d$}},
     url = {https://doi.org/10.1007/s00220-014-2087-9},
     volume = {331},
     year = {2014}

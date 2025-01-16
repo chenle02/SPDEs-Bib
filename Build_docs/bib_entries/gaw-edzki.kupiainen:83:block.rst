@@ -17,7 +17,8 @@ gaw-edzki.kupiainen:83:block
     mrnumber = {707525},
     number = {1},
     pages = {198--243},
-    title = {Block spin renormalization group for dipole gas and {$(\nabla \varphi )^{4}$}},
+    title = {Block spin renormalization group for dipole gas and
+   {$(\nabla \varphi )^{4}$}},
     url = {https://doi.org/10.1016/0003-4916(83)90071-4},
     volume = {147},
     year = {1983}

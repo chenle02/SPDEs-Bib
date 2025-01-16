@@ -18,7 +18,8 @@ dembo.gantert.ea:04:large
     mrreviewer = {Fabio\ P.\ Machado},
     number = {1B},
     pages = {996--1029},
-    title = {Large deviations for random walk in random environment with holding times},
+    title = {Large deviations for random walk in random environment
+   with holding times},
     url = {https://doi.org/10.1214/aop/1079021470},
     volume = {32},
     year = {2004}

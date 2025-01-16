@@ -17,7 +17,8 @@ hu.rang:14:identification
     mrnumber = {3200770},
     mrreviewer = {Guangying Lv},
     pages = {Art. ID 219876, 11},
-    title = {Identification of the point sources in some stochastic wave equations},
+    title = {Identification of the point sources in some stochastic
+   wave equations},
     url = {https://doi.org/10.1155/2014/219876},
     year = {2014}
    }

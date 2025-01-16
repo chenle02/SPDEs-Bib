@@ -17,7 +17,8 @@ hu.yang:12:optimal
     mrnumber = {2909805},
     number = {2},
     pages = {238--248},
-    title = {Optimal tracking for bilinear stochastic system driven by fractional {B}rownian motions},
+    title = {Optimal tracking for bilinear stochastic system driven by
+   fractional {B}rownian motions},
     url = {https://doi.org/10.1007/s11424-012-9254-x},
     volume = {25},
     year = {2012}

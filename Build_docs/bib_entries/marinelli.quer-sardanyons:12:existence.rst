@@ -18,7 +18,8 @@ marinelli.quer-sardanyons:12:existence
     mrreviewer = {Guanggan Chen},
     number = {2},
     pages = {906--925},
-    title = {Existence of weak solutions for a class of semilinear stochastic wave equations},
+    title = {Existence of weak solutions for a class of semilinear
+   stochastic wave equations},
     url = {https://doi.org/10.1137/110826667},
     volume = {44},
     year = {2012}

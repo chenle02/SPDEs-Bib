@@ -18,7 +18,9 @@ kozono.sugiyama:08:keller-segel
     mrreviewer = {Philip Broadbridge},
     number = {4},
     pages = {1467--1500},
-    title = {The {K}eller-{S}egel system of parabolic-parabolic type with initial data in weak {$L^{n/2}(\Bbb R^n)$} and its application to self-similar solutions},
+    title = {The {K}eller-{S}egel system of parabolic-parabolic type
+   with initial data in weak {$L^{n/2}(\Bbb R^n)$} and its
+   application to self-similar solutions},
     url = {https://doi.org/10.1512/iumj.2008.57.3316},
     volume = {57},
     year = {2008}

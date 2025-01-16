@@ -17,7 +17,8 @@ gurusamy.balachandran:18:finite
     mrnumber = {3801002},
     number = {2},
     pages = {539--549},
-    title = {Finite element method for solving {K}eller-{S}egel chemotaxis system with cross-diffusion},
+    title = {Finite element method for solving {K}eller-{S}egel
+   chemotaxis system with cross-diffusion},
     url = {https://doi.org/10.1007/s40435-017-0335-5},
     volume = {6},
     year = {2018}

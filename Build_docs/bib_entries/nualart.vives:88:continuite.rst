@@ -9,7 +9,8 @@ nualart.vives:88:continuite
 
    @article{nualart.vives:88:continuite,
     author = {Nualart, David and Vives, Josep},
-    fjournal = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
+    fjournal = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des
+   Sciences. S\'{e}rie I. Math\'{e}matique},
     issn = {0249-6291},
     journal = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
     mrclass = {60G15 (60H07)},
@@ -17,7 +18,8 @@ nualart.vives:88:continuite
     mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},
     number = {7},
     pages = {349--354},
-    title = {Continuit\'{e} absolue de la loi du maximum d'un processus continu},
+    title = {Continuit\'{e} absolue de la loi du maximum d'un processus
+   continu},
     volume = {307},
     year = {1988}
    }

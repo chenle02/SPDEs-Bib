@@ -8,7 +8,8 @@ dembo.peres.ea:99:thick
 .. code-block:: bibtex
 
    @article{dembo.peres.ea:99:thick,
-    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni, Ofer},
+    author = {Dembo, Amir and Peres, Yuval and Rosen, Jay and Zeitouni,
+   Ofer},
     doi = {10.1214/EJP.v4-47},
     fjournal = {Electronic Journal of Probability},
     issn = {1083-6489},

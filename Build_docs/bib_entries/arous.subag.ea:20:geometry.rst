@@ -8,7 +8,8 @@ arous.subag.ea:20:geometry
 .. code-block:: bibtex
 
    @article{arous.subag.ea:20:geometry,
-    author = {Arous, G\'{e}rard Ben and Subag, Eliran and Zeitouni, Ofer},
+    author = {Arous, G\'{e}rard Ben and Subag, Eliran and Zeitouni,
+   Ofer},
     doi = {10.1002/cpa.21875},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640,1097-0312},
@@ -18,7 +19,8 @@ arous.subag.ea:20:geometry
     mrreviewer = {Reza\ Gheissari},
     number = {8},
     pages = {1732--1828},
-    title = {Geometry and temperature chaos in mixed spherical spin glasses at low temperature: the perturbative regime},
+    title = {Geometry and temperature chaos in mixed spherical spin
+   glasses at low temperature: the perturbative regime},
     url = {https://doi.org/10.1002/cpa.21875},
     volume = {73},
     year = {2020}

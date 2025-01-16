@@ -10,7 +10,8 @@ berkes.chen.ea:01:central
    @article{berkes.chen.ea:01:central,
     author = {Berkes, I. and Chen, X. and Horv\'{a}th, L.},
     doi = {10.1556/SScMath.38.2001.1-4.6},
-    fjournal = {Studia Scientiarum Mathematicarum Hungarica. Combinatorics, Geometry and Topology (CoGeTo)},
+    fjournal = {Studia Scientiarum Mathematicarum Hungarica.
+   Combinatorics, Geometry and Topology (CoGeTo)},
     issn = {0081-6906},
     journal = {Studia Sci. Math. Hungar.},
     mrclass = {60F17 (60F05 60F15 60G50)},

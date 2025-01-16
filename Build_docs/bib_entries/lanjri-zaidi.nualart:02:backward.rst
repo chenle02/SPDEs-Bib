@@ -10,7 +10,9 @@ lanjri-zaidi.nualart:02:backward
    @article{lanjri-zaidi.nualart:02:backward,
     author = {Lanjri Za\"{i}di, N. and Nualart, D.},
     doi = {10.1023/A:1014878129265},
-    fjournal = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
+    fjournal = {Potential Analysis. An International Journal Devoted to
+   the Interactions between Potential Theory, Probability
+   Theory, Geometry and Functional Analysis},
     issn = {0926-2601},
     journal = {Potential Anal.},
     mrclass = {60H10 (35R30 35R60 60H20)},

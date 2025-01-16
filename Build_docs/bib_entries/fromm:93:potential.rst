@@ -18,7 +18,8 @@ fromm:93:potential
     mrreviewer = {Yehuda Pinchover},
     number = {1},
     pages = {225--233},
-    title = {Potential space estimates for {G}reen potentials in convex domains},
+    title = {Potential space estimates for {G}reen potentials in convex
+   domains},
     url = {https://doi.org/10.2307/2159846},
     volume = {119},
     year = {1993}

@@ -8,7 +8,8 @@ miura.gardner.ea:68:korteweg-de
 .. code-block:: bibtex
 
    @article{miura.gardner.ea:68:korteweg-de,
-    author = {Miura, Robert M. and Gardner, Clifford S. and Kruskal, Martin D.},
+    author = {Miura, Robert M. and Gardner, Clifford S. and Kruskal,
+   Martin D.},
     doi = {10.1063/1.1664701},
     fjournal = {Journal of Mathematical Physics},
     issn = {0022-2488},
@@ -17,7 +18,8 @@ miura.gardner.ea:68:korteweg-de
     mrnumber = {252826},
     mrreviewer = {Joel Smoller},
     pages = {1204--1209},
-    title = {Korteweg-de {V}ries equation and generalizations. {II}. {E}xistence of conservation laws and constants of motion},
+    title = {Korteweg-de {V}ries equation and generalizations. {II}.
+   {E}xistence of conservation laws and constants of motion},
     url = {https://doi.org/10.1063/1.1664701},
     volume = {9},
     year = {1968}

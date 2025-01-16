@@ -16,8 +16,10 @@ meerschaert.scheffler:01:limit
     note = {Heavy tails in theory and practice},
     pages = {xvi+484},
     publisher = {John Wiley \& Sons, Inc., New York},
-    series = {Wiley Series in Probability and Statistics: Probability and Statistics},
-    title = {Limit distributions for sums of independent random vectors},
+    series = {Wiley Series in Probability and Statistics: Probability
+   and Statistics},
+    title = {Limit distributions for sums of independent random
+   vectors},
     year = {2001}
    }
 

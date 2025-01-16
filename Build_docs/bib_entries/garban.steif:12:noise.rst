@@ -9,7 +9,8 @@ garban.steif:12:noise
 
    @incollection{garban.steif:12:noise,
     author = {Garban, Christophe and Steif, Jeffrey E.},
-    booktitle = {Probability and statistical physics in two and more dimensions},
+    booktitle = {Probability and statistical physics in two and more
+   dimensions},
     mrclass = {60K35 (60J67 82B05)},
     mrnumber = {3025390},
     mrreviewer = {Dmitry Beliaev},

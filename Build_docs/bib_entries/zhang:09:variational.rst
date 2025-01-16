@@ -18,7 +18,8 @@ zhang:09:variational
     mrreviewer = {Arie Leizarowitz},
     number = {3},
     pages = {1743--1755},
-    title = {Variational inequalities and optimization for {M}arkov processes associated with semi-{D}irichlet forms},
+    title = {Variational inequalities and optimization for {M}arkov
+   processes associated with semi-{D}irichlet forms},
     url = {https://doi.org/10.1137/080737630},
     volume = {48},
     year = {2009}

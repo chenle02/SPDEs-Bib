@@ -10,7 +10,8 @@ goncalves.jara:12:crossover
    @article{goncalves.jara:12:crossover,
     author = {Gon\c{c}alves, Patr\'{i}cia and Jara, Milton},
     doi = {10.1007/s00023-011-0147-7},
-    fjournal = {Annales Henri Poincar\'{e}. A Journal of Theoretical and Mathematical Physics},
+    fjournal = {Annales Henri Poincar\'{e}. A Journal of Theoretical and
+   Mathematical Physics},
     issn = {1424-0637},
     journal = {Ann. Henri Poincar\'{e}},
     mrclass = {82C22 (60K35)},

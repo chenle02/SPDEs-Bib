@@ -17,7 +17,8 @@ onyido.shen:21:nonlocal
     mrnumber = {4267553},
     mrreviewer = {S.\ N.\ Askhabov},
     pages = {1--38},
-    title = {Nonlocal dispersal equations with almost periodic dependence. {I}. {P}rincipal spectral theory},
+    title = {Nonlocal dispersal equations with almost periodic
+   dependence. {I}. {P}rincipal spectral theory},
     url = {https://doi.org/10.1016/j.jde.2021.05.050},
     volume = {295},
     year = {2021}

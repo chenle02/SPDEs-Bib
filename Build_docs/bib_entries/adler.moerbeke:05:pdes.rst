@@ -18,7 +18,8 @@ adler.moerbeke:05:pdes
     mrreviewer = {Jos\'{e} Rafael Le\'{o}n},
     number = {4},
     pages = {1326--1361},
-    title = {P{DE}s for the joint distributions of the {D}yson, {A}iry and sine processes},
+    title = {P{DE}s for the joint distributions of the {D}yson, {A}iry
+   and sine processes},
     url = {https://doi.org/10.1214/009117905000000107},
     volume = {33},
     year = {2005}

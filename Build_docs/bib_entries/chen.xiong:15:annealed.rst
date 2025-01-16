@@ -18,7 +18,8 @@ chen.xiong:15:annealed
     mrreviewer = {Francis Comets},
     number = {4},
     pages = {1601--1650},
-    title = {Annealed asymptotics for {B}rownian motion of renormalized potential in mobile random medium},
+    title = {Annealed asymptotics for {B}rownian motion of renormalized
+   potential in mobile random medium},
     url = {https://doi.org/10.1007/s10959-014-0558-8},
     volume = {28},
     year = {2015}

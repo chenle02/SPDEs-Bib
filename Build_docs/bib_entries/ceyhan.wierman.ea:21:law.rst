@@ -16,7 +16,8 @@ ceyhan.wierman.ea:21:law
     mrclass = {60G99 (05C69 62H30)},
     mrnumber = {4291368},
     pages = {376--407},
-    title = {Law of large numbers for a two-dimensional class cover problem},
+    title = {Law of large numbers for a two-dimensional class cover
+   problem},
     url = {https://doi.org/10.1051/ps/2021013},
     volume = {25},
     year = {2021}

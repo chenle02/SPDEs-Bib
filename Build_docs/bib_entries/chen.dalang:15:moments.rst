@@ -18,7 +18,8 @@ chen.dalang:15:moments
     mrreviewer = {Mathew Joseph},
     number = {6},
     pages = {3006--3051},
-    title = {Moments and growth indices for the nonlinear stochastic heat equation with rough initial conditions},
+    title = {Moments and growth indices for the nonlinear stochastic
+   heat equation with rough initial conditions},
     url = {https://doi.org/10.1214/14-AOP954},
     volume = {43},
     year = {2015}

@@ -15,7 +15,8 @@ zabczyk:04:topics
     mrreviewer = {Larbi Alili},
     pages = {x+126},
     publisher = {Scuola Normale Superiore, Pisa},
-    series = {Scuola Normale Superiore di Pisa. Quaderni. [Publications of the Scuola Normale Superiore of Pisa]},
+    series = {Scuola Normale Superiore di Pisa. Quaderni. [Publications
+   of the Scuola Normale Superiore of Pisa]},
     title = {Topics in stochastic processes},
     year = {2004}
    }

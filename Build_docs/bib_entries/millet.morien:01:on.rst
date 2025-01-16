@@ -18,7 +18,8 @@ millet.morien:01:on
     mrreviewer = {Nicholas Frangos},
     number = {3},
     pages = {922--951},
-    title = {On a nonlinear stochastic wave equation in the plane: existence and uniqueness of the solution},
+    title = {On a nonlinear stochastic wave equation in the plane:
+   existence and uniqueness of the solution},
     url = {https://doi.org/10.1214/aoap/1015345353},
     volume = {11},
     year = {2001}

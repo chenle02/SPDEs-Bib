@@ -17,7 +17,8 @@ kotelenez:08:stochastic
     pages = {x+458},
     publisher = {Springer, New York},
     series = {Stochastic Modelling and Applied Probability},
-    title = {Stochastic ordinary and stochastic partial differential equations},
+    title = {Stochastic ordinary and stochastic partial differential
+   equations},
     volume = {58},
     year = {2008}
    }

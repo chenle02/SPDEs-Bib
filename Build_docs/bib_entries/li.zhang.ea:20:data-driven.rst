@@ -10,7 +10,8 @@ li.zhang.ea:20:data-driven
    @article{li.zhang.ea:20:data-driven,
     author = {Li, Sijing and Zhang, Zhiwen and Zhao, Hongkai},
     doi = {10.1137/19M1277485},
-    fjournal = {Multiscale Modeling \& Simulation. A SIAM Interdisciplinary Journal},
+    fjournal = {Multiscale Modeling \& Simulation. A SIAM
+   Interdisciplinary Journal},
     issn = {1540-3459,1540-3467},
     journal = {Multiscale Model. Simul.},
     mrclass = {35R60 (35J08 35J25 60H25 65N30 65N80 78M34)},
@@ -18,7 +19,9 @@ li.zhang.ea:20:data-driven
     mrreviewer = {Le\ Chen},
     number = {3},
     pages = {1242--1271},
-    title = {A data-driven approach for multiscale elliptic {PDE}s with random coefficients based on intrinsic dimension reduction},
+    title = {A data-driven approach for multiscale elliptic {PDE}s with
+   random coefficients based on intrinsic dimension
+   reduction},
     url = {https://doi.org/10.1137/19M1277485},
     volume = {18},
     year = {2020}

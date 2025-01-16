@@ -17,7 +17,8 @@ hu:98:on
     mrnumber = {1639772},
     number = {1-2},
     pages = {27--40},
-    title = {On the positivity of the solution of a class of stochastic pressure equations},
+    title = {On the positivity of the solution of a class of stochastic
+   pressure equations},
     url = {https://doi.org/10.1080/17442509808834141},
     volume = {63},
     year = {1998}

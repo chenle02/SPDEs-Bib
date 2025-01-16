@@ -17,7 +17,8 @@ tracy.widom:03:system
     mrnumber = {1987098},
     mrreviewer = {Dimitri Petritis},
     pages = {93--98},
-    title = {A system of differential equations for the {A}iry process},
+    title = {A system of differential equations for the {A}iry
+   process},
     url = {https://doi.org/10.1214/ECP.v8-1074},
     volume = {8},
     year = {2003}

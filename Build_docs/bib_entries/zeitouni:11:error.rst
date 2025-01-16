@@ -16,7 +16,8 @@ zeitouni:11:error
     mrreviewer = {George\ Yin},
     pages = {561--571},
     publisher = {Oxford Univ. Press, Oxford},
-    title = {Error bounds for the nonlinear filtering of diffusion processes},
+    title = {Error bounds for the nonlinear filtering of diffusion
+   processes},
     year = {2011}
    }
 

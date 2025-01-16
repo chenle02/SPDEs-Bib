@@ -18,7 +18,8 @@ baudoin.ouyang.ea:15:varadhan
     mrreviewer = {Keisuke Hara},
     number = {2},
     pages = {634--652},
-    title = {Varadhan estimates for rough differential equations driven by fractional {B}rownian motions},
+    title = {Varadhan estimates for rough differential equations driven
+   by fractional {B}rownian motions},
     url = {https://doi.org/10.1016/j.spa.2014.09.012},
     volume = {125},
     year = {2015}

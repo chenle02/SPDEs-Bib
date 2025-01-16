@@ -18,7 +18,8 @@ dittrich:90:travelling
     mrreviewer = {Pablo A. Ferrari},
     number = {4},
     pages = {443--455},
-    title = {Travelling waves and long-time behaviour of the weakly asymmetric exclusion process},
+    title = {Travelling waves and long-time behaviour of the weakly
+   asymmetric exclusion process},
     url = {https://doi.org/10.1007/BF01198168},
     volume = {86},
     year = {1990}

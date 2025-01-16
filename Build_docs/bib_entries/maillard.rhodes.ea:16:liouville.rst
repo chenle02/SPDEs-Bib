@@ -8,9 +8,11 @@ maillard.rhodes.ea:16:liouville
 .. code-block:: bibtex
 
    @article{maillard.rhodes.ea:16:liouville,
-    author = {Maillard, P. and Rhodes, R. and Vargas, V. and Zeitouni, O.},
+    author = {Maillard, P. and Rhodes, R. and Vargas, V. and Zeitouni,
+   O.},
     doi = {10.1214/15-AIHP676},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203,1778-7017},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {35K08 (35B45 35B65 60J55 60J70 60K37)},

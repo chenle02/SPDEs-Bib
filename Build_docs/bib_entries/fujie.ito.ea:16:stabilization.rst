@@ -8,7 +8,8 @@ fujie.ito.ea:16:stabilization
 .. code-block:: bibtex
 
    @article{fujie.ito.ea:16:stabilization,
-    author = {Fujie, Kentarou and Ito, Akio and Winkler, Michael and Yokota, Tomomi},
+    author = {Fujie, Kentarou and Ito, Akio and Winkler, Michael and
+   Yokota, Tomomi},
     doi = {10.3934/dcds.2016.36.151},
     fjournal = {Discrete and Continuous Dynamical Systems. Series A},
     issn = {1078-0947},

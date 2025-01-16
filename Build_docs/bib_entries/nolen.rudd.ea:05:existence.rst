@@ -18,7 +18,9 @@ nolen.rudd.ea:05:existence
     mrreviewer = {Varga Kalantarov},
     number = {1},
     pages = {1--24},
-    title = {Existence of {KPP} fronts in spatially-temporally periodic advection and variational principle for propagation speeds},
+    title = {Existence of {KPP} fronts in spatially-temporally periodic
+   advection and variational principle for propagation
+   speeds},
     url = {https://doi.org/10.4310/DPDE.2005.v2.n1.a1},
     volume = {2},
     year = {2005}

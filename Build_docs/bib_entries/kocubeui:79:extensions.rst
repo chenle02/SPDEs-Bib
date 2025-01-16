@@ -9,7 +9,8 @@ kocubeui:79:extensions
 
    @article{kocubeui:79:extensions,
     author = {Ko\v{c}ubeu{i}, A. N.},
-    fjournal = {Akademiya Nauk Ukrainskou{i} SSR. Doklady. Seriya A. Fiziko-Matematicheskie i Tekhnicheskie Nauki},
+    fjournal = {Akademiya Nauk Ukrainskou{i} SSR. Doklady. Seriya A.
+   Fiziko-Matematicheskie i Tekhnicheskie Nauki},
     issn = {0201-8446},
     journal = {Dokl. Akad. Nauk Ukrain. SSR Ser. A},
     mrclass = {47A20 (47H06)},

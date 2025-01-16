@@ -18,7 +18,8 @@ chen:06:moderate
     mrreviewer = {S. A. Book},
     number = {3},
     pages = {721--739},
-    title = {Moderate and small deviations for the ranges of one-dimensional random walks},
+    title = {Moderate and small deviations for the ranges of
+   one-dimensional random walks},
     url = {https://doi.org/10.1007/s10959-006-0032-3},
     volume = {19},
     year = {2006}

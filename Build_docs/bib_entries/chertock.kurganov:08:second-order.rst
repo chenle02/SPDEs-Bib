@@ -17,7 +17,8 @@ chertock.kurganov:08:second-order
     mrnumber = {2456829},
     number = {2},
     pages = {169--205},
-    title = {A second-order positivity preserving central-upwind scheme for chemotaxis and haptotaxis models},
+    title = {A second-order positivity preserving central-upwind scheme
+   for chemotaxis and haptotaxis models},
     url = {https://doi.org/10.1007/s00211-008-0188-0},
     volume = {111},
     year = {2008}

@@ -18,7 +18,9 @@ sinaui.soshnikov:98:refinement
     mrreviewer = {Boris A. Khoruzhenko},
     number = {2},
     pages = {56--79, 96},
-    title = {A refinement of {W}igner's semicircle law in a neighborhood of the spectrum edge for random symmetric matrices},
+    title = {A refinement of {W}igner's semicircle law in a
+   neighborhood of the spectrum edge for random symmetric
+   matrices},
     url = {https://doi.org/10.1007/BF02482597},
     volume = {32},
     year = {1998}

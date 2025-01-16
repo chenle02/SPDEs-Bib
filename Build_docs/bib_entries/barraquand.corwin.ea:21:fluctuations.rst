@@ -8,7 +8,8 @@ barraquand.corwin.ea:21:fluctuations
 .. code-block:: bibtex
 
    @article{barraquand.corwin.ea:21:fluctuations,
-    author = {Barraquand, Guillaume and Corwin, Ivan and Dimitrov, Evgeni},
+    author = {Barraquand, Guillaume and Corwin, Ivan and Dimitrov,
+   Evgeni},
     doi = {10.1007/s00440-021-01073-1},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},
@@ -17,7 +18,8 @@ barraquand.corwin.ea:21:fluctuations
     mrnumber = {4341071},
     number = {1-3},
     pages = {113--195},
-    title = {Fluctuations of the log-gamma polymer free energy with general parameters and slopes},
+    title = {Fluctuations of the log-gamma polymer free energy with
+   general parameters and slopes},
     url = {https://doi.org/10.1007/s00440-021-01073-1},
     volume = {181},
     year = {2021}

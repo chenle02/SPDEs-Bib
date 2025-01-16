@@ -18,7 +18,8 @@ gyongy:98:existence
     mrreviewer = {Marek Capi\'{n}ski},
     number = {2},
     pages = {271--299},
-    title = {Existence and uniqueness results for semilinear stochastic partial differential equations},
+    title = {Existence and uniqueness results for semilinear stochastic
+   partial differential equations},
     url = {https://doi.org/10.1016/S0304-4149(97)00103-8},
     volume = {73},
     year = {1998}

@@ -18,7 +18,9 @@ cieslak.stinner:12:finite-time
     mrreviewer = {Jean-Fran\c{c}ois Rault},
     number = {10},
     pages = {5832--5851},
-    title = {Finite-time blowup and global-in-time unbounded solutions to a parabolic-parabolic quasilinear {K}eller-{S}egel system in higher dimensions},
+    title = {Finite-time blowup and global-in-time unbounded solutions
+   to a parabolic-parabolic quasilinear {K}eller-{S}egel
+   system in higher dimensions},
     url = {https://doi.org/10.1016/j.jde.2012.01.045},
     volume = {252},
     year = {2012}

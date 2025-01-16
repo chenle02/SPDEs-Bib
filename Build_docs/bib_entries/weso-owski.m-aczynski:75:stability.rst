@@ -9,7 +9,8 @@ weso-owski.m-aczynski:75:stability
 
    @article{weso-owski.m-aczynski:75:stability,
     author = {Weso\l owski, Zbigniew and M\polhk aczy\'{n}ski, Jacek},
-    fjournal = {Polska Akademia Nauk. Instytut Podstawowych Problem\'{o}w Techniki. Rozprawy In\.{z}ynierskie},
+    fjournal = {Polska Akademia Nauk. Instytut Podstawowych Problem\'{o}w
+   Techniki. Rozprawy In\.{z}ynierskie},
     issn = {0035-9408},
     journal = {Rozprawy In\.{z}.},
     mrclass = {73.65},

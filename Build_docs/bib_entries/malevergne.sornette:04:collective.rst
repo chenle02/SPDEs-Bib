@@ -17,7 +17,9 @@ malevergne.sornette:04:collective
     mrnumber = {2044926},
     number = {3-4},
     pages = {660--668},
-    title = {Collective origin of the coexistence of apparent random matrix theory noise and of factors in large sample correlation matrices},
+    title = {Collective origin of the coexistence of apparent random
+   matrix theory noise and of factors in large sample
+   correlation matrices},
     url = {https://doi.org/10.1016/j.physa.2003.09.004},
     volume = {331},
     year = {2004}

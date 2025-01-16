@@ -16,7 +16,8 @@ kunz.souillard:80:sur
     mrnumber = {597748},
     number = {2},
     pages = {201--246},
-    title = {Sur le spectre des op\'{e}rateurs aux diff\'{e}rences finies al\'{e}atoires},
+    title = {Sur le spectre des op\'{e}rateurs aux diff\'{e}rences
+   finies al\'{e}atoires},
     url = {http://projecteuclid.org/euclid.cmp/1103908590},
     volume = {78},
     year = {1980/81}

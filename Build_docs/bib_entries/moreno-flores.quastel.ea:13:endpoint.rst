@@ -8,7 +8,8 @@ moreno-flores.quastel.ea:13:endpoint
 .. code-block:: bibtex
 
    @article{moreno-flores.quastel.ea:13:endpoint,
-    author = {Moreno Flores, Gregorio and Quastel, Jeremy and Remenik, Daniel},
+    author = {Moreno Flores, Gregorio and Quastel, Jeremy and Remenik,
+   Daniel},
     doi = {10.1007/s00220-012-1583-z},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},
@@ -18,7 +19,8 @@ moreno-flores.quastel.ea:13:endpoint
     mrreviewer = {Dimitri Petritis},
     number = {2},
     pages = {363--380},
-    title = {Endpoint distribution of directed polymers in {$1+1$} dimensions},
+    title = {Endpoint distribution of directed polymers in {$1+1$}
+   dimensions},
     url = {https://doi.org/10.1007/s00220-012-1583-z},
     volume = {317},
     year = {2013}

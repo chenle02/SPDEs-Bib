@@ -8,7 +8,8 @@ feldheim.paquette.ea:15:regularization
 .. code-block:: bibtex
 
    @article{feldheim.paquette.ea:15:regularization,
-    author = {Feldheim, Ohad Noy and Paquette, Elliot and Zeitouni, Ofer},
+    author = {Feldheim, Ohad Noy and Paquette, Elliot and Zeitouni,
+   Ofer},
     doi = {10.1093/imrn/rnu213},
     fjournal = {International Mathematics Research Notices. IMRN},
     issn = {1073-7928,1687-0247},
@@ -18,7 +19,8 @@ feldheim.paquette.ea:15:regularization
     mrreviewer = {Sandrine\ Dallaporta},
     number = {18},
     pages = {8724--8751},
-    title = {Regularization of non-normal matrices by {G}aussian noise},
+    title = {Regularization of non-normal matrices by {G}aussian
+   noise},
     url = {https://doi.org/10.1093/imrn/rnu213},
     year = {2015}
    }

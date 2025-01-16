@@ -18,7 +18,8 @@ comets.cranston:13:overlaps
     mrreviewer = {Carles Rovira},
     number = {6},
     pages = {2446--2471},
-    title = {Overlaps and pathwise localization in the {A}nderson polymer model},
+    title = {Overlaps and pathwise localization in the {A}nderson
+   polymer model},
     url = {https://doi.org/10.1016/j.spa.2013.02.010},
     volume = {123},
     year = {2013}

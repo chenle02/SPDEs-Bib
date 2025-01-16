@@ -15,7 +15,8 @@ stein:70:singular
     pages = {xiv+290},
     publisher = {Princeton University Press, Princeton, N.J.},
     series = {Princeton Mathematical Series, No. 30},
-    title = {Singular integrals and differentiability properties of functions},
+    title = {Singular integrals and differentiability properties of
+   functions},
     year = {1970}
    }
 

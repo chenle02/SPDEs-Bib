@@ -17,8 +17,10 @@ dupuis.ellis:97:weak
     note = {A Wiley-Interscience Publication},
     pages = {xviii+479},
     publisher = {John Wiley \& Sons, Inc., New York},
-    series = {Wiley Series in Probability and Statistics: Probability and Statistics},
-    title = {A weak convergence approach to the theory of large deviations},
+    series = {Wiley Series in Probability and Statistics: Probability
+   and Statistics},
+    title = {A weak convergence approach to the theory of large
+   deviations},
     url = {https://doi.org/10.1002/9781118165904},
     year = {1997}
    }

@@ -17,7 +17,8 @@ bourgain.rudnick.ea:17:spatial
     mrreviewer = {Su\ Hu},
     number = {4},
     pages = {361--386},
-    title = {Spatial statistics for lattice points on the sphere {I}: {I}ndividual results},
+    title = {Spatial statistics for lattice points on the sphere {I}:
+   {I}ndividual results},
     volume = {43},
     year = {2017}
    }

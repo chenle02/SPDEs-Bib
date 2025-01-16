@@ -18,7 +18,8 @@ sritharan.sundar:06:large
     mrreviewer = {Marek Capi\'{n}ski},
     number = {11},
     pages = {1636--1659},
-    title = {Large deviations for the two-dimensional {N}avier-{S}tokes equations with multiplicative noise},
+    title = {Large deviations for the two-dimensional {N}avier-{S}tokes
+   equations with multiplicative noise},
     url = {https://doi.org/10.1016/j.spa.2006.04.001},
     volume = {116},
     year = {2006}

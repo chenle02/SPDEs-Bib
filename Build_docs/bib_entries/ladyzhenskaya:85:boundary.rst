@@ -14,7 +14,8 @@ ladyzhenskaya:85:boundary
     mrclass = {35-01},
     mrnumber = {793735},
     mrreviewer = {Robert D. Brown},
-    note = {Translated from the Russian by Jack Lohwater [Arthur J. Lohwater]},
+    note = {Translated from the Russian by Jack Lohwater [Arthur J.
+   Lohwater]},
     pages = {xxx+322},
     publisher = {Springer-Verlag, New York},
     series = {Applied Mathematical Sciences},

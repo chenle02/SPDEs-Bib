@@ -16,7 +16,8 @@ nourdin.zeineddine:14:ito-type
     mrnumber = {3305825},
     mrreviewer = {Peter Parczewski},
     pages = {No. 99, 15},
-    title = {An {I}t\^{o}-type formula for the fractional {B}rownian motion in {B}rownian time},
+    title = {An {I}t\^{o}-type formula for the fractional {B}rownian
+   motion in {B}rownian time},
     url = {https://doi.org/10.1214/EJP.v19-3184},
     volume = {19},
     year = {2014}

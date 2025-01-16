@@ -18,7 +18,9 @@ wang:08:existence
     mrreviewer = {Anna Karczewska},
     number = {9},
     pages = {1062--1071},
-    title = {Existence and uniqueness of solutions to stochastic {V}olterra equations with singular kernels and non-{L}ipschitz coefficients},
+    title = {Existence and uniqueness of solutions to stochastic
+   {V}olterra equations with singular kernels and
+   non-{L}ipschitz coefficients},
     url = {https://doi.org/10.1016/j.spl.2007.10.007},
     volume = {78},
     year = {2008}

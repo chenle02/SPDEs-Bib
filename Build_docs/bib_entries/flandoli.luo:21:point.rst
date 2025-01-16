@@ -17,7 +17,8 @@ flandoli.luo:21:point
     mrnumber = {4144298},
     number = {2},
     pages = {Paper No. 124560, 21},
-    title = {Point vortex approximation for 2{D} {N}avier-{S}tokes equations driven by space-time white noise},
+    title = {Point vortex approximation for 2{D} {N}avier-{S}tokes
+   equations driven by space-time white noise},
     url = {https://doi.org/10.1016/j.jmaa.2020.124560},
     volume = {493},
     year = {2021}

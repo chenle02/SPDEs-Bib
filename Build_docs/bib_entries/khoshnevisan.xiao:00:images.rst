@@ -9,7 +9,8 @@ khoshnevisan.xiao:00:images
 
    @incollection{khoshnevisan.xiao:00:images,
     author = {Khoshnevisan, Davar and Xiao, Yimin},
-    booktitle = {High dimensional probability, {II} ({S}eattle, {WA}, 1999)},
+    booktitle = {High dimensional probability, {II} ({S}eattle, {WA},
+   1999)},
     mrclass = {60G50 (60G60 60J45)},
     mrnumber = {1857331},
     mrreviewer = {D. Butkovi\'{c}},

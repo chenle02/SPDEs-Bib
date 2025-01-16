@@ -8,7 +8,8 @@ cannizzaro.erhard.ea:21:2d
 .. code-block:: bibtex
 
    @article{cannizzaro.erhard.ea:21:2d,
-    author = {Cannizzaro, Giuseppe and Erhard, Dirk and Sch\"{o}nbauer, Philipp},
+    author = {Cannizzaro, Giuseppe and Erhard, Dirk and Sch\"{o}nbauer,
+   Philipp},
     doi = {10.1214/20-AOP1446},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ cannizzaro.erhard.ea:21:2d
     mrreviewer = {Jan I. Seidler},
     number = {1},
     pages = {122--156},
-    title = {2{D} anisotropic {KPZ} at stationarity: scaling, tightness and nontriviality},
+    title = {2{D} anisotropic {KPZ} at stationarity: scaling, tightness
+   and nontriviality},
     url = {https://doi.org/10.1214/20-AOP1446},
     volume = {49},
     year = {2021}

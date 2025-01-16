@@ -17,7 +17,8 @@ derrida:95:exponents
     mrnumber = {1338042},
     number = {6},
     pages = {1481--1491},
-    title = {Exponents appearing in the zero-temperature dynamics of the {$1$}D {P}otts model},
+    title = {Exponents appearing in the zero-temperature dynamics of
+   the {$1$}D {P}otts model},
     url = {https://doi.org/10.1088/0305-4470/28/6/006},
     volume = {28},
     year = {1995}

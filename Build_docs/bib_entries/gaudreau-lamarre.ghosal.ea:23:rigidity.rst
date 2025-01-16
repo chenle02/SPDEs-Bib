@@ -8,7 +8,8 @@ gaudreau-lamarre.ghosal.ea:23:rigidity
 .. code-block:: bibtex
 
    @article{gaudreau-lamarre.ghosal.ea:23:rigidity,
-    author = {Gaudreau Lamarre, Pierre Yves and Ghosal, Promit and Li, Wenxuan and Liao, Yuchen},
+    author = {Gaudreau Lamarre, Pierre Yves and Ghosal, Promit and Li,
+   Wenxuan and Liao, Yuchen},
     doi = {10.1093/imrn/rnac265},
     fjournal = {International Mathematics Research Notices. IMRN},
     issn = {1073-7928},

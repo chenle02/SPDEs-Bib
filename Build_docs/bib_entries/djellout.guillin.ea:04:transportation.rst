@@ -18,7 +18,8 @@ djellout.guillin.ea:04:transportation
     mrreviewer = {Wolfgang K\"{o}nig},
     number = {3B},
     pages = {2702--2732},
-    title = {Transportation cost-information inequalities and applications to random dynamical systems and diffusions},
+    title = {Transportation cost-information inequalities and
+   applications to random dynamical systems and diffusions},
     url = {https://doi.org/10.1214/009117904000000531},
     volume = {32},
     year = {2004}

@@ -17,7 +17,8 @@ he.zheng:16:convergence
     mrnumber = {3446989},
     number = {2},
     pages = {970--982},
-    title = {Convergence rate estimates of solutions in a higher dimensional chemotaxis system with logistic source},
+    title = {Convergence rate estimates of solutions in a higher
+   dimensional chemotaxis system with logistic source},
     url = {https://doi.org/10.1016/j.jmaa.2015.12.058},
     volume = {436},
     year = {2016}

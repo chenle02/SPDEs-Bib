@@ -18,7 +18,8 @@ tello:04:mathematical
     mrreviewer = {Dirk Horstmann},
     number = {16},
     pages = {1865--1880},
-    title = {Mathematical analysis and stability of a chemotaxis model with logistic term},
+    title = {Mathematical analysis and stability of a chemotaxis model
+   with logistic term},
     url = {https://doi.org/10.1002/mma.528},
     volume = {27},
     year = {2004}

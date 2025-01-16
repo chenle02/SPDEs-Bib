@@ -18,7 +18,8 @@ guo.hu.ea:19:higher-order
     mrreviewer = {Tam\'{a}s Szabados},
     number = {3},
     pages = {1190--1201},
-    title = {Higher-order derivative of intersection local time for two independent fractional {B}rownian motions},
+    title = {Higher-order derivative of intersection local time for two
+   independent fractional {B}rownian motions},
     url = {https://doi.org/10.1007/s10959-017-0800-2},
     volume = {32},
     year = {2019}

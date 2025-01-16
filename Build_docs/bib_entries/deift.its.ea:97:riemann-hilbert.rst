@@ -18,7 +18,9 @@ deift.its.ea:97:riemann-hilbert
     mrreviewer = {John\ N.\ Palmer},
     number = {1},
     pages = {149--235},
-    title = {A {R}iemann-{H}ilbert approach to asymptotic problems arising in the theory of random matrix models, and also in the theory of integrable statistical mechanics},
+    title = {A {R}iemann-{H}ilbert approach to asymptotic problems
+   arising in the theory of random matrix models, and also in
+   the theory of integrable statistical mechanics},
     url = {https://doi.org/10.2307/2951834},
     volume = {146},
     year = {1997}

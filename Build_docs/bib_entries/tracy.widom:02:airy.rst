@@ -9,7 +9,8 @@ tracy.widom:02:airy
 
    @incollection{tracy.widom:02:airy,
     author = {Tracy, Craig A. and Widom, Harold},
-    booktitle = {Isomonodromic deformations and applications in physics ({M}ontr\'{e}al, {QC}, 2000)},
+    booktitle = {Isomonodromic deformations and applications in physics
+   ({M}ontr\'{e}al, {QC}, 2000)},
     doi = {10.1090/crmp/031/07},
     mrclass = {82B41 (15A52 33E17 34M55 60K35 82-02)},
     mrnumber = {1887350},

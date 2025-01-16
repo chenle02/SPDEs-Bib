@@ -18,7 +18,9 @@ chen:07:moderate
     mrreviewer = {Firas Rassoul-Agha},
     number = {3},
     pages = {954--1006},
-    title = {Moderate deviations and laws of the iterated logarithm for the local times of additive {L}\'{e}vy processes and additive random walks},
+    title = {Moderate deviations and laws of the iterated logarithm for
+   the local times of additive {L}\'{e}vy processes and
+   additive random walks},
     url = {https://doi.org/10.1214/009117906000000520},
     volume = {35},
     year = {2007}

@@ -9,7 +9,8 @@ darling:92:isotropic
 
    @incollection{darling:92:isotropic,
     author = {Darling, R. W. R.},
-    booktitle = {Diffusion processes and related problems in analysis, {V}ol. {II} ({C}harlotte, {NC}, 1990)},
+    booktitle = {Diffusion processes and related problems in analysis,
+   {V}ol. {II} ({C}harlotte, {NC}, 1990)},
     mrclass = {60H10 (60G60)},
     mrnumber = {1187986},
     pages = {75--94},

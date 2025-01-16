@@ -18,7 +18,8 @@ bourgain:96:on
     mrreviewer = {C.\ Eugene\ Wayne},
     number = {6},
     pages = {277--304},
-    title = {On the growth in time of higher {S}obolev norms of smooth solutions of {H}amiltonian {PDE}},
+    title = {On the growth in time of higher {S}obolev norms of smooth
+   solutions of {H}amiltonian {PDE}},
     url = {https://doi.org/10.1155/S1073792896000207},
     year = {1996}
    }

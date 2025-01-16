@@ -17,7 +17,8 @@ ethier.kurtz:86:markov
     note = {Characterization and convergence},
     pages = {x+534},
     publisher = {John Wiley \& Sons, Inc., New York},
-    series = {Wiley Series in Probability and Mathematical Statistics: Probability and Mathematical Statistics},
+    series = {Wiley Series in Probability and Mathematical Statistics:
+   Probability and Mathematical Statistics},
     title = {Markov processes},
     url = {https://doi.org/10.1002/9780470316658},
     year = {1986}

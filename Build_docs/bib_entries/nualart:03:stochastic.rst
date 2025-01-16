@@ -17,7 +17,8 @@ nualart:03:stochastic
     pages = {3--39},
     publisher = {Amer. Math. Soc., Providence, RI},
     series = {Contemp. Math.},
-    title = {Stochastic integration with respect to fractional {B}rownian motion and applications},
+    title = {Stochastic integration with respect to fractional
+   {B}rownian motion and applications},
     url = {https://doi.org/10.1090/conm/336/06025},
     volume = {336},
     year = {2003}

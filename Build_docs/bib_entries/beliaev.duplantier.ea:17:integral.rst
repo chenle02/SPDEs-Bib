@@ -8,7 +8,8 @@ beliaev.duplantier.ea:17:integral
 .. code-block:: bibtex
 
    @article{beliaev.duplantier.ea:17:integral,
-    author = {Beliaev, Dmitry and Duplantier, Bertrand and Zinsmeister, Michel},
+    author = {Beliaev, Dmitry and Duplantier, Bertrand and Zinsmeister,
+   Michel},
     doi = {10.1007/s00220-017-2868-z},
     fjournal = {Communications in Mathematical Physics},
     issn = {0010-3616},

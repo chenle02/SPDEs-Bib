@@ -17,7 +17,8 @@ nourdin.poly:15:invariance
     mrnumber = {3322861},
     number = {6},
     pages = {2190--2205},
-    title = {An invariance principle under the total variation distance},
+    title = {An invariance principle under the total variation
+   distance},
     url = {https://doi.org/10.1016/j.spa.2014.12.010},
     volume = {125},
     year = {2015}

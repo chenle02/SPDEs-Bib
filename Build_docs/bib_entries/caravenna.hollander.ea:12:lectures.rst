@@ -8,8 +8,10 @@ caravenna.hollander.ea:12:lectures
 .. code-block:: bibtex
 
    @incollection{caravenna.hollander.ea:12:lectures,
-    author = {Caravenna, Francesco and den Hollander, Frank and P\'{e}tr\'{e}lis, Nicolas},
-    booktitle = {Probability and statistical physics in two and more dimensions},
+    author = {Caravenna, Francesco and den Hollander, Frank and
+   P\'{e}tr\'{e}lis, Nicolas},
+    booktitle = {Probability and statistical physics in two and more
+   dimensions},
     mrclass = {60K37 (60F10 82B26 82D60 92D20)},
     mrnumber = {3025394},
     mrreviewer = {Stavros Vakeroudis},

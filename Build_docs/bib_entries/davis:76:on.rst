@@ -17,7 +17,8 @@ davis:76:on
     mrreviewer = {Maurizio Pratelli},
     number = {4},
     pages = {697--704},
-    title = {On the {$L^{p}$} norms of stochastic integrals and other martingales},
+    title = {On the {$L^{p}$} norms of stochastic integrals and other
+   martingales},
     url = {http://projecteuclid.org/euclid.dmj/1077311944},
     volume = {43},
     year = {1976}

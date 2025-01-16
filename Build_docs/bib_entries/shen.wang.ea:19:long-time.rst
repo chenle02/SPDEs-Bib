@@ -18,7 +18,8 @@ shen.wang.ea:19:long-time
     mrreviewer = {Christian\ Stinner},
     number = {2-3},
     pages = {1377--1413},
-    title = {Long-time behavior of almost periodically forced parabolic equations on the circle},
+    title = {Long-time behavior of almost periodically forced parabolic
+   equations on the circle},
     url = {https://doi.org/10.1016/j.jde.2018.07.073},
     volume = {266},
     year = {2019}

@@ -14,7 +14,10 @@ shi:15:branching
     mrclass = {60J80 (60G50 60J85)},
     mrnumber = {3444654},
     mrreviewer = {Gerold Alsmeyer},
-    note = {Lecture notes from the 42nd Probability Summer School held in Saint Flour, 2012, \'{E}cole d'\'{E}t\'{e} de Probabilit\'{e}s de Saint-Flour. [Saint-Flour Probability Summer School]},
+    note = {Lecture notes from the 42nd Probability Summer School held
+   in Saint Flour, 2012, \'{E}cole d'\'{E}t\'{e} de
+   Probabilit\'{e}s de Saint-Flour. [Saint-Flour Probability
+   Summer School]},
     pages = {x+133},
     publisher = {Springer, Cham},
     series = {Lecture Notes in Mathematics},

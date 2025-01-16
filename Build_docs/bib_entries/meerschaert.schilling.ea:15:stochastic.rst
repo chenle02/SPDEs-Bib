@@ -8,9 +8,11 @@ meerschaert.schilling.ea:15:stochastic
 .. code-block:: bibtex
 
    @article{meerschaert.schilling.ea:15:stochastic,
-    author = {Meerschaert, Mark M. and Schilling, Ren\'{e} L. and Sikorskii, Alla},
+    author = {Meerschaert, Mark M. and Schilling, Ren\'{e} L. and
+   Sikorskii, Alla},
     doi = {10.1007/s11071-014-1299-z},
-    fjournal = {Nonlinear Dynamics. An International Journal of Nonlinear Dynamics and Chaos in Engineering Systems},
+    fjournal = {Nonlinear Dynamics. An International Journal of Nonlinear
+   Dynamics and Chaos in Engineering Systems},
     issn = {0924-090X},
     journal = {Nonlinear Dynam.},
     mrclass = {35R11 (35C05 82C41)},

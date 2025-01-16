@@ -8,7 +8,8 @@ angulo.anh.ea:05:fractional
 .. code-block:: bibtex
 
    @article{angulo.anh.ea:05:fractional,
-    author = {Angulo, J. M. and Anh, V. V. and McVinish, R. and Ruiz-Medina, M. D.},
+    author = {Angulo, J. M. and Anh, V. V. and McVinish, R. and
+   Ruiz-Medina, M. D.},
     doi = {10.1239/aap/1118858630},
     fjournal = {Advances in Applied Probability},
     issn = {0001-8678},
@@ -18,7 +19,8 @@ angulo.anh.ea:05:fractional
     mrreviewer = {Isamu D\^{o}ku},
     number = {2},
     pages = {366--392},
-    title = {Fractional kinetic equations driven by {G}aussian or infinitely divisible noise},
+    title = {Fractional kinetic equations driven by {G}aussian or
+   infinitely divisible noise},
     url = {https://doi.org/10.1239/aap/1118858630},
     volume = {37},
     year = {2005}

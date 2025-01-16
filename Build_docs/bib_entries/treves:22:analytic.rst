@@ -15,7 +15,8 @@ treves:22:analytic
     mrnumber = {4436039},
     pages = {xiii+1228},
     publisher = {Springer, Cham},
-    series = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+    series = {Grundlehren der mathematischen Wissenschaften [Fundamental
+   Principles of Mathematical Sciences]},
     title = {Analytic partial differential equations},
     url = {https://doi.org/10.1007/978-3-030-94055-3},
     volume = {359},

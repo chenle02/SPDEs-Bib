@@ -18,7 +18,8 @@ bourgain.lindenstrauss:88:distribution
     mrreviewer = {T.\ Figiel},
     number = {1},
     pages = {25--31},
-    title = {Distribution of points on spheres and approximation by zonotopes},
+    title = {Distribution of points on spheres and approximation by
+   zonotopes},
     url = {https://doi.org/10.1007/BF02767366},
     volume = {64},
     year = {1988}

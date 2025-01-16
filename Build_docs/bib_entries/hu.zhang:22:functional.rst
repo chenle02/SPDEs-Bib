@@ -18,7 +18,8 @@ hu.zhang:22:functional
     mrreviewer = {Paulo\ E.\ Oliveira},
     number = {4},
     pages = {1101--1120},
-    title = {Functional central limit theorems for stick-breaking priors},
+    title = {Functional central limit theorems for stick-breaking
+   priors},
     url = {https://doi.org/10.1214/21-ba1290},
     volume = {17},
     year = {2022}

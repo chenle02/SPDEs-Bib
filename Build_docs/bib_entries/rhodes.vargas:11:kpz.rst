@@ -17,7 +17,8 @@ rhodes.vargas:11:kpz
     mrnumber = {2870520},
     mrreviewer = {Makoto Yamazato},
     pages = {358--371},
-    title = {K{PZ} formula for log-infinitely divisible multifractal random measures},
+    title = {K{PZ} formula for log-infinitely divisible multifractal
+   random measures},
     url = {https://doi.org/10.1051/ps/2010007},
     volume = {15},
     year = {2011}

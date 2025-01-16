@@ -17,7 +17,8 @@ billingsley:99:convergence
     note = {A Wiley-Interscience Publication},
     pages = {x+277},
     publisher = {John Wiley \& Sons, Inc., New York},
-    series = {Wiley Series in Probability and Statistics: Probability and Statistics},
+    series = {Wiley Series in Probability and Statistics: Probability
+   and Statistics},
     title = {Convergence of probability measures},
     url = {https://doi.org/10.1002/9780470316962},
     year = {1999}

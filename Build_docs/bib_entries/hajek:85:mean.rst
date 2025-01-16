@@ -10,7 +10,8 @@ hajek:85:mean
    @article{hajek:85:mean,
     author = {Hajek, Bruce},
     doi = {10.1007/BF00532643},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60H10 (60J60)},

@@ -18,7 +18,8 @@ lei.nualart:09:decomposition
     mrreviewer = {N. Leonenko},
     number = {5},
     pages = {619--624},
-    title = {A decomposition of the bifractional {B}rownian motion and some applications},
+    title = {A decomposition of the bifractional {B}rownian motion and
+   some applications},
     url = {https://doi.org/10.1016/j.spl.2008.10.009},
     volume = {79},
     year = {2009}

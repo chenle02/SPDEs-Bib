@@ -9,7 +9,8 @@ seidler:93:da
 
    @article{seidler:93:da,
     author = {Seidler, Jan},
-    fjournal = {Academy of Sciences of the Czech Republic. Mathematical Institute. Mathematica Bohemica},
+    fjournal = {Academy of Sciences of the Czech Republic. Mathematical
+   Institute. Mathematica Bohemica},
     issn = {0862-7959},
     journal = {Math. Bohem.},
     mrclass = {60H15 (35R60)},

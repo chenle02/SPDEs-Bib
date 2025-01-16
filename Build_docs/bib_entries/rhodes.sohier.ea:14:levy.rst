@@ -18,7 +18,8 @@ rhodes.sohier.ea:14:levy
     mrreviewer = {Narn-Rueih Shieh},
     number = {2},
     pages = {689--724},
-    title = {Levy multiplicative chaos and star scale invariant random measures},
+    title = {Levy multiplicative chaos and star scale invariant random
+   measures},
     url = {https://doi.org/10.1214/12-AOP810},
     volume = {42},
     year = {2014}

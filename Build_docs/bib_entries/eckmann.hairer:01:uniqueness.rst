@@ -18,7 +18,8 @@ eckmann.hairer:01:uniqueness
     mrreviewer = {Bohdan Maslowski},
     number = {3},
     pages = {523--565},
-    title = {Uniqueness of the invariant measure for a stochastic {PDE} driven by degenerate noise},
+    title = {Uniqueness of the invariant measure for a stochastic {PDE}
+   driven by degenerate noise},
     url = {https://doi.org/10.1007/s002200100424},
     volume = {219},
     year = {2001}

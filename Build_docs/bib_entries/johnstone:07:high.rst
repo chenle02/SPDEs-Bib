@@ -16,7 +16,8 @@ johnstone:07:high
     mrreviewer = {Peter Eichelsbacher},
     pages = {307--333},
     publisher = {Eur. Math. Soc., Z\"{u}rich},
-    title = {High dimensional statistical inference and random matrices},
+    title = {High dimensional statistical inference and random
+   matrices},
     url = {https://doi.org/10.4171/022-1/13},
     year = {2007}
    }

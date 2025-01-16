@@ -8,7 +8,8 @@ ferreira.groisman.ea:03:adaptive
 .. code-block:: bibtex
 
    @article{ferreira.groisman.ea:03:adaptive,
-    author = {Ferreira, Ra\'{u}l and Groisman, Pablo and Rossi, Julio D.},
+    author = {Ferreira, Ra\'{u}l and Groisman, Pablo and Rossi, Julio
+   D.},
     doi = {10.1093/imanum/23.3.439},
     fjournal = {IMA Journal of Numerical Analysis},
     issn = {0272-4979},
@@ -17,7 +18,8 @@ ferreira.groisman.ea:03:adaptive
     mrnumber = {1987939},
     number = {3},
     pages = {439--463},
-    title = {Adaptive numerical schemes for a parabolic problem with blow-up},
+    title = {Adaptive numerical schemes for a parabolic problem with
+   blow-up},
     url = {https://doi.org/10.1093/imanum/23.3.439},
     volume = {23},
     year = {2003}

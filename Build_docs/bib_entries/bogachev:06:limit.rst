@@ -18,7 +18,8 @@ bogachev:06:limit
     mrreviewer = {Peter Kern},
     number = {4},
     pages = {849--873},
-    title = {Limit laws for norms of {IID} samples with {W}eibull tails},
+    title = {Limit laws for norms of {IID} samples with {W}eibull
+   tails},
     url = {https://doi.org/10.1007/s10959-006-0036-z},
     volume = {19},
     year = {2006}

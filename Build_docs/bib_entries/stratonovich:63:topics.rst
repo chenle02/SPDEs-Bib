@@ -16,7 +16,9 @@ stratonovich:63:topics
     note = {Translated from the Russian by Richard A. Silverman},
     pages = {xiii+292},
     publisher = {Gordon and Breach Science Publishers, New York-London},
-    title = {Topics in the theory of random noise. {V}ol. {I}: {G}eneral theory of random processes. {N}onlinear transformations of signals and noise},
+    title = {Topics in the theory of random noise. {V}ol. {I}:
+   {G}eneral theory of random processes. {N}onlinear
+   transformations of signals and noise},
     year = {1963}
    }
 

@@ -18,7 +18,8 @@ bouard.debussche:05:blow-up
     mrreviewer = {Pedro Mar\'{i}n Rubio},
     number = {3},
     pages = {1078--1110},
-    title = {Blow-up for the stochastic nonlinear {S}chr\"{o}dinger equation with multiplicative noise},
+    title = {Blow-up for the stochastic nonlinear {S}chr\"{o}dinger
+   equation with multiplicative noise},
     url = {https://doi.org/10.1214/009117904000000964},
     volume = {33},
     year = {2005}

@@ -8,8 +8,10 @@ georgiou.kumar.ea:10:tasep
 .. code-block:: bibtex
 
    @article{georgiou.kumar.ea:10:tasep,
-    author = {Georgiou, Nicos and Kumar, Rohini and Sepp\"{a}l\"{a}inen, Timo},
-    fjournal = {ALEA. Latin American Journal of Probability and Mathematical Statistics},
+    author = {Georgiou, Nicos and Kumar, Rohini and Sepp\"{a}l\"{a}inen,
+   Timo},
+    fjournal = {ALEA. Latin American Journal of Probability and
+   Mathematical Statistics},
     journal = {ALEA Lat. Am. J. Probab. Math. Stat.},
     mrclass = {60K35},
     mrnumber = {2732897},

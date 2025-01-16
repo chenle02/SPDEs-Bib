@@ -17,7 +17,8 @@ ferrante.sanz-sole:06:spdes
     mrnumber = {2263072},
     mrreviewer = {Jan I. Seidler},
     pages = {380--405},
-    title = {S{PDE}s with coloured noise: analytic and stochastic approaches},
+    title = {S{PDE}s with coloured noise: analytic and stochastic
+   approaches},
     url = {https://doi.org/10.1051/ps:2006016},
     volume = {10},
     year = {2006}

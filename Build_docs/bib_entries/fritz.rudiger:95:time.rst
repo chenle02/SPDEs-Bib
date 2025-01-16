@@ -18,7 +18,8 @@ fritz.rudiger:95:time
     mrreviewer = {Ellen Saada},
     number = {3},
     pages = {381--407},
-    title = {Time dependent critical fluctuations of a one-dimensional local mean field model},
+    title = {Time dependent critical fluctuations of a one-dimensional
+   local mean field model},
     url = {https://doi.org/10.1007/BF01195480},
     volume = {103},
     year = {1995}

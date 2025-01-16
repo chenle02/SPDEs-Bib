@@ -18,7 +18,8 @@ quer-sardanyons.tindel:07:1-d
     mrreviewer = {No\`elia Viles},
     number = {10},
     pages = {1448--1472},
-    title = {The 1-d stochastic wave equation driven by a fractional {B}rownian sheet},
+    title = {The 1-d stochastic wave equation driven by a fractional
+   {B}rownian sheet},
     url = {https://doi.org/10.1016/j.spa.2007.01.009},
     volume = {117},
     year = {2007}

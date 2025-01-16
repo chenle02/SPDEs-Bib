@@ -18,7 +18,9 @@ deift.its.ea:11:asymptotics
     mrreviewer = {A.\ B\"ottcher},
     number = {2},
     pages = {1243--1299},
-    title = {Asymptotics of {T}oeplitz, {H}ankel, and {T}oeplitz+{H}ankel determinants with {F}isher-{H}artwig singularities},
+    title = {Asymptotics of {T}oeplitz, {H}ankel, and
+   {T}oeplitz+{H}ankel determinants with {F}isher-{H}artwig
+   singularities},
     url = {https://doi.org/10.4007/annals.2011.174.2.12},
     volume = {174},
     year = {2011}

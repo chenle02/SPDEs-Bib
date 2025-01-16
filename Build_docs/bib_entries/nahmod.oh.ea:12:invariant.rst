@@ -8,7 +8,8 @@ nahmod.oh.ea:12:invariant
 .. code-block:: bibtex
 
    @article{nahmod.oh.ea:12:invariant,
-    author = {Nahmod, Andrea R. and Oh, Tadahiro and Rey-Bellet, Luc and Staffilani, Gigliola},
+    author = {Nahmod, Andrea R. and Oh, Tadahiro and Rey-Bellet, Luc and
+   Staffilani, Gigliola},
     doi = {10.4171/JEMS/333},
     fjournal = {Journal of the European Mathematical Society (JEMS)},
     issn = {1435-9855},
@@ -17,7 +18,8 @@ nahmod.oh.ea:12:invariant
     mrnumber = {2928851},
     number = {4},
     pages = {1275--1330},
-    title = {Invariant weighted {W}iener measures and almost sure global well-posedness for the periodic derivative {NLS}},
+    title = {Invariant weighted {W}iener measures and almost sure
+   global well-posedness for the periodic derivative {NLS}},
     url = {https://doi.org/10.4171/JEMS/333},
     volume = {14},
     year = {2012}

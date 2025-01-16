@@ -8,16 +8,19 @@ luchko.mainardi.ea:13:propagation
 .. code-block:: bibtex
 
    @article{luchko.mainardi.ea:13:propagation,
-    author = {Luchko, Yuri and Mainardi, Francesco and Povstenko, Yuriy},
+    author = {Luchko, Yuri and Mainardi, Francesco and Povstenko,
+   Yuriy},
     doi = {10.1016/j.camwa.2013.01.005},
-    fjournal = {Computers \& Mathematics with Applications. An International Journal},
+    fjournal = {Computers \& Mathematics with Applications. An
+   International Journal},
     issn = {0898-1221},
     journal = {Comput. Math. Appl.},
     mrclass = {35R11 (26A33 35A08)},
     mrnumber = {3089385},
     number = {5},
     pages = {774--784},
-    title = {Propagation speed of the maximum of the fundamental solution to the fractional diffusion-wave equation},
+    title = {Propagation speed of the maximum of the fundamental
+   solution to the fractional diffusion-wave equation},
     url = {https://doi.org/10.1016/j.camwa.2013.01.005},
     volume = {66},
     year = {2013}

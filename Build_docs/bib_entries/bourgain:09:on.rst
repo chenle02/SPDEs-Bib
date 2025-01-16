@@ -17,7 +17,8 @@ bourgain:09:on
     mrnumber = {2534239},
     mrreviewer = {Sergeu{i}\ V.\ Konyagin},
     pages = {61--74},
-    title = {On the distribution of the residues of small multiplicative subgroups of {$\Bbb F_p$}},
+    title = {On the distribution of the residues of small
+   multiplicative subgroups of {$\Bbb F_p$}},
     url = {https://doi.org/10.1007/s11856-009-0063-4},
     volume = {172},
     year = {2009}

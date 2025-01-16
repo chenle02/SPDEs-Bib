@@ -17,7 +17,8 @@ nualart:92:randomized
     mrreviewer = {Robert C. Dalang},
     number = {2},
     pages = {883--900},
-    title = {Randomized stopping points and optimal stopping on the plane},
+    title = {Randomized stopping points and optimal stopping on the
+   plane},
     url = {http://links.jstor.org/sici?sici=0091-1798(199204)20:2<883:RSPAOS>2.0.CO;2-7&origin=MSN},
     volume = {20},
     year = {1992}

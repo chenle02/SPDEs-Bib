@@ -17,7 +17,9 @@ cao.wang.ea:16:asymptotic
     mrnumber = {3440100},
     number = {1},
     pages = {382--392},
-    title = {Asymptotic behavior of solutions to two-dimensional chemotaxis system with logistic source and singular sensitivity},
+    title = {Asymptotic behavior of solutions to two-dimensional
+   chemotaxis system with logistic source and singular
+   sensitivity},
     url = {https://doi.org/10.1016/j.jmaa.2015.11.058},
     volume = {436},
     year = {2016}

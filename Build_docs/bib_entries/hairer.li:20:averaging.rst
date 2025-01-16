@@ -18,7 +18,8 @@ hairer.li:20:averaging
     mrreviewer = {Mireia Besal\'{u}},
     number = {4},
     pages = {1826--1860},
-    title = {Averaging dynamics driven by fractional {B}rownian motion},
+    title = {Averaging dynamics driven by fractional {B}rownian
+   motion},
     url = {https://doi.org/10.1214/19-AOP1408},
     volume = {48},
     year = {2020}

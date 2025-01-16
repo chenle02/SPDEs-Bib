@@ -18,7 +18,8 @@ cerrai.lunardi:19:schauder
     mrreviewer = {Matthew A. Fury},
     number = {12},
     pages = {7462--7482},
-    title = {Schauder theorems for {O}rnstein-{U}hlenbeck equations in infinite dimension},
+    title = {Schauder theorems for {O}rnstein-{U}hlenbeck equations in
+   infinite dimension},
     url = {https://doi.org/10.1016/j.jde.2019.08.005},
     volume = {267},
     year = {2019}

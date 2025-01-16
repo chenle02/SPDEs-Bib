@@ -18,7 +18,8 @@ chong.kluppelberg:18:contagion
     mrreviewer = {Piotr\ Jaworski},
     number = {1},
     pages = {28--53},
-    title = {Contagion in financial systems: a {B}ayesian network approach},
+    title = {Contagion in financial systems: a {B}ayesian network
+   approach},
     url = {https://doi.org/10.1137/17M1116659},
     volume = {9},
     year = {2018}

@@ -18,7 +18,9 @@ cerrai.freidlin.ea:17:on
     mrreviewer = {Chiranjib Mukherjee},
     number = {1},
     pages = {33--76},
-    title = {On the {S}moluchowski-{K}ramers approximation for {SPDE}s and its interplay with large deviations and long time behavior},
+    title = {On the {S}moluchowski-{K}ramers approximation for {SPDE}s
+   and its interplay with large deviations and long time
+   behavior},
     url = {https://doi.org/10.3934/dcds.2017003},
     volume = {37},
     year = {2017}

@@ -8,7 +8,8 @@ chen.huang.ea:19:dense
 .. code-block:: bibtex
 
    @article{chen.huang.ea:19:dense,
-    author = {Chen, Le and Huang, Jingyu and Khoshnevisan, Davar and Kim, Kunwoo},
+    author = {Chen, Le and Huang, Jingyu and Khoshnevisan, Davar and
+   Kim, Kunwoo},
     doi = {10.1214/19-ejp372},
     fjournal = {Electronic Journal of Probability},
     journal = {Electron. J. Probab.},

@@ -8,7 +8,8 @@ chen.deya.ea:21:moment
 .. code-block:: bibtex
 
    @article{chen.deya.ea:21:moment,
-    author = {Chen, Xia and Deya, Aur\'{e}lien and Ouyang, Cheng and Tindel, Samy},
+    author = {Chen, Xia and Deya, Aur\'{e}lien and Ouyang, Cheng and
+   Tindel, Samy},
     doi = {10.1214/21-aop1517},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ chen.deya.ea:21:moment
     mrreviewer = {Adam Matthew Bowditch},
     number = {5},
     pages = {2599--2636},
-    title = {Moment estimates for some renormalized parabolic {A}nderson models},
+    title = {Moment estimates for some renormalized parabolic
+   {A}nderson models},
     url = {https://doi.org/10.1214/21-aop1517},
     volume = {49},
     year = {2021}

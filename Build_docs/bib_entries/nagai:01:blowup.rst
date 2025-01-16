@@ -18,7 +18,8 @@ nagai:01:blowup
     mrreviewer = {Julio D. Rossi},
     number = {1},
     pages = {37--55},
-    title = {Blowup of nonradial solutions to parabolic-elliptic systems modeling chemotaxis in two-dimensional domains},
+    title = {Blowup of nonradial solutions to parabolic-elliptic
+   systems modeling chemotaxis in two-dimensional domains},
     url = {https://doi.org/10.1155/S1025583401000042},
     volume = {6},
     year = {2001}

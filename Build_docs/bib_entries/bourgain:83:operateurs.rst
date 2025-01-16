@@ -9,7 +9,8 @@ bourgain:83:operateurs
 
    @incollection{bourgain:83:operateurs,
     author = {Bourgain, Jean},
-    booktitle = {Seminar on the geometry of {B}anach spaces ({P}aris, 1982)},
+    booktitle = {Seminar on the geometry of {B}anach spaces ({P}aris,
+   1982)},
     mrclass = {47B10 (46J15 47B38)},
     mrnumber = {731941},
     mrreviewer = {N.\ Tomczak-Jaegermann},

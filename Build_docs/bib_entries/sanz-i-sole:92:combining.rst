@@ -16,7 +16,8 @@ sanz-i-sole:92:combining
     mrnumber = {1209915},
     number = {7},
     pages = {35--46},
-    title = {Combining observations and measuring uncertainty: history of an attempt to understand the world better},
+    title = {Combining observations and measuring uncertainty: history
+   of an attempt to understand the world better},
     year = {1992}
    }
 

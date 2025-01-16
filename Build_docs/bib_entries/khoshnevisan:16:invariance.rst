@@ -15,7 +15,8 @@ khoshnevisan:16:invariance
     pages = {127--216},
     publisher = {Birkh\"{a}user/Springer, Cham},
     series = {Adv. Courses Math. CRM Barcelona},
-    title = {Invariance and comparison principles for parabolic stochastic partial differential equations},
+    title = {Invariance and comparison principles for parabolic
+   stochastic partial differential equations},
     year = {2016}
    }
 

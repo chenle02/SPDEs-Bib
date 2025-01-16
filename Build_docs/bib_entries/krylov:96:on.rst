@@ -18,7 +18,8 @@ krylov:96:on
     mrreviewer = {Krystyna Twardowska},
     number = {2},
     pages = {313--340},
-    title = {On {$L_p$}-theory of stochastic partial differential equations in the whole space},
+    title = {On {$L_p$}-theory of stochastic partial differential
+   equations in the whole space},
     url = {https://doi.org/10.1137/S0036141094263317},
     volume = {27},
     year = {1996}

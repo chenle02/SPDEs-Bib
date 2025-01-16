@@ -8,7 +8,8 @@ bodineau.giacomin.ea:08:copolymers
 .. code-block:: bibtex
 
    @article{bodineau.giacomin.ea:08:copolymers,
-    author = {Bodineau, Thierry and Giacomin, Giambattista and Lacoin, Hubert and Toninelli, Fabio Lucio},
+    author = {Bodineau, Thierry and Giacomin, Giambattista and Lacoin,
+   Hubert and Toninelli, Fabio Lucio},
     doi = {10.1007/s10955-008-9579-y},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715,1572-9613},
@@ -18,7 +19,8 @@ bodineau.giacomin.ea:08:copolymers
     mrreviewer = {Mohammad\ R.\ Rahimi Tabar},
     number = {4},
     pages = {603--626},
-    title = {Copolymers at selective interfaces: new bounds on the phase diagram},
+    title = {Copolymers at selective interfaces: new bounds on the
+   phase diagram},
     url = {https://doi.org/10.1007/s10955-008-9579-y},
     volume = {132},
     year = {2008}

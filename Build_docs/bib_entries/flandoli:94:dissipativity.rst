@@ -18,7 +18,8 @@ flandoli:94:dissipativity
     mrreviewer = {Jan\ I.\ Seidler},
     number = {4},
     pages = {403--423},
-    title = {Dissipativity and invariant measures for stochastic {N}avier-{S}tokes equations},
+    title = {Dissipativity and invariant measures for stochastic
+   {N}avier-{S}tokes equations},
     url = {https://doi.org/10.1007/BF01194988},
     volume = {1},
     year = {1994}

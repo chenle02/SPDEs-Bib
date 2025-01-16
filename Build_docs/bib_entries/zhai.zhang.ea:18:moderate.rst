@@ -17,7 +17,8 @@ zhai.zhang.ea:18:moderate
     mrnumber = {3804271},
     number = {3},
     pages = {1850026, 46},
-    title = {Moderate deviations for stochastic models of two-dimensional second grade fluids},
+    title = {Moderate deviations for stochastic models of
+   two-dimensional second grade fluids},
     url = {https://doi.org/10.1142/S0219493718500260},
     volume = {18},
     year = {2018}

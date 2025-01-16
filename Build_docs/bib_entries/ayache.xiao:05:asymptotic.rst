@@ -18,7 +18,8 @@ ayache.xiao:05:asymptotic
     mrreviewer = {Werner Linde},
     number = {4},
     pages = {407--439},
-    title = {Asymptotic properties and {H}ausdorff dimensions of fractional {B}rownian sheets},
+    title = {Asymptotic properties and {H}ausdorff dimensions of
+   fractional {B}rownian sheets},
     url = {https://doi.org/10.1007/s00041-005-4048-3},
     volume = {11},
     year = {2005}

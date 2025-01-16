@@ -18,7 +18,8 @@ shen.wang:08:carrying
     mrreviewer = {Wendi\ Wang},
     number = {1},
     pages = {1--29},
-    title = {Carrying simplices in nonautonomous and random competitive {K}olmogorov systems},
+    title = {Carrying simplices in nonautonomous and random competitive
+   {K}olmogorov systems},
     url = {https://doi.org/10.1016/j.jde.2008.03.024},
     volume = {245},
     year = {2008}

@@ -16,7 +16,8 @@ seppalainen:10:current
     pages = {ii+81},
     publisher = {Sociedade Brasileira de Matem\'{a}tica, Rio de Janeiro},
     series = {Ensaios Matem\'{a}ticos [Mathematical Surveys]},
-    title = {Current fluctuations for stochastic particle systems with drift in one spatial dimension},
+    title = {Current fluctuations for stochastic particle systems with
+   drift in one spatial dimension},
     volume = {18},
     year = {2010}
    }

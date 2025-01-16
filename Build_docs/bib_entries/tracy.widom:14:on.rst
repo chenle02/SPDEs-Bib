@@ -17,7 +17,8 @@ tracy.widom:14:on
     mrnumber = {3240873},
     number = {6},
     pages = {1125--1135},
-    title = {On the singularities in the susceptibility expansion for the two-dimensional {I}sing model},
+    title = {On the singularities in the susceptibility expansion for
+   the two-dimensional {I}sing model},
     url = {https://doi.org/10.1007/s10955-014-1061-4},
     volume = {156},
     year = {2014}

@@ -12,9 +12,11 @@ agmon:65:lectures
     mrclass = {35.45 (35.80)},
     mrnumber = {0178246},
     mrreviewer = {J. Friberg},
-    note = {Prepared for publication by B. Frank Jones, Jr. with the assistance of George W. Batten, Jr.},
+    note = {Prepared for publication by B. Frank Jones, Jr. with the
+   assistance of George W. Batten, Jr.},
     pages = {v+291},
-    publisher = {D. Van Nostrand Co., Inc., Princeton, N.J.-Toronto-London},
+    publisher = {D. Van Nostrand Co., Inc., Princeton,
+   N.J.-Toronto-London},
     series = {Van Nostrand Mathematical Studies, No. 2},
     title = {Lectures on elliptic boundary value problems},
     year = {1965}

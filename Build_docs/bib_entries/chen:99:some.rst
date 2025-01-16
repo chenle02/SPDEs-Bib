@@ -17,7 +17,8 @@ chen:99:some
     mrnumber = {1705608},
     number = {1},
     pages = {211--236},
-    title = {Some dichotomy results for functionals of {H}arris recurrent {M}arkov chains},
+    title = {Some dichotomy results for functionals of {H}arris
+   recurrent {M}arkov chains},
     url = {https://doi.org/10.1016/S0304-4149(99)00038-1},
     volume = {83},
     year = {1999}

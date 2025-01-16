@@ -17,7 +17,8 @@ cranston.hryniv.ea:09:homo-
     mrreviewer = {Giambattista\ Giacomin},
     number = {2},
     pages = {205--224},
-    title = {Homo- and hetero-polymers in the mean-field approximation},
+    title = {Homo- and hetero-polymers in the mean-field
+   approximation},
     volume = {15},
     year = {2009}
    }

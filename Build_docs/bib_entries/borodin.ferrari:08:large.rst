@@ -16,7 +16,8 @@ borodin.ferrari:08:large
     mrnumber = {2438811},
     mrreviewer = {N. N. Ganikhodjaev},
     pages = {no. 50, 1380--1418},
-    title = {Large time asymptotics of growth models on space-like paths. {I}. {P}ush{ASEP}},
+    title = {Large time asymptotics of growth models on space-like
+   paths. {I}. {P}ush{ASEP}},
     url = {https://doi.org/10.1214/EJP.v13-541},
     volume = {13},
     year = {2008}

@@ -18,7 +18,8 @@ hutson.shen.ea:01:estimates
     mrreviewer = {Vladimir\ Tulovsky},
     number = {6},
     pages = {1669--1679},
-    title = {Estimates for the principal spectrum point for certain time-dependent parabolic operators},
+    title = {Estimates for the principal spectrum point for certain
+   time-dependent parabolic operators},
     url = {https://doi.org/10.1090/S0002-9939-00-05808-1},
     volume = {129},
     year = {2001}

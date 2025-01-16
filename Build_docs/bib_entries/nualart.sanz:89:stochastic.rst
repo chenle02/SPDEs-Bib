@@ -18,7 +18,8 @@ nualart.sanz:89:stochastic
     mrreviewer = {G\'{e}rard Ben Arous},
     number = {1},
     pages = {1--29},
-    title = {Stochastic differential equations on the plane: smoothness of the solution},
+    title = {Stochastic differential equations on the plane: smoothness
+   of the solution},
     url = {https://doi.org/10.1016/0047-259X(89)90046-8},
     volume = {31},
     year = {1989}

@@ -16,7 +16,8 @@ chen.eriksen.ea:95:largest
     mrnumber = {1336493},
     number = {7},
     pages = {L207--L211},
-    title = {Largest eigenvalue distribution in the double scaling limit of matrix models: a {C}oulomb fluid approach},
+    title = {Largest eigenvalue distribution in the double scaling
+   limit of matrix models: a {C}oulomb fluid approach},
     url = {http://stacks.iop.org/0305-4470/28/L207},
     volume = {28},
     year = {1995}

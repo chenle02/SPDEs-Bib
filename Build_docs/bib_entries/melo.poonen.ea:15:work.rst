@@ -8,7 +8,8 @@ melo.poonen.ea:15:work
 .. code-block:: bibtex
 
    @article{melo.poonen.ea:15:work,
-    author = {de Melo, Welington and Poonen, Bjorn and Quastel, Jeremy and Zorich, Anton},
+    author = {de Melo, Welington and Poonen, Bjorn and Quastel, Jeremy
+   and Zorich, Anton},
     doi = {10.1090/noti1317},
     fjournal = {Notices of the American Mathematical Society},
     issn = {0002-9920},

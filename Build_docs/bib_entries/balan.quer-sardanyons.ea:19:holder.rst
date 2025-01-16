@@ -8,7 +8,8 @@ balan.quer-sardanyons.ea:19:holder
 .. code-block:: bibtex
 
    @article{balan.quer-sardanyons.ea:19:holder,
-    author = {Balan, Raluca M. and Quer-Sardanyons, Llu\'{i}s and Song, Jian},
+    author = {Balan, Raluca M. and Quer-Sardanyons, Llu\'{i}s and Song,
+   Jian},
     doi = {10.1007/s10473-019-0306-3},
     fjournal = {Acta Mathematica Scientia. Series B. English Edition},
     issn = {0252-9602},
@@ -17,7 +18,8 @@ balan.quer-sardanyons.ea:19:holder
     mrnumber = {4066501},
     number = {3},
     pages = {717--730},
-    title = {H\"{o}lder continuity for the parabolic {A}nderson model with space-time homogeneous {G}aussian noise},
+    title = {H\"{o}lder continuity for the parabolic {A}nderson model
+   with space-time homogeneous {G}aussian noise},
     url = {https://doi.org/10.1007/s10473-019-0306-3},
     volume = {39},
     year = {2019}

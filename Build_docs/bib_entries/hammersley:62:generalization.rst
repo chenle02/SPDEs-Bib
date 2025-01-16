@@ -17,7 +17,8 @@ hammersley:62:generalization
     mrnumber = {137800},
     mrreviewer = {T. A. Botts},
     pages = {235--238},
-    title = {Generalization of the fundamental theorem on sub-additive functions},
+    title = {Generalization of the fundamental theorem on sub-additive
+   functions},
     url = {https://doi.org/10.1017/s030500410003646x},
     volume = {58},
     year = {1962}

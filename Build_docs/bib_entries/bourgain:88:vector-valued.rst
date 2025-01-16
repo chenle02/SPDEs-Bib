@@ -18,7 +18,8 @@ bourgain:88:vector-valued
     pages = {239--249},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Vector-valued {H}ausdorff-{Y}oung inequalities and applications},
+    title = {Vector-valued {H}ausdorff-{Y}oung inequalities and
+   applications},
     url = {https://doi.org/10.1007/BFb0081745},
     volume = {1317},
     year = {1988}

@@ -13,7 +13,8 @@ widder:75:heat
     mrnumber = {0466967},
     mrreviewer = {Gerald G. Bilodeau},
     pages = {xiv+267},
-    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers], New York-London},
+    publisher = {Academic Press [Harcourt Brace Jovanovich, Publishers],
+   New York-London},
     series = {Pure and Applied Mathematics, Vol. 67},
     title = {The heat equation},
     year = {1975}

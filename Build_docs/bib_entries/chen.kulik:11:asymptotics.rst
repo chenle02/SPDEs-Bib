@@ -17,7 +17,8 @@ chen.kulik:11:asymptotics
     mrnumber = {2812672},
     mrreviewer = {Yueyun Hu},
     pages = {Art. ID 803683, 43},
-    title = {Asymptotics of negative exponential moments for annealed {B}rownian motion in a renormalized {P}oisson potential},
+    title = {Asymptotics of negative exponential moments for annealed
+   {B}rownian motion in a renormalized {P}oisson potential},
     url = {https://doi.org/10.1155/2011/803683},
     year = {2011}
    }

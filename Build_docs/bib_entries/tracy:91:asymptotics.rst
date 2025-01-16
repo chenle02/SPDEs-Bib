@@ -17,7 +17,8 @@ tracy:91:asymptotics
     mrreviewer = {Edward P. Osipov},
     number = {2},
     pages = {297--311},
-    title = {Asymptotics of a {$\tau$}-function arising in the two-dimensional {I}sing model},
+    title = {Asymptotics of a {$\tau$}-function arising in the
+   two-dimensional {I}sing model},
     url = {http://projecteuclid.org/euclid.cmp/1104248587},
     volume = {142},
     year = {1991}

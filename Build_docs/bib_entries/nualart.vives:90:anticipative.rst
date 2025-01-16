@@ -16,7 +16,8 @@ nualart.vives:90:anticipative
     pages = {154--165},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Anticipative calculus for the {P}oisson process based on the {F}ock space},
+    title = {Anticipative calculus for the {P}oisson process based on
+   the {F}ock space},
     volume = {1426},
     year = {1990}
    }

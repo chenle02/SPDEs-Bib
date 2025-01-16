@@ -16,7 +16,8 @@ horstmann:03:from
     mrnumber = {2013508},
     number = {3},
     pages = {103--165},
-    title = {From 1970 until present: the {K}eller-{S}egel model in chemotaxis and its consequences. {I}},
+    title = {From 1970 until present: the {K}eller-{S}egel model in
+   chemotaxis and its consequences. {I}},
     volume = {105},
     year = {2003}
    }

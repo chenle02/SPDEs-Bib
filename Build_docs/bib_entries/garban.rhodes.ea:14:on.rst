@@ -17,7 +17,8 @@ garban.rhodes.ea:14:on
     mrnumber = {3272329},
     mrreviewer = {Mounir\ Bezzarga},
     pages = {no. 96, 25},
-    title = {On the heat kernel and the {D}irichlet form of {L}iouville {B}rownian motion},
+    title = {On the heat kernel and the {D}irichlet form of {L}iouville
+   {B}rownian motion},
     url = {https://doi.org/10.1214/ejp.v19-2950},
     volume = {19},
     year = {2014}

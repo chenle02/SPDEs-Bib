@@ -18,7 +18,8 @@ khoshnevisan.xiao:03:weak
     mrreviewer = {Mamoru Kanda},
     number = {8},
     pages = {2611--2616},
-    title = {Weak unimodality of finite measures, and an application to potential theory of additive {L}\'{e}vy processes},
+    title = {Weak unimodality of finite measures, and an application to
+   potential theory of additive {L}\'{e}vy processes},
     url = {https://doi.org/10.1090/S0002-9939-02-06778-3},
     volume = {131},
     year = {2003}

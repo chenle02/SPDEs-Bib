@@ -18,7 +18,8 @@ belius.rosen.ea:20:correction
     mrreviewer = {Endre\ Cs\'{a}ki},
     number = {3-4},
     pages = {1439--1444},
-    title = {Correction to: {T}ightness for the cover time of the two dimensional sphere},
+    title = {Correction to: {T}ightness for the cover time of the two
+   dimensional sphere},
     url = {https://doi.org/10.1007/s00440-020-00965-y},
     volume = {176},
     year = {2020}

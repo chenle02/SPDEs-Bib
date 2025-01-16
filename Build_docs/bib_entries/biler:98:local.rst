@@ -16,7 +16,8 @@ biler:98:local
     mrnumber = {1657160},
     number = {2},
     pages = {715--743},
-    title = {Local and global solvability of some parabolic systems modelling chemotaxis},
+    title = {Local and global solvability of some parabolic systems
+   modelling chemotaxis},
     volume = {8},
     year = {1998}
    }

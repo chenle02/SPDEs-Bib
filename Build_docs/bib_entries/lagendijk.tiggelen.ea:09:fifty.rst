@@ -8,7 +8,8 @@ lagendijk.tiggelen.ea:09:fifty
 .. code-block:: bibtex
 
    @article{lagendijk.tiggelen.ea:09:fifty,
-    author = {Lagendijk, Ad and Tiggelen, Bart van and Wiersma, Diederik S.},
+    author = {Lagendijk, Ad and Tiggelen, Bart van and Wiersma, Diederik
+   S.},
     doi = {10.1063/1.3206091},
     fjournal = {Physics Today},
     issn = {0031-9228},

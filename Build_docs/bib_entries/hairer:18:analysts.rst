@@ -9,7 +9,8 @@ hairer:18:analysts
 
    @incollection{hairer:18:analysts,
     author = {Hairer, Martin},
-    booktitle = {Computation and combinatorics in dynamics, stochastics and control},
+    booktitle = {Computation and combinatorics in dynamics, stochastics and
+   control},
     mrclass = {81T18 (81Q30 81T15)},
     mrnumber = {3967393},
     mrreviewer = {Karen A. Yeats},

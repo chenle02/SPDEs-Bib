@@ -18,7 +18,8 @@ basak.paquette.ea:20:spectrum
     mrreviewer = {Maxim\ L.\ Yattselev},
     number = {7},
     pages = {4999--5023},
-    title = {Spectrum of random perturbations of {T}oeplitz matrices with finite symbols},
+    title = {Spectrum of random perturbations of {T}oeplitz matrices
+   with finite symbols},
     url = {https://doi.org/10.1090/tran/8040},
     volume = {373},
     year = {2020}

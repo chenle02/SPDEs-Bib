@@ -8,7 +8,8 @@ deift.kriecherbauer.ea:97:asymptotics
 .. code-block:: bibtex
 
    @article{deift.kriecherbauer.ea:97:asymptotics,
-    author = {Deift, P. and Kriecherbauer, T. and McLaughlin, K. T-R and Venakides, S. and Zhou, X.},
+    author = {Deift, P. and Kriecherbauer, T. and McLaughlin, K. T-R and
+   Venakides, S. and Zhou, X.},
     doi = {10.1155/S1073792897000500},
     fjournal = {International Mathematics Research Notices},
     issn = {1073-7928,1687-0247},
@@ -18,7 +19,8 @@ deift.kriecherbauer.ea:97:asymptotics
     mrreviewer = {Alexander\ Vladimirovich\ Kitaev},
     number = {16},
     pages = {759--782},
-    title = {Asymptotics for polynomials orthogonal with respect to varying exponential weights},
+    title = {Asymptotics for polynomials orthogonal with respect to
+   varying exponential weights},
     url = {https://doi.org/10.1155/S1073792897000500},
     year = {1997}
    }

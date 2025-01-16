@@ -18,7 +18,8 @@ bolthausen:93:on
     mrreviewer = {Anton Bovier},
     number = {1-2},
     pages = {81--101},
-    title = {On the construction of the three-dimensional polymer measure},
+    title = {On the construction of the three-dimensional polymer
+   measure},
     url = {https://doi.org/10.1007/BF01199313},
     volume = {97},
     year = {1993}

@@ -18,7 +18,8 @@ song.vondracek:03:potential
     mrreviewer = {Zhen-Qing Chen},
     number = {4},
     pages = {578--592},
-    title = {Potential theory of subordinate killed {B}rownian motion in a domain},
+    title = {Potential theory of subordinate killed {B}rownian motion
+   in a domain},
     url = {https://doi.org/10.1007/s00440-002-0251-1},
     volume = {125},
     year = {2003}

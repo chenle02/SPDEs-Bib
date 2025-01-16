@@ -14,8 +14,10 @@ kurtz:81:approximation
     mrnumber = {610982},
     mrreviewer = {Andrew D. Barbour},
     pages = {vii+75},
-    publisher = {Society for Industrial and Applied Mathematics (SIAM), Philadelphia, Pa.},
-    series = {CBMS-NSF Regional Conference Series in Applied Mathematics},
+    publisher = {Society for Industrial and Applied Mathematics (SIAM),
+   Philadelphia, Pa.},
+    series = {CBMS-NSF Regional Conference Series in Applied
+   Mathematics},
     title = {Approximation of population processes},
     volume = {36},
     year = {1981}

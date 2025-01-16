@@ -18,7 +18,8 @@ mijena.nane:15:space-time
     mrreviewer = {Jan I. Seidler},
     number = {9},
     pages = {3301--3326},
-    title = {Space-time fractional stochastic partial differential equations},
+    title = {Space-time fractional stochastic partial differential
+   equations},
     url = {https://doi.org/10.1016/j.spa.2015.04.008},
     volume = {125},
     year = {2015}

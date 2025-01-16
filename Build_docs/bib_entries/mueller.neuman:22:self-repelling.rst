@@ -15,7 +15,8 @@ mueller.neuman:22:self-repelling
     mrnumber = {4452305},
     number = {2},
     pages = {Art. 1, 16},
-    title = {Self-repelling elastic manifolds with low dimensional range},
+    title = {Self-repelling elastic manifolds with low dimensional
+   range},
     volume = {3},
     year = {2022}
    }

@@ -18,7 +18,8 @@ bourgain.kalton.ea:89:geometry
     pages = {138--175},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Geometry of finite-dimensional subspaces and quotients of {$L_p$}},
+    title = {Geometry of finite-dimensional subspaces and quotients of
+   {$L_p$}},
     url = {https://doi.org/10.1007/BFb0090053},
     volume = {1376},
     year = {1989}

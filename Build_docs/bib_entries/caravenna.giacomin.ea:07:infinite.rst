@@ -17,7 +17,8 @@ caravenna.giacomin.ea:07:infinite
     mrreviewer = {Agnieszka Jurlewicz},
     number = {4},
     pages = {697--730},
-    title = {Infinite volume limits of polymer chains with periodic charges},
+    title = {Infinite volume limits of polymer chains with periodic
+   charges},
     volume = {13},
     year = {2007}
    }

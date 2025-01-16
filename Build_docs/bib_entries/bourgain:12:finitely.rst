@@ -18,7 +18,8 @@ bourgain:12:finitely
     pages = {133--141},
     publisher = {Springer, Heidelberg},
     series = {Lecture Notes in Math.},
-    title = {Finitely supported measures on {$SL_2(\Bbb R)$} which are absolutely continuous at infinity},
+    title = {Finitely supported measures on {$SL_2(\Bbb R)$} which are
+   absolutely continuous at infinity},
     url = {https://doi.org/10.1007/978-3-642-29849-3_7},
     volume = {2050},
     year = {2012}

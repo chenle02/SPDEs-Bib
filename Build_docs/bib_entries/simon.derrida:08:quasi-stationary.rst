@@ -17,7 +17,8 @@ simon.derrida:08:quasi-stationary
     mrnumber = {2386578},
     number = {2},
     pages = {203--233},
-    title = {Quasi-stationary regime of a branching random walk in presence of an absorbing wall},
+    title = {Quasi-stationary regime of a branching random walk in
+   presence of an absorbing wall},
     url = {https://doi.org/10.1007/s10955-008-9504-4},
     volume = {131},
     year = {2008}

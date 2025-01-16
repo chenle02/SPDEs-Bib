@@ -17,7 +17,8 @@ bertini.cancrini:95:stochastic
     mrnumber = {1316109},
     number = {5-6},
     pages = {1377--1401},
-    title = {The stochastic heat equation: {F}eynman-{K}ac formula and intermittence},
+    title = {The stochastic heat equation: {F}eynman-{K}ac formula and
+   intermittence},
     url = {https://doi.org/10.1007/BF02180136},
     volume = {78},
     year = {1995}

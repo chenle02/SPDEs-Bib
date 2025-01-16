@@ -8,7 +8,8 @@ basu.dembo.ea:20:exponential
 .. code-block:: bibtex
 
    @article{basu.dembo.ea:20:exponential,
-    author = {Basu, Riddhipratim and Dembo, Amir and Feldheim, Naomi and Zeitouni, Ofer},
+    author = {Basu, Riddhipratim and Dembo, Amir and Feldheim, Naomi and
+   Zeitouni, Ofer},
     doi = {10.1093/imrn/rny277},
     fjournal = {International Mathematics Research Notices. IMRN},
     issn = {1073-7928,1687-0247},
@@ -18,7 +19,8 @@ basu.dembo.ea:20:exponential
     mrreviewer = {Rita\ Giuliano Antonini},
     number = {23},
     pages = {9769--9796},
-    title = {Exponential concentration for zeroes of stationary {G}aussian processes},
+    title = {Exponential concentration for zeroes of stationary
+   {G}aussian processes},
     url = {https://doi.org/10.1093/imrn/rny277},
     year = {2020}
    }

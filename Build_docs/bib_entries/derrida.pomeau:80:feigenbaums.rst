@@ -18,7 +18,8 @@ derrida.pomeau:80:feigenbaums
     mrreviewer = {Frederick\ R.\ Marotto},
     number = {4},
     pages = {217--219},
-    title = {Feigenbaum's ratios of two-dimensional area preserving maps},
+    title = {Feigenbaum's ratios of two-dimensional area preserving
+   maps},
     url = {https://doi.org/10.1016/0375-9601(80)90003-1},
     volume = {80},
     year = {1980}

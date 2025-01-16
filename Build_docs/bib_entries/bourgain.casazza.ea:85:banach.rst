@@ -8,7 +8,8 @@ bourgain.casazza.ea:85:banach
 .. code-block:: bibtex
 
    @article{bourgain.casazza.ea:85:banach,
-    author = {Bourgain, J. and Casazza, P. G. and Lindenstrauss, J. and Tzafriri, L.},
+    author = {Bourgain, J. and Casazza, P. G. and Lindenstrauss, J. and
+   Tzafriri, L.},
     doi = {10.1090/memo/0322},
     fjournal = {Memoirs of the American Mathematical Society},
     issn = {0065-9266,1947-6221},
@@ -18,7 +19,8 @@ bourgain.casazza.ea:85:banach
     mrreviewer = {M.\ I.\ Kadets},
     number = {322},
     pages = {iv+111},
-    title = {Banach spaces with a unique unconditional basis, up to permutation},
+    title = {Banach spaces with a unique unconditional basis, up to
+   permutation},
     url = {https://doi.org/10.1090/memo/0322},
     volume = {54},
     year = {1985}

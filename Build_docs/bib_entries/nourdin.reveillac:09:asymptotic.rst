@@ -17,7 +17,8 @@ nourdin.reveillac:09:asymptotic
     mrnumber = {2573556},
     number = {6},
     pages = {2200--2230},
-    title = {Asymptotic behavior of weighted quadratic variations of fractional {B}rownian motion: the critical case {$H=1/4$}},
+    title = {Asymptotic behavior of weighted quadratic variations of
+   fractional {B}rownian motion: the critical case {$H=1/4$}},
     url = {https://doi.org/10.1214/09-AOP473},
     volume = {37},
     year = {2009}

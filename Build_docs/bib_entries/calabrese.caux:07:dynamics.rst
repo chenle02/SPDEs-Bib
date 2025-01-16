@@ -16,7 +16,8 @@ calabrese.caux:07:dynamics
     mrnumber = {2338261},
     number = {8},
     pages = {P08032, 27},
-    title = {Dynamics of the attractive 1{D} {B}ose gas: analytical treatment from integrability},
+    title = {Dynamics of the attractive 1{D} {B}ose gas: analytical
+   treatment from integrability},
     url = {https://doi.org/10.1088/1742-5468/2007/08/p08032},
     year = {2007}
    }

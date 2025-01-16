@@ -18,7 +18,8 @@ imamura.sasamoto:11:replica
     mrreviewer = {Patr\'{i}cia Gon\c{c}alves},
     number = {38},
     pages = {385001, 29},
-    title = {Replica approach to the {KPZ} equation with the half {B}rownian motion initial condition},
+    title = {Replica approach to the {KPZ} equation with the half
+   {B}rownian motion initial condition},
     url = {https://doi.org/10.1088/1751-8113/44/38/385001},
     volume = {44},
     year = {2011}

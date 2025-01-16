@@ -9,7 +9,8 @@ berezin:73:some
 
    @article{berezin:73:some,
     author = {Berezin, F. A.},
-    fjournal = {Akademiya Nauk SSSR. Teoreticheskaya i Matematicheskaya Fizika},
+    fjournal = {Akademiya Nauk SSSR. Teoreticheskaya i Matematicheskaya
+   Fizika},
     issn = {0564-6162},
     journal = {Teoret. Mat. Fiz.},
     mrclass = {81.60},

@@ -17,7 +17,8 @@ bao.shen:23:vanishing-spreading
     mrnumber = {4668593},
     number = {4},
     pages = {2905--2938},
-    title = {Vanishing-spreading dichotomy in a two-species chemotaxis competition system with a free boundary},
+    title = {Vanishing-spreading dichotomy in a two-species chemotaxis
+   competition system with a free boundary},
     url = {https://doi.org/10.1007/s10884-023-10321-y},
     volume = {35},
     year = {2023}

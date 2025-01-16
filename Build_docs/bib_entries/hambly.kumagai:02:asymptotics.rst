@@ -10,7 +10,8 @@ hambly.kumagai:02:asymptotics
    @article{hambly.kumagai:02:asymptotics,
     author = {Hambly, B. M. and Kumagai, T.},
     doi = {10.1142/S0218348X02001270},
-    fjournal = {Fractals. Complex Geometry, Patterns, and Scaling in Nature and Society},
+    fjournal = {Fractals. Complex Geometry, Patterns, and Scaling in
+   Nature and Society},
     issn = {0218-348X},
     journal = {Fractals},
     mrclass = {28A80},
@@ -18,7 +19,8 @@ hambly.kumagai:02:asymptotics
     mrreviewer = {Peter R. Massopust},
     number = {4},
     pages = {403--412},
-    title = {Asymptotics for the spectral and walk dimension as fractals approach {E}uclidean space},
+    title = {Asymptotics for the spectral and walk dimension as
+   fractals approach {E}uclidean space},
     url = {https://doi.org/10.1142/S0218348X02001270},
     volume = {10},
     year = {2002}

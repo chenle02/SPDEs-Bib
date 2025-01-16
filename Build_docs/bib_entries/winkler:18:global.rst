@@ -18,7 +18,9 @@ winkler:18:global
     mrreviewer = {Doron Levy},
     number = {3},
     pages = {1267--1289},
-    title = {Global mass-preserving solutions in a two-dimensional chemotaxis-{S}tokes system with rotational flux components},
+    title = {Global mass-preserving solutions in a two-dimensional
+   chemotaxis-{S}tokes system with rotational flux
+   components},
     url = {https://doi.org/10.1007/s00028-018-0440-8},
     volume = {18},
     year = {2018}

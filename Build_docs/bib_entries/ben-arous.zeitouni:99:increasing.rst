@@ -10,7 +10,8 @@ ben-arous.zeitouni:99:increasing
    @article{ben-arous.zeitouni:99:increasing,
     author = {Ben Arous, G. and Zeitouni, O.},
     doi = {10.1016/S0246-0203(99)80006-5},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {60F10 (60K35)},

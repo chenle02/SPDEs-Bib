@@ -9,7 +9,8 @@ engler:97:similarity
 
    @article{engler:97:similarity,
     author = {Engler, Hans},
-    fjournal = {Differential and Integral Equations. An International Journal for Theory \& Applications},
+    fjournal = {Differential and Integral Equations. An International
+   Journal for Theory \& Applications},
     issn = {0893-4983},
     journal = {Differential Integral Equations},
     mrclass = {45K05 (35L99 45D05)},
@@ -17,7 +18,8 @@ engler:97:similarity
     mrreviewer = {Gustaf Gripenberg},
     number = {5},
     pages = {815--840},
-    title = {Similarity solutions for a class of hyperbolic integrodifferential equations},
+    title = {Similarity solutions for a class of hyperbolic
+   integrodifferential equations},
     volume = {10},
     year = {1997}
    }

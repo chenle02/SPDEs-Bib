@@ -18,7 +18,8 @@ mytnik:02:stochastic
     mrreviewer = {David Applebaum},
     number = {2},
     pages = {157--201},
-    title = {Stochastic partial differential equation driven by stable noise},
+    title = {Stochastic partial differential equation driven by stable
+   noise},
     url = {https://doi.org/10.1007/s004400100180},
     volume = {123},
     year = {2002}

@@ -15,7 +15,8 @@ gohberg.kreuin:69:introduction
     pages = {xv+378},
     publisher = {American Mathematical Society, Providence, RI},
     series = {Translations of Mathematical Monographs, Vol. 18},
-    title = {Introduction to the theory of linear nonselfadjoint operators},
+    title = {Introduction to the theory of linear nonselfadjoint
+   operators},
     year = {1969}
    }
 

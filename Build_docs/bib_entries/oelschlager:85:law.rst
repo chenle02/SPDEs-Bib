@@ -10,7 +10,8 @@ oelschlager:85:law
    @article{oelschlager:85:law,
     author = {Oelschl\"{a}ger, Karl},
     doi = {10.1007/BF02450284},
-    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+    fjournal = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und
+   Verwandte Gebiete},
     issn = {0044-3719},
     journal = {Z. Wahrsch. Verw. Gebiete},
     mrclass = {60J60 (60K35 82A31)},
@@ -18,7 +19,8 @@ oelschlager:85:law
     mrreviewer = {Maria\ E.\ Vares},
     number = {2},
     pages = {279--322},
-    title = {A law of large numbers for moderately interacting diffusion processes},
+    title = {A law of large numbers for moderately interacting
+   diffusion processes},
     url = {https://doi.org/10.1007/BF02450284},
     volume = {69},
     year = {1985}

@@ -18,7 +18,8 @@ pandolfi.priola.ea:13:linear
     mrreviewer = {Birgit Jacob},
     number = {1},
     pages = {629--659},
-    title = {Linear operator inequality and null controllability with vanishing energy for unbounded control systems},
+    title = {Linear operator inequality and null controllability with
+   vanishing energy for unbounded control systems},
     url = {https://doi.org/10.1137/110846294},
     volume = {51},
     year = {2013}

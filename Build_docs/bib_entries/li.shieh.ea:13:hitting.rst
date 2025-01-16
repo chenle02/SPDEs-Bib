@@ -9,7 +9,8 @@ li.shieh.ea:13:hitting
 
    @incollection{li.shieh.ea:13:hitting,
     author = {Li, Bing and Shieh, Narn-Rueih and Xiao, Yimin},
-    booktitle = {Fractal geometry and dynamical systems in pure and applied mathematics. {II}. {F}ractals in applied mathematics},
+    booktitle = {Fractal geometry and dynamical systems in pure and applied
+   mathematics. {II}. {F}ractals in applied mathematics},
     doi = {10.1090/conm/601/11934},
     isbn = {978-0-8218-9148-3},
     mrclass = {60D05 (28A80 52A22)},

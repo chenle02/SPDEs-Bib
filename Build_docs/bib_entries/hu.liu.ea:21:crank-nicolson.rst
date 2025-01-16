@@ -17,7 +17,8 @@ hu.liu.ea:21:crank-nicolson
     mrnumber = {4254473},
     number = {1},
     pages = {39--83},
-    title = {Crank-{N}icolson scheme for stochastic differential equations driven by fractional {B}rownian motions},
+    title = {Crank-{N}icolson scheme for stochastic differential
+   equations driven by fractional {B}rownian motions},
     url = {https://doi.org/10.1214/20-aap1582},
     volume = {31},
     year = {2021}

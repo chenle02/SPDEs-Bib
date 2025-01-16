@@ -17,7 +17,8 @@ bourgain:12:on
     mrnumber = {2944098},
     mrreviewer = {Sasha\ Sodin},
     pages = {273--295},
-    title = {On the {F}urstenberg measure and density of states for the {A}nderson-{B}ernoulli model at small disorder},
+    title = {On the {F}urstenberg measure and density of states for the
+   {A}nderson-{B}ernoulli model at small disorder},
     url = {https://doi.org/10.1007/s11854-012-0022-6},
     volume = {117},
     year = {2012}

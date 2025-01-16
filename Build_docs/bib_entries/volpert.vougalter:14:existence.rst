@@ -16,7 +16,8 @@ volpert.vougalter:14:existence
     mrnumber = {3291644},
     mrreviewer = {Peter L. Simon},
     pages = {1141--1153},
-    title = {Existence of stationary pulses for nonlocal reaction-diffusion equations},
+    title = {Existence of stationary pulses for nonlocal
+   reaction-diffusion equations},
     volume = {19},
     year = {2014}
    }

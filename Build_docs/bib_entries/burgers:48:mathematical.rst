@@ -13,10 +13,12 @@ burgers:48:mathematical
     mrclass = {76.1X},
     mrnumber = {0027195},
     mrreviewer = {C. C. Lin},
-    note = {edited by Richard von Mises and Theodore von K\'{a}rm\'{a}n,},
+    note = {edited by Richard von Mises and Theodore von
+   K\'{a}rm\'{a}n,},
     pages = {171--199},
     publisher = {Academic Press, Inc., New York, N.Y.},
-    title = {A mathematical model illustrating the theory of turbulence},
+    title = {A mathematical model illustrating the theory of
+   turbulence},
     year = {1948}
    }
 

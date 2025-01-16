@@ -18,7 +18,8 @@ dalang.zhang:13:holder
     mrreviewer = {Dirk Bl\"{o}mker},
     number = {2},
     pages = {133--142},
-    title = {H\"{o}lder continuity of solutions of {SPDE}s with reflection},
+    title = {H\"{o}lder continuity of solutions of {SPDE}s with
+   reflection},
     url = {https://doi.org/10.1007/s40304-013-0009-3},
     volume = {1},
     year = {2013}

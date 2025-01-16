@@ -18,7 +18,8 @@ mitrea:08:generalization
     mrreviewer = {Neil A. Watson},
     number = {7},
     pages = {3771--3793},
-    title = {A generalization of {D}ahlberg's theorem concerning the regularity of harmonic {G}reen potentials},
+    title = {A generalization of {D}ahlberg's theorem concerning the
+   regularity of harmonic {G}reen potentials},
     url = {https://doi.org/10.1090/S0002-9947-08-04384-5},
     volume = {360},
     year = {2008}

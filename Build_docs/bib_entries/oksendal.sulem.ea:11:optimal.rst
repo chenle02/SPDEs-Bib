@@ -18,7 +18,8 @@ oksendal.sulem.ea:11:optimal
     mrreviewer = {Giorgio Fabbri},
     number = {2},
     pages = {572--596},
-    title = {Optimal control of stochastic delay equations and time-advanced backward stochastic differential equations},
+    title = {Optimal control of stochastic delay equations and
+   time-advanced backward stochastic differential equations},
     url = {https://doi.org/10.1239/aap/1308662493},
     volume = {43},
     year = {2011}

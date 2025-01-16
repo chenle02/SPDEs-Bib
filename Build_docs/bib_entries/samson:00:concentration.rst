@@ -17,7 +17,8 @@ samson:00:concentration
     mrnumber = {1756011},
     number = {1},
     pages = {416--461},
-    title = {Concentration of measure inequalities for {M}arkov chains and {$\Phi$}-mixing processes},
+    title = {Concentration of measure inequalities for {M}arkov chains
+   and {$\Phi$}-mixing processes},
     url = {https://doi.org/10.1214/aop/1019160125},
     volume = {28},
     year = {2000}

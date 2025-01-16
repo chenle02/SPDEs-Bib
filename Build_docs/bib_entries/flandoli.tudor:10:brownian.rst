@@ -18,7 +18,8 @@ flandoli.tudor:10:brownian
     mrreviewer = {Zhiyuan\ Huang},
     number = {1},
     pages = {279--306},
-    title = {Brownian and fractional {B}rownian stochastic currents via {M}alliavin calculus},
+    title = {Brownian and fractional {B}rownian stochastic currents via
+   {M}alliavin calculus},
     url = {https://doi.org/10.1016/j.jfa.2009.05.001},
     volume = {258},
     year = {2010}

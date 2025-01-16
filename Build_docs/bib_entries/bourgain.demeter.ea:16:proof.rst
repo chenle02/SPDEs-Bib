@@ -18,7 +18,8 @@ bourgain.demeter.ea:16:proof
     mrreviewer = {Ben\ Joseph\ Green},
     number = {2},
     pages = {633--682},
-    title = {Proof of the main conjecture in {V}inogradov's mean value theorem for degrees higher than three},
+    title = {Proof of the main conjecture in {V}inogradov's mean value
+   theorem for degrees higher than three},
     url = {https://doi.org/10.4007/annals.2016.184.2.7},
     volume = {184},
     year = {2016}

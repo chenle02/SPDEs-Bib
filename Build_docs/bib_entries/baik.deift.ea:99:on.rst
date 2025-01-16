@@ -18,7 +18,8 @@ baik.deift.ea:99:on
     mrreviewer = {David J. Aldous},
     number = {4},
     pages = {1119--1178},
-    title = {On the distribution of the length of the longest increasing subsequence of random permutations},
+    title = {On the distribution of the length of the longest
+   increasing subsequence of random permutations},
     url = {https://doi.org/10.1090/S0894-0347-99-00307-0},
     volume = {12},
     year = {1999}

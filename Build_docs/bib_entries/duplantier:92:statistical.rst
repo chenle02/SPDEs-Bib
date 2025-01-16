@@ -9,7 +9,8 @@ duplantier:92:statistical
 
    @incollection{duplantier:92:statistical,
     author = {Duplantier, Bertrand},
-    fjournal = {Helvetica Physica Acta. Physica Theoretica. Societatis Physicae Helveticae Commentaria Publica},
+    fjournal = {Helvetica Physica Acta. Physica Theoretica. Societatis
+   Physicae Helveticae Commentaria Publica},
     issn = {0018-0238},
     journal = {Helv. Phys. Acta},
     mrclass = {82-02 (81-02 81T27 81T40)},

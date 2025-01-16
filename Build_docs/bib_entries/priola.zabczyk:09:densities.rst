@@ -17,7 +17,8 @@ priola.zabczyk:09:densities
     mrnumber = {2481987},
     number = {1},
     pages = {41--50},
-    title = {Densities for {O}rnstein-{U}hlenbeck processes with jumps},
+    title = {Densities for {O}rnstein-{U}hlenbeck processes with
+   jumps},
     url = {https://doi.org/10.1112/blms/bdn099},
     volume = {41},
     year = {2009}

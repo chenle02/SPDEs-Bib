@@ -18,7 +18,8 @@ bourgain:92:some
     mrreviewer = {Yu.\ I.\ Petunin},
     number = {1-2},
     pages = {165--185},
-    title = {Some consequences of {P}isier's approach to interpolation},
+    title = {Some consequences of {P}isier's approach to
+   interpolation},
     url = {https://doi.org/10.1007/BF02808016},
     volume = {77},
     year = {1992}

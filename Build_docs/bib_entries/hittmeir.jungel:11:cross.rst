@@ -18,7 +18,8 @@ hittmeir.jungel:11:cross
     mrreviewer = {Lubomira G. Softova},
     number = {2},
     pages = {997--1022},
-    title = {Cross diffusion preventing blow-up in the two-dimensional {K}eller-{S}egel model},
+    title = {Cross diffusion preventing blow-up in the two-dimensional
+   {K}eller-{S}egel model},
     url = {https://doi.org/10.1137/100813191},
     volume = {43},
     year = {2011}

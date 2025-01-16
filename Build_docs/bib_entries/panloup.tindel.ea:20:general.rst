@@ -17,7 +17,8 @@ panloup.tindel.ea:20:general
     mrreviewer = {Qidi Peng},
     number = {1},
     pages = {1075--1136},
-    title = {A general drift estimation procedure for stochastic differential equations with additive fractional noise},
+    title = {A general drift estimation procedure for stochastic
+   differential equations with additive fractional noise},
     url = {https://doi.org/10.1214/20-EJS1685},
     volume = {14},
     year = {2020}

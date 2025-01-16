@@ -17,7 +17,8 @@ chung:48:on
     mrnumber = {26274},
     mrreviewer = {M. Lo\`eve},
     pages = {205--233},
-    title = {On the maximum partial sums of sequences of independent random variables},
+    title = {On the maximum partial sums of sequences of independent
+   random variables},
     url = {https://doi.org/10.2307/1990499},
     volume = {64},
     year = {1948}

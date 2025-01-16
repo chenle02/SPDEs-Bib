@@ -9,7 +9,8 @@ spitzer:60:recurrent
 
    @incollection{spitzer:60:recurrent,
     author = {Spitzer, Frank},
-    booktitle = {Proc. 4th {B}erkeley {S}ympos. {M}ath. {S}tatist. and {P}rob., {V}ol. {II}},
+    booktitle = {Proc. 4th {B}erkeley {S}ympos. {M}ath. {S}tatist. and
+   {P}rob., {V}ol. {II}},
     mrclass = {60.66},
     mrnumber = {142159},
     mrreviewer = {W.\ Wasow},

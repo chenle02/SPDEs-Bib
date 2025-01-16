@@ -18,7 +18,9 @@ chojnowska-michalik.goldys:01:generalized
     mrreviewer = {Marta\ Tyran-Kami\'nska},
     number = {2},
     pages = {243--279},
-    title = {Generalized {O}rnstein-{U}hlenbeck semigroups: {L}ittlewood-{P}aley-{S}tein inequalities and the {P}. {A}. {M}eyer equivalence of norms},
+    title = {Generalized {O}rnstein-{U}hlenbeck semigroups:
+   {L}ittlewood-{P}aley-{S}tein inequalities and the {P}. {A}.
+   {M}eyer equivalence of norms},
     url = {https://doi.org/10.1006/jfan.2000.3722},
     volume = {182},
     year = {2001}

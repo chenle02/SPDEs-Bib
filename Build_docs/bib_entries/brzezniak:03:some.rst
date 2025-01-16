@@ -16,7 +16,8 @@ brzezniak:03:some
     mrreviewer = {Jiang Lun Wu},
     pages = {48--69},
     publisher = {World Sci. Publ., River Edge, NJ},
-    title = {Some remarks on {I}t\^{o} and {S}tratonovich integration in 2-smooth {B}anach spaces},
+    title = {Some remarks on {I}t\^{o} and {S}tratonovich integration
+   in 2-smooth {B}anach spaces},
     url = {https://doi.org/10.1142/9789812703989_0004},
     year = {2003}
    }

@@ -17,7 +17,8 @@ engelbert.schmidt:84:on
     mrnumber = {774179},
     mrreviewer = {Dominique L\'{e}pingle},
     pages = {97--115},
-    title = {On exponential local martingales connected with diffusion processes},
+    title = {On exponential local martingales connected with diffusion
+   processes},
     url = {https://doi.org/10.1002/mana.19841190108},
     volume = {119},
     year = {1984}

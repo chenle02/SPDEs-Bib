@@ -8,7 +8,7 @@ kallenberg.sztencel:91:some
 .. code-block:: bibtex
 
    @article{kallenberg.sztencel:91:some,
-    author = {Kallenberg, Olav and Sztencel, Rafa\l},
+    author = {Kallenberg, Olav and Sztencel, Rafa\l },
     doi = {10.1007/BF01212560},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},
@@ -18,7 +18,8 @@ kallenberg.sztencel:91:some
     mrreviewer = {Michael Sharpe},
     number = {2},
     pages = {215--247},
-    title = {Some dimension-free features of vector-valued martingales},
+    title = {Some dimension-free features of vector-valued
+   martingales},
     url = {https://doi.org/10.1007/BF01212560},
     volume = {88},
     year = {1991}

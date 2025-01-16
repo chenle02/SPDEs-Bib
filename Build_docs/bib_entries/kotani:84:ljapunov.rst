@@ -17,7 +17,9 @@ kotani:84:ljapunov
     pages = {225--247},
     publisher = {North-Holland, Amsterdam},
     series = {North-Holland Math. Library},
-    title = {Ljapunov indices determine absolutely continuous spectra of stationary random one-dimensional {S}chr\"{o}dinger operators},
+    title = {Ljapunov indices determine absolutely continuous spectra
+   of stationary random one-dimensional {S}chr\"{o}dinger
+   operators},
     url = {https://doi.org/10.1016/S0924-6509(08)70395-7},
     volume = {32},
     year = {1984}

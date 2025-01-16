@@ -17,7 +17,8 @@ wang.xiao:19:csorgo-revesz
     mrnumber = {3924525},
     mrreviewer = {M.\ Cs\"{o}rg\H{o}},
     pages = {81--87},
-    title = {The {C}s\"{o}rg\H{o}-{R}\'{e}v\'{e}sz moduli of non-differentiability of fractional {B}rownian motion},
+    title = {The {C}s\"{o}rg\H{o}-{R}\'{e}v\'{e}sz moduli of
+   non-differentiability of fractional {B}rownian motion},
     url = {https://doi.org/10.1016/j.spl.2019.02.016},
     volume = {150},
     year = {2019}

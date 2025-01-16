@@ -18,7 +18,8 @@ chen:16:spatial
     mrreviewer = {Mathew Joseph},
     number = {2},
     pages = {1535--1598},
-    title = {Spatial asymptotics for the parabolic {A}nderson models with generalized time-space {G}aussian noise},
+    title = {Spatial asymptotics for the parabolic {A}nderson models
+   with generalized time-space {G}aussian noise},
     url = {https://doi.org/10.1214/15-AOP1006},
     volume = {44},
     year = {2016}

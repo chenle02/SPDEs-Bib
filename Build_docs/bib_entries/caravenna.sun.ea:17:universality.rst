@@ -8,7 +8,8 @@ caravenna.sun.ea:17:universality
 .. code-block:: bibtex
 
    @article{caravenna.sun.ea:17:universality,
-    author = {Caravenna, Francesco and Sun, Rongfeng and Zygouras, Nikos},
+    author = {Caravenna, Francesco and Sun, Rongfeng and Zygouras,
+   Nikos},
     doi = {10.1214/17-AAP1276},
     fjournal = {The Annals of Applied Probability},
     issn = {1050-5164},

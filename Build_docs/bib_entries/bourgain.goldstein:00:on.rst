@@ -18,7 +18,8 @@ bourgain.goldstein:00:on
     mrreviewer = {Kalyan\ B.\ Sinha},
     number = {3},
     pages = {835--879},
-    title = {On nonperturbative localization with quasi-periodic potential},
+    title = {On nonperturbative localization with quasi-periodic
+   potential},
     url = {https://doi.org/10.2307/2661356},
     volume = {152},
     year = {2000}

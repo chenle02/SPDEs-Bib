@@ -18,7 +18,8 @@ dolak.schmeiser:05:keller-segel
     mrreviewer = {Dirk Horstmann},
     number = {1},
     pages = {286--308},
-    title = {The {K}eller-{S}egel model with logistic sensitivity function and small diffusivity},
+    title = {The {K}eller-{S}egel model with logistic sensitivity
+   function and small diffusivity},
     url = {https://doi.org/10.1137/040612841},
     volume = {66},
     year = {2005}

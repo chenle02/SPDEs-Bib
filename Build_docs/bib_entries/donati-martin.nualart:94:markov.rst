@@ -17,7 +17,8 @@ donati-martin.nualart:94:markov
     mrnumber = {1787169},
     number = {1-2},
     pages = {107--115},
-    title = {Markov property for elliptic stochastic partial differential equations},
+    title = {Markov property for elliptic stochastic partial
+   differential equations},
     url = {https://doi.org/10.1080/17442509408833872},
     volume = {46},
     year = {1994}

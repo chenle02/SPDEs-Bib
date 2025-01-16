@@ -8,7 +8,8 @@ cambanis.hardin.ea:87:ergodic
 .. code-block:: bibtex
 
    @article{cambanis.hardin.ea:87:ergodic,
-    author = {Cambanis, Stamatis and Hardin, Jr., Clyde D. and Weron, Aleksander},
+    author = {Cambanis, Stamatis and Hardin, Jr., Clyde D. and Weron,
+   Aleksander},
     doi = {10.1016/0304-4149(87)90024-X},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149},

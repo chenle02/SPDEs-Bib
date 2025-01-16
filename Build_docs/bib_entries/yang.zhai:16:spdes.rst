@@ -18,7 +18,8 @@ yang.zhai:16:spdes
     mrreviewer = {Le\ Chen},
     number = {2},
     pages = {991--1009},
-    title = {S{PDE}s with two reflecting walls and two singular drifts},
+    title = {S{PDE}s with two reflecting walls and two singular
+   drifts},
     url = {https://doi.org/10.1016/j.jmaa.2016.02.038},
     volume = {438},
     year = {2016}

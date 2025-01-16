@@ -18,7 +18,9 @@ alos.leon.ea:01:stochastic
     mrreviewer = {Laurent Decreusefond},
     number = {3},
     pages = {609--632},
-    title = {Stochastic {S}tratonovich calculus f{B}m for fractional {B}rownian motion with {H}urst parameter less than {$1/2$}},
+    title = {Stochastic {S}tratonovich calculus f{B}m for fractional
+   {B}rownian motion with {H}urst parameter less than
+   {$1/2$}},
     url = {https://doi.org/10.11650/twjm/1500574954},
     volume = {5},
     year = {2001}

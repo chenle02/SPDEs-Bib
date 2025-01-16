@@ -17,7 +17,8 @@ derrida.hirschberg.ea:21:large
     mrnumber = {4197416},
     number = {1},
     pages = {Paper No. 15, 13},
-    title = {Large deviations in the symmetric simple exclusion process with slow boundaries},
+    title = {Large deviations in the symmetric simple exclusion process
+   with slow boundaries},
     url = {https://doi.org/10.1007/s10955-020-02680-3},
     volume = {182},
     year = {2021}

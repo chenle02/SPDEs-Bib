@@ -18,7 +18,8 @@ maslowski.seidler:01:strong
     mrreviewer = {Isabel\ Sim\~{a}o},
     number = {2},
     pages = {111--129},
-    title = {Strong {F}eller solutions to {SPDE}'s are strong {F}eller in the weak topology},
+    title = {Strong {F}eller solutions to {SPDE}'s are strong {F}eller
+   in the weak topology},
     url = {https://doi.org/10.4064/sm148-2-2},
     volume = {148},
     year = {2001}

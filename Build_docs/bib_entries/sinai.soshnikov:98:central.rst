@@ -10,7 +10,8 @@ sinai.soshnikov:98:central
    @article{sinai.soshnikov:98:central,
     author = {Sinai, Ya. and Soshnikov, A.},
     doi = {10.1007/BF01245866},
-    fjournal = {Boletim da Sociedade Brasileira de Matem\'{a}tica. Nova S\'{e}rie},
+    fjournal = {Boletim da Sociedade Brasileira de Matem\'{a}tica. Nova
+   S\'{e}rie},
     issn = {0100-3569},
     journal = {Bol. Soc. Brasil. Mat. (N.S.)},
     mrclass = {60F05 (15A52 60F99)},
@@ -18,7 +19,8 @@ sinai.soshnikov:98:central
     mrreviewer = {Oleksiy Khorunzhiy},
     number = {1},
     pages = {1--24},
-    title = {Central limit theorem for traces of large random symmetric matrices with independent matrix elements},
+    title = {Central limit theorem for traces of large random symmetric
+   matrices with independent matrix elements},
     url = {https://doi.org/10.1007/BF01245866},
     volume = {29},
     year = {1998}

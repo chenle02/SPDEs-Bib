@@ -9,7 +9,8 @@ cranston:92:on
 
    @incollection{cranston:92:on,
     author = {Cranston, M.},
-    booktitle = {Seminar on {S}tochastic {P}rocesses, 1991 ({L}os {A}ngeles, {CA}, 1991)},
+    booktitle = {Seminar on {S}tochastic {P}rocesses, 1991 ({L}os
+   {A}ngeles, {CA}, 1991)},
     isbn = {0-8176-3628-5},
     mrclass = {60J60},
     mrnumber = {1172140},

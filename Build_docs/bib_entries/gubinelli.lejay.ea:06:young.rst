@@ -8,9 +8,12 @@ gubinelli.lejay.ea:06:young
 .. code-block:: bibtex
 
    @article{gubinelli.lejay.ea:06:young,
-    author = {Gubinelli, Massimiliano and Lejay, Antoine and Tindel, Samy},
+    author = {Gubinelli, Massimiliano and Lejay, Antoine and Tindel,
+   Samy},
     doi = {10.1007/s11118-006-9013-5},
-    fjournal = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
+    fjournal = {Potential Analysis. An International Journal Devoted to
+   the Interactions between Potential Theory, Probability
+   Theory, Geometry and Functional Analysis},
     issn = {0926-2601},
     journal = {Potential Anal.},
     mrclass = {60H15 (47D06 60H05)},

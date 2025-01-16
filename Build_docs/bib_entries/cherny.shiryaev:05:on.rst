@@ -17,7 +17,8 @@ cherny.shiryaev:05:on
     pages = {165--185},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {On stochastic integrals up to infinity and predictable criteria for integrability},
+    title = {On stochastic integrals up to infinity and predictable
+   criteria for integrability},
     url = {https://doi.org/10.1007/978-3-540-31449-3_12},
     volume = {1857},
     year = {2005}

@@ -13,7 +13,8 @@ spitzer:64:principles
     mrnumber = {171290},
     mrreviewer = {T.\ Watanabe},
     pages = {xi+406},
-    publisher = {D. Van Nostrand Co., Inc., Princeton, N.J.-Toronto-London},
+    publisher = {D. Van Nostrand Co., Inc., Princeton,
+   N.J.-Toronto-London},
     series = {The University Series in Higher Mathematics},
     title = {Principles of random walk},
     year = {1964}

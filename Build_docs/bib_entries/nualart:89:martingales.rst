@@ -17,7 +17,8 @@ nualart:89:martingales
     mrreviewer = {Marta Sanz Sol\'{e}},
     number = {4},
     pages = {33--46},
-    title = {Martingales and their applications: a historical perspective},
+    title = {Martingales and their applications: a historical
+   perspective},
     year = {1989}
    }
 

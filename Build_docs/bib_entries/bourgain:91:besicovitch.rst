@@ -18,7 +18,8 @@ bourgain:91:besicovitch
     mrreviewer = {Peter\ I.\ Lizorkin},
     number = {2},
     pages = {147--187},
-    title = {Besicovitch type maximal operators and applications to {F}ourier analysis},
+    title = {Besicovitch type maximal operators and applications to
+   {F}ourier analysis},
     url = {https://doi.org/10.1007/BF01896376},
     volume = {1},
     year = {1991}

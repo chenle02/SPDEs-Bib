@@ -18,7 +18,8 @@ sanz-sole:08:properties
     mrreviewer = {Nicolas Saintier},
     number = {1},
     pages = {255--281},
-    title = {Properties of the density for a three-dimensional stochastic wave equation},
+    title = {Properties of the density for a three-dimensional
+   stochastic wave equation},
     url = {https://doi.org/10.1016/j.jfa.2008.04.004},
     volume = {255},
     year = {2008}

@@ -18,7 +18,8 @@ hairer.pavliotis:08:from
     mrreviewer = {Kiyomasa Narita},
     number = {1},
     pages = {175--202},
-    title = {From ballistic to diffusive behavior in periodic potentials},
+    title = {From ballistic to diffusive behavior in periodic
+   potentials},
     url = {https://doi.org/10.1007/s10955-008-9493-3},
     volume = {131},
     year = {2008}

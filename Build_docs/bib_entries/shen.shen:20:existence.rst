@@ -18,7 +18,9 @@ shen.shen:20:existence
     mrreviewer = {Guo-Bao\ Zhang},
     number = {4},
     pages = {601--645},
-    title = {Existence, uniqueness and stability of transition fronts of non-local equations in time heterogeneous bistable media},
+    title = {Existence, uniqueness and stability of transition fronts
+   of non-local equations in time heterogeneous bistable
+   media},
     url = {https://doi.org/10.1017/s0956792519000202},
     volume = {31},
     year = {2020}

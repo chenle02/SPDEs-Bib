@@ -17,7 +17,8 @@ derrida:88:dynamics
     pages = {213--244},
     publisher = {Plenum, New York},
     series = {NATO Adv. Sci. Inst. Ser. B: Phys.},
-    title = {Dynamics of automata, spin glasses and neural network models},
+    title = {Dynamics of automata, spin glasses and neural network
+   models},
     url = {https://doi.org/10.1007/978-1-4613-1017-4_17},
     volume = {176},
     year = {1988}

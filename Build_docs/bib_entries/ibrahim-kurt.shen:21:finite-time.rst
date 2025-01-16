@@ -17,7 +17,9 @@ ibrahim-kurt.shen:21:finite-time
     mrnumber = {4212880},
     number = {1},
     pages = {973--1003},
-    title = {Finite-time blow-up prevention by logistic source in parabolic-elliptic chemotaxis models with singular sensitivity in any dimensional setting},
+    title = {Finite-time blow-up prevention by logistic source in
+   parabolic-elliptic chemotaxis models with singular
+   sensitivity in any dimensional setting},
     url = {https://doi.org/10.1137/20M1356609},
     volume = {53},
     year = {2021}

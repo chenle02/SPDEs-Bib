@@ -18,7 +18,8 @@ dalang.sanz-sole:05:regularity
     mrreviewer = {Roger Tribe},
     number = {2},
     pages = {304--337},
-    title = {Regularity of the sample paths of a class of second-order spde's},
+    title = {Regularity of the sample paths of a class of second-order
+   spde's},
     url = {https://doi.org/10.1016/j.jfa.2004.11.015},
     volume = {227},
     year = {2005}

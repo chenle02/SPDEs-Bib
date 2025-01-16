@@ -10,7 +10,8 @@ brunet.derrida:97:shift
    @article{brunet.derrida:97:shift,
     author = {Brunet, Eric and Derrida, Bernard},
     doi = {10.1103/PhysRevE.56.2597},
-    fjournal = {Physical Review E. Statistical, Nonlinear, and Soft Matter Physics},
+    fjournal = {Physical Review E. Statistical, Nonlinear, and Soft Matter
+   Physics},
     issn = {1539-3755},
     journal = {Phys. Rev. E (3)},
     mrclass = {82C31 (35K55 35Q99)},

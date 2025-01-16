@@ -18,7 +18,9 @@ peral.vazquez:95:on
     mrreviewer = {Qing Fang},
     number = {3},
     pages = {201--224},
-    title = {On the stability or instability of the singular solution of the semilinear heat equation with exponential reaction term},
+    title = {On the stability or instability of the singular solution
+   of the semilinear heat equation with exponential reaction
+   term},
     url = {https://doi.org/10.1007/BF00383673},
     volume = {129},
     year = {1995}

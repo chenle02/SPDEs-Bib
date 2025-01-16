@@ -9,7 +9,8 @@ hedberg:80:spectral
 
    @inproceedings{hedberg:80:spectral,
     author = {Hedberg, Lars Inge},
-    booktitle = {Euclidean harmonic analysis ({P}roc. {S}em., {U}niv. {M}aryland, {C}ollege {P}ark, {M}d., 1979)},
+    booktitle = {Euclidean harmonic analysis ({P}roc. {S}em., {U}niv.
+   {M}aryland, {C}ollege {P}ark, {M}d., 1979)},
     mrclass = {46E35 (41A65)},
     mrnumber = {576040},
     mrreviewer = {V. P. Khavin},

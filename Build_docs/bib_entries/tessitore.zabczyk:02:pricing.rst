@@ -9,7 +9,8 @@ tessitore.zabczyk:02:pricing
 
    @incollection{tessitore.zabczyk:02:pricing,
     author = {Tessitore, Gianmario and Zabczyk, Jerzy},
-    booktitle = {Stochastic processes and related topics ({S}iegmundsburg, 2000)},
+    booktitle = {Stochastic processes and related topics ({S}iegmundsburg,
+   2000)},
     mrclass = {91B28 (60G40 60G42)},
     mrnumber = {1987320},
     pages = {249--268},

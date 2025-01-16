@@ -16,7 +16,8 @@ mckean:67:exponential
     mrnumber = {224348},
     mrreviewer = {E. Bareiss},
     pages = {358--382},
-    title = {An exponential formula for solving {B}oltmann's equation for a {M}axwellian gas},
+    title = {An exponential formula for solving {B}oltmann's equation
+   for a {M}axwellian gas},
     volume = {2},
     year = {1967}
    }

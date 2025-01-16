@@ -18,7 +18,8 @@ spitzer:75:phase
     mrreviewer = {Richard\ Holley},
     number = {3},
     pages = {240--255},
-    title = {Phase transition in one-dimensional nearest-neighbor systems},
+    title = {Phase transition in one-dimensional nearest-neighbor
+   systems},
     url = {https://doi.org/10.1016/0022-1236(75)90043-9},
     volume = {20},
     year = {1975}

@@ -18,7 +18,8 @@ gei.manthey:94:comparison
     mrreviewer = {P. Kotelenez},
     number = {1},
     pages = {23--35},
-    title = {Comparison theorems for stochastic differential equations in finite and infinite dimensions},
+    title = {Comparison theorems for stochastic differential equations
+   in finite and infinite dimensions},
     url = {https://doi.org/10.1016/0304-4149(94)90055-8},
     volume = {53},
     year = {1994}

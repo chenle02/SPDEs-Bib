@@ -18,7 +18,8 @@ klebaner.lazar.ea:98:on
     mrreviewer = {G\"{o}ran\ H\"{o}gn\"{a}s},
     number = {1},
     pages = {300--315},
-    title = {On the quasi-stationary distribution for some randomly perturbed transformations of an interval},
+    title = {On the quasi-stationary distribution for some randomly
+   perturbed transformations of an interval},
     url = {https://doi.org/10.1214/aoap/1027961045},
     volume = {8},
     year = {1998}

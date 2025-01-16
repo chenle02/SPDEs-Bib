@@ -14,8 +14,11 @@ girko:88:spektral-naya-teoriya-sluchaui
     mrnumber = {955497},
     pages = {376},
     publisher = {``Nauka'', Moscow},
-    series = {\cyr Teoriya Veroyatnosteu{i} i Matematicheskaya Statistika. [Probability Theory and Mathematical Statistics]},
-    title = {{\cyr Spektral{\cprime}naya teoriya sluchau{i}} {\cyr nykh matrits}},
+    series = {\cyr Teoriya Veroyatnosteu{i} i Matematicheskaya
+   Statistika. [Probability Theory and Mathematical
+   Statistics]},
+    title = {{\cyr Spektral{\cprime}naya teoriya sluchau{i}} {\cyr nykh
+   matrits}},
     year = {1988}
    }
 

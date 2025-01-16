@@ -18,7 +18,8 @@ nourdin.peccati.ea:09:second
     mrreviewer = {Emmanuelle Clement},
     number = {2},
     pages = {593--609},
-    title = {Second order {P}oincar\'{e} inequalities and {CLT}s on {W}iener space},
+    title = {Second order {P}oincar\'{e} inequalities and {CLT}s on
+   {W}iener space},
     url = {https://doi.org/10.1016/j.jfa.2008.12.017},
     volume = {257},
     year = {2009}

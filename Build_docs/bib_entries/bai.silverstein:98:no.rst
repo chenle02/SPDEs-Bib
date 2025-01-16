@@ -17,7 +17,9 @@ bai.silverstein:98:no
     mrnumber = {1617051},
     number = {1},
     pages = {316--345},
-    title = {No eigenvalues outside the support of the limiting spectral distribution of large-dimensional sample covariance matrices},
+    title = {No eigenvalues outside the support of the limiting
+   spectral distribution of large-dimensional sample
+   covariance matrices},
     url = {https://doi.org/10.1214/aop/1022855421},
     volume = {26},
     year = {1998}

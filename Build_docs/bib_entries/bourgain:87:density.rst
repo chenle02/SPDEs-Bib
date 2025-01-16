@@ -17,7 +17,10 @@ bourgain:87:density
     pages = {151--156},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {A density condition for analyticity of the restriction algebra. {A}ppendix to: ``{O}n the dichotomy problem for tensor algebras'' [{T}rans. {A}mer. {M}ath. {S}oc. {\bf 293} (1986), no. 2, 793--798; {MR}0816324 (86m:43005)]},
+    title = {A density condition for analyticity of the restriction
+   algebra. {A}ppendix to: ``{O}n the dichotomy problem for
+   tensor algebras'' [{T}rans. {A}mer. {M}ath. {S}oc. {\bf
+   293} (1986), no. 2, 793--798; {MR}0816324 (86m:43005)]},
     url = {https://doi.org/10.1007/BFb0078142},
     volume = {1267},
     year = {1987}

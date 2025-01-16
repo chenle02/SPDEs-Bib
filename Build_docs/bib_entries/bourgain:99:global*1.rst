@@ -18,7 +18,8 @@ bourgain:99:global*1
     mrreviewer = {Tohru\ Ozawa},
     number = {1},
     pages = {145--171},
-    title = {Global wellposedness of defocusing critical nonlinear {S}chr\"{o}dinger equation in the radial case},
+    title = {Global wellposedness of defocusing critical nonlinear
+   {S}chr\"{o}dinger equation in the radial case},
     url = {https://doi.org/10.1090/S0894-0347-99-00283-0},
     volume = {12},
     year = {1999}

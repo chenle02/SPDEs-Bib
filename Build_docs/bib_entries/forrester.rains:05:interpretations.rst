@@ -18,7 +18,8 @@ forrester.rains:05:interpretations
     mrreviewer = {Uwe Grimm},
     number = {1},
     pages = {1--61},
-    title = {Interpretations of some parameter dependent generalizations of classical matrix ensembles},
+    title = {Interpretations of some parameter dependent
+   generalizations of classical matrix ensembles},
     url = {https://doi.org/10.1007/s00440-004-0375-6},
     volume = {131},
     year = {2005}

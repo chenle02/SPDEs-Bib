@@ -18,7 +18,8 @@ horstmann.wang:01:blow-up
     mrreviewer = {Lubomira G. Softova},
     number = {2},
     pages = {159--177},
-    title = {Blow-up in a chemotaxis model without symmetry assumptions},
+    title = {Blow-up in a chemotaxis model without symmetry
+   assumptions},
     url = {https://doi.org/10.1017/S0956792501004363},
     volume = {12},
     year = {2001}

@@ -8,7 +8,8 @@ baik.barraquand.ea:18:pfaffian
 .. code-block:: bibtex
 
    @article{baik.barraquand.ea:18:pfaffian,
-    author = {Baik, Jinho and Barraquand, Guillaume and Corwin, Ivan and Suidan, Toufic},
+    author = {Baik, Jinho and Barraquand, Guillaume and Corwin, Ivan and
+   Suidan, Toufic},
     doi = {10.1214/17-AOP1226},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ baik.barraquand.ea:18:pfaffian
     mrreviewer = {Zhongyang Li},
     number = {6},
     pages = {3015--3089},
-    title = {Pfaffian {S}chur processes and last passage percolation in a half-quadrant},
+    title = {Pfaffian {S}chur processes and last passage percolation in
+   a half-quadrant},
     url = {https://doi.org/10.1214/17-AOP1226},
     volume = {46},
     year = {2018}

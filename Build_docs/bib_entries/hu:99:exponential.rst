@@ -9,7 +9,8 @@ hu:99:exponential
 
    @incollection{hu:99:exponential,
     author = {Hu, Yaozhong},
-    booktitle = {Advances in stochastic inequalities ({A}tlanta, {GA}, 1997)},
+    booktitle = {Advances in stochastic inequalities ({A}tlanta, {GA},
+   1997)},
     doi = {10.1090/conm/234/03446},
     mrclass = {60J60 (60J35)},
     mrnumber = {1694764},

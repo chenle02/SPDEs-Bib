@@ -10,7 +10,8 @@ rhodes.vargas:14:spectral
    @article{rhodes.vargas:14:spectral,
     author = {Rhodes, R\'emi and Vargas, Vincent},
     doi = {10.1007/s00023-013-0308-y},
-    fjournal = {Annales Henri Poincar\'e. A Journal of Theoretical and Mathematical Physics},
+    fjournal = {Annales Henri Poincar\'e. A Journal of Theoretical and
+   Mathematical Physics},
     issn = {1424-0637,1424-0661},
     journal = {Ann. Henri Poincar\'e},
     mrclass = {81T20 (83C45 83E30)},

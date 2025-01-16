@@ -17,7 +17,8 @@ gill.johansen:90:survey
     mrnumber = {1074422},
     number = {4},
     pages = {1501--1555},
-    title = {A survey of product-integration with a view toward application in survival analysis},
+    title = {A survey of product-integration with a view toward
+   application in survival analysis},
     url = {https://doi.org/10.1214/aos/1176347865},
     volume = {18},
     year = {1990}

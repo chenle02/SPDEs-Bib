@@ -18,7 +18,8 @@ denk.hieber.ea:03:r-boundedness
     mrreviewer = {Alain Brillard},
     number = {788},
     pages = {viii+114},
-    title = {{$\scr R$}-boundedness, {F}ourier multipliers and problems of elliptic and parabolic type},
+    title = {{$\scr R$}-boundedness, {F}ourier multipliers and problems
+   of elliptic and parabolic type},
     url = {https://doi.org/10.1090/memo/0788},
     volume = {166},
     year = {2003}

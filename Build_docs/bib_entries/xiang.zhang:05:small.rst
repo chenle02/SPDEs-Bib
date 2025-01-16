@@ -10,7 +10,8 @@ xiang.zhang:05:small
    @article{xiang.zhang:05:small,
     author = {Xiang, Kai-Nan and Zhang, Tu-Sheng},
     doi = {10.1142/S0219025705002177},
-    fjournal = {Infinite Dimensional Analysis, Quantum Probability and Related Topics},
+    fjournal = {Infinite Dimensional Analysis, Quantum Probability and
+   Related Topics},
     issn = {0219-0257},
     journal = {Infin. Dimens. Anal. Quantum Probab. Relat. Top.},
     mrclass = {60F10 (60G57 60J60)},

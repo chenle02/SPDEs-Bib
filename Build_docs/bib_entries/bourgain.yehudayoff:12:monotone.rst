@@ -9,7 +9,8 @@ bourgain.yehudayoff:12:monotone
 
    @inproceedings{bourgain.yehudayoff:12:monotone,
     author = {Bourgain, Jean and Yehudayoff, Amir},
-    booktitle = {S{TOC}'12---{P}roceedings of the 2012 {ACM} {S}ymposium on {T}heory of {C}omputing},
+    booktitle = {S{TOC}'12---{P}roceedings of the 2012 {ACM} {S}ymposium on
+   {T}heory of {C}omputing},
     doi = {10.1145/2213977.2214073},
     isbn = {978-1-4503-1245-5},
     mrclass = {68R10 (05C40 68Q05)},

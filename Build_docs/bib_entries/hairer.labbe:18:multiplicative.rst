@@ -18,7 +18,8 @@ hairer.labbe:18:multiplicative
     mrreviewer = {Raluca M. Balan},
     number = {4},
     pages = {1005--1054},
-    title = {Multiplicative stochastic heat equations on the whole space},
+    title = {Multiplicative stochastic heat equations on the whole
+   space},
     url = {https://doi.org/10.4171/JEMS/781},
     volume = {20},
     year = {2018}

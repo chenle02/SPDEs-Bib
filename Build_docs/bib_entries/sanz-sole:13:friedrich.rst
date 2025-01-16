@@ -16,7 +16,8 @@ sanz-sole:13:friedrich
     mrnumber = {3115161},
     number = {33},
     pages = {12--13},
-    title = {Friedrich {H}irzebruch, 1927--2012, first president of the {E}uropean {M}athematical {S}ociety},
+    title = {Friedrich {H}irzebruch, 1927--2012, first president of the
+   {E}uropean {M}athematical {S}ociety},
     year = {2013}
    }
 

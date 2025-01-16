@@ -10,7 +10,8 @@ chen.rosen:05:exponential
    @article{chen.rosen:05:exponential,
     author = {Chen, Xia and Rosen, Jay},
     doi = {10.1016/j.anihpb.2004.09.006},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {60J55 (60G50 60G52)},
@@ -18,7 +19,8 @@ chen.rosen:05:exponential
     mrreviewer = {Ingo Fahrner},
     number = {5},
     pages = {901--928},
-    title = {Exponential asymptotics for intersection local times of stable processes and random walks},
+    title = {Exponential asymptotics for intersection local times of
+   stable processes and random walks},
     url = {https://doi.org/10.1016/j.anihpb.2004.09.006},
     volume = {41},
     year = {2005}

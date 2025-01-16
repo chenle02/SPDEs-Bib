@@ -8,7 +8,8 @@ buccheri.corsi.ea:21:continuous-time
 .. code-block:: bibtex
 
    @article{buccheri.corsi.ea:21:continuous-time,
-    author = {Buccheri, Giuseppe and Corsi, Fulvio and Flandoli, Franco and Livieri, Giulia},
+    author = {Buccheri, Giuseppe and Corsi, Fulvio and Flandoli, Franco
+   and Livieri, Giulia},
     doi = {10.1016/j.jeconom.2020.07.042},
     fjournal = {Journal of Econometrics},
     issn = {0304-4076,1872-6895},
@@ -17,7 +18,8 @@ buccheri.corsi.ea:21:continuous-time
     mrnumber = {4215043},
     number = {2},
     pages = {655--675},
-    title = {The continuous-time limit of score-driven volatility models},
+    title = {The continuous-time limit of score-driven volatility
+   models},
     url = {https://doi.org/10.1016/j.jeconom.2020.07.042},
     volume = {221},
     year = {2021}

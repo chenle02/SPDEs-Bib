@@ -12,10 +12,13 @@ lifshitz.pitaevskiui:80:course
     isbn = {0-08-023073-3; 0-08-023072-5},
     mrclass = {82-01},
     mrnumber = {586944},
-    note = {Statistical physics. Part 2. Theory of the condensed state, Translated from the Russian by J. B. Sykes and M. J. Kearsley},
+    note = {Statistical physics. Part 2. Theory of the condensed
+   state, Translated from the Russian by J. B. Sykes and M. J.
+   Kearsley},
     pages = {xi+387},
     publisher = {Pergamon Press, Oxford-Elmsford, N.Y.},
-    title = {Course of theoretical physics [``{L}andau-{L}ifshits'']. {V}ol. 9},
+    title = {Course of theoretical physics [``{L}andau-{L}ifshits''].
+   {V}ol. 9},
     year = {1980}
    }
 

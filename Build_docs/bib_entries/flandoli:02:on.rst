@@ -10,7 +10,8 @@ flandoli:02:on
    @article{flandoli:02:on,
     author = {Flandoli, Franco},
     doi = {10.1016/S0246-0203(01)01092-5},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
     mrclass = {76M35 (60J65 76D17 76F99)},
@@ -18,7 +19,8 @@ flandoli:02:on
     mrreviewer = {Azzouz\ Dermoune},
     number = {2},
     pages = {207--228},
-    title = {On a probabilistic description of small scale structures in 3{D} fluids},
+    title = {On a probabilistic description of small scale structures
+   in 3{D} fluids},
     url = {https://doi.org/10.1016/S0246-0203(01)01092-5},
     volume = {38},
     year = {2002}

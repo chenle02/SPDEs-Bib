@@ -15,8 +15,10 @@ abramowitz.stegun:64:handbook
     note = {For sale by the Superintendent of Documents},
     pages = {xiv+1046},
     publisher = {U. S. Government Printing Office, Washington, D.C.},
-    series = {National Bureau of Standards Applied Mathematics Series, No. 55},
-    title = {Handbook of mathematical functions with formulas, graphs, and mathematical tables},
+    series = {National Bureau of Standards Applied Mathematics Series,
+   No. 55},
+    title = {Handbook of mathematical functions with formulas, graphs,
+   and mathematical tables},
     year = {1964}
    }
 

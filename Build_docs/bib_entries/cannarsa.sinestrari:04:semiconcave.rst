@@ -15,8 +15,10 @@ cannarsa.sinestrari:04:semiconcave
     mrreviewer = {Pierre Cardaliaguet},
     pages = {xiv+304},
     publisher = {Birkh\"{a}user Boston, Inc., Boston, MA},
-    series = {Progress in Nonlinear Differential Equations and their Applications},
-    title = {Semiconcave functions, {H}amilton-{J}acobi equations, and optimal control},
+    series = {Progress in Nonlinear Differential Equations and their
+   Applications},
+    title = {Semiconcave functions, {H}amilton-{J}acobi equations, and
+   optimal control},
     volume = {58},
     year = {2004}
    }

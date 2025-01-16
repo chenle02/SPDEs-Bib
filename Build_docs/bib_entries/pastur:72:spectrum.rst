@@ -9,7 +9,8 @@ pastur:72:spectrum
 
    @article{pastur:72:spectrum,
     author = {Pastur, L. A.},
-    fjournal = {Akademiya Nauk SSSR. Teoreticheskaya i Matematicheskaya Fizika},
+    fjournal = {Akademiya Nauk SSSR. Teoreticheskaya i Matematicheskaya
+   Fizika},
     issn = {0564-6162},
     journal = {Teoret. Mat. Fiz.},
     mrclass = {81.60},

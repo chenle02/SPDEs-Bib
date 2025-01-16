@@ -18,7 +18,8 @@ nualart.ortiz-latorre:08:ito-stratonovich
     mrreviewer = {Laurent Decreusefond},
     number = {10},
     pages = {1803--1819},
-    title = {An {I}t\^{o}-{S}tratonovich formula for {G}aussian processes: a {R}iemann sums approach},
+    title = {An {I}t\^{o}-{S}tratonovich formula for {G}aussian
+   processes: a {R}iemann sums approach},
     url = {https://doi.org/10.1016/j.spa.2007.11.002},
     volume = {118},
     year = {2008}

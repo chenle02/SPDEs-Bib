@@ -18,7 +18,8 @@ wolfersdorf:94:on
     mrreviewer = {Alfredo Lorenzi},
     number = {12},
     pages = {919--932},
-    title = {On identification of memory kernels in linear theory of heat conduction},
+    title = {On identification of memory kernels in linear theory of
+   heat conduction},
     url = {https://doi.org/10.1002/mma.1670171202},
     volume = {17},
     year = {1994}

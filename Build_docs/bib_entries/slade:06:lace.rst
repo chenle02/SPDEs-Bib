@@ -13,7 +13,9 @@ slade:06:lace
     mrclass = {60K35 (82B27)},
     mrnumber = {2239599},
     mrreviewer = {Akira Sakai},
-    note = {Lectures from the 34th Summer School on Probability Theory held in Saint-Flour, July 6--24, 2004, Edited and with a foreword by Jean Picard},
+    note = {Lectures from the 34th Summer School on Probability Theory
+   held in Saint-Flour, July 6--24, 2004, Edited and with a
+   foreword by Jean Picard},
     pages = {xiv+228},
     publisher = {Springer-Verlag, Berlin},
     series = {Lecture Notes in Mathematics},

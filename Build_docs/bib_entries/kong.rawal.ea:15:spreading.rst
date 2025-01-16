@@ -18,7 +18,9 @@ kong.rawal.ea:15:spreading
     mrreviewer = {Ihsan\ Topaloglu},
     number = {6},
     pages = {113--141},
-    title = {Spreading speeds and linear determinacy for two species competition systems with nonlocal dispersal in periodic habitats},
+    title = {Spreading speeds and linear determinacy for two species
+   competition systems with nonlocal dispersal in periodic
+   habitats},
     url = {https://doi.org/10.1051/mmnp/201510609},
     volume = {10},
     year = {2015}

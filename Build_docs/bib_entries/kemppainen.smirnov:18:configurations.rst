@@ -17,7 +17,8 @@ kemppainen.smirnov:18:configurations
     mrnumber = {3847338},
     number = {3},
     pages = {875--889},
-    title = {Configurations of {FK} {I}sing interfaces and hypergeometric {SLE}},
+    title = {Configurations of {FK} {I}sing interfaces and
+   hypergeometric {SLE}},
     url = {https://doi.org/10.4310/MRL.2018.v25.n3.a7},
     volume = {25},
     year = {2018}

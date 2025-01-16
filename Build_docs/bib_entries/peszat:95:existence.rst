@@ -17,7 +17,8 @@ peszat:95:existence
     mrreviewer = {Jan\ I.\ Seidler},
     number = {3-4},
     pages = {167--193},
-    title = {Existence and uniqueness of the solution for stochastic equations on {B}anach spaces},
+    title = {Existence and uniqueness of the solution for stochastic
+   equations on {B}anach spaces},
     volume = {55},
     year = {1995}
    }

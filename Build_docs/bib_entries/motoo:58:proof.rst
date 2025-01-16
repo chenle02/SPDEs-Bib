@@ -17,7 +17,8 @@ motoo:58:proof
     mrnumber = {97866},
     mrreviewer = {J. Wolfowitz},
     pages = {21--28},
-    title = {Proof of the law of iterated logarithm through diffusion equation},
+    title = {Proof of the law of iterated logarithm through diffusion
+   equation},
     url = {https://doi.org/10.1007/BF02883984},
     volume = {10},
     year = {1958}

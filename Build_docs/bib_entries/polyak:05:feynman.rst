@@ -9,7 +9,8 @@ polyak:05:feynman
 
    @incollection{polyak:05:feynman,
     author = {Polyak, Michael},
-    booktitle = {Graphs and patterns in mathematics and theoretical physics},
+    booktitle = {Graphs and patterns in mathematics and theoretical
+   physics},
     doi = {10.1090/pspum/073/2131010},
     mrclass = {81Q30 (57M27 57R56 58D30 81T18)},
     mrnumber = {2131010},

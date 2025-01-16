@@ -18,7 +18,9 @@ liu.watbled:09:exponential
     mrreviewer = {Jean-Baptiste Bardet},
     number = {10},
     pages = {3101--3132},
-    title = {Exponential inequalities for martingales and asymptotic properties of the free energy of directed polymers in a random environment},
+    title = {Exponential inequalities for martingales and asymptotic
+   properties of the free energy of directed polymers in a
+   random environment},
     url = {https://doi.org/10.1016/j.spa.2009.05.001},
     volume = {119},
     year = {2009}

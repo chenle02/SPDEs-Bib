@@ -8,7 +8,8 @@ damanik.pushnitski.ea:08:analytic
 .. code-block:: bibtex
 
    @article{damanik.pushnitski.ea:08:analytic,
-    author = {Damanik, David and Pushnitski, Alexander and Simon, Barry},
+    author = {Damanik, David and Pushnitski, Alexander and Simon,
+   Barry},
     fjournal = {Surveys in Approximation Theory},
     issn = {1555-578X},
     journal = {Surv. Approx. Theory},

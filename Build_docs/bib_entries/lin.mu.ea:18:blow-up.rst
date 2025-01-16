@@ -17,7 +17,8 @@ lin.mu.ea:18:blow-up
     mrnumber = {3794098},
     number = {1},
     pages = {435--455},
-    title = {A blow-up result for a quasilinear chemotaxis system with logistic source in higher dimensions},
+    title = {A blow-up result for a quasilinear chemotaxis system with
+   logistic source in higher dimensions},
     url = {https://doi.org/10.1016/j.jmaa.2018.04.015},
     volume = {464},
     year = {2018}

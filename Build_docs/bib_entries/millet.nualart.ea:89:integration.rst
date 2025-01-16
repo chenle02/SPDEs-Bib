@@ -16,7 +16,8 @@ millet.nualart.ea:89:integration
     mrnumber = {972782},
     number = {1},
     pages = {208--238},
-    title = {Integration by parts and time reversal for diffusion processes},
+    title = {Integration by parts and time reversal for diffusion
+   processes},
     url = {http://links.jstor.org/sici?sici=0091-1798(198901)17:1<208:IBPATR>2.0.CO;2-2&origin=MSN},
     volume = {17},
     year = {1989}

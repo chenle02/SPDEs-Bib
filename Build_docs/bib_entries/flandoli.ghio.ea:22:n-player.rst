@@ -18,7 +18,8 @@ flandoli.ghio.ea:22:n-player
     mrreviewer = {Max\ Nendel},
     number = {3},
     pages = {Paper No. 25, 65},
-    title = {{$N$}-player games and mean field games of moderate interactions},
+    title = {{$N$}-player games and mean field games of moderate
+   interactions},
     url = {https://doi.org/10.1007/s00245-022-09834-7},
     volume = {85},
     year = {2022}

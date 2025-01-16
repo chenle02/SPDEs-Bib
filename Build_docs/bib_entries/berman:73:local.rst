@@ -17,7 +17,8 @@ berman:73:local
     mrnumber = {317397},
     mrreviewer = {P. M. Lee},
     pages = {69--94},
-    title = {Local nondeterminism and local times of {G}aussian processes},
+    title = {Local nondeterminism and local times of {G}aussian
+   processes},
     url = {https://doi.org/10.1512/iumj.1973.23.23006},
     volume = {23},
     year = {1973/74}

@@ -17,7 +17,8 @@ aizenman:82:geometric
     mrreviewer = {C. A. Hurst},
     number = {1},
     pages = {1--48},
-    title = {Geometric analysis of {$\varphi ^{4}$} fields and {I}sing models. {I}, {II}},
+    title = {Geometric analysis of {$\varphi ^{4}$} fields and {I}sing
+   models. {I}, {II}},
     url = {http://projecteuclid.org/euclid.cmp/1103921614},
     volume = {86},
     year = {1982}

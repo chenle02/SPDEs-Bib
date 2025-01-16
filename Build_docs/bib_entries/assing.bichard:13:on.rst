@@ -16,7 +16,8 @@ assing.bichard:13:on
     mrnumber = {3091716},
     mrreviewer = {Martin Ondrej\'{a}t},
     pages = {no. 70, 32},
-    title = {On the spatial dynamics of the solution to the stochastic heat equation},
+    title = {On the spatial dynamics of the solution to the stochastic
+   heat equation},
     url = {https://doi.org/10.1214/EJP.v18-2797},
     volume = {18},
     year = {2013}

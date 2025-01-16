@@ -17,7 +17,8 @@ li.shao:05:recent
     mrnumber = {2329259},
     number = {1},
     pages = {95--106},
-    title = {Recent developments on lower tail probabilities for {G}aussian processes},
+    title = {Recent developments on lower tail probabilities for
+   {G}aussian processes},
     url = {https://doi.org/10.1142/S0219607705000103},
     volume = {1},
     year = {2005}

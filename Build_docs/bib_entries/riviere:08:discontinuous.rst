@@ -16,9 +16,11 @@ riviere:08:discontinuous
     mrreviewer = {Colin J. Cotter},
     note = {Theory and implementation},
     pages = {xxii+190},
-    publisher = {Society for Industrial and Applied Mathematics (SIAM), Philadelphia, PA},
+    publisher = {Society for Industrial and Applied Mathematics (SIAM),
+   Philadelphia, PA},
     series = {Frontiers in Applied Mathematics},
-    title = {Discontinuous {G}alerkin methods for solving elliptic and parabolic equations},
+    title = {Discontinuous {G}alerkin methods for solving elliptic and
+   parabolic equations},
     url = {https://doi.org/10.1137/1.9780898717440},
     volume = {35},
     year = {2008}

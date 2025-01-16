@@ -8,7 +8,8 @@ angenent.tannenbaum.ea:06:curve
 .. code-block:: bibtex
 
    @incollection{angenent.tannenbaum.ea:06:curve,
-    author = {Angenent, Sigurd and Tannenbaum, Allen and Yezzi, Jr., Anthony and Zeitouni, Ofer},
+    author = {Angenent, Sigurd and Tannenbaum, Allen and Yezzi, Jr.,
+   Anthony and Zeitouni, Ofer},
     booktitle = {Statistics and analysis of shapes},
     doi = {10.1007/0-8176-4481-4\_12},
     isbn = {978-0-8176-4376-8; 0-8176-4376-1},

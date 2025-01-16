@@ -15,7 +15,8 @@ polya.szego:70:aufgaben
     pages = {xvi+338},
     publisher = {Springer-Verlag, Berlin-New York},
     series = {Heidelberger Taschenb\"{u}cher, Band 73},
-    title = {Aufgaben und {L}ehrs\"{a}tze aus der {A}nalysis. {B}and {I}: {R}eihen, {I}ntegralrechnung, {F}unktionentheorie},
+    title = {Aufgaben und {L}ehrs\"{a}tze aus der {A}nalysis. {B}and
+   {I}: {R}eihen, {I}ntegralrechnung, {F}unktionentheorie},
     year = {1970}
    }
 

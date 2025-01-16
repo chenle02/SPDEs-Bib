@@ -18,7 +18,8 @@ feyel.ustunel:04:monge-kantorovitch
     mrreviewer = {Nicolas Privault},
     number = {3},
     pages = {347--385},
-    title = {Monge-{K}antorovitch measure transportation and {M}onge-{A}mp\`ere equation on {W}iener space},
+    title = {Monge-{K}antorovitch measure transportation and
+   {M}onge-{A}mp\`ere equation on {W}iener space},
     url = {https://doi.org/10.1007/s00440-003-0307-x},
     volume = {128},
     year = {2004}

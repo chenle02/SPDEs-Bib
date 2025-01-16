@@ -19,7 +19,8 @@ bourgain.gamburd:09:expansion
     note = {With an appendix by Bourgain},
     number = {5},
     pages = {1057--1103},
-    title = {Expansion and random walks in {${\rm SL}_d(\Bbb Z/p^n\Bbb Z)$}. {II}},
+    title = {Expansion and random walks in {${\rm SL}_d(\Bbb Z/p^n\Bbb
+   Z)$}. {II}},
     url = {https://doi.org/10.4171/JEMS/175},
     volume = {11},
     year = {2009}

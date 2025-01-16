@@ -18,7 +18,8 @@ hairer.xu:18:large-scale
     mrreviewer = {Cyril Labb\'{e}},
     number = {4},
     pages = {688--746},
-    title = {Large-scale behavior of three-dimensional continuous phase coexistence models},
+    title = {Large-scale behavior of three-dimensional continuous phase
+   coexistence models},
     url = {https://doi.org/10.1002/cpa.21738},
     volume = {71},
     year = {2018}

@@ -17,7 +17,8 @@ bourgain:05:greens
     pages = {x+173},
     publisher = {Princeton University Press, Princeton, NJ},
     series = {Annals of Mathematics Studies},
-    title = {Green's function estimates for lattice {S}chr\"{o}dinger operators and applications},
+    title = {Green's function estimates for lattice {S}chr\"{o}dinger
+   operators and applications},
     url = {https://doi.org/10.1515/9781400837144},
     volume = {158},
     year = {2005}

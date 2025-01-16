@@ -17,7 +17,9 @@ salako.shen.ea:19:can
     mrnumber = {4019929},
     number = {4},
     pages = {1455--1490},
-    title = {Can chemotaxis speed up or slow down the spatial spreading in parabolic-elliptic {K}eller-{S}egel systems with logistic source?},
+    title = {Can chemotaxis speed up or slow down the spatial spreading
+   in parabolic-elliptic {K}eller-{S}egel systems with
+   logistic source?},
     url = {https://doi.org/10.1007/s00285-019-01400-0},
     volume = {79},
     year = {2019}

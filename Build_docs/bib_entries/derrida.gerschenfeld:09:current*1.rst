@@ -18,7 +18,8 @@ derrida.gerschenfeld:09:current*1
     mrreviewer = {Enza\ Orlandi},
     number = {5-6},
     pages = {978--1000},
-    title = {Current fluctuations in one dimensional diffusive systems with a step initial density profile},
+    title = {Current fluctuations in one dimensional diffusive systems
+   with a step initial density profile},
     url = {https://doi.org/10.1007/s10955-009-9830-1},
     volume = {137},
     year = {2009}

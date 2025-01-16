@@ -17,7 +17,8 @@ burkholder.gundy:70:extrapolation
     mrnumber = {440695},
     mrreviewer = {Maurizio Pratelli},
     pages = {249--304},
-    title = {Extrapolation and interpolation of quasi-linear operators on martingales},
+    title = {Extrapolation and interpolation of quasi-linear operators
+   on martingales},
     url = {https://doi.org/10.1007/BF02394573},
     volume = {124},
     year = {1970}

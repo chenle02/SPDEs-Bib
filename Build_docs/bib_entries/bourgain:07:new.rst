@@ -9,7 +9,8 @@ bourgain:07:new
 
    @incollection{bourgain:07:new,
     author = {Bourgain, Jean},
-    booktitle = {Spectral theory and mathematical physics: a {F}estschrift in honor of {B}arry {S}imon's 60th birthday},
+    booktitle = {Spectral theory and mathematical physics: a {F}estschrift
+   in honor of {B}arry {S}imon's 60th birthday},
     doi = {10.1090/pspum/076.2/2307745},
     isbn = {978-0-8218-4249-2},
     mrclass = {43A75 (11T30 22E30 54H15 81Q10)},

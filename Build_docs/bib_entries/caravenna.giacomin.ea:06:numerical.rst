@@ -8,7 +8,8 @@ caravenna.giacomin.ea:06:numerical
 .. code-block:: bibtex
 
    @article{caravenna.giacomin.ea:06:numerical,
-    author = {Caravenna, Francesco and Giacomin, Giambattista and Gubinelli, Massimiliano},
+    author = {Caravenna, Francesco and Giacomin, Giambattista and
+   Gubinelli, Massimiliano},
     doi = {10.1007/s10955-005-8081-z},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715},
@@ -18,7 +19,8 @@ caravenna.giacomin.ea:06:numerical
     mrreviewer = {Stuart G. Whittington},
     number = {4},
     pages = {799--832},
-    title = {A numerical approach to copolymers at selective interfaces},
+    title = {A numerical approach to copolymers at selective
+   interfaces},
     url = {https://doi.org/10.1007/s10955-005-8081-z},
     volume = {122},
     year = {2006}

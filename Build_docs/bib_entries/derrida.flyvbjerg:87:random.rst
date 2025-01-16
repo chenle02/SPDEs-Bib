@@ -17,7 +17,8 @@ derrida.flyvbjerg:87:random
     mrnumber = {900557},
     number = {6},
     pages = {971--978},
-    title = {The random map model: a disordered model with deterministic dynamics},
+    title = {The random map model: a disordered model with
+   deterministic dynamics},
     url = {https://doi.org/10.1051/jphys:01987004806097100},
     volume = {48},
     year = {1987}

@@ -8,7 +8,8 @@ aronson.caffarelli.ea:85:interfaces
 .. code-block:: bibtex
 
    @article{aronson.caffarelli.ea:85:interfaces,
-    author = {Aronson, D. G. and Caffarelli, L. A. and V\'{a}zquez, Juan Luis},
+    author = {Aronson, D. G. and Caffarelli, L. A. and V\'{a}zquez, Juan
+   Luis},
     doi = {10.1002/cpa.3160380404},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640},
@@ -18,7 +19,8 @@ aronson.caffarelli.ea:85:interfaces
     mrreviewer = {Rouben Rostamian},
     number = {4},
     pages = {375--404},
-    title = {Interfaces with a corner point in one-dimensional porous medium flow},
+    title = {Interfaces with a corner point in one-dimensional porous
+   medium flow},
     url = {https://doi.org/10.1002/cpa.3160380404},
     volume = {38},
     year = {1985}

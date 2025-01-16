@@ -17,7 +17,8 @@ bao.li.ea:16:traveling
     mrnumber = {3482693},
     number = {12},
     pages = {8590--8637},
-    title = {Traveling wave solutions of {L}otka-{V}olterra competition systems with nonlocal dispersal in periodic habitats},
+    title = {Traveling wave solutions of {L}otka-{V}olterra competition
+   systems with nonlocal dispersal in periodic habitats},
     url = {https://doi.org/10.1016/j.jde.2016.02.032},
     volume = {260},
     year = {2016}

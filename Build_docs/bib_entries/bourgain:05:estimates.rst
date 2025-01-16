@@ -18,7 +18,8 @@ bourgain:05:estimates
     mrreviewer = {Ben\ Joseph\ Green},
     number = {1},
     pages = {1--34},
-    title = {Estimates on exponential sums related to the {D}iffie-{H}ellman distributions},
+    title = {Estimates on exponential sums related to the
+   {D}iffie-{H}ellman distributions},
     url = {https://doi.org/10.1007/s00039-005-0500-4},
     volume = {15},
     year = {2005}

@@ -8,7 +8,8 @@ roy.olver.ea:10:algebraic
 .. code-block:: bibtex
 
    @incollection{roy.olver.ea:10:algebraic,
-    author = {Roy, R. and Olver, F. W. J. and Askey, R. A. and Wong, R.},
+    author = {Roy, R. and Olver, F. W. J. and Askey, R. A. and Wong,
+   R.},
     booktitle = {N{IST} handbook of mathematical functions},
     mrclass = {26-01 (15-01 30-01)},
     mrnumber = {2655341},

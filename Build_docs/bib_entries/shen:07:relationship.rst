@@ -17,7 +17,8 @@ shen:07:relationship
     mrnumber = {2318619},
     number = {2},
     pages = {205--213},
-    title = {A relationship between the {D}irichlet and regularity problems for elliptic equations},
+    title = {A relationship between the {D}irichlet and regularity
+   problems for elliptic equations},
     url = {https://doi.org/10.4310/MRL.2007.v14.n2.a4},
     volume = {14},
     year = {2007}

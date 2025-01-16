@@ -18,7 +18,8 @@ hedberg:81:spectral
     mrreviewer = {David R. Adams},
     number = {3-4},
     pages = {237--264},
-    title = {Spectral synthesis in {S}obolev spaces, and uniqueness of solutions of the {D}irichlet problem},
+    title = {Spectral synthesis in {S}obolev spaces, and uniqueness of
+   solutions of the {D}irichlet problem},
     url = {https://doi.org/10.1007/BF02392874},
     volume = {147},
     year = {1981}

@@ -10,7 +10,9 @@ polchinski:90:critical
    @article{polchinski:90:critical,
     author = {Polchinski, Joseph},
     doi = {10.1016/0550-3213(90)90280-Q},
-    fjournal = {Nuclear Physics. B. Theoretical, Phenomenological, and Experimental High Energy Physics. Quantum Field Theory and Statistical Systems},
+    fjournal = {Nuclear Physics. B. Theoretical, Phenomenological, and
+   Experimental High Energy Physics. Quantum Field Theory and
+   Statistical Systems},
     issn = {0550-3213},
     journal = {Nuclear Phys. B},
     mrclass = {81T40 (81T27 81T30)},

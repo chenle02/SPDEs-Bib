@@ -18,7 +18,8 @@ kabluchko:15:critical
     mrreviewer = {Hiroshi Sekigawa},
     number = {2},
     pages = {695--702},
-    title = {Critical points of random polynomials with independent identically distributed roots},
+    title = {Critical points of random polynomials with independent
+   identically distributed roots},
     url = {https://doi.org/10.1090/S0002-9939-2014-12258-1},
     volume = {143},
     year = {2015}

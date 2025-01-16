@@ -17,7 +17,8 @@ sanz-sole.torrecilla-tarantino:07:probability
     mrnumber = {2339298},
     mrreviewer = {Erika Hausenblas},
     pages = {365--380},
-    title = {Probability density for a hyperbolic {SPDE} with time dependent coefficients},
+    title = {Probability density for a hyperbolic {SPDE} with time
+   dependent coefficients},
     url = {https://doi.org/10.1051/ps:2007024},
     volume = {11},
     year = {2007}

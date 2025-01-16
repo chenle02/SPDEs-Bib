@@ -8,7 +8,8 @@ lacoin.simenhaus.ea:15:heat
 .. code-block:: bibtex
 
    @article{lacoin.simenhaus.ea:15:heat,
-    author = {Lacoin, Hubert and Simenhaus, Fran\c cois and Toninelli, Fabio},
+    author = {Lacoin, Hubert and Simenhaus, Fran\c cois and Toninelli,
+   Fabio},
     doi = {10.1002/cpa.21533},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640,1097-0312},

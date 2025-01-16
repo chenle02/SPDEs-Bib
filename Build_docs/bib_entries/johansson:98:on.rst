@@ -18,7 +18,8 @@ johansson:98:on
     mrreviewer = {Estelle L. Basor},
     number = {1},
     pages = {151--204},
-    title = {On fluctuations of eigenvalues of random {H}ermitian matrices},
+    title = {On fluctuations of eigenvalues of random {H}ermitian
+   matrices},
     url = {https://doi.org/10.1215/S0012-7094-98-09108-6},
     volume = {91},
     year = {1998}

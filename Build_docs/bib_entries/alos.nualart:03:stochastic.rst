@@ -18,7 +18,8 @@ alos.nualart:03:stochastic
     mrreviewer = {Nicolas Privault},
     number = {3},
     pages = {129--152},
-    title = {Stochastic integration with respect to the fractional {B}rownian motion},
+    title = {Stochastic integration with respect to the fractional
+   {B}rownian motion},
     url = {https://doi.org/10.1080/1045112031000078917},
     volume = {75},
     year = {2003}

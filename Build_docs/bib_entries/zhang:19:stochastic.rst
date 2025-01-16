@@ -17,7 +17,8 @@ zhang:19:stochastic
     mrnumber = {3983045},
     number = {8},
     pages = {4537--4571},
-    title = {Stochastic {B}urgers type equations with reflection: existence, uniqueness},
+    title = {Stochastic {B}urgers type equations with reflection:
+   existence, uniqueness},
     url = {https://doi.org/10.1016/j.jde.2019.05.008},
     volume = {267},
     year = {2019}

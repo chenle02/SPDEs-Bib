@@ -15,7 +15,8 @@ huang:15:stochastic
     note = {Thesis (Ph.D.)--University of Kansas},
     pages = {294},
     publisher = {ProQuest LLC, Ann Arbor, MI},
-    title = {Stochastic partial differential equations driven by colored noise},
+    title = {Stochastic partial differential equations driven by
+   colored noise},
     url = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:3706836},
     year = {2015}
    }

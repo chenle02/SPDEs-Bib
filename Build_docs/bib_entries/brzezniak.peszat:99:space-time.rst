@@ -18,7 +18,8 @@ brzezniak.peszat:99:space-time
     mrreviewer = {Catherine Donati-Martin},
     number = {3},
     pages = {261--299},
-    title = {Space-time continuous solutions to {SPDE}'s driven by a homogeneous {W}iener process},
+    title = {Space-time continuous solutions to {SPDE}'s driven by a
+   homogeneous {W}iener process},
     url = {https://doi.org/10.4064/sm-137-3-261-299},
     volume = {137},
     year = {1999}

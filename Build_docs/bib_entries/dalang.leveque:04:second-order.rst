@@ -9,13 +9,15 @@ dalang.leveque:04:second-order
 
    @incollection{dalang.leveque:04:second-order,
     author = {Dalang, Robert C. and L\'{e}v\^{e}que, Olivier},
-    booktitle = {Seminar on {S}tochastic {A}nalysis, {R}andom {F}ields and {A}pplications {IV}},
+    booktitle = {Seminar on {S}tochastic {A}nalysis, {R}andom {F}ields and
+   {A}pplications {IV}},
     mrclass = {60H15 (35L10 35R60)},
     mrnumber = {2096282},
     pages = {83--93},
     publisher = {Birkh\"{a}user, Basel},
     series = {Progr. Probab.},
-    title = {Second-order hyperbolic {S}.{P}.{D}.{E}.'s driven by boundary noises},
+    title = {Second-order hyperbolic {S}.{P}.{D}.{E}.'s driven by
+   boundary noises},
     volume = {58},
     year = {2004}
    }

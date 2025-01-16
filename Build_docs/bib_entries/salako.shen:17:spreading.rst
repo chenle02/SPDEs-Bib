@@ -17,7 +17,9 @@ salako.shen:17:spreading
     mrnumber = {3690300},
     number = {12},
     pages = {6189--6225},
-    title = {Spreading speeds and traveling waves of a parabolic-elliptic chemotaxis system with logistic source on {$\Bbb R^N$}},
+    title = {Spreading speeds and traveling waves of a
+   parabolic-elliptic chemotaxis system with logistic source
+   on {$\Bbb R^N$}},
     url = {https://doi.org/10.3934/dcds.2017268},
     volume = {37},
     year = {2017}

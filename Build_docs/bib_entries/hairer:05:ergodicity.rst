@@ -18,7 +18,8 @@ hairer:05:ergodicity
     mrreviewer = {Pedro Mar\'{i}n Rubio},
     number = {2},
     pages = {703--758},
-    title = {Ergodicity of stochastic differential equations driven by fractional {B}rownian motion},
+    title = {Ergodicity of stochastic differential equations driven by
+   fractional {B}rownian motion},
     url = {https://doi.org/10.1214/009117904000000892},
     volume = {33},
     year = {2005}

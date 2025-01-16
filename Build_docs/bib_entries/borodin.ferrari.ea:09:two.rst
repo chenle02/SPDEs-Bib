@@ -8,7 +8,8 @@ borodin.ferrari.ea:09:two
 .. code-block:: bibtex
 
    @article{borodin.ferrari.ea:09:two,
-    author = {Borodin, Alexei and Ferrari, Patrik L. and Sasamoto, Tomohiro},
+    author = {Borodin, Alexei and Ferrari, Patrik L. and Sasamoto,
+   Tomohiro},
     doi = {10.1007/s10955-009-9837-7},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715},

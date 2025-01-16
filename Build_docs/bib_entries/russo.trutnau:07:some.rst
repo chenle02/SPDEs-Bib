@@ -18,7 +18,8 @@ russo.trutnau:07:some
     mrreviewer = {Jan I. Seidler},
     number = {6},
     pages = {2213--2262},
-    title = {Some parabolic {PDE}s whose drift is an irregular random noise in space},
+    title = {Some parabolic {PDE}s whose drift is an irregular random
+   noise in space},
     url = {https://doi.org/10.1214/009117906000001178},
     volume = {35},
     year = {2007}

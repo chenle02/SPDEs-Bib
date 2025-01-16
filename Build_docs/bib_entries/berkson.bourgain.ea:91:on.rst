@@ -18,7 +18,8 @@ berkson.bourgain.ea:91:on
     mrreviewer = {M.\ A.\ Akcoglu},
     number = {5},
     pages = {678--715},
-    title = {On the almost everywhere convergence of ergodic averages for power-bounded operators on {$L^p$}-subspaces},
+    title = {On the almost everywhere convergence of ergodic averages
+   for power-bounded operators on {$L^p$}-subspaces},
     url = {https://doi.org/10.1007/BF01200555},
     volume = {14},
     year = {1991}

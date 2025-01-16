@@ -8,7 +8,8 @@ bourgain.konyagin.ea:09:corrigenda
 .. code-block:: bibtex
 
    @article{bourgain.konyagin.ea:09:corrigenda,
-    author = {Bourgain, Jean and Konyagin, Sergei V. and Shparlinski, Igor E.},
+    author = {Bourgain, Jean and Konyagin, Sergei V. and Shparlinski,
+   Igor E.},
     doi = {10.1093/imrn/rnp041},
     fjournal = {International Mathematics Research Notices. IMRN},
     issn = {1073-7928,1687-0247},
@@ -17,7 +18,9 @@ bourgain.konyagin.ea:09:corrigenda
     mrnumber = {2533800},
     number = {16},
     pages = {3146--3147},
-    title = {Corrigenda to: {P}roduct sets of rationals, multiplicative translates of subgroups in residue rings and fixed points of the discrete logarithm [MR2439546]},
+    title = {Corrigenda to: {P}roduct sets of rationals, multiplicative
+   translates of subgroups in residue rings and fixed points
+   of the discrete logarithm [MR2439546]},
     url = {https://doi.org/10.1093/imrn/rnp041},
     year = {2009}
    }

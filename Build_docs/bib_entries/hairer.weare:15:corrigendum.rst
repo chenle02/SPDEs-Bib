@@ -17,7 +17,8 @@ hairer.weare:15:corrigendum
     mrnumber = {3366746},
     number = {8},
     pages = {1285--1286},
-    title = {Corrigendum: {I}mproved diffusion {M}onte {C}arlo [ {MR}3272366]},
+    title = {Corrigendum: {I}mproved diffusion {M}onte {C}arlo [
+   {MR}3272366]},
     url = {https://doi.org/10.1002/cpa.21587},
     volume = {68},
     year = {2015}

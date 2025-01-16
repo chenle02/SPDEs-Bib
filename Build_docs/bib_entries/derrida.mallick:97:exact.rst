@@ -18,7 +18,8 @@ derrida.mallick:97:exact
     mrreviewer = {Ellen\ Saada},
     number = {4},
     pages = {1031--1046},
-    title = {Exact diffusion constant for the one-dimensional partially asymmetric exclusion model},
+    title = {Exact diffusion constant for the one-dimensional partially
+   asymmetric exclusion model},
     url = {https://doi.org/10.1088/0305-4470/30/4/007},
     volume = {30},
     year = {1997}

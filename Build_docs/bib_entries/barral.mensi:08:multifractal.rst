@@ -18,7 +18,8 @@ barral.mensi:08:multifractal
     mrreviewer = {Lars\ Olsen},
     number = {10},
     pages = {2409--2425},
-    title = {Multifractal analysis of {B}irkhoff averages on `self-affine' symbolic spaces},
+    title = {Multifractal analysis of {B}irkhoff averages on
+   `self-affine' symbolic spaces},
     url = {https://doi.org/10.1088/0951-7715/21/10/011},
     volume = {21},
     year = {2008}

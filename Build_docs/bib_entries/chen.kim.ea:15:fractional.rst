@@ -11,14 +11,15 @@ chen.kim.ea:15:fractional
     author = {Chen, Zhen-Qing and Kim, Kyeong-Hun and Kim, Panki},
     doi = {10.1016/j.spa.2014.11.005},
     fjournal = {Stochastic Processes and their Applications},
-    issn = {0304-4149,1879-209X},
+    issn = {0304-4149},
     journal = {Stochastic Process. Appl.},
     mrclass = {60H15 (35R11 35R60)},
     mrnumber = {3310354},
-    mrreviewer = {Le\ Chen},
+    mrreviewer = {Le Chen},
     number = {4},
     pages = {1470--1499},
-    title = {Fractional time stochastic partial differential equations},
+    title = {Fractional time stochastic partial differential
+   equations},
     url = {https://doi.org/10.1016/j.spa.2014.11.005},
     volume = {125},
     year = {2015}

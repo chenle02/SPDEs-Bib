@@ -18,7 +18,8 @@ slade:18:critical
     mrreviewer = {B. L. Granovsky},
     number = {1},
     pages = {343--436},
-    title = {Critical exponents for long-range {$O(n)$} models below the upper critical dimension},
+    title = {Critical exponents for long-range {$O(n)$} models below
+   the upper critical dimension},
     url = {https://doi.org/10.1007/s00220-017-3024-5},
     volume = {358},
     year = {2018}

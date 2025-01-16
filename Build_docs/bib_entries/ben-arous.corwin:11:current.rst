@@ -18,7 +18,8 @@ ben-arous.corwin:11:current
     mrreviewer = {Maria E. Vares},
     number = {1},
     pages = {104--138},
-    title = {Current fluctuations for {TASEP}: a proof of the {P}r\"{a}hofer-{S}pohn conjecture},
+    title = {Current fluctuations for {TASEP}: a proof of the
+   {P}r\"{a}hofer-{S}pohn conjecture},
     url = {https://doi.org/10.1214/10-AOP550},
     volume = {39},
     year = {2011}

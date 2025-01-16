@@ -16,7 +16,8 @@ nourdin.nualart.ea:13:absolute
     mrnumber = {3035750},
     mrreviewer = {No\`elia Viles},
     pages = {no. 22, 19},
-    title = {Absolute continuity and convergence of densities for random vectors on {W}iener chaos},
+    title = {Absolute continuity and convergence of densities for
+   random vectors on {W}iener chaos},
     url = {https://doi.org/10.1214/EJP.v18-2181},
     volume = {18},
     year = {2013}

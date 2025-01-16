@@ -16,7 +16,8 @@ smoller:94:shock
     mrnumber = {1301779},
     pages = {xxiv+632},
     publisher = {Springer-Verlag, New York},
-    series = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+    series = {Grundlehren der mathematischen Wissenschaften [Fundamental
+   Principles of Mathematical Sciences]},
     title = {Shock waves and reaction-diffusion equations},
     url = {https://doi.org/10.1007/978-1-4612-0873-0},
     volume = {258},

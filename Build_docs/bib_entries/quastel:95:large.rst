@@ -17,7 +17,8 @@ quastel:95:large
     mrreviewer = {Christian Maes},
     number = {2},
     pages = {724--742},
-    title = {Large deviations from a hydrodynamic scaling limit for a nongradient system},
+    title = {Large deviations from a hydrodynamic scaling limit for a
+   nongradient system},
     url = {http://links.jstor.org/sici?sici=0091-1798(199504)23:2<724:LDFAHS>2.0.CO;2-7&origin=MSN},
     volume = {23},
     year = {1995}

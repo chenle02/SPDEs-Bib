@@ -9,14 +9,16 @@ bourgain.milman:85:sections
 
    @article{bourgain.milman:85:sections,
     author = {Bourgain, Jean and Milman, Vitali D.},
-    fjournal = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
+    fjournal = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des
+   Sciences. S\'{e}rie I. Math\'{e}matique},
     issn = {0249-6291},
     journal = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
     mrclass = {52A40 (46B99 52A20)},
     mrnumber = {794017},
     number = {13},
     pages = {435--438},
-    title = {Sections euclidiennes et volume des corps sym\'{e}triques convexes dans {${\bf R}^n$}},
+    title = {Sections euclidiennes et volume des corps sym\'{e}triques
+   convexes dans {${\bf R}^n$}},
     volume = {300},
     year = {1985}
    }

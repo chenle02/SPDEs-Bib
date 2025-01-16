@@ -14,7 +14,8 @@ federer:69:geometric
     mrreviewer = {J. E. Brothers},
     pages = {xiv+676},
     publisher = {Springer-Verlag New York, Inc., New York},
-    series = {Die Grundlehren der mathematischen Wissenschaften, Band 153},
+    series = {Die Grundlehren der mathematischen Wissenschaften, Band
+   153},
     title = {Geometric measure theory},
     year = {1969}
    }

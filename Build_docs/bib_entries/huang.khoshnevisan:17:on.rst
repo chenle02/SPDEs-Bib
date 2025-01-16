@@ -16,7 +16,8 @@ huang.khoshnevisan:17:on
     mrnumber = {3710805},
     mrreviewer = {Paul Andr\'{e} Razafimandimby},
     pages = {Paper No. 49, 11},
-    title = {On the multifractal local behavior of parabolic stochastic {PDE}s},
+    title = {On the multifractal local behavior of parabolic stochastic
+   {PDE}s},
     url = {https://doi.org/10.1214/17-ECP86},
     volume = {22},
     year = {2017}

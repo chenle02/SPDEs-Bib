@@ -8,7 +8,8 @@ baxter.jain.ea:93:large
 .. code-block:: bibtex
 
    @article{baxter.jain.ea:93:large,
-    author = {Baxter, J. R. and Jain, N. C. and Sepp\"{a}l\"{a}inen, T. O.},
+    author = {Baxter, J. R. and Jain, N. C. and Sepp\"{a}l\"{a}inen, T.
+   O.},
     fjournal = {Illinois Journal of Mathematics},
     issn = {0019-2082},
     journal = {Illinois J. Math.},

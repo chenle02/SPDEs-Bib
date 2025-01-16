@@ -9,7 +9,8 @@ amadori:95:unstable
 
    @article{amadori:95:unstable,
     author = {Amadori, Debora},
-    fjournal = {Differential and Integral Equations. An International Journal for Theory \& Applications},
+    fjournal = {Differential and Integral Equations. An International
+   Journal for Theory \& Applications},
     issn = {0893-4983},
     journal = {Differential Integral Equations},
     mrclass = {35K60 (35B40)},

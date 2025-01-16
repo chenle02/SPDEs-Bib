@@ -9,7 +9,8 @@ dembo.zeitouni:97:moderate
 
    @incollection{dembo.zeitouni:97:moderate,
     author = {Dembo, A. and Zeitouni, O.},
-    booktitle = {Statistics and control of stochastic processes ({M}oscow, 1995/1996)},
+    booktitle = {Statistics and control of stochastic processes ({M}oscow,
+   1995/1996)},
     isbn = {981-02-3292-6},
     mrclass = {60F10 (28D05 60G10)},
     mrnumber = {1647246},

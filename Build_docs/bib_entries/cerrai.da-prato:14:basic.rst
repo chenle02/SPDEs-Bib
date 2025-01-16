@@ -18,7 +18,9 @@ cerrai.da-prato:14:basic
     mrreviewer = {Vassili N. Kolokol{\cprime}tsov},
     number = {4},
     pages = {1297--1336},
-    title = {A basic identity for {K}olmogorov operators in the space of continuous functions related to {RDE}s with multiplicative noise},
+    title = {A basic identity for {K}olmogorov operators in the space
+   of continuous functions related to {RDE}s with
+   multiplicative noise},
     url = {https://doi.org/10.1214/13-AOP853},
     volume = {42},
     year = {2014}

@@ -18,7 +18,8 @@ nualart.viens:00:evolution
     mrreviewer = {Jorge A. Le\'{o}n},
     number = {1},
     pages = {36--73},
-    title = {Evolution equation of a stochastic semigroup with white-noise drift},
+    title = {Evolution equation of a stochastic semigroup with
+   white-noise drift},
     url = {https://doi.org/10.1214/aop/1019160111},
     volume = {28},
     year = {2000}

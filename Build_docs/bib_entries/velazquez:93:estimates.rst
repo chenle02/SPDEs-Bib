@@ -18,7 +18,8 @@ velazquez:93:estimates
     mrreviewer = {Song Mu Zheng},
     number = {2},
     pages = {445--476},
-    title = {Estimates on the {$(n-1)$}-dimensional {H}ausdorff measure of the blow-up set for a semilinear heat equation},
+    title = {Estimates on the {$(n-1)$}-dimensional {H}ausdorff measure
+   of the blow-up set for a semilinear heat equation},
     url = {https://doi.org/10.1512/iumj.1993.42.42021},
     volume = {42},
     year = {1993}

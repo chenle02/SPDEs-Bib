@@ -18,7 +18,8 @@ deift.venakides.ea:94:collisionless
     mrreviewer = {Alexey\ V.\ Samokhin},
     number = {2},
     pages = {199--206},
-    title = {The collisionless shock region for the long-time behavior of solutions of the {K}d{V} equation},
+    title = {The collisionless shock region for the long-time behavior
+   of solutions of the {K}d{V} equation},
     url = {https://doi.org/10.1002/cpa.3160470204},
     volume = {47},
     year = {1994}

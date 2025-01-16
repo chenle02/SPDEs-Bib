@@ -14,7 +14,8 @@ ito.mckean:74:diffusion
     note = {Second printing, corrected},
     pages = {xv+321},
     publisher = {Springer-Verlag, Berlin-New York},
-    series = {Die Grundlehren der mathematischen Wissenschaften, Band 125},
+    series = {Die Grundlehren der mathematischen Wissenschaften, Band
+   125},
     title = {Diffusion processes and their sample paths},
     year = {1974}
    }

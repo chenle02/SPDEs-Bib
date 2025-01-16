@@ -8,7 +8,9 @@ corneli.corwin.ea:08:double
 .. code-block:: bibtex
 
    @article{corneli.corwin.ea:08:double,
-    author = {Corneli, J. and Corwin, I. and Hurder, S. and Sesum, V. and Xu, Y. and Adams, E. and Davis, D. and Lee, M. and Visocchi, R. and Hoffman, N.},
+    author = {Corneli, J. and Corwin, I. and Hurder, S. and Sesum, V.
+   and Xu, Y. and Adams, E. and Davis, D. and Lee, M. and
+   Visocchi, R. and Hoffman, N.},
     fjournal = {Houston Journal of Mathematics},
     issn = {0362-1588},
     journal = {Houston J. Math.},

@@ -17,7 +17,8 @@ reade:51:characterization
     mrnumber = {40747},
     mrreviewer = {E. F. Beckenbach},
     pages = {47--54},
-    title = {A characterization of minimal surfaces in isothermic representation},
+    title = {A characterization of minimal surfaces in isothermic
+   representation},
     url = {https://doi.org/10.2307/2032620},
     volume = {2},
     year = {1951}

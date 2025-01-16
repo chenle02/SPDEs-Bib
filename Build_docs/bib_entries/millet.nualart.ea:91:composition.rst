@@ -15,7 +15,8 @@ millet.nualart.ea:91:composition
     mrreviewer = {Paolo Baldi},
     pages = {383--395},
     publisher = {Academic Press, Boston, MA},
-    title = {Composition of large deviation principles and applications},
+    title = {Composition of large deviation principles and
+   applications},
     year = {1991}
    }
 

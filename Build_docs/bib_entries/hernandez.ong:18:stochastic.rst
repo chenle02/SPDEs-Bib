@@ -18,7 +18,8 @@ hernandez.ong:18:stochastic
     mrreviewer = {Le\ Chen},
     number = {3},
     pages = {1353--1372},
-    title = {Stochastic {S}wift-{H}ohenberg equation with degenerate linear multiplicative noise},
+    title = {Stochastic {S}wift-{H}ohenberg equation with degenerate
+   linear multiplicative noise},
     url = {https://doi.org/10.1007/s00021-018-0368-3},
     volume = {20},
     year = {2018}

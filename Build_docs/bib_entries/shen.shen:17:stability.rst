@@ -18,7 +18,9 @@ shen.shen:17:stability
     mrreviewer = {Thomas\ Giletti},
     number = {4},
     pages = {2573--2613},
-    title = {Stability, uniqueness and recurrence of generalized traveling waves in time heterogeneous media of ignition type},
+    title = {Stability, uniqueness and recurrence of generalized
+   traveling waves in time heterogeneous media of ignition
+   type},
     url = {https://doi.org/10.1090/tran/6726},
     volume = {369},
     year = {2017}

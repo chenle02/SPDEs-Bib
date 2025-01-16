@@ -17,7 +17,8 @@ chen.eisenberg:24:invariant
     mrnumber = {4751295},
     number = {2},
     pages = {1357--1396},
-    title = {Invariant {M}easures for the {N}onlinear {S}tochastic {H}eat {E}quation with {N}o {D}rift {T}erm},
+    title = {Invariant {M}easures for the {N}onlinear {S}tochastic
+   {H}eat {E}quation with {N}o {D}rift {T}erm},
     url = {https://doi.org/10.1007/s10959-023-01302-4},
     volume = {37},
     year = {2024}

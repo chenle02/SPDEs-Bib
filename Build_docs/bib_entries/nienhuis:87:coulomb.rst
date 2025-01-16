@@ -14,7 +14,8 @@ nienhuis:87:coulomb
     mrnumber = {942673},
     pages = {1--53},
     publisher = {Academic Press, London},
-    title = {Coulomb gas formulation of two-dimensional phase transitions},
+    title = {Coulomb gas formulation of two-dimensional phase
+   transitions},
     year = {1987}
    }
 

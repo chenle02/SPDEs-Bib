@@ -18,7 +18,9 @@ trotter:84:eigenvalue
     mrreviewer = {M. L. Mehta},
     number = {1},
     pages = {67--82},
-    title = {Eigenvalue distributions of large {H}ermitian matrices; {W}igner's semicircle law and a theorem of {K}ac, {M}urdock, and {S}zeg\H{o}},
+    title = {Eigenvalue distributions of large {H}ermitian matrices;
+   {W}igner's semicircle law and a theorem of {K}ac,
+   {M}urdock, and {S}zeg\H{o}},
     url = {https://doi.org/10.1016/0001-8708(84)90037-9},
     volume = {54},
     year = {1984}

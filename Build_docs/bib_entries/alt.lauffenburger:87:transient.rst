@@ -18,7 +18,8 @@ alt.lauffenburger:87:transient
     mrreviewer = {Matthew Witten},
     number = {6},
     pages = {691--722},
-    title = {Transient behavior of a chemotaxis system modelling certain types of tissue inflammation},
+    title = {Transient behavior of a chemotaxis system modelling
+   certain types of tissue inflammation},
     url = {https://doi.org/10.1007/BF00275511},
     volume = {24},
     year = {1987}

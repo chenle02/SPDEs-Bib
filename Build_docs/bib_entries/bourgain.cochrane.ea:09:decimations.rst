@@ -8,7 +8,8 @@ bourgain.cochrane.ea:09:decimations
 .. code-block:: bibtex
 
    @article{bourgain.cochrane.ea:09:decimations,
-    author = {Bourgain, Jean and Cochrane, Todd and Paulhus, Jennifer and Pinner, Christopher},
+    author = {Bourgain, Jean and Cochrane, Todd and Paulhus, Jennifer
+   and Pinner, Christopher},
     doi = {10.1137/080737678},
     fjournal = {SIAM Journal on Discrete Mathematics},
     issn = {0895-4801,1095-7146},
@@ -18,7 +19,8 @@ bourgain.cochrane.ea:09:decimations
     mrreviewer = {Igor\ E.\ Shparlinski},
     number = {2},
     pages = {842--857},
-    title = {Decimations of {$l$}-sequences and permutations of even residues mod {$p$}},
+    title = {Decimations of {$l$}-sequences and permutations of even
+   residues mod {$p$}},
     url = {https://doi.org/10.1137/080737678},
     volume = {23},
     year = {2009}

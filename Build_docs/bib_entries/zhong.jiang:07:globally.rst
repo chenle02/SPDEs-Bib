@@ -17,7 +17,8 @@ zhong.jiang:07:globally
     mrnumber = {2313241},
     number = {2},
     pages = {421--429},
-    title = {Globally bounded in-time solutions to a parabolic-elliptic system modelling chemotaxis},
+    title = {Globally bounded in-time solutions to a parabolic-elliptic
+   system modelling chemotaxis},
     url = {https://doi.org/10.1016/S0252-9602(07)60042-3},
     volume = {27},
     year = {2007}

@@ -18,7 +18,8 @@ weissler:84:single
     mrreviewer = {R. Glassey},
     number = {2},
     pages = {204--224},
-    title = {Single point blow-up for a semilinear initial value problem},
+    title = {Single point blow-up for a semilinear initial value
+   problem},
     url = {https://doi.org/10.1016/0022-0396(84)90081-0},
     volume = {55},
     year = {1984}

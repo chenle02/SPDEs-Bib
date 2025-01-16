@@ -11,7 +11,8 @@ guo.song.ea:24:sample
     author = {Yuhui Guo and Jian Song and Ran Wang and Yimin Xiao},
     journal = {Preprint arXiv:2411.12192},
     month = {November},
-    title = {Sample path properties and small ball probabilities for stochastic fractional diffusion equations},
+    title = {Sample path properties and small ball probabilities for
+   stochastic fractional diffusion equations},
     url = {http://arXiv.org/abs/2411.12192},
     year = {2024}
    }

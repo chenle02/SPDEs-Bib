@@ -15,7 +15,8 @@ shorack.wellner:86:empirical
     mrreviewer = {S\'{a}ndor Cs\"{o}rg\H{o}},
     pages = {xxxviii+938},
     publisher = {John Wiley \& Sons, Inc., New York},
-    series = {Wiley Series in Probability and Mathematical Statistics: Probability and Mathematical Statistics},
+    series = {Wiley Series in Probability and Mathematical Statistics:
+   Probability and Mathematical Statistics},
     title = {Empirical processes with applications to statistics},
     year = {1986}
    }

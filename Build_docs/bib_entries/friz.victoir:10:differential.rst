@@ -10,7 +10,8 @@ friz.victoir:10:differential
    @article{friz.victoir:10:differential,
     author = {Friz, Peter and Victoir, Nicolas},
     doi = {10.1214/09-AIHP202},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60G15 (60H99)},

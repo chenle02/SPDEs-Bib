@@ -16,7 +16,8 @@ leble.zeitouni:21:local
     mrnumber = {4396198},
     number = {4},
     pages = {607--630},
-    title = {A local {CLT} for linear statistics of 2{D} {C}oulomb gases},
+    title = {A local {CLT} for linear statistics of 2{D} {C}oulomb
+   gases},
     volume = {27},
     year = {2021}
    }

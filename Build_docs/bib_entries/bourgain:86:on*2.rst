@@ -18,7 +18,8 @@ bourgain:86:on*2
     mrreviewer = {Roger\ L.\ Jones},
     number = {3},
     pages = {257--265},
-    title = {On the {$L^p$}-bounds for maximal functions associated to convex bodies in {${\bf R}^n$}},
+    title = {On the {$L^p$}-bounds for maximal functions associated to
+   convex bodies in {${\bf R}^n$}},
     url = {https://doi.org/10.1007/BF02764955},
     volume = {54},
     year = {1986}

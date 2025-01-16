@@ -18,7 +18,8 @@ jager.luckhaus:92:on
     mrreviewer = {Gaston E. Hernandez},
     number = {2},
     pages = {819--824},
-    title = {On explosions of solutions to a system of partial differential equations modelling chemotaxis},
+    title = {On explosions of solutions to a system of partial
+   differential equations modelling chemotaxis},
     url = {https://doi.org/10.2307/2153966},
     volume = {329},
     year = {1992}

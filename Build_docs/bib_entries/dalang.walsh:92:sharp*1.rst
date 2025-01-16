@@ -18,7 +18,8 @@ dalang.walsh:92:sharp*1
     mrreviewer = {Peter Imkeller},
     number = {3-4},
     pages = {153--218},
-    title = {The sharp {M}arkov property of the {B}rownian sheet and related processes},
+    title = {The sharp {M}arkov property of the {B}rownian sheet and
+   related processes},
     url = {https://doi.org/10.1007/BF02392978},
     volume = {168},
     year = {1992}

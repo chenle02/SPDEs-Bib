@@ -17,7 +17,8 @@ gu.bal:12:random
     mrnumber = {2925905},
     number = {4},
     pages = {1069--1087},
-    title = {Random homogenization and convergence to integrals with respect to the {R}osenblatt process},
+    title = {Random homogenization and convergence to integrals with
+   respect to the {R}osenblatt process},
     url = {https://doi.org/10.1016/j.jde.2012.05.007},
     volume = {253},
     year = {2012}

@@ -9,7 +9,8 @@ bourgain.brezis:02:sur
 
    @article{bourgain.brezis:02:sur,
     author = {Bourgain, Jean and Brezis, Ha\"{i}m},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {35F05 (35B45)},

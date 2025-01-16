@@ -16,7 +16,8 @@ liggett:85:interacting
     mrreviewer = {F. L. Spitzer},
     pages = {xv+488},
     publisher = {Springer-Verlag, New York},
-    series = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+    series = {Grundlehren der mathematischen Wissenschaften [Fundamental
+   Principles of Mathematical Sciences]},
     title = {Interacting particle systems},
     url = {https://doi.org/10.1007/978-1-4613-8542-4},
     volume = {276},

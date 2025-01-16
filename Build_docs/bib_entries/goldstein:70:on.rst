@@ -17,7 +17,8 @@ goldstein:70:on
     mrnumber = {265595},
     mrreviewer = {A. Weitsman},
     pages = {103--126},
-    title = {On certain compositions of functions of a complex variable},
+    title = {On certain compositions of functions of a complex
+   variable},
     url = {https://doi.org/10.1007/BF01817752},
     volume = {4},
     year = {1970}

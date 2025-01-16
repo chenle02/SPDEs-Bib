@@ -17,7 +17,8 @@ nagai.senba:98:global
     mrreviewer = {Andreas M\"{u}ller-Rettkowski},
     number = {1},
     pages = {145--156},
-    title = {Global existence and blow-up of radial solutions to a parabolic-elliptic system of chemotaxis},
+    title = {Global existence and blow-up of radial solutions to a
+   parabolic-elliptic system of chemotaxis},
     volume = {8},
     year = {1998}
    }

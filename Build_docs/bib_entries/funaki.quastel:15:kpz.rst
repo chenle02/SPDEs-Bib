@@ -10,7 +10,8 @@ funaki.quastel:15:kpz
    @article{funaki.quastel:15:kpz,
     author = {Funaki, Tadahisa and Quastel, Jeremy},
     doi = {10.1007/s40072-015-0046-x},
-    fjournal = {Stochastic Partial Differential Equations. Analysis and Computations},
+    fjournal = {Stochastic Partial Differential Equations. Analysis and
+   Computations},
     issn = {2194-0401},
     journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
     mrclass = {60H15 (35R60 82C28)},
@@ -18,7 +19,8 @@ funaki.quastel:15:kpz
     mrreviewer = {Yoshiki Otobe},
     number = {2},
     pages = {159--220},
-    title = {K{PZ} equation, its renormalization and invariant measures},
+    title = {K{PZ} equation, its renormalization and invariant
+   measures},
     url = {https://doi.org/10.1007/s40072-015-0046-x},
     volume = {3},
     year = {2015}

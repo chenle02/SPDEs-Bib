@@ -18,7 +18,8 @@ abdesselam:07:complete
     mrreviewer = {A. L. Rebenko},
     number = {3},
     pages = {727--772},
-    title = {A complete renormalization group trajectory between two fixed points},
+    title = {A complete renormalization group trajectory between two
+   fixed points},
     url = {https://doi.org/10.1007/s00220-007-0352-x},
     volume = {276},
     year = {2007}

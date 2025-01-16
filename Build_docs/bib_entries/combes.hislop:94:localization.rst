@@ -18,7 +18,8 @@ combes.hislop:94:localization
     mrreviewer = {Aernout C. D. van Enter},
     number = {1},
     pages = {149--180},
-    title = {Localization for some continuous, random {H}amiltonians in {$d$}-dimensions},
+    title = {Localization for some continuous, random {H}amiltonians in
+   {$d$}-dimensions},
     url = {https://doi.org/10.1006/jfan.1994.1103},
     volume = {124},
     year = {1994}

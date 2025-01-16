@@ -16,7 +16,8 @@ luchko:14:multi-dimensional
     mrnumber = {3277315},
     number = {1},
     pages = {e-485, 21},
-    title = {Multi-dimensional fractional wave equation and some properties of its fundamental solution},
+    title = {Multi-dimensional fractional wave equation and some
+   properties of its fundamental solution},
     url = {https://doi.org/10.1685/journal.caim.485},
     volume = {6},
     year = {2014}

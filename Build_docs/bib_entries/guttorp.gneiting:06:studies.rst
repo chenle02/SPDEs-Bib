@@ -17,7 +17,8 @@ guttorp.gneiting:06:studies
     mrnumber = {2285084},
     number = {4},
     pages = {989--995},
-    title = {Studies in the history of probability and statistics. {XLIX}. {O}n the {M}at\'{e}rn correlation family},
+    title = {Studies in the history of probability and statistics.
+   {XLIX}. {O}n the {M}at\'{e}rn correlation family},
     url = {https://doi.org/10.1093/biomet/93.4.989},
     volume = {93},
     year = {2006}

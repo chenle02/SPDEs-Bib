@@ -14,7 +14,8 @@ duplantier:99:conformal
     mrnumber = {1726374},
     pages = {185--206},
     publisher = {Springer, London},
-    title = {Conformal multifractality of random walks, polymers, and percolation in two dimensions},
+    title = {Conformal multifractality of random walks, polymers, and
+   percolation in two dimensions},
     year = {1999}
    }
 

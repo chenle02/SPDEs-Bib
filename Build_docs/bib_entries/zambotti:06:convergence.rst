@@ -18,7 +18,8 @@ zambotti:06:convergence
     mrreviewer = {Jan\ I.\ Seidler},
     number = {4},
     pages = {601--619},
-    title = {Convergence of approximations of monotone gradient systems},
+    title = {Convergence of approximations of monotone gradient
+   systems},
     url = {https://doi.org/10.1007/s00028-006-0275-6},
     volume = {6},
     year = {2006}

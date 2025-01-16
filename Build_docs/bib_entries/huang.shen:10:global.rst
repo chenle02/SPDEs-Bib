@@ -17,7 +17,8 @@ huang.shen:10:global
     mrreviewer = {Tom\'{a}s\ Caraballo},
     number = {4},
     pages = {383--411},
-    title = {Global attractors for partly dissipative random/stochastic reaction diffusion systems},
+    title = {Global attractors for partly dissipative random/stochastic
+   reaction diffusion systems},
     volume = {4},
     year = {2010}
    }

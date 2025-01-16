@@ -17,7 +17,9 @@ nourdin.poly:16:convergence
     pages = {381--394},
     publisher = {Springer, [Cham]},
     series = {Progr. Probab.},
-    title = {Convergence in law implies convergence in total variation for polynomials in independent {G}aussian, gamma or beta random variables},
+    title = {Convergence in law implies convergence in total variation
+   for polynomials in independent {G}aussian, gamma or beta
+   random variables},
     url = {https://doi.org/10.1007/978-3-319-40519-3_17},
     volume = {71},
     year = {2016}

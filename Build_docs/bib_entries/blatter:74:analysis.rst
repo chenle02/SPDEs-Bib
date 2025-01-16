@@ -13,7 +13,8 @@ blatter:74:analysis
     mrnumber = {349908},
     pages = {xii+180},
     publisher = {Springer-Verlag, Berlin-New York},
-    series = {Heidelberger Taschenb\"{u}cher [Heidelberg Paperbacks], Band 152},
+    series = {Heidelberger Taschenb\"{u}cher [Heidelberg Paperbacks],
+   Band 152},
     title = {Analysis. {II}},
     year = {1974}
    }

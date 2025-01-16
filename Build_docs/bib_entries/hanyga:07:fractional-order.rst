@@ -17,7 +17,8 @@ hanyga:07:fractional-order
     mrnumber = {2317802},
     number = {1-2},
     pages = {25--36},
-    title = {Fractional-order relaxation laws in non-linear viscoelasticity},
+    title = {Fractional-order relaxation laws in non-linear
+   viscoelasticity},
     url = {https://doi.org/10.1007/s00161-007-0042-0},
     volume = {19},
     year = {2007}

@@ -18,7 +18,8 @@ liang.zhao:10:spreading
     mrreviewer = {Anna R. Ghazaryan},
     number = {4},
     pages = {857--903},
-    title = {Spreading speeds and traveling waves for abstract monostable evolution systems},
+    title = {Spreading speeds and traveling waves for abstract
+   monostable evolution systems},
     url = {https://doi.org/10.1016/j.jfa.2010.04.018},
     volume = {259},
     year = {2010}

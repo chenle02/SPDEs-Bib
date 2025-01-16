@@ -18,7 +18,8 @@ velazquez:97:cusp
     mrreviewer = {Weiqing Xie},
     number = {1},
     pages = {1--21},
-    title = {Cusp formation for the undercooled {S}tefan problem in two and three dimensions},
+    title = {Cusp formation for the undercooled {S}tefan problem in two
+   and three dimensions},
     url = {https://doi.org/10.1017/S0956792596002902},
     volume = {8},
     year = {1997}

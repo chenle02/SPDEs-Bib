@@ -8,7 +8,8 @@ barral.fournier.ea:10:pure
 .. code-block:: bibtex
 
    @article{barral.fournier.ea:10:pure,
-    author = {Barral, Julien and Fournier, Nicolas and Jaffard, St\'ephane and Seuret, St\'ephane},
+    author = {Barral, Julien and Fournier, Nicolas and Jaffard,
+   St\'ephane and Seuret, St\'ephane},
     doi = {10.1214/10-AOP533},
     fjournal = {The Annals of Probability},
     issn = {0091-1798,2168-894X},
@@ -18,7 +19,8 @@ barral.fournier.ea:10:pure
     mrreviewer = {Andrzej\ Stos},
     number = {5},
     pages = {1924--1946},
-    title = {A pure jump {M}arkov process with a random singularity spectrum},
+    title = {A pure jump {M}arkov process with a random singularity
+   spectrum},
     url = {https://doi.org/10.1214/10-AOP533},
     volume = {38},
     year = {2010}

@@ -18,7 +18,8 @@ balan.conus:16:intermittency
     mrreviewer = {Jingyu Huang},
     number = {2},
     pages = {1488--1534},
-    title = {Intermittency for the wave and heat equations with fractional noise in time},
+    title = {Intermittency for the wave and heat equations with
+   fractional noise in time},
     url = {https://doi.org/10.1214/15-AOP1005},
     volume = {44},
     year = {2016}

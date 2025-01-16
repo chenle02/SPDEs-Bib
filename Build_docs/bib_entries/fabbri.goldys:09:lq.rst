@@ -18,7 +18,8 @@ fabbri.goldys:09:lq
     mrreviewer = {Tom\'a\v s\ Roub\'i\v cek},
     number = {3},
     pages = {1473--1488},
-    title = {An {LQ} problem for the heat equation on the halfline with {D}irichlet boundary control and noise},
+    title = {An {LQ} problem for the heat equation on the halfline with
+   {D}irichlet boundary control and noise},
     url = {https://doi.org/10.1137/070711529},
     volume = {48},
     year = {2009}

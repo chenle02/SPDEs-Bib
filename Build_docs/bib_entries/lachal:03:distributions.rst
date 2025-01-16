@@ -17,7 +17,9 @@ lachal:03:distributions
     mrnumber = {2041821},
     mrreviewer = {Youngmee Kwon},
     pages = {no. 20, 53},
-    title = {Distributions of sojourn time, maximum and minimum for pseudo-processes governed by higher-order heat-type equations},
+    title = {Distributions of sojourn time, maximum and minimum for
+   pseudo-processes governed by higher-order heat-type
+   equations},
     url = {https://doi.org/10.1214/EJP.v8-178},
     volume = {8},
     year = {2003}

@@ -17,7 +17,8 @@ li.chen:19:precise
     mrnumber = {4066497},
     number = {3},
     pages = {629--644},
-    title = {Precise moment asymptotics for the stochastic heat equation of a time-derivative {G}aussian noise},
+    title = {Precise moment asymptotics for the stochastic heat
+   equation of a time-derivative {G}aussian noise},
     url = {https://doi.org/10.1007/s10473-019-0302-7},
     volume = {39},
     year = {2019}

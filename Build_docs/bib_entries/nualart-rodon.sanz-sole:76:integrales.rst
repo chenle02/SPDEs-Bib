@@ -13,10 +13,12 @@ nualart-rodon.sanz-sole:76:integrales
     mrclass = {60H05},
     mrnumber = {0517987},
     mrreviewer = {M. Metivier},
-    note = {\'{E}cole d'\'{E}t\'{e} de Calcul des Probabilit\'{e}s de Saint-Flour (Saint-Flour, 1976)},
+    note = {\'{E}cole d'\'{E}t\'{e} de Calcul des Probabilit\'{e}s de
+   Saint-Flour (Saint-Flour, 1976)},
     number = {16},
     pages = {89--99},
-    title = {Int\'{e}grales stochastiques par rapport au processus de {W}iener \`a deux param\`etres},
+    title = {Int\'{e}grales stochastiques par rapport au processus de
+   {W}iener \`a deux param\`etres},
     year = {1976}
    }
 

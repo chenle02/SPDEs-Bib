@@ -18,7 +18,9 @@ slade.tomberg:16:critical
     mrreviewer = {Uwe C. T\"{a}uber},
     number = {2},
     pages = {675--737},
-    title = {Critical correlation functions for the 4-dimensional weakly self-avoiding walk and {$n$}-component {$\vert{}\varphi\vert{}^4$} model},
+    title = {Critical correlation functions for the 4-dimensional
+   weakly self-avoiding walk and {$n$}-component
+   {$|\varphi|^4$} model},
     url = {https://doi.org/10.1007/s00220-015-2488-4},
     volume = {342},
     year = {2016}

@@ -8,7 +8,8 @@ lotz.mccoy.ea:20:concentration
 .. code-block:: bibtex
 
    @incollection{lotz.mccoy.ea:20:concentration,
-    author = {Lotz, Martin and McCoy, Michael B. and Nourdin, Ivan and Peccati, Giovanni and Tropp, Joel A.},
+    author = {Lotz, Martin and McCoy, Michael B. and Nourdin, Ivan and
+   Peccati, Giovanni and Tropp, Joel A.},
     booktitle = {Geometric aspects of functional analysis. {V}ol. {II}},
     doi = {10.1007/978-3-030-46762-3\_6},
     mrclass = {52A22 (60D05)},

@@ -16,7 +16,8 @@ sasaki:65:on
     mrnumber = {197604},
     mrreviewer = {T. Tamura},
     pages = {763--766},
-    title = {On the isomorphism problem of certain semigroups constructed from indexed groups},
+    title = {On the isomorphism problem of certain semigroups
+   constructed from indexed groups},
     url = {http://projecteuclid.org/euclid.pja/1195522240},
     volume = {41},
     year = {1965}

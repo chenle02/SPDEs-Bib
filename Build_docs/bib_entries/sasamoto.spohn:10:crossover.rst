@@ -18,7 +18,8 @@ sasamoto.spohn:10:crossover
     mrreviewer = {Patr\'{i}cia Gon\c{c}alves},
     number = {2},
     pages = {209--231},
-    title = {The crossover regime for the weakly asymmetric simple exclusion process},
+    title = {The crossover regime for the weakly asymmetric simple
+   exclusion process},
     url = {https://doi.org/10.1007/s10955-010-9990-z},
     volume = {140},
     year = {2010}

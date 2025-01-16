@@ -18,7 +18,8 @@ du.hsu:10:on
     mrreviewer = {Antonio Su\'{a}rez Fern\'{a}ndez},
     number = {3},
     pages = {1305--1333},
-    title = {On a nonlocal reaction-diffusion problem arising from the modeling of phytoplankton growth},
+    title = {On a nonlocal reaction-diffusion problem arising from the
+   modeling of phytoplankton growth},
     url = {https://doi.org/10.1137/090775105},
     volume = {42},
     year = {2010}

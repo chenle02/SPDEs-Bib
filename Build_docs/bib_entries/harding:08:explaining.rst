@@ -17,7 +17,8 @@ harding:08:explaining
     mrnumber = {2401243},
     number = {1},
     pages = {85--88},
-    title = {Explaining the single factor bias of arbitrage pricing models in finite samples},
+    title = {Explaining the single factor bias of arbitrage pricing
+   models in finite samples},
     url = {https://doi.org/10.1016/j.econlet.2007.06.001},
     volume = {99},
     year = {2008}

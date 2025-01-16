@@ -17,7 +17,8 @@ shen.shen:16:transition
     mrnumber = {3503652},
     number = {4},
     pages = {1193--1213},
-    title = {Transition fronts in nonlocal {F}isher-{KPP} equations in time heterogeneous media},
+    title = {Transition fronts in nonlocal {F}isher-{KPP} equations in
+   time heterogeneous media},
     url = {https://doi.org/10.3934/cpaa.2016.15.1193},
     volume = {15},
     year = {2016}

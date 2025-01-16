@@ -17,7 +17,8 @@ spitzer:56:combinatorial
     mrnumber = {79851},
     mrreviewer = {J.\ L.\ Snell},
     pages = {323--339},
-    title = {A combinatorial lemma and its application to probability theory},
+    title = {A combinatorial lemma and its application to probability
+   theory},
     url = {https://doi.org/10.2307/1993051},
     volume = {82},
     year = {1956}

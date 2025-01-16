@@ -19,7 +19,8 @@ mainardi.gorenflo:00:on
     note = {Higher transcendental functions and their applications},
     number = {1-2},
     pages = {283--299},
-    title = {On {M}ittag-{L}effler-type functions in fractional evolution processes},
+    title = {On {M}ittag-{L}effler-type functions in fractional
+   evolution processes},
     url = {https://doi.org/10.1016/S0377-0427(00)00294-6},
     volume = {118},
     year = {2000}

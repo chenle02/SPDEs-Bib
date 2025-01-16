@@ -18,7 +18,8 @@ seppalainen:98:exact
     mrreviewer = {Olle H\"{a}ggstr\"{o}m},
     number = {3},
     pages = {1232--1250},
-    title = {Exact limiting shape for a simplified model of first-passage percolation on the plane},
+    title = {Exact limiting shape for a simplified model of
+   first-passage percolation on the plane},
     url = {https://doi.org/10.1214/aop/1022855751},
     volume = {26},
     year = {1998}

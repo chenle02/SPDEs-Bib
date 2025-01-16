@@ -10,7 +10,8 @@ bourgain.kontorovich:11:on
    @article{bourgain.kontorovich:11:on,
     author = {Bourgain, Jean and Kontorovich, Alex},
     doi = {10.1016/j.crma.2011.03.023},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {11B05 (11K50)},

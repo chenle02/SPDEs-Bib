@@ -18,7 +18,9 @@ brzezniak.cerrai:17:large
     mrreviewer = {Jie Xu},
     number = {6},
     pages = {1891--1930},
-    title = {Large deviations principle for the invariant measures of the 2{D} stochastic {N}avier-{S}tokes equations on a torus},
+    title = {Large deviations principle for the invariant measures of
+   the 2{D} stochastic {N}avier-{S}tokes equations on a
+   torus},
     url = {https://doi.org/10.1016/j.jfa.2017.05.008},
     volume = {273},
     year = {2017}

@@ -10,7 +10,8 @@ bourgain:86:sur
    @article{bourgain:86:sur,
     author = {Bourgain, J.},
     doi = {10.4064/aa-45-4-381-389},
-    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Acta Arithmetica},
+    fjournal = {Polska Akademia Nauk. Instytut Matematyczny. Acta
+   Arithmetica},
     issn = {0065-1036},
     journal = {Acta Arith.},
     mrclass = {11L03 (42A05)},

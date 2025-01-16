@@ -16,7 +16,8 @@ nica.quastel.ea:20:one-sided
     mrnumber = {4190063},
     mrreviewer = {Shuta Nakajima},
     pages = {Paper No. e63, 16},
-    title = {One-sided reflected {B}rownian motions and the {KPZ} fixed point},
+    title = {One-sided reflected {B}rownian motions and the {KPZ} fixed
+   point},
     url = {https://doi.org/10.1017/fms.2020.56},
     volume = {8},
     year = {2020}

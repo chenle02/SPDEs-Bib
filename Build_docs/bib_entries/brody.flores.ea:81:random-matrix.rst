@@ -8,7 +8,8 @@ brody.flores.ea:81:random-matrix
 .. code-block:: bibtex
 
    @article{brody.flores.ea:81:random-matrix,
-    author = {Brody, T. A. and Flores, J. and French, J. B. and Mello, P. A. and Pandey, A. and Wong, S. S. M.},
+    author = {Brody, T. A. and Flores, J. and French, J. B. and Mello,
+   P. A. and Pandey, A. and Wong, S. S. M.},
     doi = {10.1103/RevModPhys.53.385},
     fjournal = {Reviews of Modern Physics},
     issn = {0034-6861},
@@ -17,7 +18,8 @@ brody.flores.ea:81:random-matrix
     mrnumber = {619406},
     number = {3},
     pages = {385--479},
-    title = {Random-matrix physics: spectrum and strength fluctuations},
+    title = {Random-matrix physics: spectrum and strength
+   fluctuations},
     url = {https://doi.org/10.1103/RevModPhys.53.385},
     volume = {53},
     year = {1981}

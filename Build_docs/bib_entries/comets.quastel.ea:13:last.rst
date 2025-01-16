@@ -8,7 +8,8 @@ comets.quastel.ea:13:last
 .. code-block:: bibtex
 
    @article{comets.quastel.ea:13:last,
-    author = {Comets, Francis and Quastel, Jeremy and Ram\'{i}rez, Alejandro F.},
+    author = {Comets, Francis and Quastel, Jeremy and Ram\'{i}rez,
+   Alejandro F.},
     doi = {10.1007/s10955-013-0779-8},
     fjournal = {Journal of Statistical Physics},
     issn = {0022-4715},

@@ -18,7 +18,8 @@ debbi.dozzi:05:on
     mrreviewer = {Nicholas Frangos},
     number = {11},
     pages = {1764--1781},
-    title = {On the solutions of nonlinear stochastic fractional partial differential equations in one spatial dimension},
+    title = {On the solutions of nonlinear stochastic fractional
+   partial differential equations in one spatial dimension},
     url = {https://doi.org/10.1016/j.spa.2005.06.001},
     volume = {115},
     year = {2005}

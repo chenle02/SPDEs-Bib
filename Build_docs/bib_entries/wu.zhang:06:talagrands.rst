@@ -18,7 +18,9 @@ wu.zhang:06:talagrands
     mrreviewer = {Pedro Mar\'{i}n Rubio},
     number = {3},
     pages = {243--262},
-    title = {Talagrand's {$T_2$}-transportation inequality and log-{S}obolev inequality for dissipative {SPDE}s and applications to reaction-diffusion equations},
+    title = {Talagrand's {$T_2$}-transportation inequality and
+   log-{S}obolev inequality for dissipative {SPDE}s and
+   applications to reaction-diffusion equations},
     url = {https://doi.org/10.1007/s11401-005-0176-y},
     volume = {27},
     year = {2006}

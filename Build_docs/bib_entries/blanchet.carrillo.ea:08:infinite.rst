@@ -8,7 +8,8 @@ blanchet.carrillo.ea:08:infinite
 .. code-block:: bibtex
 
    @article{blanchet.carrillo.ea:08:infinite,
-    author = {Blanchet, Adrien and Carrillo, Jos\'{e} A. and Masmoudi, Nader},
+    author = {Blanchet, Adrien and Carrillo, Jos\'{e} A. and Masmoudi,
+   Nader},
     doi = {10.1002/cpa.20225},
     fjournal = {Communications on Pure and Applied Mathematics},
     issn = {0010-3640},
@@ -17,7 +18,8 @@ blanchet.carrillo.ea:08:infinite
     mrnumber = {2436186},
     number = {10},
     pages = {1449--1481},
-    title = {Infinite time aggregation for the critical {P}atlak-{K}eller-{S}egel model in {$\Bbb R^2$}},
+    title = {Infinite time aggregation for the critical
+   {P}atlak-{K}eller-{S}egel model in {$\Bbb R^2$}},
     url = {https://doi.org/10.1002/cpa.20225},
     volume = {61},
     year = {2008}

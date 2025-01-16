@@ -17,7 +17,8 @@ han:24:stochastic
     mrnumber = {4666250},
     number = {3},
     pages = {Paper No. 110224, 46},
-    title = {Stochastic wave equation with {H}\"{o}lder noise coefficient: well-posedness and small mass limit},
+    title = {Stochastic wave equation with {H}\"{o}lder noise
+   coefficient: well-posedness and small mass limit},
     url = {https://doi.org/10.1016/j.jfa.2023.110224},
     volume = {286},
     year = {2024}

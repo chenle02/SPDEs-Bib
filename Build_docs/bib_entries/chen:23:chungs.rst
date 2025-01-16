@@ -14,7 +14,8 @@ chen:23:chungs
     mrclass = {60H15 (60F15 60G17)},
     mrnumber = {4651160},
     pages = {Paper No. 35, 7},
-    title = {Chung's law of the iterated logarithm for a class of stochastic heat equations},
+    title = {Chung's law of the iterated logarithm for a class of
+   stochastic heat equations},
     volume = {28},
     year = {2023}
    }

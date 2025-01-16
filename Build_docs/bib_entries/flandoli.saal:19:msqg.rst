@@ -17,7 +17,8 @@ flandoli.saal:19:msqg
     mrnumber = {4031773},
     number = {4},
     pages = {1071--1090},
-    title = {m{SQG} equations in distributional spaces and point vortex approximation},
+    title = {m{SQG} equations in distributional spaces and point vortex
+   approximation},
     url = {https://doi.org/10.1007/s00028-019-00506-8},
     volume = {19},
     year = {2019}

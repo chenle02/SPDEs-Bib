@@ -14,9 +14,11 @@ ikeda.watanabe:81:stochastic
     mrnumber = {637061},
     mrreviewer = {D. Kannan},
     pages = {xiv+464},
-    publisher = {North-Holland Publishing Co., Amsterdam-New York; Kodansha, Ltd., Tokyo},
+    publisher = {North-Holland Publishing Co., Amsterdam-New York;
+   Kodansha, Ltd., Tokyo},
     series = {North-Holland Mathematical Library},
-    title = {Stochastic differential equations and diffusion processes},
+    title = {Stochastic differential equations and diffusion
+   processes},
     volume = {24},
     year = {1981}
    }

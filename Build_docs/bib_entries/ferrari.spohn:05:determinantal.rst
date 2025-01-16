@@ -17,7 +17,8 @@ ferrari.spohn:05:determinantal
     mrnumber = {2165698},
     number = {33},
     pages = {L557--L561},
-    title = {A determinantal formula for the {GOE} {T}racy-{W}idom distribution},
+    title = {A determinantal formula for the {GOE} {T}racy-{W}idom
+   distribution},
     url = {https://doi.org/10.1088/0305-4470/38/33/L02},
     volume = {38},
     year = {2005}

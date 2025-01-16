@@ -16,7 +16,8 @@ matsumoto.yor:05:exponential
     mrnumber = {2203676},
     mrreviewer = {Catherine Donati-Martin},
     pages = {348--384},
-    title = {Exponential functionals of {B}rownian motion. {II}. {S}ome related diffusion processes},
+    title = {Exponential functionals of {B}rownian motion. {II}. {S}ome
+   related diffusion processes},
     url = {https://doi.org/10.1214/154957805100000168},
     volume = {2},
     year = {2005}

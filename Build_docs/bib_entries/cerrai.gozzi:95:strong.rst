@@ -9,7 +9,8 @@ cerrai.gozzi:95:strong
 
    @article{cerrai.gozzi:95:strong,
     author = {Cerrai, Sandra and Gozzi, Fausto},
-    fjournal = {Differential and Integral Equations. An International Journal for Theory \& Applications},
+    fjournal = {Differential and Integral Equations. An International
+   Journal for Theory \& Applications},
     issn = {0893-4983},
     journal = {Differential Integral Equations},
     mrclass = {34G10 (35R15 47D06 47N20)},
@@ -17,7 +18,8 @@ cerrai.gozzi:95:strong
     mrreviewer = {Piermarco Cannarsa},
     number = {3},
     pages = {465--486},
-    title = {Strong solutions of {C}auchy problems associated to weakly continuous semigroups},
+    title = {Strong solutions of {C}auchy problems associated to weakly
+   continuous semigroups},
     volume = {8},
     year = {1995}
    }

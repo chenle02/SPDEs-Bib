@@ -18,7 +18,8 @@ hu.oksendal:08:partial
     mrreviewer = {Christian Bender},
     number = {4},
     pages = {1744--1761},
-    title = {Partial information linear quadratic control for jump diffusions},
+    title = {Partial information linear quadratic control for jump
+   diffusions},
     url = {https://doi.org/10.1137/060667566},
     volume = {47},
     year = {2008}

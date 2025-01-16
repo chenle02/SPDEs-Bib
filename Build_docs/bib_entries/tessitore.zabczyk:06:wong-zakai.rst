@@ -18,7 +18,8 @@ tessitore.zabczyk:06:wong-zakai
     mrreviewer = {Nicholas Frangos},
     number = {4},
     pages = {621--655},
-    title = {Wong-{Z}akai approximations of stochastic evolution equations},
+    title = {Wong-{Z}akai approximations of stochastic evolution
+   equations},
     url = {https://doi.org/10.1007/s00028-006-0280-9},
     volume = {6},
     year = {2006}

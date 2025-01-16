@@ -8,7 +8,8 @@ galaktionov.kurdyumov.ea:83:parabolic
 .. code-block:: bibtex
 
    @article{galaktionov.kurdyumov.ea:83:parabolic,
-    author = {Galaktionov, V. A. and Kurdyumov, S. P. and Samarskiu{i}, A. A.},
+    author = {Galaktionov, V. A. and Kurdyumov, S. P. and Samarskiu{i},
+   A. A.},
     fjournal = {Differentsial{\cprime}nye Uravneniya},
     issn = {0374-0641},
     journal = {Differentsial{\cprime}nye Uravneniya},

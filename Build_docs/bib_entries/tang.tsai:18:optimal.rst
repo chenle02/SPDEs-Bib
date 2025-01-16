@@ -17,7 +17,8 @@ tang.tsai:18:optimal
     mrnumber = {3785596},
     number = {3},
     pages = {1597--1650},
-    title = {Optimal surviving strategy for drifted {B}rownian motions with absorption},
+    title = {Optimal surviving strategy for drifted {B}rownian motions
+   with absorption},
     url = {https://doi.org/10.1214/17-AOP1211},
     volume = {46},
     year = {2018}

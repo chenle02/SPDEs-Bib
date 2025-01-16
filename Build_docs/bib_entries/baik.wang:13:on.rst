@@ -18,7 +18,9 @@ baik.wang:13:on
     mrreviewer = {Florent Benaych-Georges},
     number = {14},
     pages = {3304--3370},
-    title = {On the largest eigenvalue of a {H}ermitian random matrix model with spiked external source {II}: {H}igher rank cases},
+    title = {On the largest eigenvalue of a {H}ermitian random matrix
+   model with spiked external source {II}: {H}igher rank
+   cases},
     url = {https://doi.org/10.1093/imrn/rns136},
     year = {2013}
    }

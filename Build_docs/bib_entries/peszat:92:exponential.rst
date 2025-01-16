@@ -16,7 +16,8 @@ peszat:92:exponential
     mrnumber = {1402320},
     number = {4},
     pages = {323--333},
-    title = {Exponential tail estimates for infinite-dimensional stochastic convolutions},
+    title = {Exponential tail estimates for infinite-dimensional
+   stochastic convolutions},
     volume = {40},
     year = {1992}
    }

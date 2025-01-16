@@ -17,7 +17,8 @@ nagai.senba.ea:97:application
     mrreviewer = {V. N. Razzhevaikin},
     number = {3},
     pages = {411--433},
-    title = {Application of the {T}rudinger-{M}oser inequality to a parabolic system of chemotaxis},
+    title = {Application of the {T}rudinger-{M}oser inequality to a
+   parabolic system of chemotaxis},
     url = {http://www.math.kobe-u.ac.jp/~fe/xml/mr1610709.xml},
     volume = {40},
     year = {1997}

@@ -16,7 +16,8 @@ rhodes.vargas:22:approche
     mrnumber = {4648255},
     number = {171},
     pages = {27--39},
-    title = {Une approche probabiliste de la th\'eorie conforme des champs de {L}iouville},
+    title = {Une approche probabiliste de la th\'eorie conforme des
+   champs de {L}iouville},
     year = {2022}
    }
 

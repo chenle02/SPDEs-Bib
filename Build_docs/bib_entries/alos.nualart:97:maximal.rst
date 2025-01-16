@@ -9,7 +9,8 @@ alos.nualart:97:maximal
 
    @incollection{alos.nualart:97:maximal,
     author = {Al\`os, Elisa and Nualart, David},
-    booktitle = {Stochastic differential and difference equations ({G}y\H{o}r, 1996)},
+    booktitle = {Stochastic differential and difference equations
+   ({G}y\H{o}r, 1996)},
     mrclass = {60H05 (60E15)},
     mrnumber = {1636839},
     mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},

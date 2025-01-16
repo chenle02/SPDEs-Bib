@@ -17,7 +17,8 @@ corwin.gu:17:kardar-parisi-zhang
     mrnumber = {3592855},
     number = {1},
     pages = {150--168},
-    title = {Kardar-{P}arisi-{Z}hang equation and large deviations for random walks in weak random environments},
+    title = {Kardar-{P}arisi-{Z}hang equation and large deviations for
+   random walks in weak random environments},
     url = {https://doi.org/10.1007/s10955-016-1693-7},
     volume = {166},
     year = {2017}

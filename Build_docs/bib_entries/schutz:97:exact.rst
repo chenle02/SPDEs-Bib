@@ -18,7 +18,8 @@ schutz:97:exact
     mrreviewer = {B\'{a}lint T\'{o}th},
     number = {1-2},
     pages = {427--445},
-    title = {Exact solution of the master equation for the asymmetric exclusion process},
+    title = {Exact solution of the master equation for the asymmetric
+   exclusion process},
     url = {https://doi.org/10.1007/BF02508478},
     volume = {88},
     year = {1997}

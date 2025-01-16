@@ -17,7 +17,8 @@ tracy.widom:94:fredholm
     mrreviewer = {Peter J. Forrester},
     number = {1},
     pages = {33--72},
-    title = {Fredholm determinants, differential equations and matrix models},
+    title = {Fredholm determinants, differential equations and matrix
+   models},
     url = {http://projecteuclid.org/euclid.cmp/1104270379},
     volume = {163},
     year = {1994}

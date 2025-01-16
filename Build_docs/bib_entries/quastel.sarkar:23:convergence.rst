@@ -17,7 +17,8 @@ quastel.sarkar:23:convergence
     mrnumber = {4495842},
     number = {1},
     pages = {251--289},
-    title = {Convergence of exclusion processes and the {KPZ} equation to the {KPZ} fixed point},
+    title = {Convergence of exclusion processes and the {KPZ} equation
+   to the {KPZ} fixed point},
     url = {https://doi.org/10.1090/jams/999},
     volume = {36},
     year = {2023}

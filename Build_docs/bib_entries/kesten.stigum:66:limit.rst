@@ -17,7 +17,8 @@ kesten.stigum:66:limit
     mrnumber = {198552},
     mrreviewer = {I. J. Good},
     pages = {1211--1223},
-    title = {A limit theorem for multidimensional {G}alton-{W}atson processes},
+    title = {A limit theorem for multidimensional {G}alton-{W}atson
+   processes},
     url = {https://doi.org/10.1214/aoms/1177699266},
     volume = {37},
     year = {1966}

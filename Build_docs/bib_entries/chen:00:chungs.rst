@@ -18,7 +18,8 @@ chen:00:chungs
     mrreviewer = {Endre Cs\'{a}ki},
     number = {3},
     pages = {253--264},
-    title = {Chung's law for additive functionals of positive recurrent {M}arkov chains},
+    title = {Chung's law for additive functionals of positive recurrent
+   {M}arkov chains},
     url = {https://doi.org/10.1016/S0167-7152(99)00163-7},
     volume = {47},
     year = {2000}

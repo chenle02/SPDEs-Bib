@@ -8,7 +8,8 @@ anton.cohen.ea:20:fully
 .. code-block:: bibtex
 
    @article{anton.cohen.ea:20:fully,
-    author = {Anton, Rikard and Cohen, David and Quer-Sardanyons, Lluis},
+    author = {Anton, Rikard and Cohen, David and Quer-Sardanyons,
+   Lluis},
     doi = {10.1093/imanum/dry060},
     fjournal = {IMA Journal of Numerical Analysis},
     issn = {0272-4979},
@@ -18,7 +19,8 @@ anton.cohen.ea:20:fully
     mrreviewer = {Morteza Garshasbi},
     number = {1},
     pages = {247--284},
-    title = {A fully discrete approximation of the one-dimensional stochastic heat equation},
+    title = {A fully discrete approximation of the one-dimensional
+   stochastic heat equation},
     url = {https://doi.org/10.1093/imanum/dry060},
     volume = {40},
     year = {2020}

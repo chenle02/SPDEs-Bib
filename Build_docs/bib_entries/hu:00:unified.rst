@@ -16,7 +16,8 @@ hu:00:unified
     pages = {329--335},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {A unified approach to several inequalities for {G}aussian and diffusion measures},
+    title = {A unified approach to several inequalities for {G}aussian
+   and diffusion measures},
     url = {https://doi.org/10.1007/BFb0103811},
     volume = {1729},
     year = {2000}

@@ -18,7 +18,8 @@ galaktionov.vazquez:94:extinction
     mrreviewer = {Song Mu Zheng},
     number = {7-8},
     pages = {1075--1106},
-    title = {Extinction for a quasilinear heat equation with absorption. {I}. {T}echnique of intersection comparison},
+    title = {Extinction for a quasilinear heat equation with
+   absorption. {I}. {T}echnique of intersection comparison},
     url = {https://doi.org/10.1080/03605309408821046},
     volume = {19},
     year = {1994}

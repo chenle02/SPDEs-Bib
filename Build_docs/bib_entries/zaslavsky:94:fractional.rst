@@ -16,7 +16,8 @@ zaslavsky:94:fractional
     mrclass = {58F40 (58F13 76F20 76M35)},
     mrnumber = {1295881},
     mrreviewer = {Helena E. Nusse},
-    note = {Chaotic advection, tracer dynamics and turbulent dispersion (Gavi, 1993)},
+    note = {Chaotic advection, tracer dynamics and turbulent
+   dispersion (Gavi, 1993)},
     number = {1-3},
     pages = {110--122},
     title = {Fractional kinetic equation for {H}amiltonian chaos},

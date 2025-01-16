@@ -18,7 +18,8 @@ hu.pierre-loti-viaud.ea:95:laws
     mrreviewer = {P. R\'{e}v\'{e}sz},
     number = {2},
     pages = {303--319},
-    title = {Laws of the iterated logarithm for iterated {W}iener processes},
+    title = {Laws of the iterated logarithm for iterated {W}iener
+   processes},
     url = {https://doi.org/10.1007/BF02212881},
     volume = {8},
     year = {1995}

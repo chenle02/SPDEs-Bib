@@ -8,7 +8,8 @@ barral.kupiainen.ea:15:basic
 .. code-block:: bibtex
 
    @article{barral.kupiainen.ea:15:basic,
-    author = {Barral, Julien and Kupiainen, Antti and Nikula, Miika and Saksman, Eero and Webb, Christian},
+    author = {Barral, Julien and Kupiainen, Antti and Nikula, Miika and
+   Saksman, Eero and Webb, Christian},
     doi = {10.1214/14-AOP931},
     fjournal = {The Annals of Probability},
     issn = {0091-1798,2168-894X},
@@ -17,7 +18,8 @@ barral.kupiainen.ea:15:basic
     mrnumber = {3395460},
     number = {5},
     pages = {2205--2249},
-    title = {Basic properties of critical lognormal multiplicative chaos},
+    title = {Basic properties of critical lognormal multiplicative
+   chaos},
     url = {https://doi.org/10.1214/14-AOP931},
     volume = {43},
     year = {2015}

@@ -18,7 +18,8 @@ bertini.landim.ea:97:derivation
     mrreviewer = {Timo Sepp\"{a}l\"{a}inen},
     number = {1-2},
     pages = {365--381},
-    title = {Derivation of {C}ahn-{H}illiard equations from {G}inzburg-{L}andau models},
+    title = {Derivation of {C}ahn-{H}illiard equations from
+   {G}inzburg-{L}andau models},
     url = {https://doi.org/10.1007/BF02508476},
     volume = {88},
     year = {1997}

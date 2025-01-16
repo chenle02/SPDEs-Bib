@@ -17,7 +17,8 @@ zhao:18:well-posedness
     mrnumber = {3772916},
     number = {2},
     pages = {521--548},
-    title = {Well-posedness and {G}evrey analyticity of the generalized {K}eller-{S}egel system in critical {B}esov spaces},
+    title = {Well-posedness and {G}evrey analyticity of the generalized
+   {K}eller-{S}egel system in critical {B}esov spaces},
     url = {https://doi.org/10.1007/s10231-017-0691-y},
     volume = {197},
     year = {2018}

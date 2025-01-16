@@ -16,7 +16,8 @@ el-sayed.rida.ea:09:on
     mrnumber = {2539181},
     number = {4},
     pages = {485--492},
-    title = {On the solutions of time-fractional bacterial chemotaxis in a diffusion gradient chamber},
+    title = {On the solutions of time-fractional bacterial chemotaxis
+   in a diffusion gradient chamber},
     volume = {7},
     year = {2009}
    }

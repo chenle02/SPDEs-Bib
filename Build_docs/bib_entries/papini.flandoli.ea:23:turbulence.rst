@@ -16,7 +16,8 @@ papini.flandoli.ea:23:turbulence
     mrclass = {76F25 (82C22)},
     mrnumber = {4562111},
     pages = {Paper No. 133726, 16},
-    title = {Turbulence enhancement of coagulation: the role of eddy diffusion in velocity},
+    title = {Turbulence enhancement of coagulation: the role of eddy
+   diffusion in velocity},
     url = {https://doi.org/10.1016/j.physd.2023.133726},
     volume = {448},
     year = {2023}

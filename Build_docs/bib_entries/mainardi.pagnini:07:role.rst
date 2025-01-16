@@ -18,7 +18,8 @@ mainardi.pagnini:07:role
     mrreviewer = {Mridula\ Garg},
     number = {2},
     pages = {245--257},
-    title = {The role of the {F}ox-{W}right functions in fractional sub-diffusion of distributed order},
+    title = {The role of the {F}ox-{W}right functions in fractional
+   sub-diffusion of distributed order},
     url = {https://doi.org/10.1016/j.cam.2006.10.014},
     volume = {207},
     year = {2007}

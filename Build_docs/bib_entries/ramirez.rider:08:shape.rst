@@ -18,7 +18,8 @@ ramirez.rider:08:shape
     mrreviewer = {Masahiro Kaminaga},
     number = {2},
     pages = {413--430},
-    title = {Shape of the ground state energy density of {H}ill's equation with nice {G}aussian potential},
+    title = {Shape of the ground state energy density of {H}ill's
+   equation with nice {G}aussian potential},
     url = {https://doi.org/10.1007/s10959-007-0105-y},
     volume = {21},
     year = {2008}

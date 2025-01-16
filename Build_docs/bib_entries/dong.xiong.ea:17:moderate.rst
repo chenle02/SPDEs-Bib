@@ -8,7 +8,8 @@ dong.xiong.ea:17:moderate
 .. code-block:: bibtex
 
    @article{dong.xiong.ea:17:moderate,
-    author = {Dong, Zhao and Xiong, Jie and Zhai, Jianliang and Zhang, Tusheng},
+    author = {Dong, Zhao and Xiong, Jie and Zhai, Jianliang and Zhang,
+   Tusheng},
     doi = {10.1016/j.jfa.2016.10.012},
     fjournal = {Journal of Functional Analysis},
     issn = {0022-1236},
@@ -18,7 +19,9 @@ dong.xiong.ea:17:moderate
     mrreviewer = {Gabriel Deugoue},
     number = {1},
     pages = {227--254},
-    title = {A moderate deviation principle for 2-{D} stochastic {N}avier-{S}tokes equations driven by multiplicative {L}\'{e}vy noises},
+    title = {A moderate deviation principle for 2-{D} stochastic
+   {N}avier-{S}tokes equations driven by multiplicative
+   {L}\'{e}vy noises},
     url = {https://doi.org/10.1016/j.jfa.2016.10.012},
     volume = {272},
     year = {2017}

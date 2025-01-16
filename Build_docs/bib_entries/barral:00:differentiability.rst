@@ -10,7 +10,8 @@ barral:00:differentiability
    @article{barral:00:differentiability,
     author = {Barral, Julien},
     doi = {10.1016/S0246-0203(00)00125-4},
-    fjournal = {Annales de l'Institut Henri Poincar\'e. Probabilit\'es et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'e. Probabilit\'es et
+   Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. H. Poincar\'e{} Probab. Statist.},
     mrclass = {60J80 (60F15 60G42)},
@@ -18,7 +19,8 @@ barral:00:differentiability
     mrreviewer = {Quansheng\ Liu},
     number = {4},
     pages = {407--417},
-    title = {Differentiability of multiplicative processes related to branching random walks},
+    title = {Differentiability of multiplicative processes related to
+   branching random walks},
     url = {https://doi.org/10.1016/S0246-0203(00)00125-4},
     volume = {36},
     year = {2000}

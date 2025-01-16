@@ -17,7 +17,8 @@ apte.hairer.ea:07:sampling
     mrnumber = {2345202},
     number = {1-2},
     pages = {50--64},
-    title = {Sampling the posterior: an approach to non-{G}aussian data assimilation},
+    title = {Sampling the posterior: an approach to non-{G}aussian data
+   assimilation},
     url = {https://doi.org/10.1016/j.physd.2006.06.009},
     volume = {230},
     year = {2007}

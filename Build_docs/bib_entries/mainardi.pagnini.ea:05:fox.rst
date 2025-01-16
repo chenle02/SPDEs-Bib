@@ -8,7 +8,8 @@ mainardi.pagnini.ea:05:fox
 .. code-block:: bibtex
 
    @article{mainardi.pagnini.ea:05:fox,
-    author = {Mainardi, Francesco and Pagnini, Gianni and Saxena, R. K.},
+    author = {Mainardi, Francesco and Pagnini, Gianni and Saxena, R.
+   K.},
     doi = {10.1016/j.cam.2004.08.006},
     fjournal = {Journal of Computational and Applied Mathematics},
     issn = {0377-0427,1879-1778},

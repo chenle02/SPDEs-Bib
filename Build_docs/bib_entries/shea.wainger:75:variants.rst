@@ -17,7 +17,9 @@ shea.wainger:75:variants
     mrnumber = {372521},
     mrreviewer = {R. K. Miller},
     pages = {312--343},
-    title = {Variants of the {W}iener-{L}\'{e}vy theorem, with applications to stability problems for some {V}olterra integral equations},
+    title = {Variants of the {W}iener-{L}\'{e}vy theorem, with
+   applications to stability problems for some {V}olterra
+   integral equations},
     url = {https://doi.org/10.2307/2373715},
     volume = {97},
     year = {1975}

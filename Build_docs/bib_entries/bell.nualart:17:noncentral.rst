@@ -16,7 +16,8 @@ bell.nualart:17:noncentral
     mrnumber = {3734105},
     mrreviewer = {Benjamin Arras},
     pages = {Paper No. 66, 13},
-    title = {Noncentral limit theorem for the generalized {H}ermite process},
+    title = {Noncentral limit theorem for the generalized {H}ermite
+   process},
     url = {https://doi.org/10.1214/17-ECP99},
     volume = {22},
     year = {2017}

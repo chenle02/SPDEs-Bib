@@ -8,7 +8,8 @@ douissi.es-sebaiy.ea:22:berry-esseen
 .. code-block:: bibtex
 
    @article{douissi.es-sebaiy.ea:22:berry-esseen,
-    author = {Douissi, Soukaina and Es-Sebaiy, Khalifa and Kerchev, George and Nourdin, Ivan},
+    author = {Douissi, Soukaina and Es-Sebaiy, Khalifa and Kerchev,
+   George and Nourdin, Ivan},
     doi = {10.1214/21-ejs1967},
     fjournal = {Electronic Journal of Statistics},
     journal = {Electron. J. Stat.},
@@ -16,7 +17,8 @@ douissi.es-sebaiy.ea:22:berry-esseen
     mrnumber = {4361751},
     number = {1},
     pages = {636--670},
-    title = {Berry-{E}sseen bounds of second moment estimators for {G}aussian processes observed at high frequency},
+    title = {Berry-{E}sseen bounds of second moment estimators for
+   {G}aussian processes observed at high frequency},
     url = {https://doi.org/10.1214/21-ejs1967},
     volume = {16},
     year = {2022}

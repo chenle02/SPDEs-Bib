@@ -17,7 +17,8 @@ ceyhan:16:edge
     mrnumber = {3582773},
     mrreviewer = {Anant\ P.\ Godbole},
     pages = {31--54},
-    title = {Edge density of new graph types based on a random digraph family},
+    title = {Edge density of new graph types based on a random digraph
+   family},
     url = {https://doi.org/10.1016/j.stamet.2016.07.003},
     volume = {33},
     year = {2016}

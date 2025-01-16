@@ -16,7 +16,8 @@ peszat:93:on
     mrnumber = {1401886},
     number = {1},
     pages = {55--60},
-    title = {On a {S}obolev space of functions of infinite number of variables},
+    title = {On a {S}obolev space of functions of infinite number of
+   variables},
     volume = {41},
     year = {1993}
    }

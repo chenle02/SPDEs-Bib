@@ -8,7 +8,8 @@ guo.yan.ea:18:approximate
 .. code-block:: bibtex
 
    @article{guo.yan.ea:18:approximate,
-    author = {Guo, Zhongkai and Yan, Xingjie and Wang, Weifeng and Liu, Xianming},
+    author = {Guo, Zhongkai and Yan, Xingjie and Wang, Weifeng and Liu,
+   Xianming},
     doi = {10.1016/j.jmaa.2017.08.004},
     fjournal = {Journal of Mathematical Analysis and Applications},
     issn = {0022-247X,1096-0813},
@@ -18,7 +19,8 @@ guo.yan.ea:18:approximate
     mrreviewer = {Le\ Chen},
     number = {1},
     pages = {214--232},
-    title = {Approximate the dynamical behavior for stochastic systems by {W}ong-{Z}akai approaching},
+    title = {Approximate the dynamical behavior for stochastic systems
+   by {W}ong-{Z}akai approaching},
     url = {https://doi.org/10.1016/j.jmaa.2017.08.004},
     volume = {457},
     year = {2018}

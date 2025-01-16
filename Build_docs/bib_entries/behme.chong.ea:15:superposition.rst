@@ -8,7 +8,8 @@ behme.chong.ea:15:superposition
 .. code-block:: bibtex
 
    @article{behme.chong.ea:15:superposition,
-    author = {Behme, Anita and Chong, Carsten and Kl\"{u}ppelberg, Claudia},
+    author = {Behme, Anita and Chong, Carsten and Kl\"{u}ppelberg,
+   Claudia},
     doi = {10.1016/j.spa.2014.11.004},
     fjournal = {Stochastic Processes and their Applications},
     issn = {0304-4149,1879-209X},

@@ -10,7 +10,8 @@ madaule:15:maximum
    @article{madaule:15:maximum,
     author = {Madaule, Thomas},
     doi = {10.1214/14-AIHP633},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60G15 (60F05)},

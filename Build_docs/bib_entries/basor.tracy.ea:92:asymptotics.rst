@@ -17,7 +17,8 @@ basor.tracy.ea:92:asymptotics
     mrnumber = {1173848},
     number = {1},
     pages = {5--8},
-    title = {Asymptotics of level-spacing distributions for random matrices},
+    title = {Asymptotics of level-spacing distributions for random
+   matrices},
     url = {https://doi.org/10.1103/PhysRevLett.69.5},
     volume = {69},
     year = {1992}

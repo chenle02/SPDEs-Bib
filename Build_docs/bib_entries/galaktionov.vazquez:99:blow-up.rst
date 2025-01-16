@@ -17,7 +17,8 @@ galaktionov.vazquez:99:blow-up
     mrreviewer = {Ruxandra Stavre},
     number = {3},
     pages = {297--321},
-    title = {Blow-up of a class of solutions with free boundaries for the {N}avier-{S}tokes equations},
+    title = {Blow-up of a class of solutions with free boundaries for
+   the {N}avier-{S}tokes equations},
     volume = {4},
     year = {1999}
    }

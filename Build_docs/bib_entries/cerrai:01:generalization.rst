@@ -9,7 +9,8 @@ cerrai:01:generalization
 
    @incollection{cerrai:01:generalization,
     author = {Cerrai, Sandra},
-    booktitle = {Evolution equations and their applications in physical and life sciences ({B}ad {H}errenalb, 1998)},
+    booktitle = {Evolution equations and their applications in physical and
+   life sciences ({B}ad {H}errenalb, 1998)},
     mrclass = {60H10 (35R60 47N30)},
     mrnumber = {1818025},
     mrreviewer = {Xue-Mei Li},

@@ -16,7 +16,8 @@ salins:19:equivalences
     mrnumber = {3960292},
     mrreviewer = {Leila Setayeshgar},
     pages = {99--142},
-    title = {Equivalences and counterexamples between several definitions of the uniform large deviations principle},
+    title = {Equivalences and counterexamples between several
+   definitions of the uniform large deviations principle},
     url = {https://doi.org/10.1214/18-PS309},
     volume = {16},
     year = {2019}

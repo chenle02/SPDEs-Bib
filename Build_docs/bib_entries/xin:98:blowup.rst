@@ -18,7 +18,8 @@ xin:98:blowup
     mrreviewer = {Emmanuel Grenier},
     number = {3},
     pages = {229--240},
-    title = {Blowup of smooth solutions to the compressible {N}avier-{S}tokes equation with compact density},
+    title = {Blowup of smooth solutions to the compressible
+   {N}avier-{S}tokes equation with compact density},
     url = {https://doi.org/10.1002/(SICI)1097-0312(199803)51:3<229::AID-CPA1>3.3.CO;2-K},
     volume = {51},
     year = {1998}

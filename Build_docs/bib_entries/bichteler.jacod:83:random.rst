@@ -9,7 +9,8 @@ bichteler.jacod:83:random
 
    @incollection{bichteler.jacod:83:random,
     author = {Bichteler, K. and Jacod, J.},
-    booktitle = {Theory and application of random fields ({B}angalore, 1982)},
+    booktitle = {Theory and application of random fields ({B}angalore,
+   1982)},
     doi = {10.1007/BFb0044678},
     mrclass = {60H05},
     mrnumber = {799929},

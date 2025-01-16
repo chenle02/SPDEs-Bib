@@ -16,7 +16,8 @@ malliavin.thalmaier:06:stochastic
     pages = {xii+142},
     publisher = {Springer-Verlag, Berlin},
     series = {Springer Finance},
-    title = {Stochastic calculus of variations in mathematical finance},
+    title = {Stochastic calculus of variations in mathematical
+   finance},
     year = {2006}
    }
 

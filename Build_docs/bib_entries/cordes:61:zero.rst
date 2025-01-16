@@ -15,7 +15,8 @@ cordes:61:zero
     mrreviewer = {E. Magenes},
     pages = {157--166},
     publisher = {American Mathematical Society, Providence, R.I.},
-    title = {Zero order a priori estimates for solutions of elliptic differential equations},
+    title = {Zero order a priori estimates for solutions of elliptic
+   differential equations},
     year = {1961}
    }
 

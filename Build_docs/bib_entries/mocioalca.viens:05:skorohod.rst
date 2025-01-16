@@ -18,7 +18,8 @@ mocioalca.viens:05:skorohod
     mrreviewer = {Samy Tindel},
     number = {2},
     pages = {385--434},
-    title = {Skorohod integration and stochastic calculus beyond the fractional {B}rownian scale},
+    title = {Skorohod integration and stochastic calculus beyond the
+   fractional {B}rownian scale},
     url = {https://doi.org/10.1016/j.jfa.2004.07.013},
     volume = {222},
     year = {2005}

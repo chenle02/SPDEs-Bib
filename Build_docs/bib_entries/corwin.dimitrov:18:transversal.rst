@@ -18,7 +18,9 @@ corwin.dimitrov:18:transversal
     mrreviewer = {Sunder Sethuraman},
     number = {2},
     pages = {435--501},
-    title = {Transversal fluctuations of the {ASEP}, stochastic six vertex model, and {H}all-{L}ittlewood {G}ibbsian line ensembles},
+    title = {Transversal fluctuations of the {ASEP}, stochastic six
+   vertex model, and {H}all-{L}ittlewood {G}ibbsian line
+   ensembles},
     url = {https://doi.org/10.1007/s00220-018-3139-3},
     volume = {363},
     year = {2018}

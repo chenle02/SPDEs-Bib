@@ -17,7 +17,8 @@ bonaccorsi.fantozzi:04:large
     mrreviewer = {Hisao Watanabe},
     number = {2},
     pages = {203--219},
-    title = {Large deviation principle for semilinear stochastic {V}olterra equations},
+    title = {Large deviation principle for semilinear stochastic
+   {V}olterra equations},
     volume = {13},
     year = {2004}
    }

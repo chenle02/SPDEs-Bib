@@ -17,7 +17,8 @@ ouyang.pajda-de-la-o:19:on
     mrnumber = {3984387},
     number = {8},
     pages = {1511--1518},
-    title = {On the law of the iterated logarithm for {B}rownian motion on compact manifolds},
+    title = {On the law of the iterated logarithm for {B}rownian motion
+   on compact manifolds},
     url = {https://doi.org/10.1007/s11425-017-9417-1},
     volume = {62},
     year = {2019}

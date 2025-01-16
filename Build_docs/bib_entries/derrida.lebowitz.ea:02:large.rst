@@ -18,7 +18,8 @@ derrida.lebowitz.ea:02:large
     mrreviewer = {Ellen\ Saada},
     number = {3-4},
     pages = {599--634},
-    title = {Large deviation of the density profile in the steady state of the open symmetric simple exclusion process},
+    title = {Large deviation of the density profile in the steady state
+   of the open symmetric simple exclusion process},
     url = {https://doi.org/10.1023/A:1014555927320},
     volume = {107},
     year = {2002}

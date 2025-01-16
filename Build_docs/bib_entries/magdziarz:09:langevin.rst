@@ -17,7 +17,8 @@ magdziarz:09:langevin
     mrnumber = {2546742},
     number = {4},
     pages = {763--772},
-    title = {Langevin picture of subdiffusion with infinitely divisible waiting times},
+    title = {Langevin picture of subdiffusion with infinitely divisible
+   waiting times},
     url = {https://doi.org/10.1007/s10955-009-9751-z},
     volume = {135},
     year = {2009}

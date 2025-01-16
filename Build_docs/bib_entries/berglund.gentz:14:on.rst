@@ -18,7 +18,8 @@ berglund.gentz:14:on
     mrreviewer = {Da-Quan Jiang},
     number = {1},
     pages = {310--352},
-    title = {On the noise-induced passage through an unstable periodic orbit {II}: {G}eneral case},
+    title = {On the noise-induced passage through an unstable periodic
+   orbit {II}: {G}eneral case},
     url = {https://doi.org/10.1137/120887965},
     volume = {46},
     year = {2014}

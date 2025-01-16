@@ -16,7 +16,8 @@ hu.long:07:parameter
     mrnumber = {2397392},
     number = {2},
     pages = {175--192},
-    title = {Parameter estimation for {O}rnstein-{U}hlenbeck processes driven by {$\alpha$}-stable {L}\'{e}vy motions},
+    title = {Parameter estimation for {O}rnstein-{U}hlenbeck processes
+   driven by {$\alpha$}-stable {L}\'{e}vy motions},
     url = {https://doi.org/10.31390/cosa.1.2.01},
     volume = {1},
     year = {2007}

@@ -18,7 +18,8 @@ tracy.widom:18:blocks
     mrreviewer = {Eunghyun Lee},
     number = {9},
     pages = {091401, 13},
-    title = {Blocks and gaps in the asymmetric simple exclusion process: asymptotics},
+    title = {Blocks and gaps in the asymmetric simple exclusion
+   process: asymptotics},
     url = {https://doi.org/10.1063/1.5021353},
     volume = {59},
     year = {2018}

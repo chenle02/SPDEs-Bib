@@ -18,7 +18,8 @@ howison:92:complex
     mrreviewer = {Peter A. McCoy},
     number = {3},
     pages = {209--224},
-    title = {Complex variable methods in {H}ele-{S}haw moving boundary problems},
+    title = {Complex variable methods in {H}ele-{S}haw moving boundary
+   problems},
     url = {https://doi.org/10.1017/S0956792500000802},
     volume = {3},
     year = {1992}

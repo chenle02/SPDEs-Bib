@@ -10,7 +10,8 @@ nourdin.tudor:06:some
    @article{nourdin.tudor:06:some,
     author = {Nourdin, Ivan and Tudor, Ciprian A.},
     doi = {10.1080/17442500600688997},
-    fjournal = {Stochastics. An International Journal of Probability and Stochastic Processes},
+    fjournal = {Stochastics. An International Journal of Probability and
+   Stochastic Processes},
     issn = {1744-2508},
     journal = {Stochastics},
     mrclass = {60H10 (60H07 60H20)},

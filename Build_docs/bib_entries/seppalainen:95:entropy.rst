@@ -17,7 +17,8 @@ seppalainen:95:entropy
     mrreviewer = {Christian Maes},
     number = {2},
     pages = {233--277},
-    title = {Entropy, limit theorems, and variational principles for disordered lattice systems},
+    title = {Entropy, limit theorems, and variational principles for
+   disordered lattice systems},
     url = {http://projecteuclid.org/euclid.cmp/1104273563},
     volume = {171},
     year = {1995}

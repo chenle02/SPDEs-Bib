@@ -18,7 +18,8 @@ dalang:89:optimal
     mrreviewer = {Tom L. Lindstr\"{o}m},
     number = {2},
     pages = {697--719},
-    title = {Optimal stopping of two-parameter processes on nonstandard probability spaces},
+    title = {Optimal stopping of two-parameter processes on nonstandard
+   probability spaces},
     url = {https://doi.org/10.2307/2001425},
     volume = {313},
     year = {1989}

@@ -18,7 +18,8 @@ bovier.klimovsky:08:fluctuations
     mrreviewer = {Nicoletta\ Cancrini},
     number = {12},
     pages = {125202, 27},
-    title = {Fluctuations of the partition function in the generalized random energy model with external field},
+    title = {Fluctuations of the partition function in the generalized
+   random energy model with external field},
     url = {https://doi.org/10.1063/1.2962982},
     volume = {49},
     year = {2008}

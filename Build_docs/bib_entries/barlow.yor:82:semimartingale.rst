@@ -18,7 +18,9 @@ barlow.yor:82:semimartingale
     mrreviewer = {Dominique L\'{e}pingle},
     number = {2},
     pages = {198--229},
-    title = {Semimartingale inequalities via the {G}arsia-{R}odemich-{R}umsey lemma, and applications to local times},
+    title = {Semimartingale inequalities via the
+   {G}arsia-{R}odemich-{R}umsey lemma, and applications to
+   local times},
     url = {https://doi.org/10.1016/0022-1236(82)90080-5},
     volume = {49},
     year = {1982}

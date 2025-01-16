@@ -8,7 +8,8 @@ chen.fitzsimmons.ea:08:perturbation
 .. code-block:: bibtex
 
    @article{chen.fitzsimmons.ea:08:perturbation,
-    author = {Chen, Z.-Q. and Fitzsimmons, P. J. and Kuwae, K. and Zhang, T.-S.},
+    author = {Chen, Z.-Q. and Fitzsimmons, P. J. and Kuwae, K. and
+   Zhang, T.-S.},
     doi = {10.1007/s00440-007-0065-2},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051},

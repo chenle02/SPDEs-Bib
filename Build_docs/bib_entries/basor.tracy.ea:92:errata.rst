@@ -17,7 +17,8 @@ basor.tracy.ea:92:errata
     mrnumber = {1190643},
     number = {19},
     pages = {2880},
-    title = {Errata: ``{A}symptotics of level-spacing distributions for random matrices''},
+    title = {Errata: ``{A}symptotics of level-spacing distributions for
+   random matrices''},
     url = {https://doi.org/10.1103/PhysRevLett.69.2880},
     volume = {69},
     year = {1992}

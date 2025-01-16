@@ -17,7 +17,8 @@ mayorcas.tomasevic:23:blow-up
     mrnumber = {4629495},
     number = {3},
     pages = {Paper No. 57, 28},
-    title = {Blow-up for a stochastic model of chemotaxis driven by conservative noise on {$\Bbb {R}^2$}},
+    title = {Blow-up for a stochastic model of chemotaxis driven by
+   conservative noise on {$\Bbb {R}^2$}},
     url = {https://doi.org/10.1007/s00028-023-00900-3},
     volume = {23},
     year = {2023}

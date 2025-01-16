@@ -18,7 +18,8 @@ lou.ouyang:16:fractal
     mrreviewer = {Horatio Setiawan Boedihardjo},
     number = {8},
     pages = {2410--2429},
-    title = {Fractal dimensions of rough differential equations driven by fractional {B}rownian motions},
+    title = {Fractal dimensions of rough differential equations driven
+   by fractional {B}rownian motions},
     url = {https://doi.org/10.1016/j.spa.2016.02.005},
     volume = {126},
     year = {2016}

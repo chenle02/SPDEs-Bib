@@ -8,7 +8,8 @@ nolen.roquejoffre.ea:19:refined
 .. code-block:: bibtex
 
    @article{nolen.roquejoffre.ea:19:refined,
-    author = {Nolen, James and Roquejoffre, Jean-Michel and Ryzhik, Lenya},
+    author = {Nolen, James and Roquejoffre, Jean-Michel and Ryzhik,
+   Lenya},
     doi = {10.1142/S0219199718500724},
     fjournal = {Communications in Contemporary Mathematics},
     issn = {0219-1997},

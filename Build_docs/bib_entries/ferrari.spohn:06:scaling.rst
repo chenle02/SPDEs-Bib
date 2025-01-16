@@ -18,7 +18,8 @@ ferrari.spohn:06:scaling
     mrreviewer = {Ellen Saada},
     number = {1},
     pages = {1--44},
-    title = {Scaling limit for the space-time covariance of the stationary totally asymmetric simple exclusion process},
+    title = {Scaling limit for the space-time covariance of the
+   stationary totally asymmetric simple exclusion process},
     url = {https://doi.org/10.1007/s00220-006-1549-0},
     volume = {265},
     year = {2006}

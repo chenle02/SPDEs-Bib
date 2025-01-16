@@ -15,7 +15,8 @@ derrida:80:random
     journal = {Phys. Rep.},
     mrclass = {82A57},
     mrnumber = {600877},
-    note = {Common trends in particle and condensed matter physics (Proc. Winter Adv. Study Inst., Les Houches, 1980)},
+    note = {Common trends in particle and condensed matter physics
+   (Proc. Winter Adv. Study Inst., Les Houches, 1980)},
     number = {1},
     pages = {29--35},
     title = {The random energy model},

@@ -18,7 +18,8 @@ hu.long:09:on
     mrreviewer = {Olga A. Korosteleva},
     number = {3},
     pages = {599--608},
-    title = {On the singularity of least squares estimator for mean-reverting {$\alpha$}-stable motions},
+    title = {On the singularity of least squares estimator for
+   mean-reverting {$\alpha$}-stable motions},
     url = {https://doi.org/10.1016/S0252-9602(09)60056-4},
     volume = {29},
     year = {2009}

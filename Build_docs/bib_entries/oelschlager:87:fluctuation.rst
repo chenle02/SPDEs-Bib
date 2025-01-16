@@ -18,7 +18,8 @@ oelschlager:87:fluctuation
     mrreviewer = {G.\ Leha},
     number = {4},
     pages = {591--616},
-    title = {A fluctuation theorem for moderately interacting diffusion processes},
+    title = {A fluctuation theorem for moderately interacting diffusion
+   processes},
     url = {https://doi.org/10.1007/BF00363518},
     volume = {74},
     year = {1987}

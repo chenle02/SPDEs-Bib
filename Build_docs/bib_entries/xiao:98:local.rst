@@ -18,7 +18,8 @@ xiao:98:local
     mrreviewer = {Endre\ Cs\'{a}ki},
     number = {2},
     pages = {383--408},
-    title = {Local times and related properties of multidimensional iterated {B}rownian motion},
+    title = {Local times and related properties of multidimensional
+   iterated {B}rownian motion},
     url = {https://doi.org/10.1023/A:1022679721638},
     volume = {11},
     year = {1998}

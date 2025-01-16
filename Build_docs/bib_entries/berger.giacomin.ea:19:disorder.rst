@@ -8,7 +8,8 @@ berger.giacomin.ea:19:disorder
 .. code-block:: bibtex
 
    @article{berger.giacomin.ea:19:disorder,
-    author = {Berger, Quentin and Giacomin, Giambattista and Lacoin, Hubert},
+    author = {Berger, Quentin and Giacomin, Giambattista and Lacoin,
+   Hubert},
     doi = {10.1007/s00440-018-0870-9},
     fjournal = {Probability Theory and Related Fields},
     issn = {0178-8051,1432-2064},
@@ -18,7 +19,8 @@ berger.giacomin.ea:19:disorder
     mrreviewer = {Andrew\ R.\ Wade},
     number = {3-4},
     pages = {787--819},
-    title = {Disorder and critical phenomena: the {$\alpha =0$} copolymer model},
+    title = {Disorder and critical phenomena: the {$\alpha =0$}
+   copolymer model},
     url = {https://doi.org/10.1007/s00440-018-0870-9},
     volume = {174},
     year = {2019}

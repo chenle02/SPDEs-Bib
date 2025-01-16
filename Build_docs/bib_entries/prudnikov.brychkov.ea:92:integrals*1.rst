@@ -8,7 +8,8 @@ prudnikov.brychkov.ea:92:integrals*1
 .. code-block:: bibtex
 
    @book{prudnikov.brychkov.ea:92:integrals*1,
-    author = {Prudnikov, A. P. and Brychkov, Yu. A. and Marichev, O. I.},
+    author = {Prudnikov, A. P. and Brychkov, Yu. A. and Marichev, O.
+   I.},
     isbn = {2-88124-838-1},
     mrclass = {44-00 (00A20 26-00 33-00 44A35)},
     mrnumber = {1162980},

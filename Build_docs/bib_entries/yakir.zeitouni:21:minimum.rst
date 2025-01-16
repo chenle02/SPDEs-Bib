@@ -18,7 +18,8 @@ yakir.zeitouni:21:minimum
     mrreviewer = {Zipeng\ Wang},
     number = {2},
     pages = {543--566},
-    title = {The minimum modulus of {G}aussian trigonometric polynomials},
+    title = {The minimum modulus of {G}aussian trigonometric
+   polynomials},
     url = {https://doi.org/10.1007/s11856-021-2218-x},
     volume = {245},
     year = {2021}

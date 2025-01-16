@@ -18,7 +18,8 @@ song.zhou:96:remark
     mrreviewer = {Wei-Shih Yang},
     number = {1-2},
     pages = {277--289},
-    title = {A remark on diffusion of directed polymers in random environments},
+    title = {A remark on diffusion of directed polymers in random
+   environments},
     url = {https://doi.org/10.1007/BF02175566},
     volume = {85},
     year = {1996}

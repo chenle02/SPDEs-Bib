@@ -18,7 +18,9 @@ kozono.miura.ea:16:existence
     mrreviewer = {Jingyu Li},
     number = {5},
     pages = {1663--1683},
-    title = {Existence and uniqueness theorem on mild solutions to the {K}eller-{S}egel system coupled with the {N}avier-{S}tokes fluid},
+    title = {Existence and uniqueness theorem on mild solutions to the
+   {K}eller-{S}egel system coupled with the {N}avier-{S}tokes
+   fluid},
     url = {https://doi.org/10.1016/j.jfa.2015.10.016},
     volume = {270},
     year = {2016}

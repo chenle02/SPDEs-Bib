@@ -16,7 +16,8 @@ rhodes.vargas:23:lecture
     pages = {185--229},
     publisher = {Soc. Math. France, Paris},
     series = {Panor. Synth\`eses},
-    title = {Lecture notes on {L}iouville theory and the {DOZZ} formula},
+    title = {Lecture notes on {L}iouville theory and the {DOZZ}
+   formula},
     volume = {59},
     year = {2023}
    }

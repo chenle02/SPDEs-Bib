@@ -18,7 +18,8 @@ balan.jankovic:19:asymptotic
     mrreviewer = {Chunpeng Fan},
     number = {2},
     pages = {83--103},
-    title = {Asymptotic theory for longitudinal data with missing responses adjusted by inverse probability weights},
+    title = {Asymptotic theory for longitudinal data with missing
+   responses adjusted by inverse probability weights},
     url = {https://doi.org/10.3103/S1066530719020017},
     volume = {28},
     year = {2019}

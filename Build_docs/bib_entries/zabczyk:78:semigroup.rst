@@ -9,7 +9,8 @@ zabczyk:78:semigroup
 
    @incollection{zabczyk:78:semigroup,
     author = {Zabczyk, Jerzy},
-    booktitle = {Control of distributed parameter systems ({P}roc. {S}econd {IFAC} {S}ympos., {C}oventry, 1977)},
+    booktitle = {Control of distributed parameter systems ({P}roc. {S}econd
+   {IFAC} {S}ympos., {C}oventry, 1977)},
     isbn = {0-08-022018-5},
     mrclass = {93C99},
     mrnumber = {534864},

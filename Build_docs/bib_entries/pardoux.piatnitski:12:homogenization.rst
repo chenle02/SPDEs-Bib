@@ -18,7 +18,8 @@ pardoux.piatnitski:12:homogenization
     mrreviewer = {Jan I. Seidler},
     number = {3},
     pages = {1316--1356},
-    title = {Homogenization of a singular random one-dimensional {PDE} with time-varying coefficients},
+    title = {Homogenization of a singular random one-dimensional {PDE}
+   with time-varying coefficients},
     url = {https://doi.org/10.1214/11-AOP650},
     volume = {40},
     year = {2012}

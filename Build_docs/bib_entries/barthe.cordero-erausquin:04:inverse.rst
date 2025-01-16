@@ -17,7 +17,8 @@ barthe.cordero-erausquin:04:inverse
     pages = {65--71},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Inverse {B}rascamp-{L}ieb inequalities along the heat equation},
+    title = {Inverse {B}rascamp-{L}ieb inequalities along the heat
+   equation},
     url = {https://doi.org/10.1007/978-3-540-44489-3_7},
     volume = {1850},
     year = {2004}

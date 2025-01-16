@@ -9,14 +9,16 @@ xiao:08:strong
 
    @incollection{xiao:08:strong,
     author = {Xiao, Yimin},
-    booktitle = {Asymptotic theory in probability and statistics with applications},
+    booktitle = {Asymptotic theory in probability and statistics with
+   applications},
     mrclass = {60G60 (37A50 60G15 60G17)},
     mrnumber = {2466984},
     mrreviewer = {Dongsheng Wu},
     pages = {136--176},
     publisher = {Int. Press, Somerville, MA},
     series = {Adv. Lect. Math. (ALM)},
-    title = {Strong local nondeterminism and sample path properties of {G}aussian random fields},
+    title = {Strong local nondeterminism and sample path properties of
+   {G}aussian random fields},
     volume = {2},
     year = {2008}
    }

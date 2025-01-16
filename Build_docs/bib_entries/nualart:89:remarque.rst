@@ -17,7 +17,8 @@ nualart:89:remarque
     pages = {165--168},
     publisher = {Springer, Berlin},
     series = {Lecture Notes in Math.},
-    title = {Une remarque sur le d\'{e}veloppement en chaos d'une diffusion},
+    title = {Une remarque sur le d\'{e}veloppement en chaos d'une
+   diffusion},
     url = {https://doi.org/10.1007/BFb0083969},
     volume = {1372},
     year = {1989}

@@ -18,7 +18,8 @@ derrida.gerschenfeld:09:current
     mrreviewer = {Peter\ Eichelsbacher},
     number = {1},
     pages = {1--15},
-    title = {Current fluctuations of the one dimensional symmetric simple exclusion process with step initial condition},
+    title = {Current fluctuations of the one dimensional symmetric
+   simple exclusion process with step initial condition},
     url = {https://doi.org/10.1007/s10955-009-9772-7},
     volume = {136},
     year = {2009}

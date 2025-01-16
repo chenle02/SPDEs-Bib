@@ -17,7 +17,8 @@ bourgain.demeter.ea:17:sharp
     mrnumber = {3709122},
     mrreviewer = {Ben\ Joseph\ Green},
     pages = {827--875},
-    title = {Sharp bounds for the cubic {P}arsell-{V}inogradov system in two dimensions},
+    title = {Sharp bounds for the cubic {P}arsell-{V}inogradov system
+   in two dimensions},
     url = {https://doi.org/10.1016/j.aim.2017.09.008},
     volume = {320},
     year = {2017}

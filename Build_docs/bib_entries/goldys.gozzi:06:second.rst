@@ -17,7 +17,9 @@ goldys.gozzi:06:second
     mrnumber = {2307066},
     number = {12},
     pages = {1932--1963},
-    title = {Second order parabolic {H}amilton-{J}acobi-{B}ellman equations in {H}ilbert spaces and stochastic control: {$L_\mu^2$} approach},
+    title = {Second order parabolic {H}amilton-{J}acobi-{B}ellman
+   equations in {H}ilbert spaces and stochastic control:
+   {$L_\mu^2$} approach},
     url = {https://doi.org/10.1016/j.spa.2006.05.006},
     volume = {116},
     year = {2006}

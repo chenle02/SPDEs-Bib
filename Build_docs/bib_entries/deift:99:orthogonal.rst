@@ -14,9 +14,12 @@ deift:99:orthogonal
     mrnumber = {1677884},
     mrreviewer = {Alexander Vladimirovich Kitaev},
     pages = {viii+273},
-    publisher = {New York University, Courant Institute of Mathematical Sciences, New York; American Mathematical Society, Providence, RI},
+    publisher = {New York University, Courant Institute of Mathematical
+   Sciences, New York; American Mathematical Society,
+   Providence, RI},
     series = {Courant Lecture Notes in Mathematics},
-    title = {Orthogonal polynomials and random matrices: a {R}iemann-{H}ilbert approach},
+    title = {Orthogonal polynomials and random matrices: a
+   {R}iemann-{H}ilbert approach},
     volume = {3},
     year = {1999}
    }

@@ -18,7 +18,8 @@ gu.henderson:21:pde
     mrreviewer = {G\"{o}khan Yi ldi ri m},
     number = {10},
     pages = {7335--7370},
-    title = {A {PDE} hierarchy for directed polymers in random environments},
+    title = {A {PDE} hierarchy for directed polymers in random
+   environments},
     url = {https://doi.org/10.1088/1361-6544/ac23b7},
     volume = {34},
     year = {2021}

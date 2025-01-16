@@ -17,7 +17,8 @@ cerrai:06:ergodic
     pages = {45--59},
     publisher = {Birkh\"{a}user, Basel},
     series = {Oper. Theory Adv. Appl.},
-    title = {Ergodic properties of reaction-diffusion equations perturbed by a degenerate multiplicative noise},
+    title = {Ergodic properties of reaction-diffusion equations
+   perturbed by a degenerate multiplicative noise},
     url = {https://doi.org/10.1007/3-7643-7601-5_3},
     volume = {168},
     year = {2006}

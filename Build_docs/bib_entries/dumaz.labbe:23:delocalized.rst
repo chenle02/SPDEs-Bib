@@ -18,7 +18,8 @@ dumaz.labbe:23:delocalized
     mrreviewer = {Jan I. Seidler},
     number = {3},
     pages = {805--839},
-    title = {The delocalized phase of the {A}nderson {H}amiltonian in 1-{D}},
+    title = {The delocalized phase of the {A}nderson {H}amiltonian in
+   1-{D}},
     url = {https://doi.org/10.1214/22-aop1591},
     volume = {51},
     year = {2023}

@@ -18,7 +18,8 @@ carlen.cordero-erausquin:09:subadditivity
     mrreviewer = {Viktor A. Obuljen},
     number = {2},
     pages = {373--405},
-    title = {Subadditivity of the entropy and its relation to {B}rascamp-{L}ieb type inequalities},
+    title = {Subadditivity of the entropy and its relation to
+   {B}rascamp-{L}ieb type inequalities},
     url = {https://doi.org/10.1007/s00039-009-0001-y},
     volume = {19},
     year = {2009}

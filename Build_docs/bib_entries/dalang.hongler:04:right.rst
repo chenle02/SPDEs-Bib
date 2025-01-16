@@ -18,7 +18,8 @@ dalang.hongler:04:right
     mrreviewer = {Fabio P. Machado},
     number = {4},
     pages = {2176--2201},
-    title = {The right time to sell a stock whose price is driven by {M}arkovian noise},
+    title = {The right time to sell a stock whose price is driven by
+   {M}arkovian noise},
     url = {https://doi.org/10.1214/105051604000000747},
     volume = {14},
     year = {2004}

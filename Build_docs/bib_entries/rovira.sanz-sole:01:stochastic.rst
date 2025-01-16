@@ -18,7 +18,8 @@ rovira.sanz-sole:01:stochastic
     mrreviewer = {R\'{e}mi L\'{e}andre},
     number = {6},
     pages = {983--1004},
-    title = {Stochastic {V}olterra equations in the plane: smoothness of the law},
+    title = {Stochastic {V}olterra equations in the plane: smoothness
+   of the law},
     url = {https://doi.org/10.1081/SAP-120000757},
     volume = {19},
     year = {2001}

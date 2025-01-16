@@ -18,7 +18,8 @@ barral.seuret:07:singularity
     mrreviewer = {Ross\ S.\ McVinish},
     number = {1},
     pages = {437--468},
-    title = {The singularity spectrum of {L}\'evy processes in multifractal time},
+    title = {The singularity spectrum of {L}\'evy processes in
+   multifractal time},
     url = {https://doi.org/10.1016/j.aim.2007.02.007},
     volume = {214},
     year = {2007}

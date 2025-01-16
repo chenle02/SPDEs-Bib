@@ -17,7 +17,8 @@ moriarty.oconnell:07:on
     mrreviewer = {Francis Comets},
     number = {2},
     pages = {251--266},
-    title = {On the free energy of a directed polymer in a {B}rownian environment},
+    title = {On the free energy of a directed polymer in a {B}rownian
+   environment},
     volume = {13},
     year = {2007}
    }

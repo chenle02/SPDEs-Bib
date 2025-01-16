@@ -18,7 +18,8 @@ bona.saut:93:dispersive
     mrreviewer = {Ralph Saxton},
     number = {1},
     pages = {3--57},
-    title = {Dispersive blowup of solutions of generalized {K}orteweg-de {V}ries equations},
+    title = {Dispersive blowup of solutions of generalized
+   {K}orteweg-de {V}ries equations},
     url = {https://doi.org/10.1006/jdeq.1993.1040},
     volume = {103},
     year = {1993}

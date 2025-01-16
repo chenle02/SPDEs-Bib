@@ -18,7 +18,8 @@ fleischmann.mueller:97:super-brownian
     mrreviewer = {Xue Lei Zhao},
     number = {3},
     pages = {325--357},
-    title = {A super-{B}rownian motion with a locally infinite catalytic mass},
+    title = {A super-{B}rownian motion with a locally infinite
+   catalytic mass},
     url = {https://doi.org/10.1007/s004400050088},
     volume = {107},
     year = {1997}

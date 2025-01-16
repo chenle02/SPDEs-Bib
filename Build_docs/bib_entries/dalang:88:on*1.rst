@@ -18,7 +18,8 @@ dalang:88:on*1
     mrreviewer = {Nicholas Frangos},
     number = {3},
     pages = {245--268},
-    title = {On stopping points in the plane that lie on a unique optional increasing path},
+    title = {On stopping points in the plane that lie on a unique
+   optional increasing path},
     url = {https://doi.org/10.1080/17442508808833517},
     volume = {24},
     year = {1988}

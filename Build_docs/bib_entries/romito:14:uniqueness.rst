@@ -18,7 +18,8 @@ romito:14:uniqueness
     mrreviewer = {Marko Nedeljkov},
     number = {3-4},
     pages = {895--924},
-    title = {Uniqueness and blow-up for a stochastic viscous dyadic model},
+    title = {Uniqueness and blow-up for a stochastic viscous dyadic
+   model},
     url = {https://doi.org/10.1007/s00440-013-0499-7},
     volume = {158},
     year = {2014}

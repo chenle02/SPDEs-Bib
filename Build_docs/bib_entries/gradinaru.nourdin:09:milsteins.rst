@@ -10,7 +10,8 @@ gradinaru.nourdin:09:milsteins
    @article{gradinaru.nourdin:09:milsteins,
     author = {Gradinaru, Mihai and Nourdin, Ivan},
     doi = {10.1214/08-AIHP196},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
     issn = {0246-0203},
     journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
     mrclass = {60H05 (60G22 60H35)},

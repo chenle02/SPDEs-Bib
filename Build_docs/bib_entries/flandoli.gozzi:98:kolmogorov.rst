@@ -18,7 +18,8 @@ flandoli.gozzi:98:kolmogorov
     mrreviewer = {John\ Masson\ Noble},
     number = {1},
     pages = {312--336},
-    title = {Kolmogorov equation associated to a stochastic {N}avier-{S}tokes equation},
+    title = {Kolmogorov equation associated to a stochastic
+   {N}avier-{S}tokes equation},
     url = {https://doi.org/10.1006/jfan.1998.3321},
     volume = {160},
     year = {1998}

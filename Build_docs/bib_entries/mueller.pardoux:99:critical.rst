@@ -9,7 +9,8 @@ mueller.pardoux:99:critical
 
    @incollection{mueller.pardoux:99:critical,
     author = {Mueller, Carl and Pardoux, Etienne},
-    booktitle = {Stochastic analysis, control, optimization and applications},
+    booktitle = {Stochastic analysis, control, optimization and
+   applications},
     mrclass = {60H15 (35R60)},
     mrnumber = {1702968},
     mrreviewer = {David Nualart},

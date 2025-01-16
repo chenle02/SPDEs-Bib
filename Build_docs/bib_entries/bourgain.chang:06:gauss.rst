@@ -10,7 +10,8 @@ bourgain.chang:06:gauss
    @article{bourgain.chang:06:gauss,
     author = {Bourgain, Jean and Chang, Mei-Chu},
     doi = {10.1016/j.crma.2006.01.022},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
+   Sciences. Paris},
     issn = {1631-073X,1778-3569},
     journal = {C. R. Math. Acad. Sci. Paris},
     mrclass = {11T24},

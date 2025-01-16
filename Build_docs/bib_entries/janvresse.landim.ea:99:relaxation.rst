@@ -8,7 +8,8 @@ janvresse.landim.ea:99:relaxation
 .. code-block:: bibtex
 
    @article{janvresse.landim.ea:99:relaxation,
-    author = {Janvresse, E. and Landim, C. and Quastel, J. and Yau, H. T.},
+    author = {Janvresse, E. and Landim, C. and Quastel, J. and Yau, H.
+   T.},
     doi = {10.1214/aop/1022677265},
     fjournal = {The Annals of Probability},
     issn = {0091-1798},
@@ -18,7 +19,8 @@ janvresse.landim.ea:99:relaxation
     mrreviewer = {T. M. Liggett},
     number = {1},
     pages = {325--360},
-    title = {Relaxation to equilibrium of conservative dynamics. {I}. {Z}ero-range processes},
+    title = {Relaxation to equilibrium of conservative dynamics. {I}.
+   {Z}ero-range processes},
     url = {https://doi.org/10.1214/aop/1022677265},
     volume = {27},
     year = {1999}

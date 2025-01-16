@@ -18,7 +18,8 @@ hu.matoussi.ea:15:wong-zakai
     mrreviewer = {Ju-Liang Yin},
     number = {12},
     pages = {4375--4404},
-    title = {Wong-{Z}akai approximations of backward doubly stochastic differential equations},
+    title = {Wong-{Z}akai approximations of backward doubly stochastic
+   differential equations},
     url = {https://doi.org/10.1016/j.spa.2015.07.003},
     volume = {125},
     year = {2015}

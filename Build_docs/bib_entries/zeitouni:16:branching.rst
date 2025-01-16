@@ -9,7 +9,8 @@ zeitouni:16:branching
 
    @incollection{zeitouni:16:branching,
     author = {Zeitouni, Ofer},
-    booktitle = {Probability and statistical physics in {S}t. {P}etersburg},
+    booktitle = {Probability and statistical physics in {S}t.
+   {P}etersburg},
     doi = {10.1090/pspum/091/01544},
     isbn = {978-1-4704-2248-6},
     mrclass = {60G15 (60G70 60J80)},

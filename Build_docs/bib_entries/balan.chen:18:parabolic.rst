@@ -18,7 +18,8 @@ balan.chen:18:parabolic
     mrreviewer = {Jan I. Seidler},
     number = {4},
     pages = {2216--2265},
-    title = {Parabolic {A}nderson model with space-time homogeneous {G}aussian noise and rough initial condition},
+    title = {Parabolic {A}nderson model with space-time homogeneous
+   {G}aussian noise and rough initial condition},
     url = {https://doi.org/10.1007/s10959-017-0772-2},
     volume = {31},
     year = {2018}

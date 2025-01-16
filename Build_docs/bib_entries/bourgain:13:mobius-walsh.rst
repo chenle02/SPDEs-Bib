@@ -17,7 +17,8 @@ bourgain:13:mobius-walsh
     mrnumber = {3043150},
     mrreviewer = {Dominic\ Klyve},
     pages = {147--163},
-    title = {M\"{o}bius-{W}alsh correlation bounds and an estimate of {M}auduit and {R}ivat},
+    title = {M\"{o}bius-{W}alsh correlation bounds and an estimate of
+   {M}auduit and {R}ivat},
     url = {https://doi.org/10.1007/s11854-013-0005-2},
     volume = {119},
     year = {2013}

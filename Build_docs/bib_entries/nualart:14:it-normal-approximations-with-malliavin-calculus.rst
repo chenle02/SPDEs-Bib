@@ -17,7 +17,8 @@ nualart:14:it-normal-approximations-with-malliavin-calculus
     mrnumber = {3196797},
     number = {3},
     pages = {491--497},
-    title = {{it {N}ormal approximations with {M}alliavin calculus} [book review of MR2962301]},
+    title = {{it {N}ormal approximations with {M}alliavin calculus}
+   [book review of MR2962301]},
     url = {https://doi.org/10.1090/S0273-0979-2013-01432-0},
     volume = {51},
     year = {2014}

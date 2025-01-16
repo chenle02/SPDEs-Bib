@@ -10,7 +10,8 @@ wilkinson.edwards:82:spontaneous
    @article{wilkinson.edwards:82:spontaneous,
     author = {Wilkinson, D. R. and Edwards, S. F.},
     doi = {10.1098/rspa.1982.0057},
-    fjournal = {Proceedings of the Royal Society. London. Series A. Mathematical, Physical and Engineering Sciences},
+    fjournal = {Proceedings of the Royal Society. London. Series A.
+   Mathematical, Physical and Engineering Sciences},
     issn = {0962-8444},
     journal = {Proc. Roy. Soc. London Ser. A},
     mrclass = {82A43},

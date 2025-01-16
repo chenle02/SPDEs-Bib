@@ -18,7 +18,8 @@ horstmann:01:nonsymmetric
     mrreviewer = {Dian K. Palagachev},
     number = {4},
     pages = {399--423},
-    title = {The nonsymmetric case of the {K}eller-{S}egel model in chemotaxis: some recent results},
+    title = {The nonsymmetric case of the {K}eller-{S}egel model in
+   chemotaxis: some recent results},
     url = {https://doi.org/10.1007/PL00001455},
     volume = {8},
     year = {2001}
