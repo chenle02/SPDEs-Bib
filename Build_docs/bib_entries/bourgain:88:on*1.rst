@@ -9,22 +9,22 @@ bourgain:88:on*1
 
    @article{bourgain:88:on*1,
     author = {Bourgain, J.},
-    doi = {10.1007/BF02776302},
+    doi = {10.1007/BF02776301},
     fjournal = {Israel Journal of Mathematics},
     issn = {0021-2172},
     journal = {Israel J. Math.},
     mrclass = {28D05},
-    mrnumber = {937582},
+    mrnumber = {937581},
     mrreviewer = {Alberto\ de la Torre},
     number = {1},
-    pages = {73--84},
-    title = {On the pointwise ergodic theorem on {$L^p$} for arithmetic
-   sets},
-    url = {https://doi.org/10.1007/BF02776302},
+    pages = {39--72},
+    title = {On the maximal ergodic theorem for certain subsets of the
+   integers},
+    url = {https://doi.org/10.1007/BF02776301},
     volume = {61},
     year = {1988}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF02776302}>`_
+`The URL link to the source <ttps://doi.org/10.1007/BF02776301}>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -9,22 +9,17 @@ bourgain:14:on*1
 
    @incollection{bourgain:14:on*1,
     author = {Bourgain, Jean},
-    booktitle = {Geometric aspects of functional analysis},
-    doi = {10.1007/978-3-319-09477-9\_6},
-    isbn = {978-3-319-09476-2; 978-3-319-09477-9},
-    mrclass = {35P15 (35J10 35P05 47B39 81Q12 82B20 82B44)},
-    mrnumber = {3364680},
-    mrreviewer = {Michael\ A.\ Perelmuter},
-    pages = {71--83},
-    publisher = {Springer, Cham},
-    series = {Lecture Notes in Math.},
-    title = {On eigenvalue spacings for the 1-{D} {A}nderson model with
-   singular site distribution},
-    url = {https://doi.org/10.1007/978-3-319-09477-9_6},
-    volume = {2116},
+    booktitle = {Advances in analysis: the legacy of {E}lias {M}. {S}tein},
+    isbn = {978-0-691-15941-6},
+    mrclass = {42B20 (42B25)},
+    mrnumber = {3329846},
+    mrreviewer = {Brett\ D.\ Wick},
+    pages = {47--62},
+    publisher = {Princeton Univ. Press, Princeton, NJ},
+    series = {Princeton Math. Ser.},
+    title = {On oscillatory integral operators in higher dimensions},
+    volume = {50},
     year = {2014}
    }
-`The URL link to the source <ttps://doi.org/10.1007/978-3-319-09477-9_6}>`_
-
 
 `Back to index <../By-Cite-Keys.html>`_
