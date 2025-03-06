@@ -1,0 +1,22 @@
+muhandiramge.boland.ea:09:convergent
+====================================
+
+:cite:t:`muhandiramge.boland.ea:09:convergent`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{muhandiramge.boland.ea:09:convergent,
+    author = {Muhandiramge, Ranga and Boland, Natashia and Wang, Song},
+    doi = {10.1137/070695356},
+    journal = {SIAM Journal on Optimization},
+    month = {01},
+    pages = {54--77},
+    title = {Convergent Network Approximation for the Continuous
+   {Euclidean} Length Constrained Minimum Cost Path Problem},
+    volume = {20},
+    year = {2009}
+   }
+
+`Back to index <../By-Cite-Keys.html>`_

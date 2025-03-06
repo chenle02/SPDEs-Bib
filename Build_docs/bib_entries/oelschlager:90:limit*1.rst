@@ -7,17 +7,22 @@ oelschlager:90:limit*1
 
 .. code-block:: bibtex
 
-   @incollection{oelschlager:90:limit*1,
+   @article{oelschlager:90:limit*1,
     author = {Oelschl\"{a}ger, Karl},
-    booktitle = {Stochastic modelling in biology ({H}eidelberg, 1988)},
-    isbn = {981-02-0135-4},
-    mrclass = {82C05 (60K35)},
-    mrnumber = {1090838},
-    pages = {141--149},
-    publisher = {World Sci. Publ., Teaneck, NJ},
-    title = {A limit theorem for a one-dimensional many-particle system
-   with gradient interaction},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60K35 (60F05)},
+    mrnumber = {1043949},
+    mrreviewer = {Peter\ Donnelly},
+    number = {1},
+    pages = {290--318},
+    title = {Limit theorems for age-structured populations},
+    url = {http://links.jstor.org/sici?sici=0091-1798(199001)18:1<290:LTFAP>2.0.CO;2-7&origin=MSN},
+    volume = {18},
     year = {1990}
    }
+`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(199001)18:1<290:LTFAP>2.0.CO;2-7&origin=MSN}>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_

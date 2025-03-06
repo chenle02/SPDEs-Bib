@@ -9,18 +9,22 @@ bourgain:81:on*1
 
    @article{bourgain:81:on*1,
     author = {Bourgain, J.},
-    fjournal = {Bulletin de la Soci\'{e}t\'{e} Math\'{e}matique de
-   Belgique. S\'{e}rie B},
-    issn = {0037-9476},
-    journal = {Bull. Soc. Math. Belg. S\'{e}r. B},
-    mrclass = {10G05 (10H15 42A45)},
-    mrnumber = {682653},
-    mrreviewer = {Ekkehard\ Kr\"{a}tzel},
-    number = {2},
-    pages = {289--294},
-    title = {On trigonometric sums with prime frequencies},
-    volume = {33},
+    doi = {10.1112/jlms/s2-24.1.165},
+    fjournal = {Journal of the London Mathematical Society. Second
+   Series},
+    issn = {0024-6107,1469-7750},
+    journal = {J. London Math. Soc. (2)},
+    mrclass = {46B20 (42C99)},
+    mrnumber = {623683},
+    mrreviewer = {R.\ C.\ James},
+    number = {1},
+    pages = {165--174},
+    title = {On trigonometric series in super reflexive spaces},
+    url = {https://doi.org/10.1112/jlms/s2-24.1.165},
+    volume = {24},
     year = {1981}
    }
+`The URL link to the source <ttps://doi.org/10.1112/jlms/s2-24.1.165}>`_
+
 
 `Back to index <../By-Cite-Keys.html>`_
