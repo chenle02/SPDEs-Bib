@@ -1,0 +1,28 @@
+odlyzko.rains:00:on
+===================
+
+:cite:t:`odlyzko.rains:00:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{odlyzko.rains:00:on,
+     author        = {Odlyzko, A. M. and Rains, E. M.},
+     booktitle     = {Analysis, geometry, number theory: the mathematics of {L}eon {E}hrenpreis ({P}hiladelphia, {PA}, 1998)},
+     doi           = {10.1090/conm/251/03886},
+     mrclass       = {05A05 (60C05)},
+     mrnumber      = {1771285},
+     pages         = {439--451},
+     publisher     = {Amer. Math. Soc., Providence, RI},
+     series        = {Contemp. Math.},
+     title         = {On longest increasing subsequences in random permutations},
+     url           = {https://doi.org/10.1090/conm/251/03886},
+     volume        = {251},
+     year          = {2000}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/conm/251/03886>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

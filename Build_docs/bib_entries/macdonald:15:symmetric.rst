@@ -1,0 +1,24 @@
+macdonald:15:symmetric
+======================
+
+:cite:t:`macdonald:15:symmetric`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{macdonald:15:symmetric,
+     author        = {Macdonald, I. G.},
+     edition       = {Second},
+     isbn          = {978-0-19-873912-8},
+     mrclass       = {05E05 (01A75 05-02 20C30 20C33 20K01 33C80 33D80)},
+     mrnumber      = {3443860},
+     note          = {With contribution by A. V. Zelevinsky and a foreword by Richard Stanley, Reprint of the 2008 paperback edition [ MR1354144]},
+     pages         = {xii+475},
+     publisher     = {The Clarendon Press, Oxford University Press, New York},
+     series        = {Oxford Classic Texts in the Physical Sciences},
+     title         = {Symmetric functions and {H}all polynomials},
+     year          = {2015}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+mueller.lee:09:on
+=================
+
+:cite:t:`mueller.lee:09:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{mueller.lee:09:on,
+     author        = {Mueller, Carl and Lee, Kijung},
+     doi           = {10.1090/S0002-9939-08-09748-7},
+     fjournal      = {Proceedings of the American Mathematical Society},
+     issn          = {0002-9939},
+     journal       = {Proc. Amer. Math. Soc.},
+     mrclass       = {60H15 (35K05 35R60)},
+     mrnumber      = {2465673},
+     mrreviewer    = {Krystyna Twardowska},
+     number        = {4},
+     pages         = {1467--1478},
+     title         = {On the discrete heat equation taking values on a tree},
+     url           = {https://doi.org/10.1090/S0002-9939-08-09748-7},
+     volume        = {137},
+     year          = {2009}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-08-09748-7>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

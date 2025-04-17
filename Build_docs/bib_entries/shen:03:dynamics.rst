@@ -1,0 +1,30 @@
+shen:03:dynamics
+================
+
+:cite:t:`shen:03:dynamics`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{shen:03:dynamics,
+     author        = {Shen, Wenxian},
+     doi           = {10.1016/j.jmaa.2003.09.014},
+     fjournal      = {Journal of Mathematical Analysis and Applications},
+     issn          = {0022-247X,1096-0813},
+     journal       = {J. Math. Anal. Appl.},
+     mrclass       = {37J45 (34C15 35Q99 37L99 60H15)},
+     mrnumber      = {2020183},
+     mrreviewer    = {Xiao\ Ping\ Yuan},
+     number        = {2},
+     pages         = {586--605},
+     title         = {Dynamics in coupled oscillators with recurrent/random forcing, a {PDE} approach},
+     url           = {https://doi.org/10.1016/j.jmaa.2003.09.014},
+     volume        = {288},
+     year          = {2003}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2003.09.014>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

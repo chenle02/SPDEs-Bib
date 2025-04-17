@@ -1,0 +1,29 @@
+winkler.djie:10:boundedness
+===========================
+
+:cite:t:`winkler.djie:10:boundedness`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{winkler.djie:10:boundedness,
+     author        = {Winkler, Michael and Djie, Kianhwa C.},
+     doi           = {10.1016/j.na.2009.07.045},
+     fjournal      = {Nonlinear Analysis. Theory, Methods \& Applications. An International Multidisciplinary Journal},
+     issn          = {0362-546X},
+     journal       = {Nonlinear Anal.},
+     mrclass       = {35M33 (35B35 35B40 92C17)},
+     mrnumber      = {2579368},
+     number        = {2},
+     pages         = {1044--1064},
+     title         = {Boundedness and finite-time collapse in a chemotaxis system with volume-filling effect},
+     url           = {https://doi.org/10.1016/j.na.2009.07.045},
+     volume        = {72},
+     year          = {2010}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.na.2009.07.045>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

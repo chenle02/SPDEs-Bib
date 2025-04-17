@@ -1,0 +1,30 @@
+mueller:89:probability
+======================
+
+:cite:t:`mueller:89:probability`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{mueller:89:probability,
+     author        = {Mueller, Carl},
+     doi           = {10.1512/iumj.1989.38.38046},
+     fjournal      = {Indiana University Mathematics Journal},
+     issn          = {0022-2518},
+     journal       = {Indiana Univ. Math. J.},
+     mrclass       = {60G46 (42B30)},
+     mrnumber      = {1029686},
+     mrreviewer    = {J. A. Chao},
+     number        = {4},
+     pages         = {999--1025},
+     title         = {Probability and the equivalence of generalized {$H^p$} spaces},
+     url           = {https://doi.org/10.1512/iumj.1989.38.38046},
+     volume        = {38},
+     year          = {1989}
+   }
+
+`The URL link to the source <https://doi.org/10.1512/iumj.1989.38.38046>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

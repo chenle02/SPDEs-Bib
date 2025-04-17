@@ -1,0 +1,26 @@
+rider:00:on
+===========
+
+:cite:t:`rider:00:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{rider:00:on,
+     author        = {Rider, Brian Charles},
+     isbn          = {978-0599-91687-6},
+     mrclass       = {Thesis},
+     mrnumber      = {2701280},
+     note          = {Thesis (Ph.D.)--New York University},
+     pages         = {133},
+     publisher     = {ProQuest LLC, Ann Arbor, MI},
+     title         = {On the thermodynamic limit of focussing cubic {S}chroedinger},
+     url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:9985274},
+     year          = {2000}
+   }
+
+`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:9985274>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

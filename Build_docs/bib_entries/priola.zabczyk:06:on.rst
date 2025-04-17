@@ -1,0 +1,30 @@
+priola.zabczyk:06:on
+====================
+
+:cite:t:`priola.zabczyk:06:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{priola.zabczyk:06:on,
+     author        = {Priola, Enrico and Zabczyk, Jerzy},
+     doi           = {10.1090/S0002-9939-06-08608-4},
+     fjournal      = {Proceedings of the American Mathematical Society},
+     issn          = {0002-9939},
+     journal       = {Proc. Amer. Math. Soc.},
+     mrclass       = {31C05 (43A70 47D07)},
+     mrnumber      = {2231912},
+     mrreviewer    = {Christophe Cuny},
+     number        = {11},
+     pages         = {3275--3286},
+     title         = {On bounded solutions to convolution equations},
+     url           = {https://doi.org/10.1090/S0002-9939-06-08608-4},
+     volume        = {134},
+     year          = {2006}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-06-08608-4>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

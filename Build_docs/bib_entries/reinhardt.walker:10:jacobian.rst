@@ -1,0 +1,21 @@
+reinhardt.walker:10:jacobian
+============================
+
+:cite:t:`reinhardt.walker:10:jacobian`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{reinhardt.walker:10:jacobian,
+     author        = {Reinhardt, W. P. and Walker, P. L.},
+     booktitle     = {N{IST} handbook of mathematical functions},
+     mrclass       = {33E05},
+     mrnumber      = {2655362},
+     pages         = {549--568},
+     publisher     = {U.S. Dept. Commerce, Washington, DC},
+     title         = {Jacobian elliptic functions},
+     year          = {2010}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

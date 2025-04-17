@@ -1,0 +1,30 @@
+mytnik:99:uniqueness
+====================
+
+:cite:t:`mytnik:99:uniqueness`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{mytnik:99:uniqueness,
+     author        = {Mytnik, Leonid},
+     doi           = {10.4153/CJM-1999-019-x},
+     fjournal      = {Canadian Journal of Mathematics. Journal Canadien de Math\'{e}matiques},
+     issn          = {0008-414X},
+     journal       = {Canad. J. Math.},
+     mrclass       = {60H30 (35Q80 35R60 60H15)},
+     mrnumber      = {1697149},
+     mrreviewer    = {Krystyna Twardowska},
+     number        = {2},
+     pages         = {372--448},
+     title         = {Uniqueness for a competing species model},
+     url           = {https://doi.org/10.4153/CJM-1999-019-x},
+     volume        = {51},
+     year          = {1999}
+   }
+
+`The URL link to the source <https://doi.org/10.4153/CJM-1999-019-x>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

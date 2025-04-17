@@ -1,0 +1,29 @@
+rider.virag:07:noise
+====================
+
+:cite:t:`rider.virag:07:noise`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{rider.virag:07:noise,
+     author        = {Rider, Brian and Vir\'{a}g, B\'{a}lint},
+     doi           = {10.1093/imrn/rnm006},
+     fjournal      = {International Mathematics Research Notices. IMRN},
+     issn          = {1073-7928},
+     journal       = {Int. Math. Res. Not. IMRN},
+     mrclass       = {60F05 (82B05)},
+     mrnumber      = {2361453},
+     mrreviewer    = {Peter Eichelsbacher},
+     number        = {2},
+     pages         = {Art. ID rnm006, 33},
+     title         = {The noise in the circular law and the {G}aussian free field},
+     url           = {https://doi.org/10.1093/imrn/rnm006},
+     year          = {2007}
+   }
+
+`The URL link to the source <https://doi.org/10.1093/imrn/rnm006>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

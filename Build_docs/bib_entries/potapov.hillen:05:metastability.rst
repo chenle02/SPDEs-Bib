@@ -1,0 +1,30 @@
+potapov.hillen:05:metastability
+===============================
+
+:cite:t:`potapov.hillen:05:metastability`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{potapov.hillen:05:metastability,
+     author        = {Potapov, A. B. and Hillen, T.},
+     doi           = {10.1007/s10884-005-2938-3},
+     fjournal      = {Journal of Dynamics and Differential Equations},
+     issn          = {1040-7294},
+     journal       = {J. Dynam. Differential Equations},
+     mrclass       = {35K57 (37L10 92C17)},
+     mrnumber      = {2157782},
+     mrreviewer    = {Dirk Horstmann},
+     number        = {2},
+     pages         = {293--330},
+     title         = {Metastability in chemotaxis models},
+     url           = {https://doi.org/10.1007/s10884-005-2938-3},
+     volume        = {17},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10884-005-2938-3>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

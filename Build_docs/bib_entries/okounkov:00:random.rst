@@ -1,0 +1,29 @@
+okounkov:00:random
+==================
+
+:cite:t:`okounkov:00:random`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{okounkov:00:random,
+     author        = {Okounkov, Andrei},
+     doi           = {10.1155/S1073792800000532},
+     fjournal      = {International Mathematics Research Notices},
+     issn          = {1073-7928},
+     journal       = {Internat. Math. Res. Notices},
+     mrclass       = {15A52 (05C30 60C05 82B31)},
+     mrnumber      = {1802530},
+     mrreviewer    = {Oleksiy Khorunzhiy},
+     number        = {20},
+     pages         = {1043--1095},
+     title         = {Random matrices and random permutations},
+     url           = {https://doi.org/10.1155/S1073792800000532},
+     year          = {2000}
+   }
+
+`The URL link to the source <https://doi.org/10.1155/S1073792800000532>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+rozovsky.lototsky:18:stochastic
+===============================
+
+:cite:t:`rozovsky.lototsky:18:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{rozovsky.lototsky:18:stochastic,
+     author        = {Rozovsky, Boris L. and Lototsky, Sergey V.},
+     doi           = {10.1007/978-3-319-94893-5},
+     isbn          = {978-3-319-94892-8; 978-3-319-94893-5},
+     mrclass       = {60-02 (34F05 35R60 60G35 60H15 60J60)},
+     mrnumber      = {3839316},
+     mrreviewer    = {Charles-Edouard Br\'{e}hier},
+     note          = {Linear theory and applications to non-linear filtering, Second edition of [ MR1135324]},
+     pages         = {xvi+330},
+     publisher     = {Springer, Cham},
+     series        = {Probability Theory and Stochastic Modelling},
+     title         = {Stochastic evolution systems},
+     url           = {https://doi.org/10.1007/978-3-319-94893-5},
+     volume        = {89},
+     year          = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-94893-5>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

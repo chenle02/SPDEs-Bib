@@ -1,0 +1,30 @@
+sanz-sole.vuillermot:02:holder-sobolev
+======================================
+
+:cite:t:`sanz-sole.vuillermot:02:holder-sobolev`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{sanz-sole.vuillermot:02:holder-sobolev,
+     author        = {Sanz-Sol\'{e}, Marta and Vuillermot, Pierre-A.},
+     doi           = {10.1016/S1631-073X(02)02359-2},
+     fjournal      = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+     issn          = {1631-073X},
+     journal       = {C. R. Math. Acad. Sci. Paris},
+     mrclass       = {60H15 (35B65 35R60)},
+     mrnumber      = {1909930},
+     mrreviewer    = {Sergey V. Lototsky},
+     number        = {10},
+     pages         = {869--874},
+     title         = {H\"{o}lder-{S}obolev regularity of solutions to a class of {SPDE}'s driven by a spatially colored noise},
+     url           = {https://doi.org/10.1016/S1631-073X(02)02359-2},
+     volume        = {334},
+     year          = {2002}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/S1631-073X(02)02359-2>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

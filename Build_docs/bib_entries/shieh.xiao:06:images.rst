@@ -1,0 +1,30 @@
+shieh.xiao:06:images
+====================
+
+:cite:t:`shieh.xiao:06:images`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{shieh.xiao:06:images,
+     author        = {Shieh, Narn-Rueih and Xiao, Yimin},
+     doi           = {10.4064/sm176-1-3},
+     fjournal      = {Studia Mathematica},
+     issn          = {0039-3223,1730-6337},
+     journal       = {Studia Math.},
+     mrclass       = {60G60 (28A80 43A46 60G15 60G17)},
+     mrnumber      = {2263961},
+     mrreviewer    = {Ren\'{e}\ L.\ Schilling},
+     number        = {1},
+     pages         = {37--60},
+     title         = {Images of {G}aussian random fields: {S}alem sets and interior points},
+     url           = {https://doi.org/10.4064/sm176-1-3},
+     volume        = {176},
+     year          = {2006}
+   }
+
+`The URL link to the source <https://doi.org/10.4064/sm176-1-3>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

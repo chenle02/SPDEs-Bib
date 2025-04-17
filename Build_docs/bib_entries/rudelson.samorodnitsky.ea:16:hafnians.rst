@@ -1,0 +1,30 @@
+rudelson.samorodnitsky.ea:16:hafnians
+=====================================
+
+:cite:t:`rudelson.samorodnitsky.ea:16:hafnians`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{rudelson.samorodnitsky.ea:16:hafnians,
+     author        = {Rudelson, Mark and Samorodnitsky, Alex and Zeitouni, Ofer},
+     doi           = {10.1214/15-AOP1036},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798,2168-894X},
+     journal       = {Ann. Probab.},
+     mrclass       = {60B20 (05C70 15B52)},
+     mrnumber      = {3531682},
+     mrreviewer    = {Steven\ Joel\ Miller},
+     number        = {4},
+     pages         = {2858--2888},
+     title         = {Hafnians, perfect matchings and {G}aussian matrices},
+     url           = {https://doi.org/10.1214/15-AOP1036},
+     volume        = {44},
+     year          = {2016}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/15-AOP1036>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

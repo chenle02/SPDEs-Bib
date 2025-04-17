@@ -1,0 +1,29 @@
+shen.shen.ea:22:population
+==========================
+
+:cite:t:`shen.shen.ea:22:population`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{shen.shen.ea:22:population,
+     author        = {Shen, Wenxian and Shen, Zhongwei and Xue, Shuwen and Zhou, Dun},
+     doi           = {10.1007/s00285-022-01728-0},
+     fjournal      = {Journal of Mathematical Biology},
+     issn          = {0303-6812,1432-1416},
+     journal       = {J. Math. Biol.},
+     mrclass       = {92D25 (35C07 35K57 92D40)},
+     mrnumber      = {4392478},
+     number        = {4},
+     pages         = {Paper No. 30, 42},
+     title         = {Population dynamics under climate change: persistence criterion and effects of fluctuations},
+     url           = {https://doi.org/10.1007/s00285-022-01728-0},
+     volume        = {84},
+     year          = {2022}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00285-022-01728-0>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
