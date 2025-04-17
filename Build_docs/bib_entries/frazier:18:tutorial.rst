@@ -8,10 +8,10 @@ frazier:18:tutorial
 .. code-block:: bibtex
 
    @article{frazier:18:tutorial,
-    author = {Frazier, Peter I},
-    journal = {arXiv preprint arXiv:1807.02811},
-    title = {A tutorial on {B}ayesian optimization},
-    year = {2018}
+     author        = {Frazier, Peter I},
+     journal       = {arXiv preprint arXiv:1807.02811},
+     title         = {A tutorial on {B}ayesian optimization},
+     year          = {2018}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

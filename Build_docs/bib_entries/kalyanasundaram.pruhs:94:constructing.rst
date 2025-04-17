@@ -8,14 +8,14 @@ kalyanasundaram.pruhs:94:constructing
 .. code-block:: bibtex
 
    @article{kalyanasundaram.pruhs:94:constructing,
-    author = {Kalyanasundaram, Bala and Pruhs, Kirk R},
-    journal = {Theoretical Computer Science},
-    number = {1},
-    pages = {125--138},
-    publisher = {Elsevier},
-    title = {Constructing competitive tours from local information},
-    volume = {130},
-    year = {1994}
+     author        = {Kalyanasundaram, Bala and Pruhs, Kirk R},
+     journal       = {Theoretical Computer Science},
+     number        = {1},
+     pages         = {125--138},
+     publisher     = {Elsevier},
+     title         = {Constructing competitive tours from local information},
+     volume        = {130},
+     year          = {1994}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

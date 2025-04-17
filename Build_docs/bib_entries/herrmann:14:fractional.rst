@@ -8,23 +8,22 @@ herrmann:14:fractional
 .. code-block:: bibtex
 
    @book{herrmann:14:fractional,
-    author = {Herrmann, Richard},
-    doi = {10.1142/8934},
-    edition = {Second},
-    isbn = {978-981-4551-07-6},
-    mrclass = {26-01 (00A06 26A33 34A08 70-01 81Q05 81T13)},
-    mrnumber = {3243574},
-    mrreviewer = {\L ukasz P\l ociniczak},
-    note = {An introduction for physicists},
-    pages = {xx+479},
-    publisher = {World Scientific Publishing Co. Pte. Ltd., Hackensack,
-   NJ},
-    title = {Fractional calculus},
-    url = {https://doi.org/10.1142/8934},
-    year = {2014}
+     author        = {Herrmann, Richard},
+     doi           = {10.1142/8934},
+     edition       = {Second},
+     isbn          = {978-981-4551-07-6},
+     mrclass       = {26-01 (00A06 26A33 34A08 70-01 81Q05 81T13)},
+     mrnumber      = {3243574},
+     mrreviewer    = {\L ukasz P\l ociniczak},
+     note          = {An introduction for physicists},
+     pages         = {xx+479},
+     publisher     = {World Scientific Publishing Co. Pte. Ltd., Hackensack, NJ},
+     title         = {Fractional calculus},
+     url           = {https://doi.org/10.1142/8934},
+     year          = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/8934}>`__
+`The URL link to the source <https://doi.org/10.1142/8934>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

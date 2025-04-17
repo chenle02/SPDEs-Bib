@@ -8,24 +8,22 @@ berger.lacoin:17:high-temperature
 .. code-block:: bibtex
 
    @article{berger.lacoin:17:high-temperature,
-    author = {Berger, Quentin and Lacoin, Hubert},
-    doi = {10.1214/15-AIHP721},
-    fjournal = {Annales de l'Institut Henri Poincar\'e{} Probabilit\'es et
-   Statistiques},
-    issn = {0246-0203,1778-7017},
-    journal = {Ann. Inst. Henri Poincar\'e{} Probab. Stat.},
-    mrclass = {82D60 (60K37 82B44)},
-    mrnumber = {3606747},
-    number = {1},
-    pages = {430--450},
-    title = {The high-temperature behavior for the directed polymer in
-   dimension {$1+2$}},
-    url = {https://doi.org/10.1214/15-AIHP721},
-    volume = {53},
-    year = {2017}
+     author        = {Berger, Quentin and Lacoin, Hubert},
+     doi           = {10.1214/15-AIHP721},
+     fjournal      = {Annales de l'Institut Henri Poincar\'e{} Probabilit\'es et Statistiques},
+     issn          = {0246-0203,1778-7017},
+     journal       = {Ann. Inst. Henri Poincar\'e{} Probab. Stat.},
+     mrclass       = {82D60 (60K37 82B44)},
+     mrnumber      = {3606747},
+     number        = {1},
+     pages         = {430--450},
+     title         = {The high-temperature behavior for the directed polymer in dimension {$1+2$}},
+     url           = {https://doi.org/10.1214/15-AIHP721},
+     volume        = {53},
+     year          = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/15-AIHP721}>`__
+`The URL link to the source <https://doi.org/10.1214/15-AIHP721>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

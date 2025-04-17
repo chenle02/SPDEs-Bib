@@ -8,23 +8,23 @@ kenyon:00:conformal
 .. code-block:: bibtex
 
    @article{kenyon:00:conformal,
-    author = {Kenyon, Richard},
-    doi = {10.1214/aop/1019160260},
-    fjournal = {The Annals of Probability},
-    issn = {0091-1798},
-    journal = {Ann. Probab.},
-    mrclass = {52C20 (05B45 05B50 82B41)},
-    mrnumber = {1782431},
-    mrreviewer = {Mihail N. Kolountzakis},
-    number = {2},
-    pages = {759--795},
-    title = {Conformal invariance of domino tiling},
-    url = {https://doi.org/10.1214/aop/1019160260},
-    volume = {28},
-    year = {2000}
+     author        = {Kenyon, Richard},
+     doi           = {10.1214/aop/1019160260},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {52C20 (05B45 05B50 82B41)},
+     mrnumber      = {1782431},
+     mrreviewer    = {Mihail N. Kolountzakis},
+     number        = {2},
+     pages         = {759--795},
+     title         = {Conformal invariance of domino tiling},
+     url           = {https://doi.org/10.1214/aop/1019160260},
+     volume        = {28},
+     year          = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1019160260}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1019160260>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,22 +8,22 @@ bourgain:14:monotone
 .. code-block:: bibtex
 
    @article{bourgain:14:monotone,
-    author = {Bourgain, Jean},
-    doi = {10.1007/s11854-014-0033-6},
-    fjournal = {Journal d'Analyse Math\'{e}matique},
-    issn = {0021-7670,1565-8538},
-    journal = {J. Anal. Math.},
-    mrclass = {11N05 (11A41 11A63)},
-    mrnumber = {3286055},
-    mrreviewer = {Vilius\ Stakenas},
-    pages = {297--307},
-    title = {Monotone {B}oolean functions capture their primes},
-    url = {https://doi.org/10.1007/s11854-014-0033-6},
-    volume = {124},
-    year = {2014}
+     author        = {Bourgain, Jean},
+     doi           = {10.1007/s11854-014-0033-6},
+     fjournal      = {Journal d'Analyse Math\'{e}matique},
+     issn          = {0021-7670,1565-8538},
+     journal       = {J. Anal. Math.},
+     mrclass       = {11N05 (11A41 11A63)},
+     mrnumber      = {3286055},
+     mrreviewer    = {Vilius\ Stakenas},
+     pages         = {297--307},
+     title         = {Monotone {B}oolean functions capture their primes},
+     url           = {https://doi.org/10.1007/s11854-014-0033-6},
+     volume        = {124},
+     year          = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11854-014-0033-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s11854-014-0033-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

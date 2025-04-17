@@ -8,24 +8,23 @@ hairer.li:20:averaging
 .. code-block:: bibtex
 
    @article{hairer.li:20:averaging,
-    author = {Hairer, Martin and Li, Xue-Mei},
-    doi = {10.1214/19-AOP1408},
-    fjournal = {The Annals of Probability},
-    issn = {0091-1798},
-    journal = {Ann. Probab.},
-    mrclass = {60G22 (60H05 60H10 60L20)},
-    mrnumber = {4124526},
-    mrreviewer = {Mireia Besal\'{u}},
-    number = {4},
-    pages = {1826--1860},
-    title = {Averaging dynamics driven by fractional {B}rownian
-   motion},
-    url = {https://doi.org/10.1214/19-AOP1408},
-    volume = {48},
-    year = {2020}
+     author        = {Hairer, Martin and Li, Xue-Mei},
+     doi           = {10.1214/19-AOP1408},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60G22 (60H05 60H10 60L20)},
+     mrnumber      = {4124526},
+     mrreviewer    = {Mireia Besal\'{u}},
+     number        = {4},
+     pages         = {1826--1860},
+     title         = {Averaging dynamics driven by fractional {B}rownian motion},
+     url           = {https://doi.org/10.1214/19-AOP1408},
+     volume        = {48},
+     year          = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/19-AOP1408}>`__
+`The URL link to the source <https://doi.org/10.1214/19-AOP1408>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

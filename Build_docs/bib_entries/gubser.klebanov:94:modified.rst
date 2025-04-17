@@ -8,25 +8,23 @@ gubser.klebanov:94:modified
 .. code-block:: bibtex
 
    @article{gubser.klebanov:94:modified,
-    author = {Gubser, Steven S. and Klebanov, Igor R.},
-    doi = {10.1016/0370-2693(94)91294-7},
-    fjournal = {Physics Letters. B. Particle Physics, Nuclear Physics and
-   Cosmology},
-    issn = {0370-2693},
-    journal = {Phys. Lett. B},
-    mrclass = {81T40 (81T27)},
-    mrnumber = {1304657},
-    mrreviewer = {Yolanda Lozano},
-    number = {1-2},
-    pages = {35--42},
-    title = {A modified {$c=1$} matrix model with new critical
-   behavior},
-    url = {https://doi.org/10.1016/0370-2693(94)91294-7},
-    volume = {340},
-    year = {1994}
+     author        = {Gubser, Steven S. and Klebanov, Igor R.},
+     doi           = {10.1016/0370-2693(94)91294-7},
+     fjournal      = {Physics Letters. B. Particle Physics, Nuclear Physics and Cosmology},
+     issn          = {0370-2693},
+     journal       = {Phys. Lett. B},
+     mrclass       = {81T40 (81T27)},
+     mrnumber      = {1304657},
+     mrreviewer    = {Yolanda Lozano},
+     number        = {1-2},
+     pages         = {35--42},
+     title         = {A modified {$c=1$} matrix model with new critical behavior},
+     url           = {https://doi.org/10.1016/0370-2693(94)91294-7},
+     volume        = {340},
+     year          = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0370-2693(94)91294-7}>`__
+`The URL link to the source <https://doi.org/10.1016/0370-2693(94)91294-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

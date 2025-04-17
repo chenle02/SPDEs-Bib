@@ -8,10 +8,10 @@ chow.ea:06:hamiltons
 .. code-block:: bibtex
 
    @book{chow.ea:06:hamiltons,
-    author = {Chow, Bennett and others},
-    publisher = {American Mathematical Soc.},
-    title = {Hamilton's Ricci flow},
-    year = {2006}
+     author        = {Chow, Bennett and others},
+     publisher     = {American Mathematical Soc.},
+     title         = {Hamilton's Ricci flow},
+     year          = {2006}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

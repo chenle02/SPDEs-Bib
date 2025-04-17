@@ -8,24 +8,23 @@ horstmann:01:lyapunov
 .. code-block:: bibtex
 
    @article{horstmann:01:lyapunov,
-    author = {Horstmann, Dirk},
-    doi = {10.4064/cm87-1-7},
-    fjournal = {Colloquium Mathematicum},
-    issn = {0010-1354},
-    journal = {Colloq. Math.},
-    mrclass = {35K57 (35A07 35B40 35K40 35K50)},
-    mrnumber = {1812147},
-    mrreviewer = {Hiroki Hoshino},
-    number = {1},
-    pages = {113--127},
-    title = {Lyapunov functions and {$L^p$}-estimates for a class of
-   reaction-diffusion systems},
-    url = {https://doi.org/10.4064/cm87-1-7},
-    volume = {87},
-    year = {2001}
+     author        = {Horstmann, Dirk},
+     doi           = {10.4064/cm87-1-7},
+     fjournal      = {Colloquium Mathematicum},
+     issn          = {0010-1354},
+     journal       = {Colloq. Math.},
+     mrclass       = {35K57 (35A07 35B40 35K40 35K50)},
+     mrnumber      = {1812147},
+     mrreviewer    = {Hiroki Hoshino},
+     number        = {1},
+     pages         = {113--127},
+     title         = {Lyapunov functions and {$L^p$}-estimates for a class of reaction-diffusion systems},
+     url           = {https://doi.org/10.4064/cm87-1-7},
+     volume        = {87},
+     year          = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/cm87-1-7}>`__
+`The URL link to the source <https://doi.org/10.4064/cm87-1-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

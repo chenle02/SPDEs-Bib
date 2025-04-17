@@ -8,23 +8,23 @@ da-prato.zabczyk:14:stochastic
 .. code-block:: bibtex
 
    @book{da-prato.zabczyk:14:stochastic,
-    author = {Da Prato, Giuseppe and Zabczyk, Jerzy},
-    doi = {10.1017/CBO9781107295513},
-    edition = {Second},
-    isbn = {978-1-107-05584-1},
-    mrclass = {60H15 (34F05 34Gxx)},
-    mrnumber = {3236753},
-    mrreviewer = {David Nualart},
-    pages = {xviii+493},
-    publisher = {Cambridge University Press, Cambridge},
-    series = {Encyclopedia of Mathematics and its Applications},
-    title = {Stochastic equations in infinite dimensions},
-    url = {https://doi.org/10.1017/CBO9781107295513},
-    volume = {152},
-    year = {2014}
+     author        = {Da Prato, Giuseppe and Zabczyk, Jerzy},
+     doi           = {10.1017/CBO9781107295513},
+     edition       = {Second},
+     isbn          = {978-1-107-05584-1},
+     mrclass       = {60H15 (34F05 34Gxx)},
+     mrnumber      = {3236753},
+     mrreviewer    = {David Nualart},
+     pages         = {xviii+493},
+     publisher     = {Cambridge University Press, Cambridge},
+     series        = {Encyclopedia of Mathematics and its Applications},
+     title         = {Stochastic equations in infinite dimensions},
+     url           = {https://doi.org/10.1017/CBO9781107295513},
+     volume        = {152},
+     year          = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9781107295513}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9781107295513>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

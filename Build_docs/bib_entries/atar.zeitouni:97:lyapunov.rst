@@ -8,23 +8,23 @@ atar.zeitouni:97:lyapunov
 .. code-block:: bibtex
 
    @article{atar.zeitouni:97:lyapunov,
-    author = {Atar, Rami and Zeitouni, Ofer},
-    doi = {10.1137/S0363012994272046},
-    fjournal = {SIAM Journal on Control and Optimization},
-    issn = {0363-0129},
-    journal = {SIAM J. Control Optim.},
-    mrclass = {93E11 (60J57)},
-    mrnumber = {1430282},
-    mrreviewer = {Sergei\ A.\ Avdonin},
-    number = {1},
-    pages = {36--55},
-    title = {Lyapunov exponents for finite state nonlinear filtering},
-    url = {https://doi.org/10.1137/S0363012994272046},
-    volume = {35},
-    year = {1997}
+     author        = {Atar, Rami and Zeitouni, Ofer},
+     doi           = {10.1137/S0363012994272046},
+     fjournal      = {SIAM Journal on Control and Optimization},
+     issn          = {0363-0129},
+     journal       = {SIAM J. Control Optim.},
+     mrclass       = {93E11 (60J57)},
+     mrnumber      = {1430282},
+     mrreviewer    = {Sergei\ A.\ Avdonin},
+     number        = {1},
+     pages         = {36--55},
+     title         = {Lyapunov exponents for finite state nonlinear filtering},
+     url           = {https://doi.org/10.1137/S0363012994272046},
+     volume        = {35},
+     year          = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/S0363012994272046}>`__
+`The URL link to the source <https://doi.org/10.1137/S0363012994272046>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

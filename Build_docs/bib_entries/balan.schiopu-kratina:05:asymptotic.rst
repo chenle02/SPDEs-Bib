@@ -8,24 +8,23 @@ balan.schiopu-kratina:05:asymptotic
 .. code-block:: bibtex
 
    @article{balan.schiopu-kratina:05:asymptotic,
-    author = {Balan, R. M. and Schiopu-Kratina, I.},
-    doi = {10.1214/009053604000001255},
-    fjournal = {The Annals of Statistics},
-    issn = {0090-5364},
-    journal = {Ann. Statist.},
-    mrclass = {62F12 (62J12)},
-    mrnumber = {2163150},
-    mrreviewer = {Alexander V. Bulinskiu{i}},
-    number = {2},
-    pages = {522--541},
-    title = {Asymptotic results with generalized estimating equations
-   for longitudinal data},
-    url = {https://doi.org/10.1214/009053604000001255},
-    volume = {33},
-    year = {2005}
+     author        = {Balan, R. M. and Schiopu-Kratina, I.},
+     doi           = {10.1214/009053604000001255},
+     fjournal      = {The Annals of Statistics},
+     issn          = {0090-5364},
+     journal       = {Ann. Statist.},
+     mrclass       = {62F12 (62J12)},
+     mrnumber      = {2163150},
+     mrreviewer    = {Alexander V. Bulinskiu{i}},
+     number        = {2},
+     pages         = {522--541},
+     title         = {Asymptotic results with generalized estimating equations for longitudinal data},
+     url           = {https://doi.org/10.1214/009053604000001255},
+     volume        = {33},
+     year          = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/009053604000001255}>`__
+`The URL link to the source <https://doi.org/10.1214/009053604000001255>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

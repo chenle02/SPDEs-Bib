@@ -8,23 +8,22 @@ flandoli.luo:19:euler-lagrangian
 .. code-block:: bibtex
 
    @article{flandoli.luo:19:euler-lagrangian,
-    author = {Flandoli, Franco and Luo, Dejun},
-    doi = {10.3934/jgm.2019008},
-    fjournal = {Journal of Geometric Mechanics},
-    issn = {1941-4889,1941-4897},
-    journal = {J. Geom. Mech.},
-    mrclass = {35R60 (35Q31 76B03 76M35)},
-    mrnumber = {3984810},
-    number = {2},
-    pages = {153--165},
-    title = {Euler-{L}agrangian approach to 3{D} stochastic {E}uler
-   equations},
-    url = {https://doi.org/10.3934/jgm.2019008},
-    volume = {11},
-    year = {2019}
+     author        = {Flandoli, Franco and Luo, Dejun},
+     doi           = {10.3934/jgm.2019008},
+     fjournal      = {Journal of Geometric Mechanics},
+     issn          = {1941-4889,1941-4897},
+     journal       = {J. Geom. Mech.},
+     mrclass       = {35R60 (35Q31 76B03 76M35)},
+     mrnumber      = {3984810},
+     number        = {2},
+     pages         = {153--165},
+     title         = {Euler-{L}agrangian approach to 3{D} stochastic {E}uler equations},
+     url           = {https://doi.org/10.3934/jgm.2019008},
+     volume        = {11},
+     year          = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/jgm.2019008}>`__
+`The URL link to the source <https://doi.org/10.3934/jgm.2019008>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,22 +8,22 @@ aizenman.warzel:15:random
 .. code-block:: bibtex
 
    @book{aizenman.warzel:15:random,
-    author = {Aizenman, Michael and Warzel, Simone},
-    doi = {10.1090/gsm/168},
-    isbn = {978-1-4704-1913-4},
-    mrclass = {82B44 (46N50 47B80 60H25 81Q10 81Q12 82B10 82D30)},
-    mrnumber = {3364516},
-    note = {Disorder effects on quantum spectra and dynamics},
-    pages = {xiv+326},
-    publisher = {American Mathematical Society, Providence, RI},
-    series = {Graduate Studies in Mathematics},
-    title = {Random operators},
-    url = {https://doi.org/10.1090/gsm/168},
-    volume = {168},
-    year = {2015}
+     author        = {Aizenman, Michael and Warzel, Simone},
+     doi           = {10.1090/gsm/168},
+     isbn          = {978-1-4704-1913-4},
+     mrclass       = {82B44 (46N50 47B80 60H25 81Q10 81Q12 82B10 82D30)},
+     mrnumber      = {3364516},
+     note          = {Disorder effects on quantum spectra and dynamics},
+     pages         = {xiv+326},
+     publisher     = {American Mathematical Society, Providence, RI},
+     series        = {Graduate Studies in Mathematics},
+     title         = {Random operators},
+     url           = {https://doi.org/10.1090/gsm/168},
+     volume        = {168},
+     year          = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/gsm/168}>`__
+`The URL link to the source <https://doi.org/10.1090/gsm/168>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

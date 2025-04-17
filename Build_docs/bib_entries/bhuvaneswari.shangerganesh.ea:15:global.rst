@@ -8,24 +8,22 @@ bhuvaneswari.shangerganesh.ea:15:global
 .. code-block:: bibtex
 
    @article{bhuvaneswari.shangerganesh.ea:15:global,
-    author = {Bhuvaneswari, Venkatasubramaniam and Shangerganesh,
-   Lingeshwaran and Balachandran, Krishnan},
-    doi = {10.1002/mma.3313},
-    fjournal = {Mathematical Methods in the Applied Sciences},
-    issn = {0170-4214},
-    journal = {Math. Methods Appl. Sci.},
-    mrclass = {92C17 (35B44 35K51 35K59)},
-    mrnumber = {3434319},
-    number = {17},
-    pages = {3738--3746},
-    title = {Global existence and blow up of solutions of quasilinear
-   chemotaxis system},
-    url = {https://doi.org/10.1002/mma.3313},
-    volume = {38},
-    year = {2015}
+     author        = {Bhuvaneswari, Venkatasubramaniam and Shangerganesh, Lingeshwaran and Balachandran, Krishnan},
+     doi           = {10.1002/mma.3313},
+     fjournal      = {Mathematical Methods in the Applied Sciences},
+     issn          = {0170-4214},
+     journal       = {Math. Methods Appl. Sci.},
+     mrclass       = {92C17 (35B44 35K51 35K59)},
+     mrnumber      = {3434319},
+     number        = {17},
+     pages         = {3738--3746},
+     title         = {Global existence and blow up of solutions of quasilinear chemotaxis system},
+     url           = {https://doi.org/10.1002/mma.3313},
+     volume        = {38},
+     year          = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/mma.3313}>`__
+`The URL link to the source <https://doi.org/10.1002/mma.3313>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

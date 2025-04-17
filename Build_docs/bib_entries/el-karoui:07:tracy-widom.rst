@@ -8,24 +8,23 @@ el-karoui:07:tracy-widom
 .. code-block:: bibtex
 
    @article{el-karoui:07:tracy-widom,
-    author = {El Karoui, Noureddine},
-    doi = {10.1214/009117906000000917},
-    fjournal = {The Annals of Probability},
-    issn = {0091-1798},
-    journal = {Ann. Probab.},
-    mrclass = {60F05 (47B35 62E20)},
-    mrnumber = {2308592},
-    mrreviewer = {Ofer Zeitouni},
-    number = {2},
-    pages = {663--714},
-    title = {Tracy-{W}idom limit for the largest eigenvalue of a large
-   class of complex sample covariance matrices},
-    url = {https://doi.org/10.1214/009117906000000917},
-    volume = {35},
-    year = {2007}
+     author        = {El Karoui, Noureddine},
+     doi           = {10.1214/009117906000000917},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60F05 (47B35 62E20)},
+     mrnumber      = {2308592},
+     mrreviewer    = {Ofer Zeitouni},
+     number        = {2},
+     pages         = {663--714},
+     title         = {Tracy-{W}idom limit for the largest eigenvalue of a large class of complex sample covariance matrices},
+     url           = {https://doi.org/10.1214/009117906000000917},
+     volume        = {35},
+     year          = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/009117906000000917}>`__
+`The URL link to the source <https://doi.org/10.1214/009117906000000917>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

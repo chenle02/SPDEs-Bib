@@ -8,23 +8,23 @@ grafakos:14:modern
 .. code-block:: bibtex
 
    @book{grafakos:14:modern,
-    author = {Grafakos, Loukas},
-    doi = {10.1007/978-1-4939-1230-8},
-    edition = {Third},
-    isbn = {978-1-4939-1229-2; 978-1-4939-1230-8},
-    mrclass = {42-01 (42Bxx)},
-    mrnumber = {3243741},
-    mrreviewer = {Atanas G. Stefanov},
-    pages = {xvi+624},
-    publisher = {Springer, New York},
-    series = {Graduate Texts in Mathematics},
-    title = {Modern {F}ourier analysis},
-    url = {https://doi.org/10.1007/978-1-4939-1230-8},
-    volume = {250},
-    year = {2014}
+     author        = {Grafakos, Loukas},
+     doi           = {10.1007/978-1-4939-1230-8},
+     edition       = {Third},
+     isbn          = {978-1-4939-1229-2; 978-1-4939-1230-8},
+     mrclass       = {42-01 (42Bxx)},
+     mrnumber      = {3243741},
+     mrreviewer    = {Atanas G. Stefanov},
+     pages         = {xvi+624},
+     publisher     = {Springer, New York},
+     series        = {Graduate Texts in Mathematics},
+     title         = {Modern {F}ourier analysis},
+     url           = {https://doi.org/10.1007/978-1-4939-1230-8},
+     volume        = {250},
+     year          = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4939-1230-8}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4939-1230-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

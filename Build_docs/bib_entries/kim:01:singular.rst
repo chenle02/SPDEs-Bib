@@ -8,24 +8,23 @@ kim:01:singular
 .. code-block:: bibtex
 
    @article{kim:01:singular,
-    author = {Kim, Inwon Christina},
-    doi = {10.1016/S0362-546X(00)00149-8},
-    fjournal = {Nonlinear Analysis. Theory, Methods \& Applications. An
-   International Multidisciplinary Journal},
-    issn = {0362-546X},
-    journal = {Nonlinear Anal.},
-    mrclass = {35K57 (35B25 35K55 35Q80 92C17)},
-    mrnumber = {1859799},
-    mrreviewer = {Sergey A. Vakulenko},
-    number = {6, Ser. A: Theory Methods},
-    pages = {817--834},
-    title = {Singular limits of chematoxis-growth model},
-    url = {https://doi.org/10.1016/S0362-546X(00)00149-8},
-    volume = {46},
-    year = {2001}
+     author        = {Kim, Inwon Christina},
+     doi           = {10.1016/S0362-546X(00)00149-8},
+     fjournal      = {Nonlinear Analysis. Theory, Methods \& Applications. An International Multidisciplinary Journal},
+     issn          = {0362-546X},
+     journal       = {Nonlinear Anal.},
+     mrclass       = {35K57 (35B25 35K55 35Q80 92C17)},
+     mrnumber      = {1859799},
+     mrreviewer    = {Sergey A. Vakulenko},
+     number        = {6, Ser. A: Theory Methods},
+     pages         = {817--834},
+     title         = {Singular limits of chematoxis-growth model},
+     url           = {https://doi.org/10.1016/S0362-546X(00)00149-8},
+     volume        = {46},
+     year          = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0362-546X(00)00149-8}>`__
+`The URL link to the source <https://doi.org/10.1016/S0362-546X(00)00149-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

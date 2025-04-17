@@ -8,23 +8,23 @@ heathcote.husler:90:first
 .. code-block:: bibtex
 
    @article{heathcote.husler:90:first,
-    author = {Heathcote, C. R. and H\"{u}sler, J.},
-    doi = {10.1016/0304-4149(90)90012-H},
-    fjournal = {Stochastic Processes and their Applications},
-    issn = {0304-4149},
-    journal = {Stochastic Process. Appl.},
-    mrclass = {60F05},
-    mrnumber = {1067118},
-    mrreviewer = {S\'{a}ndor Cs\"{o}rg\H{o}},
-    number = {2},
-    pages = {347--360},
-    title = {The first zero of an empirical characteristic function},
-    url = {https://doi.org/10.1016/0304-4149(90)90012-H},
-    volume = {35},
-    year = {1990}
+     author        = {Heathcote, C. R. and H\"{u}sler, J.},
+     doi           = {10.1016/0304-4149(90)90012-H},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60F05},
+     mrnumber      = {1067118},
+     mrreviewer    = {S\'{a}ndor Cs\"{o}rg\H{o}},
+     number        = {2},
+     pages         = {347--360},
+     title         = {The first zero of an empirical characteristic function},
+     url           = {https://doi.org/10.1016/0304-4149(90)90012-H},
+     volume        = {35},
+     year          = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0304-4149(90)90012-H}>`__
+`The URL link to the source <https://doi.org/10.1016/0304-4149(90)90012-H>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

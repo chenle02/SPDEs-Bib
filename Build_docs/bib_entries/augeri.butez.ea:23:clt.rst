@@ -8,24 +8,23 @@ augeri.butez.ea:23:clt
 .. code-block:: bibtex
 
    @article{augeri.butez.ea:23:clt,
-    author = {Augeri, Fanny and Butez, Raphael and Zeitouni, Ofer},
-    doi = {10.1007/s00440-023-01194-9},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051,1432-2064},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60B20 (60F05)},
-    mrnumber = {4586217},
-    mrreviewer = {Ramon\ van Handel},
-    number = {1-2},
-    pages = {1--89},
-    title = {A {CLT} for the characteristic polynomial of random
-   {J}acobi matrices, and the {${\rm G}\beta {\rm E}$}},
-    url = {https://doi.org/10.1007/s00440-023-01194-9},
-    volume = {186},
-    year = {2023}
+     author        = {Augeri, Fanny and Butez, Raphael and Zeitouni, Ofer},
+     doi           = {10.1007/s00440-023-01194-9},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051,1432-2064},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60B20 (60F05)},
+     mrnumber      = {4586217},
+     mrreviewer    = {Ramon\ van Handel},
+     number        = {1-2},
+     pages         = {1--89},
+     title         = {A {CLT} for the characteristic polynomial of random {J}acobi matrices, and the {${\rm G}\beta {\rm E}$}},
+     url           = {https://doi.org/10.1007/s00440-023-01194-9},
+     volume        = {186},
+     year          = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-023-01194-9}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-023-01194-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

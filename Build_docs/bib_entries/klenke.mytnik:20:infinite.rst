@@ -8,24 +8,22 @@ klenke.mytnik:20:infinite
 .. code-block:: bibtex
 
    @article{klenke.mytnik:20:infinite,
-    author = {Klenke, Achim and Mytnik, Leonid},
-    doi = {10.1214/19-AIHP986},
-    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
-   et Statistiques},
-    issn = {0246-0203},
-    journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
-    mrclass = {60K35 (60H15 60J68 60J76 60J80)},
-    mrnumber = {4076768},
-    number = {2},
-    pages = {847--883},
-    title = {Infinite rate symbiotic branching on the real line: the
-   tired frogs model},
-    url = {https://doi.org/10.1214/19-AIHP986},
-    volume = {56},
-    year = {2020}
+     author        = {Klenke, Achim and Mytnik, Leonid},
+     doi           = {10.1214/19-AIHP986},
+     fjournal      = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+     issn          = {0246-0203},
+     journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
+     mrclass       = {60K35 (60H15 60J68 60J76 60J80)},
+     mrnumber      = {4076768},
+     number        = {2},
+     pages         = {847--883},
+     title         = {Infinite rate symbiotic branching on the real line: the tired frogs model},
+     url           = {https://doi.org/10.1214/19-AIHP986},
+     volume        = {56},
+     year          = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/19-AIHP986}>`__
+`The URL link to the source <https://doi.org/10.1214/19-AIHP986>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,23 @@ applebaum:09:levy
 .. code-block:: bibtex
 
    @book{applebaum:09:levy,
-    author = {Applebaum, David},
-    doi = {10.1017/CBO9780511809781},
-    edition = {Second},
-    isbn = {978-0-521-73865-1},
-    mrclass = {60-02 (60G44 60G51 60H05 60H30 60J35 60J60 60J65)},
-    mrnumber = {2512800},
-    mrreviewer = {Dora Sele\v{s}i},
-    pages = {xxx+460},
-    publisher = {Cambridge University Press, Cambridge},
-    series = {Cambridge Studies in Advanced Mathematics},
-    title = {L\'{e}vy processes and stochastic calculus},
-    url = {https://doi.org/10.1017/CBO9780511809781},
-    volume = {116},
-    year = {2009}
+     author        = {Applebaum, David},
+     doi           = {10.1017/CBO9780511809781},
+     edition       = {Second},
+     isbn          = {978-0-521-73865-1},
+     mrclass       = {60-02 (60G44 60G51 60H05 60H30 60J35 60J60 60J65)},
+     mrnumber      = {2512800},
+     mrreviewer    = {Dora Sele\v{s}i},
+     pages         = {xxx+460},
+     publisher     = {Cambridge University Press, Cambridge},
+     series        = {Cambridge Studies in Advanced Mathematics},
+     title         = {L\'{e}vy processes and stochastic calculus},
+     url           = {https://doi.org/10.1017/CBO9780511809781},
+     volume        = {116},
+     year          = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9780511809781}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9780511809781>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

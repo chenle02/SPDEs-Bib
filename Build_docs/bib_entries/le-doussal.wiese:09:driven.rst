@@ -8,25 +8,22 @@ le-doussal.wiese:09:driven
 .. code-block:: bibtex
 
    @article{le-doussal.wiese:09:driven,
-    author = {Le Doussal, Pierre and Wiese, Kay J\"{o}rg},
-    doi = {10.1103/PhysRevE.79.051105},
-    fjournal = {Physical Review E. Statistical, Nonlinear, and Soft Matter
-   Physics},
-    issn = {1539-3755},
-    journal = {Phys. Rev. E (3)},
-    mrclass = {82C31 (62G32)},
-    mrnumber = {2551403},
-    number = {5},
-    pages = {051105, 40},
-    title = {Driven particle in a random landscape: disorder
-   correlator, avalanche distribution, and extreme value
-   statistics of records},
-    url = {https://doi.org/10.1103/PhysRevE.79.051105},
-    volume = {79},
-    year = {2009}
+     author        = {Le Doussal, Pierre and Wiese, Kay J\"{o}rg},
+     doi           = {10.1103/PhysRevE.79.051105},
+     fjournal      = {Physical Review E. Statistical, Nonlinear, and Soft Matter Physics},
+     issn          = {1539-3755},
+     journal       = {Phys. Rev. E (3)},
+     mrclass       = {82C31 (62G32)},
+     mrnumber      = {2551403},
+     number        = {5},
+     pages         = {051105, 40},
+     title         = {Driven particle in a random landscape: disorder correlator, avalanche distribution, and extreme value statistics of records},
+     url           = {https://doi.org/10.1103/PhysRevE.79.051105},
+     volume        = {79},
+     year          = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevE.79.051105}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.79.051105>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,19 +8,17 @@ lacoin.leblond:11:cutoff
 .. code-block:: bibtex
 
    @article{lacoin.leblond:11:cutoff,
-    author = {Lacoin, Hubert and Leblond, R\'emi},
-    fjournal = {ALEA. Latin American Journal of Probability and
-   Mathematical Statistics},
-    issn = {1980-0436},
-    journal = {ALEA Lat. Am. J. Probab. Math. Stat.},
-    mrclass = {60K35 (60B10)},
-    mrnumber = {2869447},
-    mrreviewer = {Zhong\ Gen\ Su},
-    pages = {285--301},
-    title = {Cutoff phenomenon for the simple exclusion process on the
-   complete graph},
-    volume = {8},
-    year = {2011}
+     author        = {Lacoin, Hubert and Leblond, R\'emi},
+     fjournal      = {ALEA. Latin American Journal of Probability and Mathematical Statistics},
+     issn          = {1980-0436},
+     journal       = {ALEA Lat. Am. J. Probab. Math. Stat.},
+     mrclass       = {60K35 (60B10)},
+     mrnumber      = {2869447},
+     mrreviewer    = {Zhong\ Gen\ Su},
+     pages         = {285--301},
+     title         = {Cutoff phenomenon for the simple exclusion process on the complete graph},
+     volume        = {8},
+     year          = {2011}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

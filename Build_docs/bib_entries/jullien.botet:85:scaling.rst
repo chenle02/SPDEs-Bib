@@ -8,20 +8,19 @@ jullien.botet:85:scaling
 .. code-block:: bibtex
 
    @article{jullien.botet:85:scaling,
-    author = {R Jullien and R Botet},
-    doi = {10.1088/0305-4470/18/12/026},
-    journal = {Journal of Physics A: Mathematical and General},
-    month = {aug},
-    number = {12},
-    pages = {2279},
-    title = {Scaling properties of the surface of the Eden model in
-   d=2, 3, 4},
-    url = {https://dx.doi.org/10.1088/0305-4470/18/12/026},
-    volume = {18},
-    year = {1985}
+     author        = {R Jullien and R Botet},
+     doi           = {10.1088/0305-4470/18/12/026},
+     journal       = {Journal of Physics A: Mathematical and General},
+     month         = {aug},
+     number        = {12},
+     pages         = {2279},
+     title         = {Scaling properties of the surface of the Eden model in d=2, 3, 4},
+     url           = {https://dx.doi.org/10.1088/0305-4470/18/12/026},
+     volume        = {18},
+     year          = {1985}
    }
 
-`The URL link to the source <ttps://dx.doi.org/10.1088/0305-4470/18/12/026}>`__
+`The URL link to the source <https://dx.doi.org/10.1088/0305-4470/18/12/026>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

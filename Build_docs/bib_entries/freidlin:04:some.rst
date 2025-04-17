@@ -8,24 +8,23 @@ freidlin:04:some
 .. code-block:: bibtex
 
    @article{freidlin:04:some,
-    author = {Freidlin, Mark},
-    doi = {10.1007/s10955-004-2273-9},
-    fjournal = {Journal of Statistical Physics},
-    issn = {0022-4715},
-    journal = {J. Statist. Phys.},
-    mrclass = {82C31 (60H10)},
-    mrnumber = {2099730},
-    mrreviewer = {Alexander N. Pechen{\cprime}},
-    number = {3-4},
-    pages = {617--634},
-    title = {Some remarks on the {S}moluchowski-{K}ramers
-   approximation},
-    url = {https://doi.org/10.1007/s10955-004-2273-9},
-    volume = {117},
-    year = {2004}
+     author        = {Freidlin, Mark},
+     doi           = {10.1007/s10955-004-2273-9},
+     fjournal      = {Journal of Statistical Physics},
+     issn          = {0022-4715},
+     journal       = {J. Statist. Phys.},
+     mrclass       = {82C31 (60H10)},
+     mrnumber      = {2099730},
+     mrreviewer    = {Alexander N. Pechen{\cprime}},
+     number        = {3-4},
+     pages         = {617--634},
+     title         = {Some remarks on the {S}moluchowski-{K}ramers approximation},
+     url           = {https://doi.org/10.1007/s10955-004-2273-9},
+     volume        = {117},
+     year          = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-004-2273-9}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-004-2273-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

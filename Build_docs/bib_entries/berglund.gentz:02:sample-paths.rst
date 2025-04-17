@@ -8,24 +8,23 @@ berglund.gentz:02:sample-paths
 .. code-block:: bibtex
 
    @article{berglund.gentz:02:sample-paths,
-    author = {Berglund, Nils and Gentz, Barbara},
-    doi = {10.1214/aoap/1037125869},
-    fjournal = {The Annals of Applied Probability},
-    issn = {1050-5164},
-    journal = {Ann. Appl. Probab.},
-    mrclass = {60H10 (34E15 37H10)},
-    mrnumber = {1936599},
-    mrreviewer = {Jan I. Seidler},
-    number = {4},
-    pages = {1419--1470},
-    title = {A sample-paths approach to noise-induced synchronization:
-   stochastic resonance in a double-well potential},
-    url = {https://doi.org/10.1214/aoap/1037125869},
-    volume = {12},
-    year = {2002}
+     author        = {Berglund, Nils and Gentz, Barbara},
+     doi           = {10.1214/aoap/1037125869},
+     fjournal      = {The Annals of Applied Probability},
+     issn          = {1050-5164},
+     journal       = {Ann. Appl. Probab.},
+     mrclass       = {60H10 (34E15 37H10)},
+     mrnumber      = {1936599},
+     mrreviewer    = {Jan I. Seidler},
+     number        = {4},
+     pages         = {1419--1470},
+     title         = {A sample-paths approach to noise-induced synchronization: stochastic resonance in a double-well potential},
+     url           = {https://doi.org/10.1214/aoap/1037125869},
+     volume        = {12},
+     year          = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aoap/1037125869}>`__
+`The URL link to the source <https://doi.org/10.1214/aoap/1037125869>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

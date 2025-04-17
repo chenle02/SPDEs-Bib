@@ -8,25 +8,23 @@ bardina.marquez.ea:20:weak
 .. code-block:: bibtex
 
    @article{bardina.marquez.ea:20:weak,
-    author = {Bardina, Xavier and M\'{a}rquez, Juan Pablo and
-   Quer-Sardanyons, Llu\'{i}s},
-    doi = {10.1016/j.spa.2020.04.006},
-    fjournal = {Stochastic Processes and their Applications},
-    issn = {0304-4149},
-    journal = {Stochastic Process. Appl.},
-    mrclass = {60F17 (60G15 60H15)},
-    mrnumber = {4127345},
-    mrreviewer = {Ciprian A. Tudor},
-    number = {9},
-    pages = {5735--5767},
-    title = {Weak approximation of the complex {B}rownian sheet from a
-   {L}\'{e}vy sheet and applications to {SPDE}s},
-    url = {https://doi.org/10.1016/j.spa.2020.04.006},
-    volume = {130},
-    year = {2020}
+     author        = {Bardina, Xavier and M\'{a}rquez, Juan Pablo and Quer-Sardanyons, Llu\'{i}s},
+     doi           = {10.1016/j.spa.2020.04.006},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60F17 (60G15 60H15)},
+     mrnumber      = {4127345},
+     mrreviewer    = {Ciprian A. Tudor},
+     number        = {9},
+     pages         = {5735--5767},
+     title         = {Weak approximation of the complex {B}rownian sheet from a {L}\'{e}vy sheet and applications to {SPDE}s},
+     url           = {https://doi.org/10.1016/j.spa.2020.04.006},
+     volume        = {130},
+     year          = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2020.04.006}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2020.04.006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

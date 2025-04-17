@@ -8,24 +8,23 @@ hu:12:stochastic
 .. code-block:: bibtex
 
    @article{hu:12:stochastic,
-    author = {Hu, YaoZhong},
-    doi = {10.1007/s11425-012-4523-7},
-    fjournal = {Science China. Mathematics},
-    issn = {1674-7283},
-    journal = {Sci. China Math.},
-    mrclass = {60H10 (37A30 60H07 60J55 81S20)},
-    mrnumber = {2994120},
-    mrreviewer = {Peter Imkeller},
-    number = {11},
-    pages = {2285--2296},
-    title = {Stochastic quantization and ergodic theorem for density of
-   diffusions},
-    url = {https://doi.org/10.1007/s11425-012-4523-7},
-    volume = {55},
-    year = {2012}
+     author        = {Hu, YaoZhong},
+     doi           = {10.1007/s11425-012-4523-7},
+     fjournal      = {Science China. Mathematics},
+     issn          = {1674-7283},
+     journal       = {Sci. China Math.},
+     mrclass       = {60H10 (37A30 60H07 60J55 81S20)},
+     mrnumber      = {2994120},
+     mrreviewer    = {Peter Imkeller},
+     number        = {11},
+     pages         = {2285--2296},
+     title         = {Stochastic quantization and ergodic theorem for density of diffusions},
+     url           = {https://doi.org/10.1007/s11425-012-4523-7},
+     volume        = {55},
+     year          = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11425-012-4523-7}>`__
+`The URL link to the source <https://doi.org/10.1007/s11425-012-4523-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

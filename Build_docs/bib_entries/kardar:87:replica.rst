@@ -8,26 +8,23 @@ kardar:87:replica
 .. code-block:: bibtex
 
    @article{kardar:87:replica,
-    author = {Kardar, Mehran},
-    doi = {10.1016/0550-3213(87)90203-3},
-    fjournal = {Nuclear Physics. B. Theoretical, Phenomenological, and
-   Experimental High Energy Physics. Quantum Field Theory and
-   Statistical Systems},
-    issn = {0550-3213},
-    journal = {Nuclear Phys. B},
-    mrclass = {82A57 (82A25 82A42)},
-    mrnumber = {922846},
-    mrreviewer = {C. Eugene Wayne},
-    number = {4},
-    pages = {582--602},
-    title = {Replica {B}ethe ansatz studies of two-dimensional
-   interfaces with quenched random impurities},
-    url = {https://doi.org/10.1016/0550-3213(87)90203-3},
-    volume = {290},
-    year = {1987}
+     author        = {Kardar, Mehran},
+     doi           = {10.1016/0550-3213(87)90203-3},
+     fjournal      = {Nuclear Physics. B. Theoretical, Phenomenological, and Experimental High Energy Physics. Quantum Field Theory and Statistical Systems},
+     issn          = {0550-3213},
+     journal       = {Nuclear Phys. B},
+     mrclass       = {82A57 (82A25 82A42)},
+     mrnumber      = {922846},
+     mrreviewer    = {C. Eugene Wayne},
+     number        = {4},
+     pages         = {582--602},
+     title         = {Replica {B}ethe ansatz studies of two-dimensional interfaces with quenched random impurities},
+     url           = {https://doi.org/10.1016/0550-3213(87)90203-3},
+     volume        = {290},
+     year          = {1987}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0550-3213(87)90203-3}>`__
+`The URL link to the source <https://doi.org/10.1016/0550-3213(87)90203-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

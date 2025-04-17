@@ -8,24 +8,23 @@ bauerschmidt:13:simple
 .. code-block:: bibtex
 
    @article{bauerschmidt:13:simple,
-    author = {Bauerschmidt, Roland},
-    doi = {10.1007/s00440-012-0471-y},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60G15 (35J08)},
-    mrnumber = {3129804},
-    mrreviewer = {Ren Ming Song},
-    number = {3-4},
-    pages = {817--845},
-    title = {A simple method for finite range decomposition of
-   quadratic forms and {G}aussian fields},
-    url = {https://doi.org/10.1007/s00440-012-0471-y},
-    volume = {157},
-    year = {2013}
+     author        = {Bauerschmidt, Roland},
+     doi           = {10.1007/s00440-012-0471-y},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60G15 (35J08)},
+     mrnumber      = {3129804},
+     mrreviewer    = {Ren Ming Song},
+     number        = {3-4},
+     pages         = {817--845},
+     title         = {A simple method for finite range decomposition of quadratic forms and {G}aussian fields},
+     url           = {https://doi.org/10.1007/s00440-012-0471-y},
+     volume        = {157},
+     year          = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-012-0471-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-012-0471-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

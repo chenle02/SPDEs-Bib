@@ -8,25 +8,21 @@ dalang:85:correction
 .. code-block:: bibtex
 
    @incollection{dalang:85:correction,
-    author = {Dalang, Robert C.},
-    booktitle = {S\'{e}minaire de probabilit\'{e}s, {XIX}, 1983/84},
-    doi = {10.1007/BFb0075869},
-    mrclass = {60G40},
-    mrnumber = {889498},
-    pages = {504},
-    publisher = {Springer, Berlin},
-    series = {Lecture Notes in Math.},
-    title = {Correction to: ``{O}n optimal stopping of processes with
-   continuous multidimensional time'' [{it {S}\'{e}minaire de
-   probabilit\'{e}s, {XVIII}}, 379--390, {L}ecture {N}otes in
-   {M}ath., 1059, {S}pringer, {B}erlin, 1984; {MR}0770972
-   (86j:60108)]},
-    url = {https://doi.org/10.1007/BFb0075869},
-    volume = {1123},
-    year = {1985}
+     author        = {Dalang, Robert C.},
+     booktitle     = {S\'{e}minaire de probabilit\'{e}s, {XIX}, 1983/84},
+     doi           = {10.1007/BFb0075869},
+     mrclass       = {60G40},
+     mrnumber      = {889498},
+     pages         = {504},
+     publisher     = {Springer, Berlin},
+     series        = {Lecture Notes in Math.},
+     title         = {Correction to: ``{O}n optimal stopping of processes with continuous multidimensional time'' [{it {S}\'{e}minaire de probabilit\'{e}s, {XVIII}}, 379--390, {L}ecture {N}otes in {M}ath., 1059, {S}pringer, {B}erlin, 1984; {MR}0770972 (86j:60108)]},
+     url           = {https://doi.org/10.1007/BFb0075869},
+     volume        = {1123},
+     year          = {1985}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0075869}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0075869>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

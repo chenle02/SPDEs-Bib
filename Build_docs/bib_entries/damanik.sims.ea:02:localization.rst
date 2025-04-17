@@ -8,24 +8,23 @@ damanik.sims.ea:02:localization
 .. code-block:: bibtex
 
    @article{damanik.sims.ea:02:localization,
-    author = {Damanik, David and Sims, Robert and Stolz, G\"{u}nter},
-    doi = {10.1215/S0012-7094-02-11414-8},
-    fjournal = {Duke Mathematical Journal},
-    issn = {0012-7094},
-    journal = {Duke Math. J.},
-    mrclass = {82B44 (34L40 47B80)},
-    mrnumber = {1915036},
-    mrreviewer = {Fran\c{c}ois Germinet},
-    number = {1},
-    pages = {59--100},
-    title = {Localization for one-dimensional, continuum,
-   {B}ernoulli-{A}nderson models},
-    url = {https://doi.org/10.1215/S0012-7094-02-11414-8},
-    volume = {114},
-    year = {2002}
+     author        = {Damanik, David and Sims, Robert and Stolz, G\"{u}nter},
+     doi           = {10.1215/S0012-7094-02-11414-8},
+     fjournal      = {Duke Mathematical Journal},
+     issn          = {0012-7094},
+     journal       = {Duke Math. J.},
+     mrclass       = {82B44 (34L40 47B80)},
+     mrnumber      = {1915036},
+     mrreviewer    = {Fran\c{c}ois Germinet},
+     number        = {1},
+     pages         = {59--100},
+     title         = {Localization for one-dimensional, continuum, {B}ernoulli-{A}nderson models},
+     url           = {https://doi.org/10.1215/S0012-7094-02-11414-8},
+     volume        = {114},
+     year          = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/S0012-7094-02-11414-8}>`__
+`The URL link to the source <https://doi.org/10.1215/S0012-7094-02-11414-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

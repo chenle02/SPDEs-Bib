@@ -8,23 +8,23 @@ hairer.stuart.ea:11:sampling
 .. code-block:: bibtex
 
    @article{hairer.stuart.ea:11:sampling,
-    author = {Hairer, Martin and Stuart, Andrew M. and Voss, Jochen},
-    doi = {10.1214/10-AAP708},
-    fjournal = {The Annals of Applied Probability},
-    issn = {1050-5164},
-    journal = {Ann. Appl. Probab.},
-    mrclass = {60H15 (60G35)},
-    mrnumber = {2807970},
-    mrreviewer = {Jie Xiong},
-    number = {2},
-    pages = {669--698},
-    title = {Sampling conditioned hypoelliptic diffusions},
-    url = {https://doi.org/10.1214/10-AAP708},
-    volume = {21},
-    year = {2011}
+     author        = {Hairer, Martin and Stuart, Andrew M. and Voss, Jochen},
+     doi           = {10.1214/10-AAP708},
+     fjournal      = {The Annals of Applied Probability},
+     issn          = {1050-5164},
+     journal       = {Ann. Appl. Probab.},
+     mrclass       = {60H15 (60G35)},
+     mrnumber      = {2807970},
+     mrreviewer    = {Jie Xiong},
+     number        = {2},
+     pages         = {669--698},
+     title         = {Sampling conditioned hypoelliptic diffusions},
+     url           = {https://doi.org/10.1214/10-AAP708},
+     volume        = {21},
+     year          = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/10-AAP708}>`__
+`The URL link to the source <https://doi.org/10.1214/10-AAP708>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

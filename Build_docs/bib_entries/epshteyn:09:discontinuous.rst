@@ -8,23 +8,22 @@ epshteyn:09:discontinuous
 .. code-block:: bibtex
 
    @article{epshteyn:09:discontinuous,
-    author = {Epshteyn, Yekaterina},
-    doi = {10.1016/j.cam.2008.04.030},
-    fjournal = {Journal of Computational and Applied Mathematics},
-    issn = {0377-0427},
-    journal = {J. Comput. Appl. Math.},
-    mrclass = {92-08 (65M60 92C17)},
-    mrnumber = {2474222},
-    number = {1},
-    pages = {168--181},
-    title = {Discontinuous {G}alerkin methods for the chemotaxis and
-   haptotaxis models},
-    url = {https://doi.org/10.1016/j.cam.2008.04.030},
-    volume = {224},
-    year = {2009}
+     author        = {Epshteyn, Yekaterina},
+     doi           = {10.1016/j.cam.2008.04.030},
+     fjournal      = {Journal of Computational and Applied Mathematics},
+     issn          = {0377-0427},
+     journal       = {J. Comput. Appl. Math.},
+     mrclass       = {92-08 (65M60 92C17)},
+     mrnumber      = {2474222},
+     number        = {1},
+     pages         = {168--181},
+     title         = {Discontinuous {G}alerkin methods for the chemotaxis and haptotaxis models},
+     url           = {https://doi.org/10.1016/j.cam.2008.04.030},
+     volume        = {224},
+     year          = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.cam.2008.04.030}>`__
+`The URL link to the source <https://doi.org/10.1016/j.cam.2008.04.030>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

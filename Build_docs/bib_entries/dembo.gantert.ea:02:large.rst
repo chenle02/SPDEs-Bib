@@ -8,25 +8,23 @@ dembo.gantert.ea:02:large
 .. code-block:: bibtex
 
    @article{dembo.gantert.ea:02:large,
-    author = {Dembo, Amir and Gantert, Nina and Peres, Yuval and
-   Zeitouni, Ofer},
-    doi = {10.1007/s004400100162},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60K37 (60F10 60J80 82B41 82B44)},
-    mrnumber = {1894069},
-    mrreviewer = {Boualem Djehiche},
-    number = {2},
-    pages = {241--288},
-    title = {Large deviations for random walks on {G}alton-{W}atson
-   trees: averaging and uncertainty},
-    url = {https://doi.org/10.1007/s004400100162},
-    volume = {122},
-    year = {2002}
+     author        = {Dembo, Amir and Gantert, Nina and Peres, Yuval and Zeitouni, Ofer},
+     doi           = {10.1007/s004400100162},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60K37 (60F10 60J80 82B41 82B44)},
+     mrnumber      = {1894069},
+     mrreviewer    = {Boualem Djehiche},
+     number        = {2},
+     pages         = {241--288},
+     title         = {Large deviations for random walks on {G}alton-{W}atson trees: averaging and uncertainty},
+     url           = {https://doi.org/10.1007/s004400100162},
+     volume        = {122},
+     year          = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s004400100162}>`__
+`The URL link to the source <https://doi.org/10.1007/s004400100162>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

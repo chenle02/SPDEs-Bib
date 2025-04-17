@@ -8,15 +8,14 @@ gallian:18:dynamic
 .. code-block:: bibtex
 
    @article{gallian:18:dynamic,
-    author = {Joseph A. Gallian},
-    journal = {The Electronic Journal of Combinatorics},
-    title = {A Dynamic Survey of Graph Labeling (Twenty-first edition,
-   2018)},
-    url = {http://www.combinatorics.org/ojs/index.php/eljc/article/viewFile/DS6/pdf},
-    year = {2018}
+     author        = {Joseph A. Gallian},
+     journal       = {The Electronic Journal of Combinatorics},
+     title         = {A Dynamic Survey of Graph Labeling (Twenty-first edition, 2018)},
+     url           = {http://www.combinatorics.org/ojs/index.php/eljc/article/viewFile/DS6/pdf},
+     year          = {2018}
    }
 
-`The URL link to the source <ttp://www.combinatorics.org/ojs/index.php/eljc/article/viewFile/DS6/pdf}>`__
+`The URL link to the source <http://www.combinatorics.org/ojs/index.php/eljc/article/viewFile/DS6/pdf>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

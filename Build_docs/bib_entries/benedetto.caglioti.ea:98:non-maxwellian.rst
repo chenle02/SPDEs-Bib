@@ -8,24 +8,22 @@ benedetto.caglioti.ea:98:non-maxwellian
 .. code-block:: bibtex
 
    @article{benedetto.caglioti.ea:98:non-maxwellian,
-    author = {Benedetto, D. and Caglioti, E. and Carrillo, J. A. and
-   Pulvirenti, M.},
-    doi = {10.1023/A:1023032000560},
-    fjournal = {Journal of Statistical Physics},
-    issn = {0022-4715},
-    journal = {J. Statist. Phys.},
-    mrclass = {82C35 (74E20 82C40)},
-    mrnumber = {1637274},
-    number = {5-6},
-    pages = {979--990},
-    title = {A non-{M}axwellian steady distribution for one-dimensional
-   granular media},
-    url = {https://doi.org/10.1023/A:1023032000560},
-    volume = {91},
-    year = {1998}
+     author        = {Benedetto, D. and Caglioti, E. and Carrillo, J. A. and Pulvirenti, M.},
+     doi           = {10.1023/A:1023032000560},
+     fjournal      = {Journal of Statistical Physics},
+     issn          = {0022-4715},
+     journal       = {J. Statist. Phys.},
+     mrclass       = {82C35 (74E20 82C40)},
+     mrnumber      = {1637274},
+     number        = {5-6},
+     pages         = {979--990},
+     title         = {A non-{M}axwellian steady distribution for one-dimensional granular media},
+     url           = {https://doi.org/10.1023/A:1023032000560},
+     volume        = {91},
+     year          = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1023032000560}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1023032000560>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,24 +8,23 @@ chen.rosen:10:large
 .. code-block:: bibtex
 
    @article{chen.rosen:10:large,
-    author = {Chen, Xia and Rosen, Jay},
-    doi = {10.1016/j.spa.2010.05.006},
-    fjournal = {Stochastic Processes and their Applications},
-    issn = {0304-4149},
-    journal = {Stochastic Process. Appl.},
-    mrclass = {60F10 (60G51 60G52 60J55)},
-    mrnumber = {2673977},
-    mrreviewer = {Michele Zito},
-    number = {9},
-    pages = {1837--1878},
-    title = {Large deviations and renormalization for {R}iesz
-   potentials of stable intersection measures},
-    url = {https://doi.org/10.1016/j.spa.2010.05.006},
-    volume = {120},
-    year = {2010}
+     author        = {Chen, Xia and Rosen, Jay},
+     doi           = {10.1016/j.spa.2010.05.006},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60F10 (60G51 60G52 60J55)},
+     mrnumber      = {2673977},
+     mrreviewer    = {Michele Zito},
+     number        = {9},
+     pages         = {1837--1878},
+     title         = {Large deviations and renormalization for {R}iesz potentials of stable intersection measures},
+     url           = {https://doi.org/10.1016/j.spa.2010.05.006},
+     volume        = {120},
+     year          = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2010.05.006}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2010.05.006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

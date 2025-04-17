@@ -8,23 +8,23 @@ deift.trubowitz:79:inverse
 .. code-block:: bibtex
 
    @article{deift.trubowitz:79:inverse,
-    author = {Deift, P. and Trubowitz, E.},
-    doi = {10.1002/cpa.3160320202},
-    fjournal = {Communications on Pure and Applied Mathematics},
-    issn = {0010-3640},
-    journal = {Comm. Pure Appl. Math.},
-    mrclass = {34B25 (35P25 58F07)},
-    mrnumber = {512420},
-    mrreviewer = {R. C. Gilbert},
-    number = {2},
-    pages = {121--251},
-    title = {Inverse scattering on the line},
-    url = {https://doi.org/10.1002/cpa.3160320202},
-    volume = {32},
-    year = {1979}
+     author        = {Deift, P. and Trubowitz, E.},
+     doi           = {10.1002/cpa.3160320202},
+     fjournal      = {Communications on Pure and Applied Mathematics},
+     issn          = {0010-3640},
+     journal       = {Comm. Pure Appl. Math.},
+     mrclass       = {34B25 (35P25 58F07)},
+     mrnumber      = {512420},
+     mrreviewer    = {R. C. Gilbert},
+     number        = {2},
+     pages         = {121--251},
+     title         = {Inverse scattering on the line},
+     url           = {https://doi.org/10.1002/cpa.3160320202},
+     volume        = {32},
+     year          = {1979}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.3160320202}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.3160320202>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

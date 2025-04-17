@@ -8,24 +8,23 @@ lacoin:10:new
 .. code-block:: bibtex
 
    @article{lacoin:10:new,
-    author = {Lacoin, Hubert},
-    doi = {10.1007/s00220-009-0957-3},
-    fjournal = {Communications in Mathematical Physics},
-    issn = {0010-3616},
-    journal = {Comm. Math. Phys.},
-    mrclass = {60K37 (60K35 82D60)},
-    mrnumber = {2579463},
-    mrreviewer = {David A. Croydon},
-    number = {2},
-    pages = {471--503},
-    title = {New bounds for the free energy of directed polymers in
-   dimension {$1+1$} and {$1+2$}},
-    url = {https://doi.org/10.1007/s00220-009-0957-3},
-    volume = {294},
-    year = {2010}
+     author        = {Lacoin, Hubert},
+     doi           = {10.1007/s00220-009-0957-3},
+     fjournal      = {Communications in Mathematical Physics},
+     issn          = {0010-3616},
+     journal       = {Comm. Math. Phys.},
+     mrclass       = {60K37 (60K35 82D60)},
+     mrnumber      = {2579463},
+     mrreviewer    = {David A. Croydon},
+     number        = {2},
+     pages         = {471--503},
+     title         = {New bounds for the free energy of directed polymers in dimension {$1+1$} and {\$1+2\$}},
+     url           = {https://doi.org/10.1007/s00220-009-0957-3},
+     volume        = {294},
+     year          = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-009-0957-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-009-0957-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

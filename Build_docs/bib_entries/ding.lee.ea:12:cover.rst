@@ -8,23 +8,23 @@ ding.lee.ea:12:cover
 .. code-block:: bibtex
 
    @article{ding.lee.ea:12:cover,
-    author = {Ding, Jian and Lee, James R. and Peres, Yuval},
-    doi = {10.4007/annals.2012.175.3.8},
-    fjournal = {Annals of Mathematics. Second Series},
-    issn = {0003-486X},
-    journal = {Ann. of Math. (2)},
-    mrclass = {60G50 (05C81 60B05 60G15 60G40 60J10 60J55)},
-    mrnumber = {2912708},
-    mrreviewer = {Zakhar Kabluchko},
-    number = {3},
-    pages = {1409--1471},
-    title = {Cover times, blanket times, and majorizing measures},
-    url = {https://doi.org/10.4007/annals.2012.175.3.8},
-    volume = {175},
-    year = {2012}
+     author        = {Ding, Jian and Lee, James R. and Peres, Yuval},
+     doi           = {10.4007/annals.2012.175.3.8},
+     fjournal      = {Annals of Mathematics. Second Series},
+     issn          = {0003-486X},
+     journal       = {Ann. of Math. (2)},
+     mrclass       = {60G50 (05C81 60B05 60G15 60G40 60J10 60J55)},
+     mrnumber      = {2912708},
+     mrreviewer    = {Zakhar Kabluchko},
+     number        = {3},
+     pages         = {1409--1471},
+     title         = {Cover times, blanket times, and majorizing measures},
+     url           = {https://doi.org/10.4007/annals.2012.175.3.8},
+     volume        = {175},
+     year          = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.4007/annals.2012.175.3.8}>`__
+`The URL link to the source <https://doi.org/10.4007/annals.2012.175.3.8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

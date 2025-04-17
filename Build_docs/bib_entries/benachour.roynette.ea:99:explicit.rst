@@ -8,19 +8,17 @@ benachour.roynette.ea:99:explicit
 .. code-block:: bibtex
 
    @incollection{benachour.roynette.ea:99:explicit,
-    author = {Benachour, S. and Roynette, B. and Vallois, P.},
-    booktitle = {Seminar on {S}tochastic {A}nalysis, {R}andom {F}ields and
-   {A}pplications ({A}scona, 1996)},
-    mrclass = {35K30 (60J65)},
-    mrnumber = {1712233},
-    mrreviewer = {Ross Pinsky},
-    pages = {39--61},
-    publisher = {Birkh\"{a}user, Basel},
-    series = {Progr. Probab.},
-    title = {Explicit solutions of some fourth order partial
-   differential equations via iterated {B}rownian motion},
-    volume = {45},
-    year = {1999}
+     author        = {Benachour, S. and Roynette, B. and Vallois, P.},
+     booktitle     = {Seminar on {S}tochastic {A}nalysis, {R}andom {F}ields and {A}pplications ({A}scona, 1996)},
+     mrclass       = {35K30 (60J65)},
+     mrnumber      = {1712233},
+     mrreviewer    = {Ross Pinsky},
+     pages         = {39--61},
+     publisher     = {Birkh\"{a}user, Basel},
+     series        = {Progr. Probab.},
+     title         = {Explicit solutions of some fourth order partial differential equations via iterated {B}rownian motion},
+     volume        = {45},
+     year          = {1999}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

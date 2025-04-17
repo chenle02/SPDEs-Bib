@@ -8,16 +8,15 @@ bourgain:85:on*1
 .. code-block:: bibtex
 
    @incollection{bourgain:85:on*1,
-    author = {Bourgain, J.},
-    booktitle = {Texas functional analysis seminar 1984--1985 ({A}ustin,
-   {T}ex.)},
-    mrclass = {43A46 (43A25)},
-    mrnumber = {832256},
-    pages = {125--129},
-    publisher = {Univ. Texas Press, Austin, TX},
-    series = {Longhorn Notes},
-    title = {On the dichotomy problem in harmonic analysis},
-    year = {1985}
+     author        = {Bourgain, J.},
+     booktitle     = {Texas functional analysis seminar 1984--1985 ({A}ustin, {T}ex.)},
+     mrclass       = {43A46 (43A25)},
+     mrnumber      = {832256},
+     pages         = {125--129},
+     publisher     = {Univ. Texas Press, Austin, TX},
+     series        = {Longhorn Notes},
+     title         = {On the dichotomy problem in harmonic analysis},
+     year          = {1985}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

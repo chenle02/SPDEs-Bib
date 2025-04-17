@@ -8,17 +8,17 @@ hu:93:remark
 .. code-block:: bibtex
 
    @incollection{hu:93:remark,
-    author = {Hu, Yao Zhong},
-    booktitle = {Stochastic analysis and related topics ({O}slo, 1992)},
-    mrclass = {60J65},
-    mrnumber = {1268012},
-    mrreviewer = {Sheng Wu He},
-    pages = {173--175},
-    publisher = {Gordon and Breach, Montreux},
-    series = {Stochastics Monogr.},
-    title = {A remark on the value on zero of {B}rownian functional},
-    volume = {8},
-    year = {1993}
+     author        = {Hu, Yao Zhong},
+     booktitle     = {Stochastic analysis and related topics ({O}slo, 1992)},
+     mrclass       = {60J65},
+     mrnumber      = {1268012},
+     mrreviewer    = {Sheng Wu He},
+     pages         = {173--175},
+     publisher     = {Gordon and Breach, Montreux},
+     series        = {Stochastics Monogr.},
+     title         = {A remark on the value on zero of {B}rownian functional},
+     volume        = {8},
+     year          = {1993}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

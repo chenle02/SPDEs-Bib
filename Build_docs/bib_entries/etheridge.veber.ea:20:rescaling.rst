@@ -8,22 +8,21 @@ etheridge.veber.ea:20:rescaling
 .. code-block:: bibtex
 
    @article{etheridge.veber.ea:20:rescaling,
-    author = {Etheridge, Alison M. and V\'{e}ber, Amandine and Yu, Feng},
-    doi = {10.1214/20-ejp523},
-    fjournal = {Electronic Journal of Probability},
-    journal = {Electron. J. Probab.},
-    mrclass = {60G57 (60G52 60J25 92D10)},
-    mrnumber = {4161130},
-    mrreviewer = {Yu-Ting Chen},
-    pages = {Paper No. 120, 89},
-    title = {Rescaling limits of the spatial lambda-{F}leming-{V}iot
-   process with selection},
-    url = {https://doi.org/10.1214/20-ejp523},
-    volume = {25},
-    year = {2020}
+     author        = {Etheridge, Alison M. and V\'{e}ber, Amandine and Yu, Feng},
+     doi           = {10.1214/20-ejp523},
+     fjournal      = {Electronic Journal of Probability},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {60G57 (60G52 60J25 92D10)},
+     mrnumber      = {4161130},
+     mrreviewer    = {Yu-Ting Chen},
+     pages         = {Paper No. 120, 89},
+     title         = {Rescaling limits of the spatial lambda-{F}leming-{V}iot process with selection},
+     url           = {https://doi.org/10.1214/20-ejp523},
+     volume        = {25},
+     year          = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/20-ejp523}>`__
+`The URL link to the source <https://doi.org/10.1214/20-ejp523>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

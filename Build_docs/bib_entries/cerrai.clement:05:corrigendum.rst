@@ -8,24 +8,22 @@ cerrai.clement:05:corrigendum
 .. code-block:: bibtex
 
    @article{cerrai.clement:05:corrigendum,
-    author = {Cerrai, Sandra and Cl\'{e}ment, Philippe},
-    doi = {10.1016/j.bulsci.2004.11.006},
-    fjournal = {Bulletin des Sciences Math\'{e}matiques},
-    issn = {0007-4497},
-    journal = {Bull. Sci. Math.},
-    mrclass = {35J25 (35B45 35B65)},
-    mrnumber = {2134127},
-    number = {4},
-    pages = {368},
-    title = {Corrigendum to: ``{S}chauder estimates for a class of
-   second order elliptic operators on a cube'' [{B}ull. {S}ci.
-   {M}ath. {\bf 127} (2003), no. 8, 669--688; MR2014753]},
-    url = {https://doi.org/10.1016/j.bulsci.2004.11.006},
-    volume = {129},
-    year = {2005}
+     author        = {Cerrai, Sandra and Cl\'{e}ment, Philippe},
+     doi           = {10.1016/j.bulsci.2004.11.006},
+     fjournal      = {Bulletin des Sciences Math\'{e}matiques},
+     issn          = {0007-4497},
+     journal       = {Bull. Sci. Math.},
+     mrclass       = {35J25 (35B45 35B65)},
+     mrnumber      = {2134127},
+     number        = {4},
+     pages         = {368},
+     title         = {Corrigendum to: ``{S}chauder estimates for a class of second order elliptic operators on a cube'' [{B}ull. {S}ci. {M}ath. {\bf 127} (2003), no. 8, 669--688; MR2014753]},
+     url           = {https://doi.org/10.1016/j.bulsci.2004.11.006},
+     volume        = {129},
+     year          = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.bulsci.2004.11.006}>`__
+`The URL link to the source <https://doi.org/10.1016/j.bulsci.2004.11.006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

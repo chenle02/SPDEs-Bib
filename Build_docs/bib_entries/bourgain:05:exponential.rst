@@ -8,23 +8,22 @@ bourgain:05:exponential
 .. code-block:: bibtex
 
    @article{bourgain:05:exponential,
-    author = {Bourgain, J.},
-    doi = {10.1007/BF02807410},
-    fjournal = {Journal d'Analyse Math\'{e}matique},
-    issn = {0021-7670,1565-8538},
-    journal = {J. Anal. Math.},
-    mrclass = {11L07},
-    mrnumber = {2274981},
-    mrreviewer = {Ben\ Joseph\ Green},
-    pages = {317--355},
-    title = {Exponential sum estimates over subgroups of {${\Bbb
-   Z}^*_q$}, {$q$} arbitrary},
-    url = {https://doi.org/10.1007/BF02807410},
-    volume = {97},
-    year = {2005}
+     author        = {Bourgain, J.},
+     doi           = {10.1007/BF02807410},
+     fjournal      = {Journal d'Analyse Math\'{e}matique},
+     issn          = {0021-7670,1565-8538},
+     journal       = {J. Anal. Math.},
+     mrclass       = {11L07},
+     mrnumber      = {2274981},
+     mrreviewer    = {Ben\ Joseph\ Green},
+     pages         = {317--355},
+     title         = {Exponential sum estimates over subgroups of {${\Bbb Z}^*_q$}, {\$q\$} arbitrary},
+     url           = {https://doi.org/10.1007/BF02807410},
+     volume        = {97},
+     year          = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02807410}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02807410>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

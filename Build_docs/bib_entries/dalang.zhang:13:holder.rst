@@ -8,24 +8,23 @@ dalang.zhang:13:holder
 .. code-block:: bibtex
 
    @article{dalang.zhang:13:holder,
-    author = {Dalang, Robert C. and Zhang, Tusheng},
-    doi = {10.1007/s40304-013-0009-3},
-    fjournal = {Communications in Mathematics and Statistics},
-    issn = {2194-6701},
-    journal = {Commun. Math. Stat.},
-    mrclass = {60H15 (60F05 60F10)},
-    mrnumber = {3197857},
-    mrreviewer = {Dirk Bl\"{o}mker},
-    number = {2},
-    pages = {133--142},
-    title = {H\"{o}lder continuity of solutions of {SPDE}s with
-   reflection},
-    url = {https://doi.org/10.1007/s40304-013-0009-3},
-    volume = {1},
-    year = {2013}
+     author        = {Dalang, Robert C. and Zhang, Tusheng},
+     doi           = {10.1007/s40304-013-0009-3},
+     fjournal      = {Communications in Mathematics and Statistics},
+     issn          = {2194-6701},
+     journal       = {Commun. Math. Stat.},
+     mrclass       = {60H15 (60F05 60F10)},
+     mrnumber      = {3197857},
+     mrreviewer    = {Dirk Bl\"{o}mker},
+     number        = {2},
+     pages         = {133--142},
+     title         = {H\"{o}lder continuity of solutions of {SPDE}s with reflection},
+     url           = {https://doi.org/10.1007/s40304-013-0009-3},
+     volume        = {1},
+     year          = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40304-013-0009-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s40304-013-0009-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

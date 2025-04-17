@@ -8,23 +8,23 @@ assing.senf:91:on
 .. code-block:: bibtex
 
    @article{assing.senf:91:on,
-    author = {Assing, Sigurd and Senf, Torsten},
-    doi = {10.1080/17442509108833707},
-    fjournal = {Stochastics and Stochastics Reports},
-    issn = {1045-1129},
-    journal = {Stochastics Stochastics Rep.},
-    mrclass = {60H10 (60H20 60J55 60J60)},
-    mrnumber = {1117203},
-    mrreviewer = {Youssef Ouknine},
-    number = {1},
-    pages = {21--39},
-    title = {On stochastic differential equations without drift},
-    url = {https://doi.org/10.1080/17442509108833707},
-    volume = {36},
-    year = {1991}
+     author        = {Assing, Sigurd and Senf, Torsten},
+     doi           = {10.1080/17442509108833707},
+     fjournal      = {Stochastics and Stochastics Reports},
+     issn          = {1045-1129},
+     journal       = {Stochastics Stochastics Rep.},
+     mrclass       = {60H10 (60H20 60J55 60J60)},
+     mrnumber      = {1117203},
+     mrreviewer    = {Youssef Ouknine},
+     number        = {1},
+     pages         = {21--39},
+     title         = {On stochastic differential equations without drift},
+     url           = {https://doi.org/10.1080/17442509108833707},
+     volume        = {36},
+     year          = {1991}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442509108833707}>`__
+`The URL link to the source <https://doi.org/10.1080/17442509108833707>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

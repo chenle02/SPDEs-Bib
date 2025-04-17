@@ -8,24 +8,23 @@ bourgain:85:on*3
 .. code-block:: bibtex
 
    @article{bourgain:85:on*3,
-    author = {Bourgain, J.},
-    doi = {10.1007/BF02776078},
-    fjournal = {Israel Journal of Mathematics},
-    issn = {0021-2172},
-    journal = {Israel J. Math.},
-    mrclass = {46B99 (05C80 58B05)},
-    mrnumber = {815600},
-    mrreviewer = {Michel\ Deza},
-    number = {1-2},
-    pages = {46--52},
-    title = {On {L}ipschitz embedding of finite metric spaces in
-   {H}ilbert space},
-    url = {https://doi.org/10.1007/BF02776078},
-    volume = {52},
-    year = {1985}
+     author        = {Bourgain, J.},
+     doi           = {10.1007/BF02776078},
+     fjournal      = {Israel Journal of Mathematics},
+     issn          = {0021-2172},
+     journal       = {Israel J. Math.},
+     mrclass       = {46B99 (05C80 58B05)},
+     mrnumber      = {815600},
+     mrreviewer    = {Michel\ Deza},
+     number        = {1-2},
+     pages         = {46--52},
+     title         = {On {L}ipschitz embedding of finite metric spaces in {H}ilbert space},
+     url           = {https://doi.org/10.1007/BF02776078},
+     volume        = {52},
+     year          = {1985}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02776078}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02776078>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

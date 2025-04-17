@@ -8,22 +8,22 @@ durrett:84:oriented
 .. code-block:: bibtex
 
    @article{durrett:84:oriented,
-    author = {Durrett, Richard},
-    fjournal = {The Annals of Probability},
-    issn = {0091-1798},
-    journal = {Ann. Probab.},
-    mrclass = {60K35 (82A25 82A43)},
-    mrnumber = {757768},
-    mrreviewer = {R. T. Smythe},
-    number = {4},
-    pages = {999--1040},
-    title = {Oriented percolation in two dimensions},
-    url = {http://links.jstor.org/sici?sici=0091-1798(198411)12:4<999:OPITD>2.0.CO;2-4&origin=MSN},
-    volume = {12},
-    year = {1984}
+     author        = {Durrett, Richard},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60K35 (82A25 82A43)},
+     mrnumber      = {757768},
+     mrreviewer    = {R. T. Smythe},
+     number        = {4},
+     pages         = {999--1040},
+     title         = {Oriented percolation in two dimensions},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198411)12:4<999:OPITD>2.0.CO;2-4\&origin=MSN},
+     volume        = {12},
+     year          = {1984}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198411)12:4<999:OPITD>2.0.CO;2-4&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198411)12:4<999:OPITD>2.0.CO;2-4\&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

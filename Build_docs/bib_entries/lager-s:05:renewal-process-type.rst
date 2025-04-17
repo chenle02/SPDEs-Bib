@@ -8,24 +8,23 @@ lager-s:05:renewal-process-type
 .. code-block:: bibtex
 
    @article{lager-s:05:renewal-process-type,
-    author = {Lager\aa s, Andreas Nordvall},
-    doi = {10.1239/jap/1134587822},
-    fjournal = {Journal of Applied Probability},
-    issn = {0021-9002},
-    journal = {J. Appl. Probab.},
-    mrclass = {60K05 (60E07 60G51 60G55)},
-    mrnumber = {2203828},
-    mrreviewer = {Sreenivasan Ravi},
-    number = {4},
-    pages = {1134--1144},
-    title = {A renewal-process-type expression for the moments of
-   inverse subordinators},
-    url = {https://doi.org/10.1239/jap/1134587822},
-    volume = {42},
-    year = {2005}
+     author        = {Lager\aa s, Andreas Nordvall},
+     doi           = {10.1239/jap/1134587822},
+     fjournal      = {Journal of Applied Probability},
+     issn          = {0021-9002},
+     journal       = {J. Appl. Probab.},
+     mrclass       = {60K05 (60E07 60G51 60G55)},
+     mrnumber      = {2203828},
+     mrreviewer    = {Sreenivasan Ravi},
+     number        = {4},
+     pages         = {1134--1144},
+     title         = {A renewal-process-type expression for the moments of inverse subordinators},
+     url           = {https://doi.org/10.1239/jap/1134587822},
+     volume        = {42},
+     year          = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1239/jap/1134587822}>`__
+`The URL link to the source <https://doi.org/10.1239/jap/1134587822>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

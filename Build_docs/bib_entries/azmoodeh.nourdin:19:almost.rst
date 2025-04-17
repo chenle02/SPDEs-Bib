@@ -8,22 +8,21 @@ azmoodeh.nourdin:19:almost
 .. code-block:: bibtex
 
    @article{azmoodeh.nourdin:19:almost,
-    author = {Azmoodeh, Ehsan and Nourdin, Ivan},
-    doi = {10.1214/19-ECP212},
-    fjournal = {Electronic Communications in Probability},
-    journal = {Electron. Commun. Probab.},
-    mrclass = {60F05 (60G15 60G22 60H05 60H07)},
-    mrnumber = {3916341},
-    mrreviewer = {Yong Chen},
-    pages = {Paper No. 9, 12},
-    title = {Almost sure limit theorems on {W}iener chaos: the
-   non-central case},
-    url = {https://doi.org/10.1214/19-ECP212},
-    volume = {24},
-    year = {2019}
+     author        = {Azmoodeh, Ehsan and Nourdin, Ivan},
+     doi           = {10.1214/19-ECP212},
+     fjournal      = {Electronic Communications in Probability},
+     journal       = {Electron. Commun. Probab.},
+     mrclass       = {60F05 (60G15 60G22 60H05 60H07)},
+     mrnumber      = {3916341},
+     mrreviewer    = {Yong Chen},
+     pages         = {Paper No. 9, 12},
+     title         = {Almost sure limit theorems on {W}iener chaos: the non-central case},
+     url           = {https://doi.org/10.1214/19-ECP212},
+     volume        = {24},
+     year          = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/19-ECP212}>`__
+`The URL link to the source <https://doi.org/10.1214/19-ECP212>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

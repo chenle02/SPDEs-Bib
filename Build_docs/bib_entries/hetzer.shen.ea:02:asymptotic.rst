@@ -8,25 +8,23 @@ hetzer.shen.ea:02:asymptotic
 .. code-block:: bibtex
 
    @article{hetzer.shen.ea:02:asymptotic,
-    author = {Hetzer, Georg and Shen, Wenxian and Zhu, Shu},
-    doi = {10.1023/A:1012932212645},
-    fjournal = {Journal of Dynamics and Differential Equations},
-    issn = {1040-7294,1572-9222},
-    journal = {J. Dynam. Differential Equations},
-    mrclass = {60H15 (35B05 35B25 35R60 37L55)},
-    mrnumber = {1878647},
-    mrreviewer = {Igor\ D.\ Chueshov},
-    number = {1},
-    pages = {139--188},
-    title = {Asymptotic behavior of positive solutions of random and
-   stochastic parabolic equations of {F}isher and {K}olmogorov
-   types},
-    url = {https://doi.org/10.1023/A:1012932212645},
-    volume = {14},
-    year = {2002}
+     author        = {Hetzer, Georg and Shen, Wenxian and Zhu, Shu},
+     doi           = {10.1023/A:1012932212645},
+     fjournal      = {Journal of Dynamics and Differential Equations},
+     issn          = {1040-7294,1572-9222},
+     journal       = {J. Dynam. Differential Equations},
+     mrclass       = {60H15 (35B05 35B25 35R60 37L55)},
+     mrnumber      = {1878647},
+     mrreviewer    = {Igor\ D.\ Chueshov},
+     number        = {1},
+     pages         = {139--188},
+     title         = {Asymptotic behavior of positive solutions of random and stochastic parabolic equations of {F}isher and {K}olmogorov types},
+     url           = {https://doi.org/10.1023/A:1012932212645},
+     volume        = {14},
+     year          = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1012932212645}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1012932212645>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

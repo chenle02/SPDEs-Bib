@@ -8,24 +8,23 @@ epshteyn.kurganov:08:new
 .. code-block:: bibtex
 
    @article{epshteyn.kurganov:08:new,
-    author = {Epshteyn, Yekaterina and Kurganov, Alexander},
-    doi = {10.1137/07070423X},
-    fjournal = {SIAM Journal on Numerical Analysis},
-    issn = {0036-1429},
-    journal = {SIAM J. Numer. Anal.},
-    mrclass = {92C17 (35K57 65M60 92-08)},
-    mrnumber = {2475945},
-    mrreviewer = {Bisso Saley},
-    number = {1},
-    pages = {386--408},
-    title = {New interior penalty discontinuous {G}alerkin methods for
-   the {K}eller-{S}egel chemotaxis model},
-    url = {https://doi.org/10.1137/07070423X},
-    volume = {47},
-    year = {2008/09}
+     author        = {Epshteyn, Yekaterina and Kurganov, Alexander},
+     doi           = {10.1137/07070423X},
+     fjournal      = {SIAM Journal on Numerical Analysis},
+     issn          = {0036-1429},
+     journal       = {SIAM J. Numer. Anal.},
+     mrclass       = {92C17 (35K57 65M60 92-08)},
+     mrnumber      = {2475945},
+     mrreviewer    = {Bisso Saley},
+     number        = {1},
+     pages         = {386--408},
+     title         = {New interior penalty discontinuous {G}alerkin methods for the {K}eller-{S}egel chemotaxis model},
+     url           = {https://doi.org/10.1137/07070423X},
+     volume        = {47},
+     year          = {2008/09}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/07070423X}>`__
+`The URL link to the source <https://doi.org/10.1137/07070423X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

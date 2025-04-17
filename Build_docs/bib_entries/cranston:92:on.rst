@@ -8,19 +8,18 @@ cranston:92:on
 .. code-block:: bibtex
 
    @incollection{cranston:92:on,
-    author = {Cranston, M.},
-    booktitle = {Seminar on {S}tochastic {P}rocesses, 1991 ({L}os
-   {A}ngeles, {CA}, 1991)},
-    isbn = {0-8176-3628-5},
-    mrclass = {60J60},
-    mrnumber = {1172140},
-    mrreviewer = {Uwe\ R\"{o}sler},
-    pages = {15--37},
-    publisher = {Birkh\"{a}user Boston, Boston, MA},
-    series = {Progr. Probab.},
-    title = {On specifying invariant {$\sigma$}-fields},
-    volume = {29},
-    year = {1992}
+     author        = {Cranston, M.},
+     booktitle     = {Seminar on {S}tochastic {P}rocesses, 1991 ({L}os {A}ngeles, {CA}, 1991)},
+     isbn          = {0-8176-3628-5},
+     mrclass       = {60J60},
+     mrnumber      = {1172140},
+     mrreviewer    = {Uwe\ R\"{o}sler},
+     pages         = {15--37},
+     publisher     = {Birkh\"{a}user Boston, Boston, MA},
+     series        = {Progr. Probab.},
+     title         = {On specifying invariant {$\sigma$}-fields},
+     volume        = {29},
+     year          = {1992}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

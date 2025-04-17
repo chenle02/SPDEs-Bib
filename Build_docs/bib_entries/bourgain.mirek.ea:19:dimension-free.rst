@@ -8,25 +8,23 @@ bourgain.mirek.ea:19:dimension-free
 .. code-block:: bibtex
 
    @article{bourgain.mirek.ea:19:dimension-free,
-    author = {Bourgain, Jean and Mirek, Mariusz and Stein, Elias M. and
-   Wr\'{o}bel, B\l a\.{z}ej},
-    doi = {10.1353/ajm.2019.0023},
-    fjournal = {American Journal of Mathematics},
-    issn = {0002-9327,1080-6377},
-    journal = {Amer. J. Math.},
-    mrclass = {42B25},
-    mrnumber = {3992568},
-    mrreviewer = {Kenneth\ F.\ Andersen},
-    number = {4},
-    pages = {857--905},
-    title = {Dimension-free estimates for discrete {H}ardy-{L}ittlewood
-   averaging operators over the cubes in {$\Bbb Z^d$}},
-    url = {https://doi.org/10.1353/ajm.2019.0023},
-    volume = {141},
-    year = {2019}
+     author        = {Bourgain, Jean and Mirek, Mariusz and Stein, Elias M. and Wr\'{o}bel, B\l a\.{z}ej},
+     doi           = {10.1353/ajm.2019.0023},
+     fjournal      = {American Journal of Mathematics},
+     issn          = {0002-9327,1080-6377},
+     journal       = {Amer. J. Math.},
+     mrclass       = {42B25},
+     mrnumber      = {3992568},
+     mrreviewer    = {Kenneth\ F.\ Andersen},
+     number        = {4},
+     pages         = {857--905},
+     title         = {Dimension-free estimates for discrete {H}ardy-{L}ittlewood averaging operators over the cubes in {$\Bbb Z^d$}},
+     url           = {https://doi.org/10.1353/ajm.2019.0023},
+     volume        = {141},
+     year          = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1353/ajm.2019.0023}>`__
+`The URL link to the source <https://doi.org/10.1353/ajm.2019.0023>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
