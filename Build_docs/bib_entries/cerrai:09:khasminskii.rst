@@ -8,22 +8,21 @@ cerrai:09:khasminskii
 .. code-block:: bibtex
 
    @article{cerrai:09:khasminskii,
-    author = {Cerrai, Sandra},
-    doi = {10.1214/08-AAP560},
-    fjournal = {The Annals of Applied Probability},
-    issn = {1050-5164},
-    journal = {Ann. Appl. Probab.},
-    mrclass = {60H15 (35R60 37L55)},
-    mrnumber = {2537194},
-    number = {3},
-    pages = {899--948},
-    title = {A {K}hasminskii type averaging principle for stochastic
-   reaction-diffusion equations},
-    url = {https://doi.org/10.1214/08-AAP560},
-    volume = {19},
-    year = {2009}
+     author        = {Cerrai, Sandra},
+     doi           = {10.1214/08-AAP560},
+     fjournal      = {The Annals of Applied Probability},
+     issn          = {1050-5164},
+     journal       = {Ann. Appl. Probab.},
+     mrclass       = {60H15 (35R60 37L55)},
+     mrnumber      = {2537194},
+     number        = {3},
+     pages         = {899--948},
+     title         = {A {K}hasminskii type averaging principle for stochastic reaction-diffusion equations},
+     url           = {https://doi.org/10.1214/08-AAP560},
+     volume        = {19},
+     year          = {2009}
    }
-`The URL link to the source <ttps://doi.org/10.1214/08-AAP560}>`_
+`The URL link to the source <https://doi.org/10.1214/08-AAP560>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

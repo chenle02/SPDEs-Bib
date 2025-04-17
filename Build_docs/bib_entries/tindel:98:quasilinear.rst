@@ -8,24 +8,22 @@ tindel:98:quasilinear
 .. code-block:: bibtex
 
    @article{tindel:98:quasilinear,
-    author = {Tindel, Samy},
-    doi = {10.2307/3318660},
-    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for
-   Mathematical Statistics and Probability},
-    issn = {1350-7265},
-    journal = {Bernoulli},
-    mrclass = {60H15 (60H07)},
-    mrnumber = {1679792},
-    mrreviewer = {Fred Espen Benth},
-    number = {4},
-    pages = {445--459},
-    title = {Quasilinear stochastic elliptic equations with reflection:
-   the existence of a density},
-    url = {https://doi.org/10.2307/3318660},
-    volume = {4},
-    year = {1998}
+     author        = {Tindel, Samy},
+     doi           = {10.2307/3318660},
+     fjournal      = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+     issn          = {1350-7265},
+     journal       = {Bernoulli},
+     mrclass       = {60H15 (60H07)},
+     mrnumber      = {1679792},
+     mrreviewer    = {Fred Espen Benth},
+     number        = {4},
+     pages         = {445--459},
+     title         = {Quasilinear stochastic elliptic equations with reflection: the existence of a density},
+     url           = {https://doi.org/10.2307/3318660},
+     volume        = {4},
+     year          = {1998}
    }
-`The URL link to the source <ttps://doi.org/10.2307/3318660}>`_
+`The URL link to the source <https://doi.org/10.2307/3318660>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,23 +8,21 @@ morale.capasso.ea:05:interacting
 .. code-block:: bibtex
 
    @article{morale.capasso.ea:05:interacting,
-    author = {Morale, Daniela and Capasso, Vincenzo and Oelschl\"{a}ger,
-   Karl},
-    doi = {10.1007/s00285-004-0279-1},
-    fjournal = {Journal of Mathematical Biology},
-    issn = {0303-6812,1432-1416},
-    journal = {J. Math. Biol.},
-    mrclass = {92D25 (60K35 92D50)},
-    mrnumber = {2117406},
-    number = {1},
-    pages = {49--66},
-    title = {An interacting particle system modelling aggregation
-   behavior: from individuals to populations},
-    url = {https://doi.org/10.1007/s00285-004-0279-1},
-    volume = {50},
-    year = {2005}
+     author        = {Morale, Daniela and Capasso, Vincenzo and Oelschl\"{a}ger, Karl},
+     doi           = {10.1007/s00285-004-0279-1},
+     fjournal      = {Journal of Mathematical Biology},
+     issn          = {0303-6812,1432-1416},
+     journal       = {J. Math. Biol.},
+     mrclass       = {92D25 (60K35 92D50)},
+     mrnumber      = {2117406},
+     number        = {1},
+     pages         = {49--66},
+     title         = {An interacting particle system modelling aggregation behavior: from individuals to populations},
+     url           = {https://doi.org/10.1007/s00285-004-0279-1},
+     volume        = {50},
+     year          = {2005}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00285-004-0279-1}>`_
+`The URL link to the source <https://doi.org/10.1007/s00285-004-0279-1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

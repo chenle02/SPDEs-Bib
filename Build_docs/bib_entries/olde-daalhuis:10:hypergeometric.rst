@@ -8,14 +8,14 @@ olde-daalhuis:10:hypergeometric
 .. code-block:: bibtex
 
    @incollection{olde-daalhuis:10:hypergeometric,
-    author = {Olde Daalhuis, A. B.},
-    booktitle = {N{IST} handbook of mathematical functions},
-    mrclass = {33C05 (33-00)},
-    mrnumber = {2655355},
-    pages = {383--401},
-    publisher = {U.S. Dept. Commerce, Washington, DC},
-    title = {Hypergeometric function},
-    year = {2010}
+     author        = {Olde Daalhuis, A. B.},
+     booktitle     = {N{IST} handbook of mathematical functions},
+     mrclass       = {33C05 (33-00)},
+     mrnumber      = {2655355},
+     pages         = {383--401},
+     publisher     = {U.S. Dept. Commerce, Washington, DC},
+     title         = {Hypergeometric function},
+     year          = {2010}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,15 +8,14 @@ magnus.oberhettinger:48:formeln
 .. code-block:: bibtex
 
    @book{magnus.oberhettinger:48:formeln,
-    author = {Magnus, Wilhelm and Oberhettinger, Fritz},
-    mrclass = {33.0X},
-    mrnumber = {25629},
-    note = {2d ed},
-    pages = {viii+230},
-    publisher = {Springer-Verlag, Berlin},
-    title = {Formeln und {S}\"{a}tze f\"{u}r die speziellen
-   {F}unktionen der mathematischen {P}hysik},
-    year = {1948}
+     author        = {Magnus, Wilhelm and Oberhettinger, Fritz},
+     mrclass       = {33.0X},
+     mrnumber      = {25629},
+     note          = {2d ed},
+     pages         = {viii+230},
+     publisher     = {Springer-Verlag, Berlin},
+     title         = {Formeln und {S}\"{a}tze f\"{u}r die speziellen {F}unktionen der mathematischen {P}hysik},
+     year          = {1948}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,24 +8,22 @@ bourgain.konyagin.ea:15:character
 .. code-block:: bibtex
 
    @article{bourgain.konyagin.ea:15:character,
-    author = {Bourgain, Jean and Konyagin, Sergei V. and Shparlinski,
-   Igor E.},
-    doi = {10.1090/mcom/2946},
-    fjournal = {Mathematics of Computation},
-    issn = {0025-5718,1088-6842},
-    journal = {Math. Comp.},
-    mrclass = {11T06 (11L40 11Y16 68Q25)},
-    mrnumber = {3378857},
-    mrreviewer = {Alina\ Ostafe},
-    number = {296},
-    pages = {2969--2977},
-    title = {Character sums and deterministic polynomial root finding
-   in finite fields},
-    url = {https://doi.org/10.1090/mcom/2946},
-    volume = {84},
-    year = {2015}
+     author        = {Bourgain, Jean and Konyagin, Sergei V. and Shparlinski, Igor E.},
+     doi           = {10.1090/mcom/2946},
+     fjournal      = {Mathematics of Computation},
+     issn          = {0025-5718,1088-6842},
+     journal       = {Math. Comp.},
+     mrclass       = {11T06 (11L40 11Y16 68Q25)},
+     mrnumber      = {3378857},
+     mrreviewer    = {Alina\ Ostafe},
+     number        = {296},
+     pages         = {2969--2977},
+     title         = {Character sums and deterministic polynomial root finding in finite fields},
+     url           = {https://doi.org/10.1090/mcom/2946},
+     volume        = {84},
+     year          = {2015}
    }
-`The URL link to the source <ttps://doi.org/10.1090/mcom/2946}>`_
+`The URL link to the source <https://doi.org/10.1090/mcom/2946>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

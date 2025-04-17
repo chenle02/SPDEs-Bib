@@ -8,17 +8,17 @@ derrida:95:coarsening
 .. code-block:: bibtex
 
    @incollection{derrida:95:coarsening,
-    author = {Derrida, B.},
-    booktitle = {Complex systems and binary networks ({G}uanajuato, 1995)},
-    isbn = {3-540-60339-5},
-    mrclass = {82B03},
-    mrnumber = {1481202},
-    pages = {164--182},
-    publisher = {Springer, Berlin},
-    series = {Lecture Notes in Phys.},
-    title = {Coarsening phenomena in one dimension},
-    volume = {461},
-    year = {1995}
+     author        = {Derrida, B.},
+     booktitle     = {Complex systems and binary networks ({G}uanajuato, 1995)},
+     isbn          = {3-540-60339-5},
+     mrclass       = {82B03},
+     mrnumber      = {1481202},
+     pages         = {164--182},
+     publisher     = {Springer, Berlin},
+     series        = {Lecture Notes in Phys.},
+     title         = {Coarsening phenomena in one dimension},
+     volume        = {461},
+     year          = {1995}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

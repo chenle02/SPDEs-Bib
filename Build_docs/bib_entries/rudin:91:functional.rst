@@ -8,16 +8,16 @@ rudin:91:functional
 .. code-block:: bibtex
 
    @book{rudin:91:functional,
-    author = {Rudin, Walter},
-    edition = {Second},
-    isbn = {0-07-054236-8},
-    mrclass = {46-01 (47-01)},
-    mrnumber = {1157815},
-    pages = {xviii+424},
-    publisher = {McGraw-Hill, Inc., New York},
-    series = {International Series in Pure and Applied Mathematics},
-    title = {Functional analysis},
-    year = {1991}
+     author        = {Rudin, Walter},
+     edition       = {Second},
+     isbn          = {0-07-054236-8},
+     mrclass       = {46-01 (47-01)},
+     mrnumber      = {1157815},
+     pages         = {xviii+424},
+     publisher     = {McGraw-Hill, Inc., New York},
+     series        = {International Series in Pure and Applied Mathematics},
+     title         = {Functional analysis},
+     year          = {1991}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

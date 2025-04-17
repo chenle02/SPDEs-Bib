@@ -8,22 +8,21 @@ zhang.yang:11:white
 .. code-block:: bibtex
 
    @article{zhang.yang:11:white,
-    author = {Zhang, Tusheng and Yang, Juan},
-    doi = {10.1142/S0219025711004523},
-    fjournal = {Infinite Dimensional Analysis, Quantum Probability and
-   Related Topics},
-    issn = {0219-0257},
-    journal = {Infin. Dimens. Anal. Quantum Probab. Relat. Top.},
-    mrclass = {60H15 (35K20 35R60)},
-    mrnumber = {2873834},
-    number = {4},
-    pages = {647--659},
-    title = {White noise driven {SPDE}s with two reflecting walls},
-    url = {https://doi.org/10.1142/S0219025711004523},
-    volume = {14},
-    year = {2011}
+     author        = {Zhang, Tusheng and Yang, Juan},
+     doi           = {10.1142/S0219025711004523},
+     fjournal      = {Infinite Dimensional Analysis, Quantum Probability and Related Topics},
+     issn          = {0219-0257},
+     journal       = {Infin. Dimens. Anal. Quantum Probab. Relat. Top.},
+     mrclass       = {60H15 (35K20 35R60)},
+     mrnumber      = {2873834},
+     number        = {4},
+     pages         = {647--659},
+     title         = {White noise driven {SPDE}s with two reflecting walls},
+     url           = {https://doi.org/10.1142/S0219025711004523},
+     volume        = {14},
+     year          = {2011}
    }
-`The URL link to the source <ttps://doi.org/10.1142/S0219025711004523}>`_
+`The URL link to the source <https://doi.org/10.1142/S0219025711004523>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,23 +8,22 @@ xiang:18:chemotactic
 .. code-block:: bibtex
 
    @article{xiang:18:chemotactic,
-    author = {Xiang, Tian},
-    doi = {10.1137/17M1150475},
-    fjournal = {SIAM Journal on Applied Mathematics},
-    issn = {0036-1399},
-    journal = {SIAM J. Appl. Math.},
-    mrclass = {35K51 (35A01 35B30 35B44 35K57 92C17)},
-    mrnumber = {3852723},
-    mrreviewer = {Jingyu Li},
-    number = {5},
-    pages = {2420--2438},
-    title = {Chemotactic aggregation versus logistic damping on
-   boundedness in the 3{D} minimal {K}eller-{S}egel model},
-    url = {https://doi.org/10.1137/17M1150475},
-    volume = {78},
-    year = {2018}
+     author        = {Xiang, Tian},
+     doi           = {10.1137/17M1150475},
+     fjournal      = {SIAM Journal on Applied Mathematics},
+     issn          = {0036-1399},
+     journal       = {SIAM J. Appl. Math.},
+     mrclass       = {35K51 (35A01 35B30 35B44 35K57 92C17)},
+     mrnumber      = {3852723},
+     mrreviewer    = {Jingyu Li},
+     number        = {5},
+     pages         = {2420--2438},
+     title         = {Chemotactic aggregation versus logistic damping on boundedness in the 3{D} minimal {K}eller-{S}egel model},
+     url           = {https://doi.org/10.1137/17M1150475},
+     volume        = {78},
+     year          = {2018}
    }
-`The URL link to the source <ttps://doi.org/10.1137/17M1150475}>`_
+`The URL link to the source <https://doi.org/10.1137/17M1150475>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,23 +8,21 @@ salako.shen:21:long
 .. code-block:: bibtex
 
    @article{salako.shen:21:long,
-    author = {Salako, Rachidi B. and Shen, Wenxian},
-    doi = {10.1007/s10884-020-09847-2},
-    fjournal = {Journal of Dynamics and Differential Equations},
-    issn = {1040-7294,1572-9222},
-    journal = {J. Dynam. Differential Equations},
-    mrclass = {35B35 (35B40 35K57 35Q92 92C17)},
-    mrnumber = {4248645},
-    number = {2},
-    pages = {1035--1070},
-    title = {Long time behavior of random and nonautonomous
-   {F}isher-{KPP} equations: {P}art {I}---{S}tability of
-   equilibria and spreading speeds},
-    url = {https://doi.org/10.1007/s10884-020-09847-2},
-    volume = {33},
-    year = {2021}
+     author        = {Salako, Rachidi B. and Shen, Wenxian},
+     doi           = {10.1007/s10884-020-09847-2},
+     fjournal      = {Journal of Dynamics and Differential Equations},
+     issn          = {1040-7294,1572-9222},
+     journal       = {J. Dynam. Differential Equations},
+     mrclass       = {35B35 (35B40 35K57 35Q92 92C17)},
+     mrnumber      = {4248645},
+     number        = {2},
+     pages         = {1035--1070},
+     title         = {Long time behavior of random and nonautonomous {F}isher-{KPP} equations: {P}art {I}---{S}tability of equilibria and spreading speeds},
+     url           = {https://doi.org/10.1007/s10884-020-09847-2},
+     volume        = {33},
+     year          = {2021}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s10884-020-09847-2}>`_
+`The URL link to the source <https://doi.org/10.1007/s10884-020-09847-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

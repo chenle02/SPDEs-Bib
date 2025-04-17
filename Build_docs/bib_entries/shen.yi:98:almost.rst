@@ -8,23 +8,22 @@ shen.yi:98:almost
 .. code-block:: bibtex
 
    @article{shen.yi:98:almost,
-    author = {Shen, Wenxian and Yi, Yingfei},
-    doi = {10.1090/memo/0647},
-    fjournal = {Memoirs of the American Mathematical Society},
-    issn = {0065-9266,1947-6221},
-    journal = {Mem. Amer. Math. Soc.},
-    mrclass = {34D05 (34C27 34C35 35K55 47H20 54H20 58F11)},
-    mrnumber = {1445493},
-    mrreviewer = {Russell\ A.\ Johnson},
-    number = {647},
-    pages = {x+93},
-    title = {Almost automorphic and almost periodic dynamics in
-   skew-product semiflows},
-    url = {https://doi.org/10.1090/memo/0647},
-    volume = {136},
-    year = {1998}
+     author        = {Shen, Wenxian and Yi, Yingfei},
+     doi           = {10.1090/memo/0647},
+     fjournal      = {Memoirs of the American Mathematical Society},
+     issn          = {0065-9266,1947-6221},
+     journal       = {Mem. Amer. Math. Soc.},
+     mrclass       = {34D05 (34C27 34C35 35K55 47H20 54H20 58F11)},
+     mrnumber      = {1445493},
+     mrreviewer    = {Russell\ A.\ Johnson},
+     number        = {647},
+     pages         = {x+93},
+     title         = {Almost automorphic and almost periodic dynamics in skew-product semiflows},
+     url           = {https://doi.org/10.1090/memo/0647},
+     volume        = {136},
+     year          = {1998}
    }
-`The URL link to the source <ttps://doi.org/10.1090/memo/0647}>`_
+`The URL link to the source <https://doi.org/10.1090/memo/0647>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

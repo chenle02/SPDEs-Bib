@@ -8,22 +8,21 @@ arnold:67:on
 .. code-block:: bibtex
 
    @article{arnold:67:on,
-    author = {Arnold, Ludwig},
-    doi = {10.1016/0022-247X(67)90089-3},
-    fjournal = {Journal of Mathematical Analysis and Applications},
-    issn = {0022-247X},
-    journal = {J. Math. Anal. Appl.},
-    mrclass = {60.20},
-    mrnumber = {217833},
-    mrreviewer = {M. Lo\`eve},
-    pages = {262--268},
-    title = {On the asymptotic distribution of the eigenvalues of
-   random matrices},
-    url = {https://doi.org/10.1016/0022-247X(67)90089-3},
-    volume = {20},
-    year = {1967}
+     author        = {Arnold, Ludwig},
+     doi           = {10.1016/0022-247X(67)90089-3},
+     fjournal      = {Journal of Mathematical Analysis and Applications},
+     issn          = {0022-247X},
+     journal       = {J. Math. Anal. Appl.},
+     mrclass       = {60.20},
+     mrnumber      = {217833},
+     mrreviewer    = {M. Lo\`eve},
+     pages         = {262--268},
+     title         = {On the asymptotic distribution of the eigenvalues of random matrices},
+     url           = {https://doi.org/10.1016/0022-247X(67)90089-3},
+     volume        = {20},
+     year          = {1967}
    }
-`The URL link to the source <ttps://doi.org/10.1016/0022-247X(67)90089-3}>`_
+`The URL link to the source <https://doi.org/10.1016/0022-247X(67)90089-3>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

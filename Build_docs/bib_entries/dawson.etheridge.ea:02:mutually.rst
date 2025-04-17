@@ -8,25 +8,22 @@ dawson.etheridge.ea:02:mutually
 .. code-block:: bibtex
 
    @article{dawson.etheridge.ea:02:mutually,
-    author = {Dawson, Donald A. and Etheridge, Alison M. and
-   Fleischmann, Klaus and Mytnik, Leonid and Perkins, Edwin A.
-   and Xiong, Jie},
-    doi = {10.1214/aop/1039548370},
-    fjournal = {The Annals of Probability},
-    issn = {0091-1798},
-    journal = {Ann. Probab.},
-    mrclass = {60K35 (60G57 60J80)},
-    mrnumber = {1944004},
-    mrreviewer = {Roger Tribe},
-    number = {4},
-    pages = {1681--1762},
-    title = {Mutually catalytic branching in the plane: finite measure
-   states},
-    url = {https://doi.org/10.1214/aop/1039548370},
-    volume = {30},
-    year = {2002}
+     author        = {Dawson, Donald A. and Etheridge, Alison M. and Fleischmann, Klaus and Mytnik, Leonid and Perkins, Edwin A. and Xiong, Jie},
+     doi           = {10.1214/aop/1039548370},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60K35 (60G57 60J80)},
+     mrnumber      = {1944004},
+     mrreviewer    = {Roger Tribe},
+     number        = {4},
+     pages         = {1681--1762},
+     title         = {Mutually catalytic branching in the plane: finite measure states},
+     url           = {https://doi.org/10.1214/aop/1039548370},
+     volume        = {30},
+     year          = {2002}
    }
-`The URL link to the source <ttps://doi.org/10.1214/aop/1039548370}>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1039548370>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

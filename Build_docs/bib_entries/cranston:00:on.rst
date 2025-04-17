@@ -8,23 +8,22 @@ cranston:00:on
 .. code-block:: bibtex
 
    @article{cranston:00:on,
-    author = {Cranston, M.},
-    doi = {10.1007/PL00008737},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051,1432-2064},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {58J65 (60J60)},
-    mrnumber = {1785450},
-    mrreviewer = {Ming\ Liao},
-    number = {1},
-    pages = {1--16},
-    title = {On geometric properties of stochastic flows related to the
-   {L}yapunov spectrum},
-    url = {https://doi.org/10.1007/PL00008737},
-    volume = {118},
-    year = {2000}
+     author        = {Cranston, M.},
+     doi           = {10.1007/PL00008737},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051,1432-2064},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {58J65 (60J60)},
+     mrnumber      = {1785450},
+     mrreviewer    = {Ming\ Liao},
+     number        = {1},
+     pages         = {1--16},
+     title         = {On geometric properties of stochastic flows related to the {L}yapunov spectrum},
+     url           = {https://doi.org/10.1007/PL00008737},
+     volume        = {118},
+     year          = {2000}
    }
-`The URL link to the source <ttps://doi.org/10.1007/PL00008737}>`_
+`The URL link to the source <https://doi.org/10.1007/PL00008737>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

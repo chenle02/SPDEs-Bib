@@ -8,24 +8,22 @@ kochubeui:98:fundamental
 .. code-block:: bibtex
 
    @article{kochubeui:98:fundamental,
-    author = {Kochubeu{i}, A. N.},
-    doi = {10.1070/im1998v062n06ABEH000222},
-    fjournal = {Izvestiya Rossiiskoi Akademii Nauk. Seriya
-   Matematicheskaya},
-    issn = {1607-0046,2587-5906},
-    journal = {Izv. Ross. Akad. Nauk Ser. Mat.},
-    mrclass = {11S80 (35A08 35S05 47G30 47S10)},
-    mrnumber = {1680862},
-    mrreviewer = {Vladimir\ Tulovsky},
-    number = {6},
-    pages = {103--124},
-    title = {Fundamental solutions of pseudodifferential equations
-   associated with {$p$}-adic quadratic forms},
-    url = {https://doi.org/10.1070/im1998v062n06ABEH000222},
-    volume = {62},
-    year = {1998}
+     author        = {Kochubeu{i}, A. N.},
+     doi           = {10.1070/im1998v062n06ABEH000222},
+     fjournal      = {Izvestiya Rossiiskoi Akademii Nauk. Seriya Matematicheskaya},
+     issn          = {1607-0046,2587-5906},
+     journal       = {Izv. Ross. Akad. Nauk Ser. Mat.},
+     mrclass       = {11S80 (35A08 35S05 47G30 47S10)},
+     mrnumber      = {1680862},
+     mrreviewer    = {Vladimir\ Tulovsky},
+     number        = {6},
+     pages         = {103--124},
+     title         = {Fundamental solutions of pseudodifferential equations associated with {$p$}-adic quadratic forms},
+     url           = {https://doi.org/10.1070/im1998v062n06ABEH000222},
+     volume        = {62},
+     year          = {1998}
    }
-`The URL link to the source <ttps://doi.org/10.1070/im1998v062n06ABEH000222}>`_
+`The URL link to the source <https://doi.org/10.1070/im1998v062n06ABEH000222>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

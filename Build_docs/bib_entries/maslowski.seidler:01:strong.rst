@@ -8,23 +8,22 @@ maslowski.seidler:01:strong
 .. code-block:: bibtex
 
    @article{maslowski.seidler:01:strong,
-    author = {Maslowski, Bohdan and Seidler, Jan},
-    doi = {10.4064/sm148-2-2},
-    fjournal = {Studia Mathematica},
-    issn = {0039-3223,1730-6337},
-    journal = {Studia Math.},
-    mrclass = {60H15 (60J35)},
-    mrnumber = {1881256},
-    mrreviewer = {Isabel\ Sim\~{a}o},
-    number = {2},
-    pages = {111--129},
-    title = {Strong {F}eller solutions to {SPDE}'s are strong {F}eller
-   in the weak topology},
-    url = {https://doi.org/10.4064/sm148-2-2},
-    volume = {148},
-    year = {2001}
+     author        = {Maslowski, Bohdan and Seidler, Jan},
+     doi           = {10.4064/sm148-2-2},
+     fjournal      = {Studia Mathematica},
+     issn          = {0039-3223,1730-6337},
+     journal       = {Studia Math.},
+     mrclass       = {60H15 (60J35)},
+     mrnumber      = {1881256},
+     mrreviewer    = {Isabel\ Sim\~{a}o},
+     number        = {2},
+     pages         = {111--129},
+     title         = {Strong {F}eller solutions to {SPDE}'s are strong {F}eller in the weak topology},
+     url           = {https://doi.org/10.4064/sm148-2-2},
+     volume        = {148},
+     year          = {2001}
    }
-`The URL link to the source <ttps://doi.org/10.4064/sm148-2-2}>`_
+`The URL link to the source <https://doi.org/10.4064/sm148-2-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,22 +8,22 @@ barral.qu:12:on
 .. code-block:: bibtex
 
    @article{barral.qu:12:on,
-    author = {Barral, Julien and Qu, Yan-Hui},
-    doi = {10.3934/dcds.2012.32.1977},
-    fjournal = {Discrete and Continuous Dynamical Systems. Series A},
-    issn = {1078-0947,1553-5231},
-    journal = {Discrete Contin. Dyn. Syst.},
-    mrclass = {37B40 (28A80 37D35)},
-    mrnumber = {2885794},
-    mrreviewer = {Vaughn\ Climenhaga},
-    number = {6},
-    pages = {1977--1995},
-    title = {On the higher-dimensional multifractal analysis},
-    url = {https://doi.org/10.3934/dcds.2012.32.1977},
-    volume = {32},
-    year = {2012}
+     author        = {Barral, Julien and Qu, Yan-Hui},
+     doi           = {10.3934/dcds.2012.32.1977},
+     fjournal      = {Discrete and Continuous Dynamical Systems. Series A},
+     issn          = {1078-0947,1553-5231},
+     journal       = {Discrete Contin. Dyn. Syst.},
+     mrclass       = {37B40 (28A80 37D35)},
+     mrnumber      = {2885794},
+     mrreviewer    = {Vaughn\ Climenhaga},
+     number        = {6},
+     pages         = {1977--1995},
+     title         = {On the higher-dimensional multifractal analysis},
+     url           = {https://doi.org/10.3934/dcds.2012.32.1977},
+     volume        = {32},
+     year          = {2012}
    }
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2012.32.1977}>`_
+`The URL link to the source <https://doi.org/10.3934/dcds.2012.32.1977>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

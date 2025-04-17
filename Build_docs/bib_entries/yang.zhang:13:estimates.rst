@@ -8,24 +8,21 @@ yang.zhang:13:estimates
 .. code-block:: bibtex
 
    @article{yang.zhang:13:estimates,
-    author = {Yang, Xue and Zhang, Tusheng},
-    doi = {10.1007/s11118-012-9286-9},
-    fjournal = {Potential Analysis. An International Journal Devoted to
-   the Interactions between Potential Theory, Probability
-   Theory, Geometry and Functional Analysis},
-    issn = {0926-2601},
-    journal = {Potential Anal.},
-    mrclass = {35K08 (35J75 60J35 60J60)},
-    mrnumber = {3015364},
-    number = {2},
-    pages = {549--572},
-    title = {Estimates of heat kernels with {N}eumann boundary
-   conditions},
-    url = {https://doi.org/10.1007/s11118-012-9286-9},
-    volume = {38},
-    year = {2013}
+     author        = {Yang, Xue and Zhang, Tusheng},
+     doi           = {10.1007/s11118-012-9286-9},
+     fjournal      = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
+     issn          = {0926-2601},
+     journal       = {Potential Anal.},
+     mrclass       = {35K08 (35J75 60J35 60J60)},
+     mrnumber      = {3015364},
+     number        = {2},
+     pages         = {549--572},
+     title         = {Estimates of heat kernels with {N}eumann boundary conditions},
+     url           = {https://doi.org/10.1007/s11118-012-9286-9},
+     volume        = {38},
+     year          = {2013}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s11118-012-9286-9}>`_
+`The URL link to the source <https://doi.org/10.1007/s11118-012-9286-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

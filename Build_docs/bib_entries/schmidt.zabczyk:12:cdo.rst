@@ -8,22 +8,21 @@ schmidt.zabczyk:12:cdo
 .. code-block:: bibtex
 
    @article{schmidt.zabczyk:12:cdo,
-    author = {Schmidt, Thorsten and Zabczyk, Jerzy},
-    doi = {10.1142/S0219024911006462},
-    fjournal = {International Journal of Theoretical and Applied Finance},
-    issn = {0219-0249},
-    journal = {Int. J. Theor. Appl. Finance},
-    mrclass = {91G40 (60G51)},
-    mrnumber = {2902969},
-    number = {1},
-    pages = {1250008, 19},
-    title = {C{DO} term structure modelling with {L}\'{e}vy processes
-   and the relation to market models},
-    url = {https://doi.org/10.1142/S0219024911006462},
-    volume = {15},
-    year = {2012}
+     author        = {Schmidt, Thorsten and Zabczyk, Jerzy},
+     doi           = {10.1142/S0219024911006462},
+     fjournal      = {International Journal of Theoretical and Applied Finance},
+     issn          = {0219-0249},
+     journal       = {Int. J. Theor. Appl. Finance},
+     mrclass       = {91G40 (60G51)},
+     mrnumber      = {2902969},
+     number        = {1},
+     pages         = {1250008, 19},
+     title         = {C{DO} term structure modelling with {L}\'{e}vy processes and the relation to market models},
+     url           = {https://doi.org/10.1142/S0219024911006462},
+     volume        = {15},
+     year          = {2012}
    }
-`The URL link to the source <ttps://doi.org/10.1142/S0219024911006462}>`_
+`The URL link to the source <https://doi.org/10.1142/S0219024911006462>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,23 +8,22 @@ malliavin.nualart:93:quasi-sure*1
 .. code-block:: bibtex
 
    @article{malliavin.nualart:93:quasi-sure*1,
-    author = {Malliavin, Paul and Nualart, David},
-    doi = {10.1007/BF01195882},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60H10 (60H07)},
-    mrnumber = {1222364},
-    mrreviewer = {Daniel Ocone},
-    number = {1},
-    pages = {45--55},
-    title = {Quasi-sure analysis and {S}tratonovich anticipative
-   stochastic differential equations},
-    url = {https://doi.org/10.1007/BF01195882},
-    volume = {96},
-    year = {1993}
+     author        = {Malliavin, Paul and Nualart, David},
+     doi           = {10.1007/BF01195882},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60H10 (60H07)},
+     mrnumber      = {1222364},
+     mrreviewer    = {Daniel Ocone},
+     number        = {1},
+     pages         = {45--55},
+     title         = {Quasi-sure analysis and {S}tratonovich anticipative stochastic differential equations},
+     url           = {https://doi.org/10.1007/BF01195882},
+     volume        = {96},
+     year          = {1993}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF01195882}>`_
+`The URL link to the source <https://doi.org/10.1007/BF01195882>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

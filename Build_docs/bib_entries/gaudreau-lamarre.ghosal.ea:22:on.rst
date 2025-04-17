@@ -8,23 +8,21 @@ gaudreau-lamarre.ghosal.ea:22:on
 .. code-block:: bibtex
 
    @article{gaudreau-lamarre.ghosal.ea:22:on,
-    author = {Gaudreau Lamarre, Pierre Yves and Ghosal, Promit and Liao,
-   Yuchen},
-    doi = {10.4171/jst/415},
-    fjournal = {Journal of Spectral Theory},
-    issn = {1664-039X},
-    journal = {J. Spectr. Theory},
-    mrclass = {60G55 (47D08 82B44)},
-    mrnumber = {4578346},
-    number = {3},
-    pages = {1109--1153},
-    title = {On spatial conditioning of the spectrum of discrete random
-   {S}chr\"{o}dinger operators},
-    url = {https://doi.org/10.4171/jst/415},
-    volume = {12},
-    year = {2022}
+     author        = {Gaudreau Lamarre, Pierre Yves and Ghosal, Promit and Liao, Yuchen},
+     doi           = {10.4171/jst/415},
+     fjournal      = {Journal of Spectral Theory},
+     issn          = {1664-039X},
+     journal       = {J. Spectr. Theory},
+     mrclass       = {60G55 (47D08 82B44)},
+     mrnumber      = {4578346},
+     number        = {3},
+     pages         = {1109--1153},
+     title         = {On spatial conditioning of the spectrum of discrete random {S}chr\"{o}dinger operators},
+     url           = {https://doi.org/10.4171/jst/415},
+     volume        = {12},
+     year          = {2022}
    }
-`The URL link to the source <ttps://doi.org/10.4171/jst/415}>`_
+`The URL link to the source <https://doi.org/10.4171/jst/415>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

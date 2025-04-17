@@ -8,22 +8,22 @@ bourguin.nourdin:20:freeness
 .. code-block:: bibtex
 
    @article{bourguin.nourdin:20:freeness,
-    author = {Bourguin, Solesne and Nourdin, Ivan},
-    doi = {10.2140/pjm.2020.305.447},
-    fjournal = {Pacific Journal of Mathematics},
-    issn = {0030-8730},
-    journal = {Pacific J. Math.},
-    mrclass = {46L54 (60H07 60H30)},
-    mrnumber = {4099305},
-    mrreviewer = {Florent Benaych-Georges},
-    number = {2},
-    pages = {447--472},
-    title = {Freeness characterizations on free chaos spaces},
-    url = {https://doi.org/10.2140/pjm.2020.305.447},
-    volume = {305},
-    year = {2020}
+     author        = {Bourguin, Solesne and Nourdin, Ivan},
+     doi           = {10.2140/pjm.2020.305.447},
+     fjournal      = {Pacific Journal of Mathematics},
+     issn          = {0030-8730},
+     journal       = {Pacific J. Math.},
+     mrclass       = {46L54 (60H07 60H30)},
+     mrnumber      = {4099305},
+     mrreviewer    = {Florent Benaych-Georges},
+     number        = {2},
+     pages         = {447--472},
+     title         = {Freeness characterizations on free chaos spaces},
+     url           = {https://doi.org/10.2140/pjm.2020.305.447},
+     volume        = {305},
+     year          = {2020}
    }
-`The URL link to the source <ttps://doi.org/10.2140/pjm.2020.305.447}>`_
+`The URL link to the source <https://doi.org/10.2140/pjm.2020.305.447>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,21 +8,21 @@ flandoli:96:stochastic
 .. code-block:: bibtex
 
    @article{flandoli:96:stochastic,
-    author = {Flandoli, Franco},
-    doi = {10.1007/BF02925357},
-    fjournal = {Rendiconti del Seminario Matematico e Fisico di Milano},
-    issn = {0370-7377},
-    journal = {Rend. Sem. Mat. Fis. Milano},
-    mrclass = {35R60 (35Q30 60H15 76M35)},
-    mrnumber = {1639835},
-    mrreviewer = {Alp\ O.\ Eden},
-    pages = {121--148},
-    title = {Stochastic differential equations in fluid dynamics},
-    url = {https://doi.org/10.1007/BF02925357},
-    volume = {66},
-    year = {1996}
+     author        = {Flandoli, Franco},
+     doi           = {10.1007/BF02925357},
+     fjournal      = {Rendiconti del Seminario Matematico e Fisico di Milano},
+     issn          = {0370-7377},
+     journal       = {Rend. Sem. Mat. Fis. Milano},
+     mrclass       = {35R60 (35Q30 60H15 76M35)},
+     mrnumber      = {1639835},
+     mrreviewer    = {Alp\ O.\ Eden},
+     pages         = {121--148},
+     title         = {Stochastic differential equations in fluid dynamics},
+     url           = {https://doi.org/10.1007/BF02925357},
+     volume        = {66},
+     year          = {1996}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF02925357}>`_
+`The URL link to the source <https://doi.org/10.1007/BF02925357>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,23 +8,22 @@ shinault.tracy:11:asymptotics
 .. code-block:: bibtex
 
    @article{shinault.tracy:11:asymptotics,
-    author = {Shinault, Gregory and Tracy, Craig A.},
-    doi = {10.1007/s10955-011-0155-5},
-    fjournal = {Journal of Statistical Physics},
-    issn = {0022-4715},
-    journal = {J. Stat. Phys.},
-    mrclass = {60K35 (60B20)},
-    mrnumber = {2787973},
-    mrreviewer = {Florent Benaych-Georges},
-    number = {1},
-    pages = {60--71},
-    title = {Asymptotics for the covariance of the {$\rm Airy_2$}
-   process},
-    url = {https://doi.org/10.1007/s10955-011-0155-5},
-    volume = {143},
-    year = {2011}
+     author        = {Shinault, Gregory and Tracy, Craig A.},
+     doi           = {10.1007/s10955-011-0155-5},
+     fjournal      = {Journal of Statistical Physics},
+     issn          = {0022-4715},
+     journal       = {J. Stat. Phys.},
+     mrclass       = {60K35 (60B20)},
+     mrnumber      = {2787973},
+     mrreviewer    = {Florent Benaych-Georges},
+     number        = {1},
+     pages         = {60--71},
+     title         = {Asymptotics for the covariance of the {$\rm Airy_2$} process},
+     url           = {https://doi.org/10.1007/s10955-011-0155-5},
+     volume        = {143},
+     year          = {2011}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s10955-011-0155-5}>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-011-0155-5>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

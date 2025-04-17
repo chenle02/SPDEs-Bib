@@ -8,18 +8,16 @@ millet.sanz-sole:93:on
 .. code-block:: bibtex
 
    @incollection{millet.sanz-sole:93:on,
-    author = {Millet, Annie and Sanz-Sol\'{e}, Marta},
-    booktitle = {Barcelona {S}eminar on {S}tochastic {A}nalysis ({S}t.
-   {F}eliu de {G}u\'{i}xols, 1991)},
-    mrclass = {60H10 (60H07)},
-    mrnumber = {1265046},
-    pages = {103--131},
-    publisher = {Birkh\"{a}user, Basel},
-    series = {Progr. Probab.},
-    title = {On the support of a {S}korohod anticipating stochastic
-   differential equation},
-    volume = {32},
-    year = {1993}
+     author        = {Millet, Annie and Sanz-Sol\'{e}, Marta},
+     booktitle     = {Barcelona {S}eminar on {S}tochastic {A}nalysis ({S}t. {F}eliu de {G}u\'{i}xols, 1991)},
+     mrclass       = {60H10 (60H07)},
+     mrnumber      = {1265046},
+     pages         = {103--131},
+     publisher     = {Birkh\"{a}user, Basel},
+     series        = {Progr. Probab.},
+     title         = {On the support of a {S}korohod anticipating stochastic differential equation},
+     volume        = {32},
+     year          = {1993}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,21 +8,20 @@ dalang.pu:20:optimal
 .. code-block:: bibtex
 
    @article{dalang.pu:20:optimal,
-    author = {Dalang, Robert C. and Pu, Fei},
-    doi = {10.1214/20-ejp438},
-    fjournal = {Electronic Journal of Probability},
-    journal = {Electron. J. Probab.},
-    mrclass = {60H15 (60G60 60H07 60J45)},
-    mrnumber = {4089790},
-    mrreviewer = {Xiaobin Sun},
-    pages = {Paper No. 40, 31},
-    title = {Optimal lower bounds on hitting probabilities for
-   stochastic heat equations in spatial dimension {$k\geq 1$}},
-    url = {https://doi.org/10.1214/20-ejp438},
-    volume = {25},
-    year = {2020}
+     author        = {Dalang, Robert C. and Pu, Fei},
+     doi           = {10.1214/20-ejp438},
+     fjournal      = {Electronic Journal of Probability},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {60H15 (60G60 60H07 60J45)},
+     mrnumber      = {4089790},
+     mrreviewer    = {Xiaobin Sun},
+     pages         = {Paper No. 40, 31},
+     title         = {Optimal lower bounds on hitting probabilities for stochastic heat equations in spatial dimension {$k\geq 1$}},
+     url           = {https://doi.org/10.1214/20-ejp438},
+     volume        = {25},
+     year          = {2020}
    }
-`The URL link to the source <ttps://doi.org/10.1214/20-ejp438}>`_
+`The URL link to the source <https://doi.org/10.1214/20-ejp438>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

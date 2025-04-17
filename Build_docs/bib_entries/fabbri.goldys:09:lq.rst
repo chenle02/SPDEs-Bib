@@ -8,23 +8,22 @@ fabbri.goldys:09:lq
 .. code-block:: bibtex
 
    @article{fabbri.goldys:09:lq,
-    author = {Fabbri, G. and Goldys, B.},
-    doi = {10.1137/070711529},
-    fjournal = {SIAM Journal on Control and Optimization},
-    issn = {0363-0129,1095-7138},
-    journal = {SIAM J. Control Optim.},
-    mrclass = {93E20 (35K05 37L55 47D06 49N10 60H05 93C20)},
-    mrnumber = {2496985},
-    mrreviewer = {Tom\'a\v s\ Roub\'i\v cek},
-    number = {3},
-    pages = {1473--1488},
-    title = {An {LQ} problem for the heat equation on the halfline with
-   {D}irichlet boundary control and noise},
-    url = {https://doi.org/10.1137/070711529},
-    volume = {48},
-    year = {2009}
+     author        = {Fabbri, G. and Goldys, B.},
+     doi           = {10.1137/070711529},
+     fjournal      = {SIAM Journal on Control and Optimization},
+     issn          = {0363-0129,1095-7138},
+     journal       = {SIAM J. Control Optim.},
+     mrclass       = {93E20 (35K05 37L55 47D06 49N10 60H05 93C20)},
+     mrnumber      = {2496985},
+     mrreviewer    = {Tom\'a\v s\ Roub\'i\v cek},
+     number        = {3},
+     pages         = {1473--1488},
+     title         = {An {LQ} problem for the heat equation on the halfline with {D}irichlet boundary control and noise},
+     url           = {https://doi.org/10.1137/070711529},
+     volume        = {48},
+     year          = {2009}
    }
-`The URL link to the source <ttps://doi.org/10.1137/070711529}>`_
+`The URL link to the source <https://doi.org/10.1137/070711529>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

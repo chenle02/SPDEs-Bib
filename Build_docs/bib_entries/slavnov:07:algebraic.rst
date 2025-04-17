@@ -8,23 +8,22 @@ slavnov:07:algebraic
 .. code-block:: bibtex
 
    @article{slavnov:07:algebraic,
-    author = {Slavnov, N. A.},
-    doi = {10.1070/RM2007v062n04ABEH004430},
-    fjournal = {Uspekhi Matematicheskikh Nauk},
-    issn = {0042-1316},
-    journal = {Uspekhi Mat. Nauk},
-    mrclass = {82B23 (81R12)},
-    mrnumber = {2358738},
-    mrreviewer = {Alexander N. Manashov},
-    number = {4(376)},
-    pages = {91--132},
-    title = {The algebraic {B}ethe ansatz and quantum integrable
-   systems},
-    url = {https://doi.org/10.1070/RM2007v062n04ABEH004430},
-    volume = {62},
-    year = {2007}
+     author        = {Slavnov, N. A.},
+     doi           = {10.1070/RM2007v062n04ABEH004430},
+     fjournal      = {Uspekhi Matematicheskikh Nauk},
+     issn          = {0042-1316},
+     journal       = {Uspekhi Mat. Nauk},
+     mrclass       = {82B23 (81R12)},
+     mrnumber      = {2358738},
+     mrreviewer    = {Alexander N. Manashov},
+     number        = {4(376)},
+     pages         = {91--132},
+     title         = {The algebraic {B}ethe ansatz and quantum integrable systems},
+     url           = {https://doi.org/10.1070/RM2007v062n04ABEH004430},
+     volume        = {62},
+     year          = {2007}
    }
-`The URL link to the source <ttps://doi.org/10.1070/RM2007v062n04ABEH004430}>`_
+`The URL link to the source <https://doi.org/10.1070/RM2007v062n04ABEH004430>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

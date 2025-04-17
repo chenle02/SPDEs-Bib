@@ -8,21 +8,20 @@ balan.yuan:22:spatial
 .. code-block:: bibtex
 
    @article{balan.yuan:22:spatial,
-    author = {Balan, Raluca M. and Yuan, Wangjun},
-    doi = {10.1016/j.spa.2022.06.013},
-    fjournal = {Stochastic Processes and their Applications},
-    issn = {0304-4149},
-    journal = {Stochastic Process. Appl.},
-    mrclass = {60H15 (60F05 60G15 60H07)},
-    mrnumber = {4450464},
-    pages = {177--207},
-    title = {Spatial integral of the solution to hyperbolic {A}nderson
-   model with time-independent noise},
-    url = {https://doi.org/10.1016/j.spa.2022.06.013},
-    volume = {152},
-    year = {2022}
+     author        = {Balan, Raluca M. and Yuan, Wangjun},
+     doi           = {10.1016/j.spa.2022.06.013},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60H15 (60F05 60G15 60H07)},
+     mrnumber      = {4450464},
+     pages         = {177--207},
+     title         = {Spatial integral of the solution to hyperbolic {A}nderson model with time-independent noise},
+     url           = {https://doi.org/10.1016/j.spa.2022.06.013},
+     volume        = {152},
+     year          = {2022}
    }
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2022.06.013}>`_
+`The URL link to the source <https://doi.org/10.1016/j.spa.2022.06.013>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

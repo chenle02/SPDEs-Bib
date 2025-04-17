@@ -8,23 +8,22 @@ zhang.zhang:21:quadratic
 .. code-block:: bibtex
 
    @article{zhang.zhang:21:quadratic,
-    author = {Zhang, Rangrang and Zhang, Tusheng},
-    doi = {10.1016/j.jmaa.2021.125230},
-    fjournal = {Journal of Mathematical Analysis and Applications},
-    issn = {0022-247X},
-    journal = {J. Math. Anal. Appl.},
-    mrclass = {49Q22 (60H15)},
-    mrnumber = {4243716},
-    mrreviewer = {Gabriel Khan},
-    number = {1},
-    pages = {Paper No. 125230, 26},
-    title = {Quadratic transportation cost inequality for scalar
-   stochastic conservation laws},
-    url = {https://doi.org/10.1016/j.jmaa.2021.125230},
-    volume = {502},
-    year = {2021}
+     author        = {Zhang, Rangrang and Zhang, Tusheng},
+     doi           = {10.1016/j.jmaa.2021.125230},
+     fjournal      = {Journal of Mathematical Analysis and Applications},
+     issn          = {0022-247X},
+     journal       = {J. Math. Anal. Appl.},
+     mrclass       = {49Q22 (60H15)},
+     mrnumber      = {4243716},
+     mrreviewer    = {Gabriel Khan},
+     number        = {1},
+     pages         = {Paper No. 125230, 26},
+     title         = {Quadratic transportation cost inequality for scalar stochastic conservation laws},
+     url           = {https://doi.org/10.1016/j.jmaa.2021.125230},
+     volume        = {502},
+     year          = {2021}
    }
-`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2021.125230}>`_
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2021.125230>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,23 +8,22 @@ flandoli:06:two
 .. code-block:: bibtex
 
    @incollection{flandoli:06:two,
-    author = {Flandoli, Franco},
-    booktitle = {Stochastic partial differential equations and
-   applications---{VII}},
-    doi = {10.1201/9781420028720.ch11},
-    isbn = {978-0-8247-0027-0; 0-8247-0027-9},
-    mrclass = {60G60 (60H15)},
-    mrnumber = {2227224},
-    mrreviewer = {David\ Nualart},
-    pages = {105--114},
-    publisher = {Chapman \& Hall/CRC, Boca Raton, FL},
-    series = {Lect. Notes Pure Appl. Math.},
-    title = {Two models of {K}41},
-    url = {https://doi.org/10.1201/9781420028720.ch11},
-    volume = {245},
-    year = {2006}
+     author        = {Flandoli, Franco},
+     booktitle     = {Stochastic partial differential equations and applications---{VII}},
+     doi           = {10.1201/9781420028720.ch11},
+     isbn          = {978-0-8247-0027-0; 0-8247-0027-9},
+     mrclass       = {60G60 (60H15)},
+     mrnumber      = {2227224},
+     mrreviewer    = {David\ Nualart},
+     pages         = {105--114},
+     publisher     = {Chapman \& Hall/CRC, Boca Raton, FL},
+     series        = {Lect. Notes Pure Appl. Math.},
+     title         = {Two models of {K}41},
+     url           = {https://doi.org/10.1201/9781420028720.ch11},
+     volume        = {245},
+     year          = {2006}
    }
-`The URL link to the source <ttps://doi.org/10.1201/9781420028720.ch11}>`_
+`The URL link to the source <https://doi.org/10.1201/9781420028720.ch11>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

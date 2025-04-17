@@ -8,18 +8,15 @@ rosenblatt:72:central
 .. code-block:: bibtex
 
    @inproceedings{rosenblatt:72:central,
-    author = {Rosenblatt, M.},
-    booktitle = {Proceedings of the {S}ixth {B}erkeley {S}ymposium on
-   {M}athematical {S}tatistics and {P}robability ({U}niv.
-   {C}alifornia, {B}erkeley, {C}alif., 1970/1971), {V}ol.
-   {II}: {P}robability theory},
-    mrclass = {60F05 (60G10)},
-    mrnumber = {402869},
-    mrreviewer = {T.-C. Sun},
-    pages = {551--561},
-    publisher = {Univ. California Press, Berkeley, CA},
-    title = {Central limit theorem for stationary processes},
-    year = {1972}
+     author        = {Rosenblatt, M.},
+     booktitle     = {Proceedings of the {S}ixth {B}erkeley {S}ymposium on {M}athematical {S}tatistics and {P}robability ({U}niv. {C}alifornia, {B}erkeley, {C}alif., 1970/1971), {V}ol. {II}: {P}robability theory},
+     mrclass       = {60F05 (60G10)},
+     mrnumber      = {402869},
+     mrreviewer    = {T.-C. Sun},
+     pages         = {551--561},
+     publisher     = {Univ. California Press, Berkeley, CA},
+     title         = {Central limit theorem for stationary processes},
+     year          = {1972}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

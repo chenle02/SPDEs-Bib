@@ -8,21 +8,20 @@ nica.quastel.ea:20:one-sided
 .. code-block:: bibtex
 
    @article{nica.quastel.ea:20:one-sided,
-    author = {Nica, Mihai and Quastel, Jeremy and Remenik, Daniel},
-    doi = {10.1017/fms.2020.56},
-    fjournal = {Forum of Mathematics. Sigma},
-    journal = {Forum Math. Sigma},
-    mrclass = {60K35 (82C43)},
-    mrnumber = {4190063},
-    mrreviewer = {Shuta Nakajima},
-    pages = {Paper No. e63, 16},
-    title = {One-sided reflected {B}rownian motions and the {KPZ} fixed
-   point},
-    url = {https://doi.org/10.1017/fms.2020.56},
-    volume = {8},
-    year = {2020}
+     author        = {Nica, Mihai and Quastel, Jeremy and Remenik, Daniel},
+     doi           = {10.1017/fms.2020.56},
+     fjournal      = {Forum of Mathematics. Sigma},
+     journal       = {Forum Math. Sigma},
+     mrclass       = {60K35 (82C43)},
+     mrnumber      = {4190063},
+     mrreviewer    = {Shuta Nakajima},
+     pages         = {Paper No. e63, 16},
+     title         = {One-sided reflected {B}rownian motions and the {KPZ} fixed point},
+     url           = {https://doi.org/10.1017/fms.2020.56},
+     volume        = {8},
+     year          = {2020}
    }
-`The URL link to the source <ttps://doi.org/10.1017/fms.2020.56}>`_
+`The URL link to the source <https://doi.org/10.1017/fms.2020.56>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

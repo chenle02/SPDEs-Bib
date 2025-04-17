@@ -8,21 +8,21 @@ simon:87:compact
 .. code-block:: bibtex
 
    @article{simon:87:compact,
-    author = {Simon, Jacques},
-    doi = {10.1007/BF01762360},
-    fjournal = {Annali di Matematica Pura ed Applicata. Serie Quarta},
-    issn = {0003-4622},
-    journal = {Ann. Mat. Pura Appl. (4)},
-    mrclass = {46E40 (46E30)},
-    mrnumber = {916688},
-    mrreviewer = {James Bell Cooper},
-    pages = {65--96},
-    title = {Compact sets in the space {$L^p(0,T;B)$}},
-    url = {https://doi.org/10.1007/BF01762360},
-    volume = {146},
-    year = {1987}
+     author        = {Simon, Jacques},
+     doi           = {10.1007/BF01762360},
+     fjournal      = {Annali di Matematica Pura ed Applicata. Serie Quarta},
+     issn          = {0003-4622},
+     journal       = {Ann. Mat. Pura Appl. (4)},
+     mrclass       = {46E40 (46E30)},
+     mrnumber      = {916688},
+     mrreviewer    = {James Bell Cooper},
+     pages         = {65--96},
+     title         = {Compact sets in the space {$L^p(0,T;B)$}},
+     url           = {https://doi.org/10.1007/BF01762360},
+     volume        = {146},
+     year          = {1987}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF01762360}>`_
+`The URL link to the source <https://doi.org/10.1007/BF01762360>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,15 +8,15 @@ driver.hu:96:on
 .. code-block:: bibtex
 
    @incollection{driver.hu:96:on,
-    author = {Driver, Bruce K. and Hu, Yaozhong},
-    booktitle = {Stochastic analysis and applications ({P}owys, 1995)},
-    mrclass = {58G11 (46E35 58G32 60H07 60J60)},
-    mrnumber = {1453132},
-    mrreviewer = {Elton Pei Hsu},
-    pages = {189--200},
-    publisher = {World Sci. Publ., River Edge, NJ},
-    title = {On heat kernel logarithmic {S}obolev inequalities},
-    year = {1996}
+     author        = {Driver, Bruce K. and Hu, Yaozhong},
+     booktitle     = {Stochastic analysis and applications ({P}owys, 1995)},
+     mrclass       = {58G11 (46E35 58G32 60H07 60J60)},
+     mrnumber      = {1453132},
+     mrreviewer    = {Elton Pei Hsu},
+     pages         = {189--200},
+     publisher     = {World Sci. Publ., River Edge, NJ},
+     title         = {On heat kernel logarithmic {S}obolev inequalities},
+     year          = {1996}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,24 +8,22 @@ oconnell.seppalainen.ea:14:geometric
 .. code-block:: bibtex
 
    @article{oconnell.seppalainen.ea:14:geometric,
-    author = {O'Connell, Neil and Sepp\"{a}l\"{a}inen, Timo and
-   Zygouras, Nikos},
-    doi = {10.1007/s00222-013-0485-9},
-    fjournal = {Inventiones Mathematicae},
-    issn = {0020-9910},
-    journal = {Invent. Math.},
-    mrclass = {33C15 (05E05 22E30 60B20 60K35)},
-    mrnumber = {3232009},
-    mrreviewer = {David Berm\'{u}dez},
-    number = {2},
-    pages = {361--416},
-    title = {Geometric {RSK} correspondence, {W}hittaker functions and
-   symmetrized random polymers},
-    url = {https://doi.org/10.1007/s00222-013-0485-9},
-    volume = {197},
-    year = {2014}
+     author        = {O'Connell, Neil and Sepp\"{a}l\"{a}inen, Timo and Zygouras, Nikos},
+     doi           = {10.1007/s00222-013-0485-9},
+     fjournal      = {Inventiones Mathematicae},
+     issn          = {0020-9910},
+     journal       = {Invent. Math.},
+     mrclass       = {33C15 (05E05 22E30 60B20 60K35)},
+     mrnumber      = {3232009},
+     mrreviewer    = {David Berm\'{u}dez},
+     number        = {2},
+     pages         = {361--416},
+     title         = {Geometric {RSK} correspondence, {W}hittaker functions and symmetrized random polymers},
+     url           = {https://doi.org/10.1007/s00222-013-0485-9},
+     volume        = {197},
+     year          = {2014}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00222-013-0485-9}>`_
+`The URL link to the source <https://doi.org/10.1007/s00222-013-0485-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

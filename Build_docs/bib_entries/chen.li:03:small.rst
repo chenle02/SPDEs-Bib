@@ -8,17 +8,17 @@ chen.li:03:small
 .. code-block:: bibtex
 
    @incollection{chen.li:03:small,
-    author = {Chen, Xia and Li, Wenbo V.},
-    booktitle = {High dimensional probability, {III} ({S}andjberg, 2002)},
-    mrclass = {60G60 (60F15 60G17)},
-    mrnumber = {2033891},
-    mrreviewer = {Alexander V. Bulinskiu{i}},
-    pages = {225--238},
-    publisher = {Birkh\"{a}user, Basel},
-    series = {Progr. Probab.},
-    title = {Small deviation estimates for some additive processes},
-    volume = {55},
-    year = {2003}
+     author        = {Chen, Xia and Li, Wenbo V.},
+     booktitle     = {High dimensional probability, {III} ({S}andjberg, 2002)},
+     mrclass       = {60G60 (60F15 60G17)},
+     mrnumber      = {2033891},
+     mrreviewer    = {Alexander V. Bulinskiu{i}},
+     pages         = {225--238},
+     publisher     = {Birkh\"{a}user, Basel},
+     series        = {Progr. Probab.},
+     title         = {Small deviation estimates for some additive processes},
+     volume        = {55},
+     year          = {2003}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

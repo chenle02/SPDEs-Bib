@@ -8,22 +8,21 @@ mikulevicius.rozovskii:99:martingale
 .. code-block:: bibtex
 
    @incollection{mikulevicius.rozovskii:99:martingale,
-    author = {Mikulevicius, R. and Rozovskii, B. L.},
-    booktitle = {Stochastic partial differential equations: six
-   perspectives},
-    doi = {10.1090/surv/064/06},
-    mrclass = {60H15 (35R60)},
-    mrnumber = {1661767},
-    mrreviewer = {Nicholas Frangos},
-    pages = {243--325},
-    publisher = {Amer. Math. Soc., Providence, RI},
-    series = {Math. Surveys Monogr.},
-    title = {Martingale problems for stochastic {PDE}'s},
-    url = {https://doi.org/10.1090/surv/064/06},
-    volume = {64},
-    year = {1999}
+     author        = {Mikulevicius, R. and Rozovskii, B. L.},
+     booktitle     = {Stochastic partial differential equations: six perspectives},
+     doi           = {10.1090/surv/064/06},
+     mrclass       = {60H15 (35R60)},
+     mrnumber      = {1661767},
+     mrreviewer    = {Nicholas Frangos},
+     pages         = {243--325},
+     publisher     = {Amer. Math. Soc., Providence, RI},
+     series        = {Math. Surveys Monogr.},
+     title         = {Martingale problems for stochastic {PDE}'s},
+     url           = {https://doi.org/10.1090/surv/064/06},
+     volume        = {64},
+     year          = {1999}
    }
-`The URL link to the source <ttps://doi.org/10.1090/surv/064/06}>`_
+`The URL link to the source <https://doi.org/10.1090/surv/064/06>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

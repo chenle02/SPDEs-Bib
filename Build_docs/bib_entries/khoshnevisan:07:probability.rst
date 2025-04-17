@@ -8,21 +8,21 @@ khoshnevisan:07:probability
 .. code-block:: bibtex
 
    @book{khoshnevisan:07:probability,
-    author = {Khoshnevisan, Davar},
-    doi = {10.1090/gsm/080},
-    isbn = {978-0-8218-4215-7; 0-8218-4215-3},
-    mrclass = {60-01 (60F05 60F15 60H05 60J65)},
-    mrnumber = {2296582},
-    mrreviewer = {Bogdan Iftimie},
-    pages = {xvi+224},
-    publisher = {American Mathematical Society, Providence, RI},
-    series = {Graduate Studies in Mathematics},
-    title = {Probability},
-    url = {https://doi.org/10.1090/gsm/080},
-    volume = {80},
-    year = {2007}
+     author        = {Khoshnevisan, Davar},
+     doi           = {10.1090/gsm/080},
+     isbn          = {978-0-8218-4215-7; 0-8218-4215-3},
+     mrclass       = {60-01 (60F05 60F15 60H05 60J65)},
+     mrnumber      = {2296582},
+     mrreviewer    = {Bogdan Iftimie},
+     pages         = {xvi+224},
+     publisher     = {American Mathematical Society, Providence, RI},
+     series        = {Graduate Studies in Mathematics},
+     title         = {Probability},
+     url           = {https://doi.org/10.1090/gsm/080},
+     volume        = {80},
+     year          = {2007}
    }
-`The URL link to the source <ttps://doi.org/10.1090/gsm/080}>`_
+`The URL link to the source <https://doi.org/10.1090/gsm/080>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

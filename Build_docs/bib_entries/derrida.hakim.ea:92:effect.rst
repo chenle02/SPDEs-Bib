@@ -8,22 +8,22 @@ derrida.hakim.ea:92:effect
 .. code-block:: bibtex
 
    @article{derrida.hakim.ea:92:effect,
-    author = {Derrida, B. and Hakim, V. and Vannimenus, J.},
-    doi = {10.1007/BF01054419},
-    fjournal = {Journal of Statistical Physics},
-    issn = {0022-4715,1572-9613},
-    journal = {J. Statist. Phys.},
-    mrclass = {82B24},
-    mrnumber = {1156401},
-    mrreviewer = {Klaus\ Ziegler},
-    number = {5-6},
-    pages = {1189--1213},
-    title = {Effect of disorder on two-dimensional wetting},
-    url = {https://doi.org/10.1007/BF01054419},
-    volume = {66},
-    year = {1992}
+     author        = {Derrida, B. and Hakim, V. and Vannimenus, J.},
+     doi           = {10.1007/BF01054419},
+     fjournal      = {Journal of Statistical Physics},
+     issn          = {0022-4715,1572-9613},
+     journal       = {J. Statist. Phys.},
+     mrclass       = {82B24},
+     mrnumber      = {1156401},
+     mrreviewer    = {Klaus\ Ziegler},
+     number        = {5-6},
+     pages         = {1189--1213},
+     title         = {Effect of disorder on two-dimensional wetting},
+     url           = {https://doi.org/10.1007/BF01054419},
+     volume        = {66},
+     year          = {1992}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF01054419}>`_
+`The URL link to the source <https://doi.org/10.1007/BF01054419>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

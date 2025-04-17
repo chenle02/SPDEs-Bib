@@ -8,20 +8,20 @@ kunita.watanabe:67:on
 .. code-block:: bibtex
 
    @article{kunita.watanabe:67:on,
-    author = {Kunita, Hiroshi and Watanabe, Shinzo},
-    fjournal = {Nagoya Mathematical Journal},
-    issn = {0027-7630},
-    journal = {Nagoya Math. J.},
-    mrclass = {60.40},
-    mrnumber = {217856},
-    mrreviewer = {F. B. Knight},
-    pages = {209--245},
-    title = {On square integrable martingales},
-    url = {http://projecteuclid.org/euclid.nmj/1118796812},
-    volume = {30},
-    year = {1967}
+     author        = {Kunita, Hiroshi and Watanabe, Shinzo},
+     fjournal      = {Nagoya Mathematical Journal},
+     issn          = {0027-7630},
+     journal       = {Nagoya Math. J.},
+     mrclass       = {60.40},
+     mrnumber      = {217856},
+     mrreviewer    = {F. B. Knight},
+     pages         = {209--245},
+     title         = {On square integrable martingales},
+     url           = {http://projecteuclid.org/euclid.nmj/1118796812},
+     volume        = {30},
+     year          = {1967}
    }
-`The URL link to the source <ttp://projecteuclid.org/euclid.nmj/1118796812}>`_
+`The URL link to the source <http://projecteuclid.org/euclid.nmj/1118796812>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

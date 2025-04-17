@@ -8,23 +8,21 @@ borodin.corwin.ea:19:correction
 .. code-block:: bibtex
 
    @article{borodin.corwin.ea:19:correction,
-    author = {Borodin, Alexei and Corwin, Ivan and Petrov, Leonid and
-   Sasamoto, Tomohiro},
-    doi = {10.1007/s00220-019-03528-y},
-    fjournal = {Communications in Mathematical Physics},
-    issn = {0010-3616},
-    journal = {Comm. Math. Phys.},
-    mrclass = {82B23 (81R12)},
-    mrnumber = {3995928},
-    number = {3},
-    pages = {1069--1072},
-    title = {Correction to: {S}pectral theory for interacting particle
-   systems solvable by coordinate {B}ethe ansatz},
-    url = {https://doi.org/10.1007/s00220-019-03528-y},
-    volume = {370},
-    year = {2019}
+     author        = {Borodin, Alexei and Corwin, Ivan and Petrov, Leonid and Sasamoto, Tomohiro},
+     doi           = {10.1007/s00220-019-03528-y},
+     fjournal      = {Communications in Mathematical Physics},
+     issn          = {0010-3616},
+     journal       = {Comm. Math. Phys.},
+     mrclass       = {82B23 (81R12)},
+     mrnumber      = {3995928},
+     number        = {3},
+     pages         = {1069--1072},
+     title         = {Correction to: {S}pectral theory for interacting particle systems solvable by coordinate {B}ethe ansatz},
+     url           = {https://doi.org/10.1007/s00220-019-03528-y},
+     volume        = {370},
+     year          = {2019}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00220-019-03528-y}>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-019-03528-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

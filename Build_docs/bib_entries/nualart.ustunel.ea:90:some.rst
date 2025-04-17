@@ -8,23 +8,22 @@ nualart.ustunel.ea:90:some
 .. code-block:: bibtex
 
    @article{nualart.ustunel.ea:90:some,
-    author = {Nualart, D. and \"{U}st\"{u}nel, A. S. and Zakai, M.},
-    doi = {10.1007/BF01377633},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60H05 (28C20 46G12 60H07)},
-    mrnumber = {1044304},
-    mrreviewer = {Ana Bela Cruzeiro},
-    number = {1},
-    pages = {119--129},
-    title = {Some relations among classes of {$\sigma$}-fields on
-   {W}iener space},
-    url = {https://doi.org/10.1007/BF01377633},
-    volume = {85},
-    year = {1990}
+     author        = {Nualart, D. and \"{U}st\"{u}nel, A. S. and Zakai, M.},
+     doi           = {10.1007/BF01377633},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60H05 (28C20 46G12 60H07)},
+     mrnumber      = {1044304},
+     mrreviewer    = {Ana Bela Cruzeiro},
+     number        = {1},
+     pages         = {119--129},
+     title         = {Some relations among classes of {$\sigma$}-fields on {W}iener space},
+     url           = {https://doi.org/10.1007/BF01377633},
+     volume        = {85},
+     year          = {1990}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF01377633}>`_
+`The URL link to the source <https://doi.org/10.1007/BF01377633>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

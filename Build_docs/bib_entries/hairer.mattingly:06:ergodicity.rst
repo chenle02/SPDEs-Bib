@@ -8,23 +8,22 @@ hairer.mattingly:06:ergodicity
 .. code-block:: bibtex
 
    @article{hairer.mattingly:06:ergodicity,
-    author = {Hairer, Martin and Mattingly, Jonathan C.},
-    doi = {10.4007/annals.2006.164.993},
-    fjournal = {Annals of Mathematics. Second Series},
-    issn = {0003-486X},
-    journal = {Ann. of Math. (2)},
-    mrclass = {37L55 (35Q30 35R60 60H15 76D05 76M35)},
-    mrnumber = {2259251},
-    mrreviewer = {Hakima Bessaih},
-    number = {3},
-    pages = {993--1032},
-    title = {Ergodicity of the 2{D} {N}avier-{S}tokes equations with
-   degenerate stochastic forcing},
-    url = {https://doi.org/10.4007/annals.2006.164.993},
-    volume = {164},
-    year = {2006}
+     author        = {Hairer, Martin and Mattingly, Jonathan C.},
+     doi           = {10.4007/annals.2006.164.993},
+     fjournal      = {Annals of Mathematics. Second Series},
+     issn          = {0003-486X},
+     journal       = {Ann. of Math. (2)},
+     mrclass       = {37L55 (35Q30 35R60 60H15 76D05 76M35)},
+     mrnumber      = {2259251},
+     mrreviewer    = {Hakima Bessaih},
+     number        = {3},
+     pages         = {993--1032},
+     title         = {Ergodicity of the 2{D} {N}avier-{S}tokes equations with degenerate stochastic forcing},
+     url           = {https://doi.org/10.4007/annals.2006.164.993},
+     volume        = {164},
+     year          = {2006}
    }
-`The URL link to the source <ttps://doi.org/10.4007/annals.2006.164.993}>`_
+`The URL link to the source <https://doi.org/10.4007/annals.2006.164.993>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

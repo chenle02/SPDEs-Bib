@@ -8,19 +8,17 @@ zel-dovich.molchanov.ea:88:intermittency
 .. code-block:: bibtex
 
    @incollection{zel-dovich.molchanov.ea:88:intermittency,
-    author = {Zel{\cprime}dovich, Ya. B. and Molchanov, S. A. and
-   Ruzmau{i}kin, A. A. and Sokoloff, D. D.},
-    booktitle = {Mathematical physics reviews, {V}ol. 7},
-    mrclass = {82C31 (60H15 60K99 76F99 76M35 82C44 82D30)},
-    mrnumber = {1128327},
-    mrreviewer = {A. Comtet},
-    pages = {3--110},
-    publisher = {Harwood Academic Publ., Chur},
-    series = {Soviet Sci. Rev. Sect. C: Math. Phys. Rev.},
-    title = {Intermittency, diffusion and generation in a nonstationary
-   random medium},
-    volume = {7},
-    year = {1988}
+     author        = {Zel{\cprime}dovich, Ya. B. and Molchanov, S. A. and Ruzmau{i}kin, A. A. and Sokoloff, D. D.},
+     booktitle     = {Mathematical physics reviews, {V}ol. 7},
+     mrclass       = {82C31 (60H15 60K99 76F99 76M35 82C44 82D30)},
+     mrnumber      = {1128327},
+     mrreviewer    = {A. Comtet},
+     pages         = {3--110},
+     publisher     = {Harwood Academic Publ., Chur},
+     series        = {Soviet Sci. Rev. Sect. C: Math. Phys. Rev.},
+     title         = {Intermittency, diffusion and generation in a nonstationary random medium},
+     volume        = {7},
+     year          = {1988}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

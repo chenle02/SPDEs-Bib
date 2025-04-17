@@ -8,23 +8,22 @@ beck.flandoli:13:regularity
 .. code-block:: bibtex
 
    @article{beck.flandoli:13:regularity,
-    author = {Beck, Lisa and Flandoli, Franco},
-    doi = {10.1007/s00028-013-0204-4},
-    fjournal = {Journal of Evolution Equations},
-    issn = {1424-3199,1424-3202},
-    journal = {J. Evol. Equ.},
-    mrclass = {35K51 (35B65 35D30 35K59 35R60 60H15 60H30)},
-    mrnumber = {3127027},
-    mrreviewer = {Alp\ O.\ Eden},
-    number = {4},
-    pages = {829--874},
-    title = {A regularity theorem for quasilinear parabolic systems
-   under random perturbations},
-    url = {https://doi.org/10.1007/s00028-013-0204-4},
-    volume = {13},
-    year = {2013}
+     author        = {Beck, Lisa and Flandoli, Franco},
+     doi           = {10.1007/s00028-013-0204-4},
+     fjournal      = {Journal of Evolution Equations},
+     issn          = {1424-3199,1424-3202},
+     journal       = {J. Evol. Equ.},
+     mrclass       = {35K51 (35B65 35D30 35K59 35R60 60H15 60H30)},
+     mrnumber      = {3127027},
+     mrreviewer    = {Alp\ O.\ Eden},
+     number        = {4},
+     pages         = {829--874},
+     title         = {A regularity theorem for quasilinear parabolic systems under random perturbations},
+     url           = {https://doi.org/10.1007/s00028-013-0204-4},
+     volume        = {13},
+     year          = {2013}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00028-013-0204-4}>`_
+`The URL link to the source <https://doi.org/10.1007/s00028-013-0204-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

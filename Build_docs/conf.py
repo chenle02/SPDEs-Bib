@@ -35,6 +35,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 html_theme = "press"
 
 html_static_path = ["_static"]
+html_baseurl = "https://chenle02.github.io/SPDEs-Bib/"
 html_theme_options = {
     "footer": "Le Chen (陈乐), Auburn University, le.chen@auburn.edu, chenle02@gmail.com"
 }

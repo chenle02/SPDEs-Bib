@@ -8,24 +8,22 @@ bellomo.winkler:17:degenerate
 .. code-block:: bibtex
 
    @article{bellomo.winkler:17:degenerate,
-    author = {Bellomo, Nicola and Winkler, Michael},
-    doi = {10.1080/03605302.2016.1277237},
-    fjournal = {Communications in Partial Differential Equations},
-    issn = {0360-5302},
-    journal = {Comm. Partial Differential Equations},
-    mrclass = {35M33 (35B07 35B44 35B45 35K59 35K65 35Q92 92C17)},
-    mrnumber = {3620894},
-    mrreviewer = {Youshan Tao},
-    number = {3},
-    pages = {436--473},
-    title = {A degenerate chemotaxis system with flux limitation:
-   maximally extended solutions and absence of gradient
-   blow-up},
-    url = {https://doi.org/10.1080/03605302.2016.1277237},
-    volume = {42},
-    year = {2017}
+     author        = {Bellomo, Nicola and Winkler, Michael},
+     doi           = {10.1080/03605302.2016.1277237},
+     fjournal      = {Communications in Partial Differential Equations},
+     issn          = {0360-5302},
+     journal       = {Comm. Partial Differential Equations},
+     mrclass       = {35M33 (35B07 35B44 35B45 35K59 35K65 35Q92 92C17)},
+     mrnumber      = {3620894},
+     mrreviewer    = {Youshan Tao},
+     number        = {3},
+     pages         = {436--473},
+     title         = {A degenerate chemotaxis system with flux limitation: maximally extended solutions and absence of gradient blow-up},
+     url           = {https://doi.org/10.1080/03605302.2016.1277237},
+     volume        = {42},
+     year          = {2017}
    }
-`The URL link to the source <ttps://doi.org/10.1080/03605302.2016.1277237}>`_
+`The URL link to the source <https://doi.org/10.1080/03605302.2016.1277237>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

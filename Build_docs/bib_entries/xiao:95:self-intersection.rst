@@ -8,21 +8,18 @@ xiao:95:self-intersection
 .. code-block:: bibtex
 
    @article{xiao:95:self-intersection,
-    author = {Xiao, Yi Min},
-    fjournal = {Chinese Annals of Mathematics. Series A. Shuxue Niankan. A
-   Ji},
-    issn = {1000-8314},
-    journal = {Chinese Ann. Math. Ser. A},
-    mrclass = {60J60 (60G60)},
-    mrnumber = {1338908},
-    mrreviewer = {Guang\ Lu\ Gong},
-    number = {1},
-    pages = {8--15},
-    title = {Self-intersection local times and dimensions of
-   {$k$}-multiple times of two-parameter
-   {O}rnstein-{U}hlenbeck processes},
-    volume = {16},
-    year = {1995}
+     author        = {Xiao, Yi Min},
+     fjournal      = {Chinese Annals of Mathematics. Series A. Shuxue Niankan. A Ji},
+     issn          = {1000-8314},
+     journal       = {Chinese Ann. Math. Ser. A},
+     mrclass       = {60J60 (60G60)},
+     mrnumber      = {1338908},
+     mrreviewer    = {Guang\ Lu\ Gong},
+     number        = {1},
+     pages         = {8--15},
+     title         = {Self-intersection local times and dimensions of {$k$}-multiple times of two-parameter {O}rnstein-{U}hlenbeck processes},
+     volume        = {16},
+     year          = {1995}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

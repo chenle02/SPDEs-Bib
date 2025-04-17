@@ -8,23 +8,22 @@ feireisl.laurencot.ea:96:global
 .. code-block:: bibtex
 
    @article{feireisl.laurencot.ea:96:global,
-    author = {Feireisl, E. and Lauren\c{c}ot, Ph. and Simondon, F.},
-    doi = {10.1006/jdeq.1996.0117},
-    fjournal = {Journal of Differential Equations},
-    issn = {0022-0396},
-    journal = {J. Differential Equations},
-    mrclass = {35K65 (35B40 35K55)},
-    mrnumber = {1404383},
-    mrreviewer = {Daniel \v{S}ev\v{c}ovi\v{c}},
-    number = {2},
-    pages = {239--261},
-    title = {Global attractors for degenerate parabolic equations on
-   unbounded domains},
-    url = {https://doi.org/10.1006/jdeq.1996.0117},
-    volume = {129},
-    year = {1996}
+     author        = {Feireisl, E. and Lauren\c{c}ot, Ph. and Simondon, F.},
+     doi           = {10.1006/jdeq.1996.0117},
+     fjournal      = {Journal of Differential Equations},
+     issn          = {0022-0396},
+     journal       = {J. Differential Equations},
+     mrclass       = {35K65 (35B40 35K55)},
+     mrnumber      = {1404383},
+     mrreviewer    = {Daniel \v{S}ev\v{c}ovi\v{c}},
+     number        = {2},
+     pages         = {239--261},
+     title         = {Global attractors for degenerate parabolic equations on unbounded domains},
+     url           = {https://doi.org/10.1006/jdeq.1996.0117},
+     volume        = {129},
+     year          = {1996}
    }
-`The URL link to the source <ttps://doi.org/10.1006/jdeq.1996.0117}>`_
+`The URL link to the source <https://doi.org/10.1006/jdeq.1996.0117>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

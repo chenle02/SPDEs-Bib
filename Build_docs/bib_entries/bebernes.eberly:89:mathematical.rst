@@ -8,21 +8,21 @@ bebernes.eberly:89:mathematical
 .. code-block:: bibtex
 
    @book{bebernes.eberly:89:mathematical,
-    author = {Bebernes, Jerrold and Eberly, David},
-    doi = {10.1007/978-1-4612-4546-9},
-    isbn = {0-387-97104-1},
-    mrclass = {35Qxx (35K57 76N99 80A25)},
-    mrnumber = {1012946},
-    mrreviewer = {P. Szeptycki},
-    pages = {viii+177},
-    publisher = {Springer-Verlag, New York},
-    series = {Applied Mathematical Sciences},
-    title = {Mathematical problems from combustion theory},
-    url = {https://doi.org/10.1007/978-1-4612-4546-9},
-    volume = {83},
-    year = {1989}
+     author        = {Bebernes, Jerrold and Eberly, David},
+     doi           = {10.1007/978-1-4612-4546-9},
+     isbn          = {0-387-97104-1},
+     mrclass       = {35Qxx (35K57 76N99 80A25)},
+     mrnumber      = {1012946},
+     mrreviewer    = {P. Szeptycki},
+     pages         = {viii+177},
+     publisher     = {Springer-Verlag, New York},
+     series        = {Applied Mathematical Sciences},
+     title         = {Mathematical problems from combustion theory},
+     url           = {https://doi.org/10.1007/978-1-4612-4546-9},
+     volume        = {83},
+     year          = {1989}
    }
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4612-4546-9}>`_
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-4546-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,23 +8,22 @@ hu:97:ito-wiener
 .. code-block:: bibtex
 
    @article{hu:97:ito-wiener,
-    author = {Hu, Yaozhong},
-    doi = {10.1023/A:1022654314791},
-    fjournal = {Journal of Theoretical Probability},
-    issn = {0894-9840},
-    journal = {J. Theoret. Probab.},
-    mrclass = {60H10 (60E15 60G15 60J60)},
-    mrnumber = {1481650},
-    mrreviewer = {Christian Houdr\'{e}},
-    number = {4},
-    pages = {835--848},
-    title = {It\^{o}-{W}iener chaos expansion with exact residual and
-   correlation, variance inequalities},
-    url = {https://doi.org/10.1023/A:1022654314791},
-    volume = {10},
-    year = {1997}
+     author        = {Hu, Yaozhong},
+     doi           = {10.1023/A:1022654314791},
+     fjournal      = {Journal of Theoretical Probability},
+     issn          = {0894-9840},
+     journal       = {J. Theoret. Probab.},
+     mrclass       = {60H10 (60E15 60G15 60J60)},
+     mrnumber      = {1481650},
+     mrreviewer    = {Christian Houdr\'{e}},
+     number        = {4},
+     pages         = {835--848},
+     title         = {It\^{o}-{W}iener chaos expansion with exact residual and correlation, variance inequalities},
+     url           = {https://doi.org/10.1023/A:1022654314791},
+     volume        = {10},
+     year          = {1997}
    }
-`The URL link to the source <ttps://doi.org/10.1023/A:1022654314791}>`_
+`The URL link to the source <https://doi.org/10.1023/A:1022654314791>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,21 +8,21 @@ mariani.zambotti:14:renewal
 .. code-block:: bibtex
 
    @article{mariani.zambotti:14:renewal,
-    author = {Mariani, Mauro and Zambotti, Lorenzo},
-    doi = {10.1214/ECP.v19-3325},
-    fjournal = {Electronic Communications in Probability},
-    issn = {1083-589X},
-    journal = {Electron. Commun. Probab.},
-    mrclass = {60K05 (60F10 60G20)},
-    mrnumber = {3269169},
-    mrreviewer = {E.\ Omey},
-    pages = {no. 69, 13},
-    title = {A renewal version of the {S}anov theorem},
-    url = {https://doi.org/10.1214/ECP.v19-3325},
-    volume = {19},
-    year = {2014}
+     author        = {Mariani, Mauro and Zambotti, Lorenzo},
+     doi           = {10.1214/ECP.v19-3325},
+     fjournal      = {Electronic Communications in Probability},
+     issn          = {1083-589X},
+     journal       = {Electron. Commun. Probab.},
+     mrclass       = {60K05 (60F10 60G20)},
+     mrnumber      = {3269169},
+     mrreviewer    = {E.\ Omey},
+     pages         = {no. 69, 13},
+     title         = {A renewal version of the {S}anov theorem},
+     url           = {https://doi.org/10.1214/ECP.v19-3325},
+     volume        = {19},
+     year          = {2014}
    }
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v19-3325}>`_
+`The URL link to the source <https://doi.org/10.1214/ECP.v19-3325>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,19 +8,18 @@ zabczyk:83:stationary
 .. code-block:: bibtex
 
    @article{zabczyk:83:stationary,
-    author = {Zabczyk, Jerzy},
-    fjournal = {Bulletin of the Polish Academy of Sciences. Mathematics},
-    issn = {0239-7269},
-    journal = {Bull. Polish Acad. Sci. Math.},
-    mrclass = {60H10 (60G10)},
-    mrnumber = {742808},
-    mrreviewer = {Ludwig\ Arnold},
-    number = {3-4},
-    pages = {197--209},
-    title = {Stationary distribution for linear equations driven by
-   general noise},
-    volume = {31},
-    year = {1983}
+     author        = {Zabczyk, Jerzy},
+     fjournal      = {Bulletin of the Polish Academy of Sciences. Mathematics},
+     issn          = {0239-7269},
+     journal       = {Bull. Polish Acad. Sci. Math.},
+     mrclass       = {60H10 (60G10)},
+     mrnumber      = {742808},
+     mrreviewer    = {Ludwig\ Arnold},
+     number        = {3-4},
+     pages         = {197--209},
+     title         = {Stationary distribution for linear equations driven by general noise},
+     volume        = {31},
+     year          = {1983}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

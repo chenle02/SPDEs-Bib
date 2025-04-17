@@ -8,22 +8,22 @@ buzzi.zambotti:12:approximate
 .. code-block:: bibtex
 
    @article{buzzi.zambotti:12:approximate,
-    author = {Buzzi, J. and Zambotti, L.},
-    doi = {10.1007/s00440-011-0350-y},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051,1432-2064},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {94A17 (60C05 92C99)},
-    mrnumber = {2948682},
-    mrreviewer = {Oliver\ Johnson},
-    number = {3-4},
-    pages = {421--440},
-    title = {Approximate maximizers of intricacy functionals},
-    url = {https://doi.org/10.1007/s00440-011-0350-y},
-    volume = {153},
-    year = {2012}
+     author        = {Buzzi, J. and Zambotti, L.},
+     doi           = {10.1007/s00440-011-0350-y},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051,1432-2064},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {94A17 (60C05 92C99)},
+     mrnumber      = {2948682},
+     mrreviewer    = {Oliver\ Johnson},
+     number        = {3-4},
+     pages         = {421--440},
+     title         = {Approximate maximizers of intricacy functionals},
+     url           = {https://doi.org/10.1007/s00440-011-0350-y},
+     volume        = {153},
+     year          = {2012}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00440-011-0350-y}>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-011-0350-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

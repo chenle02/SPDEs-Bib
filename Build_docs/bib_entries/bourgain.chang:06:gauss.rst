@@ -8,23 +8,22 @@ bourgain.chang:06:gauss
 .. code-block:: bibtex
 
    @article{bourgain.chang:06:gauss,
-    author = {Bourgain, Jean and Chang, Mei-Chu},
-    doi = {10.1016/j.crma.2006.01.022},
-    fjournal = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des
-   Sciences. Paris},
-    issn = {1631-073X,1778-3569},
-    journal = {C. R. Math. Acad. Sci. Paris},
-    mrclass = {11T24},
-    mrnumber = {2225868},
-    mrreviewer = {Sergeu{i}\ V.\ Konyagin},
-    number = {9},
-    pages = {643--646},
-    title = {A {G}auss sum estimate in arbitrary finite fields},
-    url = {https://doi.org/10.1016/j.crma.2006.01.022},
-    volume = {342},
-    year = {2006}
+     author        = {Bourgain, Jean and Chang, Mei-Chu},
+     doi           = {10.1016/j.crma.2006.01.022},
+     fjournal      = {Comptes Rendus Math\'{e}matique. Acad\'{e}mie des Sciences. Paris},
+     issn          = {1631-073X,1778-3569},
+     journal       = {C. R. Math. Acad. Sci. Paris},
+     mrclass       = {11T24},
+     mrnumber      = {2225868},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
+     number        = {9},
+     pages         = {643--646},
+     title         = {A {G}auss sum estimate in arbitrary finite fields},
+     url           = {https://doi.org/10.1016/j.crma.2006.01.022},
+     volume        = {342},
+     year          = {2006}
    }
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2006.01.022}>`_
+`The URL link to the source <https://doi.org/10.1016/j.crma.2006.01.022>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

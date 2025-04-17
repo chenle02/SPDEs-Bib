@@ -8,23 +8,22 @@ cerrai.salins:14:smoluchowski-kramers
 .. code-block:: bibtex
 
    @article{cerrai.salins:14:smoluchowski-kramers,
-    author = {Cerrai, Sandra and Salins, Michael},
-    doi = {10.3233/asy-141220},
-    fjournal = {Asymptotic Analysis},
-    issn = {0921-7134},
-    journal = {Asymptot. Anal.},
-    mrclass = {35R60 (35B25 35K20 35K59 35L20 35L71 60F10 60H15)},
-    mrnumber = {3245077},
-    mrreviewer = {Isamu D\^{o}ku},
-    number = {4},
-    pages = {201--215},
-    title = {Smoluchowski-{K}ramers approximation and large deviations
-   for infinite dimensional gradient systems},
-    url = {https://doi.org/10.3233/asy-141220},
-    volume = {88},
-    year = {2014}
+     author        = {Cerrai, Sandra and Salins, Michael},
+     doi           = {10.3233/asy-141220},
+     fjournal      = {Asymptotic Analysis},
+     issn          = {0921-7134},
+     journal       = {Asymptot. Anal.},
+     mrclass       = {35R60 (35B25 35K20 35K59 35L20 35L71 60F10 60H15)},
+     mrnumber      = {3245077},
+     mrreviewer    = {Isamu D\^{o}ku},
+     number        = {4},
+     pages         = {201--215},
+     title         = {Smoluchowski-{K}ramers approximation and large deviations for infinite dimensional gradient systems},
+     url           = {https://doi.org/10.3233/asy-141220},
+     volume        = {88},
+     year          = {2014}
    }
-`The URL link to the source <ttps://doi.org/10.3233/asy-141220}>`_
+`The URL link to the source <https://doi.org/10.3233/asy-141220>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

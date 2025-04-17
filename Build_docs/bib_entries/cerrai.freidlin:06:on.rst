@@ -8,23 +8,22 @@ cerrai.freidlin:06:on
 .. code-block:: bibtex
 
    @article{cerrai.freidlin:06:on,
-    author = {Cerrai, Sandra and Freidlin, Mark},
-    doi = {10.1007/s00440-005-0465-0},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60H15 (35K20 35R60)},
-    mrnumber = {2240691},
-    mrreviewer = {Martin Ondrej\'{a}t},
-    number = {3},
-    pages = {363--394},
-    title = {On the {S}moluchowski-{K}ramers approximation for a system
-   with an infinite number of degrees of freedom},
-    url = {https://doi.org/10.1007/s00440-005-0465-0},
-    volume = {135},
-    year = {2006}
+     author        = {Cerrai, Sandra and Freidlin, Mark},
+     doi           = {10.1007/s00440-005-0465-0},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60H15 (35K20 35R60)},
+     mrnumber      = {2240691},
+     mrreviewer    = {Martin Ondrej\'{a}t},
+     number        = {3},
+     pages         = {363--394},
+     title         = {On the {S}moluchowski-{K}ramers approximation for a system with an infinite number of degrees of freedom},
+     url           = {https://doi.org/10.1007/s00440-005-0465-0},
+     volume        = {135},
+     year          = {2006}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00440-005-0465-0}>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-005-0465-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

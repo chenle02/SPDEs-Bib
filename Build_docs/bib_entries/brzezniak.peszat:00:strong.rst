@@ -8,19 +8,17 @@ brzezniak.peszat:00:strong
 .. code-block:: bibtex
 
    @incollection{brzezniak.peszat:00:strong,
-    author = {Brze\'{z}niak, Zdzis{\l}aw and Peszat, Szymon},
-    booktitle = {Infinite dimensional stochastic analysis ({A}msterdam,
-   1999)},
-    mrclass = {76D03 (35Q30 35R60 60H15 76D06)},
-    mrnumber = {1831412},
-    mrreviewer = {Hongjun Gao},
-    pages = {85--98},
-    publisher = {R. Neth. Acad. Arts Sci., Amsterdam},
-    series = {Verh. Afd. Natuurkd. 1. Reeks. K. Ned. Akad. Wet.},
-    title = {Strong local and global solutions for stochastic
-   {N}avier-{S}tokes equations},
-    volume = {52},
-    year = {2000}
+     author        = {Brze\'{z}niak, Zdzis{\l}aw and Peszat, Szymon},
+     booktitle     = {Infinite dimensional stochastic analysis ({A}msterdam, 1999)},
+     mrclass       = {76D03 (35Q30 35R60 60H15 76D06)},
+     mrnumber      = {1831412},
+     mrreviewer    = {Hongjun Gao},
+     pages         = {85--98},
+     publisher     = {R. Neth. Acad. Arts Sci., Amsterdam},
+     series        = {Verh. Afd. Natuurkd. 1. Reeks. K. Ned. Akad. Wet.},
+     title         = {Strong local and global solutions for stochastic {N}avier-{S}tokes equations},
+     volume        = {52},
+     year          = {2000}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

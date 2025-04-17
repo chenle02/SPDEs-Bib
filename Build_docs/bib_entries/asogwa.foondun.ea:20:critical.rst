@@ -8,24 +8,22 @@ asogwa.foondun.ea:20:critical
 .. code-block:: bibtex
 
    @article{asogwa.foondun.ea:20:critical,
-    author = {Asogwa, Sunday A. and Foondun, Mohammud and Mijena,
-   Jebessa B. and Nane, Erkan},
-    doi = {10.1007/s00030-020-00629-9},
-    fjournal = {NoDEA. Nonlinear Differential Equations and Applications},
-    issn = {1021-9722},
-    journal = {NoDEA Nonlinear Differential Equations Appl.},
-    mrclass = {35R11 (35B33 35B44)},
-    mrnumber = {4098150},
-    mrreviewer = {Milton dos Santos Ferreira},
-    number = {3},
-    pages = {Paper No. 30, 22},
-    title = {Critical parameters for reaction-diffusion equations
-   involving space-time fractional derivatives},
-    url = {https://doi.org/10.1007/s00030-020-00629-9},
-    volume = {27},
-    year = {2020}
+     author        = {Asogwa, Sunday A. and Foondun, Mohammud and Mijena, Jebessa B. and Nane, Erkan},
+     doi           = {10.1007/s00030-020-00629-9},
+     fjournal      = {NoDEA. Nonlinear Differential Equations and Applications},
+     issn          = {1021-9722},
+     journal       = {NoDEA Nonlinear Differential Equations Appl.},
+     mrclass       = {35R11 (35B33 35B44)},
+     mrnumber      = {4098150},
+     mrreviewer    = {Milton dos Santos Ferreira},
+     number        = {3},
+     pages         = {Paper No. 30, 22},
+     title         = {Critical parameters for reaction-diffusion equations involving space-time fractional derivatives},
+     url           = {https://doi.org/10.1007/s00030-020-00629-9},
+     volume        = {27},
+     year          = {2020}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00030-020-00629-9}>`_
+`The URL link to the source <https://doi.org/10.1007/s00030-020-00629-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

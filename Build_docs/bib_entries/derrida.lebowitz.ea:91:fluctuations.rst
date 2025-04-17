@@ -8,22 +8,21 @@ derrida.lebowitz.ea:91:fluctuations
 .. code-block:: bibtex
 
    @article{derrida.lebowitz.ea:91:fluctuations,
-    author = {Derrida, B. and Lebowitz, J. L. and Speer, E. R. and
-   Spohn, H.},
-    doi = {10.1103/PhysRevLett.67.165},
-    fjournal = {Physical Review Letters},
-    issn = {0031-9007},
-    journal = {Phys. Rev. Lett.},
-    mrclass = {82B24 (82C24)},
-    mrnumber = {1113639},
-    number = {2},
-    pages = {165--168},
-    title = {Fluctuations of a stationary nonequilibrium interface},
-    url = {https://doi.org/10.1103/PhysRevLett.67.165},
-    volume = {67},
-    year = {1991}
+     author        = {Derrida, B. and Lebowitz, J. L. and Speer, E. R. and Spohn, H.},
+     doi           = {10.1103/PhysRevLett.67.165},
+     fjournal      = {Physical Review Letters},
+     issn          = {0031-9007},
+     journal       = {Phys. Rev. Lett.},
+     mrclass       = {82B24 (82C24)},
+     mrnumber      = {1113639},
+     number        = {2},
+     pages         = {165--168},
+     title         = {Fluctuations of a stationary nonequilibrium interface},
+     url           = {https://doi.org/10.1103/PhysRevLett.67.165},
+     volume        = {67},
+     year          = {1991}
    }
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevLett.67.165}>`_
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.67.165>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

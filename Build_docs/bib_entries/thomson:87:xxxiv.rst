@@ -8,22 +8,19 @@ thomson:87:xxxiv
 .. code-block:: bibtex
 
    @article{thomson:87:xxxiv,
-    author = {William Thomson},
-    doi = {10.1080/14786448708628094},
-    eprint = {https://doi.org/10.1080/14786448708628094},
-    journal = {The London, Edinburgh, and Dublin Philosophical Magazine
-   and Journal of Science},
-    number = {148},
-    pages = {272--278},
-    publisher = {Taylor \& Francis},
-    title = {XXXIV. Stability of motion (continued from the May, June,
-   and August Numbers).--Broad river flowing down an inclined
-   plane bed},
-    url = {https://doi.org/10.1080/14786448708628094},
-    volume = {24},
-    year = {1887}
+     author        = {William Thomson},
+     doi           = {10.1080/14786448708628094},
+     eprint        = {https://doi.org/10.1080/14786448708628094},
+     journal       = {The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science},
+     number        = {148},
+     pages         = {272--278},
+     publisher     = {Taylor \& Francis},
+     title         = {XXXIV. Stability of motion (continued from the May, June, and August Numbers).--Broad river flowing down an inclined plane bed},
+     url           = {https://doi.org/10.1080/14786448708628094},
+     volume        = {24},
+     year          = {1887}
    }
-`The URL link to the source <ttps://doi.org/10.1080/14786448708628094}>`_
+`The URL link to the source <https://doi.org/10.1080/14786448708628094>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

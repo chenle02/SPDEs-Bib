@@ -8,21 +8,19 @@ cuneo.eckmann.ea:18:non-equilibrium
 .. code-block:: bibtex
 
    @article{cuneo.eckmann.ea:18:non-equilibrium,
-    author = {Cuneo, No\'{e} and Eckmann, Jean-Pierre and Hairer, Martin
-   and Rey-Bellet, Luc},
-    doi = {10.1214/18-ejp177},
-    fjournal = {Electronic Journal of Probability},
-    journal = {Electron. J. Probab.},
-    mrclass = {82C05 (34C15 60B10 60H10)},
-    mrnumber = {3814249},
-    pages = {Paper No. 55, 28,},
-    title = {Non-equilibrium steady states for networks of
-   oscillators},
-    url = {https://doi.org/10.1214/18-ejp177},
-    volume = {23},
-    year = {2018}
+     author        = {Cuneo, No\'{e} and Eckmann, Jean-Pierre and Hairer, Martin and Rey-Bellet, Luc},
+     doi           = {10.1214/18-ejp177},
+     fjournal      = {Electronic Journal of Probability},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {82C05 (34C15 60B10 60H10)},
+     mrnumber      = {3814249},
+     pages         = {Paper No. 55, 28,},
+     title         = {Non-equilibrium steady states for networks of oscillators},
+     url           = {https://doi.org/10.1214/18-ejp177},
+     volume        = {23},
+     year          = {2018}
    }
-`The URL link to the source <ttps://doi.org/10.1214/18-ejp177}>`_
+`The URL link to the source <https://doi.org/10.1214/18-ejp177>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

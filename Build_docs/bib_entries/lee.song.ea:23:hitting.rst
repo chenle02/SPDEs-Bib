@@ -8,23 +8,21 @@ lee.song.ea:23:hitting
 .. code-block:: bibtex
 
    @article{lee.song.ea:23:hitting,
-    author = {Lee, Cheuk Yin and Song, Jian and Xiao, Yimin and Yuan,
-   Wangjun},
-    doi = {10.1090/tran/8895},
-    fjournal = {Transactions of the American Mathematical Society},
-    issn = {0002-9947,1088-6850},
-    journal = {Trans. Amer. Math. Soc.},
-    mrclass = {60G15 (60B20 60G17 60G22 60G60)},
-    mrnumber = {4586811},
-    number = {6},
-    pages = {4273--4299},
-    title = {Hitting probabilities of {G}aussian random fields and
-   collision of eigenvalues of random matrices},
-    url = {https://doi.org/10.1090/tran/8895},
-    volume = {376},
-    year = {2023}
+     author        = {Lee, Cheuk Yin and Song, Jian and Xiao, Yimin and Yuan, Wangjun},
+     doi           = {10.1090/tran/8895},
+     fjournal      = {Transactions of the American Mathematical Society},
+     issn          = {0002-9947,1088-6850},
+     journal       = {Trans. Amer. Math. Soc.},
+     mrclass       = {60G15 (60B20 60G17 60G22 60G60)},
+     mrnumber      = {4586811},
+     number        = {6},
+     pages         = {4273--4299},
+     title         = {Hitting probabilities of {G}aussian random fields and collision of eigenvalues of random matrices},
+     url           = {https://doi.org/10.1090/tran/8895},
+     volume        = {376},
+     year          = {2023}
    }
-`The URL link to the source <ttps://doi.org/10.1090/tran/8895}>`_
+`The URL link to the source <https://doi.org/10.1090/tran/8895>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,24 +8,22 @@ ramirez.rider.ea:11:beta
 .. code-block:: bibtex
 
    @article{ramirez.rider.ea:11:beta,
-    author = {Ram\'{i}rez, Jos\'{e} A. and Rider, Brian and Vir\'{a}g,
-   B\'{a}lint},
-    doi = {10.1090/S0894-0347-2011-00703-0},
-    fjournal = {Journal of the American Mathematical Society},
-    issn = {0894-0347},
-    journal = {J. Amer. Math. Soc.},
-    mrclass = {60B20 (60F05 60H25)},
-    mrnumber = {2813333},
-    mrreviewer = {Guangyu Yang},
-    number = {4},
-    pages = {919--944},
-    title = {Beta ensembles, stochastic {A}iry spectrum, and a
-   diffusion},
-    url = {https://doi.org/10.1090/S0894-0347-2011-00703-0},
-    volume = {24},
-    year = {2011}
+     author        = {Ram\'{i}rez, Jos\'{e} A. and Rider, Brian and Vir\'{a}g, B\'{a}lint},
+     doi           = {10.1090/S0894-0347-2011-00703-0},
+     fjournal      = {Journal of the American Mathematical Society},
+     issn          = {0894-0347},
+     journal       = {J. Amer. Math. Soc.},
+     mrclass       = {60B20 (60F05 60H25)},
+     mrnumber      = {2813333},
+     mrreviewer    = {Guangyu Yang},
+     number        = {4},
+     pages         = {919--944},
+     title         = {Beta ensembles, stochastic {A}iry spectrum, and a diffusion},
+     url           = {https://doi.org/10.1090/S0894-0347-2011-00703-0},
+     volume        = {24},
+     year          = {2011}
    }
-`The URL link to the source <ttps://doi.org/10.1090/S0894-0347-2011-00703-0}>`_
+`The URL link to the source <https://doi.org/10.1090/S0894-0347-2011-00703-0>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

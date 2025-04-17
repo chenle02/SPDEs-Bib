@@ -8,22 +8,22 @@ bourgain.rudnick:11:on*1
 .. code-block:: bibtex
 
    @article{bourgain.rudnick:11:on*1,
-    author = {Bourgain, Jean and Rudnick, Ze\'{e}v},
-    doi = {10.1007/s00222-010-0307-2},
-    fjournal = {Inventiones Mathematicae},
-    issn = {0020-9910,1432-1297},
-    journal = {Invent. Math.},
-    mrclass = {58J51 (11P21)},
-    mrnumber = {2810800},
-    mrreviewer = {Igor\ Wigman},
-    number = {1},
-    pages = {199--237},
-    title = {On the nodal sets of toral eigenfunctions},
-    url = {https://doi.org/10.1007/s00222-010-0307-2},
-    volume = {185},
-    year = {2011}
+     author        = {Bourgain, Jean and Rudnick, Ze\'{e}v},
+     doi           = {10.1007/s00222-010-0307-2},
+     fjournal      = {Inventiones Mathematicae},
+     issn          = {0020-9910,1432-1297},
+     journal       = {Invent. Math.},
+     mrclass       = {58J51 (11P21)},
+     mrnumber      = {2810800},
+     mrreviewer    = {Igor\ Wigman},
+     number        = {1},
+     pages         = {199--237},
+     title         = {On the nodal sets of toral eigenfunctions},
+     url           = {https://doi.org/10.1007/s00222-010-0307-2},
+     volume        = {185},
+     year          = {2011}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00222-010-0307-2}>`_
+`The URL link to the source <https://doi.org/10.1007/s00222-010-0307-2>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

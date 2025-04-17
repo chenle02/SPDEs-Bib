@@ -8,22 +8,20 @@ yokota.yoshino:15:existence
 .. code-block:: bibtex
 
    @article{yokota.yoshino:15:existence,
-    author = {Yokota, Tomomi and Yoshino, Noriaki},
-    doi = {10.3934/proc.2015.1125},
-    fjournal = {Discrete and Continuous Dynamical Systems. Series A},
-    issn = {1078-0947},
-    journal = {Discrete Contin. Dyn. Syst.},
-    mrclass = {92C17 (35D30 35M33 35Q92)},
-    mrnumber = {3462549},
-    number = {Dynamical systems, differential equations and
-   applications. 10th AIMS Conference. Suppl.},
-    pages = {1125--1133},
-    title = {Existence of solutions to chemotaxis dynamics with
-   logistic source},
-    url = {https://doi.org/10.3934/proc.2015.1125},
-    year = {2015}
+     author        = {Yokota, Tomomi and Yoshino, Noriaki},
+     doi           = {10.3934/proc.2015.1125},
+     fjournal      = {Discrete and Continuous Dynamical Systems. Series A},
+     issn          = {1078-0947},
+     journal       = {Discrete Contin. Dyn. Syst.},
+     mrclass       = {92C17 (35D30 35M33 35Q92)},
+     mrnumber      = {3462549},
+     number        = {Dynamical systems, differential equations and applications. 10th AIMS Conference. Suppl.},
+     pages         = {1125--1133},
+     title         = {Existence of solutions to chemotaxis dynamics with logistic source},
+     url           = {https://doi.org/10.3934/proc.2015.1125},
+     year          = {2015}
    }
-`The URL link to the source <ttps://doi.org/10.3934/proc.2015.1125}>`_
+`The URL link to the source <https://doi.org/10.3934/proc.2015.1125>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

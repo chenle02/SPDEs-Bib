@@ -8,24 +8,22 @@ lawley.mattingly.ea:14:sensitivity
 .. code-block:: bibtex
 
    @article{lawley.mattingly.ea:14:sensitivity,
-    author = {Lawley, Sean D. and Mattingly, Jonathan C. and Reed,
-   Michael C.},
-    doi = {10.4310/CMS.2014.v12.n7.a9},
-    fjournal = {Communications in Mathematical Sciences},
-    issn = {1539-6746,1945-0796},
-    journal = {Commun. Math. Sci.},
-    mrclass = {60J75 (37H15 60J27 93E15)},
-    mrnumber = {3210750},
-    mrreviewer = {Yuhong\ Li},
-    number = {7},
-    pages = {1343--1352},
-    title = {Sensitivity to switching rates in stochastically switched
-   {ODE}s},
-    url = {https://doi.org/10.4310/CMS.2014.v12.n7.a9},
-    volume = {12},
-    year = {2014}
+     author        = {Lawley, Sean D. and Mattingly, Jonathan C. and Reed, Michael C.},
+     doi           = {10.4310/CMS.2014.v12.n7.a9},
+     fjournal      = {Communications in Mathematical Sciences},
+     issn          = {1539-6746,1945-0796},
+     journal       = {Commun. Math. Sci.},
+     mrclass       = {60J75 (37H15 60J27 93E15)},
+     mrnumber      = {3210750},
+     mrreviewer    = {Yuhong\ Li},
+     number        = {7},
+     pages         = {1343--1352},
+     title         = {Sensitivity to switching rates in stochastically switched {ODE}s},
+     url           = {https://doi.org/10.4310/CMS.2014.v12.n7.a9},
+     volume        = {12},
+     year          = {2014}
    }
-`The URL link to the source <ttps://doi.org/10.4310/CMS.2014.v12.n7.a9}>`_
+`The URL link to the source <https://doi.org/10.4310/CMS.2014.v12.n7.a9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

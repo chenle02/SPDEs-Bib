@@ -8,25 +8,22 @@ flandoli.la-fauci.ea:21:individual-based
 .. code-block:: bibtex
 
    @article{flandoli.la-fauci.ea:21:individual-based,
-    author = {Flandoli, Franco and La Fauci, Eleonora and Riva,
-   Martina},
-    doi = {10.1142/S0218202521500226},
-    fjournal = {Mathematical Models and Methods in Applied Sciences},
-    issn = {0218-2025,1793-6314},
-    journal = {Math. Models Methods Appl. Sci.},
-    mrclass = {92C60 (60J20 92D30)},
-    mrnumber = {4275807},
-    mrreviewer = {Hamid\ Pezeshk},
-    number = {5},
-    pages = {907--939},
-    title = {Individual-based {M}arkov model of virus diffusion:
-   comparison with {COVID}-19 incubation period, serial
-   interval and regional time series},
-    url = {https://doi.org/10.1142/S0218202521500226},
-    volume = {31},
-    year = {2021}
+     author        = {Flandoli, Franco and La Fauci, Eleonora and Riva, Martina},
+     doi           = {10.1142/S0218202521500226},
+     fjournal      = {Mathematical Models and Methods in Applied Sciences},
+     issn          = {0218-2025,1793-6314},
+     journal       = {Math. Models Methods Appl. Sci.},
+     mrclass       = {92C60 (60J20 92D30)},
+     mrnumber      = {4275807},
+     mrreviewer    = {Hamid\ Pezeshk},
+     number        = {5},
+     pages         = {907--939},
+     title         = {Individual-based {M}arkov model of virus diffusion: comparison with {COVID}-19 incubation period, serial interval and regional time series},
+     url           = {https://doi.org/10.1142/S0218202521500226},
+     volume        = {31},
+     year          = {2021}
    }
-`The URL link to the source <ttps://doi.org/10.1142/S0218202521500226}>`_
+`The URL link to the source <https://doi.org/10.1142/S0218202521500226>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

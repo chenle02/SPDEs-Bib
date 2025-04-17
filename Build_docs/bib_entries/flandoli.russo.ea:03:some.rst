@@ -8,22 +8,21 @@ flandoli.russo.ea:03:some
 .. code-block:: bibtex
 
    @article{flandoli.russo.ea:03:some,
-    author = {Flandoli, Franco and Russo, Francesco and Wolf, Jochen},
-    fjournal = {Osaka Journal of Mathematics},
-    issn = {0030-6126},
-    journal = {Osaka J. Math.},
-    mrclass = {60H20 (47D07 47N30 60H10)},
-    mrnumber = {1988703},
-    mrreviewer = {Anna Milian},
-    number = {2},
-    pages = {493--542},
-    title = {Some {SDE}s with distributional drift. {I}. {G}eneral
-   calculus},
-    url = {http://projecteuclid.org/euclid.ojm/1153493096},
-    volume = {40},
-    year = {2003}
+     author        = {Flandoli, Franco and Russo, Francesco and Wolf, Jochen},
+     fjournal      = {Osaka Journal of Mathematics},
+     issn          = {0030-6126},
+     journal       = {Osaka J. Math.},
+     mrclass       = {60H20 (47D07 47N30 60H10)},
+     mrnumber      = {1988703},
+     mrreviewer    = {Anna Milian},
+     number        = {2},
+     pages         = {493--542},
+     title         = {Some {SDE}s with distributional drift. {I}. {G}eneral calculus},
+     url           = {http://projecteuclid.org/euclid.ojm/1153493096},
+     volume        = {40},
+     year          = {2003}
    }
-`The URL link to the source <ttp://projecteuclid.org/euclid.ojm/1153493096}>`_
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1153493096>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

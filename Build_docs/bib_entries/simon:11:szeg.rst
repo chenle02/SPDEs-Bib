@@ -8,18 +8,17 @@ simon:11:szeg
 .. code-block:: bibtex
 
    @book{simon:11:szeg,
-    author = {Simon, Barry},
-    isbn = {978-0-691-14704-8},
-    mrclass = {47B36 (37K15 37K60 42-02 42C05 47A10 47B35)},
-    mrnumber = {2743058},
-    mrreviewer = {Harry\ Dym},
-    note = {Spectral theory for $L^2$ perturbations of orthogonal
-   polynomials},
-    pages = {xii+650},
-    publisher = {Princeton University Press, Princeton, NJ},
-    series = {M. B. Porter Lectures},
-    title = {Szeg\H o's theorem and its descendants},
-    year = {2011}
+     author        = {Simon, Barry},
+     isbn          = {978-0-691-14704-8},
+     mrclass       = {47B36 (37K15 37K60 42-02 42C05 47A10 47B35)},
+     mrnumber      = {2743058},
+     mrreviewer    = {Harry\ Dym},
+     note          = {Spectral theory for $L^2$ perturbations of orthogonal polynomials},
+     pages         = {xii+650},
+     publisher     = {Princeton University Press, Princeton, NJ},
+     series        = {M. B. Porter Lectures},
+     title         = {Szeg\H o's theorem and its descendants},
+     year          = {2011}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

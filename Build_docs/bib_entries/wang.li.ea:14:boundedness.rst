@@ -8,22 +8,21 @@ wang.li.ea:14:boundedness
 .. code-block:: bibtex
 
    @article{wang.li.ea:14:boundedness,
-    author = {Wang, Liangchen and Li, Yuhuan and Mu, Chunlai},
-    doi = {10.3934/dcds.2014.34.789},
-    fjournal = {Discrete and Continuous Dynamical Systems. Series A},
-    issn = {1078-0947},
-    journal = {Discrete Contin. Dyn. Syst.},
-    mrclass = {35K51 (35A01 35A02 35A09 92C17)},
-    mrnumber = {3094606},
-    number = {2},
-    pages = {789--802},
-    title = {Boundedness in a parabolic-parabolic quasilinear
-   chemotaxis system with logistic source},
-    url = {https://doi.org/10.3934/dcds.2014.34.789},
-    volume = {34},
-    year = {2014}
+     author        = {Wang, Liangchen and Li, Yuhuan and Mu, Chunlai},
+     doi           = {10.3934/dcds.2014.34.789},
+     fjournal      = {Discrete and Continuous Dynamical Systems. Series A},
+     issn          = {1078-0947},
+     journal       = {Discrete Contin. Dyn. Syst.},
+     mrclass       = {35K51 (35A01 35A02 35A09 92C17)},
+     mrnumber      = {3094606},
+     number        = {2},
+     pages         = {789--802},
+     title         = {Boundedness in a parabolic-parabolic quasilinear chemotaxis system with logistic source},
+     url           = {https://doi.org/10.3934/dcds.2014.34.789},
+     volume        = {34},
+     year          = {2014}
    }
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2014.34.789}>`_
+`The URL link to the source <https://doi.org/10.3934/dcds.2014.34.789>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

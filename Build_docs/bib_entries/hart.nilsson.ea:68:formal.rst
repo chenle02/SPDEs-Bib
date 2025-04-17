@@ -8,15 +8,14 @@ hart.nilsson.ea:68:formal
 .. code-block:: bibtex
 
    @article{hart.nilsson.ea:68:formal,
-    author = {Hart, Peter E and Nilsson, Nils J and Raphael, Bertram},
-    journal = {IEEE Transactions on Systems Science and Cybernetics},
-    number = {2},
-    pages = {100--107},
-    publisher = {IEEE},
-    title = {A formal basis for the heuristic determination of minimum
-   cost paths},
-    volume = {4},
-    year = {1968}
+     author        = {Hart, Peter E and Nilsson, Nils J and Raphael, Bertram},
+     journal       = {IEEE Transactions on Systems Science and Cybernetics},
+     number        = {2},
+     pages         = {100--107},
+     publisher     = {IEEE},
+     title         = {A formal basis for the heuristic determination of minimum cost paths},
+     volume        = {4},
+     year          = {1968}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

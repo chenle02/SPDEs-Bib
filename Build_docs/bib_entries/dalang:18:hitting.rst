@@ -8,23 +8,21 @@ dalang:18:hitting
 .. code-block:: bibtex
 
    @incollection{dalang:18:hitting,
-    author = {Dalang, Robert C.},
-    booktitle = {Stochastic partial differential equations and related
-   fields},
-    doi = {10.1007/978-3-319-74929-7\_8},
-    mrclass = {60H15 (60G15 60G60 60H07 60J45)},
-    mrnumber = {3828166},
-    mrreviewer = {Jingyu Huang},
-    pages = {159--176},
-    publisher = {Springer, Cham},
-    series = {Springer Proc. Math. Stat.},
-    title = {Hitting probabilities for systems of stochastic {PDE}s: an
-   overview},
-    url = {https://doi.org/10.1007/978-3-319-74929-7_8},
-    volume = {229},
-    year = {2018}
+     author        = {Dalang, Robert C.},
+     booktitle     = {Stochastic partial differential equations and related fields},
+     doi           = {10.1007/978-3-319-74929-7\_8},
+     mrclass       = {60H15 (60G15 60G60 60H07 60J45)},
+     mrnumber      = {3828166},
+     mrreviewer    = {Jingyu Huang},
+     pages         = {159--176},
+     publisher     = {Springer, Cham},
+     series        = {Springer Proc. Math. Stat.},
+     title         = {Hitting probabilities for systems of stochastic {PDE}s: an overview},
+     url           = {https://doi.org/10.1007/978-3-319-74929-7\_8},
+     volume        = {229},
+     year          = {2018}
    }
-`The URL link to the source <ttps://doi.org/10.1007/978-3-319-74929-7_8}>`_
+`The URL link to the source <https://doi.org/10.1007/978-3-319-74929-7\_8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

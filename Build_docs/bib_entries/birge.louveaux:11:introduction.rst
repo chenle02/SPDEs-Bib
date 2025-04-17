@@ -8,10 +8,10 @@ birge.louveaux:11:introduction
 .. code-block:: bibtex
 
    @book{birge.louveaux:11:introduction,
-    author = {Birge, John R and Louveaux, Francois},
-    publisher = {Springer Science \& Business Media},
-    title = {Introduction to Stochastic Programming},
-    year = {2011}
+     author        = {Birge, John R and Louveaux, Francois},
+     publisher     = {Springer Science \& Business Media},
+     title         = {Introduction to Stochastic Programming},
+     year          = {2011}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,23 +8,22 @@ kobayashi:11:stochastic
 .. code-block:: bibtex
 
    @article{kobayashi:11:stochastic,
-    author = {Kobayashi, Kei},
-    doi = {10.1007/s10959-010-0320-9},
-    fjournal = {Journal of Theoretical Probability},
-    issn = {0894-9840},
-    journal = {J. Theoret. Probab.},
-    mrclass = {60H05 (60H10)},
-    mrnumber = {2822482},
-    mrreviewer = {Jan I. Seidler},
-    number = {3},
-    pages = {789--820},
-    title = {Stochastic calculus for a time-changed semimartingale and
-   the associated stochastic differential equations},
-    url = {https://doi.org/10.1007/s10959-010-0320-9},
-    volume = {24},
-    year = {2011}
+     author        = {Kobayashi, Kei},
+     doi           = {10.1007/s10959-010-0320-9},
+     fjournal      = {Journal of Theoretical Probability},
+     issn          = {0894-9840},
+     journal       = {J. Theoret. Probab.},
+     mrclass       = {60H05 (60H10)},
+     mrnumber      = {2822482},
+     mrreviewer    = {Jan I. Seidler},
+     number        = {3},
+     pages         = {789--820},
+     title         = {Stochastic calculus for a time-changed semimartingale and the associated stochastic differential equations},
+     url           = {https://doi.org/10.1007/s10959-010-0320-9},
+     volume        = {24},
+     year          = {2011}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s10959-010-0320-9}>`_
+`The URL link to the source <https://doi.org/10.1007/s10959-010-0320-9>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

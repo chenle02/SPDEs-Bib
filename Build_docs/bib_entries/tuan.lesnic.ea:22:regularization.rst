@@ -8,24 +8,22 @@ tuan.lesnic.ea:22:regularization
 .. code-block:: bibtex
 
    @article{tuan.lesnic.ea:22:regularization,
-    author = {Tuan, Nguyen Huy and Lesnic, Daniel and Thach, Tran Ngoc
-   and Ngoc, Tran Bao},
-    doi = {10.1515/jiip-2020-0013},
-    fjournal = {Journal of Inverse and Ill-Posed Problems},
-    issn = {0928-0219,1569-3945},
-    journal = {J. Inverse Ill-Posed Probl.},
-    mrclass = {35R60 (26A33 35B65 35R11)},
-    mrnumber = {4431341},
-    mrreviewer = {Le\ Chen},
-    number = {3},
-    pages = {351--362},
-    title = {Regularization of the backward stochastic heat conduction
-   problem},
-    url = {https://doi.org/10.1515/jiip-2020-0013},
-    volume = {30},
-    year = {2022}
+     author        = {Tuan, Nguyen Huy and Lesnic, Daniel and Thach, Tran Ngoc and Ngoc, Tran Bao},
+     doi           = {10.1515/jiip-2020-0013},
+     fjournal      = {Journal of Inverse and Ill-Posed Problems},
+     issn          = {0928-0219,1569-3945},
+     journal       = {J. Inverse Ill-Posed Probl.},
+     mrclass       = {35R60 (26A33 35B65 35R11)},
+     mrnumber      = {4431341},
+     mrreviewer    = {Le\ Chen},
+     number        = {3},
+     pages         = {351--362},
+     title         = {Regularization of the backward stochastic heat conduction problem},
+     url           = {https://doi.org/10.1515/jiip-2020-0013},
+     volume        = {30},
+     year          = {2022}
    }
-`The URL link to the source <ttps://doi.org/10.1515/jiip-2020-0013}>`_
+`The URL link to the source <https://doi.org/10.1515/jiip-2020-0013>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

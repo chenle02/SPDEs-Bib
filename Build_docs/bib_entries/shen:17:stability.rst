@@ -8,23 +8,21 @@ shen:17:stability
 .. code-block:: bibtex
 
    @article{shen:17:stability,
-    author = {Shen, Wenxian},
-    doi = {10.1088/1361-6544/aa7f08},
-    fjournal = {Nonlinearity},
-    issn = {0951-7715,1361-6544},
-    journal = {Nonlinearity},
-    mrclass = {35K58 (35B08 35C07 35R09 45K05 58D25 92D25)},
-    mrnumber = {3694263},
-    number = {9},
-    pages = {3466--3491},
-    title = {Stability of transition waves and positive entire
-   solutions of {F}isher-{KPP} equations with time and space
-   dependence},
-    url = {https://doi.org/10.1088/1361-6544/aa7f08},
-    volume = {30},
-    year = {2017}
+     author        = {Shen, Wenxian},
+     doi           = {10.1088/1361-6544/aa7f08},
+     fjournal      = {Nonlinearity},
+     issn          = {0951-7715,1361-6544},
+     journal       = {Nonlinearity},
+     mrclass       = {35K58 (35B08 35C07 35R09 45K05 58D25 92D25)},
+     mrnumber      = {3694263},
+     number        = {9},
+     pages         = {3466--3491},
+     title         = {Stability of transition waves and positive entire solutions of {F}isher-{KPP} equations with time and space dependence},
+     url           = {https://doi.org/10.1088/1361-6544/aa7f08},
+     volume        = {30},
+     year          = {2017}
    }
-`The URL link to the source <ttps://doi.org/10.1088/1361-6544/aa7f08}>`_
+`The URL link to the source <https://doi.org/10.1088/1361-6544/aa7f08>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

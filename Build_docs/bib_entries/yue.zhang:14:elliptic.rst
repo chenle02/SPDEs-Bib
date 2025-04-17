@@ -8,24 +8,22 @@ yue.zhang:14:elliptic
 .. code-block:: bibtex
 
    @article{yue.zhang:14:elliptic,
-    author = {Yue, Wen and Zhang, Tusheng},
-    doi = {10.1142/S0219025714500258},
-    fjournal = {Infinite Dimensional Analysis, Quantum Probability and
-   Related Topics},
-    issn = {0219-0257},
-    journal = {Infin. Dimens. Anal. Quantum Probab. Relat. Top.},
-    mrclass = {60H15},
-    mrnumber = {3281342},
-    mrreviewer = {Guoli Zhou},
-    number = {4},
-    pages = {1450025, 16},
-    title = {Elliptic stochastic partial differential equations with
-   two reflecting walls},
-    url = {https://doi.org/10.1142/S0219025714500258},
-    volume = {17},
-    year = {2014}
+     author        = {Yue, Wen and Zhang, Tusheng},
+     doi           = {10.1142/S0219025714500258},
+     fjournal      = {Infinite Dimensional Analysis, Quantum Probability and Related Topics},
+     issn          = {0219-0257},
+     journal       = {Infin. Dimens. Anal. Quantum Probab. Relat. Top.},
+     mrclass       = {60H15},
+     mrnumber      = {3281342},
+     mrreviewer    = {Guoli Zhou},
+     number        = {4},
+     pages         = {1450025, 16},
+     title         = {Elliptic stochastic partial differential equations with two reflecting walls},
+     url           = {https://doi.org/10.1142/S0219025714500258},
+     volume        = {17},
+     year          = {2014}
    }
-`The URL link to the source <ttps://doi.org/10.1142/S0219025714500258}>`_
+`The URL link to the source <https://doi.org/10.1142/S0219025714500258>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

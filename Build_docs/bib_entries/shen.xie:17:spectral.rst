@@ -8,24 +8,22 @@ shen.xie:17:spectral
 .. code-block:: bibtex
 
    @article{shen.xie:17:spectral,
-    author = {Shen, Wenxian and Xie, Xiaoxia},
-    doi = {10.3934/dcdsb.2017051},
-    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A
-   Journal Bridging Mathematics and Sciences},
-    issn = {1531-3492,1553-524X},
-    journal = {Discrete Contin. Dyn. Syst. Ser. B},
-    mrclass = {35F16 (35P05 35R09 45K05 47B37 92D25)},
-    mrnumber = {3639154},
-    mrreviewer = {Eric\ Stachura},
-    number = {3},
-    pages = {1023--1047},
-    title = {Spectral theory for nonlocal dispersal operators with time
-   periodic indefinite weight functions and applications},
-    url = {https://doi.org/10.3934/dcdsb.2017051},
-    volume = {22},
-    year = {2017}
+     author        = {Shen, Wenxian and Xie, Xiaoxia},
+     doi           = {10.3934/dcdsb.2017051},
+     fjournal      = {Discrete and Continuous Dynamical Systems. Series B. A Journal Bridging Mathematics and Sciences},
+     issn          = {1531-3492,1553-524X},
+     journal       = {Discrete Contin. Dyn. Syst. Ser. B},
+     mrclass       = {35F16 (35P05 35R09 45K05 47B37 92D25)},
+     mrnumber      = {3639154},
+     mrreviewer    = {Eric\ Stachura},
+     number        = {3},
+     pages         = {1023--1047},
+     title         = {Spectral theory for nonlocal dispersal operators with time periodic indefinite weight functions and applications},
+     url           = {https://doi.org/10.3934/dcdsb.2017051},
+     volume        = {22},
+     year          = {2017}
    }
-`The URL link to the source <ttps://doi.org/10.3934/dcdsb.2017051}>`_
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2017051>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

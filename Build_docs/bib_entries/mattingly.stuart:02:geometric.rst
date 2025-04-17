@@ -8,20 +8,19 @@ mattingly.stuart:02:geometric
 .. code-block:: bibtex
 
    @incollection{mattingly.stuart:02:geometric,
-    author = {Mattingly, J. C. and Stuart, A. M.},
-    fjournal = {Markov Processes and Related Fields},
-    issn = {1024-2953},
-    journal = {Markov Process. Related Fields},
-    mrclass = {60H10 (37A25 82C31)},
-    mrnumber = {1924935},
-    mrreviewer = {Da-Quan\ Jiang},
-    note = {Inhomogeneous random systems (Cergy-Pontoise, 2001)},
-    number = {2},
-    pages = {199--214},
-    title = {Geometric ergodicity of some hypo-elliptic diffusions for
-   particle motions},
-    volume = {8},
-    year = {2002}
+     author        = {Mattingly, J. C. and Stuart, A. M.},
+     fjournal      = {Markov Processes and Related Fields},
+     issn          = {1024-2953},
+     journal       = {Markov Process. Related Fields},
+     mrclass       = {60H10 (37A25 82C31)},
+     mrnumber      = {1924935},
+     mrreviewer    = {Da-Quan\ Jiang},
+     note          = {Inhomogeneous random systems (Cergy-Pontoise, 2001)},
+     number        = {2},
+     pages         = {199--214},
+     title         = {Geometric ergodicity of some hypo-elliptic diffusions for particle motions},
+     volume        = {8},
+     year          = {2002}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

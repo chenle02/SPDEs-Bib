@@ -8,10 +8,10 @@ aven:15:risk
 .. code-block:: bibtex
 
    @book{aven:15:risk,
-    author = {Aven, Terje},
-    publisher = {John Wiley \& Sons},
-    title = {Risk Analysis},
-    year = {2015}
+     author        = {Aven, Terje},
+     publisher     = {John Wiley \& Sons},
+     title         = {Risk Analysis},
+     year          = {2015}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

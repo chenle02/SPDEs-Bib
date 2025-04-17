@@ -8,15 +8,13 @@ kimmel.kiryati:96:finding
 .. code-block:: bibtex
 
    @article{kimmel.kiryati:96:finding,
-    author = {Kimmel, R. and Kiryati, N.},
-    journal = {International Journal of Pattern Recognition and
-   Artificial Intelligence},
-    number = {6},
-    pages = {643--656},
-    title = {Finding shortest paths on surfaces by fast global
-   approximation and precise local refinement},
-    volume = {10},
-    year = {1996}
+     author        = {Kimmel, R. and Kiryati, N.},
+     journal       = {International Journal of Pattern Recognition and Artificial Intelligence},
+     number        = {6},
+     pages         = {643--656},
+     title         = {Finding shortest paths on surfaces by fast global approximation and precise local refinement},
+     volume        = {10},
+     year          = {1996}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

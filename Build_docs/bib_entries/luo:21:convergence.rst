@@ -8,23 +8,21 @@ luo:21:convergence
 .. code-block:: bibtex
 
    @article{luo:21:convergence,
-    author = {Luo, Dejun},
-    doi = {10.1088/1361-6544/ac3145},
-    fjournal = {Nonlinearity},
-    issn = {0951-7715},
-    journal = {Nonlinearity},
-    mrclass = {35Q35 (60H15 76D09 76M35)},
-    mrnumber = {4344717},
-    number = {12},
-    pages = {8311--8330},
-    title = {Convergence of stochastic 2{D} inviscid {B}oussinesq
-   equations with transport noise to a deterministic viscous
-   system},
-    url = {https://doi.org/10.1088/1361-6544/ac3145},
-    volume = {34},
-    year = {2021}
+     author        = {Luo, Dejun},
+     doi           = {10.1088/1361-6544/ac3145},
+     fjournal      = {Nonlinearity},
+     issn          = {0951-7715},
+     journal       = {Nonlinearity},
+     mrclass       = {35Q35 (60H15 76D09 76M35)},
+     mrnumber      = {4344717},
+     number        = {12},
+     pages         = {8311--8330},
+     title         = {Convergence of stochastic 2{D} inviscid {B}oussinesq equations with transport noise to a deterministic viscous system},
+     url           = {https://doi.org/10.1088/1361-6544/ac3145},
+     volume        = {34},
+     year          = {2021}
    }
-`The URL link to the source <ttps://doi.org/10.1088/1361-6544/ac3145}>`_
+`The URL link to the source <https://doi.org/10.1088/1361-6544/ac3145>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,23 +8,22 @@ borodin.peche:08:airy
 .. code-block:: bibtex
 
    @article{borodin.peche:08:airy,
-    author = {Borodin, Alexei and P\'{e}ch\'{e}, Sandrine},
-    doi = {10.1007/s10955-008-9553-8},
-    fjournal = {Journal of Statistical Physics},
-    issn = {0022-4715},
-    journal = {J. Stat. Phys.},
-    mrclass = {82B43 (60K35 82B44)},
-    mrnumber = {2415103},
-    mrreviewer = {Akira Sakai},
-    number = {2},
-    pages = {275--290},
-    title = {Airy kernel with two sets of parameters in directed
-   percolation and random matrix theory},
-    url = {https://doi.org/10.1007/s10955-008-9553-8},
-    volume = {132},
-    year = {2008}
+     author        = {Borodin, Alexei and P\'{e}ch\'{e}, Sandrine},
+     doi           = {10.1007/s10955-008-9553-8},
+     fjournal      = {Journal of Statistical Physics},
+     issn          = {0022-4715},
+     journal       = {J. Stat. Phys.},
+     mrclass       = {82B43 (60K35 82B44)},
+     mrnumber      = {2415103},
+     mrreviewer    = {Akira Sakai},
+     number        = {2},
+     pages         = {275--290},
+     title         = {Airy kernel with two sets of parameters in directed percolation and random matrix theory},
+     url           = {https://doi.org/10.1007/s10955-008-9553-8},
+     volume        = {132},
+     year          = {2008}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s10955-008-9553-8}>`_
+`The URL link to the source <https://doi.org/10.1007/s10955-008-9553-8>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,20 +8,18 @@ regner.vucinic.ea:13:anomalous
 .. code-block:: bibtex
 
    @article{regner.vucinic.ea:13:anomalous,
-    author = {Benjamin~M. Regner and Dejan Vu\v{c}ini\'{c} and Cristina
-   Domnisoru and Thomas~M. Bartol and Martin~W. Hetzer and
-   Daniel~M. Tartakovsky and Terrence~J. Sejnowski},
-    doi = {https://doi.org/10.1016/j.bpj.2013.01.049},
-    issn = {0006-3495},
-    journal = {Biophysical Journal},
-    number = {8},
-    pages = {1652--1660},
-    title = {Anomalous Diffusion of Single Particles in Cytoplasm},
-    url = {https://www.sciencedirect.com/science/article/pii/S0006349513001823},
-    volume = {104},
-    year = {2013}
+     author        = {Benjamin~M. Regner and Dejan Vu\v{c}ini\'{c} and Cristina Domnisoru and Thomas~M. Bartol and Martin~W. Hetzer and Daniel~M. Tartakovsky and Terrence~J. Sejnowski},
+     doi           = {https://doi.org/10.1016/j.bpj.2013.01.049},
+     issn          = {0006-3495},
+     journal       = {Biophysical Journal},
+     number        = {8},
+     pages         = {1652--1660},
+     title         = {Anomalous Diffusion of Single Particles in Cytoplasm},
+     url           = {https://www.sciencedirect.com/science/article/pii/S0006349513001823},
+     volume        = {104},
+     year          = {2013}
    }
-`The URL link to the source <ttps://www.sciencedirect.com/science/article/pii/S0006349513001823}>`_
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0006349513001823>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

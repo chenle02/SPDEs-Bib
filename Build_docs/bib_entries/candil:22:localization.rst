@@ -8,18 +8,18 @@ candil:22:localization
 .. code-block:: bibtex
 
    @article{candil:22:localization,
-    address = {Lausanne},
-    author = {Candil, David Jean-Michel},
-    doi = {10.5075/epfl-thesis-7742},
-    institution = {MATHAA},
-    journal = {EPFL Ph.D. Thesis},
-    pages = {221},
-    publisher = {EPFL},
-    title = {Localization errors of the stochastic heat equation},
-    url = {http://infoscience.epfl.ch/record/291119},
-    year = {2022}
+     address       = {Lausanne},
+     author        = {Candil, David Jean-Michel},
+     doi           = {10.5075/epfl-thesis-7742},
+     institution   = {MATHAA},
+     journal       = {EPFL Ph.D. Thesis},
+     pages         = {221},
+     publisher     = {EPFL},
+     title         = {Localization errors of the stochastic heat equation},
+     url           = {http://infoscience.epfl.ch/record/291119},
+     year          = {2022}
    }
-`The URL link to the source <ttp://infoscience.epfl.ch/record/291119}>`_
+`The URL link to the source <http://infoscience.epfl.ch/record/291119>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

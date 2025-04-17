@@ -8,21 +8,21 @@ oelschlager:90:limit*1
 .. code-block:: bibtex
 
    @article{oelschlager:90:limit*1,
-    author = {Oelschl\"{a}ger, Karl},
-    fjournal = {The Annals of Probability},
-    issn = {0091-1798,2168-894X},
-    journal = {Ann. Probab.},
-    mrclass = {60K35 (60F05)},
-    mrnumber = {1043949},
-    mrreviewer = {Peter\ Donnelly},
-    number = {1},
-    pages = {290--318},
-    title = {Limit theorems for age-structured populations},
-    url = {http://links.jstor.org/sici?sici=0091-1798(199001)18:1<290:LTFAP>2.0.CO;2-7&origin=MSN},
-    volume = {18},
-    year = {1990}
+     author        = {Oelschl\"{a}ger, Karl},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798,2168-894X},
+     journal       = {Ann. Probab.},
+     mrclass       = {60K35 (60F05)},
+     mrnumber      = {1043949},
+     mrreviewer    = {Peter\ Donnelly},
+     number        = {1},
+     pages         = {290--318},
+     title         = {Limit theorems for age-structured populations},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199001)18:1<290:LTFAP>2.0.CO;2-7\&origin=MSN},
+     volume        = {18},
+     year          = {1990}
    }
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(199001)18:1<290:LTFAP>2.0.CO;2-7&origin=MSN}>`_
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199001)18:1<290:LTFAP>2.0.CO;2-7\&origin=MSN>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

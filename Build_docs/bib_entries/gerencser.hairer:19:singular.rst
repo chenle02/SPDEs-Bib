@@ -8,22 +8,22 @@ gerencser.hairer:19:singular
 .. code-block:: bibtex
 
    @article{gerencser.hairer:19:singular,
-    author = {Gerencs\'{e}r, M\'{a}t\'{e} and Hairer, Martin},
-    doi = {10.1007/s00440-018-0841-1},
-    fjournal = {Probability Theory and Related Fields},
-    issn = {0178-8051},
-    journal = {Probab. Theory Related Fields},
-    mrclass = {60H17 (35K59 35K67 35R60 60L30)},
-    mrnumber = {3936145},
-    mrreviewer = {Torstein K. Nilssen},
-    number = {3-4},
-    pages = {697--758},
-    title = {Singular {SPDE}s in domains with boundaries},
-    url = {https://doi.org/10.1007/s00440-018-0841-1},
-    volume = {173},
-    year = {2019}
+     author        = {Gerencs\'{e}r, M\'{a}t\'{e} and Hairer, Martin},
+     doi           = {10.1007/s00440-018-0841-1},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60H17 (35K59 35K67 35R60 60L30)},
+     mrnumber      = {3936145},
+     mrreviewer    = {Torstein K. Nilssen},
+     number        = {3-4},
+     pages         = {697--758},
+     title         = {Singular {SPDE}s in domains with boundaries},
+     url           = {https://doi.org/10.1007/s00440-018-0841-1},
+     volume        = {173},
+     year          = {2019}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00440-018-0841-1}>`_
+`The URL link to the source <https://doi.org/10.1007/s00440-018-0841-1>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,24 +8,21 @@ jarvenpaa.jarvenpaa.ea:17:hitting
 .. code-block:: bibtex
 
    @article{jarvenpaa.jarvenpaa.ea:17:hitting,
-    author = {J\"{a}rvenp\"{a}\"{a}, Esa and J\"{a}rvenp\"{a}\"{a},
-   Maarit and Koivusalo, Henna and Li, Bing and Suomala, Ville
-   and Xiao, Yimin},
-    doi = {10.1214/16-EJP4658},
-    fjournal = {Electronic Journal of Probability},
-    issn = {1083-6489},
-    journal = {Electron. J. Probab.},
-    mrclass = {60D05 (28A80)},
-    mrnumber = {3613694},
-    mrreviewer = {Artemi\ Berlinkov},
-    pages = {Paper No. 1, 18},
-    title = {Hitting probabilities of random covering sets in tori and
-   metric spaces},
-    url = {https://doi.org/10.1214/16-EJP4658},
-    volume = {22},
-    year = {2017}
+     author        = {J\"{a}rvenp\"{a}\"{a}, Esa and J\"{a}rvenp\"{a}\"{a}, Maarit and Koivusalo, Henna and Li, Bing and Suomala, Ville and Xiao, Yimin},
+     doi           = {10.1214/16-EJP4658},
+     fjournal      = {Electronic Journal of Probability},
+     issn          = {1083-6489},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {60D05 (28A80)},
+     mrnumber      = {3613694},
+     mrreviewer    = {Artemi\ Berlinkov},
+     pages         = {Paper No. 1, 18},
+     title         = {Hitting probabilities of random covering sets in tori and metric spaces},
+     url           = {https://doi.org/10.1214/16-EJP4658},
+     volume        = {22},
+     year          = {2017}
    }
-`The URL link to the source <ttps://doi.org/10.1214/16-EJP4658}>`_
+`The URL link to the source <https://doi.org/10.1214/16-EJP4658>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

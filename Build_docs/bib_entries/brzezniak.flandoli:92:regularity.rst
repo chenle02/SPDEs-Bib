@@ -8,19 +8,17 @@ brzezniak.flandoli:92:regularity
 .. code-block:: bibtex
 
    @incollection{brzezniak.flandoli:92:regularity,
-    author = {Brze\'{z}niak, Z. and Flandoli, F.},
-    booktitle = {Stochastic partial differential equations and applications
-   ({T}rento, 1990)},
-    isbn = {0-582-10051-8},
-    mrclass = {60H15 (34F05 34G10 35R60)},
-    mrnumber = {1222688},
-    pages = {54--71},
-    publisher = {Longman Sci. Tech., Harlow},
-    series = {Pitman Res. Notes Math. Ser.},
-    title = {Regularity of solutions and random evolution operator for
-   stochastic parabolic equations},
-    volume = {268},
-    year = {1992}
+     author        = {Brze\'{z}niak, Z. and Flandoli, F.},
+     booktitle     = {Stochastic partial differential equations and applications ({T}rento, 1990)},
+     isbn          = {0-582-10051-8},
+     mrclass       = {60H15 (34F05 34G10 35R60)},
+     mrnumber      = {1222688},
+     pages         = {54--71},
+     publisher     = {Longman Sci. Tech., Harlow},
+     series        = {Pitman Res. Notes Math. Ser.},
+     title         = {Regularity of solutions and random evolution operator for stochastic parabolic equations},
+     volume        = {268},
+     year          = {1992}
    }
 
 `Back to index <../By-Cite-Keys.html>`_

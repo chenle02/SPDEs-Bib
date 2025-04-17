@@ -8,22 +8,22 @@ comets.yoshida:05:brownian
 .. code-block:: bibtex
 
    @article{comets.yoshida:05:brownian,
-    author = {Comets, Francis and Yoshida, Nobuo},
-    doi = {10.1007/s00220-004-1203-7},
-    fjournal = {Communications in Mathematical Physics},
-    issn = {0010-3616},
-    journal = {Comm. Math. Phys.},
-    mrclass = {60K37 (60H05 60J65 82B44)},
-    mrnumber = {2117626},
-    mrreviewer = {Philippe Carmona},
-    number = {2},
-    pages = {257--287},
-    title = {Brownian directed polymers in random environment},
-    url = {https://doi.org/10.1007/s00220-004-1203-7},
-    volume = {254},
-    year = {2005}
+     author        = {Comets, Francis and Yoshida, Nobuo},
+     doi           = {10.1007/s00220-004-1203-7},
+     fjournal      = {Communications in Mathematical Physics},
+     issn          = {0010-3616},
+     journal       = {Comm. Math. Phys.},
+     mrclass       = {60K37 (60H05 60J65 82B44)},
+     mrnumber      = {2117626},
+     mrreviewer    = {Philippe Carmona},
+     number        = {2},
+     pages         = {257--287},
+     title         = {Brownian directed polymers in random environment},
+     url           = {https://doi.org/10.1007/s00220-004-1203-7},
+     volume        = {254},
+     year          = {2005}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s00220-004-1203-7}>`_
+`The URL link to the source <https://doi.org/10.1007/s00220-004-1203-7>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

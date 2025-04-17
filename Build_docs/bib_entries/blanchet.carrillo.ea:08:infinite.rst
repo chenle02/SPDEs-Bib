@@ -8,23 +8,21 @@ blanchet.carrillo.ea:08:infinite
 .. code-block:: bibtex
 
    @article{blanchet.carrillo.ea:08:infinite,
-    author = {Blanchet, Adrien and Carrillo, Jos\'{e} A. and Masmoudi,
-   Nader},
-    doi = {10.1002/cpa.20225},
-    fjournal = {Communications on Pure and Applied Mathematics},
-    issn = {0010-3640},
-    journal = {Comm. Pure Appl. Math.},
-    mrclass = {35K50 (35B40 35D05 92C17)},
-    mrnumber = {2436186},
-    number = {10},
-    pages = {1449--1481},
-    title = {Infinite time aggregation for the critical
-   {P}atlak-{K}eller-{S}egel model in {$\Bbb R^2$}},
-    url = {https://doi.org/10.1002/cpa.20225},
-    volume = {61},
-    year = {2008}
+     author        = {Blanchet, Adrien and Carrillo, Jos\'{e} A. and Masmoudi, Nader},
+     doi           = {10.1002/cpa.20225},
+     fjournal      = {Communications on Pure and Applied Mathematics},
+     issn          = {0010-3640},
+     journal       = {Comm. Pure Appl. Math.},
+     mrclass       = {35K50 (35B40 35D05 92C17)},
+     mrnumber      = {2436186},
+     number        = {10},
+     pages         = {1449--1481},
+     title         = {Infinite time aggregation for the critical {P}atlak-{K}eller-{S}egel model in {$\Bbb R^2$}},
+     url           = {https://doi.org/10.1002/cpa.20225},
+     volume        = {61},
+     year          = {2008}
    }
-`The URL link to the source <ttps://doi.org/10.1002/cpa.20225}>`_
+`The URL link to the source <https://doi.org/10.1002/cpa.20225>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

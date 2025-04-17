@@ -8,21 +8,20 @@ bourgain:13:corrigendum
 .. code-block:: bibtex
 
    @article{bourgain:13:corrigendum,
-    author = {Bourgain, J.},
-    doi = {10.1007/s11854-013-0025-y},
-    fjournal = {Journal d'Analyse Math\'{e}matique},
-    issn = {0021-7670,1565-8538},
-    journal = {J. Anal. Math.},
-    mrclass = {52C26},
-    mrnumber = {3095159},
-    pages = {393},
-    title = {Corrigendum to ``{A}pollonian circle packings and prime
-   curvatures'' [MR2993027]},
-    url = {https://doi.org/10.1007/s11854-013-0025-y},
-    volume = {120},
-    year = {2013}
+     author        = {Bourgain, J.},
+     doi           = {10.1007/s11854-013-0025-y},
+     fjournal      = {Journal d'Analyse Math\'{e}matique},
+     issn          = {0021-7670,1565-8538},
+     journal       = {J. Anal. Math.},
+     mrclass       = {52C26},
+     mrnumber      = {3095159},
+     pages         = {393},
+     title         = {Corrigendum to ``{A}pollonian circle packings and prime curvatures'' [MR2993027]},
+     url           = {https://doi.org/10.1007/s11854-013-0025-y},
+     volume        = {120},
+     year          = {2013}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s11854-013-0025-y}>`_
+`The URL link to the source <https://doi.org/10.1007/s11854-013-0025-y>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

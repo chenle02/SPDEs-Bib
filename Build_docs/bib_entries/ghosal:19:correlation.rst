@@ -8,22 +8,20 @@ ghosal:19:correlation
 .. code-block:: bibtex
 
    @article{ghosal:19:correlation,
-    author = {Ghosal, Promit},
-    doi = {10.3842/SIGMA.2019.092},
-    fjournal = {SIGMA. Symmetry, Integrability and Geometry. Methods and
-   Applications},
-    journal = {SIGMA Symmetry Integrability Geom. Methods Appl.},
-    mrclass = {60C05 (05E05)},
-    mrnumber = {4036103},
-    mrreviewer = {Maciej Do\l \polhk ega},
-    pages = {Paper No. 092, 37},
-    title = {Correlation functions of the {P}faffian {S}chur process
-   using {M}acdonald difference operators},
-    url = {https://doi.org/10.3842/SIGMA.2019.092},
-    volume = {15},
-    year = {2019}
+     author        = {Ghosal, Promit},
+     doi           = {10.3842/SIGMA.2019.092},
+     fjournal      = {SIGMA. Symmetry, Integrability and Geometry. Methods and Applications},
+     journal       = {SIGMA Symmetry Integrability Geom. Methods Appl.},
+     mrclass       = {60C05 (05E05)},
+     mrnumber      = {4036103},
+     mrreviewer    = {Maciej Do\l \polhk ega},
+     pages         = {Paper No. 092, 37},
+     title         = {Correlation functions of the {P}faffian {S}chur process using {M}acdonald difference operators},
+     url           = {https://doi.org/10.3842/SIGMA.2019.092},
+     volume        = {15},
+     year          = {2019}
    }
-`The URL link to the source <ttps://doi.org/10.3842/SIGMA.2019.092}>`_
+`The URL link to the source <https://doi.org/10.3842/SIGMA.2019.092>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

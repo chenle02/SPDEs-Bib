@@ -8,24 +8,22 @@ janvresse.landim.ea:99:relaxation
 .. code-block:: bibtex
 
    @article{janvresse.landim.ea:99:relaxation,
-    author = {Janvresse, E. and Landim, C. and Quastel, J. and Yau, H.
-   T.},
-    doi = {10.1214/aop/1022677265},
-    fjournal = {The Annals of Probability},
-    issn = {0091-1798},
-    journal = {Ann. Probab.},
-    mrclass = {60K35},
-    mrnumber = {1681098},
-    mrreviewer = {T. M. Liggett},
-    number = {1},
-    pages = {325--360},
-    title = {Relaxation to equilibrium of conservative dynamics. {I}.
-   {Z}ero-range processes},
-    url = {https://doi.org/10.1214/aop/1022677265},
-    volume = {27},
-    year = {1999}
+     author        = {Janvresse, E. and Landim, C. and Quastel, J. and Yau, H. T.},
+     doi           = {10.1214/aop/1022677265},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60K35},
+     mrnumber      = {1681098},
+     mrreviewer    = {T. M. Liggett},
+     number        = {1},
+     pages         = {325--360},
+     title         = {Relaxation to equilibrium of conservative dynamics. {I}. {Z}ero-range processes},
+     url           = {https://doi.org/10.1214/aop/1022677265},
+     volume        = {27},
+     year          = {1999}
    }
-`The URL link to the source <ttps://doi.org/10.1214/aop/1022677265}>`_
+`The URL link to the source <https://doi.org/10.1214/aop/1022677265>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

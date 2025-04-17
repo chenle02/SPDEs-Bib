@@ -8,25 +8,22 @@ brzezniak.razafimandimby:16:irreducibility
 .. code-block:: bibtex
 
    @article{brzezniak.razafimandimby:16:irreducibility,
-    author = {Brze\'{z}niak, Zdzis{\l}aw and Razafimandimby, Paul
-   Andr\'{e}},
-    doi = {10.3934/dcdsb.2016.21.1051},
-    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A
-   Journal Bridging Mathematics and Sciences},
-    issn = {1531-3492,1553-524X},
-    journal = {Discrete Contin. Dyn. Syst. Ser. B},
-    mrclass = {60H15 (35R60)},
-    mrnumber = {3483552},
-    mrreviewer = {Le\ Chen},
-    number = {4},
-    pages = {1051--1077},
-    title = {Irreducibility and strong {F}eller property for stochastic
-   evolution equations in {B}anach spaces},
-    url = {https://doi.org/10.3934/dcdsb.2016.21.1051},
-    volume = {21},
-    year = {2016}
+     author        = {Brze\'{z}niak, Zdzis{\l}aw and Razafimandimby, Paul Andr\'{e}},
+     doi           = {10.3934/dcdsb.2016.21.1051},
+     fjournal      = {Discrete and Continuous Dynamical Systems. Series B. A Journal Bridging Mathematics and Sciences},
+     issn          = {1531-3492,1553-524X},
+     journal       = {Discrete Contin. Dyn. Syst. Ser. B},
+     mrclass       = {60H15 (35R60)},
+     mrnumber      = {3483552},
+     mrreviewer    = {Le\ Chen},
+     number        = {4},
+     pages         = {1051--1077},
+     title         = {Irreducibility and strong {F}eller property for stochastic evolution equations in {B}anach spaces},
+     url           = {https://doi.org/10.3934/dcdsb.2016.21.1051},
+     volume        = {21},
+     year          = {2016}
    }
-`The URL link to the source <ttps://doi.org/10.3934/dcdsb.2016.21.1051}>`_
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2016.21.1051>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

@@ -8,24 +8,22 @@ kosygina.yilmaz.ea:20:homogenization
 .. code-block:: bibtex
 
    @article{kosygina.yilmaz.ea:20:homogenization,
-    author = {Kosygina, Elena and Yilmaz, Atilla and Zeitouni, Ofer},
-    doi = {10.1080/03605302.2019.1657448},
-    fjournal = {Communications in Partial Differential Equations},
-    issn = {0360-5302,1532-4133},
-    journal = {Comm. Partial Differential Equations},
-    mrclass = {35B27 (35K59 60K37 93E20)},
-    mrnumber = {4037096},
-    mrreviewer = {Ben\ W.\ Schweizer},
-    number = {1},
-    pages = {32--56},
-    title = {Homogenization of a class of one-dimensional nonconvex
-   viscous {H}amilton-{J}acobi equations with random
-   potential},
-    url = {https://doi.org/10.1080/03605302.2019.1657448},
-    volume = {45},
-    year = {2020}
+     author        = {Kosygina, Elena and Yilmaz, Atilla and Zeitouni, Ofer},
+     doi           = {10.1080/03605302.2019.1657448},
+     fjournal      = {Communications in Partial Differential Equations},
+     issn          = {0360-5302,1532-4133},
+     journal       = {Comm. Partial Differential Equations},
+     mrclass       = {35B27 (35K59 60K37 93E20)},
+     mrnumber      = {4037096},
+     mrreviewer    = {Ben\ W.\ Schweizer},
+     number        = {1},
+     pages         = {32--56},
+     title         = {Homogenization of a class of one-dimensional nonconvex viscous {H}amilton-{J}acobi equations with random potential},
+     url           = {https://doi.org/10.1080/03605302.2019.1657448},
+     volume        = {45},
+     year          = {2020}
    }
-`The URL link to the source <ttps://doi.org/10.1080/03605302.2019.1657448}>`_
+`The URL link to the source <https://doi.org/10.1080/03605302.2019.1657448>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

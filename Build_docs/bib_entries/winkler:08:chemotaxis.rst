@@ -8,23 +8,22 @@ winkler:08:chemotaxis
 .. code-block:: bibtex
 
    @article{winkler:08:chemotaxis,
-    author = {Winkler, Michael},
-    doi = {10.1016/j.jmaa.2008.07.071},
-    fjournal = {Journal of Mathematical Analysis and Applications},
-    issn = {0022-247X},
-    journal = {J. Math. Anal. Appl.},
-    mrclass = {35K57 (35D05 35K50 92C17)},
-    mrnumber = {2445771},
-    mrreviewer = {Gabriela Marinoschi},
-    number = {2},
-    pages = {708--729},
-    title = {Chemotaxis with logistic source: very weak global
-   solutions and their boundedness properties},
-    url = {https://doi.org/10.1016/j.jmaa.2008.07.071},
-    volume = {348},
-    year = {2008}
+     author        = {Winkler, Michael},
+     doi           = {10.1016/j.jmaa.2008.07.071},
+     fjournal      = {Journal of Mathematical Analysis and Applications},
+     issn          = {0022-247X},
+     journal       = {J. Math. Anal. Appl.},
+     mrclass       = {35K57 (35D05 35K50 92C17)},
+     mrnumber      = {2445771},
+     mrreviewer    = {Gabriela Marinoschi},
+     number        = {2},
+     pages         = {708--729},
+     title         = {Chemotaxis with logistic source: very weak global solutions and their boundedness properties},
+     url           = {https://doi.org/10.1016/j.jmaa.2008.07.071},
+     volume        = {348},
+     year          = {2008}
    }
-`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2008.07.071}>`_
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2008.07.071>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

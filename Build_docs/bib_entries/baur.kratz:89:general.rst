@@ -8,24 +8,22 @@ baur.kratz:89:general
 .. code-block:: bibtex
 
    @article{baur.kratz:89:general,
-    author = {Baur, G. and Kratz, W.},
-    doi = {10.1007/BF02850019},
-    fjournal = {Rendiconti del Circolo Matematico di Palermo. Serie II},
-    issn = {0009-725X},
-    journal = {Rend. Circ. Mat. Palermo (2)},
-    mrclass = {34B05 (34C10 49R05)},
-    mrnumber = {1053376},
-    mrreviewer = {Basudeb Ray Paladhi},
-    number = {3},
-    pages = {329--370 (1990)},
-    title = {A general oscillation theorem for selfadjoint differential
-   systems with applications to {S}turm-{L}iouville eigenvalue
-   problems and quadratic functionals},
-    url = {https://doi.org/10.1007/BF02850019},
-    volume = {38},
-    year = {1989}
+     author        = {Baur, G. and Kratz, W.},
+     doi           = {10.1007/BF02850019},
+     fjournal      = {Rendiconti del Circolo Matematico di Palermo. Serie II},
+     issn          = {0009-725X},
+     journal       = {Rend. Circ. Mat. Palermo (2)},
+     mrclass       = {34B05 (34C10 49R05)},
+     mrnumber      = {1053376},
+     mrreviewer    = {Basudeb Ray Paladhi},
+     number        = {3},
+     pages         = {329--370 (1990)},
+     title         = {A general oscillation theorem for selfadjoint differential systems with applications to {S}turm-{L}iouville eigenvalue problems and quadratic functionals},
+     url           = {https://doi.org/10.1007/BF02850019},
+     volume        = {38},
+     year          = {1989}
    }
-`The URL link to the source <ttps://doi.org/10.1007/BF02850019}>`_
+`The URL link to the source <https://doi.org/10.1007/BF02850019>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

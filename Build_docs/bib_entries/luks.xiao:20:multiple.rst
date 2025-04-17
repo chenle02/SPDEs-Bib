@@ -8,23 +8,22 @@ luks.xiao:20:multiple
 .. code-block:: bibtex
 
    @article{luks.xiao:20:multiple,
-    author = {Luks, Tomasz and Xiao, Yimin},
-    doi = {10.1007/s10959-018-0859-4},
-    fjournal = {Journal of Theoretical Probability},
-    issn = {0894-9840,1572-9230},
-    journal = {J. Theoret. Probab.},
-    mrclass = {60J25 (60G17 60G51)},
-    mrnumber = {4064297},
-    mrreviewer = {Doncho\ S.\ Donchev},
-    number = {1},
-    pages = {153--179},
-    title = {Multiple points of operator semistable {L}\'{e}vy
-   processes},
-    url = {https://doi.org/10.1007/s10959-018-0859-4},
-    volume = {33},
-    year = {2020}
+     author        = {Luks, Tomasz and Xiao, Yimin},
+     doi           = {10.1007/s10959-018-0859-4},
+     fjournal      = {Journal of Theoretical Probability},
+     issn          = {0894-9840,1572-9230},
+     journal       = {J. Theoret. Probab.},
+     mrclass       = {60J25 (60G17 60G51)},
+     mrnumber      = {4064297},
+     mrreviewer    = {Doncho\ S.\ Donchev},
+     number        = {1},
+     pages         = {153--179},
+     title         = {Multiple points of operator semistable {L}\'{e}vy processes},
+     url           = {https://doi.org/10.1007/s10959-018-0859-4},
+     volume        = {33},
+     year          = {2020}
    }
-`The URL link to the source <ttps://doi.org/10.1007/s10959-018-0859-4}>`_
+`The URL link to the source <https://doi.org/10.1007/s10959-018-0859-4>`_
 
 
 `Back to index <../By-Cite-Keys.html>`_

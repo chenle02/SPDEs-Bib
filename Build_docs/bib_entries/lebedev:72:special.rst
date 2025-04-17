@@ -8,16 +8,14 @@ lebedev:72:special
 .. code-block:: bibtex
 
    @book{lebedev:72:special,
-    author = {Lebedev, N. N.},
-    mrclass = {33-XX (69.00)},
-    mrnumber = {350075},
-    note = {Revised edition, translated from the Russian and edited by
-   Richard A. Silverman, Unabridged and corrected
-   republication},
-    pages = {xii+308},
-    publisher = {Dover Publications, Inc., New York},
-    title = {Special functions and their applications},
-    year = {1972}
+     author        = {Lebedev, N. N.},
+     mrclass       = {33-XX (69.00)},
+     mrnumber      = {350075},
+     note          = {Revised edition, translated from the Russian and edited by Richard A. Silverman, Unabridged and corrected republication},
+     pages         = {xii+308},
+     publisher     = {Dover Publications, Inc., New York},
+     title         = {Special functions and their applications},
+     year          = {1972}
    }
 
 `Back to index <../By-Cite-Keys.html>`_
