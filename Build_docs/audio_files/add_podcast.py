@@ -28,7 +28,7 @@ def check_and_add_audio(rst_file_path, wav_filename):
         return False
 
     # Find the BibTeX entry position
-    bibtex_match = re.search(r'(\*\*BibTeX Entry:\*\*\s*\n\s*\.\. code-block:: bibtex\s*\n.*?})\s*', content, re.DOTALL)
+    bibtex_match = re.search(r'(\*\*BibTeX Entry:\*\*\s*\n\s*\.\. code-block:: bibtex\s*\n\s*.*?})\s*\n\s*(?=`Back to)', content, re.DOTALL)
 
     if not bibtex_match:
         print(f"Could not find BibTeX entry in {rst_file_path}")
@@ -75,7 +75,7 @@ def check_and_add_audio(rst_file_path, wav_filename):
 def main():
     # Current directory (where WAV files are)
     current_dir = Path('.')
-    rst_dir = Path('../rst_files')
+    rst_dir = Path('../bib_entries')
 
     # Ensure rst_dir exists
     if not rst_dir.exists():
