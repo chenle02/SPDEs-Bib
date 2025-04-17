@@ -23,7 +23,8 @@ weinberger:82:long-time
      volume        = {13},
      year          = {1982}
    }
-`The URL link to the source <https://doi.org/10.1137/0513028>`_
+
+`The URL link to the source <https://doi.org/10.1137/0513028>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

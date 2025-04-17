@@ -23,7 +23,8 @@ ceyhan:11:spatial
      volume        = {40},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1080/03610921003597211>`_
+
+`The URL link to the source <https://doi.org/10.1080/03610921003597211>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

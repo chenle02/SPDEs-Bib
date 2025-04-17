@@ -23,7 +23,8 @@ beliaev.jarvenpaa.ea:09:packing
      volume        = {80},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1112/jlms/jdp040>`_
+
+`The URL link to the source <https://doi.org/10.1112/jlms/jdp040>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

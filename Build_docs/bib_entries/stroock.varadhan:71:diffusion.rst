@@ -22,7 +22,8 @@ stroock.varadhan:71:diffusion
      volume        = {24},
      year          = {1971}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160240206>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160240206>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

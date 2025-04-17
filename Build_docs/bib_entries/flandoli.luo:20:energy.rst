@@ -23,7 +23,8 @@ flandoli.luo:20:energy
      volume        = {61},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1063/1.5099359>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.5099359>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

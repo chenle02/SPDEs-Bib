@@ -23,7 +23,8 @@ damron.hanson.ea:15:sublinear
      volume        = {163},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-014-0591-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-014-0591-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

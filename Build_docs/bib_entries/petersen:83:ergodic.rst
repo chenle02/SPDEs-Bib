@@ -22,7 +22,8 @@ petersen:83:ergodic
      volume        = {2},
      year          = {1983}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511608728>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511608728>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

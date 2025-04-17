@@ -22,7 +22,8 @@ bombieri.bourgain.ea:09:roots
      url           = {https://doi.org/10.1093/imrn/rnn147},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1093/imrn/rnn147>`_
+
+`The URL link to the source <https://doi.org/10.1093/imrn/rnn147>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

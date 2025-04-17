@@ -20,7 +20,8 @@ fyodorov.le-doussal.ea:09:statistical
      url           = {https://doi.org/10.1088/1742-5468/2009/10/p10005},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1088/1742-5468/2009/10/p10005>`_
+
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2009/10/p10005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

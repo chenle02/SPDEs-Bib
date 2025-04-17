@@ -22,7 +22,8 @@ chaleyat-maurel.sanz-sole:03:positivity
      volume        = {7},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1051/ps:2003002>`_
+
+`The URL link to the source <https://doi.org/10.1051/ps:2003002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

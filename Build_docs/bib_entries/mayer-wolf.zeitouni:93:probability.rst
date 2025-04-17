@@ -22,7 +22,8 @@ mayer-wolf.zeitouni:93:probability
      volume        = {21},
      year          = {1993}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199301)21:1<14:TPOSGE>2.0.CO;2-N\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199301)21:1<14:TPOSGE>2.0.CO;2-N\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

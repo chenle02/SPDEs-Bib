@@ -22,7 +22,8 @@ bourgain.kontorovich:11:on
      volume        = {349},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2011.03.023>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2011.03.023>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

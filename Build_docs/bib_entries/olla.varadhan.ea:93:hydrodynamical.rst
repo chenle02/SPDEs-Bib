@@ -22,7 +22,8 @@ olla.varadhan.ea:93:hydrodynamical
      volume        = {155},
      year          = {1993}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104253396>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104253396>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

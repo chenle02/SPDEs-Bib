@@ -19,4 +19,4 @@ spitzer:67:renewal
      year          = {1967}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

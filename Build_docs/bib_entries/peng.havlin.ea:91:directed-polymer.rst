@@ -21,7 +21,8 @@ peng.havlin.ea:91:directed-polymer
      volume        = {44},
      year          = {1991}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.44.R2239>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.44.R2239>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

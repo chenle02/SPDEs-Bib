@@ -23,7 +23,8 @@ cerrai.freidlin:06:on
      volume        = {135},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-005-0465-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-005-0465-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

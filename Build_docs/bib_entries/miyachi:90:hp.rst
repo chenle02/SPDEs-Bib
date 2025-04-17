@@ -23,7 +23,8 @@ miyachi:90:hp
      volume        = {95},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.4064/sm-95-3-205-228>`_
+
+`The URL link to the source <https://doi.org/10.4064/sm-95-3-205-228>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ dawson:78:geostochastic
      volume        = {6},
      year          = {1978}
    }
-`The URL link to the source <https://doi.org/10.2307/3315044>`_
+
+`The URL link to the source <https://doi.org/10.2307/3315044>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

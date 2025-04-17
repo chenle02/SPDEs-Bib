@@ -23,7 +23,8 @@ pajor-gyulai.salins:16:on
      volume        = {29},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-015-0600-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-015-0600-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

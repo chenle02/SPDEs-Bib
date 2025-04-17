@@ -22,7 +22,8 @@ bressan:92:stable
      volume        = {98},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-0396(92)90104-U>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-0396(92)90104-U>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ baik:00:random
      volume        = {53},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1002/1097-0312(200011)53:11<1385::aid-cpa3>3.0.co;2-t>`_
+
+`The URL link to the source <https://doi.org/10.1002/1097-0312(200011)53:11<1385::aid-cpa3>3.0.co;2-t>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

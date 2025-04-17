@@ -20,4 +20,4 @@ abramowitz.stegun:64:handbook
      year          = {1964}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

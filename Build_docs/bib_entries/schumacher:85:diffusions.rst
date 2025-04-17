@@ -22,7 +22,8 @@ schumacher:85:diffusions
      volume        = {41},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1090/conm/041/814724>`_
+
+`The URL link to the source <https://doi.org/10.1090/conm/041/814724>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

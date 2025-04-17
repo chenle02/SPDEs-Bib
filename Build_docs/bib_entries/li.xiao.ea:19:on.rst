@@ -23,7 +23,8 @@ li.xiao.ea:19:on
      volume        = {32},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-018-0857-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-018-0857-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ luchko:16:new
      volume        = {11},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1051/mmnp/201611301>`_
+
+`The URL link to the source <https://doi.org/10.1051/mmnp/201611301>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

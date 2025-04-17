@@ -21,7 +21,8 @@ ghosal:19:correlation
      volume        = {15},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.3842/SIGMA.2019.092>`_
+
+`The URL link to the source <https://doi.org/10.3842/SIGMA.2019.092>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

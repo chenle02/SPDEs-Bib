@@ -23,7 +23,8 @@ gantert.zeitouni:98:quenched
      volume        = {194},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1007/s002200050354>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002200050354>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

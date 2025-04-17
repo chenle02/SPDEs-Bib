@@ -22,7 +22,8 @@ ledoux:01:concentration
      volume        = {89},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1090/surv/089>`_
+
+`The URL link to the source <https://doi.org/10.1090/surv/089>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

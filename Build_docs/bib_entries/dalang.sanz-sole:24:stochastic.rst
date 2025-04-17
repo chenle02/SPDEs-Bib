@@ -15,7 +15,8 @@ dalang.sanz-sole:24:stochastic
      url           = {http://arXiv.org/abs/2402.02119},
      year          = {2024}
    }
-`The URL link to the source <http://arXiv.org/abs/2402.02119>`_
+
+`The URL link to the source <http://arXiv.org/abs/2402.02119>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bourgain:18:on
      volume        = {172},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-018-1981-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-018-1981-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

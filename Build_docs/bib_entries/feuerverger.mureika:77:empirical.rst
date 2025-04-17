@@ -22,7 +22,8 @@ feuerverger.mureika:77:empirical
      volume        = {5},
      year          = {1977}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0090-5364(197701)5:1<88:TECFAI>2.0.CO;2-8\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0090-5364(197701)5:1<88:TECFAI>2.0.CO;2-8\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

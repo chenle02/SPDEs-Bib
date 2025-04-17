@@ -22,7 +22,8 @@ guionnet.zeitouni:04:addendum
      volume        = {216},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2003.11.013>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2003.11.013>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

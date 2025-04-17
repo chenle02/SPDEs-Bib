@@ -23,7 +23,8 @@ kong.rawal.ea:15:spreading
      volume        = {10},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1051/mmnp/201510609>`_
+
+`The URL link to the source <https://doi.org/10.1051/mmnp/201510609>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ derrida.gardner:84:renormalisation
      volume        = {17},
      year          = {1984}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/17/3223>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/17/3223>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

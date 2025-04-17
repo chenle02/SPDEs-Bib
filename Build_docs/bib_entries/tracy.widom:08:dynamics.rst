@@ -22,7 +22,8 @@ tracy.widom:08:dynamics
      volume        = {41},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1088/1751-8113/41/48/485204>`_
+
+`The URL link to the source <https://doi.org/10.1088/1751-8113/41/48/485204>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ allouba.xiao:17:l-kuramoto-sivashinsky
      volume        = {263},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2017.03.027>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2017.03.027>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

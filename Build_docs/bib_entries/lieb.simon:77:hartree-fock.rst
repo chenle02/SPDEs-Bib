@@ -22,7 +22,8 @@ lieb.simon:77:hartree-fock
      volume        = {53},
      year          = {1977}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103900699>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103900699>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

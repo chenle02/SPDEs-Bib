@@ -22,7 +22,8 @@ mckean:63:winding
      volume        = {2},
      year          = {1963}
    }
-`The URL link to the source <https://doi.org/10.1215/kjm/1250524936>`_
+
+`The URL link to the source <https://doi.org/10.1215/kjm/1250524936>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

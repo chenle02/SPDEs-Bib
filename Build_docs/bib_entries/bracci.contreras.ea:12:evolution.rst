@@ -22,7 +22,8 @@ bracci.contreras.ea:12:evolution
      volume        = {672},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1515/crelle.2011.167>`_
+
+`The URL link to the source <https://doi.org/10.1515/crelle.2011.167>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

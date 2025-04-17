@@ -24,7 +24,8 @@ rider:03:limit
      volume        = {36},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1088/0305-4470/36/12/331>`_
+
+`The URL link to the source <https://doi.org/10.1088/0305-4470/36/12/331>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

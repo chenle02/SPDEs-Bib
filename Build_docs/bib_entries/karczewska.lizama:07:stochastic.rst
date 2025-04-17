@@ -23,7 +23,8 @@ karczewska.lizama:07:stochastic
      volume        = {7},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s00028-007-0302-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00028-007-0302-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ nualart:09:application
      volume        = {1962},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-540-85994-9\_3>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-540-85994-9\_3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

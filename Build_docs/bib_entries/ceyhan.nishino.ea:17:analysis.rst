@@ -22,7 +22,8 @@ ceyhan.nishino.ea:17:analysis
      volume        = {10},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.4310/SII.2017.v10.n2.a13>`_
+
+`The URL link to the source <https://doi.org/10.4310/SII.2017.v10.n2.a13>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

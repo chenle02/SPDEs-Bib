@@ -22,7 +22,8 @@ bourgain:05:greens
      volume        = {158},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1515/9781400837144>`_
+
+`The URL link to the source <https://doi.org/10.1515/9781400837144>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

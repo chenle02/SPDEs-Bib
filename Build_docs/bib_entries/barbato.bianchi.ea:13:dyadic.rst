@@ -23,7 +23,8 @@ barbato.bianchi.ea:13:dyadic
      volume        = {54},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1063/1.4792488>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.4792488>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

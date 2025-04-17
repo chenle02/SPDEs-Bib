@@ -23,7 +23,8 @@ wang.mu.ea:14:on
      volume        = {256},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2013.12.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2013.12.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

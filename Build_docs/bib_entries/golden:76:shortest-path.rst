@@ -18,4 +18,4 @@ golden:76:shortest-path
      year          = {1976}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

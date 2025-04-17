@@ -22,7 +22,8 @@ ney.spitzer:66:martin
      volume        = {121},
      year          = {1966}
    }
-`The URL link to the source <https://doi.org/10.2307/1994335>`_
+
+`The URL link to the source <https://doi.org/10.2307/1994335>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

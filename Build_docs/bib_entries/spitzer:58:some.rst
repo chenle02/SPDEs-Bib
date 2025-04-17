@@ -22,7 +22,8 @@ spitzer:58:some
      volume        = {87},
      year          = {1958}
    }
-`The URL link to the source <https://doi.org/10.2307/1993096>`_
+
+`The URL link to the source <https://doi.org/10.2307/1993096>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ li.shen.ea:17:invariant
      volume        = {22},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdsb.2017124>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2017124>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

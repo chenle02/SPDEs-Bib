@@ -23,7 +23,8 @@ gardner.derrida:89:probability
      volume        = {22},
      year          = {1989}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/22/1975>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/22/1975>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ chen.cranston.ea:17:dissipation
      volume        = {45},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1214/15-AOP1040>`_
+
+`The URL link to the source <https://doi.org/10.1214/15-AOP1040>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

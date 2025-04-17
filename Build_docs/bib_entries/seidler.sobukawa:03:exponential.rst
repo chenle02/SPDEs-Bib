@@ -23,7 +23,8 @@ seidler.sobukawa:03:exponential
      volume        = {67},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1112/S0024610702003745>`_
+
+`The URL link to the source <https://doi.org/10.1112/S0024610702003745>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

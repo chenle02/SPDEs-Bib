@@ -22,7 +22,8 @@ brzezniak.ondrejat:11:weak
      volume        = {36},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1080/03605302.2011.574243>`_
+
+`The URL link to the source <https://doi.org/10.1080/03605302.2011.574243>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

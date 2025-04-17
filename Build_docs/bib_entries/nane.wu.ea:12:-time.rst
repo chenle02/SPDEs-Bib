@@ -22,7 +22,8 @@ nane.wu.ea:12:-time
      volume        = {16},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1051/ps/2011103>`_
+
+`The URL link to the source <https://doi.org/10.1051/ps/2011103>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

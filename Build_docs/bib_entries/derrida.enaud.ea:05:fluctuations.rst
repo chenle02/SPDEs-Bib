@@ -23,7 +23,8 @@ derrida.enaud.ea:05:fluctuations
      volume        = {118},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-004-1989-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-004-1989-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

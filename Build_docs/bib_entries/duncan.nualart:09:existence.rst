@@ -23,7 +23,8 @@ duncan.nualart:09:existence
      volume        = {9},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493709002725>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493709002725>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

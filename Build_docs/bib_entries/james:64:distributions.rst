@@ -22,7 +22,8 @@ james:64:distributions
      volume        = {35},
      year          = {1964}
    }
-`The URL link to the source <https://doi.org/10.1214/aoms/1177703550>`_
+
+`The URL link to the source <https://doi.org/10.1214/aoms/1177703550>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

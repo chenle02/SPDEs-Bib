@@ -23,7 +23,8 @@ cannizzaro.erhard.ea:21:2d
      volume        = {49},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1214/20-AOP1446>`_
+
+`The URL link to the source <https://doi.org/10.1214/20-AOP1446>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

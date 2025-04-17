@@ -23,7 +23,8 @@ hajek:85:mean
      volume        = {68},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00532643>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00532643>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

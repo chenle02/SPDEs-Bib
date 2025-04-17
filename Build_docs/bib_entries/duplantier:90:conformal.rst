@@ -18,4 +18,4 @@ duplantier:90:conformal
      year          = {1990}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ rovira.tindel:05:on
      volume        = {222},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2004.07.017>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2004.07.017>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

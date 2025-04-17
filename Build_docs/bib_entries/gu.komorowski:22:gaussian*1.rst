@@ -15,7 +15,8 @@ gu.komorowski:22:gaussian*1
      url           = {https://www.arxiv.org/abs/2201.07097},
      year          = {2022}
    }
-`The URL link to the source <https://www.arxiv.org/abs/2201.07097>`_
+
+`The URL link to the source <https://www.arxiv.org/abs/2201.07097>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

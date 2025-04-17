@@ -23,7 +23,8 @@ derrida.pomeau:80:feigenbaums
      volume        = {80},
      year          = {1980}
    }
-`The URL link to the source <https://doi.org/10.1016/0375-9601(80)90003-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/0375-9601(80)90003-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

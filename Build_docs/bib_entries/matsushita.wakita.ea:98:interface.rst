@@ -20,7 +20,8 @@ matsushita.wakita.ea:98:interface
      volume        = {249},
      year          = {1998}
    }
-`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0378437197005116>`_
+
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0378437197005116>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

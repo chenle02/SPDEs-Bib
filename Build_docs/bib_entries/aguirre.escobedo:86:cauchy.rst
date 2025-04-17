@@ -22,7 +22,8 @@ aguirre.escobedo:86:cauchy
      volume        = {8},
      year          = {1986/87}
    }
-`The URL link to the source <http://www.numdam.org/item?id=AFST\_1986-1987\_5\_8\_2\_175\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=AFST\_1986-1987\_5\_8\_2\_175\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

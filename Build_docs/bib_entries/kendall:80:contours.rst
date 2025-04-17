@@ -23,7 +23,8 @@ kendall:80:contours
      volume        = {52},
      year          = {1980}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00538891>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00538891>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

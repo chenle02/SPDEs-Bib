@@ -23,7 +23,8 @@ peszat.russo:05:large-noise
      volume        = {11},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.3150/bj/1116340293>`_
+
+`The URL link to the source <https://doi.org/10.3150/bj/1116340293>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

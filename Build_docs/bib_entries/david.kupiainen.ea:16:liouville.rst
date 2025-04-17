@@ -22,7 +22,8 @@ david.kupiainen.ea:16:liouville
      volume        = {342},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-016-2572-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-016-2572-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ kesten.spitzer:84:convergence
      volume        = {67},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00532045>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00532045>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

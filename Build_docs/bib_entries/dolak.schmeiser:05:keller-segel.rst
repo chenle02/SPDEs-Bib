@@ -23,7 +23,8 @@ dolak.schmeiser:05:keller-segel
      volume        = {66},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1137/040612841>`_
+
+`The URL link to the source <https://doi.org/10.1137/040612841>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

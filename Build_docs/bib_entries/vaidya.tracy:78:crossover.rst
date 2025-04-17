@@ -22,7 +22,8 @@ vaidya.tracy:78:crossover
      volume        = {68},
      year          = {1978}
    }
-`The URL link to the source <https://doi.org/10.1016/0375-9601(78)90537-6>`_
+
+`The URL link to the source <https://doi.org/10.1016/0375-9601(78)90537-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

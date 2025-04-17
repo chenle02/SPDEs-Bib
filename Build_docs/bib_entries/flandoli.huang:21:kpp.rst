@@ -21,7 +21,8 @@ flandoli.huang:21:kpp
      volume        = {303},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2021.09.034>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2021.09.034>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

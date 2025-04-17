@@ -22,7 +22,8 @@ majda:03:introduction
      volume        = {9},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1090/cln/009>`_
+
+`The URL link to the source <https://doi.org/10.1090/cln/009>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

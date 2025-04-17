@@ -23,7 +23,8 @@ burdzy.khoshnevisan:98:brownian
      volume        = {8},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1214/aoap/1028903448>`_
+
+`The URL link to the source <https://doi.org/10.1214/aoap/1028903448>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ chen.li.ea:11:large
      volume        = {39},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1214/10-AOP566>`_
+
+`The URL link to the source <https://doi.org/10.1214/10-AOP566>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

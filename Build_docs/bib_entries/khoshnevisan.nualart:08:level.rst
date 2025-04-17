@@ -23,7 +23,8 @@ khoshnevisan.nualart:08:level
      volume        = {14},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.3150/08-BEJ133>`_
+
+`The URL link to the source <https://doi.org/10.3150/08-BEJ133>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

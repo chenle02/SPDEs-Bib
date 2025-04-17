@@ -22,7 +22,8 @@ lacoin:24:convergence
      volume        = {5},
      year          = {2024}
    }
-`The URL link to the source <https://doi.org/10.2140/pmp.2024.5.491>`_
+
+`The URL link to the source <https://doi.org/10.2140/pmp.2024.5.491>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ zeitouni:22:random
      volume        = {59},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.2307/1970008>`_
+
+`The URL link to the source <https://doi.org/10.2307/1970008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

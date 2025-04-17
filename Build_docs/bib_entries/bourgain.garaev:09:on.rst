@@ -23,7 +23,8 @@ bourgain.garaev:09:on
      volume        = {146},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1017/S0305004108001230>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0305004108001230>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

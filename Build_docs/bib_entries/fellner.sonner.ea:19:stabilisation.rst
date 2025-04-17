@@ -23,7 +23,8 @@ fellner.sonner.ea:19:stabilisation
      volume        = {24},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdsb.2019050>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2019050>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

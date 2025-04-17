@@ -23,7 +23,8 @@ skoulakis.adler:01:superprocesses
      volume        = {11},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1214/aoap/1015345302>`_
+
+`The URL link to the source <https://doi.org/10.1214/aoap/1015345302>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

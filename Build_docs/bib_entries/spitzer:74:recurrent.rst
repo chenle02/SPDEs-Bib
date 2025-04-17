@@ -22,7 +22,8 @@ spitzer:74:recurrent
      volume        = {198},
      year          = {1974}
    }
-`The URL link to the source <https://doi.org/10.2307/1996754>`_
+
+`The URL link to the source <https://doi.org/10.2307/1996754>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

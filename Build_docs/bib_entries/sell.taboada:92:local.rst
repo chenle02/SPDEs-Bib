@@ -23,7 +23,8 @@ sell.taboada:92:local
      volume        = {18},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1016/0362-546X(92)90006-Z>`_
+
+`The URL link to the source <https://doi.org/10.1016/0362-546X(92)90006-Z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

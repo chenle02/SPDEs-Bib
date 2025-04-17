@@ -23,7 +23,8 @@ khoshnevisan:92:level
      volume        = {43},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(92)90066-Y>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(92)90066-Y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ argyros.bourgain.ea:84:result
      volume        = {78},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.4064/sm-78-1-77-91>`_
+
+`The URL link to the source <https://doi.org/10.4064/sm-78-1-77-91>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

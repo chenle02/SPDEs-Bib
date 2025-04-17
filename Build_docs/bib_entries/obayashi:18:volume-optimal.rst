@@ -22,7 +22,8 @@ obayashi:18:volume-optimal
      volume        = {2},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1137/17M1159439>`_
+
+`The URL link to the source <https://doi.org/10.1137/17M1159439>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

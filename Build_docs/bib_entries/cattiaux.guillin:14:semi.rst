@@ -22,7 +22,8 @@ cattiaux.guillin:14:semi
      volume        = {2123},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-319-11970-0\_9>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-11970-0\_9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

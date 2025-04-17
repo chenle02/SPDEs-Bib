@@ -22,7 +22,8 @@ osaki.yagi:01:finite
      volume        = {44},
      year          = {2001}
    }
-`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr1893940.xml>`_
+
+`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr1893940.xml>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

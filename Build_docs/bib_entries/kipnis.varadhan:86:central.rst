@@ -22,7 +22,8 @@ kipnis.varadhan:86:central
      volume        = {104},
      year          = {1986}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104114929>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104114929>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

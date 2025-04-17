@@ -22,7 +22,8 @@ schramm.smirnov:11:on*1
      url           = {https://doi.org/10.1007/978-1-4419-9675-6\_35},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4419-9675-6\_35>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4419-9675-6\_35>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

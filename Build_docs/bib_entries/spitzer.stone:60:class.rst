@@ -21,7 +21,8 @@ spitzer.stone:60:class
      volume        = {4},
      year          = {1960}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255455868>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255455868>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

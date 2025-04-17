@@ -23,7 +23,8 @@ meerschaert.scheffler:08:triangular
      volume        = {118},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2007.10.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2007.10.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

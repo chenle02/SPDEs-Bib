@@ -20,4 +20,4 @@ brychkov:08:handbook
      year          = {2008}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

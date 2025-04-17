@@ -22,7 +22,8 @@ flandoli:91:stochastic*1
      volume        = {4},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1016/0893-9659(91)90052-W>`_
+
+`The URL link to the source <https://doi.org/10.1016/0893-9659(91)90052-W>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

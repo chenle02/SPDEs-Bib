@@ -21,7 +21,8 @@ sherrington.kirkpatrick:75:solvable
      volume        = {35},
      year          = {1975}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.35.1792>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.35.1792>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

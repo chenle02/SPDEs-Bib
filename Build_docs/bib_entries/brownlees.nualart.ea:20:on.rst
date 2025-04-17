@@ -22,7 +22,8 @@ brownlees.nualart.ea:20:on
      volume        = {39},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1080/07474938.2020.1735751>`_
+
+`The URL link to the source <https://doi.org/10.1080/07474938.2020.1735751>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ tsutsumi.mukasa:71:parabolic
      volume        = {14},
      year          = {1971}
    }
-`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr0312097.xml>`_
+
+`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr0312097.xml>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -19,4 +19,4 @@ walter:70:differential
      year          = {1970}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

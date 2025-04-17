@@ -23,7 +23,8 @@ bourguin.nourdin:20:freeness
      volume        = {305},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.2140/pjm.2020.305.447>`_
+
+`The URL link to the source <https://doi.org/10.2140/pjm.2020.305.447>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

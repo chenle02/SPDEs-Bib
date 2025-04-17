@@ -23,7 +23,8 @@ dubedat:09:sle
      volume        = {22},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1090/S0894-0347-09-00636-5>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0894-0347-09-00636-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

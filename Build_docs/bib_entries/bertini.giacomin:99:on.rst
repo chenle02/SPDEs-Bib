@@ -23,7 +23,8 @@ bertini.giacomin:99:on
      volume        = {114},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1007/s004400050226>`_
+
+`The URL link to the source <https://doi.org/10.1007/s004400050226>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

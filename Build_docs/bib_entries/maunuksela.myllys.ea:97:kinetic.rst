@@ -21,7 +21,8 @@ maunuksela.myllys.ea:97:kinetic
      volume        = {79},
      year          = {1997}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.79.1515>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.79.1515>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

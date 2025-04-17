@@ -23,7 +23,8 @@ vargas.dao.ea:15:skew
      volume        = {18},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219024915500223>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219024915500223>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ kesten.ornstein.ea:62:general
      volume        = {68},
      year          = {1962}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9904-1962-10808-8>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9904-1962-10808-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

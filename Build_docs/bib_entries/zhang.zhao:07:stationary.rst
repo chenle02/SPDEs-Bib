@@ -23,7 +23,8 @@ zhang.zhao:07:stationary
      volume        = {252},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.06.019>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.06.019>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

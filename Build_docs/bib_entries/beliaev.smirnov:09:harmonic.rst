@@ -23,7 +23,8 @@ beliaev.smirnov:09:harmonic
      volume        = {290},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-009-0864-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-009-0864-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

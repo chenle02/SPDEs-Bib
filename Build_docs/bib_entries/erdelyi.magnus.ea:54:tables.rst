@@ -19,4 +19,4 @@ erdelyi.magnus.ea:54:tables
      year          = {1954}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ allegretto.xie.ea:97:properties
      volume        = {35},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1007/s002850050084>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002850050084>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

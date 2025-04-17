@@ -23,7 +23,8 @@ corwin.parekh:20:limit
      volume        = {180},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-019-02481-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-019-02481-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ taylor:61:on
      volume        = {57},
      year          = {1961}
    }
-`The URL link to the source <https://doi.org/10.1017/s0305004100035581>`_
+
+`The URL link to the source <https://doi.org/10.1017/s0305004100035581>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

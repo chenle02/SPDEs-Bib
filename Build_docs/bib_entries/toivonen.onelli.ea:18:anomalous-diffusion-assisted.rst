@@ -20,7 +20,8 @@ toivonen.onelli.ea:18:anomalous-diffusion-assisted
      volume        = {30},
      year          = {2018}
    }
-`The URL link to the source <http://dx.doi.org/10.1002/adma.201704050>`_
+
+`The URL link to the source <http://dx.doi.org/10.1002/adma.201704050>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

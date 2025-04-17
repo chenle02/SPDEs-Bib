@@ -22,7 +22,8 @@ quastel.sarkar:23:convergence
      volume        = {36},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1090/jams/999>`_
+
+`The URL link to the source <https://doi.org/10.1090/jams/999>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

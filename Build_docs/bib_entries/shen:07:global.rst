@@ -22,7 +22,8 @@ shen:07:global
      volume        = {18},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2007.18.597>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2007.18.597>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

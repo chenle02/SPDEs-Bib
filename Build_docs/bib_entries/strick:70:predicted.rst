@@ -19,7 +19,8 @@ strick:70:predicted
      volume        = {35},
      year          = {1970}
    }
-`The URL link to the source <https://doi.org/10.1190/1.1440101>`_
+
+`The URL link to the source <https://doi.org/10.1190/1.1440101>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

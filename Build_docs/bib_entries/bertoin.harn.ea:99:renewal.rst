@@ -23,7 +23,8 @@ bertoin.harn.ea:99:renewal
      volume        = {45},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1016/S0167-7152(99)00043-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0167-7152(99)00043-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

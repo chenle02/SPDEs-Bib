@@ -22,7 +22,8 @@ bourgain.clozel.ea:10:principe
      volume        = {60},
      year          = {2010}
    }
-`The URL link to the source <http://aif.cedram.org/item?id=AIF\_2010\_\_60\_4\_1215\_0>`_
+
+`The URL link to the source <http://aif.cedram.org/item?id=AIF\_2010\_\_60\_4\_1215\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

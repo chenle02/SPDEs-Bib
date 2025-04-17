@@ -23,7 +23,8 @@ bourgain:15:prescribing
      volume        = {206},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s11856-014-1129-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11856-014-1129-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

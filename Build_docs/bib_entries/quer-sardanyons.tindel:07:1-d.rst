@@ -23,7 +23,8 @@ quer-sardanyons.tindel:07:1-d
      volume        = {117},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2007.01.009>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2007.01.009>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

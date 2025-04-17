@@ -23,7 +23,8 @@ flandoli:16:possible
      volume        = {666},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1090/conm/666/13333>`_
+
+`The URL link to the source <https://doi.org/10.1090/conm/666/13333>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

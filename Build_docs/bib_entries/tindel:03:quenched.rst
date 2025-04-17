@@ -23,7 +23,8 @@ tindel:03:quenched
      volume        = {110},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1021062510565>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1021062510565>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

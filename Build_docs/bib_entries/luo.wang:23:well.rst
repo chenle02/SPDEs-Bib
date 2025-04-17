@@ -22,7 +22,8 @@ luo.wang:23:well
      volume        = {55},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1137/22M1511497>`_
+
+`The URL link to the source <https://doi.org/10.1137/22M1511497>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ ambrosio.serfaty:08:gradient
      volume        = {61},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.20223>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.20223>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

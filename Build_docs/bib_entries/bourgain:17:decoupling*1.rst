@@ -23,7 +23,8 @@ bourgain:17:decoupling*1
      volume        = {30},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1090/jams/860>`_
+
+`The URL link to the source <https://doi.org/10.1090/jams/860>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

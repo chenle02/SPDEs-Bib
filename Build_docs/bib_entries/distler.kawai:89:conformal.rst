@@ -23,7 +23,8 @@ distler.kawai:89:conformal
      volume        = {321},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1016/0550-3213(89)90354-4>`_
+
+`The URL link to the source <https://doi.org/10.1016/0550-3213(89)90354-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

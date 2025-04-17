@@ -23,7 +23,8 @@ bass.chen.ea:05:large
      volume        = {33},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1214/009117904000001099>`_
+
+`The URL link to the source <https://doi.org/10.1214/009117904000001099>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ wang.xiao:22:exact
      volume        = {35},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-021-01148-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-021-01148-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

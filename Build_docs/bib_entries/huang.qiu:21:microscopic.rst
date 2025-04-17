@@ -23,7 +23,8 @@ huang.qiu:21:microscopic
      volume        = {31},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s00332-020-09661-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00332-020-09661-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

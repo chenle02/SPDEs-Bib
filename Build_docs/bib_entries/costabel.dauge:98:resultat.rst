@@ -22,7 +22,8 @@ costabel.dauge:98:resultat
      volume        = {327},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1016/S0764-4442(99)80117-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0764-4442(99)80117-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

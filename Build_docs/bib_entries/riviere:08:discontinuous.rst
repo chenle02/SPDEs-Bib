@@ -23,7 +23,8 @@ riviere:08:discontinuous
      volume        = {35},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1137/1.9780898717440>`_
+
+`The URL link to the source <https://doi.org/10.1137/1.9780898717440>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

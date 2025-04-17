@@ -14,7 +14,8 @@ jakubowski:91:asymptotic
      url           = {http://www-users.mat.uni.torun.pl/~adjakubo/hab.pdf},
      year          = {1991}
    }
-`The URL link to the source <http://www-users.mat.uni.torun.pl/~adjakubo/hab.pdf>`_
+
+`The URL link to the source <http://www-users.mat.uni.torun.pl/~adjakubo/hab.pdf>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

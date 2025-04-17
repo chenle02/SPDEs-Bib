@@ -15,7 +15,8 @@ khoshnevisan.sanz-sole:22:optimal
      url           = {http://arXiv.org/abs/2208.01728},
      year          = {2022}
    }
-`The URL link to the source <http://arXiv.org/abs/2208.01728>`_
+
+`The URL link to the source <http://arXiv.org/abs/2208.01728>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

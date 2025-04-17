@@ -23,7 +23,8 @@ anton.cohen.ea:20:fully
      volume        = {40},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1093/imanum/dry060>`_
+
+`The URL link to the source <https://doi.org/10.1093/imanum/dry060>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ seppalainen:98:entropy
      volume        = {26},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1022855747>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1022855747>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

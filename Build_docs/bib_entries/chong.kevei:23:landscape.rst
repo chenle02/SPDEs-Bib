@@ -23,7 +23,8 @@ chong.kevei:23:landscape
      volume        = {51},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1214/23-aop1623>`_
+
+`The URL link to the source <https://doi.org/10.1214/23-aop1623>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

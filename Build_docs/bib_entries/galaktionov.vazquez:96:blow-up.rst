@@ -23,7 +23,8 @@ galaktionov.vazquez:96:blow-up
      volume        = {127},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1006/jdeq.1996.0059>`_
+
+`The URL link to the source <https://doi.org/10.1006/jdeq.1996.0059>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

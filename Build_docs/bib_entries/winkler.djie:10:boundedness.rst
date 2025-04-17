@@ -22,7 +22,8 @@ winkler.djie:10:boundedness
      volume        = {72},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.na.2009.07.045>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.na.2009.07.045>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

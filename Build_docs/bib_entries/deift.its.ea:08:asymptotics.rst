@@ -23,7 +23,8 @@ deift.its.ea:08:asymptotics
      volume        = {278},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-007-0409-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-007-0409-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

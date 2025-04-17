@@ -21,7 +21,8 @@ korepin.bogoliubov.ea:93:quantum
      url           = {https://doi.org/10.1017/CBO9780511628832},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511628832>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511628832>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ henderson.rajeev:98:renormalized
      volume        = {39},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1063/1.532350>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.532350>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

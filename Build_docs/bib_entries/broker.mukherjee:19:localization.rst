@@ -22,7 +22,8 @@ broker.mukherjee:19:localization
      volume        = {29},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1214/19-AAP1491>`_
+
+`The URL link to the source <https://doi.org/10.1214/19-AAP1491>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

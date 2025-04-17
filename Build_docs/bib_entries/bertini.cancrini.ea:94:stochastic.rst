@@ -22,7 +22,8 @@ bertini.cancrini.ea:94:stochastic
      volume        = {165},
      year          = {1994}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104271129>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104271129>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ gancedo:08:existence
      volume        = {217},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1016/j.aim.2007.10.010>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.aim.2007.10.010>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ chen.li.ea:15:on
      volume        = {14},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.3934/cpaa.2015.14.1817>`_
+
+`The URL link to the source <https://doi.org/10.3934/cpaa.2015.14.1817>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

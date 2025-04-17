@@ -22,7 +22,8 @@ hanyga.seredynska:08:on
      volume        = {131},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-008-9501-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-008-9501-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

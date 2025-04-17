@@ -23,7 +23,8 @@ peszat.zabczyk:00:nonlinear
      volume        = {116},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/s004400050257>`_
+
+`The URL link to the source <https://doi.org/10.1007/s004400050257>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

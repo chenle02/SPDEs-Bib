@@ -23,7 +23,8 @@ bourgain.brezis:03:on
      volume        = {16},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1090/S0894-0347-02-00411-3>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0894-0347-02-00411-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

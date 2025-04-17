@@ -22,7 +22,8 @@ pritchard.zabczyk:81:stability
      volume        = {23},
      year          = {1981}
    }
-`The URL link to the source <https://doi.org/10.1137/1023003>`_
+
+`The URL link to the source <https://doi.org/10.1137/1023003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

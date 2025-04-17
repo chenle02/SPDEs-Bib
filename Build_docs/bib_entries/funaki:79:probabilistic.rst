@@ -22,7 +22,8 @@ funaki:79:probabilistic
      volume        = {55},
      year          = {1979}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.pja/1195517312>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.pja/1195517312>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

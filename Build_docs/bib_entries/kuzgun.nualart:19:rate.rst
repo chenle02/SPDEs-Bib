@@ -23,7 +23,8 @@ kuzgun.nualart:19:rate
      volume        = {37},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1080/07362994.2019.1640613>`_
+
+`The URL link to the source <https://doi.org/10.1080/07362994.2019.1640613>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ rassoul-agha.seppalainen:09:almost
      volume        = {45},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1214/08-AIHP167>`_
+
+`The URL link to the source <https://doi.org/10.1214/08-AIHP167>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

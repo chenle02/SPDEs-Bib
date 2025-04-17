@@ -22,7 +22,8 @@ barral.jin.ea:10:convergence
      volume        = {20},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1214/09-AAP665>`_
+
+`The URL link to the source <https://doi.org/10.1214/09-AAP665>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

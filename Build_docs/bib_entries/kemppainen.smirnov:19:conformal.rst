@@ -22,7 +22,8 @@ kemppainen.smirnov:19:conformal
      volume        = {369},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-019-03437-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-019-03437-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

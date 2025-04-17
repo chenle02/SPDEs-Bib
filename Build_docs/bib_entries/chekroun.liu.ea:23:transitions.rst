@@ -22,7 +22,8 @@ chekroun.liu.ea:23:transitions
      volume        = {346},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2022.11.025>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2022.11.025>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ bourgain.korobkov.ea:15:on
      volume        = {700},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1515/crelle-2013-0002>`_
+
+`The URL link to the source <https://doi.org/10.1515/crelle-2013-0002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

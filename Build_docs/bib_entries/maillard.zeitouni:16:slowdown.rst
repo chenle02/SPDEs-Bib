@@ -23,7 +23,8 @@ maillard.zeitouni:16:slowdown
      volume        = {52},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1214/15-AIHP675>`_
+
+`The URL link to the source <https://doi.org/10.1214/15-AIHP675>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

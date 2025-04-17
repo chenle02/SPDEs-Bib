@@ -20,4 +20,4 @@ shorack.wellner:86:empirical
      year          = {1986}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

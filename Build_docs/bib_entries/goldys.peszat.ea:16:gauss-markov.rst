@@ -23,7 +23,8 @@ goldys.peszat.ea:16:gauss-markov
      volume        = {368},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1090/tran/6329>`_
+
+`The URL link to the source <https://doi.org/10.1090/tran/6329>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

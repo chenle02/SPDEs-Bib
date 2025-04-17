@@ -18,4 +18,4 @@ ni.ea:15:ollivier-ricci
      year          = {2015}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

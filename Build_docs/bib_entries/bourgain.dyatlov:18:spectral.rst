@@ -23,7 +23,8 @@ bourgain.dyatlov:18:spectral
      volume        = {187},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.4007/annals.2018.187.3.5>`_
+
+`The URL link to the source <https://doi.org/10.4007/annals.2018.187.3.5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

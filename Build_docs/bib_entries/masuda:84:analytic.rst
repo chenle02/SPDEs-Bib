@@ -23,7 +23,8 @@ masuda:84:analytic
      volume        = {187},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01163166>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01163166>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

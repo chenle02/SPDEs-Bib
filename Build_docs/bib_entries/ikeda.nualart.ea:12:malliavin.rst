@@ -19,4 +19,4 @@ ikeda.nualart.ea:12:malliavin
      year          = {2012}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

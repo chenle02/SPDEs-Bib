@@ -23,7 +23,8 @@ biler.karch.ea:19:global
      volume        = {267},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2019.06.024>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2019.06.024>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

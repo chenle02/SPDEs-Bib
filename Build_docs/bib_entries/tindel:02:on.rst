@@ -23,7 +23,8 @@ tindel:02:on
      volume        = {20},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1081/SAP-120002429>`_
+
+`The URL link to the source <https://doi.org/10.1081/SAP-120002429>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

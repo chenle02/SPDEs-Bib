@@ -22,7 +22,8 @@ garsia.rodemich:74:monotonicity
      volume        = {24},
      year          = {1974}
    }
-`The URL link to the source <http://www.numdam.org/item?id=AIF\_1974\_\_24\_2\_67\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=AIF\_1974\_\_24\_2\_67\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ hu.ocone.ea:12:some
      volume        = {13},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1142/9789814383585\_0012>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789814383585\_0012>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

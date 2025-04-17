@@ -23,7 +23,8 @@ bogachev.rockner:01:elliptic
      volume        = {120},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1007/PL00008789>`_
+
+`The URL link to the source <https://doi.org/10.1007/PL00008789>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

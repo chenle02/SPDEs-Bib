@@ -23,7 +23,8 @@ flandoli:90:solution
      volume        = {28},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1137/0328052>`_
+
+`The URL link to the source <https://doi.org/10.1137/0328052>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

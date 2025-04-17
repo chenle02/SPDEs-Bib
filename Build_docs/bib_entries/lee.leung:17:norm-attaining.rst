@@ -23,7 +23,8 @@ lee.leung:17:norm-attaining
      volume        = {445},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2016.07.063>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2016.07.063>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

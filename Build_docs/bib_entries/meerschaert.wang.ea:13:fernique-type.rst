@@ -23,7 +23,8 @@ meerschaert.wang.ea:13:fernique-type
      volume        = {365},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-2012-05678-9>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-2012-05678-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

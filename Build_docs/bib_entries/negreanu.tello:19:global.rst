@@ -22,7 +22,8 @@ negreanu.tello:19:global
      volume        = {474},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2019.02.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2019.02.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

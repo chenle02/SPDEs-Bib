@@ -22,7 +22,8 @@ baudoin.ouyang:15:on
      volume        = {110},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-319-11605-1\_14>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-11605-1\_14>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

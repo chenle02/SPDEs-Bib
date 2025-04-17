@@ -19,4 +19,4 @@ ben-arous.guionnet:11:wigner
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

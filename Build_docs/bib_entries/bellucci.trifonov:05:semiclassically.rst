@@ -23,7 +23,8 @@ bellucci.trifonov:05:semiclassically
      volume        = {38},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1088/0305-4470/38/7/L01>`_
+
+`The URL link to the source <https://doi.org/10.1088/0305-4470/38/7/L01>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

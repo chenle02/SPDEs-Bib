@@ -23,7 +23,8 @@ jabin.wang:18:quantitative
      volume        = {214},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1007/s00222-018-0808-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00222-018-0808-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

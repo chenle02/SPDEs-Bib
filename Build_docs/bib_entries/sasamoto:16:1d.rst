@@ -20,7 +20,8 @@ sasamoto:16:1d
      url           = {https://doi.org/10.1093/ptep/ptw002},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1093/ptep/ptw002>`_
+
+`The URL link to the source <https://doi.org/10.1093/ptep/ptw002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

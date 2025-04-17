@@ -22,7 +22,8 @@ kesten:59:symmetric
      volume        = {92},
      year          = {1959}
    }
-`The URL link to the source <https://doi.org/10.2307/1993160>`_
+
+`The URL link to the source <https://doi.org/10.2307/1993160>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

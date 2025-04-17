@@ -22,7 +22,8 @@ ellis:73:some
      volume        = {33},
      year          = {1973}
    }
-`The URL link to the source <https://doi.org/10.7146/math.scand.a-11468>`_
+
+`The URL link to the source <https://doi.org/10.7146/math.scand.a-11468>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

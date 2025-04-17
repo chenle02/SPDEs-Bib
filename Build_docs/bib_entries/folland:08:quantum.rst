@@ -23,7 +23,8 @@ folland:08:quantum
      volume        = {149},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1090/surv/149>`_
+
+`The URL link to the source <https://doi.org/10.1090/surv/149>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

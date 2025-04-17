@@ -20,4 +20,4 @@ cranston.kendall.ea:96:gromovs
      year          = {1996}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

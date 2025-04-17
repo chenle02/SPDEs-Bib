@@ -23,7 +23,8 @@ xiao.zhang:02:local
      volume        = {124},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1007/s004400200210>`_
+
+`The URL link to the source <https://doi.org/10.1007/s004400200210>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

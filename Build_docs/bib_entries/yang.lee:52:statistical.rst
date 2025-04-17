@@ -21,4 +21,4 @@ yang.lee:52:statistical
      year          = {1952}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

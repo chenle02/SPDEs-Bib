@@ -23,7 +23,8 @@ pal:12:concentration
      volume        = {154},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-011-0368-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-011-0368-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

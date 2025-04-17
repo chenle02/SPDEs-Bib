@@ -23,7 +23,8 @@ federico.goldys.ea:11:hjb
      volume        = {49},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1137/100804292>`_
+
+`The URL link to the source <https://doi.org/10.1137/100804292>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

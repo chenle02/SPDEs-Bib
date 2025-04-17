@@ -19,4 +19,4 @@ simon:71:quantum
      year          = {1971}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

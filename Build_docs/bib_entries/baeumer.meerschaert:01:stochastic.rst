@@ -22,4 +22,4 @@ baeumer.meerschaert:01:stochastic
      year          = {2001}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

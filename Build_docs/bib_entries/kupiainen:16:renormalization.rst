@@ -23,7 +23,8 @@ kupiainen:16:renormalization
      volume        = {17},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s00023-015-0408-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00023-015-0408-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

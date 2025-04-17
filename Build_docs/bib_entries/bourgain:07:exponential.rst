@@ -22,7 +22,8 @@ bourgain:07:exponential
      volume        = {101},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s11854-007-0012-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11854-007-0012-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

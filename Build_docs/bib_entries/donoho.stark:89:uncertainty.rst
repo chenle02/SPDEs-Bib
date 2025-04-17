@@ -23,7 +23,8 @@ donoho.stark:89:uncertainty
      volume        = {49},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1137/0149053>`_
+
+`The URL link to the source <https://doi.org/10.1137/0149053>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

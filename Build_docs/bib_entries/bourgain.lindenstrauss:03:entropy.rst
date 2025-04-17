@@ -23,7 +23,8 @@ bourgain.lindenstrauss:03:entropy
      volume        = {233},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-002-0770-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-002-0770-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

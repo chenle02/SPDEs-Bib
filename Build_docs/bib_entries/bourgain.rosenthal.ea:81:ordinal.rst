@@ -23,7 +23,8 @@ bourgain.rosenthal.ea:81:ordinal
      volume        = {114},
      year          = {1981}
    }
-`The URL link to the source <https://doi.org/10.2307/1971293>`_
+
+`The URL link to the source <https://doi.org/10.2307/1971293>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

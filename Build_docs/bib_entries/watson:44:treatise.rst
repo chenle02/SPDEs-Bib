@@ -18,4 +18,4 @@ watson:44:treatise
      year          = {1944}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

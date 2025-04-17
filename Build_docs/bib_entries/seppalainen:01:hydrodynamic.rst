@@ -23,7 +23,8 @@ seppalainen:01:hydrodynamic
      volume        = {102},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1026508625058>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1026508625058>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

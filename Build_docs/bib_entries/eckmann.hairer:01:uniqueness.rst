@@ -23,7 +23,8 @@ eckmann.hairer:01:uniqueness
      volume        = {219},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1007/s002200100424>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002200100424>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

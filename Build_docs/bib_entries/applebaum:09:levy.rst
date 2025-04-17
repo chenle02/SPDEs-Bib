@@ -23,7 +23,8 @@ applebaum:09:levy
      volume        = {116},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511809781>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511809781>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

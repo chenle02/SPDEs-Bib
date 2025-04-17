@@ -23,7 +23,8 @@ shiga.shimizu:80:infinite-dimensional
      volume        = {20},
      year          = {1980}
    }
-`The URL link to the source <https://doi.org/10.1215/kjm/1250522207>`_
+
+`The URL link to the source <https://doi.org/10.1215/kjm/1250522207>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

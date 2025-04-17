@@ -22,7 +22,8 @@ gao.guo.ea:21:persistence
      volume        = {26},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdsb.2020199>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2020199>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

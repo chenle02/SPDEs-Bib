@@ -18,4 +18,4 @@ reid:71:ordinary
      year          = {1971}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ lu.bates.ea:16:dynamics
      volume        = {14},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.4310/CMS.2016.v14.n1.a11>`_
+
+`The URL link to the source <https://doi.org/10.4310/CMS.2016.v14.n1.a11>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

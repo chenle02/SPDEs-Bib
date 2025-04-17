@@ -23,7 +23,8 @@ mason.xiao:01:sample
      volume        = {46},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1137/S0040585X97978749>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0040585X97978749>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

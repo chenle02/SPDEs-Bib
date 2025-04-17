@@ -22,7 +22,8 @@ aizenman.molchanov:93:localization
      volume        = {157},
      year          = {1993}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104253939>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104253939>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

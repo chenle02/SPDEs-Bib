@@ -22,7 +22,8 @@ stewartson.stuart:71:non-linear
      volume        = {48},
      year          = {1971}
    }
-`The URL link to the source <https://doi.org/10.1017/S0022112071001733>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0022112071001733>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

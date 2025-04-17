@@ -14,7 +14,8 @@ morimoto:14:design-and-analysis-of-algorithms-for-graph-exploration-and-resource
      title         = {{Design and Analysis of Algorithms for Graph Exploration and Resource Allocation Problems and Their Application to Energy Management (Kyoto University)}},
      year          = {2014}
    }
-`The URL link to the source <\url{http://hdl.handle.net/2433/189687>`_
+
+`The URL link to the source <\url{http://hdl.handle.net/2433/189687>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

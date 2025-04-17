@@ -23,7 +23,8 @@ hu:01:self-intersection
      volume        = {41},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1215/kjm/1250517630>`_
+
+`The URL link to the source <https://doi.org/10.1215/kjm/1250517630>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

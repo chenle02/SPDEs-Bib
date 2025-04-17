@@ -14,4 +14,4 @@ myerson:13:game
      year          = {2013}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

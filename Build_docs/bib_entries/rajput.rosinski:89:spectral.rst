@@ -23,7 +23,8 @@ rajput.rosinski:89:spectral
      volume        = {82},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00339998>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00339998>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

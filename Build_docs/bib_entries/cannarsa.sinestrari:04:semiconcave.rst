@@ -21,4 +21,4 @@ cannarsa.sinestrari:04:semiconcave
      year          = {2004}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

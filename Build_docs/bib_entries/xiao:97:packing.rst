@@ -22,7 +22,8 @@ xiao:97:packing
      volume        = {33},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1016/S0167-7152(96)00151-4>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0167-7152(96)00151-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

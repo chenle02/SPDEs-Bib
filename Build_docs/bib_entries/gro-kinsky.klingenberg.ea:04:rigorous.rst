@@ -23,7 +23,8 @@ gro-kinsky.klingenberg.ea:04:rigorous
      volume        = {22},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1081/SAP-120028026>`_
+
+`The URL link to the source <https://doi.org/10.1081/SAP-120028026>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

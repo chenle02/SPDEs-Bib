@@ -22,7 +22,8 @@ brody.flores.ea:81:random-matrix
      volume        = {53},
      year          = {1981}
    }
-`The URL link to the source <https://doi.org/10.1103/RevModPhys.53.385>`_
+
+`The URL link to the source <https://doi.org/10.1103/RevModPhys.53.385>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

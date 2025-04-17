@@ -22,7 +22,8 @@ hochberg:78:signed
      volume        = {6},
      year          = {1978}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(197806)6:3<433:ASMOPS>2.0.CO;2-N\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(197806)6:3<433:ASMOPS>2.0.CO;2-N\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

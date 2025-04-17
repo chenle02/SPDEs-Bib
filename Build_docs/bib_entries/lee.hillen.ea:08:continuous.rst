@@ -23,7 +23,8 @@ lee.hillen.ea:08:continuous
      volume        = {70},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1007/s11538-007-9271-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11538-007-9271-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

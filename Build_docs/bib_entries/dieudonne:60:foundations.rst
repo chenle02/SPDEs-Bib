@@ -19,4 +19,4 @@ dieudonne:60:foundations
      year          = {1960}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

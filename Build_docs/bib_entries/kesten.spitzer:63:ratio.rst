@@ -22,7 +22,8 @@ kesten.spitzer:63:ratio
      volume        = {11},
      year          = {1963}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02789989>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02789989>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

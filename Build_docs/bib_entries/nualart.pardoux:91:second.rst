@@ -23,7 +23,8 @@ nualart.pardoux:91:second
      volume        = {39},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(91)90028-B>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(91)90028-B>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

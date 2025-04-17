@@ -22,7 +22,8 @@ gaudreau-lamarre:21:semigroups
      volume        = {26},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1214/21-EJP654>`_
+
+`The URL link to the source <https://doi.org/10.1214/21-EJP654>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

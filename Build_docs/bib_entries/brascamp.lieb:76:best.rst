@@ -23,7 +23,8 @@ brascamp.lieb:76:best
      volume        = {20},
      year          = {1976}
    }
-`The URL link to the source <https://doi.org/10.1016/0001-8708(76)90184-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0001-8708(76)90184-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

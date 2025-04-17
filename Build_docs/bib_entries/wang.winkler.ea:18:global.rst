@@ -23,7 +23,8 @@ wang.winkler.ea:18:global
      volume        = {18},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.2422/2036-2145.201603\_004>`_
+
+`The URL link to the source <https://doi.org/10.2422/2036-2145.201603\_004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ baiod.kessler.ea:88:dynamical
      volume        = {38},
      year          = {1988}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.38.3672>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.38.3672>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

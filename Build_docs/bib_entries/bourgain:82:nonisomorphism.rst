@@ -22,7 +22,8 @@ bourgain:82:nonisomorphism
      volume        = {46},
      year          = {1982}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-1236(82)90043-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-1236(82)90043-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

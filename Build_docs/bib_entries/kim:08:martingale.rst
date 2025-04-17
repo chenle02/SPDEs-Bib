@@ -23,7 +23,8 @@ kim:08:martingale
      volume        = {254},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.12.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.12.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

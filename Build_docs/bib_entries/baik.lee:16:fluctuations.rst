@@ -22,7 +22,8 @@ baik.lee:16:fluctuations
      volume        = {165},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-016-1610-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-016-1610-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

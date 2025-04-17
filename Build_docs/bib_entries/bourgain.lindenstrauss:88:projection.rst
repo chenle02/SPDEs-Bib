@@ -23,7 +23,8 @@ bourgain.lindenstrauss:88:projection
      volume        = {1317},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0081746>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0081746>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

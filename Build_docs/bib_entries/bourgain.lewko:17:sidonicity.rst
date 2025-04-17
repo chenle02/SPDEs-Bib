@@ -22,7 +22,8 @@ bourgain.lewko:17:sidonicity
      volume        = {67},
      year          = {2017}
    }
-`The URL link to the source <http://aif.cedram.org/item?id=AIF\_2017\_\_67\_3\_1321\_0>`_
+
+`The URL link to the source <http://aif.cedram.org/item?id=AIF\_2017\_\_67\_3\_1321\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

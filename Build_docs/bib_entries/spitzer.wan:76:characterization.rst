@@ -23,7 +23,8 @@ spitzer.wan:76:characterization
      volume        = {3},
      year          = {1976}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4068(76)90006-9>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4068(76)90006-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

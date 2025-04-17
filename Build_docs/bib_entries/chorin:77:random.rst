@@ -23,7 +23,8 @@ chorin:77:random
      volume        = {25},
      year          = {1977}
    }
-`The URL link to the source <https://doi.org/10.1016/0021-9991(77)90101-2>`_
+
+`The URL link to the source <https://doi.org/10.1016/0021-9991(77)90101-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

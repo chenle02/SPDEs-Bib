@@ -22,7 +22,8 @@ melo.poonen.ea:15:work
      volume        = {62},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1090/noti1317>`_
+
+`The URL link to the source <https://doi.org/10.1090/noti1317>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -18,7 +18,8 @@ symanzik:69:euclidean
      volume        = {45},
      year          = {1969}
    }
-`The URL link to the source <https://www.osti.gov/biblio/4117149>`_
+
+`The URL link to the source <https://www.osti.gov/biblio/4117149>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

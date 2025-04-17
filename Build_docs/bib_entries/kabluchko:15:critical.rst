@@ -23,7 +23,8 @@ kabluchko:15:critical
      volume        = {143},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-2014-12258-1>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-2014-12258-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

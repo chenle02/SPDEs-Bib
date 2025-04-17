@@ -23,7 +23,8 @@ shen.xie:17:spectral
      volume        = {22},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdsb.2017051>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2017051>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

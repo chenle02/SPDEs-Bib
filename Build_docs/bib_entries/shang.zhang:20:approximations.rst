@@ -23,7 +23,8 @@ shang.zhang:20:approximations
      volume        = {130},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2019.07.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2019.07.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

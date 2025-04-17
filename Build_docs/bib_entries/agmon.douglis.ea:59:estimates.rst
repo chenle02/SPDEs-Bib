@@ -22,7 +22,8 @@ agmon.douglis.ea:59:estimates
      volume        = {12},
      year          = {1959}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160120405>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160120405>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

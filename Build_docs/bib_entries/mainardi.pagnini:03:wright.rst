@@ -24,7 +24,8 @@ mainardi.pagnini:03:wright
      volume        = {141},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1016/S0096-3003(02)00320-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0096-3003(02)00320-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

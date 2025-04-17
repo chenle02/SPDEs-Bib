@@ -23,7 +23,8 @@ flandoli.romito:06:markov
      volume        = {343},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2006.04.025>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2006.04.025>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

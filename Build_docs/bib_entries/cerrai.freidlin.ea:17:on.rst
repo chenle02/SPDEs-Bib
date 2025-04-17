@@ -23,7 +23,8 @@ cerrai.freidlin.ea:17:on
      volume        = {37},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2017003>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2017003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

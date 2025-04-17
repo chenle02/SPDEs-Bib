@@ -22,7 +22,8 @@ saut.temam:76:remarks
      volume        = {24},
      year          = {1976}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02761431>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02761431>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

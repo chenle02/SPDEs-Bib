@@ -22,7 +22,8 @@ bourgain:83:proprietes
      volume        = {111},
      year          = {1983}
    }
-`The URL link to the source <http://www.numdam.org/item?id=BSMF\_1983\_\_111\_\_421\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=BSMF\_1983\_\_111\_\_421\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

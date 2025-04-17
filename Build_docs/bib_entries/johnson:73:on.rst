@@ -22,7 +22,8 @@ johnson:73:on
      volume        = {73},
      year          = {1973}
    }
-`The URL link to the source <https://doi.org/10.1017/s0305004100047605>`_
+
+`The URL link to the source <https://doi.org/10.1017/s0305004100047605>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

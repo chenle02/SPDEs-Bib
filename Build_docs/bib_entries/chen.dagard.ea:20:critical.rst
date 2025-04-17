@@ -22,7 +22,8 @@ chen.dagard.ea:20:critical
      volume        = {53},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1088/1751-8121/ab8134>`_
+
+`The URL link to the source <https://doi.org/10.1088/1751-8121/ab8134>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

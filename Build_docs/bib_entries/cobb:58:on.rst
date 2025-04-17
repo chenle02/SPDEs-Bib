@@ -22,7 +22,8 @@ cobb:58:on
      volume        = {42},
      year          = {1958}
    }
-`The URL link to the source <https://doi.org/10.2307/3610436>`_
+
+`The URL link to the source <https://doi.org/10.2307/3610436>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ strehl.sokolov.ea:12:efficient
      volume        = {64},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.camwa.2011.12.040>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.camwa.2011.12.040>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

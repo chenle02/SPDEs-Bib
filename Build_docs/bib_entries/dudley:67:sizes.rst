@@ -20,7 +20,8 @@ dudley:67:sizes
      volume        = {1},
      year          = {1967}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-1236(67)90017-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-1236(67)90017-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

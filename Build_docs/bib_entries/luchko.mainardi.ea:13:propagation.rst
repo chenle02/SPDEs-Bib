@@ -22,7 +22,8 @@ luchko.mainardi.ea:13:propagation
      volume        = {66},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1016/j.camwa.2013.01.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.camwa.2013.01.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

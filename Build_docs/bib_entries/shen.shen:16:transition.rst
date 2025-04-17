@@ -22,7 +22,8 @@ shen.shen:16:transition
      volume        = {15},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.3934/cpaa.2016.15.1193>`_
+
+`The URL link to the source <https://doi.org/10.3934/cpaa.2016.15.1193>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,4 +22,4 @@ nualart-rodon:75:contribution
      year          = {1975/76}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

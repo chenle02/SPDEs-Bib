@@ -23,7 +23,8 @@ tindel.liu.ea:21:on
      volume        = {84},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s00245-019-09649-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00245-019-09649-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

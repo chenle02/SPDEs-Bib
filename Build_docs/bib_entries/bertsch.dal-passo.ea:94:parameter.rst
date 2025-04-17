@@ -22,4 +22,4 @@ bertsch.dal-passo.ea:94:parameter
      year          = {1994}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

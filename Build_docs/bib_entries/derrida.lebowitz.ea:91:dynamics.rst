@@ -21,7 +21,8 @@ derrida.lebowitz.ea:91:dynamics
      volume        = {24},
      year          = {1991}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/24/4805>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/24/4805>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

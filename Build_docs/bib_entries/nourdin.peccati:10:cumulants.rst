@@ -23,7 +23,8 @@ nourdin.peccati:10:cumulants
      volume        = {258},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2009.10.024>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2009.10.024>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

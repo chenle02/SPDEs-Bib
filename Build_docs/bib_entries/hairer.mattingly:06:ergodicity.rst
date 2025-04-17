@@ -23,7 +23,8 @@ hairer.mattingly:06:ergodicity
      volume        = {164},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.4007/annals.2006.164.993>`_
+
+`The URL link to the source <https://doi.org/10.4007/annals.2006.164.993>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

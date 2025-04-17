@@ -21,7 +21,8 @@ zabczyk:20:mathematical
      url           = {https://doi.org/10.1007/978-3-030-44778-6},
      year          = {[2020] \copyright 2020}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-030-44778-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-030-44778-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

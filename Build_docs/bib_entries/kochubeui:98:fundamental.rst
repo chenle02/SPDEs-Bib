@@ -23,7 +23,8 @@ kochubeui:98:fundamental
      volume        = {62},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1070/im1998v062n06ABEH000222>`_
+
+`The URL link to the source <https://doi.org/10.1070/im1998v062n06ABEH000222>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

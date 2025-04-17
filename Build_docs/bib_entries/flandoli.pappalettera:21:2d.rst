@@ -23,7 +23,8 @@ flandoli.pappalettera:21:2d
      volume        = {31},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s00332-021-09681-w>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00332-021-09681-w>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

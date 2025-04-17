@@ -22,7 +22,8 @@ baverez.guillarmou.ea:24:virasoro
      volume        = {5},
      year          = {2024}
    }
-`The URL link to the source <https://doi.org/10.2140/pmp.2024.5.269>`_
+
+`The URL link to the source <https://doi.org/10.2140/pmp.2024.5.269>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

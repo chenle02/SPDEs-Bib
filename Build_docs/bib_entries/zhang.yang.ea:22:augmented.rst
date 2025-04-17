@@ -22,7 +22,8 @@ zhang.yang.ea:22:augmented
      volume        = {15},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdss.2021098>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdss.2021098>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

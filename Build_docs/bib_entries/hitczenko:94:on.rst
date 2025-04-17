@@ -23,7 +23,8 @@ hitczenko:94:on
      volume        = {121},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.2307/2160390>`_
+
+`The URL link to the source <https://doi.org/10.2307/2160390>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

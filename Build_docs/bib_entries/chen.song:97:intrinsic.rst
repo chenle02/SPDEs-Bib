@@ -23,7 +23,8 @@ chen.song:97:intrinsic
      volume        = {150},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.1997.3104>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.1997.3104>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

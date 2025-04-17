@@ -23,7 +23,8 @@ chen.nourdin.ea:21:steins
      volume        = {34},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-020-01004-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-020-01004-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

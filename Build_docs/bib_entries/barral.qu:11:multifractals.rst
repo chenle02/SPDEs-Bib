@@ -23,7 +23,8 @@ barral.qu:11:multifractals
      volume        = {24},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1088/0951-7715/24/10/008>`_
+
+`The URL link to the source <https://doi.org/10.1088/0951-7715/24/10/008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -19,7 +19,8 @@ craiem.rojo.ea:08:fractional-order
      volume        = {53},
      year          = {2008}
    }
-`The URL link to the source <https://dx.doi.org/10.1088/0031-9155/53/17/006>`_
+
+`The URL link to the source <https://dx.doi.org/10.1088/0031-9155/53/17/006>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

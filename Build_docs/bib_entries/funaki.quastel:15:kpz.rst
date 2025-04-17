@@ -23,7 +23,8 @@ funaki.quastel:15:kpz
      volume        = {3},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-015-0046-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-015-0046-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

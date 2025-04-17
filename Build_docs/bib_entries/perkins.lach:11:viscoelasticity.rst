@@ -15,7 +15,8 @@ perkins.lach:11:viscoelasticity
      url           = {https://cir.nii.ac.jp/crid/1130282268654343936},
      year          = {2011}
    }
-`The URL link to the source <https://cir.nii.ac.jp/crid/1130282268654343936>`_
+
+`The URL link to the source <https://cir.nii.ac.jp/crid/1130282268654343936>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

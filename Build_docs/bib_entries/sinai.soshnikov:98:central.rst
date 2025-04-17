@@ -23,7 +23,8 @@ sinai.soshnikov:98:central
      volume        = {29},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01245866>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01245866>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

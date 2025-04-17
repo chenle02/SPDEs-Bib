@@ -22,7 +22,8 @@ schmidt.zabczyk:12:cdo
      volume        = {15},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219024911006462>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219024911006462>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

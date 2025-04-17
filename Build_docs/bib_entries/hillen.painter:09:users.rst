@@ -22,7 +22,8 @@ hillen.painter:09:users
      volume        = {58},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s00285-008-0201-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00285-008-0201-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

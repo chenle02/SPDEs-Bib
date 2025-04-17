@@ -22,7 +22,8 @@ bougerol.lacroix:85:products
      volume        = {8},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4684-9172-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4684-9172-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ ebrahimi-fard.patras.ea:22:wick
      volume        = {74},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.4153/s0008414x21000407>`_
+
+`The URL link to the source <https://doi.org/10.4153/s0008414x21000407>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

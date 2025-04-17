@@ -22,7 +22,8 @@ lacoin:22:universality
      volume        = {32},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1214/21-aap1677>`_
+
+`The URL link to the source <https://doi.org/10.1214/21-aap1677>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

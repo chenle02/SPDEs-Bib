@@ -23,7 +23,8 @@ mezard.parisi.ea:84:replica
      volume        = {45},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1051/jphys:01984004505084300>`_
+
+`The URL link to the source <https://doi.org/10.1051/jphys:01984004505084300>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

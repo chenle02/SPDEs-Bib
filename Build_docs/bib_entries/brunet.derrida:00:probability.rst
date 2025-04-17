@@ -22,7 +22,8 @@ brunet.derrida:00:probability
      volume        = {61},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevE.61.6789>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.61.6789>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

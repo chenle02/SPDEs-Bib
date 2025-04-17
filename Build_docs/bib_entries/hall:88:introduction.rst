@@ -21,7 +21,8 @@ hall:88:introduction
      url           = {https://doi.org/10.1016/0167-0115(88)90159-0},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1016/0167-0115(88)90159-0>`_
+
+`The URL link to the source <https://doi.org/10.1016/0167-0115(88)90159-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

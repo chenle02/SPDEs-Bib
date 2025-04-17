@@ -23,7 +23,8 @@ denk.hieber.ea:03:r-boundedness
      volume        = {166},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1090/memo/0788>`_
+
+`The URL link to the source <https://doi.org/10.1090/memo/0788>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

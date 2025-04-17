@@ -24,7 +24,8 @@ gorenflo.luchko.ea:00:wright
      volume        = {118},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1016/S0377-0427(00)00288-0>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0377-0427(00)00288-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ calderon.spitzer.ea:59:inversion
      volume        = {3},
      year          = {1959}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255455456>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255455456>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

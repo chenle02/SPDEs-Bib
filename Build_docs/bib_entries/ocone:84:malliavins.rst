@@ -23,7 +23,8 @@ ocone:84:malliavins
      volume        = {12},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1080/17442508408833299>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442508408833299>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bourgain.varju:12:expansion
      volume        = {188},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00222-011-0345-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00222-011-0345-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

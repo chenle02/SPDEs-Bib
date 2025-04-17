@@ -23,7 +23,8 @@ di-francesco.ginsparg.ea:95:2d
      volume        = {254},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1016/0370-1573(94)00084-G>`_
+
+`The URL link to the source <https://doi.org/10.1016/0370-1573(94)00084-G>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

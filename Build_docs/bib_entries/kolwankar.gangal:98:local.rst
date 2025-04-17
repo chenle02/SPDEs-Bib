@@ -22,7 +22,8 @@ kolwankar.gangal:98:local
      volume        = {80},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevLett.80.214>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.80.214>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

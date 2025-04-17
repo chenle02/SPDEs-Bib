@@ -23,7 +23,8 @@ andresen.benth.ea:14:carma
      volume        = {17},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219024914500083>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219024914500083>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

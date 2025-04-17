@@ -21,7 +21,8 @@ richey.tracy:87:equation
      volume        = {20},
      year          = {1987}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/20/L1121>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/20/L1121>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

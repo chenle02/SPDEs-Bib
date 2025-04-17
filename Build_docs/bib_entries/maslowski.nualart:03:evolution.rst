@@ -23,7 +23,8 @@ maslowski.nualart:03:evolution
      volume        = {202},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1016/S0022-1236(02)00065-4>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0022-1236(02)00065-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

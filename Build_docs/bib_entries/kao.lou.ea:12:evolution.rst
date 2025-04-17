@@ -22,7 +22,8 @@ kao.lou.ea:12:evolution
      volume        = {17},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdsb.2012.17.2047>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2012.17.2047>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

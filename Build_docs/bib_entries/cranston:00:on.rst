@@ -23,7 +23,8 @@ cranston:00:on
      volume        = {118},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/PL00008737>`_
+
+`The URL link to the source <https://doi.org/10.1007/PL00008737>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ barral.kupiainen.ea:14:critical
      volume        = {325},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-013-1829-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-013-1829-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

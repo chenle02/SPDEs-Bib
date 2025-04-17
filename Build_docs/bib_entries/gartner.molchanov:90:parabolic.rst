@@ -21,7 +21,8 @@ gartner.molchanov:90:parabolic
      volume        = {132},
      year          = {1990}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104201232>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104201232>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

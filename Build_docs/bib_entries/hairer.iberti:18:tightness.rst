@@ -22,7 +22,8 @@ hairer.iberti:18:tightness
      volume        = {171},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-018-2033-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-018-2033-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

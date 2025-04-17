@@ -19,4 +19,4 @@ silverstein:67:new
      year          = {1967/1968}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

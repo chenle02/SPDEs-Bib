@@ -23,7 +23,8 @@ wu.xiao:07:dimensional
      volume        = {23},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10114-005-0928-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10114-005-0928-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

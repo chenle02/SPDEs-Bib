@@ -22,7 +22,8 @@ issa.salako.ea:21:traveling
      volume        = {212},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1016/j.na.2021.112480>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.na.2021.112480>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ biler.corrias.ea:11:large
      volume        = {63},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/s00285-010-0357-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00285-010-0357-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

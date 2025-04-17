@@ -23,7 +23,8 @@ hairer.pardoux:21:fluctuations
      volume        = {239},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s00205-020-01574-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00205-020-01574-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

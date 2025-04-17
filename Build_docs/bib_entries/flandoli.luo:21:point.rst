@@ -22,7 +22,8 @@ flandoli.luo:21:point
      volume        = {493},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2020.124560>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2020.124560>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ mountford.cranston:00:efficient
      volume        = {35},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1214/lnms/1215089753>`_
+
+`The URL link to the source <https://doi.org/10.1214/lnms/1215089753>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

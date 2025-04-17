@@ -23,7 +23,8 @@ lacey.philipp:90:note
      volume        = {9},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0167-7152(90)90056-D>`_
+
+`The URL link to the source <https://doi.org/10.1016/0167-7152(90)90056-D>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

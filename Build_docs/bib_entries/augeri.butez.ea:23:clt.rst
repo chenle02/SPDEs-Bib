@@ -23,7 +23,8 @@ augeri.butez.ea:23:clt
      volume        = {186},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-023-01194-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-023-01194-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

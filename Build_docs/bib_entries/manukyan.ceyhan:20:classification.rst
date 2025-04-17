@@ -22,7 +22,8 @@ manukyan.ceyhan:20:classification
      volume        = {109},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s10994-020-05878-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10994-020-05878-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

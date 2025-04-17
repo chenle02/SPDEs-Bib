@@ -23,7 +23,8 @@ buzzi.zambotti:12:approximate
      volume        = {153},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-011-0350-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-011-0350-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

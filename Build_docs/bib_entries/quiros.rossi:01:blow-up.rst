@@ -23,7 +23,8 @@ quiros.rossi:01:blow-up
      volume        = {50},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1512/iumj.2001.50.1828>`_
+
+`The URL link to the source <https://doi.org/10.1512/iumj.2001.50.1828>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

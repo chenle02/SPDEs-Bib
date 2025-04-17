@@ -23,7 +23,8 @@ hu.long:09:on
      volume        = {29},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1016/S0252-9602(09)60056-4>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(09)60056-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

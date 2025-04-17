@@ -22,7 +22,8 @@ lachal:03:distributions
      volume        = {8},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1214/EJP.v8-178>`_
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v8-178>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

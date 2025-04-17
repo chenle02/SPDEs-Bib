@@ -23,7 +23,8 @@ shen.xie:15:approximations
      volume        = {259},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2015.08.026>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2015.08.026>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

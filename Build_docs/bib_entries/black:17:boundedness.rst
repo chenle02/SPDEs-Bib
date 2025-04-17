@@ -22,7 +22,8 @@ black:17:boundedness
      volume        = {446},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2016.08.049>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2016.08.049>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

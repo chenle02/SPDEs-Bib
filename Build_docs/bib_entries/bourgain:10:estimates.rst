@@ -22,7 +22,8 @@ bourgain:10:estimates
      volume        = {176},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s11856-010-0027-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11856-010-0027-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

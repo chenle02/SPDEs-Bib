@@ -22,7 +22,8 @@ kesten:66:on
      volume        = {12},
      year          = {1966/67}
    }
-`The URL link to the source <https://doi.org/10.4064/aa-12-2-193-212>`_
+
+`The URL link to the source <https://doi.org/10.4064/aa-12-2-193-212>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

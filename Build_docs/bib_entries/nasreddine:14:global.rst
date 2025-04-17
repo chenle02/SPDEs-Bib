@@ -22,7 +22,8 @@ nasreddine:14:global
      volume        = {417},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2014.02.069>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2014.02.069>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

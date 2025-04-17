@@ -23,7 +23,8 @@ flandoli.galeati.ea:21:delayed
      volume        = {46},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1080/03605302.2021.1893748>`_
+
+`The URL link to the source <https://doi.org/10.1080/03605302.2021.1893748>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

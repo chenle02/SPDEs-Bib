@@ -22,7 +22,8 @@ bringmann:22:invariant
      volume        = {10},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-021-00193-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-021-00193-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

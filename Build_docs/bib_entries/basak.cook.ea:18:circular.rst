@@ -22,7 +22,8 @@ basak.cook.ea:18:circular
      volume        = {23},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1214/18-EJP162>`_
+
+`The URL link to the source <https://doi.org/10.1214/18-EJP162>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

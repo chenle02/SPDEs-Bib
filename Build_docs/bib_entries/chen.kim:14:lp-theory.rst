@@ -23,7 +23,8 @@ chen.kim:14:lp-theory
      volume        = {26},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1515/forum-2011-0123>`_
+
+`The URL link to the source <https://doi.org/10.1515/forum-2011-0123>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

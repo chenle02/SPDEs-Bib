@@ -23,7 +23,8 @@ kim.zheng.ea:12:stochastic
      volume        = {25},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-011-0392-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-011-0392-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

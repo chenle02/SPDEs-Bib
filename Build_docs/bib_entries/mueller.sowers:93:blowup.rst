@@ -23,7 +23,8 @@ mueller.sowers:93:blowup
      volume        = {97},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01195068>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01195068>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

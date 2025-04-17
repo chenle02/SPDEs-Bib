@@ -22,7 +22,8 @@ mogilner.edelstein-keshet.ea:03:mutual
      volume        = {47},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1007/s00285-003-0209-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00285-003-0209-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

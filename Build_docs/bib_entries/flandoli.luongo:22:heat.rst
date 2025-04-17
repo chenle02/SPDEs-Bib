@@ -22,7 +22,8 @@ flandoli.luongo:22:heat
      volume        = {4},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.3934/mine.2022034>`_
+
+`The URL link to the source <https://doi.org/10.3934/mine.2022034>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

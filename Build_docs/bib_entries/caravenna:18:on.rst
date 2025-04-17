@@ -21,7 +21,8 @@ caravenna:18:on
      volume        = {23},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1214/18-ECP172>`_
+
+`The URL link to the source <https://doi.org/10.1214/18-ECP172>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ seidler:97:weak
      volume        = {15},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1080/07362999708809484>`_
+
+`The URL link to the source <https://doi.org/10.1080/07362999708809484>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

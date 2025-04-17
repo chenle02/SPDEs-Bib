@@ -23,7 +23,8 @@ dumortier.popovic.ea:07:critical
      volume        = {20},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1088/0951-7715/20/4/004>`_
+
+`The URL link to the source <https://doi.org/10.1088/0951-7715/20/4/004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

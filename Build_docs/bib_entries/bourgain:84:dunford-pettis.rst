@@ -23,7 +23,8 @@ bourgain:84:dunford-pettis
      volume        = {77},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.4064/sm-77-3-246-253>`_
+
+`The URL link to the source <https://doi.org/10.4064/sm-77-3-246-253>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

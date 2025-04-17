@@ -22,7 +22,8 @@ ni.sacks.ea:84:on
      volume        = {54},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-0396(84)90145-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-0396(84)90145-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

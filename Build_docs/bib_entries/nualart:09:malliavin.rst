@@ -22,7 +22,8 @@ nualart:09:malliavin
      volume        = {110},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1090/cbms/110>`_
+
+`The URL link to the source <https://doi.org/10.1090/cbms/110>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

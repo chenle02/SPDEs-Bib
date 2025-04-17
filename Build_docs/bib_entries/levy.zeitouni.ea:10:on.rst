@@ -22,7 +22,8 @@ levy.zeitouni.ea:10:on
      volume        = {56},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1109/TIT.2010.2070130>`_
+
+`The URL link to the source <https://doi.org/10.1109/TIT.2010.2070130>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ khoshnevisan.levin.ea:05:extreme-value
      volume        = {10},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1214/ECP.v10-1154>`_
+
+`The URL link to the source <https://doi.org/10.1214/ECP.v10-1154>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

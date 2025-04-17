@@ -23,7 +23,8 @@ simon:05:orthogonal*1
      volume        = {54, Part 1},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1090/coll054.1>`_
+
+`The URL link to the source <https://doi.org/10.1090/coll054.1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

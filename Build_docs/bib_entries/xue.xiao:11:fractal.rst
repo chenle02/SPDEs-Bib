@@ -23,7 +23,8 @@ xue.xiao:11:fractal
      volume        = {6},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/s11464-011-0126-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11464-011-0126-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

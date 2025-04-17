@@ -22,7 +22,8 @@ derrida.flyvbjerg:87:random
      volume        = {48},
      year          = {1987}
    }
-`The URL link to the source <https://doi.org/10.1051/jphys:01987004806097100>`_
+
+`The URL link to the source <https://doi.org/10.1051/jphys:01987004806097100>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

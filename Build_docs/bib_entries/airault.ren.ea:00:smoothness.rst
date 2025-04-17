@@ -22,7 +22,8 @@ airault.ren.ea:00:smoothness
      volume        = {330},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1016/S0764-4442(00)00251-2>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0764-4442(00)00251-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

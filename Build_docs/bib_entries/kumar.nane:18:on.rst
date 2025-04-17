@@ -22,7 +22,8 @@ kumar.nane:18:on
      volume        = {5},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.15559/18-vmsta108>`_
+
+`The URL link to the source <https://doi.org/10.15559/18-vmsta108>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

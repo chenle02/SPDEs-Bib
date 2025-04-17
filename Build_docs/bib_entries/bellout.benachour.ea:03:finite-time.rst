@@ -23,7 +23,8 @@ bellout.benachour.ea:03:finite-time
      volume        = {16},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1088/0951-7715/16/6/305>`_
+
+`The URL link to the source <https://doi.org/10.1088/0951-7715/16/6/305>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

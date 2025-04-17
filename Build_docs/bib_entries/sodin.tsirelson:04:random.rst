@@ -22,7 +22,8 @@ sodin.tsirelson:04:random
      volume        = {144},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02984409>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02984409>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

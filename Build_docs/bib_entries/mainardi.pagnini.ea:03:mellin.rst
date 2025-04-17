@@ -22,4 +22,4 @@ mainardi.pagnini.ea:03:mellin
      year          = {2003}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

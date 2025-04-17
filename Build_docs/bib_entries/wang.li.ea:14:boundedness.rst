@@ -22,7 +22,8 @@ wang.li.ea:14:boundedness
      volume        = {34},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2014.34.789>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2014.34.789>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ nualart.xu:13:central
      volume        = {18},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1214/ECP.v18-2761>`_
+
+`The URL link to the source <https://doi.org/10.1214/ECP.v18-2761>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

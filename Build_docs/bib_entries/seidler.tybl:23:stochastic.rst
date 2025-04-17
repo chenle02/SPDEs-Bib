@@ -22,7 +22,8 @@ seidler.tybl:23:stochastic
      volume        = {197},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1007/s10957-023-02198-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10957-023-02198-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

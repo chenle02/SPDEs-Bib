@@ -23,7 +23,8 @@ cambanis.hu:96:exact
      volume        = {59},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1080/17442509608834090>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442509608834090>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

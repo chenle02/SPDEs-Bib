@@ -22,7 +22,8 @@ holm.putkaradze:06:formation
      volume        = {220},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1016/j.physd.2006.07.010>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.physd.2006.07.010>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

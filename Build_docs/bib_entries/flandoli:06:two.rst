@@ -23,7 +23,8 @@ flandoli:06:two
      volume        = {245},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1201/9781420028720.ch11>`_
+
+`The URL link to the source <https://doi.org/10.1201/9781420028720.ch11>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

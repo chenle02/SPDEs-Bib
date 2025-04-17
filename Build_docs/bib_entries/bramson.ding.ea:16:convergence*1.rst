@@ -23,7 +23,8 @@ bramson.ding.ea:16:convergence*1
      volume        = {52},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1214/15-AIHP703>`_
+
+`The URL link to the source <https://doi.org/10.1214/15-AIHP703>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

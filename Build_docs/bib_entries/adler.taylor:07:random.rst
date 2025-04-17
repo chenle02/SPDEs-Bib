@@ -20,4 +20,4 @@ adler.taylor:07:random
      year          = {2007}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

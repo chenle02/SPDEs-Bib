@@ -23,7 +23,8 @@ applebaum.wu:00:stochastic
      volume        = {8},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1515/rose.2000.8.3.245>`_
+
+`The URL link to the source <https://doi.org/10.1515/rose.2000.8.3.245>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

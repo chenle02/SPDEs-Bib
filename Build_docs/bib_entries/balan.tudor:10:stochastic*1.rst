@@ -23,7 +23,8 @@ balan.tudor:10:stochastic*1
      volume        = {120},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2010.08.006>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2010.08.006>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

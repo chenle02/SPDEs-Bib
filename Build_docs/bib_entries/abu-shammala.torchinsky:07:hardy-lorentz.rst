@@ -23,7 +23,8 @@ abu-shammala.torchinsky:07:hardy-lorentz
      volume        = {182},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.4064/sm182-3-7>`_
+
+`The URL link to the source <https://doi.org/10.4064/sm182-3-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

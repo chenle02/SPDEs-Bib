@@ -23,7 +23,8 @@ dimock.rajeev:04:multi-particle
      volume        = {37},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1088/0305-4470/37/39/008>`_
+
+`The URL link to the source <https://doi.org/10.1088/0305-4470/37/39/008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

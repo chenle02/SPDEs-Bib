@@ -23,7 +23,8 @@ aronson.weinberger:78:multidimensional
      volume        = {30},
      year          = {1978}
    }
-`The URL link to the source <https://doi.org/10.1016/0001-8708(78)90130-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0001-8708(78)90130-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

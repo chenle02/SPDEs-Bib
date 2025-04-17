@@ -23,7 +23,8 @@ zabczyk:78:on
      volume        = {16},
      year          = {1978}
    }
-`The URL link to the source <https://doi.org/10.1137/0316035>`_
+
+`The URL link to the source <https://doi.org/10.1137/0316035>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

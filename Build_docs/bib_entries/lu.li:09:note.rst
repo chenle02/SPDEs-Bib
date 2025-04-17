@@ -23,7 +23,8 @@ lu.li:09:note
      volume        = {354},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2009.01.046>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2009.01.046>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

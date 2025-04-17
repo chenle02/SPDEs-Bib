@@ -23,7 +23,8 @@ deya.tindel:09:rough
      volume        = {9},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493709002737>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493709002737>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

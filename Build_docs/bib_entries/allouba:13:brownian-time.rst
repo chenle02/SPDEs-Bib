@@ -23,7 +23,8 @@ allouba:13:brownian-time
      volume        = {33},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2013.33.413>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2013.33.413>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

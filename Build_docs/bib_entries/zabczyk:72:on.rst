@@ -22,7 +22,8 @@ zabczyk:72:on
      volume        = {25},
      year          = {1972}
    }
-`The URL link to the source <https://doi.org/10.4064/cm-25-2-315-318>`_
+
+`The URL link to the source <https://doi.org/10.4064/cm-25-2-315-318>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

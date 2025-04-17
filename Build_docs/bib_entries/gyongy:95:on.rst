@@ -23,7 +23,8 @@ gyongy:95:on
      volume        = {4},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01275588>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01275588>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

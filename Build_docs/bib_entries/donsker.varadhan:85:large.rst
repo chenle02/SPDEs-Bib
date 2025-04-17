@@ -22,7 +22,8 @@ donsker.varadhan:85:large
      volume        = {97},
      year          = {1985}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103941986>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103941986>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

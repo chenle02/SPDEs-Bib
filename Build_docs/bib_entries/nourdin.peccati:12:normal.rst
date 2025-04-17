@@ -23,7 +23,8 @@ nourdin.peccati:12:normal
      volume        = {192},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9781139084659>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9781139084659>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ frohlich.spencer:83:absence
      volume        = {88},
      year          = {1983}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103922279>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103922279>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

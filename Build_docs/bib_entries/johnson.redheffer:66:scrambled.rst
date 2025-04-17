@@ -22,7 +22,8 @@ johnson.redheffer:66:scrambled
      volume        = {73},
      year          = {1966}
    }
-`The URL link to the source <https://doi.org/10.2307/2314174>`_
+
+`The URL link to the source <https://doi.org/10.2307/2314174>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ zheng:15:boundedness
      volume        = {259},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2015.02.003>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2015.02.003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

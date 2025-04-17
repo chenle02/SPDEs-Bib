@@ -23,7 +23,8 @@ ceyhan:20:domination
      volume        = {54},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1080/02331888.2020.1720020>`_
+
+`The URL link to the source <https://doi.org/10.1080/02331888.2020.1720020>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

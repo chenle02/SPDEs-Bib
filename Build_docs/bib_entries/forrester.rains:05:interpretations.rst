@@ -23,7 +23,8 @@ forrester.rains:05:interpretations
      volume        = {131},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-004-0375-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-004-0375-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

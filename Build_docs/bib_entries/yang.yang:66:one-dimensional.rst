@@ -20,4 +20,4 @@ yang.yang:66:one-dimensional
      year          = {1966}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

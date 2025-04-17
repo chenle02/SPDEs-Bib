@@ -23,7 +23,8 @@ wrzosek:06:long-time
      volume        = {136},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1017/S0308210500004649>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0308210500004649>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

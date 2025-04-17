@@ -23,7 +23,8 @@ bonaccorsi.zambotti:04:integration
      volume        = {132},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-03-07097-7>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-03-07097-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

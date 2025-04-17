@@ -22,7 +22,8 @@ kalton.mayboroda.ea:07:interpolation
      volume        = {445},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1090/conm/445/08598>`_
+
+`The URL link to the source <https://doi.org/10.1090/conm/445/08598>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -15,7 +15,8 @@ liu.hu.ea:22:necessary
      url           = {http://arXiv.org/abs/2206.02641},
      year          = {2022}
    }
-`The URL link to the source <http://arXiv.org/abs/2206.02641>`_
+
+`The URL link to the source <http://arXiv.org/abs/2206.02641>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

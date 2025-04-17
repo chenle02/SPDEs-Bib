@@ -22,7 +22,8 @@ barral.seuret:07:threshold
      volume        = {32},
      year          = {2007}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.rae/1199377483>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.rae/1199377483>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

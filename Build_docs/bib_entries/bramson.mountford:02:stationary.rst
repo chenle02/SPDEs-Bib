@@ -23,7 +23,8 @@ bramson.mountford:02:stationary
      volume        = {30},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1029867122>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1029867122>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

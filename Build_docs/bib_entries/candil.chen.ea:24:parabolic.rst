@@ -22,7 +22,8 @@ candil.chen.ea:24:parabolic
      volume        = {12},
      year          = {2024}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-023-00310-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-023-00310-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

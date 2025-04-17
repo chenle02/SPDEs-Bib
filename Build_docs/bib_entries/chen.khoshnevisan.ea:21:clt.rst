@@ -23,7 +23,8 @@ chen.khoshnevisan.ea:21:clt
      volume        = {149},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1090/proc/15614>`_
+
+`The URL link to the source <https://doi.org/10.1090/proc/15614>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ nualart.ustunel.ea:90:some*1
      volume        = {1444},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0083612>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0083612>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

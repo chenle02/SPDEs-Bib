@@ -22,4 +22,4 @@ bourgain:78:averaging
      year          = {1978}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

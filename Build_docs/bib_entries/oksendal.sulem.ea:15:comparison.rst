@@ -22,7 +22,8 @@ oksendal.sulem.ea:15:comparison
      volume        = {17},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1142/9789814596534\_0023>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789814596534\_0023>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

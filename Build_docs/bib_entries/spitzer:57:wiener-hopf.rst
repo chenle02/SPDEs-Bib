@@ -21,7 +21,8 @@ spitzer:57:wiener-hopf
      volume        = {24},
      year          = {1957}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077467479>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077467479>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

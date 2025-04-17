@@ -23,7 +23,8 @@ bourgain.lindenstrauss:93:approximating
      volume        = {9},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02189313>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02189313>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

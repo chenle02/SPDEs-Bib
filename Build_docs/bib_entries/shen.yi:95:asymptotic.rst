@@ -23,7 +23,8 @@ shen.yi:95:asymptotic
      volume        = {122},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1006/jdeq.1995.1152>`_
+
+`The URL link to the source <https://doi.org/10.1006/jdeq.1995.1152>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

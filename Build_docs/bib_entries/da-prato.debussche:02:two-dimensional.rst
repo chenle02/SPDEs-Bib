@@ -23,7 +23,8 @@ da-prato.debussche:02:two-dimensional
      volume        = {196},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.2002.3919>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.2002.3919>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

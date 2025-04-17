@@ -22,7 +22,8 @@ esary.proschan.ea:67:association
      volume        = {38},
      year          = {1967}
    }
-`The URL link to the source <https://doi.org/10.1214/aoms/1177698701>`_
+
+`The URL link to the source <https://doi.org/10.1214/aoms/1177698701>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

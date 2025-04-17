@@ -22,7 +22,8 @@ joseph.lundgren:72:quasilinear
      volume        = {49},
      year          = {1972/73}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00250508>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00250508>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

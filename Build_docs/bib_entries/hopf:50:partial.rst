@@ -22,7 +22,8 @@ hopf:50:partial
      volume        = {3},
      year          = {1950}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160030302>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160030302>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

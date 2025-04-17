@@ -23,7 +23,8 @@ da-prato.flandoli.ea:13:strong
      volume        = {41},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1214/12-AOP763>`_
+
+`The URL link to the source <https://doi.org/10.1214/12-AOP763>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

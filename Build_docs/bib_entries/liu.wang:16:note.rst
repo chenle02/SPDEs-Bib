@@ -21,7 +21,8 @@ liu.wang:16:note
      volume        = {142},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s10440-015-0022-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10440-015-0022-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

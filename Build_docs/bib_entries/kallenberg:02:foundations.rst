@@ -22,7 +22,8 @@ kallenberg:02:foundations
      url           = {https://doi.org/10.1007/978-1-4757-4015-8},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4757-4015-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4757-4015-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

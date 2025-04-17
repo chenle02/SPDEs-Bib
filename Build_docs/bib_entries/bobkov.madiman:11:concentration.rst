@@ -23,7 +23,8 @@ bobkov.madiman:11:concentration
      volume        = {39},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1214/10-AOP592>`_
+
+`The URL link to the source <https://doi.org/10.1214/10-AOP592>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

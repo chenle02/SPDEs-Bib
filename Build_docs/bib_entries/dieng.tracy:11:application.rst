@@ -20,7 +20,8 @@ dieng.tracy:11:application
      url           = {https://doi.org/10.1007/978-1-4419-9514-8\_7},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4419-9514-8\_7>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4419-9514-8\_7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

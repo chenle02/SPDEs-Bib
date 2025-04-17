@@ -21,4 +21,4 @@ landau.shepp:70:on
      year          = {1970}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

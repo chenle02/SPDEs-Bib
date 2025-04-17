@@ -22,7 +22,8 @@ varadhan:66:asymptotic
      volume        = {19},
      year          = {1966}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160190303>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160190303>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

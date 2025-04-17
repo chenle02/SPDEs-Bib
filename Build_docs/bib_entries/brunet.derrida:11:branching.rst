@@ -23,7 +23,8 @@ brunet.derrida:11:branching
      volume        = {143},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-011-0185-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-011-0185-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

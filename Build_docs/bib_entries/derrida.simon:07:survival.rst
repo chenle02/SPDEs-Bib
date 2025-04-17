@@ -22,7 +22,8 @@ derrida.simon:07:survival
      volume        = {78},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1209/0295-5075/78/60006>`_
+
+`The URL link to the source <https://doi.org/10.1209/0295-5075/78/60006>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

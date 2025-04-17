@@ -22,7 +22,8 @@ da-prato.zabczyk:02:second
      volume        = {293},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511543210>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511543210>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

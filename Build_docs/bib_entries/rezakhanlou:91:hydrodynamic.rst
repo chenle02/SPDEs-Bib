@@ -21,7 +21,8 @@ rezakhanlou:91:hydrodynamic
      volume        = {140},
      year          = {1991}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104248092>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104248092>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

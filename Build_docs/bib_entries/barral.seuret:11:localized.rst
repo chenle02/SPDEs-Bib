@@ -23,7 +23,8 @@ barral.seuret:11:localized
      volume        = {226},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1016/j.aim.2010.10.011>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.aim.2010.10.011>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

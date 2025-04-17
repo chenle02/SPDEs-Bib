@@ -23,7 +23,8 @@ dalang:88:on*1
      volume        = {24},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1080/17442508808833517>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442508808833517>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

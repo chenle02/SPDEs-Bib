@@ -22,7 +22,8 @@ bourgain:94:approximation
      url           = {https://doi.org/10.1155/S1073792894000103},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1155/S1073792894000103>`_
+
+`The URL link to the source <https://doi.org/10.1155/S1073792894000103>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

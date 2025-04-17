@@ -22,7 +22,8 @@ jona-lasinio.mitter:85:on
      volume        = {101},
      year          = {1985}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104114183>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104114183>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

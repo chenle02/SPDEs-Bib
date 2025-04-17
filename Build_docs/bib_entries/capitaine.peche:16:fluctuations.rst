@@ -22,7 +22,8 @@ capitaine.peche:16:fluctuations
      volume        = {165},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-015-0628-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-015-0628-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ ni.takagi:91:on
      volume        = {44},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160440705>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160440705>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

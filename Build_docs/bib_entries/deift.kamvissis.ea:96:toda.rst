@@ -23,7 +23,8 @@ deift.kamvissis.ea:96:toda
      volume        = {49},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199601)49:1<35::AID-CPA2>3.0.CO;2-8>`_
+
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199601)49:1<35::AID-CPA2>3.0.CO;2-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

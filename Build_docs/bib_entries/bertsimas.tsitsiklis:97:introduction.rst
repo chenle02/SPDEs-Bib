@@ -14,4 +14,4 @@ bertsimas.tsitsiklis:97:introduction
      year          = {1997}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

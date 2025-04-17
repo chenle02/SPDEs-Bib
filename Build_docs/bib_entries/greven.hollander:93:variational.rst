@@ -22,7 +22,8 @@ greven.hollander:93:variational
      volume        = {3},
      year          = {1993}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=1050-5164(199311)3:4<1067:AVCOTS>2.0.CO;2-Q\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=1050-5164(199311)3:4<1067:AVCOTS>2.0.CO;2-Q\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

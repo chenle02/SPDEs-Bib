@@ -23,7 +23,8 @@ xiang:18:chemotactic
      volume        = {78},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1137/17M1150475>`_
+
+`The URL link to the source <https://doi.org/10.1137/17M1150475>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

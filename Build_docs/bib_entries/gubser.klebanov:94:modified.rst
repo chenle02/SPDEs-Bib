@@ -23,7 +23,8 @@ gubser.klebanov:94:modified
      volume        = {340},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1016/0370-2693(94)91294-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/0370-2693(94)91294-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

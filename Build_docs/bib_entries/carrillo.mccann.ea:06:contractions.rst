@@ -23,7 +23,8 @@ carrillo.mccann.ea:06:contractions
      volume        = {179},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1007/s00205-005-0386-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00205-005-0386-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

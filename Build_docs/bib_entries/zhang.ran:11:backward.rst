@@ -23,7 +23,8 @@ zhang.ran:11:backward
      volume        = {14},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219025711004481>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219025711004481>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

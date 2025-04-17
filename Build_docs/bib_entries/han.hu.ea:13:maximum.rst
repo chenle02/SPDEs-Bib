@@ -23,7 +23,8 @@ han.hu.ea:13:maximum
      volume        = {67},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s00245-012-9188-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00245-012-9188-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ onatski:08:tracy-widom
      volume        = {18},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1214/07-AAP454>`_
+
+`The URL link to the source <https://doi.org/10.1214/07-AAP454>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

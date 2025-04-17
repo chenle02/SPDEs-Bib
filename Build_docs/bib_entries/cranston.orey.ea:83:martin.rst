@@ -22,4 +22,4 @@ cranston.orey.ea:83:martin
      year          = {1983}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

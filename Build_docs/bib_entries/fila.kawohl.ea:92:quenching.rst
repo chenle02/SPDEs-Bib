@@ -23,7 +23,8 @@ fila.kawohl.ea:92:quenching
      volume        = {17},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1080/03605309208820855>`_
+
+`The URL link to the source <https://doi.org/10.1080/03605309208820855>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ duchon.robert.ea:12:forecasting
      volume        = {22},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1111/j.1467-9965.2010.00458.x>`_
+
+`The URL link to the source <https://doi.org/10.1111/j.1467-9965.2010.00458.x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

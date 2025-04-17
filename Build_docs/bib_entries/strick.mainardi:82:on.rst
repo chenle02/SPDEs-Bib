@@ -19,7 +19,8 @@ strick.mainardi:82:on
      volume        = {69},
      year          = {1982}
    }
-`The URL link to the source <https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-246X.1982.tb04958.x>`_
+
+`The URL link to the source <https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-246X.1982.tb04958.x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

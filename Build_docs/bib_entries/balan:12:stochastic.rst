@@ -23,7 +23,8 @@ balan:12:stochastic
      volume        = {36},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s11118-011-9219-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11118-011-9219-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -18,4 +18,4 @@ einstein:56:investigations
      year          = {1956}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

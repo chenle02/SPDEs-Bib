@@ -23,7 +23,8 @@ burdzy.nualart.ea:14:joint
      volume        = {159},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-013-0511-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-013-0511-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ nualart.quer-sardanyons:12:gaussian
      volume        = {122},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2011.08.013>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2011.08.013>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

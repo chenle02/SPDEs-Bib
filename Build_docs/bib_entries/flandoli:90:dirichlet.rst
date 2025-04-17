@@ -23,7 +23,8 @@ flandoli:90:dirichlet
      volume        = {29},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1080/17442509008833620>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442509008833620>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

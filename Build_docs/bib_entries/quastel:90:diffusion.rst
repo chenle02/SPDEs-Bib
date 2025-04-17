@@ -18,7 +18,8 @@ quastel:90:diffusion
      url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:9102547},
      year          = {1990}
    }
-`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:9102547>`_
+
+`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:9102547>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

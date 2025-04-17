@@ -22,7 +22,8 @@ galaktionov:94:blow-up
      volume        = {124},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1017/S0308210500028766>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0308210500028766>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

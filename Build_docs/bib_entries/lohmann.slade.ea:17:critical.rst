@@ -23,7 +23,8 @@ lohmann.slade.ea:17:critical
      volume        = {169},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-017-1904-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-017-1904-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

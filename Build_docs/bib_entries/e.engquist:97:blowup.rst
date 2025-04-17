@@ -23,7 +23,8 @@ e.engquist:97:blowup
      volume        = {50},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199712)50:12<1287::AID-CPA4>3.0.CO;2-4>`_
+
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199712)50:12<1287::AID-CPA4>3.0.CO;2-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

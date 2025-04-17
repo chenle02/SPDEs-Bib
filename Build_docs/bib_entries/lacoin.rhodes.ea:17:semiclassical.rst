@@ -23,7 +23,8 @@ lacoin.rhodes.ea:17:semiclassical
      volume        = {273},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2017.04.012>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2017.04.012>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -19,7 +19,8 @@ smoluchowski:06:zur
      volume        = {326},
      year          = {1906}
    }
-`The URL link to the source <https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19063261405>`_
+
+`The URL link to the source <https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19063261405>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

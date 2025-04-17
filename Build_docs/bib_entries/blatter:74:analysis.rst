@@ -18,4 +18,4 @@ blatter:74:analysis
      year          = {1974}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

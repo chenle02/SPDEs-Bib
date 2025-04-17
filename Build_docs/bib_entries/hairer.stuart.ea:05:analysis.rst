@@ -22,7 +22,8 @@ hairer.stuart.ea:05:analysis
      volume        = {3},
      year          = {2005}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cms/1144429334>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cms/1144429334>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

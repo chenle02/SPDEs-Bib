@@ -23,7 +23,8 @@ friz.victoir:10:multidimensional
      volume        = {120},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511845079>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511845079>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

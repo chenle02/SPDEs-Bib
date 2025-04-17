@@ -19,4 +19,4 @@ erdelyi.magnus.ea:81:higher*1
      year          = {1981}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

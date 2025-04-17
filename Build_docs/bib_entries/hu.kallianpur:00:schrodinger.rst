@@ -23,7 +23,8 @@ hu.kallianpur:00:schrodinger
      volume        = {42},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/s002450010014>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002450010014>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

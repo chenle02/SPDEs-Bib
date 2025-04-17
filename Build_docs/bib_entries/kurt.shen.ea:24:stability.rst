@@ -15,7 +15,8 @@ kurt.shen.ea:24:stability
      url           = {http://arXiv.org/abs/2403.14907},
      year          = {2024}
    }
-`The URL link to the source <http://arXiv.org/abs/2403.14907>`_
+
+`The URL link to the source <http://arXiv.org/abs/2403.14907>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

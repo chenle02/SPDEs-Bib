@@ -21,7 +21,8 @@ wu.lim.ea:13:tail
      volume        = {116},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmva.2012.11.014>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmva.2012.11.014>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

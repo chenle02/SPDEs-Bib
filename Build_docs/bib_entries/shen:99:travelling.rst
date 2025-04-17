@@ -23,7 +23,8 @@ shen:99:travelling
      volume        = {159},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1006/jdeq.1999.3651>`_
+
+`The URL link to the source <https://doi.org/10.1006/jdeq.1999.3651>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

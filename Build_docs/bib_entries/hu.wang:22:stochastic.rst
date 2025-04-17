@@ -22,7 +22,8 @@ hu.wang:22:stochastic
      volume        = {58},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1214/21-aihp1161>`_
+
+`The URL link to the source <https://doi.org/10.1214/21-aihp1161>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

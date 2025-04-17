@@ -22,7 +22,8 @@ bichteler.jacod:83:random
      volume        = {49},
      year          = {1983}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0044678>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0044678>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

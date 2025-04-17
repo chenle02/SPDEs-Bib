@@ -22,7 +22,8 @@ hu:18:schrodinger
      url           = {https://doi.org/10.1090/tpms/1066},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1090/tpms/1066>`_
+
+`The URL link to the source <https://doi.org/10.1090/tpms/1066>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

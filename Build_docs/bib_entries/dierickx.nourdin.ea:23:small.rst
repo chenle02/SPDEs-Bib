@@ -23,7 +23,8 @@ dierickx.nourdin.ea:23:small
      volume        = {397},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-022-04422-w>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-022-04422-w>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

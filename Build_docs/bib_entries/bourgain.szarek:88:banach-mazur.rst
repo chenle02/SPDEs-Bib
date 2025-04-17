@@ -23,7 +23,8 @@ bourgain.szarek:88:banach-mazur
      volume        = {62},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02787120>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02787120>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

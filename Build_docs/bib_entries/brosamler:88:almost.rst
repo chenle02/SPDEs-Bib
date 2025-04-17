@@ -23,7 +23,8 @@ brosamler:88:almost
      volume        = {104},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1017/S0305004100065750>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0305004100065750>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

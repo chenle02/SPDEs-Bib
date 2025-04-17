@@ -23,7 +23,8 @@ rovira.sanz-sole:00:large
      volume        = {12},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1008662409325>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1008662409325>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

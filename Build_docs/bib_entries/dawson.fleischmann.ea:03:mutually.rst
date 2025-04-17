@@ -23,7 +23,8 @@ dawson.fleischmann.ea:03:mutually
      volume        = {39},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1016/S0246-0203(02)00006-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(02)00006-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

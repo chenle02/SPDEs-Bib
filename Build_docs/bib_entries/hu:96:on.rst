@@ -23,7 +23,8 @@ hu:96:on
      volume        = {40},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.5565/PUBLMAT\_40296\_06>`_
+
+`The URL link to the source <https://doi.org/10.5565/PUBLMAT\_40296\_06>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

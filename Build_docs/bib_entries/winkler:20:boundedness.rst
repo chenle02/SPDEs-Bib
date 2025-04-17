@@ -23,7 +23,8 @@ winkler:20:boundedness
      volume        = {71},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s00033-019-1232-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00033-019-1232-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -19,7 +19,8 @@ caputo.carcione.ea:11:wave
      volume        = {37},
      year          = {2011}
    }
-`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0301562911001578>`_
+
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0301562911001578>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

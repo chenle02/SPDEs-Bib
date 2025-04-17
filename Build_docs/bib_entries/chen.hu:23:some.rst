@@ -17,7 +17,8 @@ chen.hu:23:some
      url           = {https://github.com/chenle02/Fox-H\_Symbolic\_Tools},
      year          = {2023}
    }
-`The URL link to the source <https://github.com/chenle02/Fox-H\_Symbolic\_Tools>`_
+
+`The URL link to the source <https://github.com/chenle02/Fox-H\_Symbolic\_Tools>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ min.xian.ea:88:global
      volume        = {71},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-0396(88)90030-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-0396(88)90030-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

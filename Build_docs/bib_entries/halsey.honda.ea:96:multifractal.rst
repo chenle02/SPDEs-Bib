@@ -22,7 +22,8 @@ halsey.honda.ea:96:multifractal
      volume        = {85},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02199360>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02199360>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ shang.zhang:22:stochastic
      volume        = {313},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2021.12.033>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2021.12.033>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

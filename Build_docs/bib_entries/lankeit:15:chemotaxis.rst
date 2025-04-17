@@ -22,7 +22,8 @@ lankeit:15:chemotaxis
      volume        = {20},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdsb.2015.20.1499>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2015.20.1499>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,4 +21,4 @@ bardina.marquez-carreras.ea:04:higher
      year          = {2004}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

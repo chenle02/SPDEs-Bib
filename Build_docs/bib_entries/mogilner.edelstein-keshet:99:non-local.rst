@@ -22,7 +22,8 @@ mogilner.edelstein-keshet:99:non-local
      volume        = {38},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1007/s002850050158>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002850050158>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

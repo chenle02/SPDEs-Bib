@@ -23,7 +23,8 @@ chen.zhang:14:probabilistic
      volume        = {142},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-2014-11907-1>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-2014-11907-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

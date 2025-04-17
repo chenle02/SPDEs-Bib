@@ -22,7 +22,8 @@ he.kiselev:21:small-scale
      volume        = {170},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1215/00127094-2020-0064>`_
+
+`The URL link to the source <https://doi.org/10.1215/00127094-2020-0064>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

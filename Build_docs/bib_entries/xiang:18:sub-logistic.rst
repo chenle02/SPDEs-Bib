@@ -22,7 +22,8 @@ xiang:18:sub-logistic
      volume        = {59},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1063/1.5018861>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.5018861>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

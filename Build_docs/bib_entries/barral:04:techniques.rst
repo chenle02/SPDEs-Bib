@@ -23,7 +23,8 @@ barral:04:techniques
      volume        = {72, Part 2},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1090/pspum/072.2/2112121>`_
+
+`The URL link to the source <https://doi.org/10.1090/pspum/072.2/2112121>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

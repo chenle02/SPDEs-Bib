@@ -22,7 +22,8 @@ majda:84:compressible
      volume        = {53},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-1116-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-1116-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

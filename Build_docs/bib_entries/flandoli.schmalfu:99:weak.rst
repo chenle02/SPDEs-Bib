@@ -23,7 +23,8 @@ flandoli.schmalfu:99:weak
      volume        = {11},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1021937715194>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1021937715194>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

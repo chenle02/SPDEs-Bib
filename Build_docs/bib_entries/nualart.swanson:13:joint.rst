@@ -21,7 +21,8 @@ nualart.swanson:13:joint
      volume        = {18},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1214/ECP.v18-2840>`_
+
+`The URL link to the source <https://doi.org/10.1214/ECP.v18-2840>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

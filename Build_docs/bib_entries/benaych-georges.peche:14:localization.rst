@@ -23,7 +23,8 @@ benaych-georges.peche:14:localization
      volume        = {50},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1214/13-AIHP562>`_
+
+`The URL link to the source <https://doi.org/10.1214/13-AIHP562>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

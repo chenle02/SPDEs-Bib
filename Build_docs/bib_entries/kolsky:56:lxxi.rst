@@ -20,7 +20,8 @@ kolsky:56:lxxi
      volume        = {1},
      year          = {1956}
    }
-`The URL link to the source <https://doi.org/10.1080/14786435608238144>`_
+
+`The URL link to the source <https://doi.org/10.1080/14786435608238144>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

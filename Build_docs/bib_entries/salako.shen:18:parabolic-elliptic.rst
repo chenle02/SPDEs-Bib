@@ -22,7 +22,8 @@ salako.shen:18:parabolic-elliptic
      volume        = {464},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2018.04.034>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2018.04.034>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

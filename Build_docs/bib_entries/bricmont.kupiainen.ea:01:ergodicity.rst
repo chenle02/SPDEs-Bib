@@ -24,7 +24,8 @@ bricmont.kupiainen.ea:01:ergodicity
      volume        = {224},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1007/s002200100510>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002200100510>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

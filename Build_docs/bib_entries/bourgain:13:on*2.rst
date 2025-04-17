@@ -23,7 +23,8 @@ bourgain:13:on*2
      volume        = {68},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4614-6406-8\_3>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4614-6406-8\_3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ atangana.alkahtani:15:analysis
      volume        = {17},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.3390/e17064439>`_
+
+`The URL link to the source <https://doi.org/10.3390/e17064439>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bourgain.gamburd.ea:10:affine
      volume        = {179},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s00222-009-0225-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00222-009-0225-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

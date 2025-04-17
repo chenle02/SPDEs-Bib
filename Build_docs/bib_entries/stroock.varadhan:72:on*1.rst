@@ -18,4 +18,4 @@ stroock.varadhan:72:on*1
      year          = {1972}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

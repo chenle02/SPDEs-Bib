@@ -23,7 +23,8 @@ dembo:97:information
      volume        = {25},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1024404424>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1024404424>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

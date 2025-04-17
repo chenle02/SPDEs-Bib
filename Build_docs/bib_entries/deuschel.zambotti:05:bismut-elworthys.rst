@@ -23,7 +23,8 @@ deuschel.zambotti:05:bismut-elworthys
      volume        = {115},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2005.01.002>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2005.01.002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

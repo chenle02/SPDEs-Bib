@@ -23,7 +23,8 @@ donsker.varadhan:76:on
      volume        = {29},
      year          = {1976}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160290606>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160290606>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

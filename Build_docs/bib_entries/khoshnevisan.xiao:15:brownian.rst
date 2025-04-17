@@ -23,7 +23,8 @@ khoshnevisan.xiao:15:brownian
      volume        = {43},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1214/14-AOP910>`_
+
+`The URL link to the source <https://doi.org/10.1214/14-AOP910>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

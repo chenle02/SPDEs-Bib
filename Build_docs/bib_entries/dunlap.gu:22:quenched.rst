@@ -23,7 +23,8 @@ dunlap.gu:22:quenched
      volume        = {282},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2021.109372>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2021.109372>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

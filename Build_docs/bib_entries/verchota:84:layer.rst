@@ -23,7 +23,8 @@ verchota:84:layer
      volume        = {59},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-1236(84)90066-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-1236(84)90066-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

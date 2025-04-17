@@ -22,7 +22,8 @@ foondun.setayeshgar:17:large
      volume        = {121},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spl.2016.10.019>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2016.10.019>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

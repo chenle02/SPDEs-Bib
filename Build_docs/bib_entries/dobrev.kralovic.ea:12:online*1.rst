@@ -18,4 +18,4 @@ dobrev.kralovic.ea:12:online*1
      year          = {2012}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

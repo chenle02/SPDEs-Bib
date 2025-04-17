@@ -23,7 +23,8 @@ bourgain:04:on*1
      volume        = {10},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2004.10.75>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2004.10.75>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

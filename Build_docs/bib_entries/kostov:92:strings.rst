@@ -23,7 +23,8 @@ kostov:92:strings
      volume        = {376},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1016/0550-3213(92)90120-Z>`_
+
+`The URL link to the source <https://doi.org/10.1016/0550-3213(92)90120-Z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ barraquand.corwin:17:random-walk
      volume        = {167},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-016-0699-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-016-0699-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

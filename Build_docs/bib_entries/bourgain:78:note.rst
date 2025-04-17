@@ -23,7 +23,8 @@ bourgain:78:note
      volume        = {30},
      year          = {1978}
    }
-`The URL link to the source <https://doi.org/10.1016/0315-0860(80)90077-4>`_
+
+`The URL link to the source <https://doi.org/10.1016/0315-0860(80)90077-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

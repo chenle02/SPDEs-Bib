@@ -23,7 +23,8 @@ derrida.hakim.ea:92:effect
      volume        = {66},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01054419>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01054419>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

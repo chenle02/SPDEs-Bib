@@ -23,7 +23,8 @@ cordoba.gomez-serrano.ea:19:global
      volume        = {233},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s00205-019-01377-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00205-019-01377-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

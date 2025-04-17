@@ -23,7 +23,8 @@ talagrand:06:parisi*1
      volume        = {163},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.4007/annals.2006.163.221>`_
+
+`The URL link to the source <https://doi.org/10.4007/annals.2006.163.221>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

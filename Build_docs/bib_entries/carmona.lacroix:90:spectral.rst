@@ -21,7 +21,8 @@ carmona.lacroix:90:spectral
      url           = {https://doi.org/10.1007/978-1-4612-4488-2},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-4488-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-4488-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

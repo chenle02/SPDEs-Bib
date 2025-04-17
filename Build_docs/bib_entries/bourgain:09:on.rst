@@ -22,7 +22,8 @@ bourgain:09:on
      volume        = {172},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s11856-009-0063-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11856-009-0063-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

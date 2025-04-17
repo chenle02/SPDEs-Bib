@@ -20,4 +20,4 @@ gradshteyn.ryzhik:00:table
      year          = {2000}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

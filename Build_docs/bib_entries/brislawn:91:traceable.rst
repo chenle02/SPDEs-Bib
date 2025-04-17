@@ -22,7 +22,8 @@ brislawn:91:traceable
      volume        = {150},
      year          = {1991}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102637666>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102637666>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

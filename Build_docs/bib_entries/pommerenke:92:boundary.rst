@@ -22,7 +22,8 @@ pommerenke:92:boundary
      volume        = {299},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-662-02770-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-662-02770-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

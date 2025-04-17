@@ -23,7 +23,8 @@ barral.hu.ea:18:minimum
      volume        = {24},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.3150/15-BEJ784>`_
+
+`The URL link to the source <https://doi.org/10.3150/15-BEJ784>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

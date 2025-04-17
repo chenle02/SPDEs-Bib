@@ -22,7 +22,8 @@ maslowski.seidler:94:ergodic
      volume        = {31},
      year          = {1994}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200785644>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200785644>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ lacoin:14:scaling*1
      volume        = {69},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4939-0339-9\_4>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4939-0339-9\_4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

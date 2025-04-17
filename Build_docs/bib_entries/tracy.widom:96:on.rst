@@ -22,7 +22,8 @@ tracy.widom:96:on
      volume        = {177},
      year          = {1996}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104286442>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104286442>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

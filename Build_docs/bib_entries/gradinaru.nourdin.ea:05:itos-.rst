@@ -23,7 +23,8 @@ gradinaru.nourdin.ea:05:itos-
      volume        = {228},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2005.02.008>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2005.02.008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

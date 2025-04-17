@@ -23,7 +23,8 @@ baik.buckingham.ea:08:asymptotics
      volume        = {280},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-008-0433-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-008-0433-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

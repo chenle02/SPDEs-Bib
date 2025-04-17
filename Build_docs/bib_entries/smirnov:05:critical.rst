@@ -20,4 +20,4 @@ smirnov:05:critical
      year          = {2005}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

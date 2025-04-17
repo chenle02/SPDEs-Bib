@@ -23,7 +23,8 @@ fefferman.soria:86:space
      volume        = {85},
      year          = {1986}
    }
-`The URL link to the source <https://doi.org/10.4064/sm-85-1-1-16>`_
+
+`The URL link to the source <https://doi.org/10.4064/sm-85-1-1-16>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ borodin:99:longest
      volume        = {6},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.37236/1445>`_
+
+`The URL link to the source <https://doi.org/10.37236/1445>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

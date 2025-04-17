@@ -22,7 +22,8 @@ brzezniak.capinski.ea:90:approximation*1
      volume        = {8},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1080/07362999008809210>`_
+
+`The URL link to the source <https://doi.org/10.1080/07362999008809210>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

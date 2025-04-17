@@ -22,7 +22,8 @@ barski.jakubowski.ea:11:on
      volume        = {21},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1111/j.1467-9965.2010.00438.x>`_
+
+`The URL link to the source <https://doi.org/10.1111/j.1467-9965.2010.00438.x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

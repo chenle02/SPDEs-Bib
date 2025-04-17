@@ -23,7 +23,8 @@ oelschlager:90:large
      volume        = {88},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-0396(90)90101-T>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-0396(90)90101-T>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

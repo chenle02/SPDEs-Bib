@@ -22,7 +22,8 @@ kamenev.meerson.ea:16:short-time
      volume        = {94},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1103/physreve.94.032108>`_
+
+`The URL link to the source <https://doi.org/10.1103/physreve.94.032108>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

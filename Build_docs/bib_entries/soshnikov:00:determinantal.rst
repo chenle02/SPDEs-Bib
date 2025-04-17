@@ -23,7 +23,8 @@ soshnikov:00:determinantal
      volume        = {55},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1070/rm2000v055n05ABEH000321>`_
+
+`The URL link to the source <https://doi.org/10.1070/rm2000v055n05ABEH000321>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ marquez-carreras.tindel:03:on
      volume        = {21},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1081/SAP-120026109>`_
+
+`The URL link to the source <https://doi.org/10.1081/SAP-120026109>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

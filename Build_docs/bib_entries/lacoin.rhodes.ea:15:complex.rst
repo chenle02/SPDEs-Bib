@@ -22,7 +22,8 @@ lacoin.rhodes.ea:15:complex
      volume        = {337},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-015-2362-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-015-2362-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

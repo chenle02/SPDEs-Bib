@@ -23,7 +23,8 @@ deift.kriecherbauer.ea:99:strong
      volume        = {52},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1002/(sici)1097-0312(199912)52:12<1491::aid-cpa2>3.0.co;2-\#>`_
+
+`The URL link to the source <https://doi.org/10.1002/(sici)1097-0312(199912)52:12<1491::aid-cpa2>3.0.co;2-\#>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

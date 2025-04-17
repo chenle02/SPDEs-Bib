@@ -22,7 +22,8 @@ yang.zhang:13:estimates
      volume        = {38},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s11118-012-9286-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11118-012-9286-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

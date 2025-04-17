@@ -23,7 +23,8 @@ barski.zabczyk:21:note
      volume        = {21},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.4310/CIS.2021.v21.n2.a2>`_
+
+`The URL link to the source <https://doi.org/10.4310/CIS.2021.v21.n2.a2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

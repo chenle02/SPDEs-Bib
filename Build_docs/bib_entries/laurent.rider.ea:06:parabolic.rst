@@ -22,7 +22,8 @@ laurent.rider.ea:06:parabolic
      volume        = {38},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1137/040611422>`_
+
+`The URL link to the source <https://doi.org/10.1137/040611422>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ liu.chen:92:wave
      volume        = {9},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1088/0256-307X/9/12/014>`_
+
+`The URL link to the source <https://doi.org/10.1088/0256-307X/9/12/014>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

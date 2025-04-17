@@ -17,4 +17,4 @@ kalyanasundaram.pruhs:94:constructing*1
      year          = {1994}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

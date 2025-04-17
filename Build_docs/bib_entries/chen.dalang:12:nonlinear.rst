@@ -15,7 +15,8 @@ chen.dalang:12:nonlinear
      url           = {https://www.arxiv.org/abs/1210.1690},
      year          = {2012}
    }
-`The URL link to the source <https://www.arxiv.org/abs/1210.1690>`_
+
+`The URL link to the source <https://www.arxiv.org/abs/1210.1690>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

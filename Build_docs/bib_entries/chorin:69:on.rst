@@ -21,7 +21,8 @@ chorin:69:on
      volume        = {23},
      year          = {1969}
    }
-`The URL link to the source <https://doi.org/10.2307/2004428>`_
+
+`The URL link to the source <https://doi.org/10.2307/2004428>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

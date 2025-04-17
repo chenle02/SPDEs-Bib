@@ -23,7 +23,8 @@ cerrai:01:optimal
      volume        = {39},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1137/S0363012999356465>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0363012999356465>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

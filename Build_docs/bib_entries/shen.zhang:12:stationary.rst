@@ -23,7 +23,8 @@ shen.zhang:12:stationary
      volume        = {140},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-2011-11011-6>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-2011-11011-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ corwin.morgan:11:gauss-bonnet
      volume        = {4},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.2140/involve.2011.4.199>`_
+
+`The URL link to the source <https://doi.org/10.2140/involve.2011.4.199>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

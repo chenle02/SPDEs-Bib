@@ -22,4 +22,4 @@ fujiwara.morimoto:77:lr-theorem
      year          = {1977}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

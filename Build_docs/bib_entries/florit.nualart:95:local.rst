@@ -23,7 +23,8 @@ florit.nualart:95:local
      volume        = {22},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1016/0167-7152(94)00043-8>`_
+
+`The URL link to the source <https://doi.org/10.1016/0167-7152(94)00043-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

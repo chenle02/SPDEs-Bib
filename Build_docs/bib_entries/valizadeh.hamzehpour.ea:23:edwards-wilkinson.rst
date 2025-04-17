@@ -21,7 +21,8 @@ valizadeh.hamzehpour.ea:23:edwards-wilkinson
      volume        = {13},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1038/s41598-023-39191-6>`_
+
+`The URL link to the source <https://doi.org/10.1038/s41598-023-39191-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

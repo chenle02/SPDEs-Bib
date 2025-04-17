@@ -23,7 +23,8 @@ lager-s:05:renewal-process-type
      volume        = {42},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1239/jap/1134587822>`_
+
+`The URL link to the source <https://doi.org/10.1239/jap/1134587822>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

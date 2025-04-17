@@ -23,7 +23,8 @@ damron.hanson:14:busemann
      volume        = {325},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-013-1875-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-013-1875-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ garnier.s-lna:15:white-noise
      volume        = {13},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1137/15M101556X>`_
+
+`The URL link to the source <https://doi.org/10.1137/15M101556X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

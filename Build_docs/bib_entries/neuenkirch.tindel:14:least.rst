@@ -23,7 +23,8 @@ neuenkirch.tindel:14:least
      volume        = {17},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s11203-013-9084-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11203-013-9084-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

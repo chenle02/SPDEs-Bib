@@ -21,7 +21,8 @@ duplantier:89:fractal
      volume        = {45},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4899-3499-4\_4>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4899-3499-4\_4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

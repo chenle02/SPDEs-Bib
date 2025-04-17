@@ -23,7 +23,8 @@ hu.watanabe:96:donskers
      volume        = {36},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1215/kjm/1250518506>`_
+
+`The URL link to the source <https://doi.org/10.1215/kjm/1250518506>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

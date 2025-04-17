@@ -20,4 +20,4 @@ prudnikov.brychkov.ea:92:integrals*1
      year          = {1992}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

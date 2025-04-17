@@ -15,7 +15,8 @@ bedrossian.blumenthal.ea:24:existence
      url           = {http://arXiv.org/abs/2407.16592},
      year          = {2024}
    }
-`The URL link to the source <http://arXiv.org/abs/2407.16592>`_
+
+`The URL link to the source <http://arXiv.org/abs/2407.16592>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

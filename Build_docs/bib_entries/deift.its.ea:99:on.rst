@@ -23,7 +23,8 @@ deift.its.ea:99:on
      volume        = {203},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1007/s002200050037>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002200050037>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

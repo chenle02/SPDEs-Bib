@@ -15,7 +15,8 @@ han.kim.ea:24:on
      url           = {http://arXiv.org/abs/2407.06827},
      year          = {2024}
    }
-`The URL link to the source <http://arXiv.org/abs/2407.06827>`_
+
+`The URL link to the source <http://arXiv.org/abs/2407.06827>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ rhodes.vargas:14:spectral
      volume        = {15},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s00023-013-0308-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00023-013-0308-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

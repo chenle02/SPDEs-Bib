@@ -23,7 +23,8 @@ dappiaggi.drago.ea:22:microlocal
      volume        = {24},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219199721500759>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219199721500759>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

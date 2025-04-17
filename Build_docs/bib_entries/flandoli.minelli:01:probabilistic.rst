@@ -23,7 +23,8 @@ flandoli.minelli:01:probabilistic
      volume        = {51(126)},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1013708711604>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1013708711604>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

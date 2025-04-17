@@ -22,7 +22,8 @@ cuzick.dupreez:82:joint
      volume        = {10},
      year          = {1982}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198208)10:3<810:JCOGLT>2.0.CO;2-O\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198208)10:3<810:JCOGLT>2.0.CO;2-O\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

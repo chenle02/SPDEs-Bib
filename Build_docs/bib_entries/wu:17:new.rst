@@ -21,7 +21,8 @@ wu:17:new
      volume        = {4},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1080/23311835.2017.1279781>`_
+
+`The URL link to the source <https://doi.org/10.1080/23311835.2017.1279781>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

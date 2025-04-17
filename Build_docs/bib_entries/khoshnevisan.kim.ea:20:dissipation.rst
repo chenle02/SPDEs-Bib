@@ -23,7 +23,8 @@ khoshnevisan.kim.ea:20:dissipation
      volume        = {179},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-020-02540-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-020-02540-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

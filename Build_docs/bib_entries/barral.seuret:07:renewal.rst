@@ -23,7 +23,8 @@ barral.seuret:07:renewal
      volume        = {39},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1239/aap/1175266474>`_
+
+`The URL link to the source <https://doi.org/10.1239/aap/1175266474>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

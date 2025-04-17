@@ -23,7 +23,8 @@ soshnikov:98:level
      volume        = {148},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.2307/121004>`_
+
+`The URL link to the source <https://doi.org/10.2307/121004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

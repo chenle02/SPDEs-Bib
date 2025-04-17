@@ -23,7 +23,8 @@ angenent.velazquez:95:asymptotic
      volume        = {77},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1215/S0012-7094-95-07704-7>`_
+
+`The URL link to the source <https://doi.org/10.1215/S0012-7094-95-07704-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

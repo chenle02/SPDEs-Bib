@@ -23,7 +23,8 @@ cheskidov:08:blow-up
      volume        = {360},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-08-04494-2>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-08-04494-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ tuan.lesnic.ea:22:regularization
      volume        = {30},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1515/jiip-2020-0013>`_
+
+`The URL link to the source <https://doi.org/10.1515/jiip-2020-0013>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

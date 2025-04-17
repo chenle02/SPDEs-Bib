@@ -23,7 +23,8 @@ foondun.nualart:21:osgood
      volume        = {27},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.3150/20-BEJ1240>`_
+
+`The URL link to the source <https://doi.org/10.3150/20-BEJ1240>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ tracy.widom:97:on
      volume        = {244},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1016/S0378-4371(97)00229-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0378-4371(97)00229-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ klenke.mytnik:12:infinite*1
      volume        = {154},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-011-0376-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-011-0376-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

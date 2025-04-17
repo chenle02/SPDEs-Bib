@@ -23,7 +23,8 @@ zhang:07:large
      volume        = {248},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.03.029>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.03.029>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bourgain.rosenthal:83:applications
      volume        = {52},
      year          = {1983}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-1236(83)90080-0>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-1236(83)90080-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

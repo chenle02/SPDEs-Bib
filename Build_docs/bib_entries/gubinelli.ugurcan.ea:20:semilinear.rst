@@ -23,7 +23,8 @@ gubinelli.ugurcan.ea:20:semilinear
      volume        = {8},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-019-00143-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-019-00143-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

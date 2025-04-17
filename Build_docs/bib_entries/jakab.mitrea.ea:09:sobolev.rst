@@ -22,7 +22,8 @@ jakab.mitrea.ea:09:sobolev
      volume        = {9},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/978-0-387-85650-6\_11>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-0-387-85650-6\_11>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

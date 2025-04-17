@@ -20,7 +20,8 @@ hilfer:00:fractional
      url           = {https://doi.org/10.1142/9789812817747\_0002},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1142/9789812817747\_0002>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789812817747\_0002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

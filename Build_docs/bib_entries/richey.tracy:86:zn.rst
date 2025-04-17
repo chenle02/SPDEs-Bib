@@ -23,7 +23,8 @@ richey.tracy:86:zn
      volume        = {42},
      year          = {1986}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01127715>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01127715>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

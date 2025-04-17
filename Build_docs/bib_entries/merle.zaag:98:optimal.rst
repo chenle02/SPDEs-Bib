@@ -23,7 +23,8 @@ merle.zaag:98:optimal
      volume        = {51},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199802)51:2<139::AID-CPA2>3.0.CO;2-C>`_
+
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199802)51:2<139::AID-CPA2>3.0.CO;2-C>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

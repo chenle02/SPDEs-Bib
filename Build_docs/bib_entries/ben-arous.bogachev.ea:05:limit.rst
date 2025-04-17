@@ -23,7 +23,8 @@ ben-arous.bogachev.ea:05:limit
      volume        = {132},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-004-0406-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-004-0406-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

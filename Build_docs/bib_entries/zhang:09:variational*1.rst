@@ -22,7 +22,8 @@ zhang:09:variational*1
      volume        = {49},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1215/kjm/1260975036>`_
+
+`The URL link to the source <https://doi.org/10.1215/kjm/1260975036>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ forster.nelson.ea:77:large-distance
      volume        = {16},
      year          = {1977}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevA.16.732>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevA.16.732>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

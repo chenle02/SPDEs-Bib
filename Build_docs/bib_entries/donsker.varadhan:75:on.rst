@@ -22,7 +22,8 @@ donsker.varadhan:75:on
      volume        = {72},
      year          = {1975}
    }
-`The URL link to the source <https://doi.org/10.1073/pnas.72.3.780>`_
+
+`The URL link to the source <https://doi.org/10.1073/pnas.72.3.780>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

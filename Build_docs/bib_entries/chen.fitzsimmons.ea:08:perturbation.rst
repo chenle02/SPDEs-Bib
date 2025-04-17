@@ -23,7 +23,8 @@ chen.fitzsimmons.ea:08:perturbation
      volume        = {140},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-007-0065-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-007-0065-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ chen.hu.ea:18:intermittency
      volume        = {171},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-017-0783-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-017-0783-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ rascle.ziti:95:finite
      volume        = {33},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00176379>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00176379>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

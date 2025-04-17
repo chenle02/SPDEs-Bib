@@ -23,7 +23,8 @@ meerschaert.schilling.ea:15:stochastic
      volume        = {80},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s11071-014-1299-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11071-014-1299-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

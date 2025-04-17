@@ -23,7 +23,8 @@ kato:84:strong
      volume        = {187},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01174182>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01174182>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

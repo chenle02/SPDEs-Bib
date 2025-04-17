@@ -23,7 +23,8 @@ winkler:15:boundedness
      volume        = {54},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s00526-015-0922-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00526-015-0922-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

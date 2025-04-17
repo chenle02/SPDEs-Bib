@@ -23,7 +23,8 @@ ramirez.rider:08:shape
      volume        = {21},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-007-0105-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-007-0105-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

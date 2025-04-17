@@ -22,7 +22,8 @@ gasteratos.salins.ea:23:moderate
      volume        = {11},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-022-00236-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-022-00236-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

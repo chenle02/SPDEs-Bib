@@ -23,7 +23,8 @@ boue.dupuis:98:variational
      volume        = {26},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1022855876>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1022855876>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

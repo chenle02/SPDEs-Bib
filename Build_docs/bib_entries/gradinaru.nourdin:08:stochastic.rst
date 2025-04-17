@@ -22,4 +22,4 @@ gradinaru.nourdin:08:stochastic
      year          = {2008}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

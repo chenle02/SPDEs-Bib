@@ -18,4 +18,4 @@ fishkind.priebe.ea:07:disambiguation
      year          = {2007}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

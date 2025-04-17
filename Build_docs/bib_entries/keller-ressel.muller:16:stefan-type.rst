@@ -23,7 +23,8 @@ keller-ressel.muller:16:stefan-type
      volume        = {4},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-016-0076-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-016-0076-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

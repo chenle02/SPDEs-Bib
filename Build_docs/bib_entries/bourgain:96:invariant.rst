@@ -22,7 +22,8 @@ bourgain:96:invariant
      volume        = {176},
      year          = {1996}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104286005>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104286005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

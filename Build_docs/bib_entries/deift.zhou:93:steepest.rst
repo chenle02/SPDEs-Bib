@@ -23,7 +23,8 @@ deift.zhou:93:steepest
      volume        = {137},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.2307/2946540>`_
+
+`The URL link to the source <https://doi.org/10.2307/2946540>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

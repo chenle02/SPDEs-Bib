@@ -23,7 +23,8 @@ clisby.liang.ea:07:self-avoiding
      volume        = {40},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1088/1751-8113/40/36/003>`_
+
+`The URL link to the source <https://doi.org/10.1088/1751-8113/40/36/003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

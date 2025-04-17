@@ -21,7 +21,8 @@ breton.nourdin:08:error
      volume        = {13},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1214/ECP.v13-1415>`_
+
+`The URL link to the source <https://doi.org/10.1214/ECP.v13-1415>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

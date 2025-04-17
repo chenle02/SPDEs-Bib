@@ -23,7 +23,8 @@ bourgain:81:on*1
      volume        = {24},
      year          = {1981}
    }
-`The URL link to the source <https://doi.org/10.1112/jlms/s2-24.1.165>`_
+
+`The URL link to the source <https://doi.org/10.1112/jlms/s2-24.1.165>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

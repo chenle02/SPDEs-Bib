@@ -22,7 +22,8 @@ david.duplantier.ea:94:renormalization
      volume        = {72},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevLett.72.311>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.72.311>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

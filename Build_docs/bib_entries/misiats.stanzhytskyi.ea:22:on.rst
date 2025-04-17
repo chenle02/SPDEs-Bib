@@ -22,7 +22,8 @@ misiats.stanzhytskyi.ea:22:on
      volume        = {29},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s00030-021-00735-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00030-021-00735-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

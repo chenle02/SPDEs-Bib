@@ -23,4 +23,4 @@ gorenflo.luchko.ea:99:analytical
      year          = {1999}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

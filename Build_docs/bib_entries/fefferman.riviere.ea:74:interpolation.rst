@@ -22,7 +22,8 @@ fefferman.riviere.ea:74:interpolation
      volume        = {191},
      year          = {1974}
    }
-`The URL link to the source <https://doi.org/10.2307/1996982>`_
+
+`The URL link to the source <https://doi.org/10.2307/1996982>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

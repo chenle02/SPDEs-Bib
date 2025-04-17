@@ -23,7 +23,8 @@ souplet:99:uniform
      volume        = {153},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1006/jdeq.1998.3535>`_
+
+`The URL link to the source <https://doi.org/10.1006/jdeq.1998.3535>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

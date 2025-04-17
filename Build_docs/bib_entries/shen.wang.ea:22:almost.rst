@@ -23,7 +23,8 @@ shen.wang.ea:22:almost
      volume        = {65},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s11425-021-1938-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11425-021-1938-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

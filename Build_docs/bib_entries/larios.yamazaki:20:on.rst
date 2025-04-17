@@ -21,7 +21,8 @@ larios.yamazaki:20:on
      volume        = {411},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1016/j.physd.2020.132560>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.physd.2020.132560>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ crauel.flandoli:98:additive
      volume        = {10},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1022665916629>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1022665916629>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

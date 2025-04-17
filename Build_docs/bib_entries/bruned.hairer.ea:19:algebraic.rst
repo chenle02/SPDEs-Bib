@@ -23,7 +23,8 @@ bruned.hairer.ea:19:algebraic
      volume        = {215},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s00222-018-0841-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00222-018-0841-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ priola.zabczyk:06:harmonic
      volume        = {245},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1201/9781420028720.ch20>`_
+
+`The URL link to the source <https://doi.org/10.1201/9781420028720.ch20>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

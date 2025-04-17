@@ -23,7 +23,8 @@ umarov:12:on
      volume        = {252},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2012.01.029>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2012.01.029>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

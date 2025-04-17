@@ -22,7 +22,8 @@ kesten:80:critical
      volume        = {74},
      year          = {1980}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103907931>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103907931>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

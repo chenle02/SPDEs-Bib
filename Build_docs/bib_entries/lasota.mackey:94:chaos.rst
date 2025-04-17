@@ -24,7 +24,8 @@ lasota.mackey:94:chaos
      volume        = {97},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-4286-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-4286-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

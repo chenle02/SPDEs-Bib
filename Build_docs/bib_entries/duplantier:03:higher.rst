@@ -23,7 +23,8 @@ duplantier:03:higher
      volume        = {110},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1022107818494>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1022107818494>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

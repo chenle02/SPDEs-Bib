@@ -21,7 +21,8 @@ ito:44:stochastic
      volume        = {20},
      year          = {1944}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.pja/1195572786>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.pja/1195572786>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

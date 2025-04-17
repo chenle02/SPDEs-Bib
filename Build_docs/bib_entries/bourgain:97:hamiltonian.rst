@@ -23,7 +23,8 @@ bourgain:97:hamiltonian
      volume        = {5},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1142/9789812385215\_0059>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789812385215\_0059>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

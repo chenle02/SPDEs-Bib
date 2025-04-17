@@ -22,7 +22,8 @@ berkes.chen.ea:01:central
      volume        = {38},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1556/SScMath.38.2001.1-4.6>`_
+
+`The URL link to the source <https://doi.org/10.1556/SScMath.38.2001.1-4.6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

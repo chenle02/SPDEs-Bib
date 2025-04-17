@@ -23,7 +23,8 @@ groesen.mainardi:89:energy
      volume        = {11},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1016/0165-2125(89)90001-2>`_
+
+`The URL link to the source <https://doi.org/10.1016/0165-2125(89)90001-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ arumugam.erhardt.ea:20:existence
      volume        = {54},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2020.103090>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2020.103090>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

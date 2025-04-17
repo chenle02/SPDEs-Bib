@@ -22,7 +22,8 @@ freitag:18:global
      volume        = {38},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2018258>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2018258>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

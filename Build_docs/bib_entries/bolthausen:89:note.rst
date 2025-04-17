@@ -22,7 +22,8 @@ bolthausen:89:note
      volume        = {123},
      year          = {1989}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104178982>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104178982>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bourgain.chang:06:exponential
      volume        = {16},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1007/s00039-006-0558-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00039-006-0558-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

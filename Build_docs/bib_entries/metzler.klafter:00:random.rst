@@ -20,7 +20,8 @@ metzler.klafter:00:random
      volume        = {339},
      year          = {2000}
    }
-`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0370157300000703>`_
+
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0370157300000703>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

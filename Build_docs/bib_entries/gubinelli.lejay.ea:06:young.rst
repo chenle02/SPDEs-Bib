@@ -23,7 +23,8 @@ gubinelli.lejay.ea:06:young
      volume        = {25},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1007/s11118-006-9013-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11118-006-9013-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

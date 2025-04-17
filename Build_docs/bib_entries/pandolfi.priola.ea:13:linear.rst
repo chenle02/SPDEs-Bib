@@ -23,7 +23,8 @@ pandolfi.priola.ea:13:linear
      volume        = {51},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1137/110846294>`_
+
+`The URL link to the source <https://doi.org/10.1137/110846294>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

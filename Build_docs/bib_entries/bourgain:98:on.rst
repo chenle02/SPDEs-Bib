@@ -19,4 +19,4 @@ bourgain:98:on
      year          = {1998}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ chojnowska-michalik.goldys:02:symmetric
      volume        = {124},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1007/s004400200222>`_
+
+`The URL link to the source <https://doi.org/10.1007/s004400200222>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ sugiyama.tsutsui.ea:14:global
      volume        = {410},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2013.08.065>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2013.08.065>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

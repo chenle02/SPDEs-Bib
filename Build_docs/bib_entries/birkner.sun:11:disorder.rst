@@ -23,7 +23,8 @@ birkner.sun:11:disorder
      volume        = {47},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1214/10-AIHP374>`_
+
+`The URL link to the source <https://doi.org/10.1214/10-AIHP374>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

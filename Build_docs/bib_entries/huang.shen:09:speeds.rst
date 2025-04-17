@@ -22,7 +22,8 @@ huang.shen:09:speeds
      volume        = {8},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1137/080723259>`_
+
+`The URL link to the source <https://doi.org/10.1137/080723259>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

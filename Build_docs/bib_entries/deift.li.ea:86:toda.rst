@@ -23,7 +23,8 @@ deift.li.ea:86:toda
      volume        = {39},
      year          = {1986}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160390203>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160390203>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

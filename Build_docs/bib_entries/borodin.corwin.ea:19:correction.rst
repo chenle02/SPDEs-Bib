@@ -22,7 +22,8 @@ borodin.corwin.ea:19:correction
      volume        = {370},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-019-03528-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-019-03528-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

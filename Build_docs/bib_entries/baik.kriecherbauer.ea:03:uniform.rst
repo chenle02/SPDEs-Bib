@@ -22,7 +22,8 @@ baik.kriecherbauer.ea:03:uniform
      url           = {https://doi.org/10.1155/S1073792803212125},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1155/S1073792803212125>`_
+
+`The URL link to the source <https://doi.org/10.1155/S1073792803212125>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

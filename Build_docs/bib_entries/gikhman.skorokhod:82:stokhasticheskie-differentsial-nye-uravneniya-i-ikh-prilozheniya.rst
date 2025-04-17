@@ -18,4 +18,4 @@ gikhman.skorokhod:82:stokhasticheskie-differentsial-nye-uravneniya-i-ikh-prilozh
      year          = {1982}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

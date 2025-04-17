@@ -23,7 +23,8 @@ mayer-wolf.roitershtein.ea:04:limit
      volume        = {40},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1016/j.anihpb.2004.01.003>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.anihpb.2004.01.003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

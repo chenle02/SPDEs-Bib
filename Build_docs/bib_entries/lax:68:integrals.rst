@@ -22,7 +22,8 @@ lax:68:integrals
      volume        = {21},
      year          = {1968}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160210503>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160210503>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

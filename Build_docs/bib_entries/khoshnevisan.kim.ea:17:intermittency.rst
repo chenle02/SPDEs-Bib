@@ -23,7 +23,8 @@ khoshnevisan.kim.ea:17:intermittency
      volume        = {45},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1214/16-AOP1147>`_
+
+`The URL link to the source <https://doi.org/10.1214/16-AOP1147>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

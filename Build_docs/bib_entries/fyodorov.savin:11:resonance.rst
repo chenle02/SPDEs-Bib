@@ -19,4 +19,4 @@ fyodorov.savin:11:resonance
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

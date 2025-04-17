@@ -23,7 +23,8 @@ peche:06:largest
      volume        = {134},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-005-0466-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-005-0466-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

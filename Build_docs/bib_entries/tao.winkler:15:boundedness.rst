@@ -23,7 +23,8 @@ tao.winkler:15:boundedness
      volume        = {66},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s00033-015-0541-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00033-015-0541-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

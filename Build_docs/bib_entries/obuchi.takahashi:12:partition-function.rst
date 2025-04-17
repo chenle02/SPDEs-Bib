@@ -23,7 +23,8 @@ obuchi.takahashi:12:partition-function
      volume        = {45},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1088/1751-8113/45/12/125003>`_
+
+`The URL link to the source <https://doi.org/10.1088/1751-8113/45/12/125003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ miura.gardner.ea:68:korteweg-de
      volume        = {9},
      year          = {1968}
    }
-`The URL link to the source <https://doi.org/10.1063/1.1664701>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.1664701>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

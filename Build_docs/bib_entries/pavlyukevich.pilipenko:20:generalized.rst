@@ -21,7 +21,8 @@ pavlyukevich.pilipenko:20:generalized
      volume        = {25},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1214/20-ecp365>`_
+
+`The URL link to the source <https://doi.org/10.1214/20-ecp365>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

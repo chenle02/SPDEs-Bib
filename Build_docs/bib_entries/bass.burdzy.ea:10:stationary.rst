@@ -23,7 +23,8 @@ bass.burdzy.ea:10:stationary
      volume        = {146},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-008-0182-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-008-0182-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

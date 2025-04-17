@@ -22,7 +22,8 @@ angenent.velazquez:97:degenerate
      volume        = {482},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1515/crll.1997.482.15>`_
+
+`The URL link to the source <https://doi.org/10.1515/crll.1997.482.15>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

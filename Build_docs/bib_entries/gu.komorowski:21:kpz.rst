@@ -15,7 +15,8 @@ gu.komorowski:21:kpz
      url           = {https://www.arxiv.org/abs/2104.13540},
      year          = {2021}
    }
-`The URL link to the source <https://www.arxiv.org/abs/2104.13540>`_
+
+`The URL link to the source <https://www.arxiv.org/abs/2104.13540>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bal:10:homogenization
      volume        = {8},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1137/090754066>`_
+
+`The URL link to the source <https://doi.org/10.1137/090754066>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

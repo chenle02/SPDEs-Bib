@@ -22,7 +22,8 @@ majda:91:one
      volume        = {29},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4613-9121-0\_18>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4613-9121-0\_18>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

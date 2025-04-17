@@ -21,7 +21,8 @@ kurt.shen:23:two-species
      volume        = {355},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2023.01.029>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2023.01.029>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

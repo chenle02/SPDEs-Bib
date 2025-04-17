@@ -22,7 +22,8 @@ imdad.zhang:14:pricing
      volume        = {1},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1142/s2345768614500329>`_
+
+`The URL link to the source <https://doi.org/10.1142/s2345768614500329>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

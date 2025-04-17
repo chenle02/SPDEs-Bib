@@ -23,7 +23,8 @@ sanz-sole.vuillermot:03:equivalence
      volume        = {39},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1016/S0246-0203(03)00015-3>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(03)00015-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

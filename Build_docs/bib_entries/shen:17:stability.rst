@@ -22,7 +22,8 @@ shen:17:stability
      volume        = {30},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1088/1361-6544/aa7f08>`_
+
+`The URL link to the source <https://doi.org/10.1088/1361-6544/aa7f08>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

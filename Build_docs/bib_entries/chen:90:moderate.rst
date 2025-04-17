@@ -22,4 +22,4 @@ chen:90:moderate
      year          = {1990}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

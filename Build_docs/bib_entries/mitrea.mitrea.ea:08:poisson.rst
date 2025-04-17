@@ -23,7 +23,8 @@ mitrea.mitrea.ea:08:poisson
      volume        = {7},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.3934/cpaa.2008.7.1295>`_
+
+`The URL link to the source <https://doi.org/10.3934/cpaa.2008.7.1295>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

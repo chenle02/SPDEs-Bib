@@ -22,7 +22,8 @@ bowick.brezin:91:universal
      volume        = {268},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1016/0370-2693(91)90916-E>`_
+
+`The URL link to the source <https://doi.org/10.1016/0370-2693(91)90916-E>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

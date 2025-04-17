@@ -21,7 +21,8 @@ iwatsuka.fukai.ea:20:direct
      volume        = {124},
      year          = {2020}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.124.250602>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.124.250602>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

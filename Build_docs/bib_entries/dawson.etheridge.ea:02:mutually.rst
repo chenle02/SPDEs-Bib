@@ -23,7 +23,8 @@ dawson.etheridge.ea:02:mutually
      volume        = {30},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1039548370>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1039548370>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

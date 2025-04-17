@@ -22,7 +22,8 @@ stroock.varadhan:72:on
      volume        = {25},
      year          = {1972}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160250603>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160250603>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

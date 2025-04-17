@@ -23,7 +23,8 @@ goldberg.mueller:82:brownian
      volume        = {7},
      year          = {1982}
    }
-`The URL link to the source <https://doi.org/10.1090/S0273-0979-1982-15028-5>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0273-0979-1982-15028-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

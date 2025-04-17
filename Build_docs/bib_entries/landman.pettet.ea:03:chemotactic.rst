@@ -23,7 +23,8 @@ landman.pettet.ea:03:chemotactic
      volume        = {63},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036139902404694>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036139902404694>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

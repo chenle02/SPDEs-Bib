@@ -22,7 +22,8 @@ borodin.ivanova:14:combinatorial
      volume        = {55},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1134/s0037446614010030>`_
+
+`The URL link to the source <https://doi.org/10.1134/s0037446614010030>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

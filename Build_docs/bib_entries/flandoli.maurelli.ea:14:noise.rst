@@ -22,7 +22,8 @@ flandoli.maurelli.ea:14:noise
      volume        = {16},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s00021-014-0187-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00021-014-0187-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

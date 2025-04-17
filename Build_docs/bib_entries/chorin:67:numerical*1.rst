@@ -22,7 +22,8 @@ chorin:67:numerical*1
      volume        = {2},
      year          = {1967}
    }
-`The URL link to the source <https://doi.org/10.1016/0021-9991(67)90037-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/0021-9991(67)90037-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

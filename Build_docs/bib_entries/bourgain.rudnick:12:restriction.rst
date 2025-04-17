@@ -23,7 +23,8 @@ bourgain.rudnick:12:restriction
      volume        = {22},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00039-012-0186-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00039-012-0186-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

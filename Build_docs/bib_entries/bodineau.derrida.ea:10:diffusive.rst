@@ -23,7 +23,8 @@ bodineau.derrida.ea:10:diffusive
      volume        = {140},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-010-0012-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-010-0012-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

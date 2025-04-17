@@ -23,7 +23,8 @@ alt:80:biased
      volume        = {9},
      year          = {1980}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00275919>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00275919>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

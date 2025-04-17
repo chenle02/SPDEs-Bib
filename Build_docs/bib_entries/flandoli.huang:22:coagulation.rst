@@ -22,7 +22,8 @@ flandoli.huang:22:coagulation
      volume        = {19},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.30757/alea.v19-51>`_
+
+`The URL link to the source <https://doi.org/10.30757/alea.v19-51>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ kemppainen.smirnov:18:configurations
      volume        = {25},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.4310/MRL.2018.v25.n3.a7>`_
+
+`The URL link to the source <https://doi.org/10.4310/MRL.2018.v25.n3.a7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

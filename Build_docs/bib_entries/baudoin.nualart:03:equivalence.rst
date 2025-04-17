@@ -23,7 +23,8 @@ baudoin.nualart:03:equivalence
      volume        = {107},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1016/S0304-4149(03)00088-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(03)00088-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

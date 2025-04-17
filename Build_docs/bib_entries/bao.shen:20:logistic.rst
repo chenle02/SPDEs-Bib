@@ -22,7 +22,8 @@ bao.shen:20:logistic
      volume        = {40},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2020072>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2020072>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

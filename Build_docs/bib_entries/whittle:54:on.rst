@@ -22,7 +22,8 @@ whittle:54:on
      volume        = {41},
      year          = {1954}
    }
-`The URL link to the source <https://doi.org/10.1093/biomet/41.3-4.434>`_
+
+`The URL link to the source <https://doi.org/10.1093/biomet/41.3-4.434>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

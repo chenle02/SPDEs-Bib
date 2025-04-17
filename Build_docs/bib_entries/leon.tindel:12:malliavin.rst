@@ -23,7 +23,8 @@ leon.tindel:12:malliavin
      volume        = {25},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-011-0349-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-011-0349-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

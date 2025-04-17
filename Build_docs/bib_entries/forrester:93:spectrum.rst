@@ -23,7 +23,8 @@ forrester:93:spectrum
      volume        = {402},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1016/0550-3213(93)90126-A>`_
+
+`The URL link to the source <https://doi.org/10.1016/0550-3213(93)90126-A>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ feldman.osterwalder:76:wightman
      volume        = {97},
      year          = {1976}
    }
-`The URL link to the source <https://doi.org/10.1016/0003-4916(76)90223-2>`_
+
+`The URL link to the source <https://doi.org/10.1016/0003-4916(76)90223-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ berman:73:local
      volume        = {23},
      year          = {1973/74}
    }
-`The URL link to the source <https://doi.org/10.1512/iumj.1973.23.23006>`_
+
+`The URL link to the source <https://doi.org/10.1512/iumj.1973.23.23006>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

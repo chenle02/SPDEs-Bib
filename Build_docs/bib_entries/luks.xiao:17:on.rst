@@ -23,7 +23,8 @@ luks.xiao:17:on
      volume        = {30},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-015-0638-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-015-0638-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

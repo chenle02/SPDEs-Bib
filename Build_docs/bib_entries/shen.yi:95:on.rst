@@ -23,7 +23,8 @@ shen.yi:95:on
      volume        = {347},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.2307/2155044>`_
+
+`The URL link to the source <https://doi.org/10.2307/2155044>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

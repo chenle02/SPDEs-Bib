@@ -23,7 +23,8 @@ tao.winkler:15:persistence
      volume        = {259},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2015.07.019>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2015.07.019>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

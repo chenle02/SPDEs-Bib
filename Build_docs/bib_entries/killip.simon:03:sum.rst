@@ -23,7 +23,8 @@ killip.simon:03:sum
      volume        = {158},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.4007/annals.2003.158.253>`_
+
+`The URL link to the source <https://doi.org/10.4007/annals.2003.158.253>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ henrot.pierre:05:variation
      volume        = {48},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/3-540-37689-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/3-540-37689-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

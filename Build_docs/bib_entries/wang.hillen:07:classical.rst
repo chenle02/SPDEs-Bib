@@ -22,7 +22,8 @@ wang.hillen:07:classical
      volume        = {17},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1063/1.2766864>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.2766864>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

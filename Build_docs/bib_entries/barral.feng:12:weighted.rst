@@ -23,7 +23,8 @@ barral.feng:12:weighted
      volume        = {16},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.4310/AJM.2012.v16.n2.a8>`_
+
+`The URL link to the source <https://doi.org/10.4310/AJM.2012.v16.n2.a8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

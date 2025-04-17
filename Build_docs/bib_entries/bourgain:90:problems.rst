@@ -23,7 +23,8 @@ bourgain:90:problems
      volume        = {71},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02807252>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02807252>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

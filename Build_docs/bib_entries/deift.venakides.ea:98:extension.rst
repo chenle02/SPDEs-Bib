@@ -22,7 +22,8 @@ deift.venakides.ea:98:extension
      volume        = {95},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1073/pnas.95.2.450>`_
+
+`The URL link to the source <https://doi.org/10.1073/pnas.95.2.450>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

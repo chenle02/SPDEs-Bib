@@ -18,4 +18,4 @@ bouchaud.potters:11:financial
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

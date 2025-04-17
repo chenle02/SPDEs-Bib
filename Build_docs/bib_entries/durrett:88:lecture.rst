@@ -20,4 +20,4 @@ durrett:88:lecture
      year          = {1988}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

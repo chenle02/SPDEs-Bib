@@ -23,7 +23,8 @@ bal.gu:15:limiting
      volume        = {13},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.4310/CMS.2015.v13.n3.a7>`_
+
+`The URL link to the source <https://doi.org/10.4310/CMS.2015.v13.n3.a7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ dembo.zeitouni:86:parameter
      volume        = {23},
      year          = {1986}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(86)90018-9>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(86)90018-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

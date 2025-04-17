@@ -23,7 +23,8 @@ bao.shen:17:criteria
      volume        = {145},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1090/proc/13602>`_
+
+`The URL link to the source <https://doi.org/10.1090/proc/13602>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

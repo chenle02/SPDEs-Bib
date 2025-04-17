@@ -22,7 +22,8 @@ gartner.konig.ea:00:almost
      volume        = {118},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/PL00008754>`_
+
+`The URL link to the source <https://doi.org/10.1007/PL00008754>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ licea.newman:96:geodesics
      volume        = {24},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1042644722>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1042644722>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

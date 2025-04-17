@@ -23,7 +23,8 @@ wu.xiao:06:fractal
      volume        = {51},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1214/074921706000000806>`_
+
+`The URL link to the source <https://doi.org/10.1214/074921706000000806>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

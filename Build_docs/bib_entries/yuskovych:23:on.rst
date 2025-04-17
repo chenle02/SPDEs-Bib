@@ -21,4 +21,4 @@ yuskovych:23:on
      year          = {2023}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

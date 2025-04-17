@@ -23,7 +23,8 @@ deift.its.ea:97:riemann-hilbert
      volume        = {146},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.2307/2951834>`_
+
+`The URL link to the source <https://doi.org/10.2307/2951834>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ busnello.flandoli.ea:05:probabilistic
      volume        = {48},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1017/S0013091503000506>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0013091503000506>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

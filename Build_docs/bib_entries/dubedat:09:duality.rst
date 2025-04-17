@@ -23,7 +23,8 @@ dubedat:09:duality
      volume        = {42},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.24033/asens.2107>`_
+
+`The URL link to the source <https://doi.org/10.24033/asens.2107>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

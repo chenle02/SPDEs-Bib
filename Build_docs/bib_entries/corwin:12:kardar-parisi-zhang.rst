@@ -22,7 +22,8 @@ corwin:12:kardar-parisi-zhang
      volume        = {1},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1142/S2010326311300014>`_
+
+`The URL link to the source <https://doi.org/10.1142/S2010326311300014>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

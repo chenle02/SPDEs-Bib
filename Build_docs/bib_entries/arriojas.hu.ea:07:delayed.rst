@@ -23,7 +23,8 @@ arriojas.hu.ea:07:delayed
      volume        = {25},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1080/07362990601139669>`_
+
+`The URL link to the source <https://doi.org/10.1080/07362990601139669>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

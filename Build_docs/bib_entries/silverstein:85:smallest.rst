@@ -22,7 +22,8 @@ silverstein:85:smallest
      volume        = {13},
      year          = {1985}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198511)13:4<1364:TSEOAL>2.0.CO;2-L\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198511)13:4<1364:TSEOAL>2.0.CO;2-L\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

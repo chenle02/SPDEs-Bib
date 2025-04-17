@@ -23,7 +23,8 @@ mizoguchi.souplet:14:nondegeneracy
      volume        = {31},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1016/j.anihpc.2013.07.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.anihpc.2013.07.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

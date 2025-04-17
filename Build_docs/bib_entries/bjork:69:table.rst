@@ -21,7 +21,8 @@ bjork:69:table
      volume        = {23},
      year          = {1969}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0025-5718(196907)23:107<691:TE>2.0.CO;2-Y\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0025-5718(196907)23:107<691:TE>2.0.CO;2-Y\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

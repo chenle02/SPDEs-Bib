@@ -21,7 +21,8 @@ haubold.mathai.ea:11:mittag-leffler
      url           = {https://doi.org/10.1155/2011/298628},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1155/2011/298628>`_
+
+`The URL link to the source <https://doi.org/10.1155/2011/298628>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

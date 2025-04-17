@@ -23,7 +23,8 @@ duncan.hu.ea:00:stochastic
      volume        = {38},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1137/S036301299834171X>`_
+
+`The URL link to the source <https://doi.org/10.1137/S036301299834171X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

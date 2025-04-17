@@ -23,7 +23,8 @@ bianchi.morandin:17:structure
      volume        = {356},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-017-2974-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-017-2974-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

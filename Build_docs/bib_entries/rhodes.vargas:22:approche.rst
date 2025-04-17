@@ -20,4 +20,4 @@ rhodes.vargas:22:approche
      year          = {2022}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

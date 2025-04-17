@@ -23,7 +23,8 @@ dalang.khoshnevisan.ea:19:global
      volume        = {47},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1214/18-AOP1270>`_
+
+`The URL link to the source <https://doi.org/10.1214/18-AOP1270>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

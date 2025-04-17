@@ -21,7 +21,8 @@ sanz-sole.su:13:stochastic
      volume        = {18},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1214/EJP.v18-2341>`_
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v18-2341>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

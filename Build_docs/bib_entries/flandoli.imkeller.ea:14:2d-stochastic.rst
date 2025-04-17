@@ -23,7 +23,8 @@ flandoli.imkeller.ea:14:2d-stochastic
      volume        = {27},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-012-0453-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-012-0453-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

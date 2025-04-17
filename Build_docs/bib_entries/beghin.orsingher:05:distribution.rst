@@ -23,7 +23,8 @@ beghin.orsingher:05:distribution
      volume        = {115},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2005.02.001>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2005.02.001>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

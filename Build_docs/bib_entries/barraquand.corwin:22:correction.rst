@@ -22,7 +22,8 @@ barraquand.corwin:22:correction
      volume        = {183},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-022-01122-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-022-01122-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

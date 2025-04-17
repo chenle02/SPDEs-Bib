@@ -23,7 +23,8 @@ nourdin.peccati.ea:20:sojourn
      volume        = {26},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.3150/19-BEJ1105>`_
+
+`The URL link to the source <https://doi.org/10.3150/19-BEJ1105>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

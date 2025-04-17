@@ -23,7 +23,8 @@ bourgain.konyagin.ea:15:character
      volume        = {84},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1090/mcom/2946>`_
+
+`The URL link to the source <https://doi.org/10.1090/mcom/2946>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

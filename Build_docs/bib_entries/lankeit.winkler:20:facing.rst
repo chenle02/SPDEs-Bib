@@ -23,7 +23,8 @@ lankeit.winkler:20:facing
      volume        = {122},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1365/s13291-019-00210-z>`_
+
+`The URL link to the source <https://doi.org/10.1365/s13291-019-00210-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ baik.wang:13:on
      url           = {https://doi.org/10.1093/imrn/rns136},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1093/imrn/rns136>`_
+
+`The URL link to the source <https://doi.org/10.1093/imrn/rns136>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

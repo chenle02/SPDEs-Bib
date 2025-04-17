@@ -22,7 +22,8 @@ manthey.zausinger:99:stochastic
      volume        = {66},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1080/17442509908834186>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442509908834186>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

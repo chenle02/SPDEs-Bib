@@ -23,7 +23,8 @@ zambotti:01:reflected
      volume        = {180},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.2000.3685>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.2000.3685>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

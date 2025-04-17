@@ -21,7 +21,8 @@ dalang:85:correction
      volume        = {1123},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0075869>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0075869>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

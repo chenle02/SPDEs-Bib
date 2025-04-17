@@ -23,7 +23,8 @@ arguin.bovier.ea:11:genealogy
      volume        = {64},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.20387>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.20387>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ bourgain.demeter:13:improved
      volume        = {57},
      year          = {2013}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ijm/1403534493>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1403534493>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

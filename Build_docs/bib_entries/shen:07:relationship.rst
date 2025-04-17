@@ -22,7 +22,8 @@ shen:07:relationship
      volume        = {14},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.4310/MRL.2007.v14.n2.a4>`_
+
+`The URL link to the source <https://doi.org/10.4310/MRL.2007.v14.n2.a4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

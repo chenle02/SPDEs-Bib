@@ -22,7 +22,8 @@ holden.oksendal.ea:96:stochastic
      url           = {https://doi.org/10.1007/978-1-4684-9215-6},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4684-9215-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4684-9215-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

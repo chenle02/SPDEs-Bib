@@ -21,7 +21,8 @@ sasaki:65:on
      volume        = {41},
      year          = {1965}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.pja/1195522240>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.pja/1195522240>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -20,7 +20,8 @@ evangelista.lenzi:18:fractional
      url           = {https://doi.org/10.1017/9781316534649},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1017/9781316534649>`_
+
+`The URL link to the source <https://doi.org/10.1017/9781316534649>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

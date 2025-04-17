@@ -23,7 +23,8 @@ corwin.ferrari.ea:10:limit
      volume        = {140},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-010-9995-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-010-9995-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

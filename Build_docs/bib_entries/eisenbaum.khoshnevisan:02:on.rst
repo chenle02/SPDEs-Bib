@@ -23,7 +23,8 @@ eisenbaum.khoshnevisan:02:on
      volume        = {101},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1016/S0304-4149(02)00128-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(02)00128-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

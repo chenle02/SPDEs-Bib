@@ -23,7 +23,8 @@ wainwright:19:high-dimensional
      volume        = {48},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1017/9781108627771>`_
+
+`The URL link to the source <https://doi.org/10.1017/9781108627771>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

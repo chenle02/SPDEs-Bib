@@ -23,7 +23,8 @@ yastrzhembskiy:21:wong-zakai
      volume        = {9},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-020-00168-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-020-00168-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

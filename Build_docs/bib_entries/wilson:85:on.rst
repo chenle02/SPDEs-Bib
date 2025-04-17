@@ -22,7 +22,8 @@ wilson:85:on
      volume        = {116},
      year          = {1985}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102707257>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102707257>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ zhai.zhang:15:large
      volume        = {21},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.3150/14-BEJ647>`_
+
+`The URL link to the source <https://doi.org/10.3150/14-BEJ647>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

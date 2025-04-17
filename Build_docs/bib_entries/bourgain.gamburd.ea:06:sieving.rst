@@ -22,7 +22,8 @@ bourgain.gamburd.ea:06:sieving
      volume        = {343},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2006.05.023>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2006.05.023>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

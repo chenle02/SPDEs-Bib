@@ -23,7 +23,8 @@ li.zhang.ea:20:data-driven
      volume        = {18},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1137/19M1277485>`_
+
+`The URL link to the source <https://doi.org/10.1137/19M1277485>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

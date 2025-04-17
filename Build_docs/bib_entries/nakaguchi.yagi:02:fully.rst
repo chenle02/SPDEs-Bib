@@ -23,7 +23,8 @@ nakaguchi.yagi:02:fully
      volume        = {31},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.14492/hokmj/1350911871>`_
+
+`The URL link to the source <https://doi.org/10.14492/hokmj/1350911871>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

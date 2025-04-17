@@ -23,7 +23,8 @@ spitzer:77:stochastic
      volume        = {83},
      year          = {1977}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9904-1977-14322-X>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9904-1977-14322-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

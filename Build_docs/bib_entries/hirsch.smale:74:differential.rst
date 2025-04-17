@@ -19,4 +19,4 @@ hirsch.smale:74:differential
      year          = {1974}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

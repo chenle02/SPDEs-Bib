@@ -23,7 +23,8 @@ georgiou.joseph.ea:15:semi-discrete
      volume        = {25},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1214/14-AAP1065>`_
+
+`The URL link to the source <https://doi.org/10.1214/14-AAP1065>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

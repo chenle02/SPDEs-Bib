@@ -21,7 +21,8 @@ odlyzko.rains:00:on
      volume        = {251},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1090/conm/251/03886>`_
+
+`The URL link to the source <https://doi.org/10.1090/conm/251/03886>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

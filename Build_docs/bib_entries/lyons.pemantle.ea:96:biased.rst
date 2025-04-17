@@ -23,7 +23,8 @@ lyons.pemantle.ea:96:biased
      volume        = {106},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1007/s004400050064>`_
+
+`The URL link to the source <https://doi.org/10.1007/s004400050064>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

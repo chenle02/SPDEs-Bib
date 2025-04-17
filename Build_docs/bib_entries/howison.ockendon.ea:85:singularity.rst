@@ -23,7 +23,8 @@ howison.ockendon.ea:85:singularity
      volume        = {38},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1093/qjmam/38.3.343>`_
+
+`The URL link to the source <https://doi.org/10.1093/qjmam/38.3.343>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

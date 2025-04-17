@@ -22,7 +22,8 @@ gnann.kuehn.ea:19:towards
      volume        = {30},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1017/s095679251800061x>`_
+
+`The URL link to the source <https://doi.org/10.1017/s095679251800061x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

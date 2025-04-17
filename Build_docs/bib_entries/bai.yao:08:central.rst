@@ -23,7 +23,8 @@ bai.yao:08:central
      volume        = {44},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1214/07-AIHP118>`_
+
+`The URL link to the source <https://doi.org/10.1214/07-AIHP118>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

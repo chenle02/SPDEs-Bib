@@ -22,7 +22,8 @@ gatarek.go-dys:94:on
      volume        = {46},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1080/17442509408833868>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442509408833868>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

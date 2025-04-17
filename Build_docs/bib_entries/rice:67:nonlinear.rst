@@ -22,7 +22,8 @@ rice:67:nonlinear
      volume        = {128},
      year          = {1967}
    }
-`The URL link to the source <https://doi.org/10.2307/1994467>`_
+
+`The URL link to the source <https://doi.org/10.2307/1994467>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

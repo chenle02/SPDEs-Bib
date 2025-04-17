@@ -23,7 +23,8 @@ ono:97:global
      volume        = {137},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1006/jdeq.1997.3263>`_
+
+`The URL link to the source <https://doi.org/10.1006/jdeq.1997.3263>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

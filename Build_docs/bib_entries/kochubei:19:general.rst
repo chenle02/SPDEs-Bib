@@ -19,4 +19,4 @@ kochubei:19:general
      year          = {2019}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

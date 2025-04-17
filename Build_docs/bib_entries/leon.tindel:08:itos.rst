@@ -23,7 +23,8 @@ leon.tindel:08:itos
      volume        = {80},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1080/17442500701661687>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442500701661687>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

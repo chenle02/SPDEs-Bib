@@ -22,7 +22,8 @@ kuczma:60:remarks
      volume        = {8},
      year          = {1960}
    }
-`The URL link to the source <https://doi.org/10.4064/ap-8-3-277-284>`_
+
+`The URL link to the source <https://doi.org/10.4064/ap-8-3-277-284>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

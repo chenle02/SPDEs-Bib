@@ -19,7 +19,8 @@ einstein:05:uber
      volume        = {322},
      year          = {1905}
    }
-`The URL link to the source <https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19053220806>`_
+
+`The URL link to the source <https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19053220806>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -20,7 +20,8 @@ yan.yang:19:boundedness
      url           = {https://doi.org/10.1186/s13661-019-1232-y},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1186/s13661-019-1232-y>`_
+
+`The URL link to the source <https://doi.org/10.1186/s13661-019-1232-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

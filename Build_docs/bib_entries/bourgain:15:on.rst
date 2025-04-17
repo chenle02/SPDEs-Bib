@@ -22,7 +22,8 @@ bourgain:15:on
      url           = {https://doi.org/10.1093/imrn/rnt241},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1093/imrn/rnt241>`_
+
+`The URL link to the source <https://doi.org/10.1093/imrn/rnt241>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

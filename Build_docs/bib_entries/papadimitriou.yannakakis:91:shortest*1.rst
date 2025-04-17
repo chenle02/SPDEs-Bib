@@ -16,4 +16,4 @@ papadimitriou.yannakakis:91:shortest*1
      year          = {1991}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ watanabe:68:limit
      volume        = {8},
      year          = {1968}
    }
-`The URL link to the source <https://doi.org/10.1215/kjm/1250524180>`_
+
+`The URL link to the source <https://doi.org/10.1215/kjm/1250524180>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

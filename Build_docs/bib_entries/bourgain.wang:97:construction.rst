@@ -23,7 +23,8 @@ bourgain.wang:97:construction
      volume        = {25},
      year          = {1997}
    }
-`The URL link to the source <http://www.numdam.org/item?id=ASNSP\_1997\_4\_25\_1-2\_197\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=ASNSP\_1997\_4\_25\_1-2\_197\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

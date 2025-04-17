@@ -23,7 +23,8 @@ shen.zhao:05:convergence
      volume        = {133},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-04-07556-2>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-04-07556-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

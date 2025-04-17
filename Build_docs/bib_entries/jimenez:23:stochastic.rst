@@ -15,7 +15,8 @@ jimenez:23:stochastic
      url           = {http://arXiv.org/abs/2310.05907},
      year          = {2023}
    }
-`The URL link to the source <http://arXiv.org/abs/2310.05907>`_
+
+`The URL link to the source <http://arXiv.org/abs/2310.05907>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ beliaev.duplantier.ea:17:integral
      volume        = {353},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-017-2868-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-017-2868-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

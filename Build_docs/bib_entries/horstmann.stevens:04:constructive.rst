@@ -23,7 +23,8 @@ horstmann.stevens:04:constructive
      volume        = {14},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/s00332-003-0548-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00332-003-0548-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

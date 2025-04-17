@@ -23,7 +23,8 @@ flandoli.zanco:16:infinite-dimensional
      volume        = {44},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1214/15-AOP1031>`_
+
+`The URL link to the source <https://doi.org/10.1214/15-AOP1031>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

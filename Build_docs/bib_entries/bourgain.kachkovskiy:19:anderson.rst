@@ -22,7 +22,8 @@ bourgain.kachkovskiy:19:anderson
      volume        = {29},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s00039-019-00478-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00039-019-00478-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

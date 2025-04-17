@@ -23,7 +23,8 @@ deift.kriecherbauer.ea:98:new
      volume        = {95},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1006/jath.1997.3229>`_
+
+`The URL link to the source <https://doi.org/10.1006/jath.1997.3229>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

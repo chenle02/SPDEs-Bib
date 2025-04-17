@@ -22,7 +22,8 @@ lacey:90:large
      volume        = {18},
      year          = {1990}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199010)18:4<1669:LDFTML>2.0.CO;2-Q\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199010)18:4<1669:LDFTML>2.0.CO;2-Q\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

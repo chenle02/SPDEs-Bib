@@ -23,7 +23,8 @@ senba.suzuki:02:weak
      volume        = {191},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.2001.3802>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.2001.3802>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ li.chen:19:precise
      volume        = {39},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s10473-019-0302-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10473-019-0302-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

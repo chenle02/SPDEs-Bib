@@ -22,7 +22,8 @@ simon:98:classical
      volume        = {137},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1006/aima.1998.1728>`_
+
+`The URL link to the source <https://doi.org/10.1006/aima.1998.1728>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

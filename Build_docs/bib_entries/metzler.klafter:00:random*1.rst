@@ -22,7 +22,8 @@ metzler.klafter:00:random*1
      volume        = {339},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1016/S0370-1573(00)00070-3>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0370-1573(00)00070-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

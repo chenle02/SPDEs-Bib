@@ -19,4 +19,4 @@ zabczyk:83:stopping
      year          = {1983}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

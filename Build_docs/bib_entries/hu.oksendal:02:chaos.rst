@@ -23,7 +23,8 @@ hu.oksendal:02:chaos
      volume        = {20},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1081/SAP-120006109>`_
+
+`The URL link to the source <https://doi.org/10.1081/SAP-120006109>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

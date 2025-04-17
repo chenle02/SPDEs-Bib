@@ -23,7 +23,8 @@ constantin.vicol:12:nonlinear
      volume        = {22},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00039-012-0172-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00039-012-0172-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -19,7 +19,8 @@ fisher:37:wave
      volume        = {7},
      year          = {1937}
    }
-`The URL link to the source <https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-1809.1937.tb02153.x>`_
+
+`The URL link to the source <https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-1809.1937.tb02153.x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

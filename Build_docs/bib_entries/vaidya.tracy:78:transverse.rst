@@ -22,7 +22,8 @@ vaidya.tracy:78:transverse
      volume        = {92},
      year          = {1978}
    }
-`The URL link to the source <https://doi.org/10.1016/0378-4371(78)90019-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0378-4371(78)90019-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

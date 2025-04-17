@@ -23,7 +23,8 @@ bourgain:99:global*1
      volume        = {12},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1090/S0894-0347-99-00283-0>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0894-0347-99-00283-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

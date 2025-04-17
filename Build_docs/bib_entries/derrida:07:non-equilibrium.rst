@@ -21,7 +21,8 @@ derrida:07:non-equilibrium
      url           = {https://doi.org/10.1088/1742-5468/2007/07/p07023},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1088/1742-5468/2007/07/p07023>`_
+
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2007/07/p07023>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

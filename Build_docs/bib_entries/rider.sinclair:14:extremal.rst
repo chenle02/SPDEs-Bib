@@ -23,7 +23,8 @@ rider.sinclair:14:extremal
      volume        = {24},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1214/13-AAP958>`_
+
+`The URL link to the source <https://doi.org/10.1214/13-AAP958>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

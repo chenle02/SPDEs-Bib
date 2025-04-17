@@ -22,7 +22,8 @@ protter:85:volterra
      volume        = {13},
      year          = {1985}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198505)13:2<519:VEDBS>2.0.CO;2-3\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198505)13:2<519:VEDBS>2.0.CO;2-3\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

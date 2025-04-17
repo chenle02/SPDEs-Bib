@@ -22,7 +22,8 @@ behme.chong.ea:15:superposition
      volume        = {125},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2014.11.004>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2014.11.004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

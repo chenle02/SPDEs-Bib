@@ -23,7 +23,8 @@ dembo.gantert.ea:02:large
      volume        = {122},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1007/s004400100162>`_
+
+`The URL link to the source <https://doi.org/10.1007/s004400100162>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

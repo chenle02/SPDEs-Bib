@@ -23,7 +23,8 @@ diethelm:10:analysis
      volume        = {2004},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-642-14574-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-642-14574-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

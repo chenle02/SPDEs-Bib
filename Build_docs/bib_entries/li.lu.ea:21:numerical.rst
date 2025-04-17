@@ -23,7 +23,8 @@ li.lu.ea:21:numerical
      volume        = {19},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.4310/CMS.2021.v19.n6.a5>`_
+
+`The URL link to the source <https://doi.org/10.4310/CMS.2021.v19.n6.a5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

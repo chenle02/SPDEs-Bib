@@ -21,7 +21,8 @@ sabri.xu.ea:20:elucidating
      volume        = {125},
      year          = {2020}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.125.058101>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.125.058101>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

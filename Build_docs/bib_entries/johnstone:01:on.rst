@@ -22,7 +22,8 @@ johnstone:01:on
      volume        = {29},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1214/aos/1009210544>`_
+
+`The URL link to the source <https://doi.org/10.1214/aos/1009210544>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

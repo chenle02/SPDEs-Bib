@@ -22,7 +22,8 @@ butta.flandoli.ea:19:non-linear
      volume        = {12},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.3934/krm.2019031>`_
+
+`The URL link to the source <https://doi.org/10.3934/krm.2019031>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

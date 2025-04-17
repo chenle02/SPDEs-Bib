@@ -23,7 +23,8 @@ noble:97:evolution
      volume        = {28},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1016/0362-546X(95)00037-V>`_
+
+`The URL link to the source <https://doi.org/10.1016/0362-546X(95)00037-V>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

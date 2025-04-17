@@ -23,7 +23,8 @@ xin:98:blowup
      volume        = {51},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199803)51:3<229::AID-CPA1>3.3.CO;2-K>`_
+
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199803)51:3<229::AID-CPA1>3.3.CO;2-K>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ galaktionov.vazquez:97:continuation
      volume        = {50},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199701)50:1<1::AID-CPA1>3.3.CO;2-R>`_
+
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199701)50:1<1::AID-CPA1>3.3.CO;2-R>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

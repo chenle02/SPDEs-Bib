@@ -18,4 +18,4 @@ borodin.corwin:14:macdonald*1
      year          = {2014}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

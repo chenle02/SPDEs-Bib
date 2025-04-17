@@ -22,7 +22,8 @@ bao.shen.ea:19:spreading
      volume        = {18},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.3934/cpaa.2019019>`_
+
+`The URL link to the source <https://doi.org/10.3934/cpaa.2019019>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -18,4 +18,4 @@ akemann.baik.ea:11:introduction
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

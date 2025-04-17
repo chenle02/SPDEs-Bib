@@ -23,7 +23,8 @@ alberts.khanin.ea:14:intermediate
      volume        = {42},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1214/13-AOP858>`_
+
+`The URL link to the source <https://doi.org/10.1214/13-AOP858>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

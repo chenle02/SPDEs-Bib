@@ -21,7 +21,8 @@ leyvraz:85:active
      volume        = {18},
      year          = {1985}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/18/L941>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/18/L941>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

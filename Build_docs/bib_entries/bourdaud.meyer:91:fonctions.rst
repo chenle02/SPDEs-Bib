@@ -23,7 +23,8 @@ bourdaud.meyer:91:fonctions
      volume        = {97},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-1236(91)90006-Q>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-1236(91)90006-Q>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

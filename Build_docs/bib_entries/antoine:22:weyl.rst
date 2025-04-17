@@ -22,7 +22,8 @@ antoine:22:weyl
      volume        = {58},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1214/21-aihp1216>`_
+
+`The URL link to the source <https://doi.org/10.1214/21-aihp1216>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

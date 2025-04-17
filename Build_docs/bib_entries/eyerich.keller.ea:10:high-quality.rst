@@ -14,4 +14,4 @@ eyerich.keller.ea:10:high-quality
      year          = {2010}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

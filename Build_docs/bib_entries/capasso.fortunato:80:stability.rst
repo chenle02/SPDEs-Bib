@@ -23,7 +23,8 @@ capasso.fortunato:80:stability
      volume        = {39},
      year          = {1980}
    }
-`The URL link to the source <https://doi.org/10.1137/0139005>`_
+
+`The URL link to the source <https://doi.org/10.1137/0139005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

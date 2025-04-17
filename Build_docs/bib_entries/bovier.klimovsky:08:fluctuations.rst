@@ -23,7 +23,8 @@ bovier.klimovsky:08:fluctuations
      volume        = {49},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1063/1.2962982>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.2962982>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

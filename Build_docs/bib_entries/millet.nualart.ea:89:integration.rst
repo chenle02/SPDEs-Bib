@@ -21,7 +21,8 @@ millet.nualart.ea:89:integration
      volume        = {17},
      year          = {1989}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198901)17:1<208:IBPATR>2.0.CO;2-2\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198901)17:1<208:IBPATR>2.0.CO;2-2\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

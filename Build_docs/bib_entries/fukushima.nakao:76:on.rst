@@ -22,7 +22,8 @@ fukushima.nakao:76:on
      volume        = {37},
      year          = {1976/77}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00537493>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00537493>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

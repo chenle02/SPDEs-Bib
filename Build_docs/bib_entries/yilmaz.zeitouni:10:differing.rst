@@ -23,7 +23,8 @@ yilmaz.zeitouni:10:differing
      volume        = {300},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-010-1119-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-010-1119-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

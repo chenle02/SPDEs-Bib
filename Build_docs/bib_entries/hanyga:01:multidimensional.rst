@@ -22,7 +22,8 @@ hanyga:01:multidimensional
      volume        = {457},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1098/rspa.2001.0849>`_
+
+`The URL link to the source <https://doi.org/10.1098/rspa.2001.0849>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

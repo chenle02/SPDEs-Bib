@@ -23,7 +23,8 @@ hofmanova.seidler:12:on
      volume        = {30},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1080/07362994.2012.628916>`_
+
+`The URL link to the source <https://doi.org/10.1080/07362994.2012.628916>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

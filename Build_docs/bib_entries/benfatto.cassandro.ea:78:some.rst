@@ -22,7 +22,8 @@ benfatto.cassandro.ea:78:some
      volume        = {59},
      year          = {1978}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103901608>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103901608>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

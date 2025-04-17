@@ -23,7 +23,8 @@ dumaz.labbe:24:anderson
      volume        = {286},
      year          = {2024}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2023.110191>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2023.110191>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

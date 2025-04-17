@@ -21,7 +21,8 @@ sanz-sole.su:15:absolute
      volume        = {20},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1214/ECP.v20-3831>`_
+
+`The URL link to the source <https://doi.org/10.1214/ECP.v20-3831>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

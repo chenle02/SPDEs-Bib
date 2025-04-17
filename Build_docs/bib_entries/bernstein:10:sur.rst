@@ -22,7 +22,8 @@ bernstein:10:sur
      volume        = {69},
      year          = {1910}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01455154>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01455154>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

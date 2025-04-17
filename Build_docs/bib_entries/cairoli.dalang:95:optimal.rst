@@ -22,7 +22,8 @@ cairoli.dalang:95:optimal
      volume        = {23},
      year          = {1995}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199510)23:4<1982:OSBTRW>2.0.CO;2-P\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199510)23:4<1982:OSBTRW>2.0.CO;2-P\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

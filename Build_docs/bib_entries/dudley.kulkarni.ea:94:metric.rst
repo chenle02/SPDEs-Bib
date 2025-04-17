@@ -22,7 +22,8 @@ dudley.kulkarni.ea:94:metric
      volume        = {40},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1109/18.335898>`_
+
+`The URL link to the source <https://doi.org/10.1109/18.335898>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

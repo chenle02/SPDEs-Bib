@@ -20,4 +20,4 @@ duplantier.rhodes.ea:17:log-correlated
      year          = {2017}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

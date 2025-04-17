@@ -22,7 +22,8 @@ meerschaert.sikorskii:19:stochastic
      volume        = {43},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1515/9783110560244>`_
+
+`The URL link to the source <https://doi.org/10.1515/9783110560244>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bourgain:95:aspects
      volume        = {5},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01895664>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01895664>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

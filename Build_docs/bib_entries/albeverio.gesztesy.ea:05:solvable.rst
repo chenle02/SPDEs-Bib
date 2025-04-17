@@ -21,7 +21,8 @@ albeverio.gesztesy.ea:05:solvable
      url           = {https://doi.org/10.1090/chel/350},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1090/chel/350>`_
+
+`The URL link to the source <https://doi.org/10.1090/chel/350>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

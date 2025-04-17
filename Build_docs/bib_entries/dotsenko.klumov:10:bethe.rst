@@ -21,7 +21,8 @@ dotsenko.klumov:10:bethe
      url           = {https://doi.org/10.1088/1742-5468/2010/03/p03022},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1088/1742-5468/2010/03/p03022>`_
+
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2010/03/p03022>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ nualart.schoutens:00:chaotic
      volume        = {90},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1016/S0304-4149(00)00035-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(00)00035-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

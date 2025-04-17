@@ -19,4 +19,4 @@ erdelyi.magnus.ea:53:higher
      year          = {1953}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

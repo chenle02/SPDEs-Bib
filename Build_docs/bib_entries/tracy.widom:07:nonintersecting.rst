@@ -23,7 +23,8 @@ tracy.widom:07:nonintersecting
      volume        = {17},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1214/105051607000000041>`_
+
+`The URL link to the source <https://doi.org/10.1214/105051607000000041>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

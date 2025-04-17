@@ -19,7 +19,8 @@ wang.zheng.ea:03:universality
      volume        = {82},
      year          = {2003}
    }
-`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0254058403002177>`_
+
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0254058403002177>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

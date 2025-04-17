@@ -22,7 +22,8 @@ dolak.hillen:03:cattaneo
      volume        = {46},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1007/s00285-002-0173-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00285-002-0173-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

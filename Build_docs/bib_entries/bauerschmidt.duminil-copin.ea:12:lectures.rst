@@ -20,4 +20,4 @@ bauerschmidt.duminil-copin.ea:12:lectures
      year          = {2012}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

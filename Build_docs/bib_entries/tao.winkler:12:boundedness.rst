@@ -22,7 +22,8 @@ tao.winkler:12:boundedness
      volume        = {252},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2011.08.019>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2011.08.019>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

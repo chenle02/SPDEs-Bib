@@ -20,7 +20,8 @@ gartner.konig:05:parabolic
      url           = {https://doi.org/10.1007/3-540-27110-4\_8},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/3-540-27110-4\_8>`_
+
+`The URL link to the source <https://doi.org/10.1007/3-540-27110-4\_8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

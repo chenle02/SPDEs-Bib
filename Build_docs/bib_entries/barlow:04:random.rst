@@ -23,7 +23,8 @@ barlow:04:random
      volume        = {32},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1214/009117904000000748>`_
+
+`The URL link to the source <https://doi.org/10.1214/009117904000000748>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

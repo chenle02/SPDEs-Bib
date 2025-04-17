@@ -22,7 +22,8 @@ weidmann:87:spectral
      volume        = {1258},
      year          = {1987}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0077960>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0077960>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

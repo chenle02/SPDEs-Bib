@@ -22,7 +22,8 @@ nagai.senba.ea:97:application
      volume        = {40},
      year          = {1997}
    }
-`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr1610709.xml>`_
+
+`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr1610709.xml>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

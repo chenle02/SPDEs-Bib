@@ -23,7 +23,8 @@ mijena.nane:14:strong
      volume        = {142},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-2014-11905-8>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-2014-11905-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

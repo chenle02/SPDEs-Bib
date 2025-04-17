@@ -22,7 +22,8 @@ subag.zeitouni:21:concentration
      volume        = {62},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1063/5.0070582>`_
+
+`The URL link to the source <https://doi.org/10.1063/5.0070582>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

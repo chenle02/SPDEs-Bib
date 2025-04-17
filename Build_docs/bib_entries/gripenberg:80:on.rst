@@ -22,7 +22,8 @@ gripenberg:80:on
      volume        = {23},
      year          = {1980}
    }
-`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr0586277.xml>`_
+
+`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr0586277.xml>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

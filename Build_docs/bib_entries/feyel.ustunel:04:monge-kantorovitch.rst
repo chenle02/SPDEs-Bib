@@ -23,7 +23,8 @@ feyel.ustunel:04:monge-kantorovitch
      volume        = {128},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-003-0307-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-003-0307-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

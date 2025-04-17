@@ -22,7 +22,8 @@ mierczynski.shen:08:time
      volume        = {9},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdsb.2008.9.661>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2008.9.661>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

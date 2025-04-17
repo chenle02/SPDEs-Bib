@@ -23,7 +23,8 @@ chaleyat-maurel.nualart:92:onsager-machlup
      volume        = {94},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01192445>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01192445>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

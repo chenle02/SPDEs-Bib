@@ -23,7 +23,8 @@ chen.fang.ea:19:small
      volume        = {147},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1090/proc/14511>`_
+
+`The URL link to the source <https://doi.org/10.1090/proc/14511>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

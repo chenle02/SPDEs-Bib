@@ -23,7 +23,8 @@ xu.zhang:09:on
      volume        = {45},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1214/08-AIHP192>`_
+
+`The URL link to the source <https://doi.org/10.1214/08-AIHP192>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

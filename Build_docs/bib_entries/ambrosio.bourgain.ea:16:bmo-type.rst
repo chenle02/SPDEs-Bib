@@ -23,7 +23,8 @@ ambrosio.bourgain.ea:16:bmo-type
      volume        = {69},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.21620>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.21620>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

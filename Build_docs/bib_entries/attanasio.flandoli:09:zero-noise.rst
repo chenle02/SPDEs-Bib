@@ -22,7 +22,8 @@ attanasio.flandoli:09:zero-noise
      volume        = {347},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2009.04.027>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2009.04.027>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

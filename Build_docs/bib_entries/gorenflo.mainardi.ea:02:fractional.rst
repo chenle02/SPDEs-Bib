@@ -23,7 +23,8 @@ gorenflo.mainardi.ea:02:fractional
      volume        = {305},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1016/S0378-4371(01)00647-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0378-4371(01)00647-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

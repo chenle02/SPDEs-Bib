@@ -22,7 +22,8 @@ chen.meerschaert.ea:12:space-time
      volume        = {393},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2012.04.032>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2012.04.032>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

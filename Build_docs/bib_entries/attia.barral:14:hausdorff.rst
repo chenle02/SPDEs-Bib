@@ -22,7 +22,8 @@ attia.barral:14:hausdorff
      volume        = {331},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-014-2087-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-014-2087-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

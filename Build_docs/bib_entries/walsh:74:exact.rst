@@ -22,7 +22,8 @@ walsh:74:exact
      volume        = {26},
      year          = {1974}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02479810>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02479810>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

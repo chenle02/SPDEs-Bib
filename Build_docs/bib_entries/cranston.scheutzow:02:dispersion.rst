@@ -23,7 +23,8 @@ cranston.scheutzow:02:dispersion
      volume        = {12},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1214/aoap/1026915613>`_
+
+`The URL link to the source <https://doi.org/10.1214/aoap/1026915613>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

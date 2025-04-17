@@ -22,7 +22,8 @@ herrmann:14:fractional
      url           = {https://doi.org/10.1142/8934},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1142/8934>`_
+
+`The URL link to the source <https://doi.org/10.1142/8934>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

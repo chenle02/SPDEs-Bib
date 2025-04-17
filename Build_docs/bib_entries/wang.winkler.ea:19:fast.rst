@@ -22,7 +22,8 @@ wang.winkler.ea:19:fast
      volume        = {58},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s00526-019-1656-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00526-019-1656-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

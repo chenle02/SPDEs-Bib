@@ -23,7 +23,8 @@ kong.shen:11:positive
      volume        = {18},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.4310/MAA.2011.v18.n4.a5>`_
+
+`The URL link to the source <https://doi.org/10.4310/MAA.2011.v18.n4.a5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

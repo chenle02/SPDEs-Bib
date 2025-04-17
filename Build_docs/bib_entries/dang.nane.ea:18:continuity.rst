@@ -23,7 +23,8 @@ dang.nane.ea:18:continuity
      volume        = {49},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1007/s11118-017-9663-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11118-017-9663-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

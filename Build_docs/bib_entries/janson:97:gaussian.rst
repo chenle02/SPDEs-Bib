@@ -22,7 +22,8 @@ janson:97:gaussian
      volume        = {129},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511526169>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511526169>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

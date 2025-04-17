@@ -22,7 +22,8 @@ payne.song:10:blow-up
      volume        = {367},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2009.11.025>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2009.11.025>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bacry.muzy:03:log-infinitely
      volume        = {236},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-003-0827-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-003-0827-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

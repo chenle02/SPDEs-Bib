@@ -23,7 +23,8 @@ zel-dovich.molchanov.ea:87:self-excitation
      volume        = {84},
      year          = {1987}
    }
-`The URL link to the source <https://doi.org/10.1073/pnas.84.18.6323>`_
+
+`The URL link to the source <https://doi.org/10.1073/pnas.84.18.6323>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

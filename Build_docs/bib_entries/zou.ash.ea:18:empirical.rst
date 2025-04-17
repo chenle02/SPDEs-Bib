@@ -22,7 +22,8 @@ zou.ash.ea:18:empirical
      volume        = {45},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1080/02664763.2017.1389863>`_
+
+`The URL link to the source <https://doi.org/10.1080/02664763.2017.1389863>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

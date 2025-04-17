@@ -22,7 +22,8 @@ cosner.lou.ea:17:preface
      volume        = {22},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdsb.201703i>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdsb.201703i>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

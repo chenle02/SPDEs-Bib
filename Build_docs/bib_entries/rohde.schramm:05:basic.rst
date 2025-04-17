@@ -23,7 +23,8 @@ rohde.schramm:05:basic
      volume        = {161},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.4007/annals.2005.161.883>`_
+
+`The URL link to the source <https://doi.org/10.4007/annals.2005.161.883>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

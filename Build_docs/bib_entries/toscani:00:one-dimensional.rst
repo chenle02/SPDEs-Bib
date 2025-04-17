@@ -23,7 +23,8 @@ toscani:00:one-dimensional
      volume        = {34},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1051/m2an:2000127>`_
+
+`The URL link to the source <https://doi.org/10.1051/m2an:2000127>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

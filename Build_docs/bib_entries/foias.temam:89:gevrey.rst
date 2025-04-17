@@ -23,7 +23,8 @@ foias.temam:89:gevrey
      volume        = {87},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-1236(89)90015-3>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-1236(89)90015-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

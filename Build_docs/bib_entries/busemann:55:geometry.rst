@@ -18,4 +18,4 @@ busemann:55:geometry
      year          = {1955}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

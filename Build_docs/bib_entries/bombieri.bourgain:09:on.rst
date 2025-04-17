@@ -23,7 +23,8 @@ bombieri.bourgain:09:on
      volume        = {11},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.4171/jems/163>`_
+
+`The URL link to the source <https://doi.org/10.4171/jems/163>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

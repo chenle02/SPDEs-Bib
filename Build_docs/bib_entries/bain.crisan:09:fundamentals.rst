@@ -22,7 +22,8 @@ bain.crisan:09:fundamentals
      volume        = {60},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/978-0-387-76896-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-0-387-76896-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

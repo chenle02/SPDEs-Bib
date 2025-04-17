@@ -23,7 +23,8 @@ zel-dovich.ruzmauikin.ea:90:almighty
      volume        = {20},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1142/9789812799197>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789812799197>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

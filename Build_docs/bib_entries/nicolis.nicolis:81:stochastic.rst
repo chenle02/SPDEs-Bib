@@ -22,7 +22,8 @@ nicolis.nicolis:81:stochastic
      volume        = {33},
      year          = {1981}
    }
-`The URL link to the source <https://doi.org/10.3402/tellusa.v33i3.10710>`_
+
+`The URL link to the source <https://doi.org/10.3402/tellusa.v33i3.10710>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

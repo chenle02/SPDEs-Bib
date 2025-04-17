@@ -23,7 +23,8 @@ winkler:20:blow-up
      volume        = {141},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s11854-020-0109-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11854-020-0109-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

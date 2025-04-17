@@ -22,4 +22,4 @@ cerrai:96:invariant
      year          = {1996}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

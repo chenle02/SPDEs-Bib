@@ -21,4 +21,4 @@ seroussi.zeitouni:22:lower
      year          = {2022}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

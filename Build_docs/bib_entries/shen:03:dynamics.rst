@@ -23,7 +23,8 @@ shen:03:dynamics
      volume        = {288},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2003.09.014>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2003.09.014>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

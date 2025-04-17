@@ -22,7 +22,8 @@ varadhan:84:large
      volume        = {46},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1137/1.9781611970241.bm>`_
+
+`The URL link to the source <https://doi.org/10.1137/1.9781611970241.bm>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

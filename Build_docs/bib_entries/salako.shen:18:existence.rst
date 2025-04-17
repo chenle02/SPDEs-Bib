@@ -21,7 +21,8 @@ salako.shen:18:existence
      volume        = {42},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2017.12.004>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2017.12.004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

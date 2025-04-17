@@ -22,7 +22,8 @@ dyson:62:brownian-motion
      volume        = {3},
      year          = {1962}
    }
-`The URL link to the source <https://doi.org/10.1063/1.1703862>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.1703862>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

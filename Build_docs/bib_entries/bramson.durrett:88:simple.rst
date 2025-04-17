@@ -23,7 +23,8 @@ bramson.durrett:88:simple
      volume        = {80},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00356107>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00356107>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ nourdin.peccati:15:optimal
      volume        = {143},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-2015-12417-3>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-2015-12417-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ deya.gubinelli.ea:12:non-linear
      volume        = {153},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-011-0341-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-011-0341-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

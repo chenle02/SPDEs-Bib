@@ -21,7 +21,8 @@ parthasarathy.ranga-rao.ea:63:probability
      volume        = {7},
      year          = {1963}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255644642>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255644642>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

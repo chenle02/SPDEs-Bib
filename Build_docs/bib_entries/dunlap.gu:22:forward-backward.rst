@@ -22,7 +22,8 @@ dunlap.gu:22:forward-backward
      volume        = {50},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1214/21-aop1563>`_
+
+`The URL link to the source <https://doi.org/10.1214/21-aop1563>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

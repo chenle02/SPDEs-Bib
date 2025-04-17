@@ -23,7 +23,8 @@ goncalves.jara:12:crossover
      volume        = {13},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00023-011-0147-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00023-011-0147-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

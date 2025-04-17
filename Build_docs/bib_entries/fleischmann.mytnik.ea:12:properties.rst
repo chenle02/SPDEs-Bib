@@ -22,7 +22,8 @@ fleischmann.mytnik.ea:12:properties
      volume        = {11},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-642-23811-6\_16>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-642-23811-6\_16>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

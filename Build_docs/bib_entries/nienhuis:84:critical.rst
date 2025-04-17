@@ -23,7 +23,8 @@ nienhuis:84:critical
      volume        = {34},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01009437>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01009437>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

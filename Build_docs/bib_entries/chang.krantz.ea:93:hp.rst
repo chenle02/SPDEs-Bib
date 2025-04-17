@@ -22,7 +22,8 @@ chang.krantz.ea:93:hp
      volume        = {114},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.1993.1069>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.1993.1069>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

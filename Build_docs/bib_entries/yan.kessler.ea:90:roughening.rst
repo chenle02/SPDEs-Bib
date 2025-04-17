@@ -21,7 +21,8 @@ yan.kessler.ea:90:roughening
      volume        = {64},
      year          = {1990}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.64.926>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.64.926>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

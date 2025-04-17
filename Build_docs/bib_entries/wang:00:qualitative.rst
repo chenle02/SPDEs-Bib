@@ -23,7 +23,8 @@ wang:00:qualitative
      volume        = {31},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036141098339897>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036141098339897>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

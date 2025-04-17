@@ -23,7 +23,8 @@ di-nezza.palatucci.ea:12:hitchhikers
      volume        = {136},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.bulsci.2011.12.004>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.bulsci.2011.12.004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

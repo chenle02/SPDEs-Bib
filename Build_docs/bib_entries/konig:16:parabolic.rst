@@ -22,7 +22,8 @@ konig:16:parabolic
      url           = {https://doi.org/10.1007/978-3-319-33596-4},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-319-33596-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-33596-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

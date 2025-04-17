@@ -22,7 +22,8 @@ borodin.gorin:16:lectures
      volume        = {91},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s00029-010-0034-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00029-010-0034-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

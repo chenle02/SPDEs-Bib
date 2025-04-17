@@ -23,7 +23,8 @@ anderson.mattingly:11:weak
      volume        = {9},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.4310/cms.2011.v9.n1.a15>`_
+
+`The URL link to the source <https://doi.org/10.4310/cms.2011.v9.n1.a15>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

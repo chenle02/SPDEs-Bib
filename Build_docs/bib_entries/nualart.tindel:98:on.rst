@@ -23,7 +23,8 @@ nualart.tindel:98:on
      volume        = {122},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1016/S0007-4497(98)80173-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0007-4497(98)80173-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

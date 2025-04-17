@@ -21,7 +21,8 @@ ablowitz.fokas:03:complex
      url           = {https://doi.org/10.1017/CBO9780511791246},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511791246>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511791246>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

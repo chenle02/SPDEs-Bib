@@ -23,7 +23,8 @@ nualart.ortiz-latorre:07:intersection
      volume        = {20},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-007-0106-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-007-0106-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

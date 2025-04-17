@@ -23,7 +23,8 @@ barral.fan:05:covering
      volume        = {129},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1016/j.bulsci.2004.05.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.bulsci.2004.05.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ schneider:86:stable
      volume        = {262},
      year          = {1986}
    }
-`The URL link to the source <https://doi.org/10.1007/3540171665\_92>`_
+
+`The URL link to the source <https://doi.org/10.1007/3540171665\_92>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

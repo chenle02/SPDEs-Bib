@@ -22,7 +22,8 @@ gross.miljkovic:90:nonperturbative
      volume        = {238},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0370-2693(90)91724-P>`_
+
+`The URL link to the source <https://doi.org/10.1016/0370-2693(90)91724-P>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

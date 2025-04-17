@@ -23,7 +23,8 @@ sowers:92:large
      volume        = {92},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01300562>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01300562>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

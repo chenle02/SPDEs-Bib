@@ -23,7 +23,8 @@ taylor:96:partial
      volume        = {116},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4757-4187-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4757-4187-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

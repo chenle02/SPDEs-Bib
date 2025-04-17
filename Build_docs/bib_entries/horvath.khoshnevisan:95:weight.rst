@@ -23,7 +23,8 @@ horvath.khoshnevisan:95:weight
      volume        = {59},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(95)00021-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(95)00021-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

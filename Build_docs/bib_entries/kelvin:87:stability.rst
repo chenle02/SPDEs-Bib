@@ -17,4 +17,4 @@ kelvin:87:stability
      year          = {1887}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

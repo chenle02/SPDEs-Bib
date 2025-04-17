@@ -22,7 +22,8 @@ vicsek.czirok.ea:95:novel
      volume        = {75},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevLett.75.1226>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.75.1226>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

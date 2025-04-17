@@ -23,7 +23,8 @@ tudor.xiao:07:sample
      volume        = {13},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.3150/07-BEJ6110>`_
+
+`The URL link to the source <https://doi.org/10.3150/07-BEJ6110>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

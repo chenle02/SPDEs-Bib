@@ -23,7 +23,8 @@ quastel.remenik:13:local
      volume        = {157},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-012-0466-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-012-0466-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

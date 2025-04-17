@@ -23,7 +23,8 @@ sell.shen.ea:98:topological
      volume        = {215},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1090/conm/215/02948>`_
+
+`The URL link to the source <https://doi.org/10.1090/conm/215/02948>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

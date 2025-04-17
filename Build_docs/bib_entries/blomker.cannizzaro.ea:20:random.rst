@@ -23,7 +23,8 @@ blomker.cannizzaro.ea:20:random
      volume        = {150},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1017/prm.2018.157>`_
+
+`The URL link to the source <https://doi.org/10.1017/prm.2018.157>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ mattingly.stuart.ea:10:convergence
      volume        = {48},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1137/090770527>`_
+
+`The URL link to the source <https://doi.org/10.1137/090770527>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

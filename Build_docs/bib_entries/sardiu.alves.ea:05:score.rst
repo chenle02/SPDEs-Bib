@@ -22,7 +22,8 @@ sardiu.alves.ea:05:score
      volume        = {72},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevE.72.061917>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.72.061917>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

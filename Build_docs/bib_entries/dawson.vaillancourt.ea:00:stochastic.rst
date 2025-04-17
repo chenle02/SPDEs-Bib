@@ -23,7 +23,8 @@ dawson.vaillancourt.ea:00:stochastic
      volume        = {36},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1016/S0246-0203(00)00121-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(00)00121-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

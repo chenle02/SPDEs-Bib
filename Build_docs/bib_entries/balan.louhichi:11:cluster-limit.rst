@@ -22,7 +22,8 @@ balan.louhichi:11:cluster-limit
      volume        = {45},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1080/02331888.2010.541252>`_
+
+`The URL link to the source <https://doi.org/10.1080/02331888.2010.541252>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

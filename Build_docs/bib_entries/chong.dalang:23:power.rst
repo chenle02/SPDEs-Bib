@@ -23,7 +23,8 @@ chong.dalang:23:power
      volume        = {29},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.3150/22-bej1521>`_
+
+`The URL link to the source <https://doi.org/10.3150/22-bej1521>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

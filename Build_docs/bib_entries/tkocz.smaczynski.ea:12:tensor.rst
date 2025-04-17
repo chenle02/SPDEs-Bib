@@ -23,7 +23,8 @@ tkocz.smaczynski.ea:12:tensor
      volume        = {1},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1142/S2010326312500098>`_
+
+`The URL link to the source <https://doi.org/10.1142/S2010326312500098>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

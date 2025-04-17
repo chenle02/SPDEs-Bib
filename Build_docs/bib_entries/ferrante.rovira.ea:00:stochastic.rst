@@ -23,7 +23,8 @@ ferrante.rovira.ea:00:stochastic
      volume        = {177},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.2000.3631>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.2000.3631>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

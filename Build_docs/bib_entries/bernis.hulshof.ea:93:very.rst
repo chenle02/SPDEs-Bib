@@ -22,7 +22,8 @@ bernis.hulshof.ea:93:very
      volume        = {435},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1515/crll.1993.435.1>`_
+
+`The URL link to the source <https://doi.org/10.1515/crll.1993.435.1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

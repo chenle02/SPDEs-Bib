@@ -23,7 +23,8 @@ giacomin.lebowitz:98:phase
      volume        = {58},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036139996313046>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036139996313046>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

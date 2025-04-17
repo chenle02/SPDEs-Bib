@@ -23,7 +23,8 @@ carvalho-bezerra.tindel:07:on
      volume        = {51},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.5565/PUBLMAT\_51107\_08>`_
+
+`The URL link to the source <https://doi.org/10.5565/PUBLMAT\_51107\_08>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

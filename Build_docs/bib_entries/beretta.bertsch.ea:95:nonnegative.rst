@@ -23,7 +23,8 @@ beretta.bertsch.ea:95:nonnegative
      volume        = {129},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00379920>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00379920>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

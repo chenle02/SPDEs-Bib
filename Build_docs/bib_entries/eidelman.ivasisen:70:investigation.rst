@@ -21,4 +21,4 @@ eidelman.ivasisen:70:investigation
      year          = {1970}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

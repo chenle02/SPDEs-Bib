@@ -23,7 +23,8 @@ asmar.berkson.ea:94:restrictions
      volume        = {108},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.4064/sm-108-3-291-299>`_
+
+`The URL link to the source <https://doi.org/10.4064/sm-108-3-291-299>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

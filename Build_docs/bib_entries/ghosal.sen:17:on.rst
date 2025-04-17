@@ -23,7 +23,8 @@ ghosal.sen:17:on
      volume        = {79},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s13171-017-0104-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s13171-017-0104-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

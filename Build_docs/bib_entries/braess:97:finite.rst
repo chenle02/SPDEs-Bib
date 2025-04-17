@@ -21,7 +21,8 @@ braess:97:finite
      url           = {https://doi.org/10.1007/978-3-662-07233-2},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-662-07233-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-662-07233-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

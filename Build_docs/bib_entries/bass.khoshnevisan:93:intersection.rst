@@ -22,7 +22,8 @@ bass.khoshnevisan:93:intersection
      volume        = {29},
      year          = {1993}
    }
-`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1993\_\_29\_3\_419\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1993\_\_29\_3\_419\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

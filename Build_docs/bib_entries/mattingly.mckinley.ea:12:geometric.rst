@@ -22,7 +22,8 @@ mattingly.mckinley.ea:12:geometric
      volume        = {122},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2012.07.003>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2012.07.003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

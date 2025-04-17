@@ -23,7 +23,8 @@ kahane.peyriere:76:sur
      volume        = {22},
      year          = {1976}
    }
-`The URL link to the source <https://doi.org/10.1016/0001-8708(76)90151-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/0001-8708(76)90151-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

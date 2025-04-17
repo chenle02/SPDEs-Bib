@@ -23,7 +23,8 @@ przytycki.rivera-letelier.ea:04:equality
      volume        = {24},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1017/S0143385703000385>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0143385703000385>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

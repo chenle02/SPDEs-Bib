@@ -22,7 +22,8 @@ spitzer:71:markov
      volume        = {78},
      year          = {1971}
    }
-`The URL link to the source <https://doi.org/10.2307/2317621>`_
+
+`The URL link to the source <https://doi.org/10.2307/2317621>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

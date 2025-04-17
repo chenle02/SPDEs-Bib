@@ -22,7 +22,8 @@ holder:33:uber
      volume        = {37},
      year          = {1933}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01474611>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01474611>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ chen:99:limit
      volume        = {139},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1090/memo/0664>`_
+
+`The URL link to the source <https://doi.org/10.1090/memo/0664>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

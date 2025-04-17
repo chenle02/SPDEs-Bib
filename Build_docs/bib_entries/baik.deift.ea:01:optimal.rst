@@ -23,7 +23,8 @@ baik.deift.ea:01:optimal
      volume        = {5},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.4310/ATMP.2001.v5.n6.a7>`_
+
+`The URL link to the source <https://doi.org/10.4310/ATMP.2001.v5.n6.a7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

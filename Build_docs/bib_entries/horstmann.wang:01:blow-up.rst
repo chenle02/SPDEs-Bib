@@ -23,7 +23,8 @@ horstmann.wang:01:blow-up
      volume        = {12},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1017/S0956792501004363>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0956792501004363>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

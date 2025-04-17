@@ -23,7 +23,8 @@ cheridito.nualart:05:stochastic
      volume        = {41},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1016/j.anihpb.2004.09.004>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.anihpb.2004.09.004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

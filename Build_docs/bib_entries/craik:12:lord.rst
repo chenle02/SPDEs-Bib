@@ -21,7 +21,8 @@ craik:12:lord
      volume        = {37},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1140/epjh/e2012-30004-y>`_
+
+`The URL link to the source <https://doi.org/10.1140/epjh/e2012-30004-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

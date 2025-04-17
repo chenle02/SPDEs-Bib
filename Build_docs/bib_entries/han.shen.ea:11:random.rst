@@ -23,7 +23,8 @@ han.shen.ea:11:random
      volume        = {250},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2010.10.018>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2010.10.018>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

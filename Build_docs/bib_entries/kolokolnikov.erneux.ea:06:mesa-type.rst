@@ -22,7 +22,8 @@ kolokolnikov.erneux.ea:06:mesa-type
      volume        = {214},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1016/j.physd.2005.12.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.physd.2005.12.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

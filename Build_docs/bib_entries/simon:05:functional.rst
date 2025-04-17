@@ -20,7 +20,8 @@ simon:05:functional
      url           = {https://doi.org/10.1090/chel/351},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1090/chel/351>`_
+
+`The URL link to the source <https://doi.org/10.1090/chel/351>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

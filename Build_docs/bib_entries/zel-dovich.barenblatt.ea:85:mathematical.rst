@@ -20,7 +20,8 @@ zel-dovich.barenblatt.ea:85:mathematical
      url           = {https://doi.org/10.1007/978-1-4613-2349-5},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4613-2349-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4613-2349-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

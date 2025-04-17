@@ -23,7 +23,8 @@ dong.peszat.ea:16:on
      volume        = {434},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2015.10.003>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2015.10.003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

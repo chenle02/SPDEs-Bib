@@ -23,7 +23,8 @@ alexander.sidoravicius:06:pinning
      volume        = {16},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1214/105051606000000015>`_
+
+`The URL link to the source <https://doi.org/10.1214/105051606000000015>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

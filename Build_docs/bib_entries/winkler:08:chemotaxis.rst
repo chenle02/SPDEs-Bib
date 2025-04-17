@@ -23,7 +23,8 @@ winkler:08:chemotaxis
      volume        = {348},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2008.07.071>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2008.07.071>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

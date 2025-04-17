@@ -22,7 +22,8 @@ simon:83:holonomy
      volume        = {51},
      year          = {1983}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevLett.51.2167>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.51.2167>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

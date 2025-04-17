@@ -22,7 +22,8 @@ ceyhan:12:distribution
      volume        = {75},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00184-011-0351-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00184-011-0351-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

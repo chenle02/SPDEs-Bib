@@ -21,7 +21,8 @@ arnold:71:on
      volume        = {19},
      year          = {1971}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00534107>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00534107>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

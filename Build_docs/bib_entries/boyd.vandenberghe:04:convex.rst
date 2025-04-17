@@ -14,4 +14,4 @@ boyd.vandenberghe:04:convex
      year          = {2004}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

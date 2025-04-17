@@ -21,7 +21,8 @@ bourgain.kontorovich:18:beyond
      url           = {https://doi.org/10.19086/da.3471},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.19086/da.3471>`_
+
+`The URL link to the source <https://doi.org/10.19086/da.3471>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

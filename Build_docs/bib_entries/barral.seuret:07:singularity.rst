@@ -23,7 +23,8 @@ barral.seuret:07:singularity
      volume        = {214},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.aim.2007.02.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.aim.2007.02.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

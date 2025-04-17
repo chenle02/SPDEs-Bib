@@ -19,7 +19,8 @@ zeldovich.molchanov.ea:87:intermittency
      volume        = {30},
      year          = {1987}
    }
-`The URL link to the source <https://dx.doi.org/10.1070/PU1987v030n05ABEH002867>`_
+
+`The URL link to the source <https://dx.doi.org/10.1070/PU1987v030n05ABEH002867>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ tapia.zambotti:20:geometry
      volume        = {121},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1112/plms.12311>`_
+
+`The URL link to the source <https://doi.org/10.1112/plms.12311>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

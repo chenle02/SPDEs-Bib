@@ -22,7 +22,8 @@ bourgain:86:on*1
      volume        = {108},
      year          = {1986}
    }
-`The URL link to the source <https://doi.org/10.2307/2374532>`_
+
+`The URL link to the source <https://doi.org/10.2307/2374532>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ filbet:06:finite
      volume        = {104},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1007/s00211-006-0024-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00211-006-0024-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

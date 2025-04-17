@@ -23,7 +23,8 @@ shen.shen.ea:13:asymptotic
      volume        = {13},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493713500020>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493713500020>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

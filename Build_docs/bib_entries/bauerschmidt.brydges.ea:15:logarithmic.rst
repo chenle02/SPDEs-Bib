@@ -23,7 +23,8 @@ bauerschmidt.brydges.ea:15:logarithmic
      volume        = {337},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-015-2352-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-015-2352-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

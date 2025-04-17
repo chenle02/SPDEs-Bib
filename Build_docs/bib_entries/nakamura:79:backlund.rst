@@ -23,7 +23,8 @@ nakamura:79:backlund
      volume        = {47},
      year          = {1979}
    }
-`The URL link to the source <https://doi.org/10.1143/JPSJ.47.1335>`_
+
+`The URL link to the source <https://doi.org/10.1143/JPSJ.47.1335>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

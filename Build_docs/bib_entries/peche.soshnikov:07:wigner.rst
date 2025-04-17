@@ -23,7 +23,8 @@ peche.soshnikov:07:wigner
      volume        = {129},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-007-9340-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-007-9340-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

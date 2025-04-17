@@ -20,7 +20,8 @@ dotsenko:13:distribution
      url           = {https://doi.org/10.1088/1742-5468/2013/02/p02012},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1088/1742-5468/2013/02/p02012>`_
+
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2013/02/p02012>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

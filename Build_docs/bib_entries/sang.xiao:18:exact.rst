@@ -23,7 +23,8 @@ sang.xiao:18:exact
      volume        = {55},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1017/jpr.2018.28>`_
+
+`The URL link to the source <https://doi.org/10.1017/jpr.2018.28>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

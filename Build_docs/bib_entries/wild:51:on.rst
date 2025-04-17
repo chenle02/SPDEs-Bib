@@ -22,7 +22,8 @@ wild:51:on
      volume        = {47},
      year          = {1951}
    }
-`The URL link to the source <https://doi.org/10.1017/s0305004100026992>`_
+
+`The URL link to the source <https://doi.org/10.1017/s0305004100026992>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

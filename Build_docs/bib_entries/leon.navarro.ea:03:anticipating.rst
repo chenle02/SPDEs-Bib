@@ -23,7 +23,8 @@ leon.navarro.ea:03:anticipating
      volume        = {13},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1111/1467-9965.00012>`_
+
+`The URL link to the source <https://doi.org/10.1111/1467-9965.00012>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

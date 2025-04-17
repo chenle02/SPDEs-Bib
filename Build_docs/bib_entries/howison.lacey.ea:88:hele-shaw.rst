@@ -22,7 +22,8 @@ howison.lacey.ea:88:hele-shaw
      volume        = {41},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1093/qjmam/41.2.183>`_
+
+`The URL link to the source <https://doi.org/10.1093/qjmam/41.2.183>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

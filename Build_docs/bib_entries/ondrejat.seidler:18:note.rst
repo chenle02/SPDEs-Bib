@@ -23,7 +23,8 @@ ondrejat.seidler:18:note
      volume        = {54},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.14736/kyb-2018-5-0888>`_
+
+`The URL link to the source <https://doi.org/10.14736/kyb-2018-5-0888>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -19,4 +19,4 @@ nazarov.sodin:10:random
      year          = {2010}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

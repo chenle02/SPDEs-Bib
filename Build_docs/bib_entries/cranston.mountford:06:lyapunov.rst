@@ -23,7 +23,8 @@ cranston.mountford:06:lyapunov
      volume        = {236},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2006.01.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2006.01.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

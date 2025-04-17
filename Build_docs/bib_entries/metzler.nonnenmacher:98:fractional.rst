@@ -22,7 +22,8 @@ metzler.nonnenmacher:98:fractional
      volume        = {57},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevE.57.6409>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.57.6409>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

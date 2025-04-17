@@ -22,7 +22,8 @@ caputo.labbe.ea:22:spectral
      volume        = {58},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1214/21-aihp1174>`_
+
+`The URL link to the source <https://doi.org/10.1214/21-aihp1174>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

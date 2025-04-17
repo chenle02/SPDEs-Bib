@@ -23,7 +23,8 @@ flandoli.issoglio.ea:17:multidimensional
      volume        = {369},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1090/tran/6729>`_
+
+`The URL link to the source <https://doi.org/10.1090/tran/6729>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

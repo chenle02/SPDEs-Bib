@@ -23,7 +23,8 @@ ohta:97:blowup
      volume        = {26},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.14492/hokmj/1351257808>`_
+
+`The URL link to the source <https://doi.org/10.14492/hokmj/1351257808>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

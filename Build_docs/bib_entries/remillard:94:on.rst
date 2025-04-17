@@ -22,7 +22,8 @@ remillard:94:on
      volume        = {22},
      year          = {1994}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199410)22:4<1794:OCLOTI>2.0.CO;2-8\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199410)22:4<1794:OCLOTI>2.0.CO;2-8\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

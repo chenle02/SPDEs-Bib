@@ -22,7 +22,8 @@ avron.herbst.ea:78:schrodinger
      volume        = {45},
      year          = {1978}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077313102>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077313102>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

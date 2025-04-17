@@ -22,7 +22,8 @@ funaki:00:recent
      volume        = {27},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1002/(sici)1520-6416(20000130)130:2<88::aid-eej11>3.0.co;2-f>`_
+
+`The URL link to the source <https://doi.org/10.1002/(sici)1520-6416(20000130)130:2<88::aid-eej11>3.0.co;2-f>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

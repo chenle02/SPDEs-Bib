@@ -22,7 +22,8 @@ keller:57:on
      volume        = {10},
      year          = {1957}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160100404>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160100404>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

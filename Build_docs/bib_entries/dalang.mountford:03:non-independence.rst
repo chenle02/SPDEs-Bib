@@ -23,7 +23,8 @@ dalang.mountford:03:non-independence
      volume        = {355},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-02-03138-0>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-02-03138-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

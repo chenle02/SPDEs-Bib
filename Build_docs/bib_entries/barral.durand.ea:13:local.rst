@@ -23,7 +23,8 @@ barral.durand.ea:13:local
      volume        = {601},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1090/conm/601/11919>`_
+
+`The URL link to the source <https://doi.org/10.1090/conm/601/11919>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ blanchet.carrillo.ea:09:critical
      volume        = {35},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s00526-008-0200-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00526-008-0200-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

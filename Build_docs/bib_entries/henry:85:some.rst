@@ -23,7 +23,8 @@ henry:85:some
      volume        = {59},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-0396(85)90153-6>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-0396(85)90153-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

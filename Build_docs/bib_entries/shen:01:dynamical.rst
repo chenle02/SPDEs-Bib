@@ -24,7 +24,8 @@ shen:01:dynamical
      volume        = {169},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1006/jdeq.2000.3906>`_
+
+`The URL link to the source <https://doi.org/10.1006/jdeq.2000.3906>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

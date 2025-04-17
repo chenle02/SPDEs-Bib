@@ -21,4 +21,4 @@ bandyopadhyay.zeitouni:06:random
      year          = {2006}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

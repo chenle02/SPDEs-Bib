@@ -23,7 +23,8 @@ lind.utley:22:phase
      volume        = {15},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.2140/involve.2022.15.447>`_
+
+`The URL link to the source <https://doi.org/10.2140/involve.2022.15.447>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

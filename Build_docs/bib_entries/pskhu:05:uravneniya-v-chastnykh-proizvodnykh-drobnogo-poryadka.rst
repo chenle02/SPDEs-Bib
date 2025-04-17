@@ -19,4 +19,4 @@ pskhu:05:uravneniya-v-chastnykh-proizvodnykh-drobnogo-poryadka
      year          = {2005}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

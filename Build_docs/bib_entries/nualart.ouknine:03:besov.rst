@@ -23,7 +23,8 @@ nualart.ouknine:03:besov
      volume        = {16},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1023530929480>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1023530929480>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

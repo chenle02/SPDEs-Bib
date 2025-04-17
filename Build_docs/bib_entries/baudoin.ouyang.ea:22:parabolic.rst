@@ -15,7 +15,8 @@ baudoin.ouyang.ea:22:parabolic
      url           = {http://arXiv.org/abs/2206.14139},
      year          = {2022}
    }
-`The URL link to the source <http://arXiv.org/abs/2206.14139>`_
+
+`The URL link to the source <http://arXiv.org/abs/2206.14139>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

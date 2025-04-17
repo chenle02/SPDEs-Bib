@@ -23,7 +23,8 @@ ostrowski:75:on
      volume        = {13},
      year          = {1975}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01836524>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01836524>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

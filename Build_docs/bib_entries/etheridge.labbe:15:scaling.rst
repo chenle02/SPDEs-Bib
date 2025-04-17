@@ -22,7 +22,8 @@ etheridge.labbe:15:scaling
      volume        = {336},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-014-2243-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-014-2243-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

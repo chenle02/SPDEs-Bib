@@ -15,7 +15,8 @@ lamarre:24:trace
      url           = {http://arXiv.org/abs/2405.12316},
      year          = {2024}
    }
-`The URL link to the source <http://arXiv.org/abs/2405.12316>`_
+
+`The URL link to the source <http://arXiv.org/abs/2405.12316>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

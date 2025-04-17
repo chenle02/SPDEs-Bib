@@ -23,7 +23,8 @@ baik.rains:01:algebraic
      volume        = {109},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1215/S0012-7094-01-10911-3>`_
+
+`The URL link to the source <https://doi.org/10.1215/S0012-7094-01-10911-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

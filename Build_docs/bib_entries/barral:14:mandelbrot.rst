@@ -22,7 +22,8 @@ barral:14:mandelbrot
      volume        = {88},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-662-43920-3\_1>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-662-43920-3\_1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

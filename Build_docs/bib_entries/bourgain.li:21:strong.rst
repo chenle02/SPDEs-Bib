@@ -22,7 +22,8 @@ bourgain.li:21:strong
      url           = {https://doi.org/10.1093/imrn/rnz158},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1093/imrn/rnz158>`_
+
+`The URL link to the source <https://doi.org/10.1093/imrn/rnz158>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ mattila:95:geometry
      volume        = {44},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511623813>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511623813>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

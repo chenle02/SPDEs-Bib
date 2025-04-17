@@ -116,9 +116,9 @@ with open(parent_rst_name, "w") as parent_rst:
 
             # If a URL is found, append a clickable link
             if url:
-                file.write(f"`The URL link to the source <{url}>`_\n\n")
+                file.write(f"\n`The URL link to the source <{url}>`__\n\n")
 
-            file.write(f"\n`Back to index <../{parent_rst_html}>`_\n")
+            file.write(f"\n`Back to index <../{parent_rst_html}>`__\n")
 
         # Add entry to the parent RST file under the correct section
         # parent_rst.write(f"- `{cite_key} <{rst_entry_filename}>`_\n")

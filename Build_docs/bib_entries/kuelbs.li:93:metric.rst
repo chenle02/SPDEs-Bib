@@ -23,7 +23,8 @@ kuelbs.li:93:metric
      volume        = {116},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.1993.1107>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.1993.1107>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ niu.li:14:numerical
      url           = {https://doi.org/10.1155/2014/630671},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1155/2014/630671>`_
+
+`The URL link to the source <https://doi.org/10.1155/2014/630671>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

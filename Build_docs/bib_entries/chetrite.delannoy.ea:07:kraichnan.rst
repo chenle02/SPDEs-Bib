@@ -23,7 +23,8 @@ chetrite.delannoy.ea:07:kraichnan
      volume        = {126},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-006-9225-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-006-9225-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

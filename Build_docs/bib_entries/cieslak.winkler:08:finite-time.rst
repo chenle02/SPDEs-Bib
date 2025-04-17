@@ -23,7 +23,8 @@ cieslak.winkler:08:finite-time
      volume        = {21},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1088/0951-7715/21/5/009>`_
+
+`The URL link to the source <https://doi.org/10.1088/0951-7715/21/5/009>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

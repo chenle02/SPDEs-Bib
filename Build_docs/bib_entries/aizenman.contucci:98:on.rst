@@ -23,7 +23,8 @@ aizenman.contucci:98:on
      volume        = {92},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1023080223894>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1023080223894>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

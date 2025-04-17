@@ -23,7 +23,8 @@ lawley.mattingly.ea:15:stochastic
      volume        = {47},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1137/140976716>`_
+
+`The URL link to the source <https://doi.org/10.1137/140976716>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

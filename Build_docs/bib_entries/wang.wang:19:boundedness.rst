@@ -22,7 +22,8 @@ wang.wang:19:boundedness
      volume        = {60},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1063/1.5061738>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.5061738>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

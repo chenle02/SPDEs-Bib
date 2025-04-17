@@ -23,7 +23,8 @@ bourgain.gamburd:10:spectral
      volume        = {348},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2010.04.024>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2010.04.024>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

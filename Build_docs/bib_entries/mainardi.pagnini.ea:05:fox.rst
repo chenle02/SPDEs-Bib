@@ -23,7 +23,8 @@ mainardi.pagnini.ea:05:fox
      volume        = {178},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1016/j.cam.2004.08.006>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.cam.2004.08.006>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

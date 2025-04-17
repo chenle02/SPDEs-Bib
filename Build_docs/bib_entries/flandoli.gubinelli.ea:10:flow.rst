@@ -23,7 +23,8 @@ flandoli.gubinelli.ea:10:flow
      volume        = {134},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.bulsci.2010.02.003>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.bulsci.2010.02.003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

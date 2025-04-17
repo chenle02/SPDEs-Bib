@@ -22,7 +22,8 @@ duplantier:06:brownian
      volume        = {47},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1007/3-7643-7436-5\_8>`_
+
+`The URL link to the source <https://doi.org/10.1007/3-7643-7436-5\_8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

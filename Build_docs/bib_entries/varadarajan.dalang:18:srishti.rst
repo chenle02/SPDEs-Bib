@@ -22,7 +22,8 @@ varadarajan.dalang:18:srishti
      volume        = {36},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1016/j.exmath.2018.09.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.exmath.2018.09.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

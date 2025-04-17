@@ -23,7 +23,8 @@ korevaar:04:tauberian
      volume        = {329},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-662-10225-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-662-10225-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

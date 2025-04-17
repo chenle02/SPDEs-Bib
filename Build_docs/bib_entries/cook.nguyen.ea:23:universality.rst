@@ -21,7 +21,8 @@ cook.nguyen.ea:23:universality
      url           = {https://doi.org/10.1093/imrn/rnac021},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1093/imrn/rnac021>`_
+
+`The URL link to the source <https://doi.org/10.1093/imrn/rnac021>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

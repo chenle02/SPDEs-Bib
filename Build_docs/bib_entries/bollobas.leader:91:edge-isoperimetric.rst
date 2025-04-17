@@ -23,7 +23,8 @@ bollobas.leader:91:edge-isoperimetric
      volume        = {11},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01275667>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01275667>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

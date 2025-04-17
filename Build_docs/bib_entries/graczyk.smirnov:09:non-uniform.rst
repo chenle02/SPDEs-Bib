@@ -23,7 +23,8 @@ graczyk.smirnov:09:non-uniform
      volume        = {175},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s00222-008-0152-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00222-008-0152-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ hillen.painter.ea:07:global
      volume        = {7},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdsb.2007.7.125>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2007.7.125>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

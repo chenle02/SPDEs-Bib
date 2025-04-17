@@ -24,7 +24,8 @@ mattingly:02:dissipative
      volume        = {108},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1019799700126>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1019799700126>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ li.xiao:13:class
      volume        = {16},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219025713500239>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219025713500239>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

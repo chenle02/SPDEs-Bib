@@ -22,7 +22,8 @@ shiga:92:ergodic
      volume        = {29},
      year          = {1992}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200784090>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200784090>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

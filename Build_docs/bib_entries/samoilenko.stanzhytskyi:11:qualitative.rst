@@ -22,7 +22,8 @@ samoilenko.stanzhytskyi:11:qualitative
      volume        = {78},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1142/9789814329071>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789814329071>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

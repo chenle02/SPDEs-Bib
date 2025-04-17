@@ -22,7 +22,8 @@ bhuvaneswari.shangerganesh.ea:15:global
      volume        = {38},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1002/mma.3313>`_
+
+`The URL link to the source <https://doi.org/10.1002/mma.3313>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

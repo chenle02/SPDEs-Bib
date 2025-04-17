@@ -22,7 +22,8 @@ coti-zelati.dolce:20:separation
      volume        = {142},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1016/j.matpur.2020.08.001>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.matpur.2020.08.001>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

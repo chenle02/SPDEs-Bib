@@ -23,7 +23,8 @@ bounebache.zambotti:14:skew
      volume        = {27},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-012-0421-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-012-0421-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

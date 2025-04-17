@@ -23,7 +23,8 @@ osaki.tsujikawa.ea:02:exponential
      volume        = {51},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1016/S0362-546X(01)00815-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0362-546X(01)00815-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

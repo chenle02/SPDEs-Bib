@@ -20,4 +20,4 @@ evans.gariepy:15:measure
      year          = {2015}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

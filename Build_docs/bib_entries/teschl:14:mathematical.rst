@@ -24,7 +24,8 @@ teschl:14:mathematical
      volume        = {157},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1090/gsm/157>`_
+
+`The URL link to the source <https://doi.org/10.1090/gsm/157>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

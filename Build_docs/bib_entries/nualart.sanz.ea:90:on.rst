@@ -23,7 +23,8 @@ nualart.sanz.ea:90:on
      volume        = {34},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(90)90058-Z>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(90)90058-Z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

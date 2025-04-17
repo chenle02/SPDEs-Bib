@@ -22,7 +22,8 @@ kim.mueller.ea:10:stochastic
      volume        = {54},
      year          = {2010}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ijm/1336049982>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1336049982>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

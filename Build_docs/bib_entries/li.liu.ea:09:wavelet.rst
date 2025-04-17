@@ -21,4 +21,4 @@ li.liu.ea:09:wavelet
      year          = {2009}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ spitzer:60:tauberian
      volume        = {94},
      year          = {1960}
    }
-`The URL link to the source <https://doi.org/10.2307/1993283>`_
+
+`The URL link to the source <https://doi.org/10.2307/1993283>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ chang.yang:88:conformal
      volume        = {27},
      year          = {1988}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.jdg/1214441783>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.jdg/1214441783>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

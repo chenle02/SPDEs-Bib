@@ -15,7 +15,8 @@ chen.hu:21:solvability
      url           = {https://www.arxiv.org/abs/2101.05997},
      year          = {2021}
    }
-`The URL link to the source <https://www.arxiv.org/abs/2101.05997>`_
+
+`The URL link to the source <https://www.arxiv.org/abs/2101.05997>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

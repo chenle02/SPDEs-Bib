@@ -21,7 +21,8 @@ borodin.gorin:16:moments
      volume        = {12},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.3842/SIGMA.2016.102>`_
+
+`The URL link to the source <https://doi.org/10.3842/SIGMA.2016.102>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

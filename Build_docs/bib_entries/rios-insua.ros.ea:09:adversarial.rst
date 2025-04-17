@@ -18,4 +18,4 @@ rios-insua.ros.ea:09:adversarial
      year          = {2009}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

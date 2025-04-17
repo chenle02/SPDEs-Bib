@@ -22,7 +22,8 @@ garsia.rodemich.ea:70:real
      volume        = {20},
      year          = {1970/71}
    }
-`The URL link to the source <https://doi.org/10.1512/iumj.1970.20.20046>`_
+
+`The URL link to the source <https://doi.org/10.1512/iumj.1970.20.20046>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

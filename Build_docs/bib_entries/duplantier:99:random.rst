@@ -24,7 +24,8 @@ duplantier:99:random
      volume        = {263},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1016/S0378-4371(98)00638-4>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0378-4371(98)00638-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

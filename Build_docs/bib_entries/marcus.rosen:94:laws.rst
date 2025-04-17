@@ -22,7 +22,8 @@ marcus.rosen:94:laws
      volume        = {22},
      year          = {1994}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199404)22:2<626:LOTILF>2.0.CO;2-B\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199404)22:2<626:LOTILF>2.0.CO;2-B\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

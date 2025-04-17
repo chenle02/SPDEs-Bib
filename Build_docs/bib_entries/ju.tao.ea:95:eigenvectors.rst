@@ -23,7 +23,8 @@ ju.tao.ea:95:eigenvectors
      volume        = {10},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1142/S0217732395000715>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0217732395000715>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -20,4 +20,4 @@ balan:13:recent
      year          = {2013}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bourgain:09:expanders
      volume        = {347},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2009.02.009>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2009.02.009>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

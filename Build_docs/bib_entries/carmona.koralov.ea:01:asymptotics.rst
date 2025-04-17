@@ -23,7 +23,8 @@ carmona.koralov.ea:01:asymptotics
      volume        = {9},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1515/rose.2001.9.1.77>`_
+
+`The URL link to the source <https://doi.org/10.1515/rose.2001.9.1.77>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

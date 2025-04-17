@@ -23,7 +23,8 @@ issa.shen:17:dynamics
      volume        = {16},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1137/16M1092428>`_
+
+`The URL link to the source <https://doi.org/10.1137/16M1092428>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

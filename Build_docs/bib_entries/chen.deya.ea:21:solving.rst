@@ -15,7 +15,8 @@ chen.deya.ea:21:solving
      url           = {https://www.arxiv.org/abs/2112.04954},
      year          = {2021}
    }
-`The URL link to the source <https://www.arxiv.org/abs/2112.04954>`_
+
+`The URL link to the source <https://www.arxiv.org/abs/2112.04954>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

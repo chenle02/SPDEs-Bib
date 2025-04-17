@@ -23,7 +23,8 @@ da-prato.zabczyk:14:stochastic
      volume        = {152},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9781107295513>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9781107295513>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

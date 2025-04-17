@@ -21,7 +21,8 @@ berger.toninelli:10:on
      volume        = {15},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1214/EJP.v15-761>`_
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v15-761>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

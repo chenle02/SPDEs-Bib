@@ -22,7 +22,8 @@ gardner.derrida:88:optimal
      volume        = {21},
      year          = {1988}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/21/271>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/21/271>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

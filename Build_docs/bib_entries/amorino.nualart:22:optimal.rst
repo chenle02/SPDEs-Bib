@@ -21,7 +21,8 @@ amorino.nualart:22:optimal
      volume        = {26},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1051/ps/2022001>`_
+
+`The URL link to the source <https://doi.org/10.1051/ps/2022001>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

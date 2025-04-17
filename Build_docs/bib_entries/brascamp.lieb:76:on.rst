@@ -21,7 +21,8 @@ brascamp.lieb:76:on
      volume        = {22},
      year          = {1976}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-1236(76)90004-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-1236(76)90004-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

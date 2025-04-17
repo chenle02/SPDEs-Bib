@@ -22,7 +22,8 @@ sato:04:stochastic
      volume        = {41},
      year          = {2004}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ojm/1153493451>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1153493451>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

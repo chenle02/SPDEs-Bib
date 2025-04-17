@@ -22,7 +22,8 @@ aizenman.kesten.ea:87:uniqueness
      volume        = {111},
      year          = {1987}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104159720>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104159720>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

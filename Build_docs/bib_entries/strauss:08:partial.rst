@@ -20,4 +20,4 @@ strauss:08:partial
      year          = {2008}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

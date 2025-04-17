@@ -22,7 +22,8 @@ lacoin.rhodes.ea:22:semiclassical
      volume        = {31},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.5802/afst.1713>`_
+
+`The URL link to the source <https://doi.org/10.5802/afst.1713>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

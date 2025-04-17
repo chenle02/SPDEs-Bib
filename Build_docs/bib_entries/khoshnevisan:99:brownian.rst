@@ -23,7 +23,8 @@ khoshnevisan:99:brownian
      volume        = {351},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-99-02408-3>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-99-02408-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

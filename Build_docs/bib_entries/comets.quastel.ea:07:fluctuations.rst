@@ -23,7 +23,8 @@ comets.quastel.ea:07:fluctuations
      volume        = {43},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.anihpb.2006.01.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.anihpb.2006.01.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

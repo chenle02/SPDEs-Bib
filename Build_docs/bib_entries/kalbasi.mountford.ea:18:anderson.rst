@@ -22,7 +22,8 @@ kalbasi.mountford.ea:18:anderson
      volume        = {31},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-017-0756-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-017-0756-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

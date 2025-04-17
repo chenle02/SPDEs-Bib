@@ -22,7 +22,8 @@ luo:23:regularization
      volume        = {66},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1007/s11425-021-1981-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11425-021-1981-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

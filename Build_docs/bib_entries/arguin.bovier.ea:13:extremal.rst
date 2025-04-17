@@ -23,7 +23,8 @@ arguin.bovier.ea:13:extremal
      volume        = {157},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-012-0464-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-012-0464-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

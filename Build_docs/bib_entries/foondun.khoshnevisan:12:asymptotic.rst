@@ -23,7 +23,8 @@ foondun.khoshnevisan:12:asymptotic
      volume        = {18},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.3150/11-BEJ357>`_
+
+`The URL link to the source <https://doi.org/10.3150/11-BEJ357>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

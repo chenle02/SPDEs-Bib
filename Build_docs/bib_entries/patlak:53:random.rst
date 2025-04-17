@@ -22,7 +22,8 @@ patlak:53:random
      volume        = {15},
      year          = {1953}
    }
-`The URL link to the source <https://doi.org/10.1007/bf02476407>`_
+
+`The URL link to the source <https://doi.org/10.1007/bf02476407>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

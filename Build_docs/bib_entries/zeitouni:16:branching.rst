@@ -23,7 +23,8 @@ zeitouni:16:branching
      volume        = {91},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1090/pspum/091/01544>`_
+
+`The URL link to the source <https://doi.org/10.1090/pspum/091/01544>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

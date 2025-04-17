@@ -22,7 +22,8 @@ yakubovich.luchko:94:hypergeometric
      volume        = {287},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1007/978-94-011-1196-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-94-011-1196-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

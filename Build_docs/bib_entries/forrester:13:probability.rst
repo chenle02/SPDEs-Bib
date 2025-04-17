@@ -23,7 +23,8 @@ forrester:13:probability
      volume        = {2},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1142/S2010326313500111>`_
+
+`The URL link to the source <https://doi.org/10.1142/S2010326313500111>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

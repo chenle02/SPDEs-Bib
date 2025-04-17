@@ -22,7 +22,8 @@ gu.komorowski:22:high
      volume        = {186},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-022-02899-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-022-02899-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

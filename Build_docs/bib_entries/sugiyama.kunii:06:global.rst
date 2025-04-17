@@ -23,7 +23,8 @@ sugiyama.kunii:06:global
      volume        = {227},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2006.03.003>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2006.03.003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

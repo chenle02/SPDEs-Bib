@@ -23,7 +23,8 @@ kager.nienhuis:04:guide
      volume        = {115},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1023/B:JOSS.0000028058.87266.be>`_
+
+`The URL link to the source <https://doi.org/10.1023/B:JOSS.0000028058.87266.be>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

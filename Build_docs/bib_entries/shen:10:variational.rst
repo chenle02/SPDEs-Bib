@@ -23,7 +23,8 @@ shen:10:variational
      volume        = {362},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-10-04950-0>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-10-04950-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

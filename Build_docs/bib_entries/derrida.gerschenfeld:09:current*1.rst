@@ -23,7 +23,8 @@ derrida.gerschenfeld:09:current*1
      volume        = {137},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-009-9830-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-009-9830-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

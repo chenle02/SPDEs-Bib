@@ -22,7 +22,8 @@ coutin:07:introduction
      volume        = {1899},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-540-71189-6\_1>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-540-71189-6\_1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

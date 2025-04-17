@@ -22,7 +22,8 @@ varadhan:01:probability
      volume        = {7},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1090/cln/007>`_
+
+`The URL link to the source <https://doi.org/10.1090/cln/007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

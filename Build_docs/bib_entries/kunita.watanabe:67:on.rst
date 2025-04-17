@@ -21,7 +21,8 @@ kunita.watanabe:67:on
      volume        = {30},
      year          = {1967}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.nmj/1118796812>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.nmj/1118796812>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

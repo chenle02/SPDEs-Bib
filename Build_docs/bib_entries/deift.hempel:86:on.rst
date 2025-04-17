@@ -22,7 +22,8 @@ deift.hempel:86:on
      volume        = {103},
      year          = {1986}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104114795>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104114795>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

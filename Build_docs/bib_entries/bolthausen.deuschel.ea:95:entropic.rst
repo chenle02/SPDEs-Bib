@@ -22,7 +22,8 @@ bolthausen.deuschel.ea:95:entropic
      volume        = {170},
      year          = {1995}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104273128>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104273128>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

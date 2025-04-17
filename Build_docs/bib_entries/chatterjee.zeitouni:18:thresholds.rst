@@ -22,7 +22,8 @@ chatterjee.zeitouni:18:thresholds
      volume        = {28},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1214/17-AAP1356>`_
+
+`The URL link to the source <https://doi.org/10.1214/17-AAP1356>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

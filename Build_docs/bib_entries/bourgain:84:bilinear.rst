@@ -23,7 +23,8 @@ bourgain:84:bilinear
      volume        = {286},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.2307/1999408>`_
+
+`The URL link to the source <https://doi.org/10.2307/1999408>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ chen.dagard.ea:21:derrida-retaux
      volume        = {49},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1214/20-aop1457>`_
+
+`The URL link to the source <https://doi.org/10.1214/20-aop1457>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

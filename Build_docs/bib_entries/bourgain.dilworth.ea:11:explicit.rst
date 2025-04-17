@@ -23,7 +23,8 @@ bourgain.dilworth.ea:11:explicit
      volume        = {159},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1215/00127094-1384809>`_
+
+`The URL link to the source <https://doi.org/10.1215/00127094-1384809>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

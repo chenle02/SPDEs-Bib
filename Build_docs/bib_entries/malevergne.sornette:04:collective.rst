@@ -22,7 +22,8 @@ malevergne.sornette:04:collective
      volume        = {331},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1016/j.physa.2003.09.004>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.physa.2003.09.004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

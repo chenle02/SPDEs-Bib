@@ -23,7 +23,8 @@ crighton:95:applications
      volume        = {39},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00994625>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00994625>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

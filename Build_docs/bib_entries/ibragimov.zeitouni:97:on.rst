@@ -23,7 +23,8 @@ ibragimov.zeitouni:97:on
      volume        = {349},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-97-01766-2>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-97-01766-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ shirai.takahashi:03:random
      volume        = {31},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1055425789>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1055425789>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

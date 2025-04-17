@@ -23,7 +23,8 @@ bianchi.flandoli:20:stochastic
      volume        = {88},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s00032-020-00312-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00032-020-00312-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

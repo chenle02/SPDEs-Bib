@@ -22,7 +22,8 @@ haress.hu:21:estimation
      volume        = {24},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s11203-020-09235-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11203-020-09235-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

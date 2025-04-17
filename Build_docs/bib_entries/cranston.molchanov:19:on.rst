@@ -22,7 +22,8 @@ cranston.molchanov:19:on
      volume        = {62},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s11425-018-9393-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11425-018-9393-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

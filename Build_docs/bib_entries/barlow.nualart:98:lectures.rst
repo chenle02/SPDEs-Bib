@@ -22,7 +22,8 @@ barlow.nualart:98:lectures
      volume        = {1690},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0092536>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0092536>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

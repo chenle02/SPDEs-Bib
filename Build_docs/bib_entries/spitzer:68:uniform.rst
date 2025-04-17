@@ -20,4 +20,4 @@ spitzer:68:uniform
      year          = {1968/69}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

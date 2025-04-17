@@ -18,7 +18,8 @@ spitzer:53:on
      url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:0005099},
      year          = {1953}
    }
-`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:0005099>`_
+
+`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:0005099>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

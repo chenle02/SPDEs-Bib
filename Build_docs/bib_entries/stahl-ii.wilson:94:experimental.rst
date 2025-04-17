@@ -18,4 +18,4 @@ stahl-ii.wilson:94:experimental
      year          = {1994}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

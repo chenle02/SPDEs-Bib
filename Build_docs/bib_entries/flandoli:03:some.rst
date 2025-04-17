@@ -21,7 +21,8 @@ flandoli:03:some
      url           = {https://doi.org/10.1142/9789812703989\_0010},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1142/9789812703989\_0010>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789812703989\_0010>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ heathcote.husler:90:first
      volume        = {35},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(90)90012-H>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(90)90012-H>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

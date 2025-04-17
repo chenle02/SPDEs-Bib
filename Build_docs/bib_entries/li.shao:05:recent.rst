@@ -22,7 +22,8 @@ li.shao:05:recent
      volume        = {1},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219607705000103>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219607705000103>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

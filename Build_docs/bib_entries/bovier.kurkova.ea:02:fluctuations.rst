@@ -23,7 +23,8 @@ bovier.kurkova.ea:02:fluctuations
      volume        = {30},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1023481004>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1023481004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

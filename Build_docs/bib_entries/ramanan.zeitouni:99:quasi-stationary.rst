@@ -23,7 +23,8 @@ ramanan.zeitouni:99:quasi-stationary
      volume        = {84},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1016/S0304-4149(99)00044-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(99)00044-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ smirnov:00:symbolic
      url           = {https://doi.org/10.1155/S1073792800000192},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1155/S1073792800000192>`_
+
+`The URL link to the source <https://doi.org/10.1155/S1073792800000192>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bernton.ghosal.ea:22:entropic
      volume        = {171},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1215/00127094-2022-0035>`_
+
+`The URL link to the source <https://doi.org/10.1215/00127094-2022-0035>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

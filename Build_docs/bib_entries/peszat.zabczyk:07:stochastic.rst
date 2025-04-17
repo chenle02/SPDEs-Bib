@@ -23,7 +23,8 @@ peszat.zabczyk:07:stochastic
      volume        = {113},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511721373>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511721373>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

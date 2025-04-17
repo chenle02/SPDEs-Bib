@@ -23,7 +23,8 @@ mikulevicius.rozovskii:04:stochastic
      volume        = {35},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036141002409167>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036141002409167>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

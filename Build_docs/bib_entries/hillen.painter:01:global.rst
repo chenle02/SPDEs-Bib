@@ -22,7 +22,8 @@ hillen.painter:01:global
      volume        = {26},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1006/aama.2001.0721>`_
+
+`The URL link to the source <https://doi.org/10.1006/aama.2001.0721>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

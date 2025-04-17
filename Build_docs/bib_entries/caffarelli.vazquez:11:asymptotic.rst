@@ -23,7 +23,8 @@ caffarelli.vazquez:11:asymptotic
      volume        = {29},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2011.29.1393>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2011.29.1393>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

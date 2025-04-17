@@ -22,7 +22,8 @@ shen:89:numerical
      volume        = {5},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02006007>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02006007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

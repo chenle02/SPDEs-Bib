@@ -21,7 +21,8 @@ fujie.yokota:14:boundedness
      volume        = {38},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1016/j.aml.2014.07.021>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.aml.2014.07.021>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

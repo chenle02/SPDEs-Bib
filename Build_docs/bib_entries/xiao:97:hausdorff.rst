@@ -23,7 +23,8 @@ xiao:97:hausdorff
      volume        = {122},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1017/S0305004197001783>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0305004197001783>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

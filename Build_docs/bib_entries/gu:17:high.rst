@@ -23,7 +23,8 @@ gu:17:high
      volume        = {169},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-016-0750-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-016-0750-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

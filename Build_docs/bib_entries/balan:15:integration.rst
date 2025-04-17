@@ -23,7 +23,8 @@ balan:15:integration
      volume        = {87},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1080/17442508.2014.956103>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442508.2014.956103>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

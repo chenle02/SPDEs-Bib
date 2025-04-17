@@ -20,7 +20,8 @@ dubhashi.panconesi:09:concentration
      url           = {https://doi.org/10.1017/CBO9780511581274},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511581274>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511581274>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

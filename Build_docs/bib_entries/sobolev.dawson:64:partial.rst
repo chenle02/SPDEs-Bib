@@ -19,4 +19,4 @@ sobolev.dawson:64:partial
      year          = {1964}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

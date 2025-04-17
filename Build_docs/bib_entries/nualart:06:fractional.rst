@@ -19,4 +19,4 @@ nualart:06:fractional
      year          = {2006}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

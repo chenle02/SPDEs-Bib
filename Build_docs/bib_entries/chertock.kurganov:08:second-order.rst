@@ -22,7 +22,8 @@ chertock.kurganov:08:second-order
      volume        = {111},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1007/s00211-008-0188-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00211-008-0188-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

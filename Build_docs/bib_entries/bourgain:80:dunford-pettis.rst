@@ -23,7 +23,8 @@ bourgain:80:dunford-pettis
      volume        = {37},
      year          = {1980}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02762866>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02762866>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ winkler:11:global
      volume        = {34},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1002/mma.1346>`_
+
+`The URL link to the source <https://doi.org/10.1002/mma.1346>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

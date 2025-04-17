@@ -22,7 +22,8 @@ barbu.da-prato.ea:16:stochastic
      volume        = {2163},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-319-41069-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-41069-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ shen:09:spreading
      volume        = {4},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s11464-009-0032-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11464-009-0032-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

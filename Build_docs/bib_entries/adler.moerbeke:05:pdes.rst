@@ -23,7 +23,8 @@ adler.moerbeke:05:pdes
      volume        = {33},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1214/009117905000000107>`_
+
+`The URL link to the source <https://doi.org/10.1214/009117905000000107>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

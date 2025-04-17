@@ -22,7 +22,8 @@ gross.klebanov:90:one-dimensional
      volume        = {344},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0550-3213(90)90667-3>`_
+
+`The URL link to the source <https://doi.org/10.1016/0550-3213(90)90667-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

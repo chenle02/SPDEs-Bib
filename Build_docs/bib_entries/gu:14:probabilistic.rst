@@ -19,7 +19,8 @@ gu:14:probabilistic
      url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:3619978},
      year          = {2014}
    }
-`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:3619978>`_
+
+`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:3619978>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

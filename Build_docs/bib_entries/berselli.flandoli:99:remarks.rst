@@ -22,7 +22,8 @@ berselli.flandoli:99:remarks
      volume        = {5},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.1999.5.197>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.1999.5.197>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

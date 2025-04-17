@@ -15,7 +15,8 @@ galeati.gubinelli:20:prevalence
      url           = {http://arXiv.org/abs/2004.00872},
      year          = {2020}
    }
-`The URL link to the source <http://arXiv.org/abs/2004.00872>`_
+
+`The URL link to the source <http://arXiv.org/abs/2004.00872>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

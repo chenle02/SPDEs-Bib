@@ -22,7 +22,8 @@ rider.valko:16:matrix
      url           = {https://doi.org/10.1093/imrn/rnv127},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1093/imrn/rnv127>`_
+
+`The URL link to the source <https://doi.org/10.1093/imrn/rnv127>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ zambotti:04:fluctuations
      volume        = {129},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-004-0335-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-004-0335-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

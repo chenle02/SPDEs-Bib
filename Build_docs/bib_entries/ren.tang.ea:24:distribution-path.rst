@@ -23,7 +23,8 @@ ren.tang.ea:24:distribution-path
      volume        = {61},
      year          = {2024}
    }
-`The URL link to the source <https://doi.org/10.1007/s11118-023-10113-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11118-023-10113-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

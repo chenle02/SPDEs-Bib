@@ -22,7 +22,8 @@ reade:51:characterization
      volume        = {2},
      year          = {1951}
    }
-`The URL link to the source <https://doi.org/10.2307/2032620>`_
+
+`The URL link to the source <https://doi.org/10.2307/2032620>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

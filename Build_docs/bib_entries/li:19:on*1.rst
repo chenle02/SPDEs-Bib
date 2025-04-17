@@ -21,7 +21,8 @@ li:19:on*1
      volume        = {49},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2019.02.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2019.02.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

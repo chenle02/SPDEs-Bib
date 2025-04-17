@@ -15,4 +15,4 @@ polat:17:optimal
      year          = {2017}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

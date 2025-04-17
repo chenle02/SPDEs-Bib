@@ -22,7 +22,8 @@ he.zheng:16:convergence
      volume        = {436},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2015.12.058>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2015.12.058>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

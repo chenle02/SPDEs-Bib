@@ -19,7 +19,8 @@ duplantier:10:liouville
      url           = {https://doi.org/10.1142/9789814304634\_0003},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1142/9789814304634\_0003>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789814304634\_0003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

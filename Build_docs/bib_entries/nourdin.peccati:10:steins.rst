@@ -22,7 +22,8 @@ nourdin.peccati:10:steins
      volume        = {8},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1142/9789814277266\_0014>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789814277266\_0014>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

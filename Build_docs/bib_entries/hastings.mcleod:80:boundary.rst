@@ -23,7 +23,8 @@ hastings.mcleod:80:boundary
      volume        = {73},
      year          = {1980}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00283254>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00283254>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

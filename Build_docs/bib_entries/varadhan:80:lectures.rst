@@ -21,4 +21,4 @@ varadhan:80:lectures
      year          = {1980}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

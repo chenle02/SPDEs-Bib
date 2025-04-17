@@ -23,7 +23,8 @@ gerencser.hairer:19:singular
      volume        = {173},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-018-0841-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-018-0841-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

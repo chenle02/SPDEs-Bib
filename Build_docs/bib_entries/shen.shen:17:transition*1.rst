@@ -23,7 +23,8 @@ shen.shen:17:transition*1
      volume        = {37},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2017042>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2017042>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

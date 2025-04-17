@@ -23,7 +23,8 @@ tribe:96:travelling
      volume        = {56},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1080/17442509608834047>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442509608834047>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

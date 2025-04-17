@@ -24,7 +24,8 @@ duplantier:90:two-dimensional
      volume        = {163},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0378-4371(90)90326-N>`_
+
+`The URL link to the source <https://doi.org/10.1016/0378-4371(90)90326-N>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

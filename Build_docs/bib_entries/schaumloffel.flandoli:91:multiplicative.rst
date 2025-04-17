@@ -23,7 +23,8 @@ schaumloffel.flandoli:91:multiplicative
      volume        = {34},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1080/17442509108833684>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442509108833684>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

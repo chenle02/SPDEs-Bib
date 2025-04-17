@@ -23,7 +23,8 @@ deift.its.ea:07:widom-dyson
      volume        = {202},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.cam.2005.12.040>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.cam.2005.12.040>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

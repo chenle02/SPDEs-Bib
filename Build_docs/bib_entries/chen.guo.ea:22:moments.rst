@@ -15,7 +15,8 @@ chen.guo.ea:22:moments
      url           = {https://www.arxiv.org/abs/2206.10069},
      year          = {2022}
    }
-`The URL link to the source <https://www.arxiv.org/abs/2206.10069>`_
+
+`The URL link to the source <https://www.arxiv.org/abs/2206.10069>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

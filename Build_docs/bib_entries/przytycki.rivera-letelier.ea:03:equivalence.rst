@@ -23,7 +23,8 @@ przytycki.rivera-letelier.ea:03:equivalence
      volume        = {151},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1007/s00222-002-0243-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00222-002-0243-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

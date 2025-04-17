@@ -23,7 +23,8 @@ epshteyn.kurganov:08:new
      volume        = {47},
      year          = {2008/09}
    }
-`The URL link to the source <https://doi.org/10.1137/07070423X>`_
+
+`The URL link to the source <https://doi.org/10.1137/07070423X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

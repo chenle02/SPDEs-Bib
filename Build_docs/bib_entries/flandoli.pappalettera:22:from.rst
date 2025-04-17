@@ -22,7 +22,8 @@ flandoli.pappalettera:22:from
      volume        = {10},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-022-00249-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-022-00249-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

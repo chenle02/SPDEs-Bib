@@ -23,7 +23,8 @@ constantin.wu:99:behavior
      volume        = {30},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036141098337333>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036141098337333>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

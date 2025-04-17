@@ -22,7 +22,8 @@ flandoli.lasiecka.ea:88:algebraic
      volume        = {153},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01762397>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01762397>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

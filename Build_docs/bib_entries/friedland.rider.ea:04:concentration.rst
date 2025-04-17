@@ -23,7 +23,8 @@ friedland.rider.ea:04:concentration
      volume        = {14},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1214/105051604000000396>`_
+
+`The URL link to the source <https://doi.org/10.1214/105051604000000396>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

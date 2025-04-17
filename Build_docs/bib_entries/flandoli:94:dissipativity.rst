@@ -23,7 +23,8 @@ flandoli:94:dissipativity
      volume        = {1},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01194988>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01194988>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

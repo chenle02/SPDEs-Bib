@@ -23,7 +23,8 @@ basse-oconnor.graversen.ea:14:stochastic
      volume        = {58},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1137/S0040585X97986540>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0040585X97986540>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

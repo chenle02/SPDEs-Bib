@@ -21,4 +21,4 @@ luspaui.alhimova:73:on
      year          = {1973}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

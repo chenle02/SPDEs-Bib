@@ -22,7 +22,8 @@ ceyhan:14:segregation
      volume        = {33},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1002/sim.6053>`_
+
+`The URL link to the source <https://doi.org/10.1002/sim.6053>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

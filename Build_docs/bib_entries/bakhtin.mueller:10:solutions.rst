@@ -22,7 +22,8 @@ bakhtin.mueller:10:solutions
      volume        = {4},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.31390/cosa.4.3.07>`_
+
+`The URL link to the source <https://doi.org/10.31390/cosa.4.3.07>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

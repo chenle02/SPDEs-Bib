@@ -23,7 +23,8 @@ xiao:10:uniform
      volume        = {159},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s00605-009-0133-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00605-009-0133-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

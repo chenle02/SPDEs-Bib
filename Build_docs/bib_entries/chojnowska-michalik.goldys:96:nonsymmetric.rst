@@ -23,7 +23,8 @@ chojnowska-michalik.goldys:96:nonsymmetric
      volume        = {36},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1215/kjm/1250518505>`_
+
+`The URL link to the source <https://doi.org/10.1215/kjm/1250518505>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

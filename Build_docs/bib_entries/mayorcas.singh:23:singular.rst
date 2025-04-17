@@ -15,7 +15,8 @@ mayorcas.singh:23:singular
      url           = {http://arXiv.org/abs/2301.05121},
      year          = {2023}
    }
-`The URL link to the source <http://arXiv.org/abs/2301.05121>`_
+
+`The URL link to the source <http://arXiv.org/abs/2301.05121>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

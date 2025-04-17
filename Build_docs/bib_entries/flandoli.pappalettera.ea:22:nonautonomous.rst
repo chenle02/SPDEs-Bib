@@ -23,7 +23,8 @@ flandoli.pappalettera.ea:22:nonautonomous
      volume        = {22},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493722400032>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493722400032>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

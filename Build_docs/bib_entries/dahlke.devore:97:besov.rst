@@ -22,7 +22,8 @@ dahlke.devore:97:besov
      volume        = {22},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1080/03605309708821252>`_
+
+`The URL link to the source <https://doi.org/10.1080/03605309708821252>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

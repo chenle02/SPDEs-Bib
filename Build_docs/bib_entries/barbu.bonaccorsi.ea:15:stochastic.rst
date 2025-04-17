@@ -23,7 +23,8 @@ barbu.bonaccorsi.ea:15:stochastic
      volume        = {165},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s10957-014-0672-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10957-014-0672-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ cook.derrida:89:polymers
      volume        = {57},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01023636>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01023636>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

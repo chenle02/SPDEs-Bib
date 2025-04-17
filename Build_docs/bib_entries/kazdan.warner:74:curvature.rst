@@ -22,7 +22,8 @@ kazdan.warner:74:curvature
      volume        = {99},
      year          = {1974}
    }
-`The URL link to the source <https://doi.org/10.2307/1971012>`_
+
+`The URL link to the source <https://doi.org/10.2307/1971012>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

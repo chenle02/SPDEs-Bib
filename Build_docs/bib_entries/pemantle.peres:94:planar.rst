@@ -22,7 +22,8 @@ pemantle.peres:94:planar
      volume        = {420},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1007/978-94-015-8326-8\_16>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-94-015-8326-8\_16>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

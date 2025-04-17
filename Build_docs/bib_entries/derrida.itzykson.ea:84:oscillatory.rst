@@ -22,7 +22,8 @@ derrida.itzykson.ea:84:oscillatory
      volume        = {94},
      year          = {1984}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103941233>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103941233>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

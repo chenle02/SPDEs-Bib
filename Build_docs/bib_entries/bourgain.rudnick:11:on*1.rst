@@ -23,7 +23,8 @@ bourgain.rudnick:11:on*1
      volume        = {185},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/s00222-010-0307-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00222-010-0307-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -14,4 +14,4 @@ schramm:94:practical
      year          = {1994}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

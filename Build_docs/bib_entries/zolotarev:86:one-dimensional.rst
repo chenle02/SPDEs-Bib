@@ -22,7 +22,8 @@ zolotarev:86:one-dimensional
      volume        = {65},
      year          = {1986}
    }
-`The URL link to the source <https://doi.org/10.1090/mmono/065>`_
+
+`The URL link to the source <https://doi.org/10.1090/mmono/065>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

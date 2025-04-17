@@ -23,7 +23,8 @@ borell:00:diffusion
      volume        = {12},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1008641618547>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1008641618547>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

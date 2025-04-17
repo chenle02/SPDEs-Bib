@@ -22,7 +22,8 @@ gao.marzuola.ea:20:nonlocal
      volume        = {102},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1103/physreve.102.052112>`_
+
+`The URL link to the source <https://doi.org/10.1103/physreve.102.052112>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

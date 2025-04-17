@@ -23,7 +23,8 @@ mischaikow.nanda:13:morse
      volume        = {50},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s00454-013-9529-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00454-013-9529-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

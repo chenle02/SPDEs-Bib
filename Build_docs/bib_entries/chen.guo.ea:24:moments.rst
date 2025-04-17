@@ -22,7 +22,8 @@ chen.guo.ea:24:moments
      volume        = {377},
      year          = {2024}
    }
-`The URL link to the source <https://doi.org/10.1090/tran/9138>`_
+
+`The URL link to the source <https://doi.org/10.1090/tran/9138>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

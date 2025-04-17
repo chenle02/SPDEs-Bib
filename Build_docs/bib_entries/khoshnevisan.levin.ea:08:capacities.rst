@@ -23,7 +23,8 @@ khoshnevisan.levin.ea:08:capacities
      volume        = {118},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2007.10.014>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2007.10.014>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

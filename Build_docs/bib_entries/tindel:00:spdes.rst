@@ -23,7 +23,8 @@ tindel:00:spdes
      volume        = {27},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.4064/am-27-3-287-308>`_
+
+`The URL link to the source <https://doi.org/10.4064/am-27-3-287-308>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ rosen:83:local
      volume        = {88},
      year          = {1983}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103922380>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103922380>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

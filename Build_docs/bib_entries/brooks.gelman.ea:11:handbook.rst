@@ -14,4 +14,4 @@ brooks.gelman.ea:11:handbook
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

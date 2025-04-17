@@ -23,7 +23,8 @@ mueller.neuman:22:scaling
      volume        = {32},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1214/22-aap1785>`_
+
+`The URL link to the source <https://doi.org/10.1214/22-aap1785>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

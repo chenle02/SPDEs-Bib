@@ -23,7 +23,8 @@ bourgain.gamburd.ea:11:generalization
      volume        = {207},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/s11511-012-0070-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11511-012-0070-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

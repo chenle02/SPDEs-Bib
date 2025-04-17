@@ -23,7 +23,8 @@ chen.yan.ea:10:on
      volume        = {362},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2009.08.014>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2009.08.014>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ alberts.sheffield:08:hausdorff
      volume        = {13},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1214/EJP.v13-515>`_
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v13-515>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

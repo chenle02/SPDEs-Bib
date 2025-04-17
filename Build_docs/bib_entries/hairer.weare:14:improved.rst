@@ -23,7 +23,8 @@ hairer.weare:14:improved
      volume        = {67},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.21526>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.21526>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

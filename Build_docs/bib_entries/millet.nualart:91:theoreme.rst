@@ -21,4 +21,4 @@ millet.nualart:91:theoreme
      year          = {1991}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

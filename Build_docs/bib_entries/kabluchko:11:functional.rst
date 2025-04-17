@@ -23,7 +23,8 @@ kabluchko:11:functional
      volume        = {17},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.3150/10-BEJ299>`_
+
+`The URL link to the source <https://doi.org/10.3150/10-BEJ299>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ biane:86:relations
      volume        = {22},
      year          = {1986}
    }
-`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1986\_\_22\_1\_1\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1986\_\_22\_1\_1\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

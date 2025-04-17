@@ -23,7 +23,8 @@ zhang:07:regularities
      volume        = {249},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.03.018>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.03.018>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

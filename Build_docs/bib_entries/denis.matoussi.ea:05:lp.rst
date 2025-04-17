@@ -23,7 +23,8 @@ denis.matoussi.ea:05:lp
      volume        = {133},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-005-0436-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-005-0436-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

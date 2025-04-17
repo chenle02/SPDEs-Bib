@@ -23,7 +23,8 @@ katz.pavlovic:05:finite
      volume        = {357},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-04-03532-9>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-04-03532-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

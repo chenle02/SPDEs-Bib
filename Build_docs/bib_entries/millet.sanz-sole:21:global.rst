@@ -21,7 +21,8 @@ millet.sanz-sole:21:global
      volume        = {139},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2021.05.002>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2021.05.002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

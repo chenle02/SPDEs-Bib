@@ -24,7 +24,8 @@ derrida:91:zeroes
      volume        = {177},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1016/0378-4371(91)90130-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0378-4371(91)90130-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

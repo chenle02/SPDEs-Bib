@@ -22,4 +22,4 @@ flandoli.gubinelli.ea:10:does
      year          = {2010}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

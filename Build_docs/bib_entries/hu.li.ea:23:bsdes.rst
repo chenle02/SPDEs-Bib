@@ -21,7 +21,8 @@ hu.li.ea:23:bsdes
      volume        = {450},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1016/j.amc.2023.127979>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.amc.2023.127979>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

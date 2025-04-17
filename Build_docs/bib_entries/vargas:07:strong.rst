@@ -23,7 +23,8 @@ vargas:07:strong
      volume        = {138},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-006-0030-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-006-0030-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

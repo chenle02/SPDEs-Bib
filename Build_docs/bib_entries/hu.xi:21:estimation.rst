@@ -21,7 +21,8 @@ hu.xi:21:estimation
      volume        = {174},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spl.2021.109099>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2021.109099>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

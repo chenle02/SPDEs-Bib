@@ -23,7 +23,8 @@ li.xiao:07:mean
      volume        = {59},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10463-006-0048-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10463-006-0048-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

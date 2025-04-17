@@ -23,7 +23,8 @@ li.liang.ea:16:diffusive*1
      volume        = {261},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2016.04.035>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2016.04.035>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

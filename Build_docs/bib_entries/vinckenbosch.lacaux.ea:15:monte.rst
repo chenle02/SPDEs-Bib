@@ -21,7 +21,8 @@ vinckenbosch.lacaux.ea:15:monte
      volume        = {269},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.mbs.2015.08.017>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.mbs.2015.08.017>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

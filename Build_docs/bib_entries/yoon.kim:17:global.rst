@@ -21,7 +21,8 @@ yoon.kim:17:global
      volume        = {149},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s10440-016-0089-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10440-016-0089-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ hanyga.seredynska:07:relations
      volume        = {88},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10659-007-9112-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10659-007-9112-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

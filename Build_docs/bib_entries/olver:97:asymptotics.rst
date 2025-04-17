@@ -20,4 +20,4 @@ olver:97:asymptotics
      year          = {1997}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

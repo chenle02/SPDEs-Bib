@@ -22,7 +22,8 @@ wang.xiao:19:csorgo-revesz
      volume        = {150},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spl.2019.02.016>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2019.02.016>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

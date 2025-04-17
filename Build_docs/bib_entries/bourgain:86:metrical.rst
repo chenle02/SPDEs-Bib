@@ -23,7 +23,8 @@ bourgain:86:metrical
      volume        = {56},
      year          = {1986}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02766125>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02766125>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

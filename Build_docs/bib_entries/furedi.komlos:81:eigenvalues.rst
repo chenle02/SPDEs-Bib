@@ -23,7 +23,8 @@ furedi.komlos:81:eigenvalues
      volume        = {1},
      year          = {1981}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02579329>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02579329>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

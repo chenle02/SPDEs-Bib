@@ -23,7 +23,8 @@ harang.tindel.ea:23:volterra
      volume        = {23},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493723500028>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493723500028>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ macchi:75:coincidence
      volume        = {7},
      year          = {1975}
    }
-`The URL link to the source <https://doi.org/10.2307/1425855>`_
+
+`The URL link to the source <https://doi.org/10.2307/1425855>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

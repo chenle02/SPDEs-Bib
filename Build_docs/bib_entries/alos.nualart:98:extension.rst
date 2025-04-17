@@ -23,7 +23,8 @@ alos.nualart:98:extension
      volume        = {11},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1022692024364>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1022692024364>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

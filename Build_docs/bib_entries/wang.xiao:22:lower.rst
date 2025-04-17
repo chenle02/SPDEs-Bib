@@ -23,7 +23,8 @@ wang.xiao:22:lower
      volume        = {514},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2022.126320>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2022.126320>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

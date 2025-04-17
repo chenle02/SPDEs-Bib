@@ -23,7 +23,8 @@ chong.kluppelberg:19:partial
      volume        = {129},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2018.12.018>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2018.12.018>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

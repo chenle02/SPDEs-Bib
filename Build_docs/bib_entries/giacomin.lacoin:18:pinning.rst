@@ -23,7 +23,8 @@ giacomin.lacoin:18:pinning
      volume        = {20},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.4171/JEMS/764>`_
+
+`The URL link to the source <https://doi.org/10.4171/JEMS/764>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

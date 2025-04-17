@@ -23,7 +23,8 @@ quastel.remenik:15:tails
      volume        = {51},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1214/12-AIHP525>`_
+
+`The URL link to the source <https://doi.org/10.1214/12-AIHP525>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

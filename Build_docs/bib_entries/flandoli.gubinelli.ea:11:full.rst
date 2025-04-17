@@ -22,7 +22,8 @@ flandoli.gubinelli.ea:11:full
      volume        = {121},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2011.03.004>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2011.03.004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

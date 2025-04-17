@@ -23,7 +23,8 @@ otto.villani:00:generalization
      volume        = {173},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.1999.3557>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.1999.3557>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

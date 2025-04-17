@@ -20,7 +20,8 @@ srivastava.choi:01:series
      url           = {https://doi.org/10.1007/978-94-015-9672-5},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1007/978-94-015-9672-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-94-015-9672-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

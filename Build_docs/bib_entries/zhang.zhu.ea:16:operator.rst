@@ -22,7 +22,8 @@ zhang.zhu.ea:16:operator
      volume        = {302},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1016/j.cam.2016.02.018>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.cam.2016.02.018>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

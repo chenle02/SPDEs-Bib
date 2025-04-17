@@ -23,7 +23,8 @@ derrida.janowsky.ea:93:microscopic-shock
      volume        = {22},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1209/0295-5075/22/9/003>`_
+
+`The URL link to the source <https://doi.org/10.1209/0295-5075/22/9/003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

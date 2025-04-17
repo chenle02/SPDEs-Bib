@@ -23,7 +23,8 @@ bourgain.brezis.ea:02:limiting
      volume        = {87},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02868470>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02868470>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

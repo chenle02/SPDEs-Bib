@@ -20,7 +20,8 @@ nourdin.poly:12:erratum
      volume        = {17},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1214/ecp.v17-2383>`_
+
+`The URL link to the source <https://doi.org/10.1214/ecp.v17-2383>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

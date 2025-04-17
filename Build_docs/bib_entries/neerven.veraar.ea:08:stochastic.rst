@@ -23,7 +23,8 @@ neerven.veraar.ea:08:stochastic
      volume        = {255},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2008.03.015>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2008.03.015>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

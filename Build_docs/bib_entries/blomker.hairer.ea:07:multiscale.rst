@@ -23,7 +23,8 @@ blomker.hairer.ea:07:multiscale
      volume        = {20},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1088/0951-7715/20/7/009>`_
+
+`The URL link to the source <https://doi.org/10.1088/0951-7715/20/7/009>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ xiong:13:super-brownian
      volume        = {41},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1214/12-AOP789>`_
+
+`The URL link to the source <https://doi.org/10.1214/12-AOP789>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

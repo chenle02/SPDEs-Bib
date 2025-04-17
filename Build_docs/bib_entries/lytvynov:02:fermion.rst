@@ -23,7 +23,8 @@ lytvynov:02:fermion
      volume        = {14},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1142/S0129055X02001533>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0129055X02001533>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

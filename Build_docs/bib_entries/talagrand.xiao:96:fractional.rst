@@ -22,7 +22,8 @@ talagrand.xiao:96:fractional
      volume        = {9},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02214076>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02214076>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

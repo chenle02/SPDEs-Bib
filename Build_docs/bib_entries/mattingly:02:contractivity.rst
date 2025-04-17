@@ -23,7 +23,8 @@ mattingly:02:contractivity
      volume        = {47},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1137/S0040585X97979767>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0040585X97979767>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

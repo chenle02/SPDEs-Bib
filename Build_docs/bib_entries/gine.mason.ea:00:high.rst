@@ -22,7 +22,8 @@ gine.mason.ea:00:high
      volume        = {47},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-1358-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-1358-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

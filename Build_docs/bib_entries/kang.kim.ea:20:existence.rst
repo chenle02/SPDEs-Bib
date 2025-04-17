@@ -22,7 +22,8 @@ kang.kim.ea:20:existence
      volume        = {485},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2019.123750>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2019.123750>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

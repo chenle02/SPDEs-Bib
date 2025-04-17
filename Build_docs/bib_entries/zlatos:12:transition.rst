@@ -23,7 +23,8 @@ zlatos:12:transition
      volume        = {98},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.matpur.2011.11.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.matpur.2011.11.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

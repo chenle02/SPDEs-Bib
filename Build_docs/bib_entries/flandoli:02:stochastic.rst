@@ -21,4 +21,4 @@ flandoli:02:stochastic
      year          = {2002}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

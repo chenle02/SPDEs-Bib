@@ -23,7 +23,8 @@ bramson.zeitouni.ea:06:shortest
      volume        = {34},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1214/009117905000000783>`_
+
+`The URL link to the source <https://doi.org/10.1214/009117905000000783>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

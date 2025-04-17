@@ -23,7 +23,8 @@ cambanis.nolan.ea:90:on
      volume        = {35},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(90)90124-B>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(90)90124-B>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

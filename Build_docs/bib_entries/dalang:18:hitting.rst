@@ -22,7 +22,8 @@ dalang:18:hitting
      volume        = {229},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-319-74929-7\_8>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-74929-7\_8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

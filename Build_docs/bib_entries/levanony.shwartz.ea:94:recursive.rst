@@ -23,7 +23,8 @@ levanony.shwartz.ea:94:recursive
      volume        = {49},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(94)90137-6>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(94)90137-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

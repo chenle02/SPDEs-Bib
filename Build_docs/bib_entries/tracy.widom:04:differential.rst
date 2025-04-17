@@ -22,7 +22,8 @@ tracy.widom:04:differential
      volume        = {252},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-004-1182-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-004-1182-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

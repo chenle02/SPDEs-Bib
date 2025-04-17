@@ -23,7 +23,8 @@ constantin.kiselev.ea:08:diffusion
      volume        = {168},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.4007/annals.2008.168.643>`_
+
+`The URL link to the source <https://doi.org/10.4007/annals.2008.168.643>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

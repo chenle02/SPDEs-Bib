@@ -23,7 +23,8 @@ gyongy:98:existence
      volume        = {73},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1016/S0304-4149(97)00103-8>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(97)00103-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ borodin.ferrari:14:anisotropic
      volume        = {325},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-013-1823-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-013-1823-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

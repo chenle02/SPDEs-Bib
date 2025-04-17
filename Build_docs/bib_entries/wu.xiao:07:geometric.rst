@@ -23,7 +23,8 @@ wu.xiao:07:geometric
      volume        = {13},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s00041-005-5078-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00041-005-5078-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

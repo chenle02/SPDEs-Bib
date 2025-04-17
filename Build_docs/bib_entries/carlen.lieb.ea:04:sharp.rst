@@ -23,7 +23,8 @@ carlen.lieb.ea:04:sharp
      volume        = {14},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02922101>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02922101>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ cranston.molchanov.ea:14:point
      volume        = {266},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2013.10.033>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2013.10.033>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

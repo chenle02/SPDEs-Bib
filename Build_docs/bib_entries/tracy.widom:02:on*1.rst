@@ -23,7 +23,8 @@ tracy.widom:02:on*1
      volume        = {23},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1137/S0895479801395367>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0895479801395367>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

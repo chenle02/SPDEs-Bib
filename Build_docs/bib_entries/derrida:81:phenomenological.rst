@@ -21,7 +21,8 @@ derrida:81:phenomenological
      volume        = {14},
      year          = {1981}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/14/L5>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/14/L5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

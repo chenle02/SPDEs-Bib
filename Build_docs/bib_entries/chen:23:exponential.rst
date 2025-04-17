@@ -22,7 +22,8 @@ chen:23:exponential
      volume        = {28},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1214/23-ejp985>`_
+
+`The URL link to the source <https://doi.org/10.1214/23-ejp985>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

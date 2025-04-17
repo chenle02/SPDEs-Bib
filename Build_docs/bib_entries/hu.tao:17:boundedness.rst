@@ -21,7 +21,8 @@ hu.tao:17:boundedness
      volume        = {64},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1016/j.aml.2016.08.003>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.aml.2016.08.003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

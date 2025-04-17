@@ -22,7 +22,8 @@ berg.kesten:93:inequalities
      volume        = {3},
      year          = {1993}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=1050-5164(199302)3:1<56:IFTTCI>2.0.CO;2-L\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=1050-5164(199302)3:1<56:IFTTCI>2.0.CO;2-L\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

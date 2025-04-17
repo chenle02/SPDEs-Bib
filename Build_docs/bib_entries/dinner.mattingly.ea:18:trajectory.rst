@@ -22,7 +22,8 @@ dinner.mattingly.ea:18:trajectory
      volume        = {60},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1137/16M1104329>`_
+
+`The URL link to the source <https://doi.org/10.1137/16M1104329>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

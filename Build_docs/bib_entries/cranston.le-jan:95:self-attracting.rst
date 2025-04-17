@@ -23,7 +23,8 @@ cranston.le-jan:95:self-attracting
      volume        = {303},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01460980>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01460980>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

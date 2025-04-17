@@ -23,7 +23,8 @@ velazquez:04:point*1
      volume        = {64},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1137/S003613990343389X>`_
+
+`The URL link to the source <https://doi.org/10.1137/S003613990343389X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

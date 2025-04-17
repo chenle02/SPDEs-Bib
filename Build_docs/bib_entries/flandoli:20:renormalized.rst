@@ -22,7 +22,8 @@ flandoli:20:renormalized
      volume        = {20},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493720400109>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493720400109>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

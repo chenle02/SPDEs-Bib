@@ -22,7 +22,8 @@ wilkinson.edwards:82:spontaneous
      volume        = {381},
      year          = {1982}
    }
-`The URL link to the source <https://doi.org/10.1098/rspa.1982.0057>`_
+
+`The URL link to the source <https://doi.org/10.1098/rspa.1982.0057>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

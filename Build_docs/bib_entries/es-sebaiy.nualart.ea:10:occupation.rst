@@ -23,7 +23,8 @@ es-sebaiy.nualart.ea:10:occupation
      volume        = {82},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1080/17442500903045531>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442500903045531>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

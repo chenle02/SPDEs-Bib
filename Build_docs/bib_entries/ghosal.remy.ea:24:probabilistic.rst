@@ -22,7 +22,8 @@ ghosal.remy.ea:24:probabilistic
      volume        = {173},
      year          = {2024}
    }
-`The URL link to the source <https://doi.org/10.1215/00127094-2023-0031>`_
+
+`The URL link to the source <https://doi.org/10.1215/00127094-2023-0031>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

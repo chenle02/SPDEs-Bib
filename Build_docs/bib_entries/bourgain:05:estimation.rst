@@ -23,7 +23,8 @@ bourgain:05:estimation
      volume        = {340},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2005.03.008>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2005.03.008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

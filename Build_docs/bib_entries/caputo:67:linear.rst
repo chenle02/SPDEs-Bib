@@ -21,7 +21,8 @@ caputo:67:linear
      volume        = {13},
      year          = {1967}
    }
-`The URL link to the source <https://doi.org/10.1111/j.1365-246X.1967.tb02303.x>`_
+
+`The URL link to the source <https://doi.org/10.1111/j.1365-246X.1967.tb02303.x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

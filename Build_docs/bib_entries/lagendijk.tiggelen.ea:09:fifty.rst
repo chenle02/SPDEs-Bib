@@ -21,7 +21,8 @@ lagendijk.tiggelen.ea:09:fifty
      volume        = {62},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1063/1.3206091>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.3206091>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

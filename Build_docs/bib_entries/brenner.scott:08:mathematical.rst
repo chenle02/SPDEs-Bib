@@ -22,7 +22,8 @@ brenner.scott:08:mathematical
      volume        = {15},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1007/978-0-387-75934-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-0-387-75934-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

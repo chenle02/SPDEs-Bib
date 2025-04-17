@@ -22,7 +22,8 @@ bourgain:98:scattering
      volume        = {75},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02788703>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02788703>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

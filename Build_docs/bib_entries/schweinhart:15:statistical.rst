@@ -19,7 +19,8 @@ schweinhart:15:statistical
      url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:3729732},
      year          = {2015}
    }
-`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:3729732>`_
+
+`The URL link to the source <http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:3729732>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

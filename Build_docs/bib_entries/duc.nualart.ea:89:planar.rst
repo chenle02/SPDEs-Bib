@@ -22,7 +22,8 @@ duc.nualart.ea:89:planar
      volume        = {1372},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0084000>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0084000>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ dai.liu.ea:08:quantization
      volume        = {54},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1109/TIT.2007.915691>`_
+
+`The URL link to the source <https://doi.org/10.1109/TIT.2007.915691>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

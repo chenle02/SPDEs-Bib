@@ -23,7 +23,8 @@ zambotti:99:infinite-dimensional
      volume        = {17},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1080/07362999908809614>`_
+
+`The URL link to the source <https://doi.org/10.1080/07362999908809614>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

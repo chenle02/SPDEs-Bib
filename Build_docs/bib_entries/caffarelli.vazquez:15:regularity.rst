@@ -23,7 +23,8 @@ caffarelli.vazquez:15:regularity
      volume        = {27},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1090/spmj/1397>`_
+
+`The URL link to the source <https://doi.org/10.1090/spmj/1397>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

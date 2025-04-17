@@ -21,7 +21,8 @@ mytnik.xiong:15:well-posedness
      volume        = {59},
      year          = {2015}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ijm/1462450710>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1462450710>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

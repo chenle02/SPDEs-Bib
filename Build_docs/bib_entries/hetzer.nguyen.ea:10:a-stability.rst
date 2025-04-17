@@ -23,7 +23,8 @@ hetzer.nguyen.ea:10:a-stability
      volume        = {22},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s10884-010-9187-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10884-010-9187-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

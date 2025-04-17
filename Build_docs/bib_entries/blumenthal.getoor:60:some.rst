@@ -22,7 +22,8 @@ blumenthal.getoor:60:some
      volume        = {95},
      year          = {1960}
    }
-`The URL link to the source <https://doi.org/10.2307/1993291>`_
+
+`The URL link to the source <https://doi.org/10.2307/1993291>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

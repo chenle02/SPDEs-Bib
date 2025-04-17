@@ -22,7 +22,8 @@ frangos.nualart.ea:92:on
      volume        = {176},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0007324>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0007324>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ lan.xiao:19:regularity
      volume        = {476},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2019.01.077>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2019.01.077>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

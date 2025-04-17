@@ -23,7 +23,8 @@ dahlberg.kenig:87:hardy
      volume        = {125},
      year          = {1987}
    }
-`The URL link to the source <https://doi.org/10.2307/1971407>`_
+
+`The URL link to the source <https://doi.org/10.2307/1971407>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ cranston.mountford:96:strong
      volume        = {24},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1065725183>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1065725183>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

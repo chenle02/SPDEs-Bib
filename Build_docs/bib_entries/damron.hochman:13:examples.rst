@@ -23,7 +23,8 @@ damron.hochman:13:examples
      volume        = {23},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1214/12-AAP864>`_
+
+`The URL link to the source <https://doi.org/10.1214/12-AAP864>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

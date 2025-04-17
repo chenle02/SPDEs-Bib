@@ -23,7 +23,8 @@ burczak.granero-belinchon:17:suppression
      volume        = {263},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2017.07.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2017.07.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

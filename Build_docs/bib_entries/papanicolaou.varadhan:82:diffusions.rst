@@ -19,4 +19,4 @@ papanicolaou.varadhan:82:diffusions
      year          = {1982}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

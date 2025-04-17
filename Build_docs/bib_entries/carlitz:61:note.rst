@@ -22,7 +22,8 @@ carlitz:61:note
      volume        = {12},
      year          = {1961}
    }
-`The URL link to the source <https://doi.org/10.2307/2034394>`_
+
+`The URL link to the source <https://doi.org/10.2307/2034394>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

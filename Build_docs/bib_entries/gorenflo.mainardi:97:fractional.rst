@@ -21,4 +21,4 @@ gorenflo.mainardi:97:fractional
      year          = {1997}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

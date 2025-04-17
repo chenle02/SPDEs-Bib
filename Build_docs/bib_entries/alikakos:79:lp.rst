@@ -23,7 +23,8 @@ alikakos:79:lp
      volume        = {4},
      year          = {1979}
    }
-`The URL link to the source <https://doi.org/10.1080/03605307908820113>`_
+
+`The URL link to the source <https://doi.org/10.1080/03605307908820113>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

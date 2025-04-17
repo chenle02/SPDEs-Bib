@@ -23,7 +23,8 @@ oksendal.proske.ea:05:backward
      volume        = {77},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1080/17442500500213797>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442500500213797>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

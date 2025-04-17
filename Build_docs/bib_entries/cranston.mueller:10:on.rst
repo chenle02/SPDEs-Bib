@@ -22,7 +22,8 @@ cranston.mueller:10:on
      volume        = {54},
      year          = {2010}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ijm/1348505530>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1348505530>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

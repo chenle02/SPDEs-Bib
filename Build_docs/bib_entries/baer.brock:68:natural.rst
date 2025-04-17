@@ -22,7 +22,8 @@ baer.brock:68:natural
      volume        = {22},
      year          = {1968}
    }
-`The URL link to the source <https://doi.org/10.2307/2004668>`_
+
+`The URL link to the source <https://doi.org/10.2307/2004668>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

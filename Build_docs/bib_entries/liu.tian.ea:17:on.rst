@@ -23,7 +23,8 @@ liu.tian.ea:17:on
      volume        = {30},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-016-0684-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-016-0684-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

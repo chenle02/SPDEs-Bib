@@ -22,7 +22,8 @@ ishida.ono.ea:13:possibility
      volume        = {36},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1002/mma.2622>`_
+
+`The URL link to the source <https://doi.org/10.1002/mma.2622>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

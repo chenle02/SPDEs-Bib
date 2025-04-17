@@ -23,7 +23,8 @@ xu.zhang:09:white
      volume        = {119},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2009.06.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2009.06.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

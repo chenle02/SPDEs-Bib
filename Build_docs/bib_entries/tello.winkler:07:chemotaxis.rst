@@ -22,7 +22,8 @@ tello.winkler:07:chemotaxis
      volume        = {32},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1080/03605300701319003>`_
+
+`The URL link to the source <https://doi.org/10.1080/03605300701319003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

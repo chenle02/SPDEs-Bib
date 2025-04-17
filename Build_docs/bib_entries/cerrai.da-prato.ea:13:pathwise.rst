@@ -23,7 +23,8 @@ cerrai.da-prato.ea:13:pathwise
      volume        = {1},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-013-0016-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-013-0016-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

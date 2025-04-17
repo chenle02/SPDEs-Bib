@@ -23,7 +23,8 @@ bessaih.flandoli:99:2-d
      volume        = {6},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1007/s000300050063>`_
+
+`The URL link to the source <https://doi.org/10.1007/s000300050063>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

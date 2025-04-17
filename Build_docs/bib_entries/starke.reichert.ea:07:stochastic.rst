@@ -20,7 +20,8 @@ starke.reichert.ea:07:stochastic
      url           = {https://doi.org/10.1007/978-3-540-28396-6\_13},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-540-28396-6\_13>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-540-28396-6\_13>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

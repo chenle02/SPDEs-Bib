@@ -22,7 +22,8 @@ hausenblas.mukherjee.ea:22:one-dimensional
      volume        = {310},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2021.10.056>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2021.10.056>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

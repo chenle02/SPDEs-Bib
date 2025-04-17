@@ -22,7 +22,8 @@ ambj-rn.durhuus.ea:94:solvable
      volume        = {9},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1142/S0217732394001040>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0217732394001040>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

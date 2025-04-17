@@ -23,7 +23,8 @@ kuehn.romano:19:scaling
      volume        = {30},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1017/s0956792518000438>`_
+
+`The URL link to the source <https://doi.org/10.1017/s0956792518000438>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

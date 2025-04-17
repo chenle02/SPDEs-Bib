@@ -23,7 +23,8 @@ kuelbs.li.ea:94:gaussian
      volume        = {98},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01192511>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01192511>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ ahmed.fuhrman.ea:97:on
      volume        = {143},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.1996.2970>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.1996.2970>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

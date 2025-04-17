@@ -23,7 +23,8 @@ bourgain:05:anderson-bernoulli
      volume        = {5},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.17323/1609-4514-2005-5-3-523-536>`_
+
+`The URL link to the source <https://doi.org/10.17323/1609-4514-2005-5-3-523-536>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

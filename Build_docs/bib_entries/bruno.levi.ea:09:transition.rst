@@ -21,7 +21,8 @@ bruno.levi.ea:09:transition
      volume        = {80},
      year          = {2009}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevE.80.011912>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevE.80.011912>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,8 @@ lahiri:03:necessary
      volume        = {31},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1214/aos/1051027883>`_
+
+`The URL link to the source <https://doi.org/10.1214/aos/1051027883>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

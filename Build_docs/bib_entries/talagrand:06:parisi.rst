@@ -22,7 +22,8 @@ talagrand:06:parisi
      volume        = {231},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2005.03.001>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2005.03.001>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

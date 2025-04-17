@@ -23,7 +23,8 @@ baker.forrester:97:finite-n
      volume        = {88},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02732439>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02732439>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

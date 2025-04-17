@@ -23,7 +23,8 @@ cooke.herzog.ea:17:geometric
      volume        = {15},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.4310/CMS.2017.v15.n7.a10>`_
+
+`The URL link to the source <https://doi.org/10.4310/CMS.2017.v15.n7.a10>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

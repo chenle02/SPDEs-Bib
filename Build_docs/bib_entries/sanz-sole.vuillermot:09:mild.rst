@@ -23,7 +23,8 @@ sanz-sole.vuillermot:09:mild
      volume        = {9},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s00028-009-0014-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00028-009-0014-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ del-pino.dolbeault:02:best
      volume        = {81},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1016/S0021-7824(02)01266-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0021-7824(02)01266-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

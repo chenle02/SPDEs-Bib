@@ -22,7 +22,8 @@ mantzaris.webb.ea:04:mathematical
      volume        = {49},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/s00285-003-0262-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00285-003-0262-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

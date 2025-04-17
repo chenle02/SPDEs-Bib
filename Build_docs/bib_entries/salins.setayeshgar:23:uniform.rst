@@ -23,7 +23,8 @@ salins.setayeshgar:23:uniform
      volume        = {58},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1007/s11118-021-09936-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11118-021-09936-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ comets.cranston:13:overlaps
      volume        = {123},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2013.02.010>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2013.02.010>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

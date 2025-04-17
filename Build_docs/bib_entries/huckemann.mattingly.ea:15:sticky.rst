@@ -21,7 +21,8 @@ huckemann.mattingly.ea:15:sticky
      volume        = {20},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1214/EJP.v20-3887>`_
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v20-3887>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

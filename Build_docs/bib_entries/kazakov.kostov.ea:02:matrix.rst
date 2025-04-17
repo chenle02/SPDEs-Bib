@@ -22,7 +22,8 @@ kazakov.kostov.ea:02:matrix
      volume        = {622},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1016/S0550-3213(01)00606-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0550-3213(01)00606-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

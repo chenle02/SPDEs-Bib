@@ -23,7 +23,8 @@ berglund.gentz:02:sample-paths
      volume        = {12},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1214/aoap/1037125869>`_
+
+`The URL link to the source <https://doi.org/10.1214/aoap/1037125869>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

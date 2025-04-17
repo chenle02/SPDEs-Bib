@@ -23,7 +23,8 @@ onyido.shen:23:non-local
      volume        = {16},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdss.2022145>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdss.2022145>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

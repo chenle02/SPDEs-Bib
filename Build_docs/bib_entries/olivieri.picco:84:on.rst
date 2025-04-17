@@ -22,7 +22,8 @@ olivieri.picco:84:on
      volume        = {96},
      year          = {1984}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103941722>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103941722>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

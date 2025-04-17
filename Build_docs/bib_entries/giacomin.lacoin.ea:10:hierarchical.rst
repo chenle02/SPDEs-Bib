@@ -23,7 +23,8 @@ giacomin.lacoin.ea:10:hierarchical
      volume        = {147},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-009-0205-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-009-0205-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

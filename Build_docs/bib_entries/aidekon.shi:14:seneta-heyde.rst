@@ -23,7 +23,8 @@ aidekon.shi:14:seneta-heyde
      volume        = {42},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1214/12-AOP809>`_
+
+`The URL link to the source <https://doi.org/10.1214/12-AOP809>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

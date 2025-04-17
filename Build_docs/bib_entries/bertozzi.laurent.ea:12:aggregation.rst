@@ -23,7 +23,8 @@ bertozzi.laurent.ea:12:aggregation
      volume        = {22},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1142/S0218202511400057>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0218202511400057>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

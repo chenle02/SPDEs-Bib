@@ -23,7 +23,8 @@ shen:03:traveling
      volume        = {54},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1016/S0362-546X(03)00065-8>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0362-546X(03)00065-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

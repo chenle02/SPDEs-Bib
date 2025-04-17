@@ -23,7 +23,8 @@ duncan.pasik-duncan.ea:02:fractional
      volume        = {2},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493702000340>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493702000340>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

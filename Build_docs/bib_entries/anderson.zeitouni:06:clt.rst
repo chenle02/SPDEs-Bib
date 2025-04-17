@@ -23,7 +23,8 @@ anderson.zeitouni:06:clt
      volume        = {134},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-004-0422-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-004-0422-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ feller:52:parabolic
      volume        = {55},
      year          = {1952}
    }
-`The URL link to the source <https://doi.org/10.2307/1969644>`_
+
+`The URL link to the source <https://doi.org/10.2307/1969644>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

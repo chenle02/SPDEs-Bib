@@ -22,7 +22,8 @@ davie:07:uniqueness
      url           = {https://doi.org/10.1093/imrn/rnm124},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1093/imrn/rnm124>`_
+
+`The URL link to the source <https://doi.org/10.1093/imrn/rnm124>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

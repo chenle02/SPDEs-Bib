@@ -23,7 +23,8 @@ herrmann.imkeller.ea:14:stochastic
      volume        = {194},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1090/surv/194>`_
+
+`The URL link to the source <https://doi.org/10.1090/surv/194>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

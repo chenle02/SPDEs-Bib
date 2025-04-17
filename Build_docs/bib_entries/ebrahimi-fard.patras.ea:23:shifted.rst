@@ -22,7 +22,8 @@ ebrahimi-fard.patras.ea:23:shifted
      volume        = {19},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.3842/SIGMA.2023.038>`_
+
+`The URL link to the source <https://doi.org/10.3842/SIGMA.2023.038>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

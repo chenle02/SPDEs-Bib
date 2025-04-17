@@ -23,7 +23,8 @@ cook.derrida:91:finite-size
      volume        = {63},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01029198>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01029198>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

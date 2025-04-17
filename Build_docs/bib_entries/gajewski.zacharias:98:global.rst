@@ -22,7 +22,8 @@ gajewski.zacharias:98:global
      volume        = {195},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1002/mana.19981950106>`_
+
+`The URL link to the source <https://doi.org/10.1002/mana.19981950106>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

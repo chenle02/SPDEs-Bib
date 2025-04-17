@@ -23,7 +23,8 @@ cruzeiro.flandoli.ea:07:brownian
      volume        = {242},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2006.06.010>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2006.06.010>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

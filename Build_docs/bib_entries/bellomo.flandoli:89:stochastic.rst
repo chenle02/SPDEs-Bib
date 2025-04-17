@@ -22,7 +22,8 @@ bellomo.flandoli:89:stochastic
      volume        = {31},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1016/0378-4754(89)90049-9>`_
+
+`The URL link to the source <https://doi.org/10.1016/0378-4754(89)90049-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ peled.sen.ea:16:double
      volume        = {213},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s11856-016-1328-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11856-016-1328-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

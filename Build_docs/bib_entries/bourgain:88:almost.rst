@@ -23,7 +23,8 @@ bourgain:88:almost
      volume        = {63},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02765022>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02765022>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

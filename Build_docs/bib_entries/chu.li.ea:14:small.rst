@@ -23,7 +23,8 @@ chu.li.ea:14:small
      volume        = {20},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.3150/12-BEJ490>`_
+
+`The URL link to the source <https://doi.org/10.3150/12-BEJ490>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

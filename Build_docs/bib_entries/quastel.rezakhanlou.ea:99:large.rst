@@ -23,7 +23,8 @@ quastel.rezakhanlou.ea:99:large
      volume        = {113},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1007/s004400050202>`_
+
+`The URL link to the source <https://doi.org/10.1007/s004400050202>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

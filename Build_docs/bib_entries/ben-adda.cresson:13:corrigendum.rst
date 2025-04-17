@@ -22,7 +22,8 @@ ben-adda.cresson:13:corrigendum
      volume        = {408},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2013.06.027>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2013.06.027>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

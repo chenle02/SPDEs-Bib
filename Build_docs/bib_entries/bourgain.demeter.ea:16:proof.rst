@@ -23,7 +23,8 @@ bourgain.demeter.ea:16:proof
      volume        = {184},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.4007/annals.2016.184.2.7>`_
+
+`The URL link to the source <https://doi.org/10.4007/annals.2016.184.2.7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

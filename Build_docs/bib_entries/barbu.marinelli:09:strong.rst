@@ -23,7 +23,8 @@ barbu.marinelli:09:strong
      volume        = {12},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219025709003732>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219025709003732>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

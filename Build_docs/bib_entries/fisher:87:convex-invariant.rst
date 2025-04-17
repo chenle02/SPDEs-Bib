@@ -23,7 +23,8 @@ fisher:87:convex-invariant
      volume        = {63},
      year          = {1987}
    }
-`The URL link to the source <https://doi.org/10.1016/0001-8708(87)90054-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0001-8708(87)90054-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

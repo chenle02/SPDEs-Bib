@@ -23,7 +23,8 @@ tracy.grove.ea:87:modular
      volume        = {48},
      year          = {1987}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01019683>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01019683>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

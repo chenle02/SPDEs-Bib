@@ -22,7 +22,8 @@ chorin.kast.ea:98:optimal
      volume        = {95},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1073/pnas.95.8.4094>`_
+
+`The URL link to the source <https://doi.org/10.1073/pnas.95.8.4094>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

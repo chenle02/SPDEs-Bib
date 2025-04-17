@@ -23,7 +23,8 @@ cerrai.debussche:19:large*1
      volume        = {55},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1214/17-aihp881>`_
+
+`The URL link to the source <https://doi.org/10.1214/17-aihp881>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

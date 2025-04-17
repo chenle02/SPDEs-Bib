@@ -23,7 +23,8 @@ hetzer.shen:01:convergence
      volume        = {262},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1006/jmaa.2001.7582>`_
+
+`The URL link to the source <https://doi.org/10.1006/jmaa.2001.7582>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

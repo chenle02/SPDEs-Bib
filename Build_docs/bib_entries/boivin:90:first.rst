@@ -22,7 +22,8 @@ boivin:90:first
      volume        = {86},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01198171>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01198171>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

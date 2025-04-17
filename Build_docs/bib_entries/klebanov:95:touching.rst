@@ -23,7 +23,8 @@ klebanov:95:touching
      volume        = {51},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevD.51.1836>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevD.51.1836>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ barndorff-nielsen.stelzer:11:multivariate
      volume        = {21},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1214/10-AAP690>`_
+
+`The URL link to the source <https://doi.org/10.1214/10-AAP690>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

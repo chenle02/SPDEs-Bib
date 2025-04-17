@@ -21,4 +21,4 @@ kesten.ney.ea:66:galton-watson
      year          = {1966}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

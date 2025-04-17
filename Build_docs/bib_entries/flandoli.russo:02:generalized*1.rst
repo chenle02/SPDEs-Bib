@@ -23,7 +23,8 @@ flandoli.russo:02:generalized*1
      volume        = {30},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1020107768>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1020107768>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

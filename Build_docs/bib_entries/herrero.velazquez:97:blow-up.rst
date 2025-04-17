@@ -22,7 +22,8 @@ herrero.velazquez:97:blow-up
      volume        = {24},
      year          = {1997}
    }
-`The URL link to the source <http://www.numdam.org/item?id=ASNSP\_1997\_4\_24\_4\_633\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=ASNSP\_1997\_4\_24\_4\_633\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ lin.seppalainen:12:properties
      volume        = {122},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2011.08.015>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2011.08.015>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

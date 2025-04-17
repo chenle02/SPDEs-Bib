@@ -23,7 +23,8 @@ darses.nourdin.ea:09:differentiating
      volume        = {81},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1080/17442500802270768>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442500802270768>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

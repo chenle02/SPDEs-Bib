@@ -23,7 +23,8 @@ sanz-sole.vuillermot:02:holder-sobolev
      volume        = {334},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1016/S1631-073X(02)02359-2>`_
+
+`The URL link to the source <https://doi.org/10.1016/S1631-073X(02)02359-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

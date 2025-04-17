@@ -23,7 +23,8 @@ khoshnevisan:94:discrete
      volume        = {120},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.2307/2159899>`_
+
+`The URL link to the source <https://doi.org/10.2307/2159899>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

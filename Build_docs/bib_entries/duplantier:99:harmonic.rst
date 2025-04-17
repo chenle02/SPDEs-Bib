@@ -22,7 +22,8 @@ duplantier:99:harmonic
      volume        = {82},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevLett.82.3940>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.82.3940>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

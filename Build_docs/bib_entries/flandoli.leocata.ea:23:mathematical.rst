@@ -21,7 +21,8 @@ flandoli.leocata.ea:23:mathematical
      volume        = {562},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jtbi.2023.111432>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jtbi.2023.111432>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

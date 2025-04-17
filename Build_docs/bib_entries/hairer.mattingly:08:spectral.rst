@@ -23,7 +23,8 @@ hairer.mattingly:08:spectral
      volume        = {36},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1214/08-AOP392>`_
+
+`The URL link to the source <https://doi.org/10.1214/08-AOP392>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

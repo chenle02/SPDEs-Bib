@@ -23,7 +23,8 @@ sethuraman.varadhan.ea:00:diffusive
      volume        = {53},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1002/1097-0312(200008)53:8<972::AID-CPA2>3.0.CO;2-\#>`_
+
+`The URL link to the source <https://doi.org/10.1002/1097-0312(200008)53:8<972::AID-CPA2>3.0.CO;2-\#>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

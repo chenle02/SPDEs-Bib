@@ -22,7 +22,8 @@ mazya.mitrea.ea:10:dirichlet
      volume        = {110},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s11854-010-0005-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11854-010-0005-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

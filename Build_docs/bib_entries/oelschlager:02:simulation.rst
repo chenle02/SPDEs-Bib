@@ -23,7 +23,8 @@ oelschlager:02:simulation
      volume        = {40},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036142900363377>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036142900363377>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

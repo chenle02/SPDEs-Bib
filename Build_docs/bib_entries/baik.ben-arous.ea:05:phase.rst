@@ -23,7 +23,8 @@ baik.ben-arous.ea:05:phase
      volume        = {33},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1214/009117905000000233>`_
+
+`The URL link to the source <https://doi.org/10.1214/009117905000000233>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

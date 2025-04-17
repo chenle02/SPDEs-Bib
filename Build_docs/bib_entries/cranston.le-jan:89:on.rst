@@ -22,7 +22,8 @@ cranston.le-jan:89:on
      volume        = {25},
      year          = {1989}
    }
-`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1989\_\_25\_2\_99\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1989\_\_25\_2\_99\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

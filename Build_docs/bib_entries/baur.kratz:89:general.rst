@@ -23,7 +23,8 @@ baur.kratz:89:general
      volume        = {38},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02850019>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02850019>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

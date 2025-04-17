@@ -23,7 +23,8 @@ perry.sigal.ea:81:spectral
      volume        = {114},
      year          = {1981}
    }
-`The URL link to the source <https://doi.org/10.2307/1971301>`_
+
+`The URL link to the source <https://doi.org/10.2307/1971301>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ krupski:17:scaling
      volume        = {17},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493717500198>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493717500198>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

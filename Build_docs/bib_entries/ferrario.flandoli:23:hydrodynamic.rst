@@ -22,7 +22,8 @@ ferrario.flandoli:23:hydrodynamic
      volume        = {377},
      year          = {[2023] \copyright 2023}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-031-14031-0\_11>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-031-14031-0\_11>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

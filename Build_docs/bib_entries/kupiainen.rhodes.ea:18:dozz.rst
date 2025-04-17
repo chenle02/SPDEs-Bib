@@ -22,7 +22,8 @@ kupiainen.rhodes.ea:18:dozz
      url           = {https://doi.org/10.1007/jhep05(2018)094},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1007/jhep05(2018)094>`_
+
+`The URL link to the source <https://doi.org/10.1007/jhep05(2018)094>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

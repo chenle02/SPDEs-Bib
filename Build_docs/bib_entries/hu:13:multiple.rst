@@ -23,7 +23,8 @@ hu:13:multiple
      volume        = {85},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1080/17442508.2012.673615>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442508.2012.673615>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

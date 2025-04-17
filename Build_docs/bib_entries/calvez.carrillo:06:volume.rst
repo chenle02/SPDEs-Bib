@@ -23,7 +23,8 @@ calvez.carrillo:06:volume
      volume        = {86},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1016/j.matpur.2006.04.002>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.matpur.2006.04.002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ berger.lacoin:11:effect
      volume        = {142},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-010-0110-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-010-0110-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

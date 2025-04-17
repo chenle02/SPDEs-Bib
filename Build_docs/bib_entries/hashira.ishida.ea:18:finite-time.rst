@@ -22,7 +22,8 @@ hashira.ishida.ea:18:finite-time
      volume        = {264},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2018.01.038>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2018.01.038>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

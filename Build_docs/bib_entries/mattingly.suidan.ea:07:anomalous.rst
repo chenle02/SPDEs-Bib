@@ -23,7 +23,8 @@ mattingly.suidan.ea:07:anomalous
      volume        = {128},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-007-9351-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-007-9351-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

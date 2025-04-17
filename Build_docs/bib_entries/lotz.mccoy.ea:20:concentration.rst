@@ -21,7 +21,8 @@ lotz.mccoy.ea:20:concentration
      volume        = {2266},
      year          = {[2020] \copyright 2020}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-030-46762-3\_6>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-030-46762-3\_6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

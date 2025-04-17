@@ -22,7 +22,8 @@ benedetto.caglioti.ea:98:non-maxwellian
      volume        = {91},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1023032000560>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1023032000560>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

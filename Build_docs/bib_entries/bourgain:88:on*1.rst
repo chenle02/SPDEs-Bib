@@ -23,7 +23,8 @@ bourgain:88:on*1
      volume        = {61},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02776302>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02776302>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

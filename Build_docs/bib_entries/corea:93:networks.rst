@@ -14,4 +14,4 @@ corea:93:networks
      year          = {1993}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

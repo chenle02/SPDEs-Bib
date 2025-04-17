@@ -21,7 +21,8 @@ barral.seuret:07:information
      volume        = {32},
      year          = {2007}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.rae/1199377482>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.rae/1199377482>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

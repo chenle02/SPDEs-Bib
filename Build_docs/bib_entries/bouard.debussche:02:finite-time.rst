@@ -22,7 +22,8 @@ bouard.debussche:02:finite-time
      volume        = {301},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1090/conm/301/05164>`_
+
+`The URL link to the source <https://doi.org/10.1090/conm/301/05164>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

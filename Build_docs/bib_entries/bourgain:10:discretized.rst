@@ -22,7 +22,8 @@ bourgain:10:discretized
      volume        = {112},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s11854-010-0028-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11854-010-0028-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

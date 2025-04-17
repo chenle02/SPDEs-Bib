@@ -23,7 +23,8 @@ souplet.winkler:19:blow-up
      volume        = {367},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-018-3238-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-018-3238-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

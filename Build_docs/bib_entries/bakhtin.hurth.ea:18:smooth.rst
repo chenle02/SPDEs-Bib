@@ -23,7 +23,8 @@ bakhtin.hurth.ea:18:smooth
      volume        = {31},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1088/1361-6544/aaa04f>`_
+
+`The URL link to the source <https://doi.org/10.1088/1361-6544/aaa04f>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

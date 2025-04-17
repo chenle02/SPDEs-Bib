@@ -23,7 +23,8 @@ nourdin.nualart:20:functional
      volume        = {176},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-019-00917-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-019-00917-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

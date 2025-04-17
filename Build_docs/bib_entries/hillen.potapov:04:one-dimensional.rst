@@ -22,7 +22,8 @@ hillen.potapov:04:one-dimensional
      volume        = {27},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1002/mma.569>`_
+
+`The URL link to the source <https://doi.org/10.1002/mma.569>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

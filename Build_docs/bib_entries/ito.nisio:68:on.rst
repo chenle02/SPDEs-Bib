@@ -21,7 +21,8 @@ ito.nisio:68:on
      volume        = {5},
      year          = {1968}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200692040>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200692040>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

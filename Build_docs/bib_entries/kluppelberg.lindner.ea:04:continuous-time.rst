@@ -23,7 +23,8 @@ kluppelberg.lindner.ea:04:continuous-time
      volume        = {41},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1017/s0021900200020428>`_
+
+`The URL link to the source <https://doi.org/10.1017/s0021900200020428>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

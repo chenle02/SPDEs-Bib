@@ -22,7 +22,8 @@ gu.bal:15:homogenization
      volume        = {125},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2014.07.024>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2014.07.024>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

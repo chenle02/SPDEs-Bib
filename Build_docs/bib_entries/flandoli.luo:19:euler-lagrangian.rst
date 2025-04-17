@@ -22,7 +22,8 @@ flandoli.luo:19:euler-lagrangian
      volume        = {11},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.3934/jgm.2019008>`_
+
+`The URL link to the source <https://doi.org/10.3934/jgm.2019008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

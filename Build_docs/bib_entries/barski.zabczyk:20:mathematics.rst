@@ -21,7 +21,8 @@ barski.zabczyk:20:mathematics
      volume        = {174},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1017/9781316181836>`_
+
+`The URL link to the source <https://doi.org/10.1017/9781316181836>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

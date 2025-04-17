@@ -20,4 +20,4 @@ prudnikov.brychkov.ea:88:integrals
      year          = {1988}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

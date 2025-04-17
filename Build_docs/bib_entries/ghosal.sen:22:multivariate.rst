@@ -22,7 +22,8 @@ ghosal.sen:22:multivariate
      volume        = {50},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1214/21-aos2136>`_
+
+`The URL link to the source <https://doi.org/10.1214/21-aos2136>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

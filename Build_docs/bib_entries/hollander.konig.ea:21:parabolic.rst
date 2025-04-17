@@ -21,7 +21,8 @@ hollander.konig.ea:21:parabolic
      volume        = {77},
      year          = {[2021] \copyright 2021}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-030-60754-8\_25>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-030-60754-8\_25>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

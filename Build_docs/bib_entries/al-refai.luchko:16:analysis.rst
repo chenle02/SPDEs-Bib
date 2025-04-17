@@ -22,7 +22,8 @@ al-refai.luchko:16:analysis
      volume        = {36},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1515/anly-2015-5011>`_
+
+`The URL link to the source <https://doi.org/10.1515/anly-2015-5011>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

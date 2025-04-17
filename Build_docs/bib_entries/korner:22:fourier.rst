@@ -21,7 +21,8 @@ korner:22:fourier
      url           = {https://doi.org/10.1017/9781009230063},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1017/9781009230063>`_
+
+`The URL link to the source <https://doi.org/10.1017/9781009230063>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

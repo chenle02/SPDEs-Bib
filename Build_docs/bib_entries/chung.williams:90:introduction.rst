@@ -21,7 +21,8 @@ chung.williams:90:introduction
      url           = {https://doi.org/10.1007/978-1-4612-4480-6},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-4480-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-4480-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

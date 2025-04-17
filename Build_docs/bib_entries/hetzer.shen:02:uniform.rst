@@ -23,7 +23,8 @@ hetzer.shen:02:uniform
      volume        = {34},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036141001390695>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036141001390695>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

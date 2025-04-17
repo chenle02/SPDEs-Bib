@@ -22,7 +22,8 @@ henry.hilhorst.ea:99:convergence
      volume        = {29},
      year          = {1999}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.hmj/1206124856>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.hmj/1206124856>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

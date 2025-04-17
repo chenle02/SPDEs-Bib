@@ -23,7 +23,8 @@ millet.nualart:92:support
      volume        = {39},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1080/17442509208833760>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442509208833760>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

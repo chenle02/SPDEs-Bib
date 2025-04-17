@@ -22,7 +22,8 @@ kampen:76:stochastic
      volume        = {24},
      year          = {1976}
    }
-`The URL link to the source <https://doi.org/10.1016/0370-1573(76)90029-6>`_
+
+`The URL link to the source <https://doi.org/10.1016/0370-1573(76)90029-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

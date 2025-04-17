@@ -23,7 +23,8 @@ borodin.corwin.ea:13:log-gamma
      volume        = {324},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-013-1750-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-013-1750-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

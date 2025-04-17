@@ -18,4 +18,4 @@ aksakalli.ceyhan:12:optimal*1
      year          = {2012}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

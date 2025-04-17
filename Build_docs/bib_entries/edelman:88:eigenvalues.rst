@@ -23,7 +23,8 @@ edelman:88:eigenvalues
      volume        = {9},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1137/0609045>`_
+
+`The URL link to the source <https://doi.org/10.1137/0609045>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

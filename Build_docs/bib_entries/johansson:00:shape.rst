@@ -23,7 +23,8 @@ johansson:00:shape
      volume        = {209},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/s002200050027>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002200050027>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ hairer.hutzenthaler.ea:15:loss
      volume        = {43},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1214/13-AOP838>`_
+
+`The URL link to the source <https://doi.org/10.1214/13-AOP838>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ tracy.widom:10:formulas
      volume        = {51},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1063/1.3431977>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.3431977>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

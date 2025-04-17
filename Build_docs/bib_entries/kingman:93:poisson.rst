@@ -22,4 +22,4 @@ kingman:93:poisson
      year          = {1993}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

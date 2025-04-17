@@ -23,7 +23,8 @@ luchko.kiryakova:13:mellin
      volume        = {16},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.2478/s13540-013-0025-8>`_
+
+`The URL link to the source <https://doi.org/10.2478/s13540-013-0025-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

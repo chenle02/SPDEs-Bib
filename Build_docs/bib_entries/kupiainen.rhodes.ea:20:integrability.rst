@@ -23,7 +23,8 @@ kupiainen.rhodes.ea:20:integrability
      volume        = {191},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.4007/annals.2020.191.1.2>`_
+
+`The URL link to the source <https://doi.org/10.4007/annals.2020.191.1.2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

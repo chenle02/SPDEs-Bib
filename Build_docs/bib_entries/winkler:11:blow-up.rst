@@ -23,7 +23,8 @@ winkler:11:blow-up
      volume        = {384},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2011.05.057>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2011.05.057>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

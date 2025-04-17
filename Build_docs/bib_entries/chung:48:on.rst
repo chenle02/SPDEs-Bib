@@ -22,7 +22,8 @@ chung:48:on
      volume        = {64},
      year          = {1948}
    }
-`The URL link to the source <https://doi.org/10.2307/1990499>`_
+
+`The URL link to the source <https://doi.org/10.2307/1990499>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

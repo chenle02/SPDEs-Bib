@@ -23,7 +23,8 @@ bourgain:81:new
      volume        = {39},
      year          = {1981}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02762857>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02762857>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

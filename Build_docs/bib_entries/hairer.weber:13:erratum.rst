@@ -23,7 +23,8 @@ hairer.weber:13:erratum
      volume        = {157},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-013-0538-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-013-0538-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ schutz:97:exact
      volume        = {88},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02508478>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02508478>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

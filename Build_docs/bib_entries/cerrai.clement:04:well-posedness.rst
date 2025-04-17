@@ -23,7 +23,8 @@ cerrai.clement:04:well-posedness
      volume        = {128},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1016/j.bulsci.2004.03.004>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.bulsci.2004.03.004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

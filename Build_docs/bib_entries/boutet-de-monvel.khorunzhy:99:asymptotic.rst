@@ -23,7 +23,8 @@ boutet-de-monvel.khorunzhy:99:asymptotic
      volume        = {7},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1515/rose.1999.7.2.149>`_
+
+`The URL link to the source <https://doi.org/10.1515/rose.1999.7.2.149>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,8 @@ edelsbrunner.letscher.ea:02:topological
      volume        = {28},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1007/s00454-002-2885-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00454-002-2885-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ du.miao.ea:15:packing
      volume        = {106},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spl.2015.07.020>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2015.07.020>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

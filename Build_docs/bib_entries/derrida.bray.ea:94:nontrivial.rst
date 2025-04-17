@@ -21,7 +21,8 @@ derrida.bray.ea:94:nontrivial
      volume        = {27},
      year          = {1994}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/27/L357>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/27/L357>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

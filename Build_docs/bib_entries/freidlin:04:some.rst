@@ -23,7 +23,8 @@ freidlin:04:some
      volume        = {117},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-004-2273-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-004-2273-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

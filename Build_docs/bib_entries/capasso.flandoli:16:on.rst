@@ -22,7 +22,8 @@ capasso.flandoli:16:on
      volume        = {4},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.2140/memocs.2016.4.373>`_
+
+`The URL link to the source <https://doi.org/10.2140/memocs.2016.4.373>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

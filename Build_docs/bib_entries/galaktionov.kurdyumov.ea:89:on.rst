@@ -23,7 +23,8 @@ galaktionov.kurdyumov.ea:89:on
      volume        = {180},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1070/SM1990v067n02ABEH002091>`_
+
+`The URL link to the source <https://doi.org/10.1070/SM1990v067n02ABEH002091>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

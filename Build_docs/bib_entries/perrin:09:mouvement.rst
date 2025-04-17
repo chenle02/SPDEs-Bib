@@ -17,4 +17,4 @@ perrin:09:mouvement
      year          = {1909}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

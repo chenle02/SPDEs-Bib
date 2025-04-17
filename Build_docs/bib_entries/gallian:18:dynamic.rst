@@ -14,7 +14,8 @@ gallian:18:dynamic
      url           = {http://www.combinatorics.org/ojs/index.php/eljc/article/viewFile/DS6/pdf},
      year          = {2018}
    }
-`The URL link to the source <http://www.combinatorics.org/ojs/index.php/eljc/article/viewFile/DS6/pdf>`_
+
+`The URL link to the source <http://www.combinatorics.org/ojs/index.php/eljc/article/viewFile/DS6/pdf>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

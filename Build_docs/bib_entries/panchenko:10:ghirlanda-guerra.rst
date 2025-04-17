@@ -22,7 +22,8 @@ panchenko:10:ghirlanda-guerra
      volume        = {348},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2010.02.004>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2010.02.004>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ luchko:15:wave-diffusion
      volume        = {293},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jcp.2014.06.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jcp.2014.06.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ kochubeui:91:parabolic
      volume        = {55},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1070/IM1992v039n03ABEH002247>`_
+
+`The URL link to the source <https://doi.org/10.1070/IM1992v039n03ABEH002247>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

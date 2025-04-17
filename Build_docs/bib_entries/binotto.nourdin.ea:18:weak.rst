@@ -23,7 +23,8 @@ binotto.nourdin.ea:18:weak
      volume        = {46},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1214/17-AOP1227>`_
+
+`The URL link to the source <https://doi.org/10.1214/17-AOP1227>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

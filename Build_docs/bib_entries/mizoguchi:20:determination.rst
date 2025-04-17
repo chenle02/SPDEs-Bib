@@ -23,7 +23,8 @@ mizoguchi:20:determination
      volume        = {376},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s00208-018-1772-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00208-018-1772-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

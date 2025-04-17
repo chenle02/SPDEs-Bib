@@ -23,7 +23,8 @@ gomez.lee.ea:13:strong
      volume        = {83},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spl.2013.06.010>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2013.06.010>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

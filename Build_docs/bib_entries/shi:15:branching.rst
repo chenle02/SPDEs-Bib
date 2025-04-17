@@ -23,7 +23,8 @@ shi:15:branching
      volume        = {2151},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-319-25372-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-25372-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

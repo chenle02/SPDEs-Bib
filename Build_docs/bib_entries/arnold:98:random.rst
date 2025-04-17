@@ -21,7 +21,8 @@ arnold:98:random
      url           = {https://doi.org/10.1007/978-3-662-12878-7},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-662-12878-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-662-12878-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

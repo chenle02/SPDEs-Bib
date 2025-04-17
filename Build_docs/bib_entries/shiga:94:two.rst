@@ -23,7 +23,8 @@ shiga:94:two
      volume        = {46},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.4153/CJM-1994-022-8>`_
+
+`The URL link to the source <https://doi.org/10.4153/CJM-1994-022-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

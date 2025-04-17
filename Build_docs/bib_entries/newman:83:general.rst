@@ -22,7 +22,8 @@ newman:83:general
      volume        = {91},
      year          = {1983}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103940474>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103940474>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

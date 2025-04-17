@@ -20,7 +20,8 @@ salins:22:global*1
      volume        = {27},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1214/22-ejp740>`_
+
+`The URL link to the source <https://doi.org/10.1214/22-ejp740>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

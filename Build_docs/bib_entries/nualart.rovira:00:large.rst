@@ -23,7 +23,8 @@ nualart.rovira:00:large
      volume        = {6},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.2307/3318580>`_
+
+`The URL link to the source <https://doi.org/10.2307/3318580>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

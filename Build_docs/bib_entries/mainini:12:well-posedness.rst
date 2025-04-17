@@ -23,7 +23,8 @@ mainini:12:well-posedness
      volume        = {19},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00030-011-0121-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00030-011-0121-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

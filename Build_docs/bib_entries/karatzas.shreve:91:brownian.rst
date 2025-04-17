@@ -22,7 +22,8 @@ karatzas.shreve:91:brownian
      volume        = {113},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-0949-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-0949-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

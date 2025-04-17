@@ -21,7 +21,8 @@ friedman:58:remarks
      volume        = {8},
      year          = {1958}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.pjm/1103040096>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.pjm/1103040096>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

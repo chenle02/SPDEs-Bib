@@ -23,7 +23,8 @@ deift.zhou:02:perturbation
      volume        = {188},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02392683>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02392683>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

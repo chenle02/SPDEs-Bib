@@ -23,7 +23,8 @@ marquez-carreras.rovira.ea:06:asymptotic
      volume        = {42},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1016/j.anihpb.2005.04.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.anihpb.2005.04.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

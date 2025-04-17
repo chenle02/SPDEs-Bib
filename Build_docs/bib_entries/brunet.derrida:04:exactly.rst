@@ -22,7 +22,8 @@ brunet.derrida:04:exactly
      volume        = {70},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevE.70.016106>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.70.016106>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

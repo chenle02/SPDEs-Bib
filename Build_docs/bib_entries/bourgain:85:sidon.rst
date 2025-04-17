@@ -22,7 +22,8 @@ bourgain:85:sidon
      volume        = {35},
      year          = {1985}
    }
-`The URL link to the source <http://www.numdam.org/item?id=AIF\_1985\_\_35\_1\_137\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=AIF\_1985\_\_35\_1\_137\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

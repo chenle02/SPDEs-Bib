@@ -22,7 +22,8 @@ khoshnevisan.lewis:96:chungs
      volume        = {32},
      year          = {1996}
    }
-`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1996\_\_32\_3\_349\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1996\_\_32\_3\_349\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -20,7 +20,8 @@ bessaih.flandoli:03:mean
      url           = {https://doi.org/10.1142/9789812703989\_0002},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1142/9789812703989\_0002>`_
+
+`The URL link to the source <https://doi.org/10.1142/9789812703989\_0002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

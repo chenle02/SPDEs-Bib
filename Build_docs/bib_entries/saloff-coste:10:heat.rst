@@ -22,7 +22,8 @@ saloff-coste:10:heat
      volume        = {57},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.2969/aspm/05710405>`_
+
+`The URL link to the source <https://doi.org/10.2969/aspm/05710405>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

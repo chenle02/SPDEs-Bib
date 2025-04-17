@@ -22,7 +22,8 @@ spitzer:56:combinatorial
      volume        = {82},
      year          = {1956}
    }
-`The URL link to the source <https://doi.org/10.2307/1993051>`_
+
+`The URL link to the source <https://doi.org/10.2307/1993051>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

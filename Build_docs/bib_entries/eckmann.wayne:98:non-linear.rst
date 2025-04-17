@@ -21,4 +21,4 @@ eckmann.wayne:98:non-linear
      year          = {1998}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

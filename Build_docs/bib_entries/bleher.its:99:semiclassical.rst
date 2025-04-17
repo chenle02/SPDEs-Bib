@@ -23,7 +23,8 @@ bleher.its:99:semiclassical
      volume        = {150},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.2307/121101>`_
+
+`The URL link to the source <https://doi.org/10.2307/121101>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

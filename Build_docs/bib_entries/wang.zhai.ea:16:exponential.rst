@@ -21,7 +21,8 @@ wang.zhai.ea:16:exponential
      volume        = {132},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1016/j.na.2015.11.009>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.na.2015.11.009>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ di-pietro.ern:12:mathematical
      volume        = {69},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-642-22980-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-642-22980-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

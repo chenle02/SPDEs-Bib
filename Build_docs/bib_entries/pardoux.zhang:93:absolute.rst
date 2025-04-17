@@ -23,7 +23,8 @@ pardoux.zhang:93:absolute
      volume        = {112},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.1993.1040>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.1993.1040>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

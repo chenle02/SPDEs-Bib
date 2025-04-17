@@ -23,7 +23,8 @@ derrida.aitchison.ea:89:elizabeth
      volume        = {22},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1088/0305-4470/22/12/012>`_
+
+`The URL link to the source <https://doi.org/10.1088/0305-4470/22/12/012>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

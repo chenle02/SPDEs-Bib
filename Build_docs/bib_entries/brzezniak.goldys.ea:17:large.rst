@@ -23,7 +23,8 @@ brzezniak.goldys.ea:17:large
      volume        = {226},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s00205-017-1117-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00205-017-1117-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

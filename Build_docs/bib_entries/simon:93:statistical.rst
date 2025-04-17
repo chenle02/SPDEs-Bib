@@ -21,7 +21,8 @@ simon:93:statistical
      url           = {https://doi.org/10.1515/9781400863433},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1515/9781400863433>`_
+
+`The URL link to the source <https://doi.org/10.1515/9781400863433>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

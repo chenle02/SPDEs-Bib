@@ -21,4 +21,4 @@ porter.rosenzweig:60:statistical
      year          = {1960}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

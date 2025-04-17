@@ -22,7 +22,8 @@ bourgain:82:hausdorff-young
      volume        = {101},
      year          = {1982}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102724774>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102724774>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

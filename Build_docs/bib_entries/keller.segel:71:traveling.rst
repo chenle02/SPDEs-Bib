@@ -20,4 +20,4 @@ keller.segel:71:traveling
      year          = {1971}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

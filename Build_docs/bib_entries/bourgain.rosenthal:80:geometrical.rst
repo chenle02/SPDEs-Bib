@@ -22,4 +22,4 @@ bourgain.rosenthal:80:geometrical
      year          = {1980}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

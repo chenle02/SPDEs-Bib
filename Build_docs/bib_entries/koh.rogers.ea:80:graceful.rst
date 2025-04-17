@@ -16,4 +16,4 @@ koh.rogers.ea:80:graceful
      year          = {1980}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

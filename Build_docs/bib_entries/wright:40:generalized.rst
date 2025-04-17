@@ -22,7 +22,8 @@ wright:40:generalized
      volume        = {11},
      year          = {1940}
    }
-`The URL link to the source <https://doi.org/10.1093/qmath/os-11.1.36>`_
+
+`The URL link to the source <https://doi.org/10.1093/qmath/os-11.1.36>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

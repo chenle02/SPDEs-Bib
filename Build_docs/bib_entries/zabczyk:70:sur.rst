@@ -22,7 +22,8 @@ zabczyk:70:sur
      volume        = {35},
      year          = {1970}
    }
-`The URL link to the source <https://doi.org/10.4064/sm-35-3-227-247>`_
+
+`The URL link to the source <https://doi.org/10.4064/sm-35-3-227-247>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

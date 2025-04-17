@@ -23,7 +23,8 @@ rassoul-agha.seppalainen:07:quenched
      volume        = {35},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1214/009117906000000610>`_
+
+`The URL link to the source <https://doi.org/10.1214/009117906000000610>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

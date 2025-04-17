@@ -23,7 +23,8 @@ bernardi.bousquet-melou:11:counting
      volume        = {101},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jctb.2011.02.003>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jctb.2011.02.003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

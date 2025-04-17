@@ -22,4 +22,4 @@ bourgain.lindenstrauss:88:nouveaux
      year          = {1988}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ topaz.bertozzi:04:swarming
      volume        = {65},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036139903437424>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036139903437424>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

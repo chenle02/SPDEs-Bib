@@ -23,7 +23,8 @@ caravenna.zambotti:20:hairers
      volume        = {7},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.4171/emss/39>`_
+
+`The URL link to the source <https://doi.org/10.4171/emss/39>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ olshanski:11:quasi-invariance
      volume        = {226},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1016/j.aim.2010.09.015>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.aim.2010.09.015>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

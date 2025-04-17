@@ -22,7 +22,8 @@ hu:88:nouvel
      volume        = {1321},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0084120>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0084120>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

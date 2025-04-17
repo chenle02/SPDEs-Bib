@@ -23,7 +23,8 @@ luchko:00:asymptotics
      volume        = {19},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.4171/ZAA/970>`_
+
+`The URL link to the source <https://doi.org/10.4171/ZAA/970>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

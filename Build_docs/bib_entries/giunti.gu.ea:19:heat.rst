@@ -22,7 +22,8 @@ giunti.gu.ea:19:heat
      volume        = {47},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1214/18-AOP1279>`_
+
+`The URL link to the source <https://doi.org/10.1214/18-AOP1279>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

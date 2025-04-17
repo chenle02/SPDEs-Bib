@@ -23,7 +23,8 @@ bourgain.dirksen.ea:15:toward
      volume        = {25},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s00039-015-0332-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00039-015-0332-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

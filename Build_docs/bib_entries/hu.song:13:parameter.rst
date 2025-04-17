@@ -22,7 +22,8 @@ hu.song:13:parameter
      volume        = {34},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4614-5906-4\_19>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4614-5906-4\_19>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

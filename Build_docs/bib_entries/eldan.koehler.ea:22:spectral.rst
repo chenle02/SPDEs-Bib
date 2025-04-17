@@ -22,7 +22,8 @@ eldan.koehler.ea:22:spectral
      volume        = {182},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-021-01085-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-021-01085-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

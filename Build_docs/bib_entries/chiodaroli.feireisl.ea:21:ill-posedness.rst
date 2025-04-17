@@ -23,7 +23,8 @@ chiodaroli.feireisl.ea:21:ill-posedness
      volume        = {70},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1512/iumj.2021.70.8591>`_
+
+`The URL link to the source <https://doi.org/10.1512/iumj.2021.70.8591>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

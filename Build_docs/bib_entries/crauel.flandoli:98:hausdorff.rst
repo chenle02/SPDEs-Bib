@@ -23,7 +23,8 @@ crauel.flandoli:98:hausdorff
      volume        = {10},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1022605313961>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1022605313961>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

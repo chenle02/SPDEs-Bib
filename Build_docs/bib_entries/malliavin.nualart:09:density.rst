@@ -23,7 +23,8 @@ malliavin.nualart:09:density
      volume        = {256},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2008.11.016>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2008.11.016>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

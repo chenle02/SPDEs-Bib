@@ -23,7 +23,8 @@ flandoli:90:boundary
      volume        = {144},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0120091>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0120091>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

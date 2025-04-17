@@ -22,7 +22,8 @@ lee.xiao:22:propagation
      volume        = {143},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2021.09.013>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2021.09.013>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

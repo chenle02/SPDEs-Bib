@@ -22,7 +22,8 @@ nualart:98:stochastic
      volume        = {128},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-2224-8\_15>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-2224-8\_15>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ blomker.hairer:05:amplitude
      volume        = {140},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/978-0-387-29371-4\_4>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-0-387-29371-4\_4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ ceyhan:17:cell-specific
      volume        = {46},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jkss.2016.10.002>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jkss.2016.10.002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

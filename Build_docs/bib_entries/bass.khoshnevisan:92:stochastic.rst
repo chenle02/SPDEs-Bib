@@ -22,7 +22,8 @@ bass.khoshnevisan:92:stochastic
      volume        = {1526},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0084306>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0084306>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ gu.bal:15:fluctuations
      volume        = {3},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-014-0040-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-014-0040-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

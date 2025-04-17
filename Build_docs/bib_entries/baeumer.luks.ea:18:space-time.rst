@@ -23,7 +23,8 @@ baeumer.luks.ea:18:space-time
      volume        = {291},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1002/mana.201700111>`_
+
+`The URL link to the source <https://doi.org/10.1002/mana.201700111>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

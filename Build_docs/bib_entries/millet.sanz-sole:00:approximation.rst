@@ -23,7 +23,8 @@ millet.sanz-sole:00:approximation
      volume        = {6},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.2307/3318761>`_
+
+`The URL link to the source <https://doi.org/10.2307/3318761>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

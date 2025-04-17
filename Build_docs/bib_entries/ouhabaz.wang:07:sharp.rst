@@ -23,7 +23,8 @@ ouhabaz.wang:07:sharp
      volume        = {122},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s00229-006-0065-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00229-006-0065-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

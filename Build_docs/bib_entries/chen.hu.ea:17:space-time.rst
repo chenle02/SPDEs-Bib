@@ -23,7 +23,8 @@ chen.hu.ea:17:space-time
      volume        = {89},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1080/17442508.2016.1146282>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442508.2016.1146282>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

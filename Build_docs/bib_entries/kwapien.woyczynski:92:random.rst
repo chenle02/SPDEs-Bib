@@ -21,7 +21,8 @@ kwapien.woyczynski:92:random
      url           = {https://doi.org/10.1007/978-1-4612-0425-1},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-0425-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-0425-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

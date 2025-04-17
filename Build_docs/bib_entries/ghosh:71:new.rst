@@ -21,7 +21,8 @@ ghosh:71:new
      volume        = {42},
      year          = {1971}
    }
-`The URL link to the source <https://doi.org/10.1214/aoms/1177693063>`_
+
+`The URL link to the source <https://doi.org/10.1214/aoms/1177693063>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

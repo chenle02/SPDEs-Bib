@@ -23,7 +23,8 @@ nawa:99:asymptotic
      volume        = {52},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199902)52:2<193::AID-CPA2>3.0.CO;2-3>`_
+
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199902)52:2<193::AID-CPA2>3.0.CO;2-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

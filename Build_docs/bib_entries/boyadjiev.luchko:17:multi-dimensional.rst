@@ -22,7 +22,8 @@ boyadjiev.luchko:17:multi-dimensional
      volume        = {73},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1016/j.camwa.2017.03.020>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.camwa.2017.03.020>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

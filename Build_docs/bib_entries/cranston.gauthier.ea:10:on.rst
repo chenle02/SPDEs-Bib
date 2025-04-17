@@ -23,7 +23,8 @@ cranston.gauthier.ea:10:on
      volume        = {147},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-009-0249-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-009-0249-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

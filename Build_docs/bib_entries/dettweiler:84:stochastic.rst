@@ -21,7 +21,8 @@ dettweiler:84:stochastic
      volume        = {1080},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0099783>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0099783>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

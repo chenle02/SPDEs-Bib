@@ -19,4 +19,4 @@ zabczyk:89:some*1
      year          = {1989}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

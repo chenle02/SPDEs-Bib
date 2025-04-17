@@ -23,7 +23,8 @@ lacoin:19:pinning
      volume        = {52},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.24033/asens.2411>`_
+
+`The URL link to the source <https://doi.org/10.24033/asens.2411>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ becker-kern.meerschaert.ea:04:limit*1
      volume        = {41},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1017/s002190020001442x>`_
+
+`The URL link to the source <https://doi.org/10.1017/s002190020001442x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

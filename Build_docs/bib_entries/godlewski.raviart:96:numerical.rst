@@ -22,7 +22,8 @@ godlewski.raviart:96:numerical
      volume        = {118},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-0713-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-0713-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

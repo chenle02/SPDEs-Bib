@@ -22,7 +22,8 @@ talagrand:03:on
      volume        = {337},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2003.09.001>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2003.09.001>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ jungel.leingang.ea:20:vanishing
      volume        = {192},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1016/j.na.2019.111698>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.na.2019.111698>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

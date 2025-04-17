@@ -23,7 +23,8 @@ balazs.seppalainen:10:order
      volume        = {171},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.4007/annals.2010.171.1237>`_
+
+`The URL link to the source <https://doi.org/10.4007/annals.2010.171.1237>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ dittrich.gartner:91:central
      volume        = {151},
      year          = {1991}
    }
-`The URL link to the source <https://doi.org/10.1002/mana.19911510107>`_
+
+`The URL link to the source <https://doi.org/10.1002/mana.19911510107>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

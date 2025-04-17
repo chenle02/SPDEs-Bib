@@ -23,7 +23,8 @@ diaz.nagai.ea:98:symmetrization
      volume        = {145},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1006/jdeq.1997.3389>`_
+
+`The URL link to the source <https://doi.org/10.1006/jdeq.1997.3389>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

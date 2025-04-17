@@ -21,7 +21,8 @@ chen.eriksen.ea:95:largest
      volume        = {28},
      year          = {1995}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/28/L207>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/28/L207>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

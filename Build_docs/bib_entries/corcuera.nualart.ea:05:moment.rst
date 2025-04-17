@@ -18,4 +18,4 @@ corcuera.nualart.ea:05:moment
      year          = {2005}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

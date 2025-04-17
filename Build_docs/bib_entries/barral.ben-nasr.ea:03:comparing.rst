@@ -23,7 +23,8 @@ barral.ben-nasr.ea:03:comparing
      volume        = {7},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.4310/AJM.2003.v7.n2.a1>`_
+
+`The URL link to the source <https://doi.org/10.4310/AJM.2003.v7.n2.a1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

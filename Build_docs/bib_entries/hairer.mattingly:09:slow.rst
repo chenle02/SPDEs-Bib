@@ -23,7 +23,8 @@ hairer.mattingly:09:slow
      volume        = {62},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.20280>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.20280>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

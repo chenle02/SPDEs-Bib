@@ -20,7 +20,8 @@ thomson:87:xxxiv
      volume        = {24},
      year          = {1887}
    }
-`The URL link to the source <https://doi.org/10.1080/14786448708628094>`_
+
+`The URL link to the source <https://doi.org/10.1080/14786448708628094>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

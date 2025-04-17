@@ -22,7 +22,8 @@ cook.derrida:90:directed
      volume        = {23},
      year          = {1990}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/23/1523>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/23/1523>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

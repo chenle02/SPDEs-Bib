@@ -22,7 +22,8 @@ carrillo.choi.ea:14:derivation
      volume        = {553},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-7091-1785-9\_1>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-7091-1785-9\_1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

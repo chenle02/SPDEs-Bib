@@ -22,7 +22,8 @@ dieng:05:distribution
      url           = {https://doi.org/10.1155/IMRN.2005.2263},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1155/IMRN.2005.2263>`_
+
+`The URL link to the source <https://doi.org/10.1155/IMRN.2005.2263>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

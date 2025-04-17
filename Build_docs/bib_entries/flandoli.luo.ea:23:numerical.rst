@@ -21,7 +21,8 @@ flandoli.luo.ea:23:numerical
      volume        = {436},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1016/j.amc.2022.127520>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.amc.2022.127520>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

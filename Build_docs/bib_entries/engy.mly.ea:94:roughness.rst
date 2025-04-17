@@ -21,7 +21,8 @@ engy.mly.ea:94:roughness
      volume        = {73},
      year          = {1994}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.73.834>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.73.834>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

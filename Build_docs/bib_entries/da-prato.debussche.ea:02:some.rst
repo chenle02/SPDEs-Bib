@@ -23,7 +23,8 @@ da-prato.debussche.ea:02:some
      volume        = {123},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1007/s004400100188>`_
+
+`The URL link to the source <https://doi.org/10.1007/s004400100188>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ kryloff.bogoliouboff:37:theorie
      volume        = {38},
      year          = {1937}
    }
-`The URL link to the source <https://doi.org/10.2307/1968511>`_
+
+`The URL link to the source <https://doi.org/10.2307/1968511>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

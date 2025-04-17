@@ -23,7 +23,8 @@ filippas.guo:93:quenching
      volume        = {51},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1090/qam/1247436>`_
+
+`The URL link to the source <https://doi.org/10.1090/qam/1247436>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

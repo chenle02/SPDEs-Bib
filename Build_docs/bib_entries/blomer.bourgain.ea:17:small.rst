@@ -23,7 +23,8 @@ blomer.bourgain.ea:17:small
      volume        = {50},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.24033/asens.2345>`_
+
+`The URL link to the source <https://doi.org/10.24033/asens.2345>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

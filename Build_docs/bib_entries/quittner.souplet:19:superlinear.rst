@@ -21,7 +21,8 @@ quittner.souplet:19:superlinear
      url           = {https://doi.org/10.1007/978-3-030-18222-9},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-030-18222-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-030-18222-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

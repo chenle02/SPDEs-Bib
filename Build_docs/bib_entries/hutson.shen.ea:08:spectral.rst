@@ -23,7 +23,8 @@ hutson.shen.ea:08:spectral
      volume        = {38},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1216/RMJ-2008-38-4-1147>`_
+
+`The URL link to the source <https://doi.org/10.1216/RMJ-2008-38-4-1147>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

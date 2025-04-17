@@ -21,7 +21,8 @@ khoshnevisan.kim.ea:23:phase
      volume        = {28},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1214/23-ejp983>`_
+
+`The URL link to the source <https://doi.org/10.1214/23-ejp983>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

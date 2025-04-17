@@ -23,7 +23,8 @@ pskhu:03:solution*1
      volume        = {39},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1023/B:DIEQ.0000017925.68789.e9>`_
+
+`The URL link to the source <https://doi.org/10.1023/B:DIEQ.0000017925.68789.e9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

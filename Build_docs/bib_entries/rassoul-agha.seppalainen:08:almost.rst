@@ -23,7 +23,8 @@ rassoul-agha.seppalainen:08:almost
      volume        = {78},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spl.2007.09.011>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2007.09.011>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

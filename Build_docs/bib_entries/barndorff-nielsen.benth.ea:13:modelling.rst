@@ -22,7 +22,8 @@ barndorff-nielsen.benth.ea:13:modelling
      volume        = {19},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.3150/12-BEJ476>`_
+
+`The URL link to the source <https://doi.org/10.3150/12-BEJ476>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ durhuus:94:multi-spin
      volume        = {426},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1016/0550-3213(94)90132-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0550-3213(94)90132-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

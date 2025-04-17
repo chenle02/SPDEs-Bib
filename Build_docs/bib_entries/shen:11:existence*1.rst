@@ -23,7 +23,8 @@ shen:11:existence*1
      volume        = {23},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/s10884-010-9200-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10884-010-9200-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ berestycki.brunet.ea:22:distance
      volume        = {35},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1088/1361-6544/ac4a8e>`_
+
+`The URL link to the source <https://doi.org/10.1088/1361-6544/ac4a8e>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

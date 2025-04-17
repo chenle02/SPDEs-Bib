@@ -18,4 +18,4 @@ polivanov:77:metody-sovremennou-i-matematicheskou-i-fiziki--1--funktsional-i-ana
      year          = {1977}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

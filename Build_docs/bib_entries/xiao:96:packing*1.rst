@@ -23,7 +23,8 @@ xiao:96:packing*1
      volume        = {120},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1017/S030500410007506X>`_
+
+`The URL link to the source <https://doi.org/10.1017/S030500410007506X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

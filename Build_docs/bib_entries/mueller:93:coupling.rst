@@ -21,7 +21,8 @@ mueller:93:coupling
      volume        = {21},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1176989016>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1176989016>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

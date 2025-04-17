@@ -22,7 +22,8 @@ bourgain:85:on
      volume        = {35},
      year          = {1985}
    }
-`The URL link to the source <http://www.numdam.org/item?id=AIF\_1985\_\_35\_4\_163\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=AIF\_1985\_\_35\_4\_163\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

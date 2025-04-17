@@ -23,7 +23,8 @@ assing:01:infinite-dimensional
      volume        = {120},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1007/PL00008778>`_
+
+`The URL link to the source <https://doi.org/10.1007/PL00008778>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

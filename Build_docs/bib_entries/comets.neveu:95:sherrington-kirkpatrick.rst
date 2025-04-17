@@ -22,7 +22,8 @@ comets.neveu:95:sherrington-kirkpatrick
      volume        = {166},
      year          = {1995}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104271703>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104271703>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

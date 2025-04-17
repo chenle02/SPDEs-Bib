@@ -23,7 +23,8 @@ tracy:89:monodromy
      volume        = {34},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1016/0167-2789(89)90260-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/0167-2789(89)90260-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

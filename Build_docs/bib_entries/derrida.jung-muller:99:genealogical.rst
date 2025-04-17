@@ -22,7 +22,8 @@ derrida.jung-muller:99:genealogical
      volume        = {94},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1004560700396>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1004560700396>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

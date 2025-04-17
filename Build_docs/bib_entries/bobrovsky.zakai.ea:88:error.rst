@@ -23,7 +23,8 @@ bobrovsky.zakai.ea:88:error
      volume        = {34},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1109/18.9770>`_
+
+`The URL link to the source <https://doi.org/10.1109/18.9770>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

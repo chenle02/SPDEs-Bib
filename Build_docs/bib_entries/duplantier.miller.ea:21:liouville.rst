@@ -22,7 +22,8 @@ duplantier.miller.ea:21:liouville
      url           = {https://doi.org/10.24033/ast},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.24033/ast>`_
+
+`The URL link to the source <https://doi.org/10.24033/ast>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

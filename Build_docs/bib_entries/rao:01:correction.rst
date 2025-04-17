@@ -22,7 +22,8 @@ rao:01:correction
      volume        = {98},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1073/pnas.98.20.11836/a>`_
+
+`The URL link to the source <https://doi.org/10.1073/pnas.98.20.11836/a>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

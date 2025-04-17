@@ -22,7 +22,8 @@ burkholder.gundy:70:extrapolation
      volume        = {124},
      year          = {1970}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02394573>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02394573>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

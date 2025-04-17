@@ -23,7 +23,8 @@ derrida.evans.ea:95:exact
      volume        = {79},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02181206>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02181206>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

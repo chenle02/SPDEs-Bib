@@ -22,7 +22,8 @@ gajda.magdziarz:10:fractional
      volume        = {82},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevE.82.011117>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.82.011117>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

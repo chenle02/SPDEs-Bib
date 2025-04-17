@@ -23,7 +23,8 @@ holmes.lumley.ea:97:low-dimensional
      volume        = {287},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1016/S0370-1573(97)00017-3>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0370-1573(97)00017-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

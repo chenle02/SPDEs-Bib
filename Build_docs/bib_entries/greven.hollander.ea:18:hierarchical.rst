@@ -22,7 +22,8 @@ greven.hollander.ea:18:hierarchical
      volume        = {15},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.30757/alea.v15-14>`_
+
+`The URL link to the source <https://doi.org/10.30757/alea.v15-14>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

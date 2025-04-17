@@ -22,7 +22,8 @@ chen.zhang:11:stochastic
      volume        = {48},
      year          = {2011}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.ojm/1315318342>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1315318342>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

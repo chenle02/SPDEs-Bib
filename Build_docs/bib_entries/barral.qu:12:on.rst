@@ -23,7 +23,8 @@ barral.qu:12:on
      volume        = {32},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2012.32.1977>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2012.32.1977>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

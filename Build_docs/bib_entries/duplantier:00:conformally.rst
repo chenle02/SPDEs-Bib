@@ -23,7 +23,8 @@ duplantier:00:conformally
      volume        = {84},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1103/PhysRevLett.84.1363>`_
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.84.1363>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

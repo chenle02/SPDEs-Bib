@@ -23,7 +23,8 @@ cranston.greven:95:coupling
      volume        = {60},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(95)00055-0>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(95)00055-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ schneider.wyss:89:fractional
      volume        = {30},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1063/1.528578>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.528578>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

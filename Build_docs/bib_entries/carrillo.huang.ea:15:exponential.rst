@@ -23,7 +23,8 @@ carrillo.huang.ea:15:exponential
      volume        = {258},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2014.10.003>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2014.10.003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

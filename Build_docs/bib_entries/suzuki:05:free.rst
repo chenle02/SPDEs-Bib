@@ -22,7 +22,8 @@ suzuki:05:free
      volume        = {62},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/0-8176-4436-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/0-8176-4436-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

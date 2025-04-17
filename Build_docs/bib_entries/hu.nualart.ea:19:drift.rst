@@ -23,7 +23,8 @@ hu.nualart.ea:19:drift
      volume        = {91},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1080/17442508.2018.1563606>`_
+
+`The URL link to the source <https://doi.org/10.1080/17442508.2018.1563606>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

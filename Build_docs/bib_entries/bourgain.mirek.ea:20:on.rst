@@ -23,7 +23,8 @@ bourgain.mirek.ea:20:on
      volume        = {2256},
      year          = {[2020] \copyright 2020}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-030-36020-7\_8>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-030-36020-7\_8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

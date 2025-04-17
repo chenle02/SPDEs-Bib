@@ -23,4 +23,4 @@ marquez-carreras.sanz-sole:98:taylor
      year          = {1998}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

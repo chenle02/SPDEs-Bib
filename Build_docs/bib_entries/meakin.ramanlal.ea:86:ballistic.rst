@@ -21,7 +21,8 @@ meakin.ramanlal.ea:86:ballistic
      volume        = {34},
      year          = {1986}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.34.5091>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.34.5091>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ lakhel:03:large
      volume        = {11},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1163/156939703771891860>`_
+
+`The URL link to the source <https://doi.org/10.1163/156939703771891860>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

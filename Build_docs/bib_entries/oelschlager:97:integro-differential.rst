@@ -23,7 +23,8 @@ oelschlager:97:integro-differential
      volume        = {137},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1007/s002050050024>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002050050024>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

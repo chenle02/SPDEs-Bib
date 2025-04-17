@@ -22,7 +22,8 @@ bihari:56:generalization
      volume        = {7},
      year          = {1956}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02022967>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02022967>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ jacod.shiryaev:03:limit
      volume        = {288},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-662-05265-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-662-05265-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

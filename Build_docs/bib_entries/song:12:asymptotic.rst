@@ -22,7 +22,8 @@ song:12:asymptotic
      volume        = {82},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spl.2011.11.017>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2011.11.017>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

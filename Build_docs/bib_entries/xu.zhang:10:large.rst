@@ -23,7 +23,8 @@ xu.zhang:10:large
      volume        = {10},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493710003042>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493710003042>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

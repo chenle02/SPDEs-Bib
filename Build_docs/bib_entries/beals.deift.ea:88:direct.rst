@@ -22,7 +22,8 @@ beals.deift.ea:88:direct
      volume        = {28},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1090/surv/028>`_
+
+`The URL link to the source <https://doi.org/10.1090/surv/028>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

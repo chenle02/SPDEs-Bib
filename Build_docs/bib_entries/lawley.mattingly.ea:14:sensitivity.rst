@@ -23,7 +23,8 @@ lawley.mattingly.ea:14:sensitivity
      volume        = {12},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.4310/CMS.2014.v12.n7.a9>`_
+
+`The URL link to the source <https://doi.org/10.4310/CMS.2014.v12.n7.a9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

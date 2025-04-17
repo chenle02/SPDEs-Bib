@@ -23,7 +23,8 @@ fabbri.goldys:09:lq
      volume        = {48},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1137/070711529>`_
+
+`The URL link to the source <https://doi.org/10.1137/070711529>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

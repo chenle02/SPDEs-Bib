@@ -23,7 +23,8 @@ wang.zhang:10:gradient
      volume        = {365},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2009.09.008>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2009.09.008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

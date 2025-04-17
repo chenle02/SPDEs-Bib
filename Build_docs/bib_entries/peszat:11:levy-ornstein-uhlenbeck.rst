@@ -23,7 +23,8 @@ peszat:11:levy-ornstein-uhlenbeck
      volume        = {260},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2011.03.002>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2011.03.002>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

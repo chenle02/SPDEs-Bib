@@ -18,7 +18,8 @@ hu.hu:15:fractional
      volume        = {3},
      year          = {2015}
    }
-`The URL link to the source <https://www.mdpi.com/2227-7390/3/2/131>`_
+
+`The URL link to the source <https://www.mdpi.com/2227-7390/3/2/131>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

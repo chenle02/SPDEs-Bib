@@ -22,7 +22,8 @@ fujie:15:boundedness
      volume        = {424},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2014.11.045>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2014.11.045>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

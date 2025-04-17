@@ -23,7 +23,8 @@ chen.khoshnevisan.ea:16:decorrelation
      volume        = {45},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s11118-016-9540-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11118-016-9540-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

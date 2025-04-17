@@ -22,7 +22,8 @@ khoshnevisan:14:analysis
      volume        = {119},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1090/cbms/119>`_
+
+`The URL link to the source <https://doi.org/10.1090/cbms/119>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

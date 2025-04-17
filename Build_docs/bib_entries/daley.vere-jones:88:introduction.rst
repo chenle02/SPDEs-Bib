@@ -20,4 +20,4 @@ daley.vere-jones:88:introduction
      year          = {1988}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

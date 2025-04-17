@@ -21,4 +21,4 @@ dalang.khoshnevisan.ea:09:minicourse
      year          = {2009}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

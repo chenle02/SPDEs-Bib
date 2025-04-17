@@ -22,7 +22,8 @@ kochubei:01:pseudo-differential
      volume        = {244},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1201/9780203908167>`_
+
+`The URL link to the source <https://doi.org/10.1201/9780203908167>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

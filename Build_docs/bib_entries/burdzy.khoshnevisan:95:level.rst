@@ -22,7 +22,8 @@ burdzy.khoshnevisan:95:level
      volume        = {1613},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0094215>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0094215>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

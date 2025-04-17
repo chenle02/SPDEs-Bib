@@ -21,7 +21,8 @@ barral.peyriere.ea:18:icmi
      url           = {https://doi.org/10.4171/news/108/12},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.4171/news/108/12>`_
+
+`The URL link to the source <https://doi.org/10.4171/news/108/12>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ burton.keane:89:density
      volume        = {121},
      year          = {1989}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104178143>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104178143>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

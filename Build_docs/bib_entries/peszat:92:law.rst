@@ -22,7 +22,8 @@ peszat:92:law
      volume        = {101},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.4064/sm-101-3-269-284>`_
+
+`The URL link to the source <https://doi.org/10.4064/sm-101-3-269-284>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

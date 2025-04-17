@@ -23,7 +23,8 @@ foondun.nane:17:asymptotic
      volume        = {287},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s00209-016-1834-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00209-016-1834-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

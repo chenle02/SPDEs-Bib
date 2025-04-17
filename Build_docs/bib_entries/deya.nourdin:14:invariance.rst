@@ -23,7 +23,8 @@ deya.nourdin:14:invariance
      volume        = {20},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.3150/12-BEJ498>`_
+
+`The URL link to the source <https://doi.org/10.3150/12-BEJ498>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

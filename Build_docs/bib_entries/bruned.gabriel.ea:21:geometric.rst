@@ -22,7 +22,8 @@ bruned.gabriel.ea:21:geometric
      volume        = {35},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1090/jams/977>`_
+
+`The URL link to the source <https://doi.org/10.1090/jams/977>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

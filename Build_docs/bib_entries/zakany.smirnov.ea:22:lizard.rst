@@ -22,7 +22,8 @@ zakany.smirnov.ea:22:lizard
      volume        = {128},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1103/physrevlett.128.048102>`_
+
+`The URL link to the source <https://doi.org/10.1103/physrevlett.128.048102>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

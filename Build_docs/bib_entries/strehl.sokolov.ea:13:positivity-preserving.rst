@@ -22,7 +22,8 @@ strehl.sokolov.ea:13:positivity-preserving
      volume        = {239},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1016/j.cam.2012.09.041>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.cam.2012.09.041>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

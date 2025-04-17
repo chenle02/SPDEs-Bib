@@ -22,7 +22,8 @@ varadhan:91:scaling
      volume        = {135},
      year          = {1991}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104202029>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104202029>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

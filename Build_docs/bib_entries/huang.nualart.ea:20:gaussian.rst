@@ -23,7 +23,8 @@ huang.nualart.ea:20:gaussian
      volume        = {8},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-019-00149-3>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-019-00149-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

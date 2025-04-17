@@ -21,7 +21,8 @@ chen.kulik:11:asymptotics
      url           = {https://doi.org/10.1155/2011/803683},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1155/2011/803683>`_
+
+`The URL link to the source <https://doi.org/10.1155/2011/803683>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

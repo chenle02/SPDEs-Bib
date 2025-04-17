@@ -22,7 +22,8 @@ constantin.majda.ea:94:formation
      volume        = {7},
      year          = {1994}
    }
-`The URL link to the source <http://stacks.iop.org/0951-7715/7/1495>`_
+
+`The URL link to the source <http://stacks.iop.org/0951-7715/7/1495>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

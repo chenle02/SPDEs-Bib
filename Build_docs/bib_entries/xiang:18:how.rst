@@ -22,7 +22,8 @@ xiang:18:how
      volume        = {459},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2017.11.022>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2017.11.022>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

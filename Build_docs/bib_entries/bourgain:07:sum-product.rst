@@ -23,7 +23,8 @@ bourgain:07:sum-product
      volume        = {344},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2007.01.019>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2007.01.019>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

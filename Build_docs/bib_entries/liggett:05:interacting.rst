@@ -22,7 +22,8 @@ liggett:05:interacting
      url           = {https://doi.org/10.1007/b138374},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/b138374>`_
+
+`The URL link to the source <https://doi.org/10.1007/b138374>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

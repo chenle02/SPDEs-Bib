@@ -22,7 +22,8 @@ velazquez:02:stability
      volume        = {62},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036139900380049>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036139900380049>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ durrett.iglehart.ea:77:weak
      volume        = {5},
      year          = {1977}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1176995895>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1176995895>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

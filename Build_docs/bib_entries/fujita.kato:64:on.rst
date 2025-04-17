@@ -22,7 +22,8 @@ fujita.kato:64:on
      volume        = {16},
      year          = {1964}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00276188>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00276188>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

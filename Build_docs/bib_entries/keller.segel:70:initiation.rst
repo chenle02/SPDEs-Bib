@@ -22,7 +22,8 @@ keller.segel:70:initiation
      volume        = {26},
      year          = {1970}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-5193(70)90092-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-5193(70)90092-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

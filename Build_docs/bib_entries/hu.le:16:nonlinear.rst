@@ -22,7 +22,8 @@ hu.le:16:nonlinear
      volume        = {138},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-319-23425-0\_3>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-23425-0\_3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

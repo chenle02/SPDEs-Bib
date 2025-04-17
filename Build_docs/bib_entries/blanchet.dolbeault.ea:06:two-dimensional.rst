@@ -19,4 +19,4 @@ blanchet.dolbeault.ea:06:two-dimensional
      year          = {2006}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

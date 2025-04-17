@@ -23,7 +23,8 @@ varadhan:88:large
      volume        = {1362},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0086178>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0086178>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

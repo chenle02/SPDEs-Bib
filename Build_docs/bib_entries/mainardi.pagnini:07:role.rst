@@ -23,7 +23,8 @@ mainardi.pagnini:07:role
      volume        = {207},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.cam.2006.10.014>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.cam.2006.10.014>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,4 +22,4 @@ dettweiler:91:stochastic
      year          = {1991}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

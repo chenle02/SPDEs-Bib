@@ -23,7 +23,8 @@ shen.wang.ea:19:long-time
      volume        = {266},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2018.07.073>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2018.07.073>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

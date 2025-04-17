@@ -23,7 +23,8 @@ gu.henderson:21:pde
      volume        = {34},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1088/1361-6544/ac23b7>`_
+
+`The URL link to the source <https://doi.org/10.1088/1361-6544/ac23b7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ zabczyk:81:controllability
      volume        = {1},
      year          = {1981/82}
    }
-`The URL link to the source <https://doi.org/10.1016/S0167-6911(81)80008-4>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0167-6911(81)80008-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

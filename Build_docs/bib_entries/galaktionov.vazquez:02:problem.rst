@@ -24,7 +24,8 @@ galaktionov.vazquez:02:problem
      volume        = {8},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2002.8.399>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2002.8.399>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -20,7 +20,8 @@ barabasi.stanley:95:fractal
      url           = {https://doi.org/10.1017/CBO9780511599798},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511599798>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511599798>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

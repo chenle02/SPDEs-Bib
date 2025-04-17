@@ -23,7 +23,8 @@ rosen:05:derivatives
      volume        = {1857},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-540-31449-3\_18>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-540-31449-3\_18>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

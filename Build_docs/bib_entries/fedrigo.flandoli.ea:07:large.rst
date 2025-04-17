@@ -23,7 +23,8 @@ fedrigo.flandoli.ea:07:large
      volume        = {186},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10231-006-0011-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10231-006-0011-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

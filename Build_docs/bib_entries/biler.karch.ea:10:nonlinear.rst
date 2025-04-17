@@ -23,7 +23,8 @@ biler.karch.ea:10:nonlinear
      volume        = {294},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-009-0855-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-009-0855-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

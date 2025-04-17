@@ -21,7 +21,8 @@ fristedt.pruitt:71:lower
      volume        = {18},
      year          = {1971}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00563135>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00563135>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ flandoli.ghio.ea:22:n-player
      volume        = {85},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s00245-022-09834-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00245-022-09834-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

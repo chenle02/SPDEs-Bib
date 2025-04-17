@@ -23,7 +23,8 @@ deift.zhou:95:asymptotics
      volume        = {48},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.3160480304>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.3160480304>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

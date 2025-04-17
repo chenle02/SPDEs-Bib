@@ -22,7 +22,8 @@ epshteyn.xia:19:efficient
      volume        = {80},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s10915-019-00928-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10915-019-00928-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

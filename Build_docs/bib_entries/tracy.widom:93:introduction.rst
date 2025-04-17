@@ -21,7 +21,8 @@ tracy.widom:93:introduction
      volume        = {424},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0021444>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0021444>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

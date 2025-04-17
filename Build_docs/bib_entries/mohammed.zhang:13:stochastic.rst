@@ -23,7 +23,8 @@ mohammed.zhang:13:stochastic
      volume        = {45},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1137/120871882>`_
+
+`The URL link to the source <https://doi.org/10.1137/120871882>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

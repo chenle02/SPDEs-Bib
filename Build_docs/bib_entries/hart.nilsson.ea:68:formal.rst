@@ -18,4 +18,4 @@ hart.nilsson.ea:68:formal
      year          = {1968}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

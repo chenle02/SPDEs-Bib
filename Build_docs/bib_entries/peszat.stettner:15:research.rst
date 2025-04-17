@@ -22,7 +22,8 @@ peszat.stettner:15:research
      volume        = {105},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.4064/bc105-0-1>`_
+
+`The URL link to the source <https://doi.org/10.4064/bc105-0-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

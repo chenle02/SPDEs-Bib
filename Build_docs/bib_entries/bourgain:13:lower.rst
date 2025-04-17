@@ -23,7 +23,8 @@ bourgain:13:lower
      volume        = {153},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-013-0821-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-013-0821-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

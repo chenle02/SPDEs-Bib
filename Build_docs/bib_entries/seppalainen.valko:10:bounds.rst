@@ -20,4 +20,4 @@ seppalainen.valko:10:bounds
      year          = {2010}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

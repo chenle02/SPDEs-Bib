@@ -22,7 +22,8 @@ lorz:12:coupled
      volume        = {10},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.4310/CMS.2012.v10.n2.a7>`_
+
+`The URL link to the source <https://doi.org/10.4310/CMS.2012.v10.n2.a7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

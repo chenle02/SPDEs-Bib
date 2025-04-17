@@ -22,7 +22,8 @@ derrida.flyvbjerg:87:statistical
      volume        = {20},
      year          = {1987}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/20/5273>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/20/5273>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

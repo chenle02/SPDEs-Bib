@@ -23,7 +23,8 @@ hu.nualart:98:continuity
      volume        = {37},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1016/S0167-7152(97)00118-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0167-7152(97)00118-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

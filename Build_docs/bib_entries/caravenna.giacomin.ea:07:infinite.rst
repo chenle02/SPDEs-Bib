@@ -21,7 +21,8 @@ caravenna.giacomin.ea:07:infinite
      volume        = {13},
      year          = {2007}
    }
-`The URL link to the source <Agnieszka Jurlewicz>`_
+
+`The URL link to the source <Agnieszka Jurlewicz>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

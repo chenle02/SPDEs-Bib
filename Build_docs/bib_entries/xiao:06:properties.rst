@@ -22,7 +22,8 @@ xiao:06:properties
      volume        = {15},
      year          = {2006}
    }
-`The URL link to the source <http://afst.cedram.org/item?id=AFST\_2006\_6\_15\_1\_157\_0>`_
+
+`The URL link to the source <http://afst.cedram.org/item?id=AFST\_2006\_6\_15\_1\_157\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

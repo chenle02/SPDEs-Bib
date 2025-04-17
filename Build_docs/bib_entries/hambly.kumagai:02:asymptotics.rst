@@ -23,7 +23,8 @@ hambly.kumagai:02:asymptotics
      volume        = {10},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1142/S0218348X02001270>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0218348X02001270>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

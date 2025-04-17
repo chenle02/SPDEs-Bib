@@ -21,4 +21,4 @@ men-shikov.molchanov.ea:86:percolation
      year          = {1986}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

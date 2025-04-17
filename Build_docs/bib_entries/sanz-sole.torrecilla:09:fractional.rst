@@ -23,7 +23,8 @@ sanz-sole.torrecilla:09:fractional
      volume        = {9},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1142/S0219493709002762>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0219493709002762>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

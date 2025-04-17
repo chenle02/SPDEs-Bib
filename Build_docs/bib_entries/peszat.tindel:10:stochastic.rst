@@ -23,7 +23,8 @@ peszat.tindel:10:stochastic
      volume        = {28},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1080/07362994.2010.482840>`_
+
+`The URL link to the source <https://doi.org/10.1080/07362994.2010.482840>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

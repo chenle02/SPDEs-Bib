@@ -23,7 +23,8 @@ barral.mensi:07:gibbs
      volume        = {27},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1017/S0143385706001027>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0143385706001027>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ mueller.perkins:00:extinction
      volume        = {36},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1016/S0246-0203(00)00128-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(00)00128-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ ginibre:65:statistical
      volume        = {6},
      year          = {1965}
    }
-`The URL link to the source <https://doi.org/10.1063/1.1704292>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.1704292>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

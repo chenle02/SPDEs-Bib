@@ -22,7 +22,8 @@ junnila.saksman.ea:20:imaginary
      volume        = {30},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1214/19-AAP1553>`_
+
+`The URL link to the source <https://doi.org/10.1214/19-AAP1553>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

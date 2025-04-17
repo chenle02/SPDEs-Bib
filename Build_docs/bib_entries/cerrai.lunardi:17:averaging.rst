@@ -23,7 +23,8 @@ cerrai.lunardi:17:averaging
      volume        = {49},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1137/16M1063307>`_
+
+`The URL link to the source <https://doi.org/10.1137/16M1063307>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

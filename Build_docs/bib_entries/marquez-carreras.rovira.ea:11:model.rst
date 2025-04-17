@@ -22,7 +22,8 @@ marquez-carreras.rovira.ea:11:model
      volume        = {5},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.31390/cosa.5.1.07>`_
+
+`The URL link to the source <https://doi.org/10.31390/cosa.5.1.07>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

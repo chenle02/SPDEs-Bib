@@ -23,7 +23,8 @@ baik.barraquand.ea:18:pfaffian
      volume        = {46},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1214/17-AOP1226>`_
+
+`The URL link to the source <https://doi.org/10.1214/17-AOP1226>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

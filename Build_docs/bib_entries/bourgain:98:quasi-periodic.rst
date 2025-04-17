@@ -23,7 +23,8 @@ bourgain:98:quasi-periodic
      volume        = {148},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.2307/121001>`_
+
+`The URL link to the source <https://doi.org/10.2307/121001>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

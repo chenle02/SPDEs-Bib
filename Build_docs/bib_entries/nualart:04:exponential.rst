@@ -23,7 +23,8 @@ nualart:04:exponential
      volume        = {338},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2003.11.015>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2003.11.015>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

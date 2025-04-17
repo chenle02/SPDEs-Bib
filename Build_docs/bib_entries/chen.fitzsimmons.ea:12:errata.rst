@@ -22,7 +22,8 @@ chen.fitzsimmons.ea:12:errata
      volume        = {40},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1214/11-AOP684>`_
+
+`The URL link to the source <https://doi.org/10.1214/11-AOP684>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ guttorp.gneiting:06:studies
      volume        = {93},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1093/biomet/93.4.989>`_
+
+`The URL link to the source <https://doi.org/10.1093/biomet/93.4.989>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

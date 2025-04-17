@@ -23,7 +23,8 @@ domingo..ea:17:boundedness
      volume        = {58},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1063/1.4977081>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.4977081>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

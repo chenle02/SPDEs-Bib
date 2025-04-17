@@ -20,4 +20,4 @@ hu.huang.ea:18:parabolic
      year          = {2018}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

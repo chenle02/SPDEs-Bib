@@ -21,7 +21,8 @@ berger.lacoin:22:continuum
      volume        = {9},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.5802/jep.182>`_
+
+`The URL link to the source <https://doi.org/10.5802/jep.182>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

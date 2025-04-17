@@ -22,7 +22,8 @@ edelman.sutton:07:from
      volume        = {127},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-006-9226-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-006-9226-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -17,7 +17,8 @@ chen:23:statistics
      url           = {https://github.com/chenle02/Open\_Slides\_Statistics},
      year          = {2023}
    }
-`The URL link to the source <https://github.com/chenle02/Open\_Slides\_Statistics>`_
+
+`The URL link to the source <https://github.com/chenle02/Open\_Slides\_Statistics>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

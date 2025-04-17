@@ -22,7 +22,8 @@ bombieri.bourgain:15:problem
      url           = {https://doi.org/10.1093/imrn/rnu005},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1093/imrn/rnu005>`_
+
+`The URL link to the source <https://doi.org/10.1093/imrn/rnu005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,4 +21,4 @@ roy.pandit:20:one-dimensional
      year          = {2020}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

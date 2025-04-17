@@ -23,7 +23,8 @@ chen.dalang:14:holder-continuity
      volume        = {2},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-014-0034-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-014-0034-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

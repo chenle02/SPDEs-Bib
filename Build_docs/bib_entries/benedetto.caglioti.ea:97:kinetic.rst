@@ -23,7 +23,8 @@ benedetto.caglioti.ea:97:kinetic
      volume        = {31},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1051/m2an/1997310506151>`_
+
+`The URL link to the source <https://doi.org/10.1051/m2an/1997310506151>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

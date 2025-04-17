@@ -21,7 +21,8 @@ rassoul-agha.seppalainen.ea:17:averaged
      volume        = {22},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1214/17-EJP74>`_
+
+`The URL link to the source <https://doi.org/10.1214/17-EJP74>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ derrida:81:random-energy
      volume        = {24},
      year          = {1981}
    }
-`The URL link to the source <https://doi.org/10.1103/physrevb.24.2613>`_
+
+`The URL link to the source <https://doi.org/10.1103/physrevb.24.2613>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

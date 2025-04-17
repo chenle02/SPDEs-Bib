@@ -24,7 +24,8 @@ chen.li:02:limiting
      volume        = {9},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.4310/MAA.2002.v9.n3.a5>`_
+
+`The URL link to the source <https://doi.org/10.4310/MAA.2002.v9.n3.a5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

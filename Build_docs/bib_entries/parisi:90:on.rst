@@ -22,7 +22,8 @@ parisi:90:on
      volume        = {238},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0370-2693(90)91722-N>`_
+
+`The URL link to the source <https://doi.org/10.1016/0370-2693(90)91722-N>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

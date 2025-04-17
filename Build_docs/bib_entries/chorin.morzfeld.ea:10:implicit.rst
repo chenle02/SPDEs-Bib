@@ -22,7 +22,8 @@ chorin.morzfeld.ea:10:implicit
      volume        = {5},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.2140/camcos.2010.5.221>`_
+
+`The URL link to the source <https://doi.org/10.2140/camcos.2010.5.221>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

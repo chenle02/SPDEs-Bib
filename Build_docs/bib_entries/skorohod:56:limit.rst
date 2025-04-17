@@ -21,4 +21,4 @@ skorohod:56:limit
      year          = {1956}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

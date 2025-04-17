@@ -23,7 +23,8 @@ garra.giusti.ea:14:fractional
      volume        = {17},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.2478/s13540-014-0178-0>`_
+
+`The URL link to the source <https://doi.org/10.2478/s13540-014-0178-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

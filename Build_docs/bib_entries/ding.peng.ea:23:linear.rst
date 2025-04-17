@@ -23,7 +23,8 @@ ding.peng.ea:23:linear
      volume        = {29},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.3150/22-bej1479>`_
+
+`The URL link to the source <https://doi.org/10.3150/22-bej1479>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

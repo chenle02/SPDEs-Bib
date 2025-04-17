@@ -23,7 +23,8 @@ codenotti.flandoli:89:monte
      volume        = {5},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1016/0885-064X(89)90016-2>`_
+
+`The URL link to the source <https://doi.org/10.1016/0885-064X(89)90016-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

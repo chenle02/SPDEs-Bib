@@ -23,7 +23,8 @@ bassler.forrester.ea:10:edge
      volume        = {51},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1063/1.3521288>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.3521288>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

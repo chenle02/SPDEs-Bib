@@ -22,7 +22,8 @@ geman:80:limit
      volume        = {8},
      year          = {1980}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198004)8:2<252:ALTFTN>2.0.CO;2-4\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198004)8:2<252:ALTFTN>2.0.CO;2-4\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

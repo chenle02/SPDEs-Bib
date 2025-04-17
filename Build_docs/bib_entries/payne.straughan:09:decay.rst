@@ -23,7 +23,8 @@ payne.straughan:09:decay
      volume        = {123},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1111/j.1467-9590.2009.00457.x>`_
+
+`The URL link to the source <https://doi.org/10.1111/j.1467-9590.2009.00457.x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ mariani.tweneboah.ea:19:complex
      volume        = {33},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.2478/amsil-2018-0012>`_
+
+`The URL link to the source <https://doi.org/10.2478/amsil-2018-0012>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

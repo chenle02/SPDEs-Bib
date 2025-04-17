@@ -22,7 +22,8 @@ shen.zhou.ea:10:one-dimensional
      volume        = {248},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2009.10.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2009.10.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

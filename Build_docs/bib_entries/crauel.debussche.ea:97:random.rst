@@ -23,7 +23,8 @@ crauel.debussche.ea:97:random
      volume        = {9},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02219225>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02219225>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

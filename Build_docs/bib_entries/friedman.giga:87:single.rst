@@ -21,4 +21,4 @@ friedman.giga:87:single
      year          = {1987}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,8 @@ zaslavsky:94:fractional
      volume        = {76},
      year          = {1994}
    }
-`The URL link to the source <https://doi.org/10.1016/0167-2789(94)90254-2>`_
+
+`The URL link to the source <https://doi.org/10.1016/0167-2789(94)90254-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

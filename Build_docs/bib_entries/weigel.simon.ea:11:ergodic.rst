@@ -19,7 +19,8 @@ weigel.simon.ea:11:ergodic
      volume        = {108},
      year          = {2011}
    }
-`The URL link to the source <https://www.pnas.org/doi/abs/10.1073/pnas.1016325108>`_
+
+`The URL link to the source <https://www.pnas.org/doi/abs/10.1073/pnas.1016325108>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

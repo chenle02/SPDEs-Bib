@@ -23,7 +23,8 @@ dhariwal.huber.ea:21:global
      volume        = {57},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1214/20-aihp1088>`_
+
+`The URL link to the source <https://doi.org/10.1214/20-aihp1088>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ burgeuin.garaev:14:sumsets
      volume        = {78},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1070/im2014v078n04abeh002703>`_
+
+`The URL link to the source <https://doi.org/10.1070/im2014v078n04abeh002703>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

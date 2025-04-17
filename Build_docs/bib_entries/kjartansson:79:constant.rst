@@ -19,7 +19,8 @@ kjartansson:79:constant
      volume        = {84},
      year          = {1979}
    }
-`The URL link to the source <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB084iB09p04737>`_
+
+`The URL link to the source <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB084iB09p04737>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

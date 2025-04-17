@@ -22,7 +22,8 @@ rassoul-agha.seppalainen:15:course
      volume        = {162},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1090/gsm/162>`_
+
+`The URL link to the source <https://doi.org/10.1090/gsm/162>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

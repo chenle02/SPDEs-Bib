@@ -22,7 +22,8 @@ vincent.mason:69:disconnected
      volume        = {3},
      year          = {1969}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00926527>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00926527>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ ferreira.groisman.ea:03:adaptive
      volume        = {23},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1093/imanum/23.3.439>`_
+
+`The URL link to the source <https://doi.org/10.1093/imanum/23.3.439>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

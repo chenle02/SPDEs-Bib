@@ -22,7 +22,8 @@ gancedo.patel:21:on
      volume        = {7},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s40818-021-00095-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40818-021-00095-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

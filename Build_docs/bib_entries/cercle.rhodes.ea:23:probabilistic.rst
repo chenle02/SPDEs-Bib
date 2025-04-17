@@ -22,7 +22,8 @@ cercle.rhodes.ea:23:probabilistic
      volume        = {6},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.5802/ahl.158>`_
+
+`The URL link to the source <https://doi.org/10.5802/ahl.158>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

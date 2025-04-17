@@ -22,7 +22,8 @@ bourgain:81:counterexample
      volume        = {43},
      year          = {1981}
    }
-`The URL link to the source <http://www.numdam.org/item?id=CM\_1981\_\_43\_1\_133\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=CM\_1981\_\_43\_1\_133\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

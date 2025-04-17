@@ -21,7 +21,8 @@ suzuki.senba:11:applied
      url           = {https://doi.org/10.1142/p753},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1142/p753>`_
+
+`The URL link to the source <https://doi.org/10.1142/p753>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

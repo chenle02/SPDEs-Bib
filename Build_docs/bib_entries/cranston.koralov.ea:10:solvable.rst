@@ -23,7 +23,8 @@ cranston.koralov.ea:10:solvable
      volume        = {18},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1515/ROSE.2010.73>`_
+
+`The URL link to the source <https://doi.org/10.1515/ROSE.2010.73>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

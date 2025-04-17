@@ -22,7 +22,8 @@ chorin:68:numerical
      volume        = {22},
      year          = {1968}
    }
-`The URL link to the source <https://doi.org/10.2307/2004575>`_
+
+`The URL link to the source <https://doi.org/10.2307/2004575>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

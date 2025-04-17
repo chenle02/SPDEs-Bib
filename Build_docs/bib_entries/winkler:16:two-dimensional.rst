@@ -23,7 +23,8 @@ winkler:16:two-dimensional
      volume        = {26},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1142/S0218202516500238>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0218202516500238>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

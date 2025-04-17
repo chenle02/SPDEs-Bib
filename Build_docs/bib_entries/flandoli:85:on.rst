@@ -22,7 +22,8 @@ flandoli:85:on
      volume        = {75},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0005652>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0005652>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

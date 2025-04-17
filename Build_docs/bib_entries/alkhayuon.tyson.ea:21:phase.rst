@@ -22,7 +22,8 @@ alkhayuon.tyson.ea:21:phase
      volume        = {477},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1098/rspa.2021.0059>`_
+
+`The URL link to the source <https://doi.org/10.1098/rspa.2021.0059>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

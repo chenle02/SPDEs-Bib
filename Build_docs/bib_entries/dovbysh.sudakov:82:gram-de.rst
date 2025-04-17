@@ -22,4 +22,4 @@ dovbysh.sudakov:82:gram-de
      year          = {1982}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

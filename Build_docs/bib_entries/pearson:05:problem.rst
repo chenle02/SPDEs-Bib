@@ -21,7 +21,8 @@ pearson:05:problem
      volume        = {72},
      year          = {1905}
    }
-`The URL link to the source <https://doi.org/10.1038/072294b0>`_
+
+`The URL link to the source <https://doi.org/10.1038/072294b0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

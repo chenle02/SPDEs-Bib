@@ -23,7 +23,8 @@ rosen:87:intersection
      volume        = {23},
      year          = {1987}
    }
-`The URL link to the source <https://doi.org/10.1016/0047-259X(87)90176-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/0047-259X(87)90176-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

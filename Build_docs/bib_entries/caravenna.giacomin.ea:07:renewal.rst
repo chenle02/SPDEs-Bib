@@ -23,7 +23,8 @@ caravenna.giacomin.ea:07:renewal
      volume        = {17},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1214/105051607000000159>`_
+
+`The URL link to the source <https://doi.org/10.1214/105051607000000159>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

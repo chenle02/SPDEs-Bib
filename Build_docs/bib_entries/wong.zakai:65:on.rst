@@ -22,7 +22,8 @@ wong.zakai:65:on
      volume        = {36},
      year          = {1965}
    }
-`The URL link to the source <https://doi.org/10.1214/aoms/1177699916>`_
+
+`The URL link to the source <https://doi.org/10.1214/aoms/1177699916>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

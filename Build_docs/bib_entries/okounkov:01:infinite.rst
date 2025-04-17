@@ -23,7 +23,8 @@ okounkov:01:infinite
      volume        = {7},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1007/PL00001398>`_
+
+`The URL link to the source <https://doi.org/10.1007/PL00001398>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

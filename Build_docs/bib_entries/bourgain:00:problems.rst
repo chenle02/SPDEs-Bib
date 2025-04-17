@@ -22,7 +22,8 @@ bourgain:00:problems
      url           = {https://doi.org/10.1007/978-3-0346-0422-2\_2},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-0346-0422-2\_2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-0346-0422-2\_2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

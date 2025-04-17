@@ -23,7 +23,8 @@ bordenave.lacoin:22:cutoff
      volume        = {21},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1017/S1474748020000663>`_
+
+`The URL link to the source <https://doi.org/10.1017/S1474748020000663>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

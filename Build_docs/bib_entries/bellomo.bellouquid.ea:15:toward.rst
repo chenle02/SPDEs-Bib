@@ -22,7 +22,8 @@ bellomo.bellouquid.ea:15:toward
      volume        = {25},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1142/S021820251550044X>`_
+
+`The URL link to the source <https://doi.org/10.1142/S021820251550044X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

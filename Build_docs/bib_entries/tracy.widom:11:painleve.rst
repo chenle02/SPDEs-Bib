@@ -23,7 +23,8 @@ tracy.widom:11:painleve
      volume        = {47},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.2977/PRIMS/38>`_
+
+`The URL link to the source <https://doi.org/10.2977/PRIMS/38>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

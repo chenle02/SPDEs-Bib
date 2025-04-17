@@ -22,7 +22,8 @@ bourgain.reinov:85:on
      volume        = {122},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1002/mana.19851220103>`_
+
+`The URL link to the source <https://doi.org/10.1002/mana.19851220103>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

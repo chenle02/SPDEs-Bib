@@ -22,7 +22,8 @@ su.lei.ea:21:tracy-widom
      volume        = {36},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s11766-021-4251-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11766-021-4251-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

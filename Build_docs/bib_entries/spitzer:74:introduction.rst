@@ -21,4 +21,4 @@ spitzer:74:introduction
      year          = {1974}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

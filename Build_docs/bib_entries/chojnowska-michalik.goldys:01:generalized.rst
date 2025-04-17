@@ -23,7 +23,8 @@ chojnowska-michalik.goldys:01:generalized
      volume        = {182},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.2000.3722>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.2000.3722>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

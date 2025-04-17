@@ -23,7 +23,8 @@ bertoin:96:iterated
      volume        = {27},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1016/0167-7152(95)00051-8>`_
+
+`The URL link to the source <https://doi.org/10.1016/0167-7152(95)00051-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ polchinski:04:monopoles
      volume        = {19},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1142/S0217751X0401866X>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0217751X0401866X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

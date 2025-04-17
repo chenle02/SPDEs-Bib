@@ -23,7 +23,8 @@ bourgain:82:remark
      volume        = {72},
      year          = {1982}
    }
-`The URL link to the source <https://doi.org/10.4064/sm-72-3-285-289>`_
+
+`The URL link to the source <https://doi.org/10.4064/sm-72-3-285-289>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

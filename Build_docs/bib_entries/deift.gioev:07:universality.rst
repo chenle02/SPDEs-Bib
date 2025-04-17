@@ -23,7 +23,8 @@ deift.gioev:07:universality
      volume        = {60},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.20164>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.20164>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

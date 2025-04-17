@@ -23,7 +23,8 @@ duplantier.sheffield:11:liouville
      volume        = {185},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/s00222-010-0308-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00222-010-0308-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

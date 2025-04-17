@@ -22,7 +22,8 @@ ehrhardt.rider:13:perturbed
      volume        = {49},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1214/12-AIHP501>`_
+
+`The URL link to the source <https://doi.org/10.1214/12-AIHP501>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

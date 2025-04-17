@@ -20,4 +20,4 @@ zabczyk:04:topics
      year          = {2004}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

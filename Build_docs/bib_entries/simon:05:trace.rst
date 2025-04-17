@@ -23,7 +23,8 @@ simon:05:trace
      volume        = {120},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1090/surv/120>`_
+
+`The URL link to the source <https://doi.org/10.1090/surv/120>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

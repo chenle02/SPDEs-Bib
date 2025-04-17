@@ -23,7 +23,8 @@ alos.nualart:03:stochastic
      volume        = {75},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1080/1045112031000078917>`_
+
+`The URL link to the source <https://doi.org/10.1080/1045112031000078917>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ cheng.hu.ea:20:generalized
      volume        = {23},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s11203-019-09201-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11203-019-09201-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

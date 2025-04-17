@@ -22,7 +22,8 @@ derrida.hilhorst:83:singular
      volume        = {16},
      year          = {1983}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/16/2641>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/16/2641>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

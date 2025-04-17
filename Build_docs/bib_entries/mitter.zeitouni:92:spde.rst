@@ -22,4 +22,4 @@ mitter.zeitouni:92:spde
      year          = {1992}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

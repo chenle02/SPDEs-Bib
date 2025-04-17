@@ -22,7 +22,8 @@ schatte:88:on
      volume        = {137},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1002/mana.19881370117>`_
+
+`The URL link to the source <https://doi.org/10.1002/mana.19881370117>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

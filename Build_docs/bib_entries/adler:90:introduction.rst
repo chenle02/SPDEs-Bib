@@ -21,4 +21,4 @@ adler:90:introduction
      year          = {1990}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ ran.zhang:10:existence
      volume        = {23},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-009-0252-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-009-0252-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

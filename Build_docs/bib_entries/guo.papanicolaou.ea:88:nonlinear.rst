@@ -22,7 +22,8 @@ guo.papanicolaou.ea:88:nonlinear
      volume        = {118},
      year          = {1988}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104161907>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104161907>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

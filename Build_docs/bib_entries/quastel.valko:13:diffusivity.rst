@@ -23,7 +23,8 @@ quastel.valko:13:diffusivity
      volume        = {210},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s00205-013-0651-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00205-013-0651-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

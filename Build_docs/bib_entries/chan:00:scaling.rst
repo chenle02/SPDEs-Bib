@@ -23,7 +23,8 @@ chan:00:scaling
      volume        = {209},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/PL00020963>`_
+
+`The URL link to the source <https://doi.org/10.1007/PL00020963>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

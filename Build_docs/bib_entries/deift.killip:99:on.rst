@@ -23,7 +23,8 @@ deift.killip:99:on
      volume        = {203},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1007/s002200050615>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002200050615>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

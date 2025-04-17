@@ -22,7 +22,8 @@ black:20:global
      volume        = {13},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.3934/dcdss.2020007>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcdss.2020007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

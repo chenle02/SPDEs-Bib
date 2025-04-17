@@ -22,7 +22,8 @@ korteweg.vries:95:on
      volume        = {39},
      year          = {1895}
    }
-`The URL link to the source <https://doi.org/10.1080/14786449508620739>`_
+
+`The URL link to the source <https://doi.org/10.1080/14786449508620739>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

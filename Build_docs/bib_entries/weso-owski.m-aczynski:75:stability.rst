@@ -21,4 +21,4 @@ weso-owski.m-aczynski:75:stability
      year          = {1975}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

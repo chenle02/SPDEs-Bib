@@ -23,7 +23,8 @@ berman:85:asymptotic*1
      volume        = {22},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.2307/3213789>`_
+
+`The URL link to the source <https://doi.org/10.2307/3213789>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

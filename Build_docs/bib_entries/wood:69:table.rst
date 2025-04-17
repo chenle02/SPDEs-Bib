@@ -21,7 +21,8 @@ wood:69:table
      volume        = {23},
      year          = {1969}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0025-5718(196904)23:106<467:TE>2.0.CO;2-C\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0025-5718(196904)23:106<467:TE>2.0.CO;2-C\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

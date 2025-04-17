@@ -21,7 +21,8 @@ cazenave.lions:82:orbital
      volume        = {85},
      year          = {1982}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103921547>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103921547>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ morzfeld.tu.ea:12:random
      volume        = {231},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jcp.2011.11.022>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jcp.2011.11.022>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

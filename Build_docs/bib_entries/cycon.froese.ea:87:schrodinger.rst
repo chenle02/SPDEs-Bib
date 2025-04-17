@@ -21,4 +21,4 @@ cycon.froese.ea:87:schrodinger
      year          = {1987}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

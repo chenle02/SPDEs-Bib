@@ -21,7 +21,8 @@ zhang.angst:20:dual-permeability
      volume        = {135},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s11242-020-01469-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s11242-020-01469-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

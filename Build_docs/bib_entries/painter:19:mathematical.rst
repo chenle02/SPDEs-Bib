@@ -21,7 +21,8 @@ painter:19:mathematical
      volume        = {481},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jtbi.2018.06.019>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jtbi.2018.06.019>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

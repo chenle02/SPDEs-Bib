@@ -23,7 +23,8 @@ berg.kesten:85:inequalities
      volume        = {22},
      year          = {1985}
    }
-`The URL link to the source <https://doi.org/10.1017/s0021900200029326>`_
+
+`The URL link to the source <https://doi.org/10.1017/s0021900200029326>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

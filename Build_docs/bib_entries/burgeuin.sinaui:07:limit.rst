@@ -23,7 +23,8 @@ burgeuin.sinaui:07:limit
      volume        = {62},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1070/RM2007v062n04ABEH004429>`_
+
+`The URL link to the source <https://doi.org/10.1070/RM2007v062n04ABEH004429>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ hinojosa-calleja.sanz-sole:21:anisotropic
      volume        = {9},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-021-00190-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-021-00190-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ brzezniak.goldys.ea:10:time
      volume        = {348},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.crma.2010.01.022>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.crma.2010.01.022>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ calvez.corrias.ea:12:blow-up
      volume        = {37},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1080/03605302.2012.655824>`_
+
+`The URL link to the source <https://doi.org/10.1080/03605302.2012.655824>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

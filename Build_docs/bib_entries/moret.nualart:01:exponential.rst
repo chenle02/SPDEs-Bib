@@ -23,7 +23,8 @@ moret.nualart:01:exponential
      volume        = {54},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1016/S0167-7152(00)00245-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0167-7152(00)00245-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

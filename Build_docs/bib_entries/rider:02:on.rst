@@ -23,7 +23,8 @@ rider:02:on
      volume        = {55},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.10043>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.10043>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

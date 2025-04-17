@@ -23,7 +23,8 @@ simon:07:cmv
      volume        = {208},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.cam.2006.10.033>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.cam.2006.10.033>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

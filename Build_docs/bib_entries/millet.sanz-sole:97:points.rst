@@ -23,7 +23,8 @@ millet.sanz-sole:97:points
      volume        = {7},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1008695929633>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1008695929633>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

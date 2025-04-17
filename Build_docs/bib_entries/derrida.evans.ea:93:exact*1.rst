@@ -21,7 +21,8 @@ derrida.evans.ea:93:exact*1
      volume        = {26},
      year          = {1993}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/26/4911>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/26/4911>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

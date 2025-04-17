@@ -22,4 +22,4 @@ cranston.orey.ea:80:exterior
      year          = {1980}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ gesztesy.simon:00:inverse
      volume        = {352},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-99-02544-1>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-99-02544-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

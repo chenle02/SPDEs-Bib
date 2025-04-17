@@ -22,7 +22,8 @@ ruelle:87:mathematical
      volume        = {108},
      year          = {1987}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104116461>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104116461>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

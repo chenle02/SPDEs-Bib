@@ -23,7 +23,8 @@ fromm:93:potential
      volume        = {119},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.2307/2159846>`_
+
+`The URL link to the source <https://doi.org/10.2307/2159846>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

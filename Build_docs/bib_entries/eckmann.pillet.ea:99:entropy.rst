@@ -23,7 +23,8 @@ eckmann.pillet.ea:99:entropy
      volume        = {95},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1004537730090>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1004537730090>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

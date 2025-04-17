@@ -23,7 +23,8 @@ kim.sowers:12:numerical
      volume        = {30},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1080/07362994.2012.704847>`_
+
+`The URL link to the source <https://doi.org/10.1080/07362994.2012.704847>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

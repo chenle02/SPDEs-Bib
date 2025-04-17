@@ -22,7 +22,8 @@ mizoguchi:16:type
      volume        = {271},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2016.09.016>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2016.09.016>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

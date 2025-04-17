@@ -22,7 +22,8 @@ mueller.starr:13:length
      volume        = {26},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-011-0364-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-011-0364-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

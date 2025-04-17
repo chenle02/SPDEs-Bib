@@ -22,7 +22,8 @@ bojdecki.gorostiza.ea:97:time-localization
      volume        = {6},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1008627700710>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1008627700710>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ dumitriu.edelman:02:matrix
      volume        = {43},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1063/1.1507823>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.1507823>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

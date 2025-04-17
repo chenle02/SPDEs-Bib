@@ -23,7 +23,8 @@ harnett.nualart:15:on
      volume        = {28},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-014-0552-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-014-0552-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

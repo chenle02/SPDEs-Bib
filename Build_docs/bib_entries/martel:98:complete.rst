@@ -23,7 +23,8 @@ martel:98:complete
      volume        = {15},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1016/S0294-1449(99)80002-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0294-1449(99)80002-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

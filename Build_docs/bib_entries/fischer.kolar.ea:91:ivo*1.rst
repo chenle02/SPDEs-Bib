@@ -21,4 +21,4 @@ fischer.kolar.ea:91:ivo*1
      year          = {1991}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

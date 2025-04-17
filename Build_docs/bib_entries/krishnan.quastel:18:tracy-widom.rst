@@ -22,7 +22,8 @@ krishnan.quastel:18:tracy-widom
      volume        = {28},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1214/18-AAP1404>`_
+
+`The URL link to the source <https://doi.org/10.1214/18-AAP1404>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

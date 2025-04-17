@@ -22,7 +22,8 @@ dawson:72:stochastic
      volume        = {15},
      year          = {1972}
    }
-`The URL link to the source <https://doi.org/10.1016/0025-5564(72)90039-9>`_
+
+`The URL link to the source <https://doi.org/10.1016/0025-5564(72)90039-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ espejo.winkler:18:global
      volume        = {31},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1088/1361-6544/aa9d5f>`_
+
+`The URL link to the source <https://doi.org/10.1088/1361-6544/aa9d5f>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

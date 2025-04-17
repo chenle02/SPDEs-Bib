@@ -22,7 +22,8 @@ bournaveas.calvez:10:one-dimensional
      volume        = {23},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1088/0951-7715/23/4/009>`_
+
+`The URL link to the source <https://doi.org/10.1088/0951-7715/23/4/009>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ baras.goldstein:84:heat
      volume        = {284},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.2307/1999277>`_
+
+`The URL link to the source <https://doi.org/10.2307/1999277>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

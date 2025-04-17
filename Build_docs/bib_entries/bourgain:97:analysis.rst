@@ -23,7 +23,8 @@ bourgain:97:analysis
      volume        = {208},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1090/conm/208/02736>`_
+
+`The URL link to the source <https://doi.org/10.1090/conm/208/02736>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

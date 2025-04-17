@@ -23,7 +23,8 @@ sun.xiao.ea:18:uniform
      volume        = {24},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.3150/17-BEJ994>`_
+
+`The URL link to the source <https://doi.org/10.3150/17-BEJ994>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

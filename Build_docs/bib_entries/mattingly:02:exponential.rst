@@ -22,7 +22,8 @@ mattingly:02:exponential
      volume        = {230},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-002-0688-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-002-0688-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

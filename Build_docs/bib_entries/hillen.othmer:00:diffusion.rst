@@ -23,7 +23,8 @@ hillen.othmer:00:diffusion
      volume        = {61},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1137/S0036139999358167>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0036139999358167>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

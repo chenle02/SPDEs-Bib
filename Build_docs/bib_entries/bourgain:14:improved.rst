@@ -22,7 +22,8 @@ bourgain:14:improved
      volume        = {2116},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-319-09477-9\_5>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-09477-9\_5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

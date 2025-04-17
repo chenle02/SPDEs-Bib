@@ -21,7 +21,8 @@ emile-borel:09:probabilites
      volume        = {27},
      year          = {1909}
    }
-`The URL link to the source <https://doi.org/10.1007/BF03019651>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF03019651>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ guneysu:11:multiplicative
      volume        = {380},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2011.02.038>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2011.02.038>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

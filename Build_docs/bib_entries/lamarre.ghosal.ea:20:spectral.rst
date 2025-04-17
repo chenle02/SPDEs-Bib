@@ -22,7 +22,8 @@ lamarre.ghosal.ea:20:spectral
      volume        = {21},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s00023-020-00921-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00023-020-00921-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

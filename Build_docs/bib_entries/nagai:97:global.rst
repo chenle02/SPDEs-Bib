@@ -24,7 +24,8 @@ nagai:97:global
      volume        = {30},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1016/S0362-546X(97)00395-7>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0362-546X(97)00395-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

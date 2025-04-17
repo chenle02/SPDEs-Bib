@@ -22,7 +22,8 @@ bai.yin:88:necessary
      volume        = {16},
      year          = {1988}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198810)16:4<1729:NASCFA>2.0.CO;2-C\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198810)16:4<1729:NASCFA>2.0.CO;2-C\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

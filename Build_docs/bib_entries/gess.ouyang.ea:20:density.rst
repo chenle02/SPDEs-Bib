@@ -23,7 +23,8 @@ gess.ouyang.ea:20:density
      volume        = {33},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-019-00967-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-019-00967-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

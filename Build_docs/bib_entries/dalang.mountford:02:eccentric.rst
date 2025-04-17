@@ -23,7 +23,8 @@ dalang.mountford:02:eccentric
      volume        = {30},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1214/aop/1020107769>`_
+
+`The URL link to the source <https://doi.org/10.1214/aop/1020107769>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

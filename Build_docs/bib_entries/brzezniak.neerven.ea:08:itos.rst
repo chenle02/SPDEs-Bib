@@ -22,7 +22,8 @@ brzezniak.neerven.ea:08:itos
      volume        = {245},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2008.03.026>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2008.03.026>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

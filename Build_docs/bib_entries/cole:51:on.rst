@@ -22,7 +22,8 @@ cole:51:on
      volume        = {9},
      year          = {1951}
    }
-`The URL link to the source <https://doi.org/10.1090/qam/42889>`_
+
+`The URL link to the source <https://doi.org/10.1090/qam/42889>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

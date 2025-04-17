@@ -23,7 +23,8 @@ corwin.ghosal:20:lower
      volume        = {169},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1215/00127094-2019-0079>`_
+
+`The URL link to the source <https://doi.org/10.1215/00127094-2019-0079>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ pitt:71:markov
      volume        = {43},
      year          = {1971}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00252003>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00252003>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bessaih.flandoli.ea:10:stochastic
      volume        = {140},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s10955-010-0010-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10955-010-0010-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

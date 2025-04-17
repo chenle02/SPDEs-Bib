@@ -23,7 +23,8 @@ oelschlager:89:on
      volume        = {82},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00341284>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00341284>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ barndorff-nielsen:00:superposition
      volume        = {45},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1137/S0040585X97978166>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0040585X97978166>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

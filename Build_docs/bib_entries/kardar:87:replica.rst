@@ -23,7 +23,8 @@ kardar:87:replica
      volume        = {290},
      year          = {1987}
    }
-`The URL link to the source <https://doi.org/10.1016/0550-3213(87)90203-3>`_
+
+`The URL link to the source <https://doi.org/10.1016/0550-3213(87)90203-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

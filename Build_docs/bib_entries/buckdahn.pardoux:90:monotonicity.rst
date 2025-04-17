@@ -21,7 +21,8 @@ buckdahn.pardoux:90:monotonicity
      volume        = {22},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1007/978-1-4684-0564-4\_13>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4684-0564-4\_13>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

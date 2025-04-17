@@ -22,7 +22,8 @@ mccoy.tracy.ea:77:connection
      volume        = {61},
      year          = {1977}
    }
-`The URL link to the source <https://doi.org/10.1016/0375-9601(77)90613-2>`_
+
+`The URL link to the source <https://doi.org/10.1016/0375-9601(77)90613-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

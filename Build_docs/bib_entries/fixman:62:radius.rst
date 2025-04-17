@@ -22,7 +22,8 @@ fixman:62:radius
      volume        = {36},
      year          = {1962}
    }
-`The URL link to the source <https://doi.org/10.1063/1.1732501>`_
+
+`The URL link to the source <https://doi.org/10.1063/1.1732501>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

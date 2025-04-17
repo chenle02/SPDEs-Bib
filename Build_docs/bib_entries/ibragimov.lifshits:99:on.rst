@@ -23,7 +23,8 @@ ibragimov.lifshits:99:on
      volume        = {44},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1137/S0040585X97977562>`_
+
+`The URL link to the source <https://doi.org/10.1137/S0040585X97977562>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

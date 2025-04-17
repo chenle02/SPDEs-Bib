@@ -23,7 +23,8 @@ brzezniak:95:stochastic
      volume        = {4},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01048965>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01048965>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

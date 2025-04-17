@@ -21,7 +21,8 @@ krapf.metzler:19:strange-interfacial-molecular-dynamics
      volume        = {72},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1063/PT.3.4294>`_
+
+`The URL link to the source <https://doi.org/10.1063/PT.3.4294>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ da-prato.g-atarek.ea:92:invariant
      volume        = {10},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1080/07362999208809278>`_
+
+`The URL link to the source <https://doi.org/10.1080/07362999208809278>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

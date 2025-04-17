@@ -22,7 +22,8 @@ erdem.ceyhan.ea:14:new
      volume        = {414},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1016/j.physa.2014.07.054>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.physa.2014.07.054>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

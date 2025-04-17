@@ -22,7 +22,8 @@ ouyang.shi.ea:18:mutual
      volume        = {135},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spl.2017.11.012>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2017.11.012>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

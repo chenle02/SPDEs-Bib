@@ -23,7 +23,8 @@ bourgain.brezis.ea:15:new
      volume        = {17},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.4171/JEMS/551>`_
+
+`The URL link to the source <https://doi.org/10.4171/JEMS/551>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

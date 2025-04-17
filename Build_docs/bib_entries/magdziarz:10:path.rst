@@ -23,7 +23,8 @@ magdziarz:10:path
      volume        = {26},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1080/15326341003756379>`_
+
+`The URL link to the source <https://doi.org/10.1080/15326341003756379>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

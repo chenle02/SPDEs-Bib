@@ -22,7 +22,8 @@ cranston.lejan:98:geometric
      volume        = {3},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1214/EJP.v3-26>`_
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v3-26>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ komorowski.peszat.ea:13:passive
      volume        = {26},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.1088/0951-7715/26/7/1999>`_
+
+`The URL link to the source <https://doi.org/10.1088/0951-7715/26/7/1999>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

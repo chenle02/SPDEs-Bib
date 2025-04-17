@@ -23,7 +23,8 @@ boas.boas:88:short
      volume        = {102},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.2307/2047332>`_
+
+`The URL link to the source <https://doi.org/10.2307/2047332>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

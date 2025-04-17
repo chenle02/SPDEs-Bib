@@ -21,7 +21,8 @@ zhao.zheng:18:global
      volume        = {42},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2017.12.007>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2017.12.007>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

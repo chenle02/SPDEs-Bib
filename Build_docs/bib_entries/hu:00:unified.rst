@@ -21,7 +21,8 @@ hu:00:unified
      volume        = {1729},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0103811>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0103811>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

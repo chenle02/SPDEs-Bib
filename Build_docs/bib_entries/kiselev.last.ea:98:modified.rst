@@ -23,7 +23,8 @@ kiselev.last.ea:98:modified
      volume        = {194},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1007/s002200050346>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002200050346>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

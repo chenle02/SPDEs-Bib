@@ -23,7 +23,8 @@ xiao:09:packing
      volume        = {79},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spl.2008.07.022>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2008.07.022>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

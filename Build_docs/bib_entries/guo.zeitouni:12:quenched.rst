@@ -23,7 +23,8 @@ guo.zeitouni:12:quenched
      volume        = {152},
      year          = {2012}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-010-0320-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-010-0320-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

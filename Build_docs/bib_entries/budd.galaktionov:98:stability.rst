@@ -23,7 +23,8 @@ budd.galaktionov:98:stability
      volume        = {454},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1098/rspa.1998.0263>`_
+
+`The URL link to the source <https://doi.org/10.1098/rspa.1998.0263>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ vershik.zeitouni:99:large
      volume        = {109},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02775023>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02775023>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

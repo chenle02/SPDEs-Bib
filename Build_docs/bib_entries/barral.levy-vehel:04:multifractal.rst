@@ -22,7 +22,8 @@ barral.levy-vehel:04:multifractal
      volume        = {9},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1214/EJP.v9-208>`_
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v9-208>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

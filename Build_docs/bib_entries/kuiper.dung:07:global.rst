@@ -23,7 +23,8 @@ kuiper.dung:07:global
      volume        = {37},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1216/rmjm/1194275939>`_
+
+`The URL link to the source <https://doi.org/10.1216/rmjm/1194275939>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

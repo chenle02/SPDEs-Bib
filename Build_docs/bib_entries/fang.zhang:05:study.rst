@@ -23,7 +23,8 @@ fang.zhang:05:study
      volume        = {132},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-004-0398-z>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-004-0398-z>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

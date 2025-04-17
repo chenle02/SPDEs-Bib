@@ -23,7 +23,8 @@ gelbaum:14:fractional
      volume        = {366},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-2014-06106-0>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-2014-06106-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,8 @@ hitczenko.kwapien.ea:98:hypercontractivity
      volume        = {3},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1214/EJP.v3-24>`_
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v3-24>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

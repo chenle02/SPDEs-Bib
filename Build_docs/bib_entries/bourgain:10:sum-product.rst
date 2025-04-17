@@ -21,7 +21,8 @@ bourgain:10:sum-product
      url           = {https://doi.org/10.1007/978-0-387-68361-4\_2},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/978-0-387-68361-4\_2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-0-387-68361-4\_2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

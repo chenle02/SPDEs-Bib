@@ -23,7 +23,8 @@ lan.marinucci.ea:18:strong
      volume        = {128},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2017.07.008>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2017.07.008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

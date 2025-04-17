@@ -23,7 +23,8 @@ berger.chong.ea:23:stochastic
      volume        = {402},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-023-04768-9>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-023-04768-9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

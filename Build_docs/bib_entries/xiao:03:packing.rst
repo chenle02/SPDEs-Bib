@@ -23,7 +23,8 @@ xiao:03:packing
      volume        = {135},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1017/S0305004103006753>`_
+
+`The URL link to the source <https://doi.org/10.1017/S0305004103006753>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

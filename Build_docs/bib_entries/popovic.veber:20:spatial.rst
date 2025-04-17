@@ -15,7 +15,8 @@ popovic.veber:20:spatial
      url           = {http://arXiv.org/abs/2008.12373},
      year          = {2020}
    }
-`The URL link to the source <http://arXiv.org/abs/2008.12373>`_
+
+`The URL link to the source <http://arXiv.org/abs/2008.12373>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

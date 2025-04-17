@@ -21,7 +21,8 @@ feynman:55:slow
      volume        = {97},
      year          = {1955}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRev.97.660>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRev.97.660>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

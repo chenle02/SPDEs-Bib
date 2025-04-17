@@ -22,7 +22,8 @@ spitzer:55:on
      volume        = {6},
      year          = {1955}
    }
-`The URL link to the source <https://doi.org/10.2307/2032795>`_
+
+`The URL link to the source <https://doi.org/10.2307/2032795>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

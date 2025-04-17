@@ -23,7 +23,8 @@ jordan.wheeler:76:generalization
      volume        = {57},
      year          = {1976}
    }
-`The URL link to the source <https://doi.org/10.2307/2040875>`_
+
+`The URL link to the source <https://doi.org/10.2307/2040875>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

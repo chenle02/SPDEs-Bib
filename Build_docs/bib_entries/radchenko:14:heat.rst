@@ -23,7 +23,8 @@ radchenko:14:heat
      volume        = {1},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.15559/14-VMSTA14>`_
+
+`The URL link to the source <https://doi.org/10.15559/14-VMSTA14>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

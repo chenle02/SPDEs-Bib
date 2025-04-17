@@ -23,7 +23,8 @@ hu.ustunel.ea:02:tangent
      volume        = {192},
      year          = {2002}
    }
-`The URL link to the source <https://doi.org/10.1006/jfan.2001.3897>`_
+
+`The URL link to the source <https://doi.org/10.1006/jfan.2001.3897>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ bessemoulin-chatard.jungel:14:finite
      volume        = {34},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1093/imanum/drs061>`_
+
+`The URL link to the source <https://doi.org/10.1093/imanum/drs061>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

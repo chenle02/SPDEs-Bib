@@ -22,7 +22,8 @@ attia.barral:17:erratum
      volume        = {351},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-016-2826-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-016-2826-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bertozzi.laurent.ea:11:lp
      volume        = {64},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.20334>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.20334>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

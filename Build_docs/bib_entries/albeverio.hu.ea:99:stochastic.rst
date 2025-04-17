@@ -23,7 +23,8 @@ albeverio.hu.ea:99:stochastic
      volume        = {40},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.1007/s002459900129>`_
+
+`The URL link to the source <https://doi.org/10.1007/s002459900129>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ zeitouni:84:on
      volume        = {29},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1109/TAC.1984.1103661>`_
+
+`The URL link to the source <https://doi.org/10.1109/TAC.1984.1103661>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

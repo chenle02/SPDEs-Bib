@@ -22,7 +22,8 @@ tracy:91:asymptotics
      volume        = {142},
      year          = {1991}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104248587>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104248587>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

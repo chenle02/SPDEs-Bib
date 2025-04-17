@@ -23,7 +23,8 @@ yang.zhang:14:existence
      volume        = {27},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-012-0448-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-012-0448-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

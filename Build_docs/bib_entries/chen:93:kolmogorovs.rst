@@ -22,4 +22,4 @@ chen:93:kolmogorovs
      year          = {1993}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

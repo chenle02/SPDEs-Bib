@@ -23,7 +23,8 @@ anderson:82:reverse-time
      volume        = {12},
      year          = {1982}
    }
-`The URL link to the source <https://doi.org/10.1016/0304-4149(82)90051-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(82)90051-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

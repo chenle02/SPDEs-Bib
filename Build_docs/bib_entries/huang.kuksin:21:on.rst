@@ -22,7 +22,8 @@ huang.kuksin:21:on
      volume        = {9},
      year          = {2021}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-020-00187-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-020-00187-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ palmer.tracy:83:two-dimensional
      volume        = {4},
      year          = {1983}
    }
-`The URL link to the source <https://doi.org/10.1016/0196-8858(83)90005-2>`_
+
+`The URL link to the source <https://doi.org/10.1016/0196-8858(83)90005-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

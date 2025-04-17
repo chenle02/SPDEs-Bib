@@ -21,7 +21,8 @@ kohatsu-higa.nualart.ea:22:density
      volume        = {420},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1016/j.amc.2021.126814>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.amc.2021.126814>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

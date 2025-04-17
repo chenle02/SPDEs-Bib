@@ -21,7 +21,8 @@ spitzer:64:electrostatic
      volume        = {3},
      year          = {1964}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00535970>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00535970>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

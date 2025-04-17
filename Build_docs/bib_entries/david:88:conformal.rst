@@ -22,7 +22,8 @@ david:88:conformal
      volume        = {3},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1142/S0217732388001975>`_
+
+`The URL link to the source <https://doi.org/10.1142/S0217732388001975>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

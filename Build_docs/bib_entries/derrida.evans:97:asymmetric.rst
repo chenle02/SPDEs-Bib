@@ -20,7 +20,8 @@ derrida.evans:97:asymmetric
      url           = {https://doi.org/10.1017/CBO9780511564284.020},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511564284.020>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511564284.020>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

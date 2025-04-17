@@ -23,7 +23,8 @@ caffarelli.soria.ea:13:regularity
      volume        = {15},
      year          = {2013}
    }
-`The URL link to the source <https://doi.org/10.4171/JEMS/401>`_
+
+`The URL link to the source <https://doi.org/10.4171/JEMS/401>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

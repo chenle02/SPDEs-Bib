@@ -22,7 +22,8 @@ chen:17:acknowledgment
      volume        = {30},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-015-0649-1>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-015-0649-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

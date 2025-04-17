@@ -22,7 +22,8 @@ slepian:62:one-sided
      volume        = {41},
      year          = {1962}
    }
-`The URL link to the source <https://doi.org/10.1002/j.1538-7305.1962.tb02419.x>`_
+
+`The URL link to the source <https://doi.org/10.1002/j.1538-7305.1962.tb02419.x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

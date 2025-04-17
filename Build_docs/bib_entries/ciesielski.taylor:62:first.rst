@@ -22,7 +22,8 @@ ciesielski.taylor:62:first
      volume        = {103},
      year          = {1962}
    }
-`The URL link to the source <https://doi.org/10.2307/1993838>`_
+
+`The URL link to the source <https://doi.org/10.2307/1993838>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

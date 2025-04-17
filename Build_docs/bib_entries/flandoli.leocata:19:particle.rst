@@ -22,7 +22,8 @@ flandoli.leocata:19:particle
      volume        = {56},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1017/jpr.2019.18>`_
+
+`The URL link to the source <https://doi.org/10.1017/jpr.2019.18>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

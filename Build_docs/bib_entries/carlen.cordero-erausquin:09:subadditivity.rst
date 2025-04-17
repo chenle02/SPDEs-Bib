@@ -23,7 +23,8 @@ carlen.cordero-erausquin:09:subadditivity
      volume        = {19},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s00039-009-0001-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00039-009-0001-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -18,4 +18,4 @@ caballero.banks.ea:22:defense
      year          = {2022}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

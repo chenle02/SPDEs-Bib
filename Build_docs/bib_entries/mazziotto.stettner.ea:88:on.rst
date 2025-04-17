@@ -23,7 +23,8 @@ mazziotto.stettner.ea:88:on
      volume        = {26},
      year          = {1988}
    }
-`The URL link to the source <https://doi.org/10.1137/0326052>`_
+
+`The URL link to the source <https://doi.org/10.1137/0326052>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

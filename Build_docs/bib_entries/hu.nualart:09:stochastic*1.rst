@@ -21,7 +21,8 @@ hu.nualart:09:stochastic*1
      volume        = {14},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1214/ECP.v14-1511>`_
+
+`The URL link to the source <https://doi.org/10.1214/ECP.v14-1511>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

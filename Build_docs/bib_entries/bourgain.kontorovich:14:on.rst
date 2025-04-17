@@ -24,7 +24,8 @@ bourgain.kontorovich:14:on
      volume        = {196},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1007/s00222-013-0475-y>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00222-013-0475-y>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

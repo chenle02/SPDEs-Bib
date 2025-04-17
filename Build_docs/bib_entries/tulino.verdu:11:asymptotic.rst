@@ -18,4 +18,4 @@ tulino.verdu:11:asymptotic
      year          = {2011}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

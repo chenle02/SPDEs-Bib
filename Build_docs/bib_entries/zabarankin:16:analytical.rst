@@ -23,7 +23,8 @@ zabarankin:16:analytical
      volume        = {76},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1137/15M1048471>`_
+
+`The URL link to the source <https://doi.org/10.1137/15M1048471>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ ferrante.sanz-sole:06:spdes
      volume        = {10},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1051/ps:2006016>`_
+
+`The URL link to the source <https://doi.org/10.1051/ps:2006016>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

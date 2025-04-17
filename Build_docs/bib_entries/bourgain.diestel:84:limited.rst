@@ -22,7 +22,8 @@ bourgain.diestel:84:limited
      volume        = {119},
      year          = {1984}
    }
-`The URL link to the source <https://doi.org/10.1002/mana.19841190105>`_
+
+`The URL link to the source <https://doi.org/10.1002/mana.19841190105>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

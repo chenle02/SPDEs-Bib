@@ -21,7 +21,8 @@ kunz.souillard:80:sur
      volume        = {78},
      year          = {1980/81}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103908590>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103908590>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

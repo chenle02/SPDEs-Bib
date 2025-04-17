@@ -23,7 +23,8 @@ qian.shen.ea:90:dynamical
      volume        = {88},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1016/0022-0396(90)90114-5>`_
+
+`The URL link to the source <https://doi.org/10.1016/0022-0396(90)90114-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ hairer.shen:17:central
      volume        = {45},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1214/16-AOP1162>`_
+
+`The URL link to the source <https://doi.org/10.1214/16-AOP1162>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ bourgain.zhang:99:on
      volume        = {34},
      year          = {1999}
    }
-`The URL link to the source <https://doi.org/10.2977/prims/1195144828>`_
+
+`The URL link to the source <https://doi.org/10.2977/prims/1195144828>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

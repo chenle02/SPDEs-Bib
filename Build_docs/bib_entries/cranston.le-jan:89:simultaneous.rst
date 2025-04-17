@@ -23,7 +23,8 @@ cranston.le-jan:89:simultaneous
      volume        = {1372},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0083975>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0083975>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

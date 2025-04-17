@@ -22,7 +22,8 @@ hormander:67:hypoelliptic
      volume        = {119},
      year          = {1967}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02392081>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02392081>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

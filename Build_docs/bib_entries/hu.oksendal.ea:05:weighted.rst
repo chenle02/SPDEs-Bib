@@ -23,7 +23,8 @@ hu.oksendal.ea:05:weighted
      volume        = {23},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1081/SAP-200044412>`_
+
+`The URL link to the source <https://doi.org/10.1081/SAP-200044412>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

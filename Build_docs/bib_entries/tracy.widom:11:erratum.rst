@@ -22,7 +22,8 @@ tracy.widom:11:erratum
      volume        = {304},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1007/s00220-011-1249-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00220-011-1249-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

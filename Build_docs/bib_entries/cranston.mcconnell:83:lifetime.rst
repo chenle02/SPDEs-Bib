@@ -23,7 +23,8 @@ cranston.mcconnell:83:lifetime
      volume        = {65},
      year          = {1983}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00534989>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00534989>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

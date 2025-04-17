@@ -23,7 +23,8 @@ bourgain.shparlinski:08:distribution
      volume        = {134},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.4064/aa134-1-6>`_
+
+`The URL link to the source <https://doi.org/10.4064/aa134-1-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ duminil-copin:20:lectures
      volume        = {304},
      year          = {[2020] \copyright 2020}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-030-32011-9\_2>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-030-32011-9\_2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

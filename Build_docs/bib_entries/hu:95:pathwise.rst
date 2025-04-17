@@ -23,7 +23,8 @@ hu:95:pathwise
      volume        = {15},
      year          = {1995}
    }
-`The URL link to the source <https://doi.org/10.1016/S0252-9602(18)30048-1>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(18)30048-1>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

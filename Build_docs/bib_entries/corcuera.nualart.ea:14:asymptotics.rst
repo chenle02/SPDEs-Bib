@@ -22,7 +22,8 @@ corcuera.nualart.ea:14:asymptotics
      volume        = {6},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1685/journal.caim.486>`_
+
+`The URL link to the source <https://doi.org/10.1685/journal.caim.486>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

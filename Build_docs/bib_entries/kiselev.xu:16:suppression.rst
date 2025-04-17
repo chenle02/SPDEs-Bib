@@ -23,7 +23,8 @@ kiselev.xu:16:suppression
      volume        = {222},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s00205-016-1017-8>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00205-016-1017-8>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ liang.zhao:07:asymptotic
      volume        = {60},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.20154>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.20154>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ nualart:84:on
      volume        = {12},
      year          = {1984}
    }
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198405)12:2<445:OTQVOT>2.0.CO;2-L\&origin=MSN>`_
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198405)12:2<445:OTQVOT>2.0.CO;2-L\&origin=MSN>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

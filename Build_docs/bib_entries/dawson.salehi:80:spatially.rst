@@ -23,7 +23,8 @@ dawson.salehi:80:spatially
      volume        = {10},
      year          = {1980}
    }
-`The URL link to the source <https://doi.org/10.1016/0047-259X(80)90012-3>`_
+
+`The URL link to the source <https://doi.org/10.1016/0047-259X(80)90012-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

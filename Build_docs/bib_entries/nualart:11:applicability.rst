@@ -22,7 +22,8 @@ nualart:11:applicability
      volume        = {26},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.2436/20.2002.01.37>`_
+
+`The URL link to the source <https://doi.org/10.2436/20.2002.01.37>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

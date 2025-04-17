@@ -23,7 +23,8 @@ dembo.zeitouni:96:refinements
      volume        = {104},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01303799>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01303799>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

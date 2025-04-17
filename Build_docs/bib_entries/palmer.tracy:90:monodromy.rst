@@ -22,7 +22,8 @@ palmer.tracy:90:monodromy
      volume        = {108},
      year          = {1990}
    }
-`The URL link to the source <https://doi.org/10.1090/conm/108/1068338>`_
+
+`The URL link to the source <https://doi.org/10.1090/conm/108/1068338>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

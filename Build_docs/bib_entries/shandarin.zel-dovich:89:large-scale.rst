@@ -22,7 +22,8 @@ shandarin.zel-dovich:89:large-scale
      volume        = {61},
      year          = {1989}
    }
-`The URL link to the source <https://doi.org/10.1103/RevModPhys.61.185>`_
+
+`The URL link to the source <https://doi.org/10.1103/RevModPhys.61.185>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

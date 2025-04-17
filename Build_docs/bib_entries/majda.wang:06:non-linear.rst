@@ -20,7 +20,8 @@ majda.wang:06:non-linear
      url           = {https://doi.org/10.1017/CBO9780511616778},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1017/CBO9780511616778>`_
+
+`The URL link to the source <https://doi.org/10.1017/CBO9780511616778>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

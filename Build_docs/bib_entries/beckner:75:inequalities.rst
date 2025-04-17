@@ -23,7 +23,8 @@ beckner:75:inequalities
      volume        = {102},
      year          = {1975}
    }
-`The URL link to the source <https://doi.org/10.2307/1970980>`_
+
+`The URL link to the source <https://doi.org/10.2307/1970980>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

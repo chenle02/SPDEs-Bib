@@ -22,7 +22,8 @@ lacoin.yang:24:mixing
      volume        = {34},
      year          = {2024}
    }
-`The URL link to the source <https://doi.org/10.1214/23-aap1967>`_
+
+`The URL link to the source <https://doi.org/10.1214/23-aap1967>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

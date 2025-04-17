@@ -21,7 +21,8 @@ kwon.hopkins.ea:96:dynamic
      volume        = {54},
      year          = {1996}
    }
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevE.54.685>`_
+
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevE.54.685>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

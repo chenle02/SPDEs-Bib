@@ -23,7 +23,8 @@ nane.ni:17:stability
      volume        = {145},
      year          = {2017}
    }
-`The URL link to the source <https://doi.org/10.1090/proc/13447>`_
+
+`The URL link to the source <https://doi.org/10.1090/proc/13447>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ feng.iscoe.ea:97:microscopic
      volume        = {66},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1016/S0304-4149(96)00121-4>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(96)00121-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

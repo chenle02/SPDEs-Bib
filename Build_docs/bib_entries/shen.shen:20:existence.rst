@@ -23,7 +23,8 @@ shen.shen:20:existence
      volume        = {31},
      year          = {2020}
    }
-`The URL link to the source <https://doi.org/10.1017/s0956792519000202>`_
+
+`The URL link to the source <https://doi.org/10.1017/s0956792519000202>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

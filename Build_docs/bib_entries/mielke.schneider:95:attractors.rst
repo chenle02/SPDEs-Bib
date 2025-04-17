@@ -21,7 +21,8 @@ mielke.schneider:95:attractors
      volume        = {8},
      year          = {1995}
    }
-`The URL link to the source <http://stacks.iop.org/0951-7715/8/743>`_
+
+`The URL link to the source <http://stacks.iop.org/0951-7715/8/743>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

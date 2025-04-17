@@ -22,7 +22,8 @@ ondrejat:10:stochastic
      volume        = {248},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jde.2009.12.010>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2009.12.010>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ ghirlanda.guerra:98:general
      volume        = {31},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1088/0305-4470/31/46/006>`_
+
+`The URL link to the source <https://doi.org/10.1088/0305-4470/31/46/006>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

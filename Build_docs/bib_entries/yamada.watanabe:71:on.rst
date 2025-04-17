@@ -22,7 +22,8 @@ yamada.watanabe:71:on
      volume        = {11},
      year          = {1971}
    }
-`The URL link to the source <https://doi.org/10.1215/kjm/1250523691>`_
+
+`The URL link to the source <https://doi.org/10.1215/kjm/1250523691>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ kochubei:08:non-archimedean
      volume        = {235},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.2140/pjm.2008.235.245>`_
+
+`The URL link to the source <https://doi.org/10.2140/pjm.2008.235.245>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

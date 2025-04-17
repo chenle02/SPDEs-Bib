@@ -22,7 +22,8 @@ mariani.zambotti:14:renewal
      volume        = {19},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1214/ECP.v19-3325>`_
+
+`The URL link to the source <https://doi.org/10.1214/ECP.v19-3325>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

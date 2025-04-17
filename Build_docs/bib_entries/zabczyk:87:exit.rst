@@ -22,7 +22,8 @@ zabczyk:87:exit
      volume        = {1236},
      year          = {1987}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0072894>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0072894>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

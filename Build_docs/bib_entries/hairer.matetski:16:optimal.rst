@@ -22,7 +22,8 @@ hairer.matetski:16:optimal
      volume        = {4},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1007/s40072-015-0067-5>`_
+
+`The URL link to the source <https://doi.org/10.1007/s40072-015-0067-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

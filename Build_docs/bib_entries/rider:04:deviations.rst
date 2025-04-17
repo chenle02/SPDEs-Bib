@@ -23,7 +23,8 @@ rider:04:deviations
      volume        = {130},
      year          = {2004}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-004-0355-x>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-004-0355-x>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

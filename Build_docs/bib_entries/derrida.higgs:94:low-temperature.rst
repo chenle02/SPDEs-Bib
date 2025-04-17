@@ -21,7 +21,8 @@ derrida.higgs:94:low-temperature
      volume        = {27},
      year          = {1994}
    }
-`The URL link to the source <http://stacks.iop.org/0305-4470/27/5485>`_
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/27/5485>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

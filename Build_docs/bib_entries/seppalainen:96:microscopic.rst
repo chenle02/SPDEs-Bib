@@ -22,7 +22,8 @@ seppalainen:96:microscopic
      volume        = {1},
      year          = {1996}
    }
-`The URL link to the source <https://doi.org/10.1214/EJP.v1-5>`_
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v1-5>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

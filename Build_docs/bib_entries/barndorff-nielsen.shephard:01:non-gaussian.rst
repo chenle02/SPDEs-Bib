@@ -22,7 +22,8 @@ barndorff-nielsen.shephard:01:non-gaussian
      volume        = {63},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1111/1467-9868.00282>`_
+
+`The URL link to the source <https://doi.org/10.1111/1467-9868.00282>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

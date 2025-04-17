@@ -22,7 +22,8 @@ hu.nualart:07:differential
      volume        = {2},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-540-70847-6\_17>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-540-70847-6\_17>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

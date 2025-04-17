@@ -23,7 +23,8 @@ cranston.salisbury:93:martin
      volume        = {31},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02559496>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02559496>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

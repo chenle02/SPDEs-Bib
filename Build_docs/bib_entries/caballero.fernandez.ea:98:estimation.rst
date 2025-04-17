@@ -23,7 +23,8 @@ caballero.fernandez.ea:98:estimation
      volume        = {11},
      year          = {1998}
    }
-`The URL link to the source <https://doi.org/10.1023/A:1022614917458>`_
+
+`The URL link to the source <https://doi.org/10.1023/A:1022614917458>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

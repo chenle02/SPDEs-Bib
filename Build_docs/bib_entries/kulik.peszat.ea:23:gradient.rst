@@ -23,7 +23,8 @@ kulik.peszat.ea:23:gradient
      volume        = {30},
      year          = {2023}
    }
-`The URL link to the source <https://doi.org/10.1007/s00030-022-00810-2>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00030-022-00810-2>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

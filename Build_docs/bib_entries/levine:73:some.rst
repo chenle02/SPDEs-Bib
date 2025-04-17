@@ -22,7 +22,8 @@ levine:73:some
      volume        = {51},
      year          = {1973}
    }
-`The URL link to the source <https://doi.org/10.1007/BF00263041>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF00263041>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ bourgain:05:positivity
      volume        = {96},
      year          = {2005}
    }
-`The URL link to the source <https://doi.org/10.1007/BF02787834>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF02787834>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

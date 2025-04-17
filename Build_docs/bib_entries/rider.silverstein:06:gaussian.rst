@@ -23,7 +23,8 @@ rider.silverstein:06:gaussian
      volume        = {34},
      year          = {2006}
    }
-`The URL link to the source <https://doi.org/10.1214/009117906000000403>`_
+
+`The URL link to the source <https://doi.org/10.1214/009117906000000403>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

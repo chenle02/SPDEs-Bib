@@ -21,7 +21,8 @@ calvez.corrias:08:parabolic-parabolic
      volume        = {6},
      year          = {2008}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cms/1214949930>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cms/1214949930>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

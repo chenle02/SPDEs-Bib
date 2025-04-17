@@ -23,7 +23,8 @@ bourgain.davis:86:martingale
      volume        = {294},
      year          = {1986}
    }
-`The URL link to the source <https://doi.org/10.2307/2000196>`_
+
+`The URL link to the source <https://doi.org/10.2307/2000196>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

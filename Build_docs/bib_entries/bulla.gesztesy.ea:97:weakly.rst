@@ -23,7 +23,8 @@ bulla.gesztesy.ea:97:weakly
      volume        = {125},
      year          = {1997}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-97-03726-X>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-97-03726-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ kostov.staudacher:92:multicritical
      volume        = {384},
      year          = {1992}
    }
-`The URL link to the source <https://doi.org/10.1016/0550-3213(92)90576-W>`_
+
+`The URL link to the source <https://doi.org/10.1016/0550-3213(92)90576-W>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

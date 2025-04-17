@@ -22,7 +22,8 @@ kesten:87:scaling
      volume        = {109},
      year          = {1987}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104116714>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104116714>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

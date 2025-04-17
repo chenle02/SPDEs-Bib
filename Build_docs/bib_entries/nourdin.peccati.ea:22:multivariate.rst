@@ -23,7 +23,8 @@ nourdin.peccati.ea:22:multivariate
      volume        = {35},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-021-01112-6>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-021-01112-6>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

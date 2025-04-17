@@ -22,7 +22,8 @@ khoshnevisan.shieh.ea:09:erratum
      volume        = {143},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.1007/s00440-008-0184-4>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00440-008-0184-4>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

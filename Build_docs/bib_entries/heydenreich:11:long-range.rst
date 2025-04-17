@@ -22,7 +22,8 @@ heydenreich:11:long-range
      volume        = {47},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1214/09-AIHP350>`_
+
+`The URL link to the source <https://doi.org/10.1214/09-AIHP350>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

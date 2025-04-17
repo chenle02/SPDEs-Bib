@@ -20,4 +20,4 @@ stoyan:83:comparison
      year          = {1983}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

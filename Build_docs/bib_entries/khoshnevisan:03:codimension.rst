@@ -22,7 +22,8 @@ khoshnevisan:03:codimension
      volume        = {1832},
      year          = {2003}
    }
-`The URL link to the source <https://doi.org/10.1007/978-3-540-40004-2\_9>`_
+
+`The URL link to the source <https://doi.org/10.1007/978-3-540-40004-2\_9>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

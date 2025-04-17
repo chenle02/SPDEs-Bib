@@ -16,4 +16,4 @@ wagner.willhalm:03:geometric
      year          = {2003}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

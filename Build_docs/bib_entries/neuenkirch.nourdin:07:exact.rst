@@ -23,7 +23,8 @@ neuenkirch.nourdin:07:exact
      volume        = {20},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-007-0083-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-007-0083-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

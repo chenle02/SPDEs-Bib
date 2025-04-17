@@ -21,7 +21,8 @@ bloemendal.erdos.ea:14:isotropic
      volume        = {19},
      year          = {2014}
    }
-`The URL link to the source <https://doi.org/10.1214/ejp.v19-3054>`_
+
+`The URL link to the source <https://doi.org/10.1214/ejp.v19-3054>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ nualart.schoutens:01:backward
      volume        = {7},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.2307/3318541>`_
+
+`The URL link to the source <https://doi.org/10.2307/3318541>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

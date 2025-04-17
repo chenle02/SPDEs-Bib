@@ -23,7 +23,8 @@ bakhtin.mattingly:07:malliavin
      volume        = {249},
      year          = {2007}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.02.011>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.02.011>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

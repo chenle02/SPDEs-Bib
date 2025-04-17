@@ -22,7 +22,8 @@ eckmann.wayne:89:largest
      volume        = {121},
      year          = {1989}
    }
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104178008>`_
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104178008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,8 @@ burczak.granero-belinchon:16:critical
      volume        = {29},
      year          = {2016}
    }
-`The URL link to the source <https://doi.org/10.1088/0951-7715/29/12/3810>`_
+
+`The URL link to the source <https://doi.org/10.1088/0951-7715/29/12/3810>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

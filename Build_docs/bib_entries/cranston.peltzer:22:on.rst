@@ -22,7 +22,8 @@ cranston.peltzer:22:on
      volume        = {52},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1216/rmj.2022.52.843>`_
+
+`The URL link to the source <https://doi.org/10.1216/rmj.2022.52.843>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

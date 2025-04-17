@@ -23,7 +23,8 @@ broux.zambotti:22:sewing
      volume        = {283},
      year          = {2022}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2022.109644>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2022.109644>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

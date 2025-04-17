@@ -22,7 +22,8 @@ pan.zhou:10:circular
      volume        = {101},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1016/j.jmva.2009.08.005>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.jmva.2009.08.005>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

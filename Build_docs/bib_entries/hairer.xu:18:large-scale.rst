@@ -23,7 +23,8 @@ hairer.xu:18:large-scale
      volume        = {71},
      year          = {2018}
    }
-`The URL link to the source <https://doi.org/10.1002/cpa.21738>`_
+
+`The URL link to the source <https://doi.org/10.1002/cpa.21738>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

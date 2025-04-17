@@ -21,7 +21,8 @@ khoshnevisan:00:on
      volume        = {1729},
      year          = {2000}
    }
-`The URL link to the source <https://doi.org/10.1007/BFb0103800>`_
+
+`The URL link to the source <https://doi.org/10.1007/BFb0103800>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

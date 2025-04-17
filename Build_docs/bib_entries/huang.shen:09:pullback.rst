@@ -23,7 +23,8 @@ huang.shen:09:pullback
      volume        = {24},
      year          = {2009}
    }
-`The URL link to the source <https://doi.org/10.3934/dcds.2009.24.855>`_
+
+`The URL link to the source <https://doi.org/10.3934/dcds.2009.24.855>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

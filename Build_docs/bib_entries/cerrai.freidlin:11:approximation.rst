@@ -23,7 +23,8 @@ cerrai.freidlin:11:approximation
      volume        = {363},
      year          = {2011}
    }
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-2011-05352-3>`_
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-2011-05352-3>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

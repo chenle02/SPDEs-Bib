@@ -22,7 +22,8 @@ stannat:99:nonsymmetric
      volume        = {28},
      year          = {1999}
    }
-`The URL link to the source <http://www.numdam.org/item?id=ASNSP\_1999\_4\_28\_1\_99\_0>`_
+
+`The URL link to the source <http://www.numdam.org/item?id=ASNSP\_1999\_4\_28\_1\_99\_0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

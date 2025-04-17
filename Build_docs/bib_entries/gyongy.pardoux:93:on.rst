@@ -23,7 +23,8 @@ gyongy.pardoux:93:on
      volume        = {94},
      year          = {1993}
    }
-`The URL link to the source <https://doi.org/10.1007/BF01192556>`_
+
+`The URL link to the source <https://doi.org/10.1007/BF01192556>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

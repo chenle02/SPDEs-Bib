@@ -21,4 +21,4 @@ peszat:02:spdes
      year          = {2002}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

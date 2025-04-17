@@ -22,7 +22,8 @@ salako.shen.ea:19:can
      volume        = {79},
      year          = {2019}
    }
-`The URL link to the source <https://doi.org/10.1007/s00285-019-01400-0>`_
+
+`The URL link to the source <https://doi.org/10.1007/s00285-019-01400-0>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

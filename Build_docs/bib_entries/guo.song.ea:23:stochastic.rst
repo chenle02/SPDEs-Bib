@@ -15,7 +15,8 @@ guo.song.ea:23:stochastic
      url           = {http://arXiv.org/abs/2303.11939},
      year          = {2023}
    }
-`The URL link to the source <http://arXiv.org/abs/2303.11939>`_
+
+`The URL link to the source <http://arXiv.org/abs/2303.11939>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

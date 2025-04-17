@@ -18,4 +18,4 @@ tracy.widom:02:distribution
      year          = {2002}
    }
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

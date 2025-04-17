@@ -23,7 +23,8 @@ mijena.nane:15:space-time
      volume        = {125},
      year          = {2015}
    }
-`The URL link to the source <https://doi.org/10.1016/j.spa.2015.04.008>`_
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2015.04.008>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

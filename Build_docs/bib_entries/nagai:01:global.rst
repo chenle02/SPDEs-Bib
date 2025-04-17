@@ -24,7 +24,8 @@ nagai:01:global
      volume        = {47},
      year          = {2001}
    }
-`The URL link to the source <https://doi.org/10.1016/S0362-546X(01)00222-X>`_
+
+`The URL link to the source <https://doi.org/10.1016/S0362-546X(01)00222-X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,8 @@ bobkov.gotze.ea:10:on
      volume        = {23},
      year          = {2010}
    }
-`The URL link to the source <https://doi.org/10.1007/s10959-010-0286-7>`_
+
+`The URL link to the source <https://doi.org/10.1007/s10959-010-0286-7>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__

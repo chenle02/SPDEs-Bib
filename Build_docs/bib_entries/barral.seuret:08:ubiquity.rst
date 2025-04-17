@@ -23,7 +23,8 @@ barral.seuret:08:ubiquity
      volume        = {145},
      year          = {2008}
    }
-`The URL link to the source <https://doi.org/10.1017/S030500410800159X>`_
+
+`The URL link to the source <https://doi.org/10.1017/S030500410800159X>`__
 
 
-`Back to index <../By-Cite-Keys.html>`_
+`Back to index <../By-Cite-Keys.html>`__
