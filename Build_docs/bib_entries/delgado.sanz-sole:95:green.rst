@@ -8,23 +8,23 @@ delgado.sanz-sole:95:green
 .. code-block:: bibtex
 
    @article{delgado.sanz-sole:95:green,
-     author        = {Delgado, Rosario and Sanz-Sol\'{e}, Marta},
-     doi           = {10.1016/0304-4149(94)00070-A},
-     fjournal      = {Stochastic Processes and their Applications},
-     issn          = {0304-4149},
-     journal       = {Stochastic Process. Appl.},
-     mrclass       = {60H05 (60G60)},
-     mrnumber      = {1327956},
-     mrreviewer    = {Jorge A. Le\'{o}n},
-     number        = {1},
-     pages         = {113--148},
-     title         = {Green formulas in anticipating stochastic calculus},
-     url           = {https://doi.org/10.1016/0304-4149(94)00070-A},
-     volume        = {57},
-     year          = {1995}
+    author = {Delgado, Rosario and Sanz-Sol\'{e}, Marta},
+    doi = {10.1016/0304-4149(94)00070-A},
+    fjournal = {Stochastic Processes and their Applications},
+    issn = {0304-4149},
+    journal = {Stochastic Process. Appl.},
+    mrclass = {60H05 (60G60)},
+    mrnumber = {1327956},
+    mrreviewer = {Jorge A. Le\'{o}n},
+    number = {1},
+    pages = {113--148},
+    title = {Green formulas in anticipating stochastic calculus},
+    url = {https://doi.org/10.1016/0304-4149(94)00070-A},
+    volume = {57},
+    year = {1995}
    }
 
-`The URL link to the source <https://doi.org/10.1016/0304-4149(94)00070-A>`__
+`The URL link to the source <ttps://doi.org/10.1016/0304-4149(94)00070-A}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

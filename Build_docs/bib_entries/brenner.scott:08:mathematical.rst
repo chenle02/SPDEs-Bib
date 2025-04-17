@@ -8,22 +8,22 @@ brenner.scott:08:mathematical
 .. code-block:: bibtex
 
    @book{brenner.scott:08:mathematical,
-     author        = {Brenner, Susanne C. and Scott, L. Ridgway},
-     doi           = {10.1007/978-0-387-75934-0},
-     edition       = {Third},
-     isbn          = {978-0-387-75933-3},
-     mrclass       = {65-01 (65-02)},
-     mrnumber      = {2373954},
-     pages         = {xviii+397},
-     publisher     = {Springer, New York},
-     series        = {Texts in Applied Mathematics},
-     title         = {The mathematical theory of finite element methods},
-     url           = {https://doi.org/10.1007/978-0-387-75934-0},
-     volume        = {15},
-     year          = {2008}
+    author = {Brenner, Susanne C. and Scott, L. Ridgway},
+    doi = {10.1007/978-0-387-75934-0},
+    edition = {Third},
+    isbn = {978-0-387-75933-3},
+    mrclass = {65-01 (65-02)},
+    mrnumber = {2373954},
+    pages = {xviii+397},
+    publisher = {Springer, New York},
+    series = {Texts in Applied Mathematics},
+    title = {The mathematical theory of finite element methods},
+    url = {https://doi.org/10.1007/978-0-387-75934-0},
+    volume = {15},
+    year = {2008}
    }
 
-`The URL link to the source <https://doi.org/10.1007/978-0-387-75934-0>`__
+`The URL link to the source <ttps://doi.org/10.1007/978-0-387-75934-0}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

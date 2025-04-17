@@ -8,22 +8,23 @@ hu.wang:22:stochastic
 .. code-block:: bibtex
 
    @article{hu.wang:22:stochastic,
-     author        = {Hu, Yaozhong and Wang, Xiong},
-     doi           = {10.1214/21-aihp1161},
-     fjournal      = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
-     issn          = {0246-0203},
-     journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
-     mrclass       = {60H15 (35K08 60G15 60H05 60H07)},
-     mrnumber      = {4374680},
-     number        = {1},
-     pages         = {379--423},
-     title         = {Stochastic heat equation with general rough noise},
-     url           = {https://doi.org/10.1214/21-aihp1161},
-     volume        = {58},
-     year          = {2022}
+    author = {Hu, Yaozhong and Wang, Xiong},
+    doi = {10.1214/21-aihp1161},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
+    issn = {0246-0203},
+    journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
+    mrclass = {60H15 (35K08 60G15 60H05 60H07)},
+    mrnumber = {4374680},
+    number = {1},
+    pages = {379--423},
+    title = {Stochastic heat equation with general rough noise},
+    url = {https://doi.org/10.1214/21-aihp1161},
+    volume = {58},
+    year = {2022}
    }
 
-`The URL link to the source <https://doi.org/10.1214/21-aihp1161>`__
+`The URL link to the source <ttps://doi.org/10.1214/21-aihp1161}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

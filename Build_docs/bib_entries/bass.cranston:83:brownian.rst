@@ -8,22 +8,23 @@ bass.cranston:83:brownian
 .. code-block:: bibtex
 
    @article{bass.cranston:83:brownian,
-     author        = {Bass, R. F. and Cranston, M.},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798,2168-894X},
-     journal       = {Ann. Probab.},
-     mrclass       = {60J65 (60J15)},
-     mrnumber      = {682798},
-     mrreviewer    = {F. B. Knight},
-     number        = {1},
-     pages         = {34--39},
-     title         = {Brownian motion with lower class moving boundaries which grow faster than {$t\sp{1/2}$}},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198302)11:1<34:BMWLCM>2.0.CO;2-3\&origin=MSN},
-     volume        = {11},
-     year          = {1983}
+    author = {Bass, R. F. and Cranston, M.},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60J65 (60J15)},
+    mrnumber = {682798},
+    mrreviewer = {F.\ B.\ Knight},
+    number = {1},
+    pages = {34--39},
+    title = {Brownian motion with lower class moving boundaries which
+   grow faster than {$t\sp{1/2}$}},
+    url = {http://links.jstor.org/sici?sici=0091-1798(198302)11:1<34:BMWLCM>2.0.CO;2-3&origin=MSN},
+    volume = {11},
+    year = {1983}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198302)11:1<34:BMWLCM>2.0.CO;2-3\&origin=MSN>`__
+`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198302)11:1<34:BMWLCM>2.0.CO;2-3&origin=MSN}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

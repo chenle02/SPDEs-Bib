@@ -8,23 +8,24 @@ derrida.shi:17:large
 .. code-block:: bibtex
 
    @incollection{derrida.shi:17:large,
-     author        = {Derrida, Bernard and Shi, Zhan},
-     booktitle     = {Modern problems of stochastic analysis and statistics},
-     doi           = {10.1007/978-3-319-65313-6\_12},
-     isbn          = {978-3-319-65313-6; 978-3-319-65312-9},
-     mrclass       = {60F10 (60J80)},
-     mrnumber      = {3747671},
-     mrreviewer    = {Vitali Wachtel},
-     pages         = {303--312},
-     publisher     = {Springer, Cham},
-     series        = {Springer Proc. Math. Stat.},
-     title         = {Large deviations for the rightmost position in a branching {B}rownian motion},
-     url           = {https://doi.org/10.1007/978-3-319-65313-6\_12},
-     volume        = {208},
-     year          = {2017}
+    author = {Derrida, Bernard and Shi, Zhan},
+    booktitle = {Modern problems of stochastic analysis and statistics},
+    doi = {10.1007/978-3-319-65313-6\_12},
+    isbn = {978-3-319-65313-6; 978-3-319-65312-9},
+    mrclass = {60F10 (60J80)},
+    mrnumber = {3747671},
+    mrreviewer = {Vitali\ Wachtel},
+    pages = {303--312},
+    publisher = {Springer, Cham},
+    series = {Springer Proc. Math. Stat.},
+    title = {Large deviations for the rightmost position in a branching
+   {B}rownian motion},
+    url = {https://doi.org/10.1007/978-3-319-65313-6_12},
+    volume = {208},
+    year = {2017}
    }
 
-`The URL link to the source <https://doi.org/10.1007/978-3-319-65313-6\_12>`__
+`The URL link to the source <ttps://doi.org/10.1007/978-3-319-65313-6_12}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

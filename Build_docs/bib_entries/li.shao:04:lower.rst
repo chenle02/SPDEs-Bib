@@ -8,23 +8,23 @@ li.shao:04:lower
 .. code-block:: bibtex
 
    @article{li.shao:04:lower,
-     author        = {Li, Wenbo V. and Shao, Qi-Man},
-     doi           = {10.1214/aop/1078415834},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798,2168-894X},
-     journal       = {Ann. Probab.},
-     mrclass       = {60G15 (60G17 60G60)},
-     mrnumber      = {2040781},
-     mrreviewer    = {Jutta Groos},
-     number        = {1A},
-     pages         = {216--242},
-     title         = {Lower tail probabilities for {G}aussian processes},
-     url           = {https://doi.org/10.1214/aop/1078415834},
-     volume        = {32},
-     year          = {2004}
+    author = {Li, Wenbo V. and Shao, Qi-Man},
+    doi = {10.1214/aop/1078415834},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60G15 (60G17 60G60)},
+    mrnumber = {2040781},
+    mrreviewer = {Jutta\ Groos},
+    number = {1A},
+    pages = {216--242},
+    title = {Lower tail probabilities for {G}aussian processes},
+    url = {https://doi.org/10.1214/aop/1078415834},
+    volume = {32},
+    year = {2004}
    }
 
-`The URL link to the source <https://doi.org/10.1214/aop/1078415834>`__
+`The URL link to the source <ttps://doi.org/10.1214/aop/1078415834}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

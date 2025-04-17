@@ -8,21 +8,21 @@ caravenna.corbetta:16:general
 .. code-block:: bibtex
 
    @article{caravenna.corbetta:16:general,
-     author        = {Caravenna, Francesco and Corbetta, Jacopo},
-     doi           = {10.1137/15M1031102},
-     fjournal      = {SIAM Journal on Financial Mathematics},
-     journal       = {SIAM J. Financial Math.},
-     mrclass       = {91G20 (60G44 91B25)},
-     mrnumber      = {3562364},
-     number        = {1},
-     pages         = {720--759},
-     title         = {General smile asymptotics with bounded maturity},
-     url           = {https://doi.org/10.1137/15M1031102},
-     volume        = {7},
-     year          = {2016}
+    author = {Caravenna, Francesco and Corbetta, Jacopo},
+    doi = {10.1137/15M1031102},
+    fjournal = {SIAM Journal on Financial Mathematics},
+    journal = {SIAM J. Financial Math.},
+    mrclass = {91G20 (60G44 91B25)},
+    mrnumber = {3562364},
+    number = {1},
+    pages = {720--759},
+    title = {General smile asymptotics with bounded maturity},
+    url = {https://doi.org/10.1137/15M1031102},
+    volume = {7},
+    year = {2016}
    }
 
-`The URL link to the source <https://doi.org/10.1137/15M1031102>`__
+`The URL link to the source <ttps://doi.org/10.1137/15M1031102}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

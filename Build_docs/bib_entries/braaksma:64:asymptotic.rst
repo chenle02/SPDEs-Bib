@@ -8,17 +8,18 @@ braaksma:64:asymptotic
 .. code-block:: bibtex
 
    @article{braaksma:64:asymptotic,
-     author        = {Braaksma, B. L. J.},
-     fjournal      = {Compositio Mathematica},
-     issn          = {0010-437X},
-     journal       = {Compositio Math.},
-     mrclass       = {33.15},
-     mrnumber      = {167651},
-     mrreviewer    = {C. Fox},
-     pages         = {239--341 (1964)},
-     title         = {Asymptotic expansions and analytic continuations for a class of {B}arnes-integrals},
-     volume        = {15},
-     year          = {1964}
+    author = {Braaksma, B. L. J.},
+    fjournal = {Compositio Mathematica},
+    issn = {0010-437X},
+    journal = {Compositio Math.},
+    mrclass = {33.15},
+    mrnumber = {167651},
+    mrreviewer = {C. Fox},
+    pages = {239--341 (1964)},
+    title = {Asymptotic expansions and analytic continuations for a
+   class of {B}arnes-integrals},
+    volume = {15},
+    year = {1964}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

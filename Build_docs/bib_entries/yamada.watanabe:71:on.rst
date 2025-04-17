@@ -8,22 +8,23 @@ yamada.watanabe:71:on
 .. code-block:: bibtex
 
    @article{yamada.watanabe:71:on,
-     author        = {Yamada, Toshio and Watanabe, Shinzo},
-     doi           = {10.1215/kjm/1250523691},
-     fjournal      = {Journal of Mathematics of Kyoto University},
-     issn          = {0023-608X},
-     journal       = {J. Math. Kyoto Univ.},
-     mrclass       = {60.75},
-     mrnumber      = {278420},
-     mrreviewer    = {C. P. Tsokos},
-     pages         = {155--167},
-     title         = {On the uniqueness of solutions of stochastic differential equations},
-     url           = {https://doi.org/10.1215/kjm/1250523691},
-     volume        = {11},
-     year          = {1971}
+    author = {Yamada, Toshio and Watanabe, Shinzo},
+    doi = {10.1215/kjm/1250523691},
+    fjournal = {Journal of Mathematics of Kyoto University},
+    issn = {0023-608X},
+    journal = {J. Math. Kyoto Univ.},
+    mrclass = {60.75},
+    mrnumber = {278420},
+    mrreviewer = {C. P. Tsokos},
+    pages = {155--167},
+    title = {On the uniqueness of solutions of stochastic differential
+   equations},
+    url = {https://doi.org/10.1215/kjm/1250523691},
+    volume = {11},
+    year = {1971}
    }
 
-`The URL link to the source <https://doi.org/10.1215/kjm/1250523691>`__
+`The URL link to the source <ttps://doi.org/10.1215/kjm/1250523691}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

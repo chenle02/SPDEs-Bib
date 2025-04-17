@@ -8,23 +8,25 @@ shen.shen:20:existence
 .. code-block:: bibtex
 
    @article{shen.shen:20:existence,
-     author        = {Shen, Wenxian and Shen, Zhongwei},
-     doi           = {10.1017/s0956792519000202},
-     fjournal      = {European Journal of Applied Mathematics},
-     issn          = {0956-7925,1469-4425},
-     journal       = {European J. Appl. Math.},
-     mrclass       = {35K57 (35C07 35Q92 35R09 92D25)},
-     mrnumber      = {4120254},
-     mrreviewer    = {Guo-Bao Zhang},
-     number        = {4},
-     pages         = {601--645},
-     title         = {Existence, uniqueness and stability of transition fronts of non-local equations in time heterogeneous bistable media},
-     url           = {https://doi.org/10.1017/s0956792519000202},
-     volume        = {31},
-     year          = {2020}
+    author = {Shen, Wenxian and Shen, Zhongwei},
+    doi = {10.1017/s0956792519000202},
+    fjournal = {European Journal of Applied Mathematics},
+    issn = {0956-7925,1469-4425},
+    journal = {European J. Appl. Math.},
+    mrclass = {35K57 (35C07 35Q92 35R09 92D25)},
+    mrnumber = {4120254},
+    mrreviewer = {Guo-Bao\ Zhang},
+    number = {4},
+    pages = {601--645},
+    title = {Existence, uniqueness and stability of transition fronts
+   of non-local equations in time heterogeneous bistable
+   media},
+    url = {https://doi.org/10.1017/s0956792519000202},
+    volume = {31},
+    year = {2020}
    }
 
-`The URL link to the source <https://doi.org/10.1017/s0956792519000202>`__
+`The URL link to the source <ttps://doi.org/10.1017/s0956792519000202}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

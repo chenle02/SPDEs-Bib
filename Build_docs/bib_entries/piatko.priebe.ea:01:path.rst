@@ -8,13 +8,16 @@ piatko.priebe.ea:01:path
 .. code-block:: bibtex
 
    @inproceedings{piatko.priebe.ea:01:path,
-     author        = {Piatko, Christine and Priebe, Carey E and Cowen, Lenore J and Wang, I-Jeng and McNamee, Paul},
-     booktitle     = {Detection and Remediation Technologies for Mines and Minelike Targets VI},
-     organization  = {International Society for Optics and Photonics},
-     pages         = {836--843},
-     title         = {Path planning for mine countermeasures command and control},
-     volume        = {4394},
-     year          = {2001}
+    author = {Piatko, Christine and Priebe, Carey E and Cowen, Lenore J
+   and Wang, I-Jeng and McNamee, Paul},
+    booktitle = {Detection and Remediation Technologies for Mines and
+   Minelike Targets VI},
+    organization = {International Society for Optics and Photonics},
+    pages = {836--843},
+    title = {Path planning for mine countermeasures command and
+   control},
+    volume = {4394},
+    year = {2001}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

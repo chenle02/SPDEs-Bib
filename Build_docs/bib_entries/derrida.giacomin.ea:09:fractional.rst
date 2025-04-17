@@ -8,23 +8,25 @@ derrida.giacomin.ea:09:fractional
 .. code-block:: bibtex
 
    @article{derrida.giacomin.ea:09:fractional,
-     author        = {Derrida, Bernard and Giacomin, Giambattista and Lacoin, Hubert and Toninelli, Fabio Lucio},
-     doi           = {10.1007/s00220-009-0737-0},
-     fjournal      = {Communications in Mathematical Physics},
-     issn          = {0010-3616,1432-0916},
-     journal       = {Comm. Math. Phys.},
-     mrclass       = {82B44 (60K05 60K37)},
-     mrnumber      = {2486665},
-     mrreviewer    = {Rongfeng Sun},
-     number        = {3},
-     pages         = {867--887},
-     title         = {Fractional moment bounds and disorder relevance for pinning models},
-     url           = {https://doi.org/10.1007/s00220-009-0737-0},
-     volume        = {287},
-     year          = {2009}
+    author = {Derrida, Bernard and Giacomin, Giambattista and Lacoin,
+   Hubert and Toninelli, Fabio Lucio},
+    doi = {10.1007/s00220-009-0737-0},
+    fjournal = {Communications in Mathematical Physics},
+    issn = {0010-3616,1432-0916},
+    journal = {Comm. Math. Phys.},
+    mrclass = {82B44 (60K05 60K37)},
+    mrnumber = {2486665},
+    mrreviewer = {Rongfeng\ Sun},
+    number = {3},
+    pages = {867--887},
+    title = {Fractional moment bounds and disorder relevance for
+   pinning models},
+    url = {https://doi.org/10.1007/s00220-009-0737-0},
+    volume = {287},
+    year = {2009}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00220-009-0737-0>`__
+`The URL link to the source <ttps://doi.org/10.1007/s00220-009-0737-0}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

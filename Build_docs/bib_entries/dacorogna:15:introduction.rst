@@ -8,16 +8,16 @@ dacorogna:15:introduction
 .. code-block:: bibtex
 
    @book{dacorogna:15:introduction,
-     author        = {Dacorogna, Bernard},
-     edition       = {Third},
-     isbn          = {978-1-78326-551-0},
-     mrclass       = {49-01 (49-02)},
-     mrnumber      = {3288348},
-     mrreviewer    = {Giuseppe Buttazzo},
-     pages         = {x+311},
-     publisher     = {Imperial College Press, London},
-     title         = {Introduction to the calculus of variations},
-     year          = {2015}
+    author = {Dacorogna, Bernard},
+    edition = {Third},
+    isbn = {978-1-78326-551-0},
+    mrclass = {49-01 (49-02)},
+    mrnumber = {3288348},
+    mrreviewer = {Giuseppe Buttazzo},
+    pages = {x+311},
+    publisher = {Imperial College Press, London},
+    title = {Introduction to the calculus of variations},
+    year = {2015}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

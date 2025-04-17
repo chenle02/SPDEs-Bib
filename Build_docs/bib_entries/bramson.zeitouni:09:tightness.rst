@@ -8,23 +8,23 @@ bramson.zeitouni:09:tightness
 .. code-block:: bibtex
 
    @article{bramson.zeitouni:09:tightness,
-     author        = {Bramson, Maury and Zeitouni, Ofer},
-     doi           = {10.1214/08-AOP414},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798,2168-894X},
-     journal       = {Ann. Probab.},
-     mrclass       = {60J80 (60G50)},
-     mrnumber      = {2510018},
-     mrreviewer    = {Quansheng Liu},
-     number        = {2},
-     pages         = {615--653},
-     title         = {Tightness for a family of recursion equations},
-     url           = {https://doi.org/10.1214/08-AOP414},
-     volume        = {37},
-     year          = {2009}
+    author = {Bramson, Maury and Zeitouni, Ofer},
+    doi = {10.1214/08-AOP414},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60J80 (60G50)},
+    mrnumber = {2510018},
+    mrreviewer = {Quansheng\ Liu},
+    number = {2},
+    pages = {615--653},
+    title = {Tightness for a family of recursion equations},
+    url = {https://doi.org/10.1214/08-AOP414},
+    volume = {37},
+    year = {2009}
    }
 
-`The URL link to the source <https://doi.org/10.1214/08-AOP414>`__
+`The URL link to the source <ttps://doi.org/10.1214/08-AOP414}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

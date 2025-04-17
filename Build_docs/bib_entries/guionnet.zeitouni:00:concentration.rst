@@ -8,22 +8,22 @@ guionnet.zeitouni:00:concentration
 .. code-block:: bibtex
 
    @article{guionnet.zeitouni:00:concentration,
-     author        = {Guionnet, A. and Zeitouni, O.},
-     doi           = {10.1214/ECP.v5-1026},
-     fjournal      = {Electronic Communications in Probability},
-     issn          = {1083-589X},
-     journal       = {Electron. Comm. Probab.},
-     mrclass       = {15A52 (15A18 60F10)},
-     mrnumber      = {1781846},
-     mrreviewer    = {Eugene Kanzieper},
-     pages         = {119--136},
-     title         = {Concentration of the spectral measure for large matrices},
-     url           = {https://doi.org/10.1214/ECP.v5-1026},
-     volume        = {5},
-     year          = {2000}
+    author = {Guionnet, A. and Zeitouni, O.},
+    doi = {10.1214/ECP.v5-1026},
+    fjournal = {Electronic Communications in Probability},
+    issn = {1083-589X},
+    journal = {Electron. Comm. Probab.},
+    mrclass = {15A52 (15A18 60F10)},
+    mrnumber = {1781846},
+    mrreviewer = {Eugene\ Kanzieper},
+    pages = {119--136},
+    title = {Concentration of the spectral measure for large matrices},
+    url = {https://doi.org/10.1214/ECP.v5-1026},
+    volume = {5},
+    year = {2000}
    }
 
-`The URL link to the source <https://doi.org/10.1214/ECP.v5-1026>`__
+`The URL link to the source <ttps://doi.org/10.1214/ECP.v5-1026}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

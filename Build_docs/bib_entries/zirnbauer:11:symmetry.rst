@@ -8,15 +8,15 @@ zirnbauer:11:symmetry
 .. code-block:: bibtex
 
    @incollection{zirnbauer:11:symmetry,
-     author        = {Zirnbauer, Martin R.},
-     booktitle     = {The {O}xford handbook of random matrix theory},
-     mrclass       = {82B44 (60B20 82D55)},
-     mrnumber      = {2932623},
-     mrreviewer    = {Florent Benaych-Georges},
-     pages         = {43--65},
-     publisher     = {Oxford Univ. Press, Oxford},
-     title         = {Symmetry classes},
-     year          = {2011}
+    author = {Zirnbauer, Martin R.},
+    booktitle = {The {O}xford handbook of random matrix theory},
+    mrclass = {82B44 (60B20 82D55)},
+    mrnumber = {2932623},
+    mrreviewer = {Florent Benaych-Georges},
+    pages = {43--65},
+    publisher = {Oxford Univ. Press, Oxford},
+    title = {Symmetry classes},
+    year = {2011}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

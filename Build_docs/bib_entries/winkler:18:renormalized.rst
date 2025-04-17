@@ -8,23 +8,25 @@ winkler:18:renormalized
 .. code-block:: bibtex
 
    @article{winkler:18:renormalized,
-     author        = {Winkler, Michael},
-     doi           = {10.1016/j.jde.2017.10.029},
-     fjournal      = {Journal of Differential Equations},
-     issn          = {0022-0396},
-     journal       = {J. Differential Equations},
-     mrclass       = {35K51 (35B65 35D30 35K59 35Q92 92C17)},
-     mrnumber      = {3721430},
-     mrreviewer    = {Philippe Lauren\c{c}ot},
-     number        = {3},
-     pages         = {2310--2350},
-     title         = {Renormalized radial large-data solutions to the higher-dimensional {K}eller-{S}egel system with singular sensitivity and signal absorption},
-     url           = {https://doi.org/10.1016/j.jde.2017.10.029},
-     volume        = {264},
-     year          = {2018}
+    author = {Winkler, Michael},
+    doi = {10.1016/j.jde.2017.10.029},
+    fjournal = {Journal of Differential Equations},
+    issn = {0022-0396},
+    journal = {J. Differential Equations},
+    mrclass = {35K51 (35B65 35D30 35K59 35Q92 92C17)},
+    mrnumber = {3721430},
+    mrreviewer = {Philippe Lauren\c{c}ot},
+    number = {3},
+    pages = {2310--2350},
+    title = {Renormalized radial large-data solutions to the
+   higher-dimensional {K}eller-{S}egel system with singular
+   sensitivity and signal absorption},
+    url = {https://doi.org/10.1016/j.jde.2017.10.029},
+    volume = {264},
+    year = {2018}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.jde.2017.10.029>`__
+`The URL link to the source <ttps://doi.org/10.1016/j.jde.2017.10.029}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

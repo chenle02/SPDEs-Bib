@@ -8,23 +8,26 @@ kostov.staudacher:92:multicritical
 .. code-block:: bibtex
 
    @article{kostov.staudacher:92:multicritical,
-     author        = {Kostov, Ivan K. and Staudacher, Matthias},
-     doi           = {10.1016/0550-3213(92)90576-W},
-     fjournal      = {Nuclear Physics. B. Theoretical, Phenomenological, and Experimental High Energy Physics. Quantum Field Theory and Statistical Systems},
-     issn          = {0550-3213},
-     journal       = {Nuclear Phys. B},
-     mrclass       = {81T30 (82B20 82B27)},
-     mrnumber      = {1188360},
-     mrreviewer    = {David S\'{e}n\'{e}chal},
-     number        = {3},
-     pages         = {459--483},
-     title         = {Multicritical phases of the {${\rm O}(n)$} model on a random lattice},
-     url           = {https://doi.org/10.1016/0550-3213(92)90576-W},
-     volume        = {384},
-     year          = {1992}
+    author = {Kostov, Ivan K. and Staudacher, Matthias},
+    doi = {10.1016/0550-3213(92)90576-W},
+    fjournal = {Nuclear Physics. B. Theoretical, Phenomenological, and
+   Experimental High Energy Physics. Quantum Field Theory and
+   Statistical Systems},
+    issn = {0550-3213},
+    journal = {Nuclear Phys. B},
+    mrclass = {81T30 (82B20 82B27)},
+    mrnumber = {1188360},
+    mrreviewer = {David S\'{e}n\'{e}chal},
+    number = {3},
+    pages = {459--483},
+    title = {Multicritical phases of the {${\rm O}(n)$} model on a
+   random lattice},
+    url = {https://doi.org/10.1016/0550-3213(92)90576-W},
+    volume = {384},
+    year = {1992}
    }
 
-`The URL link to the source <https://doi.org/10.1016/0550-3213(92)90576-W>`__
+`The URL link to the source <ttps://doi.org/10.1016/0550-3213(92)90576-W}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

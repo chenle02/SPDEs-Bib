@@ -8,17 +8,18 @@ al-bassam.luchko:95:on
 .. code-block:: bibtex
 
    @article{al-bassam.luchko:95:on,
-     author        = {Al-Bassam, M. A. and Luchko, Yu. F.},
-     fjournal      = {Journal of Fractional Calculus},
-     issn          = {0918-5402},
-     journal       = {J. Fract. Calc.},
-     mrclass       = {26A33 (45J05 47B38)},
-     mrnumber      = {1330570},
-     mrreviewer    = {K. C. Gupta},
-     pages         = {69--88},
-     title         = {On generalized fractional calculus and its application to the solution of integro-differential equations},
-     volume        = {7},
-     year          = {1995}
+    author = {Al-Bassam, M. A. and Luchko, Yu. F.},
+    fjournal = {Journal of Fractional Calculus},
+    issn = {0918-5402},
+    journal = {J. Fract. Calc.},
+    mrclass = {26A33 (45J05 47B38)},
+    mrnumber = {1330570},
+    mrreviewer = {K.\ C.\ Gupta},
+    pages = {69--88},
+    title = {On generalized fractional calculus and its application to
+   the solution of integro-differential equations},
+    volume = {7},
+    year = {1995}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

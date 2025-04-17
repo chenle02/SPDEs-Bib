@@ -8,23 +8,24 @@ attanasio.flandoli:11:renormalized
 .. code-block:: bibtex
 
    @article{attanasio.flandoli:11:renormalized,
-     author        = {Attanasio, S. and Flandoli, F.},
-     doi           = {10.1080/03605302.2011.585681},
-     fjournal      = {Communications in Partial Differential Equations},
-     issn          = {0360-5302,1532-4133},
-     journal       = {Comm. Partial Differential Equations},
-     mrclass       = {60H15 (35D30 35F15 35R60)},
-     mrnumber      = {2825598},
-     mrreviewer    = {Marko Nedeljkov},
-     number        = {8},
-     pages         = {1455--1474},
-     title         = {Renormalized solutions for stochastic transport equations and the regularization by bilinear multiplication noise},
-     url           = {https://doi.org/10.1080/03605302.2011.585681},
-     volume        = {36},
-     year          = {2011}
+    author = {Attanasio, S. and Flandoli, F.},
+    doi = {10.1080/03605302.2011.585681},
+    fjournal = {Communications in Partial Differential Equations},
+    issn = {0360-5302,1532-4133},
+    journal = {Comm. Partial Differential Equations},
+    mrclass = {60H15 (35D30 35F15 35R60)},
+    mrnumber = {2825598},
+    mrreviewer = {Marko\ Nedeljkov},
+    number = {8},
+    pages = {1455--1474},
+    title = {Renormalized solutions for stochastic transport equations
+   and the regularization by bilinear multiplication noise},
+    url = {https://doi.org/10.1080/03605302.2011.585681},
+    volume = {36},
+    year = {2011}
    }
 
-`The URL link to the source <https://doi.org/10.1080/03605302.2011.585681>`__
+`The URL link to the source <ttps://doi.org/10.1080/03605302.2011.585681}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

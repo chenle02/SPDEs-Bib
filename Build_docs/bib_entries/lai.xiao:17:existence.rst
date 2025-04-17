@@ -8,14 +8,15 @@ lai.xiao:17:existence
 .. code-block:: bibtex
 
    @article{lai.xiao:17:existence,
-     author        = {Lai, Yulin and Xiao, Youjun},
-     fjournal      = {Electronic Journal of Differential Equations},
-     journal       = {Electron. J. Differential Equations},
-     mrclass       = {35M33 (35B40 35Q92)},
-     mrnumber      = {3723527},
-     pages         = {Paper No. 254, 9},
-     title         = {Existence and asymptotic behavior of global solutions to chemorepulsion systems with nonlinear sensitivity},
-     year          = {2017}
+    author = {Lai, Yulin and Xiao, Youjun},
+    fjournal = {Electronic Journal of Differential Equations},
+    journal = {Electron. J. Differential Equations},
+    mrclass = {35M33 (35B40 35Q92)},
+    mrnumber = {3723527},
+    pages = {Paper No. 254, 9},
+    title = {Existence and asymptotic behavior of global solutions to
+   chemorepulsion systems with nonlinear sensitivity},
+    year = {2017}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

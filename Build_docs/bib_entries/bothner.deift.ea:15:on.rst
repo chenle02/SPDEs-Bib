@@ -8,23 +8,26 @@ bothner.deift.ea:15:on
 .. code-block:: bibtex
 
    @article{bothner.deift.ea:15:on,
-     author        = {Bothner, Thomas and Deift, Percy and Its, Alexander and Krasovsky, Igor},
-     doi           = {10.1007/s00220-015-2357-1},
-     fjournal      = {Communications in Mathematical Physics},
-     issn          = {0010-3616,1432-0916},
-     journal       = {Comm. Math. Phys.},
-     mrclass       = {47A13},
-     mrnumber      = {3339181},
-     mrreviewer    = {Akio Arimoto},
-     number        = {3},
-     pages         = {1397--1463},
-     title         = {On the asymptotic behavior of a log gas in the bulk scaling limit in the presence of a varying external potential {I}},
-     url           = {https://doi.org/10.1007/s00220-015-2357-1},
-     volume        = {337},
-     year          = {2015}
+    author = {Bothner, Thomas and Deift, Percy and Its, Alexander and
+   Krasovsky, Igor},
+    doi = {10.1007/s00220-015-2357-1},
+    fjournal = {Communications in Mathematical Physics},
+    issn = {0010-3616,1432-0916},
+    journal = {Comm. Math. Phys.},
+    mrclass = {47A13},
+    mrnumber = {3339181},
+    mrreviewer = {Akio\ Arimoto},
+    number = {3},
+    pages = {1397--1463},
+    title = {On the asymptotic behavior of a log gas in the bulk
+   scaling limit in the presence of a varying external
+   potential {I}},
+    url = {https://doi.org/10.1007/s00220-015-2357-1},
+    volume = {337},
+    year = {2015}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00220-015-2357-1>`__
+`The URL link to the source <ttps://doi.org/10.1007/s00220-015-2357-1}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

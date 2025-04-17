@@ -8,23 +8,23 @@ johansson:00:shape
 .. code-block:: bibtex
 
    @article{johansson:00:shape,
-     author        = {Johansson, Kurt},
-     doi           = {10.1007/s002200050027},
-     fjournal      = {Communications in Mathematical Physics},
-     issn          = {0010-3616},
-     journal       = {Comm. Math. Phys.},
-     mrclass       = {60K35 (05A16 60C05 60F10 82B41)},
-     mrnumber      = {1737991},
-     mrreviewer    = {Peter Eichelsbacher},
-     number        = {2},
-     pages         = {437--476},
-     title         = {Shape fluctuations and random matrices},
-     url           = {https://doi.org/10.1007/s002200050027},
-     volume        = {209},
-     year          = {2000}
+    author = {Johansson, Kurt},
+    doi = {10.1007/s002200050027},
+    fjournal = {Communications in Mathematical Physics},
+    issn = {0010-3616},
+    journal = {Comm. Math. Phys.},
+    mrclass = {60K35 (05A16 60C05 60F10 82B41)},
+    mrnumber = {1737991},
+    mrreviewer = {Peter Eichelsbacher},
+    number = {2},
+    pages = {437--476},
+    title = {Shape fluctuations and random matrices},
+    url = {https://doi.org/10.1007/s002200050027},
+    volume = {209},
+    year = {2000}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s002200050027>`__
+`The URL link to the source <ttps://doi.org/10.1007/s002200050027}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

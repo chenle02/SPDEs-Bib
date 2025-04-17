@@ -8,23 +8,24 @@ li.xiao:07:mean
 .. code-block:: bibtex
 
    @article{li.xiao:07:mean,
-     author        = {Li, Linyuan and Xiao, Yimin},
-     doi           = {10.1007/s10463-006-0048-6},
-     fjournal      = {Annals of the Institute of Statistical Mathematics},
-     issn          = {0020-3157,1572-9052},
-     journal       = {Ann. Inst. Statist. Math.},
-     mrclass       = {62G08},
-     mrnumber      = {2394169},
-     mrreviewer    = {Yichuan Zhao},
-     number        = {2},
-     pages         = {299--324},
-     title         = {Mean integrated squared error of nonlinear wavelet-based estimators with long memory data},
-     url           = {https://doi.org/10.1007/s10463-006-0048-6},
-     volume        = {59},
-     year          = {2007}
+    author = {Li, Linyuan and Xiao, Yimin},
+    doi = {10.1007/s10463-006-0048-6},
+    fjournal = {Annals of the Institute of Statistical Mathematics},
+    issn = {0020-3157,1572-9052},
+    journal = {Ann. Inst. Statist. Math.},
+    mrclass = {62G08},
+    mrnumber = {2394169},
+    mrreviewer = {Yichuan\ Zhao},
+    number = {2},
+    pages = {299--324},
+    title = {Mean integrated squared error of nonlinear wavelet-based
+   estimators with long memory data},
+    url = {https://doi.org/10.1007/s10463-006-0048-6},
+    volume = {59},
+    year = {2007}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s10463-006-0048-6>`__
+`The URL link to the source <ttps://doi.org/10.1007/s10463-006-0048-6}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

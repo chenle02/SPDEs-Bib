@@ -8,10 +8,11 @@ brooks.gelman.ea:11:handbook
 .. code-block:: bibtex
 
    @book{brooks.gelman.ea:11:handbook,
-     author        = {Brooks, Steve and Gelman, Andrew and Jones, Galin and Meng, Xiao-Li},
-     publisher     = {CRC Press},
-     title         = {Handbook of {Markov} Chain {M}onte {C}arlo},
-     year          = {2011}
+    author = {Brooks, Steve and Gelman, Andrew and Jones, Galin and
+   Meng, Xiao-Li},
+    publisher = {CRC Press},
+    title = {Handbook of {Markov} Chain {M}onte {C}arlo},
+    year = {2011}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

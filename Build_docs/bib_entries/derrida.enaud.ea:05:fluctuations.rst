@@ -8,23 +8,24 @@ derrida.enaud.ea:05:fluctuations
 .. code-block:: bibtex
 
    @article{derrida.enaud.ea:05:fluctuations,
-     author        = {Derrida, B. and Enaud, C. and Landim, C. and Olla, S.},
-     doi           = {10.1007/s10955-004-1989-x},
-     fjournal      = {Journal of Statistical Physics},
-     issn          = {0022-4715,1572-9613},
-     journal       = {J. Stat. Phys.},
-     mrclass       = {82C22 (60K35)},
-     mrnumber      = {2130640},
-     mrreviewer    = {Marina Vachkovskaia},
-     number        = {5-6},
-     pages         = {795--811},
-     title         = {Fluctuations in the weakly asymmetric exclusion process with open boundary conditions},
-     url           = {https://doi.org/10.1007/s10955-004-1989-x},
-     volume        = {118},
-     year          = {2005}
+    author = {Derrida, B. and Enaud, C. and Landim, C. and Olla, S.},
+    doi = {10.1007/s10955-004-1989-x},
+    fjournal = {Journal of Statistical Physics},
+    issn = {0022-4715,1572-9613},
+    journal = {J. Stat. Phys.},
+    mrclass = {82C22 (60K35)},
+    mrnumber = {2130640},
+    mrreviewer = {Marina\ Vachkovskaia},
+    number = {5-6},
+    pages = {795--811},
+    title = {Fluctuations in the weakly asymmetric exclusion process
+   with open boundary conditions},
+    url = {https://doi.org/10.1007/s10955-004-1989-x},
+    volume = {118},
+    year = {2005}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s10955-004-1989-x>`__
+`The URL link to the source <ttps://doi.org/10.1007/s10955-004-1989-x}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

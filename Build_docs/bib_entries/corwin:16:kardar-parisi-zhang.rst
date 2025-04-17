@@ -8,23 +8,23 @@ corwin:16:kardar-parisi-zhang
 .. code-block:: bibtex
 
    @article{corwin:16:kardar-parisi-zhang,
-     author        = {Corwin, I.},
-     doi           = {10.1090/noti1334},
-     fjournal      = {Notices of the American Mathematical Society},
-     issn          = {0002-9920},
-     journal       = {Notices Amer. Math. Soc.},
-     mrclass       = {82B23 (35K59 35R60 60H15 60K35)},
-     mrnumber      = {3445162},
-     mrreviewer    = {Flora Koukiou},
-     number        = {3},
-     pages         = {230--239},
-     title         = {Kardar-{P}arisi-{Z}hang universality},
-     url           = {https://doi.org/10.1090/noti1334},
-     volume        = {63},
-     year          = {2016}
+    author = {Corwin, I.},
+    doi = {10.1090/noti1334},
+    fjournal = {Notices of the American Mathematical Society},
+    issn = {0002-9920},
+    journal = {Notices Amer. Math. Soc.},
+    mrclass = {82B23 (35K59 35R60 60H15 60K35)},
+    mrnumber = {3445162},
+    mrreviewer = {Flora Koukiou},
+    number = {3},
+    pages = {230--239},
+    title = {Kardar-{P}arisi-{Z}hang universality},
+    url = {https://doi.org/10.1090/noti1334},
+    volume = {63},
+    year = {2016}
    }
 
-`The URL link to the source <https://doi.org/10.1090/noti1334>`__
+`The URL link to the source <ttps://doi.org/10.1090/noti1334}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

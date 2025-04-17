@@ -8,23 +8,24 @@ hu.oksendal:08:partial
 .. code-block:: bibtex
 
    @article{hu.oksendal:08:partial,
-     author        = {Hu, Yaozhong and {\O}ksendal, Bernt},
-     doi           = {10.1137/060667566},
-     fjournal      = {SIAM Journal on Control and Optimization},
-     issn          = {0363-0129},
-     journal       = {SIAM J. Control Optim.},
-     mrclass       = {93E20 (60G51 60H05 60J75 91B28)},
-     mrnumber      = {2421328},
-     mrreviewer    = {Christian Bender},
-     number        = {4},
-     pages         = {1744--1761},
-     title         = {Partial information linear quadratic control for jump diffusions},
-     url           = {https://doi.org/10.1137/060667566},
-     volume        = {47},
-     year          = {2008}
+    author = {Hu, Yaozhong and {\O}ksendal, Bernt},
+    doi = {10.1137/060667566},
+    fjournal = {SIAM Journal on Control and Optimization},
+    issn = {0363-0129},
+    journal = {SIAM J. Control Optim.},
+    mrclass = {93E20 (60G51 60H05 60J75 91B28)},
+    mrnumber = {2421328},
+    mrreviewer = {Christian Bender},
+    number = {4},
+    pages = {1744--1761},
+    title = {Partial information linear quadratic control for jump
+   diffusions},
+    url = {https://doi.org/10.1137/060667566},
+    volume = {47},
+    year = {2008}
    }
 
-`The URL link to the source <https://doi.org/10.1137/060667566>`__
+`The URL link to the source <ttps://doi.org/10.1137/060667566}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

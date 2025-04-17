@@ -8,23 +8,24 @@ malliavin.nualart:09:density
 .. code-block:: bibtex
 
    @article{malliavin.nualart:09:density,
-     author        = {Malliavin, Paul and Nualart, Eulalia},
-     doi           = {10.1016/j.jfa.2008.11.016},
-     fjournal      = {Journal of Functional Analysis},
-     issn          = {0022-1236},
-     journal       = {J. Funct. Anal.},
-     mrclass       = {60H07 (60B15)},
-     mrnumber      = {2521925},
-     mrreviewer    = {H\'{e}l\`ene Airault},
-     number        = {12},
-     pages         = {4197--4214},
-     title         = {Density minoration of a strongly non-degenerated random variable},
-     url           = {https://doi.org/10.1016/j.jfa.2008.11.016},
-     volume        = {256},
-     year          = {2009}
+    author = {Malliavin, Paul and Nualart, Eulalia},
+    doi = {10.1016/j.jfa.2008.11.016},
+    fjournal = {Journal of Functional Analysis},
+    issn = {0022-1236},
+    journal = {J. Funct. Anal.},
+    mrclass = {60H07 (60B15)},
+    mrnumber = {2521925},
+    mrreviewer = {H\'{e}l\`ene Airault},
+    number = {12},
+    pages = {4197--4214},
+    title = {Density minoration of a strongly non-degenerated random
+   variable},
+    url = {https://doi.org/10.1016/j.jfa.2008.11.016},
+    volume = {256},
+    year = {2009}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.jfa.2008.11.016>`__
+`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2008.11.016}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

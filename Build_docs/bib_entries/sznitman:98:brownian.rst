@@ -8,21 +8,21 @@ sznitman:98:brownian
 .. code-block:: bibtex
 
    @book{sznitman:98:brownian,
-     author        = {Sznitman, Alain-Sol},
-     doi           = {10.1007/978-3-662-11281-6},
-     isbn          = {3-540-64554-3},
-     mrclass       = {60J65 (60K35 82B41 82B44 82D30)},
-     mrnumber      = {1717054},
-     mrreviewer    = {Ingemar Kaj},
-     pages         = {xvi+353},
-     publisher     = {Springer-Verlag, Berlin},
-     series        = {Springer Monographs in Mathematics},
-     title         = {Brownian motion, obstacles and random media},
-     url           = {https://doi.org/10.1007/978-3-662-11281-6},
-     year          = {1998}
+    author = {Sznitman, Alain-Sol},
+    doi = {10.1007/978-3-662-11281-6},
+    isbn = {3-540-64554-3},
+    mrclass = {60J65 (60K35 82B41 82B44 82D30)},
+    mrnumber = {1717054},
+    mrreviewer = {Ingemar Kaj},
+    pages = {xvi+353},
+    publisher = {Springer-Verlag, Berlin},
+    series = {Springer Monographs in Mathematics},
+    title = {Brownian motion, obstacles and random media},
+    url = {https://doi.org/10.1007/978-3-662-11281-6},
+    year = {1998}
    }
 
-`The URL link to the source <https://doi.org/10.1007/978-3-662-11281-6>`__
+`The URL link to the source <ttps://doi.org/10.1007/978-3-662-11281-6}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,22 +8,24 @@ mainardi:96:fundamental
 .. code-block:: bibtex
 
    @article{mainardi:96:fundamental,
-     author        = {Mainardi, F.},
-     doi           = {10.1016/0893-9659(96)00089-4},
-     fjournal      = {Applied Mathematics Letters. An International Journal of Rapid Publication},
-     issn          = {0893-9659},
-     journal       = {Appl. Math. Lett.},
-     mrclass       = {35L05 (26A33 35A08)},
-     mrnumber      = {1419811},
-     number        = {6},
-     pages         = {23--28},
-     title         = {The fundamental solutions for the fractional diffusion-wave equation},
-     url           = {https://doi.org/10.1016/0893-9659(96)00089-4},
-     volume        = {9},
-     year          = {1996}
+    author = {Mainardi, F.},
+    doi = {10.1016/0893-9659(96)00089-4},
+    fjournal = {Applied Mathematics Letters. An International Journal of
+   Rapid Publication},
+    issn = {0893-9659},
+    journal = {Appl. Math. Lett.},
+    mrclass = {35L05 (26A33 35A08)},
+    mrnumber = {1419811},
+    number = {6},
+    pages = {23--28},
+    title = {The fundamental solutions for the fractional
+   diffusion-wave equation},
+    url = {https://doi.org/10.1016/0893-9659(96)00089-4},
+    volume = {9},
+    year = {1996}
    }
 
-`The URL link to the source <https://doi.org/10.1016/0893-9659(96)00089-4>`__
+`The URL link to the source <ttps://doi.org/10.1016/0893-9659(96)00089-4}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

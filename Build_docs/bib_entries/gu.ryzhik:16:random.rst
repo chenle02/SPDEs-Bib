@@ -8,23 +8,25 @@ gu.ryzhik:16:random
 .. code-block:: bibtex
 
    @article{gu.ryzhik:16:random,
-     author        = {Gu, Yu and Ryzhik, Lenya},
-     doi           = {10.1137/15M1024986},
-     fjournal      = {Multiscale Modeling \& Simulation. A SIAM Interdisciplinary Journal},
-     issn          = {1540-3459},
-     journal       = {Multiscale Model. Simul.},
-     mrclass       = {35J10 (35B27 60F05)},
-     mrnumber      = {3466192},
-     mrreviewer    = {Sergey V. Lototsky},
-     number        = {1},
-     pages         = {323--363},
-     title         = {The random {S}chr\"{o}dinger equation: homogenization in time-dependent potentials},
-     url           = {https://doi.org/10.1137/15M1024986},
-     volume        = {14},
-     year          = {2016}
+    author = {Gu, Yu and Ryzhik, Lenya},
+    doi = {10.1137/15M1024986},
+    fjournal = {Multiscale Modeling \& Simulation. A SIAM
+   Interdisciplinary Journal},
+    issn = {1540-3459},
+    journal = {Multiscale Model. Simul.},
+    mrclass = {35J10 (35B27 60F05)},
+    mrnumber = {3466192},
+    mrreviewer = {Sergey V. Lototsky},
+    number = {1},
+    pages = {323--363},
+    title = {The random {S}chr\"{o}dinger equation: homogenization in
+   time-dependent potentials},
+    url = {https://doi.org/10.1137/15M1024986},
+    volume = {14},
+    year = {2016}
    }
 
-`The URL link to the source <https://doi.org/10.1137/15M1024986>`__
+`The URL link to the source <ttps://doi.org/10.1137/15M1024986}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

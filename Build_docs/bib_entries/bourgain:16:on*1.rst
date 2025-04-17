@@ -8,22 +8,24 @@ bourgain:16:on*1
 .. code-block:: bibtex
 
    @article{bourgain:16:on*1,
-     author        = {Bourgain, Jean},
-     doi           = {10.1007/s11854-016-0012-1},
-     fjournal      = {Journal d'Analyse Math\'{e}matique},
-     issn          = {0021-7670,1565-8538},
-     journal       = {J. Anal. Math.},
-     mrclass       = {11F30},
-     mrnumber      = {3481179},
-     mrreviewer    = {Hidenori Katsurada},
-     pages         = {355--367},
-     title         = {On the {F}ourier-{W}alsh spectrum of the {M}oebius function, {II}},
-     url           = {https://doi.org/10.1007/s11854-016-0012-1},
-     volume        = {128},
-     year          = {2016}
+    author = {Bourgain, Jean},
+    doi = {10.1353/ajm.2016.0018},
+    fjournal = {American Journal of Mathematics},
+    issn = {0002-9327,1080-6377},
+    journal = {Amer. J. Math.},
+    mrclass = {32A70},
+    mrnumber = {3483477},
+    mrreviewer = {E.\ S.\ Dubtsov},
+    number = {2},
+    pages = {571--584},
+    title = {On uniformly bounded bases in spaces of holomorphic
+   functions},
+    url = {https://doi.org/10.1353/ajm.2016.0018},
+    volume = {138},
+    year = {2016}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s11854-016-0012-1>`__
+`The URL link to the source <ttps://doi.org/10.1353/ajm.2016.0018}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

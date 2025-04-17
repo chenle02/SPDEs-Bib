@@ -8,21 +8,22 @@ ma.nualart.ea:20:intermittency
 .. code-block:: bibtex
 
    @article{ma.nualart.ea:20:intermittency,
-     author        = {Ma, Nicholas and Nualart, David and Xia, Panqiu},
-     doi           = {10.1214/20-ecp327},
-     fjournal      = {Electronic Communications in Probability},
-     journal       = {Electron. Commun. Probab.},
-     mrclass       = {60H15},
-     mrnumber      = {4125795},
-     mrreviewer    = {Raluca M. Balan},
-     pages         = {Paper No. 48, 10},
-     title         = {Intermittency for the parabolic {A}nderson model of {S}korohod type driven by a rough noise},
-     url           = {https://doi.org/10.1214/20-ecp327},
-     volume        = {25},
-     year          = {2020}
+    author = {Ma, Nicholas and Nualart, David and Xia, Panqiu},
+    doi = {10.1214/20-ecp327},
+    fjournal = {Electronic Communications in Probability},
+    journal = {Electron. Commun. Probab.},
+    mrclass = {60H15},
+    mrnumber = {4125795},
+    mrreviewer = {Raluca M. Balan},
+    pages = {Paper No. 48, 10},
+    title = {Intermittency for the parabolic {A}nderson model of
+   {S}korohod type driven by a rough noise},
+    url = {https://doi.org/10.1214/20-ecp327},
+    volume = {25},
+    year = {2020}
    }
 
-`The URL link to the source <https://doi.org/10.1214/20-ecp327>`__
+`The URL link to the source <ttps://doi.org/10.1214/20-ecp327}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

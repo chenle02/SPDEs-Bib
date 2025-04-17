@@ -8,22 +8,23 @@ duc.nualart.ea:89:planar
 .. code-block:: bibtex
 
    @incollection{duc.nualart.ea:89:planar,
-     author        = {Nguyen Minh Duc and Nualart, D. and Sanz, M.},
-     booktitle     = {S\'{e}minaire de {P}robabilit\'{e}s, {XXIII}},
-     doi           = {10.1007/BFb0084000},
-     mrclass       = {60G44 (60G48)},
-     mrnumber      = {1022938},
-     mrreviewer    = {Peter Imkeller},
-     pages         = {566--582},
-     publisher     = {Springer, Berlin},
-     series        = {Lecture Notes in Math.},
-     title         = {Planar semimartingales obtained by transformations of two-parameter martingales},
-     url           = {https://doi.org/10.1007/BFb0084000},
-     volume        = {1372},
-     year          = {1989}
+    author = {Nguyen Minh Duc and Nualart, D. and Sanz, M.},
+    booktitle = {S\'{e}minaire de {P}robabilit\'{e}s, {XXIII}},
+    doi = {10.1007/BFb0084000},
+    mrclass = {60G44 (60G48)},
+    mrnumber = {1022938},
+    mrreviewer = {Peter Imkeller},
+    pages = {566--582},
+    publisher = {Springer, Berlin},
+    series = {Lecture Notes in Math.},
+    title = {Planar semimartingales obtained by transformations of
+   two-parameter martingales},
+    url = {https://doi.org/10.1007/BFb0084000},
+    volume = {1372},
+    year = {1989}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BFb0084000>`__
+`The URL link to the source <ttps://doi.org/10.1007/BFb0084000}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

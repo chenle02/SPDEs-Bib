@@ -8,23 +8,24 @@ brzezniak.capinski.ea:92:stochastic
 .. code-block:: bibtex
 
    @article{brzezniak.capinski.ea:92:stochastic,
-     author        = {Brze\'{z}niak, Z. and Capi\'{n}ski, M. and Flandoli, F.},
-     doi           = {10.1080/07362999208809288},
-     fjournal      = {Stochastic Analysis and Applications},
-     issn          = {0736-2994,1532-9356},
-     journal       = {Stochastic Anal. Appl.},
-     mrclass       = {35Q30 (35R60 60H15 76D05 76M35)},
-     mrnumber      = {1185046},
-     mrreviewer    = {Ana Bela Cruzeiro},
-     number        = {5},
-     pages         = {523--532},
-     title         = {Stochastic {N}avier-{S}tokes equations with multiplicative noise},
-     url           = {https://doi.org/10.1080/07362999208809288},
-     volume        = {10},
-     year          = {1992}
+    author = {Brze\'{z}niak, Z. and Capi\'{n}ski, M. and Flandoli, F.},
+    doi = {10.1080/07362999208809288},
+    fjournal = {Stochastic Analysis and Applications},
+    issn = {0736-2994,1532-9356},
+    journal = {Stochastic Anal. Appl.},
+    mrclass = {35Q30 (35R60 60H15 76D05 76M35)},
+    mrnumber = {1185046},
+    mrreviewer = {Ana\ Bela\ Cruzeiro},
+    number = {5},
+    pages = {523--532},
+    title = {Stochastic {N}avier-{S}tokes equations with multiplicative
+   noise},
+    url = {https://doi.org/10.1080/07362999208809288},
+    volume = {10},
+    year = {1992}
    }
 
-`The URL link to the source <https://doi.org/10.1080/07362999208809288>`__
+`The URL link to the source <ttps://doi.org/10.1080/07362999208809288}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,23 @@ wu.xiao:11:on
 .. code-block:: bibtex
 
    @article{wu.xiao:11:on,
-     author        = {Wu, Dongsheng and Xiao, Yimin},
-     doi           = {10.31390/cosa.5.1.03},
-     fjournal      = {Communications on Stochastic Analysis},
-     issn          = {2688-6669},
-     journal       = {Commun. Stoch. Anal.},
-     mrclass       = {60G15 (28A80 60F25 60G18 60G60 60J55)},
-     mrnumber      = {2808534},
-     mrreviewer    = {Jos\'{e} Rafael Le\'{o}n},
-     number        = {1},
-     pages         = {15--39},
-     title         = {On local times of anisotropic {G}aussian random fields},
-     url           = {https://doi.org/10.31390/cosa.5.1.03},
-     volume        = {5},
-     year          = {2011}
+    author = {Wu, Dongsheng and Xiao, Yimin},
+    doi = {10.31390/cosa.5.1.03},
+    fjournal = {Communications on Stochastic Analysis},
+    issn = {2688-6669},
+    journal = {Commun. Stoch. Anal.},
+    mrclass = {60G15 (28A80 60F25 60G18 60G60 60J55)},
+    mrnumber = {2808534},
+    mrreviewer = {Jos\'{e}\ Rafael\ Le\'{o}n},
+    number = {1},
+    pages = {15--39},
+    title = {On local times of anisotropic {G}aussian random fields},
+    url = {https://doi.org/10.31390/cosa.5.1.03},
+    volume = {5},
+    year = {2011}
    }
 
-`The URL link to the source <https://doi.org/10.31390/cosa.5.1.03>`__
+`The URL link to the source <ttps://doi.org/10.31390/cosa.5.1.03}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

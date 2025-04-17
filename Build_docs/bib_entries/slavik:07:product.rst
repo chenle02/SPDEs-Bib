@@ -8,18 +8,19 @@ slavik:07:product
 .. code-block:: bibtex
 
    @book{slavik:07:product,
-     author        = {Slav\'{i}k, Anton\'{i}n},
-     isbn          = {80-7378-006-2},
-     mrclass       = {28-01 (01A55 01A60 26A42 28-03)},
-     mrnumber      = {2917851},
-     mrreviewer    = {C. W. Swartz},
-     note          = {Corrected translation of the Czech original, D\v{e}jiny Matematiky/History of Mathematics, 29},
-     pages         = {iv+147},
-     publisher     = {Matfyzpress, Prague},
-     series        = {Neu{c}as Center for Mathematical Modeling},
-     title         = {Product integration, its history and applications},
-     volume        = {1},
-     year          = {2007}
+    author = {Slav\'{i}k, Anton\'{i}n},
+    isbn = {80-7378-006-2},
+    mrclass = {28-01 (01A55 01A60 26A42 28-03)},
+    mrnumber = {2917851},
+    mrreviewer = {C. W. Swartz},
+    note = {Corrected translation of the Czech original, D\v{e}jiny
+   Matematiky/History of Mathematics, 29},
+    pages = {iv+147},
+    publisher = {Matfyzpress, Prague},
+    series = {Neu{c}as Center for Mathematical Modeling},
+    title = {Product integration, its history and applications},
+    volume = {1},
+    year = {2007}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

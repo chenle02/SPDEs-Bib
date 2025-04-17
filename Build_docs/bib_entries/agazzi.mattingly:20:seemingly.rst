@@ -8,22 +8,23 @@ agazzi.mattingly:20:seemingly
 .. code-block:: bibtex
 
    @article{agazzi.mattingly:20:seemingly,
-     author        = {Agazzi, Andrea and Mattingly, Jonathan C.},
-     doi           = {10.4310/CMS.2020.v18.n6.a5},
-     fjournal      = {Communications in Mathematical Sciences},
-     issn          = {1539-6746,1945-0796},
-     journal       = {Commun. Math. Sci.},
-     mrclass       = {60G52 (60J76 92E20)},
-     mrnumber      = {4176352},
-     number        = {6},
-     pages         = {1605--1642},
-     title         = {Seemingly stable chemical kinetics can be stable, marginally stable, or unstable},
-     url           = {https://doi.org/10.4310/CMS.2020.v18.n6.a5},
-     volume        = {18},
-     year          = {2020}
+    author = {Agazzi, Andrea and Mattingly, Jonathan C.},
+    doi = {10.4310/CMS.2020.v18.n6.a5},
+    fjournal = {Communications in Mathematical Sciences},
+    issn = {1539-6746,1945-0796},
+    journal = {Commun. Math. Sci.},
+    mrclass = {60G52 (60J76 92E20)},
+    mrnumber = {4176352},
+    number = {6},
+    pages = {1605--1642},
+    title = {Seemingly stable chemical kinetics can be stable,
+   marginally stable, or unstable},
+    url = {https://doi.org/10.4310/CMS.2020.v18.n6.a5},
+    volume = {18},
+    year = {2020}
    }
 
-`The URL link to the source <https://doi.org/10.4310/CMS.2020.v18.n6.a5>`__
+`The URL link to the source <ttps://doi.org/10.4310/CMS.2020.v18.n6.a5}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

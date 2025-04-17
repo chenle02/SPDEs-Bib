@@ -8,23 +8,24 @@ borodin.ferrari:14:anisotropic
 .. code-block:: bibtex
 
    @article{borodin.ferrari:14:anisotropic,
-     author        = {Borodin, Alexei and Ferrari, Patrik L.},
-     doi           = {10.1007/s00220-013-1823-x},
-     fjournal      = {Communications in Mathematical Physics},
-     issn          = {0010-3616},
-     journal       = {Comm. Math. Phys.},
-     mrclass       = {60K35 (60D05 60J27 74N99)},
-     mrnumber      = {3148098},
-     mrreviewer    = {Andrew R. Wade},
-     number        = {2},
-     pages         = {603--684},
-     title         = {Anisotropic growth of random surfaces in {$2+1$} dimensions},
-     url           = {https://doi.org/10.1007/s00220-013-1823-x},
-     volume        = {325},
-     year          = {2014}
+    author = {Borodin, Alexei and Ferrari, Patrik L.},
+    doi = {10.1007/s00220-013-1823-x},
+    fjournal = {Communications in Mathematical Physics},
+    issn = {0010-3616},
+    journal = {Comm. Math. Phys.},
+    mrclass = {60K35 (60D05 60J27 74N99)},
+    mrnumber = {3148098},
+    mrreviewer = {Andrew R. Wade},
+    number = {2},
+    pages = {603--684},
+    title = {Anisotropic growth of random surfaces in {$2+1$}
+   dimensions},
+    url = {https://doi.org/10.1007/s00220-013-1823-x},
+    volume = {325},
+    year = {2014}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00220-013-1823-x>`__
+`The URL link to the source <ttps://doi.org/10.1007/s00220-013-1823-x}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

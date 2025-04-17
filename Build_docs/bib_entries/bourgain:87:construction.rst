@@ -8,23 +8,24 @@ bourgain:87:construction
 .. code-block:: bibtex
 
    @article{bourgain:87:construction,
-     author        = {Bourgain, J.},
-     doi           = {10.1007/BF02780397},
-     fjournal      = {Israel Journal of Mathematics},
-     issn          = {0021-2172},
-     journal       = {Israel J. Math.},
-     mrclass       = {28A12 (26A03 28A75)},
-     mrnumber      = {937795},
-     mrreviewer    = {N. Passell},
-     number        = {3},
-     pages         = {333--344},
-     title         = {Construction of sets of positive measure not containing an affine image of a given infinite structures},
-     url           = {https://doi.org/10.1007/BF02780397},
-     volume        = {60},
-     year          = {1987}
+    author = {Bourgain, J.},
+    doi = {10.1007/BF02780397},
+    fjournal = {Israel Journal of Mathematics},
+    issn = {0021-2172},
+    journal = {Israel J. Math.},
+    mrclass = {28A12 (26A03 28A75)},
+    mrnumber = {937795},
+    mrreviewer = {N.\ Passell},
+    number = {3},
+    pages = {333--344},
+    title = {Construction of sets of positive measure not containing an
+   affine image of a given infinite structures},
+    url = {https://doi.org/10.1007/BF02780397},
+    volume = {60},
+    year = {1987}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02780397>`__
+`The URL link to the source <ttps://doi.org/10.1007/BF02780397}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,21 +8,22 @@ hu:96:strong
 .. code-block:: bibtex
 
    @incollection{hu:96:strong,
-     author        = {Hu, Yaozhong},
-     booktitle     = {S\'{e}minaire de {P}robabilit\'{e}s, {XXX}},
-     doi           = {10.1007/BFb0094650},
-     mrclass       = {60H10 (65U05)},
-     mrnumber      = {1459485},
-     pages         = {218--227},
-     publisher     = {Springer, Berlin},
-     series        = {Lecture Notes in Math.},
-     title         = {Strong and weak order of time discretization schemes of stochastic differential equations},
-     url           = {https://doi.org/10.1007/BFb0094650},
-     volume        = {1626},
-     year          = {1996}
+    author = {Hu, Yaozhong},
+    booktitle = {S\'{e}minaire de {P}robabilit\'{e}s, {XXX}},
+    doi = {10.1007/BFb0094650},
+    mrclass = {60H10 (65U05)},
+    mrnumber = {1459485},
+    pages = {218--227},
+    publisher = {Springer, Berlin},
+    series = {Lecture Notes in Math.},
+    title = {Strong and weak order of time discretization schemes of
+   stochastic differential equations},
+    url = {https://doi.org/10.1007/BFb0094650},
+    volume = {1626},
+    year = {1996}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BFb0094650>`__
+`The URL link to the source <ttps://doi.org/10.1007/BFb0094650}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

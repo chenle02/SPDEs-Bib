@@ -8,23 +8,24 @@ ben-arous.peche:05:universality
 .. code-block:: bibtex
 
    @article{ben-arous.peche:05:universality,
-     author        = {Ben Arous, G. and P\'{e}ch\'{e}, S.},
-     doi           = {10.1002/cpa.20070},
-     fjournal      = {Communications on Pure and Applied Mathematics},
-     issn          = {0010-3640},
-     journal       = {Comm. Pure Appl. Math.},
-     mrclass       = {62J10 (15A52 62H20)},
-     mrnumber      = {2162782},
-     mrreviewer    = {Wojciech Zieli\'{n}ski},
-     number        = {10},
-     pages         = {1316--1357},
-     title         = {Universality of local eigenvalue statistics for some sample covariance matrices},
-     url           = {https://doi.org/10.1002/cpa.20070},
-     volume        = {58},
-     year          = {2005}
+    author = {Ben Arous, G. and P\'{e}ch\'{e}, S.},
+    doi = {10.1002/cpa.20070},
+    fjournal = {Communications on Pure and Applied Mathematics},
+    issn = {0010-3640},
+    journal = {Comm. Pure Appl. Math.},
+    mrclass = {62J10 (15A52 62H20)},
+    mrnumber = {2162782},
+    mrreviewer = {Wojciech Zieli\'{n}ski},
+    number = {10},
+    pages = {1316--1357},
+    title = {Universality of local eigenvalue statistics for some
+   sample covariance matrices},
+    url = {https://doi.org/10.1002/cpa.20070},
+    volume = {58},
+    year = {2005}
    }
 
-`The URL link to the source <https://doi.org/10.1002/cpa.20070>`__
+`The URL link to the source <ttps://doi.org/10.1002/cpa.20070}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

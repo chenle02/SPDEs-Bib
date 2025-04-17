@@ -8,23 +8,24 @@ johansson:01:discrete
 .. code-block:: bibtex
 
    @article{johansson:01:discrete,
-     author        = {Johansson, Kurt},
-     doi           = {10.2307/2661375},
-     fjournal      = {Annals of Mathematics. Second Series},
-     issn          = {0003-486X},
-     journal       = {Ann. of Math. (2)},
-     mrclass       = {05E10 (05A17 15A52 33C90 42C05 60C05 82B44)},
-     mrnumber      = {1826414},
-     mrreviewer    = {Nicholas S. Witte},
-     number        = {1},
-     pages         = {259--296},
-     title         = {Discrete orthogonal polynomial ensembles and the {P}lancherel measure},
-     url           = {https://doi.org/10.2307/2661375},
-     volume        = {153},
-     year          = {2001}
+    author = {Johansson, Kurt},
+    doi = {10.2307/2661375},
+    fjournal = {Annals of Mathematics. Second Series},
+    issn = {0003-486X},
+    journal = {Ann. of Math. (2)},
+    mrclass = {05E10 (05A17 15A52 33C90 42C05 60C05 82B44)},
+    mrnumber = {1826414},
+    mrreviewer = {Nicholas S. Witte},
+    number = {1},
+    pages = {259--296},
+    title = {Discrete orthogonal polynomial ensembles and the
+   {P}lancherel measure},
+    url = {https://doi.org/10.2307/2661375},
+    volume = {153},
+    year = {2001}
    }
 
-`The URL link to the source <https://doi.org/10.2307/2661375>`__
+`The URL link to the source <ttps://doi.org/10.2307/2661375}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

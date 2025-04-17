@@ -8,22 +8,25 @@ rio.jitomirskaya.ea:96:operators
 .. code-block:: bibtex
 
    @article{rio.jitomirskaya.ea:96:operators,
-     author        = {del Rio, R. and Jitomirskaya, S. and Last, Y. and Simon, B.},
-     doi           = {10.1007/BF02787106},
-     fjournal      = {Journal d'Analyse Math\'ematique},
-     issn          = {0021-7670,1565-8538},
-     journal       = {J. Anal. Math.},
-     mrclass       = {47A10 (34L40 47A55 47B25 47B80 47E05 47N50 81Q10)},
-     mrnumber      = {1428099},
-     mrreviewer    = {Horst Behncke},
-     pages         = {153--200},
-     title         = {Operators with singular continuous spectrum. {IV}. {H}ausdorff dimensions, rank one perturbations, and localization},
-     url           = {https://doi.org/10.1007/BF02787106},
-     volume        = {69},
-     year          = {1996}
+    author = {del Rio, R. and Jitomirskaya, S. and Last, Y. and Simon,
+   B.},
+    doi = {10.1007/BF02787106},
+    fjournal = {Journal d'Analyse Math\'ematique},
+    issn = {0021-7670,1565-8538},
+    journal = {J. Anal. Math.},
+    mrclass = {47A10 (34L40 47A55 47B25 47B80 47E05 47N50 81Q10)},
+    mrnumber = {1428099},
+    mrreviewer = {Horst\ Behncke},
+    pages = {153--200},
+    title = {Operators with singular continuous spectrum. {IV}.
+   {H}ausdorff dimensions, rank one perturbations, and
+   localization},
+    url = {https://doi.org/10.1007/BF02787106},
+    volume = {69},
+    year = {1996}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02787106>`__
+`The URL link to the source <ttps://doi.org/10.1007/BF02787106}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,22 +8,24 @@ zayernouri.matzavinos:16:fractional
 .. code-block:: bibtex
 
    @article{zayernouri.matzavinos:16:fractional,
-     author        = {Zayernouri, Mohsen and Matzavinos, Anastasios},
-     doi           = {10.1016/j.jcp.2016.04.041},
-     fjournal      = {Journal of Computational Physics},
-     issn          = {0021-9991},
-     journal       = {J. Comput. Phys.},
-     mrclass       = {65L06 (34A08 92C17)},
-     mrnumber      = {3498802},
-     mrreviewer    = {Gabriela Schranz-Kirlinger},
-     pages         = {1--14},
-     title         = {Fractional {A}dams-{B}ashforth/{M}oulton methods: an application to the fractional {K}eller-{S}egel chemotaxis system},
-     url           = {https://doi.org/10.1016/j.jcp.2016.04.041},
-     volume        = {317},
-     year          = {2016}
+    author = {Zayernouri, Mohsen and Matzavinos, Anastasios},
+    doi = {10.1016/j.jcp.2016.04.041},
+    fjournal = {Journal of Computational Physics},
+    issn = {0021-9991},
+    journal = {J. Comput. Phys.},
+    mrclass = {65L06 (34A08 92C17)},
+    mrnumber = {3498802},
+    mrreviewer = {Gabriela Schranz-Kirlinger},
+    pages = {1--14},
+    title = {Fractional {A}dams-{B}ashforth/{M}oulton methods: an
+   application to the fractional {K}eller-{S}egel chemotaxis
+   system},
+    url = {https://doi.org/10.1016/j.jcp.2016.04.041},
+    volume = {317},
+    year = {2016}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.jcp.2016.04.041>`__
+`The URL link to the source <ttps://doi.org/10.1016/j.jcp.2016.04.041}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

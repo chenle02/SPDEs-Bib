@@ -8,10 +8,10 @@ corea:93:networks
 .. code-block:: bibtex
 
    @book{corea:93:networks,
-     author        = {Corea, P.},
-     publisher     = {Springer},
-     title         = {Networks and Spatial Economics: Models and Applications},
-     year          = {1993}
+    author = {Corea, P.},
+    publisher = {Springer},
+    title = {Networks and Spatial Economics: Models and Applications},
+    year = {1993}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,17 +8,19 @@ chu.liu:04:double
 .. code-block:: bibtex
 
    @article{chu.liu:04:double,
-     author        = {Chu, Xing Li and Liu, Zi Xin},
-     fjournal      = {Journal of Henan Normal University. Natural Science. Henan Shifan Daxue Xuebao. Ziran Kexue Ban},
-     issn          = {1000-2367},
-     journal       = {J. Henan Norm. Univ. Nat. Sci.},
-     mrclass       = {82D37},
-     mrnumber      = {2080524},
-     number        = {2},
-     pages         = {31--33},
-     title         = {Double bound polaron in polar semiconductor heterostructures},
-     volume        = {32},
-     year          = {2004}
+    author = {Chu, Xing Li and Liu, Zi Xin},
+    fjournal = {Journal of Henan Normal University. Natural Science. Henan
+   Shifan Daxue Xuebao. Ziran Kexue Ban},
+    issn = {1000-2367},
+    journal = {J. Henan Norm. Univ. Nat. Sci.},
+    mrclass = {82D37},
+    mrnumber = {2080524},
+    number = {2},
+    pages = {31--33},
+    title = {Double bound polaron in polar semiconductor
+   heterostructures},
+    volume = {32},
+    year = {2004}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,22 +8,22 @@ hillen:07:classification
 .. code-block:: bibtex
 
    @article{hillen:07:classification,
-     author        = {Hillen, Thomas},
-     doi           = {10.1137/050632427},
-     fjournal      = {SIAM Review},
-     issn          = {0036-1445},
-     journal       = {SIAM Rev.},
-     mrclass       = {35K57 (26B35 35B25 35Q53 92C15)},
-     mrnumber      = {2302546},
-     number        = {1},
-     pages         = {35--51},
-     title         = {A classification of spikes and plateaus},
-     url           = {https://doi.org/10.1137/050632427},
-     volume        = {49},
-     year          = {2007}
+    author = {Hillen, Thomas},
+    doi = {10.1137/050632427},
+    fjournal = {SIAM Review},
+    issn = {0036-1445},
+    journal = {SIAM Rev.},
+    mrclass = {35K57 (26B35 35B25 35Q53 92C15)},
+    mrnumber = {2302546},
+    number = {1},
+    pages = {35--51},
+    title = {A classification of spikes and plateaus},
+    url = {https://doi.org/10.1137/050632427},
+    volume = {49},
+    year = {2007}
    }
 
-`The URL link to the source <https://doi.org/10.1137/050632427>`__
+`The URL link to the source <ttps://doi.org/10.1137/050632427}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

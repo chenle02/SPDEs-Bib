@@ -8,19 +8,21 @@ chen:24:feynman-kac
 .. code-block:: bibtex
 
    @article{chen:24:feynman-kac,
-     author        = {Chen, Xia},
-     fjournal      = {Ukrainian Mathematical Journal},
-     issn          = {0041-5995,1573-9376},
-     journal       = {Ukrainian Math. J.},
-     mrclass       = {60H15 (35K05 35R60 60H30)},
-     mrnumber      = {4747121},
-     mrreviewer    = {Jiang Lun Wu},
-     note          = {Reprint of Ukra\"in. Mat. Zh. {\bf 75} (2023), no. 11, 1552--1569},
-     number        = {11},
-     pages         = {1758--1777},
-     title         = {Feynman-{K}ac representation for parabolic {A}nderson equations with general {G}aussian noise},
-     volume        = {75},
-     year          = {2024}
+    author = {Chen, Xia},
+    fjournal = {Ukrainian Mathematical Journal},
+    issn = {0041-5995,1573-9376},
+    journal = {Ukrainian Math. J.},
+    mrclass = {60H15 (35K05 35R60 60H30)},
+    mrnumber = {4747121},
+    mrreviewer = {Jiang\ Lun\ Wu},
+    note = {Reprint of Ukra\"in. Mat. Zh. {\bf 75} (2023), no. 11,
+   1552--1569},
+    number = {11},
+    pages = {1758--1777},
+    title = {Feynman-{K}ac representation for parabolic {A}nderson
+   equations with general {G}aussian noise},
+    volume = {75},
+    year = {2024}
    }
 
 `Back to index <../By-Cite-Keys.html>`__
