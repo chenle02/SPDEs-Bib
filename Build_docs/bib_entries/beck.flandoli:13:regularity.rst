@@ -15,7 +15,7 @@ beck.flandoli:13:regularity
      journal       = {J. Evol. Equ.},
      mrclass       = {35K51 (35B65 35D30 35K59 35R60 60H15 60H30)},
      mrnumber      = {3127027},
-     mrreviewer    = {Alp\ O.\ Eden},
+     mrreviewer    = {Alp O. Eden},
      number        = {4},
      pages         = {829--874},
      title         = {A regularity theorem for quasilinear parabolic systems under random perturbations},

@@ -15,7 +15,7 @@ bourgain:95:aspects
      journal       = {Geom. Funct. Anal.},
      mrclass       = {35Q55 (35B40 35L70)},
      mrnumber      = {1334864},
-     mrreviewer    = {Mehmet\ Can},
+     mrreviewer    = {Mehmet Can},
      number        = {2},
      pages         = {105--140},
      title         = {Aspects of long time behaviour of solutions of nonlinear {H}amiltonian evolution equations},

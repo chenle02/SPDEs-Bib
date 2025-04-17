@@ -15,7 +15,7 @@ maillard.rhodes.ea:16:liouville
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {35K08 (35B45 35B65 60J55 60J70 60K37)},
      mrnumber      = {3531710},
-     mrreviewer    = {Jia-Yong\ Wu},
+     mrreviewer    = {Jia-Yong Wu},
      number        = {3},
      pages         = {1281--1320},
      title         = {Liouville heat kernel: regularity and bounds},

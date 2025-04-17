@@ -15,7 +15,7 @@ li.lu.ea:21:numerical
      journal       = {Commun. Math. Sci.},
      mrclass       = {65C30 (60H35 65L20)},
      mrnumber      = {4294561},
-     mrreviewer    = {Sa\'ul\ D\'iaz-Infante},
+     mrreviewer    = {Sa\'ul D\'iaz-Infante},
      number        = {6},
      pages         = {1549--1577},
      title         = {Numerical methods for stochastic differential equations based on {G}aussian mixture},

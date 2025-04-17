@@ -15,7 +15,7 @@ przytycki.rivera-letelier.ea:03:equivalence
      journal       = {Invent. Math.},
      mrclass       = {37F10 (37F15)},
      mrnumber      = {1943741},
-     mrreviewer    = {Peter\ Ha\"{i}ssinsky},
+     mrreviewer    = {Peter Ha\"{i}ssinsky},
      number        = {1},
      pages         = {29--63},
      title         = {Equivalence and topological invariance of conditions for non-uniform hyperbolicity in the iteration of rational maps},

@@ -14,7 +14,7 @@ kocubeui:79:extensions
      journal       = {Dokl. Akad. Nauk Ukrain. SSR Ser. A},
      mrclass       = {47A20 (47H06)},
      mrnumber      = {533792},
-     mrreviewer    = {A.\ Sobczyk},
+     mrreviewer    = {A. Sobczyk},
      number        = {3},
      pages         = {168--171, 237},
      title         = {Extensions of a positive definite symmetric operator},

@@ -12,7 +12,7 @@ simon:79:trace
      isbn          = {0-521-22286-9},
      mrclass       = {47D25 (47A40 81F99)},
      mrnumber      = {541149},
-     mrreviewer    = {M.\ Demuth},
+     mrreviewer    = {M. Demuth},
      pages         = {viii+134},
      publisher     = {Cambridge University Press, Cambridge-New York},
      series        = {London Mathematical Society Lecture Note Series},

@@ -15,7 +15,7 @@ deift.kamvissis.ea:96:toda
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {34A55 (34K25 34L40 35Q35)},
      mrnumber      = {1369835},
-     mrreviewer    = {Alexander\ Vladimirovich\ Kitaev},
+     mrreviewer    = {Alexander Vladimirovich Kitaev},
      number        = {1},
      pages         = {35--83},
      title         = {The {T}oda rarefaction problem},

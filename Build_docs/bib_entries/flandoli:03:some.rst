@@ -14,7 +14,7 @@ flandoli:03:some
      isbn          = {981-238-226-7},
      mrclass       = {76F55 (35Q35 35R60 37L30 37L40 76D05 76M35)},
      mrnumber      = {2083370},
-     mrreviewer    = {Azzouz\ Dermoune},
+     mrreviewer    = {Azzouz Dermoune},
      pages         = {144--160},
      publisher     = {World Sci. Publ., River Edge, NJ},
      title         = {Some remarks on a statistical theory of turbulent flows},

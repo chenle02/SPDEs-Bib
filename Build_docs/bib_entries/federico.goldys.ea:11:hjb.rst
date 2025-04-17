@@ -15,7 +15,7 @@ federico.goldys.ea:11:hjb
      journal       = {SIAM J. Control Optim.},
      mrclass       = {49L25 (34K35 49N35 93B52)},
      mrnumber      = {2854622},
-     mrreviewer    = {Marino\ Belloni},
+     mrreviewer    = {Marino Belloni},
      number        = {6},
      pages         = {2378--2414},
      title         = {H{JB} equations for the optimal control of differential equations with delays and state constraints, {II}: {V}erification and optimal feedbacks},

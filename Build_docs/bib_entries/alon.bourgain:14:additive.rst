@@ -15,7 +15,7 @@ alon.bourgain:14:additive
      journal       = {Geom. Funct. Anal.},
      mrclass       = {11B30 (05C25 12E20)},
      mrnumber      = {3213827},
-     mrreviewer    = {Oliver\ Roche-Newton},
+     mrreviewer    = {Oliver Roche-Newton},
      number        = {3},
      pages         = {721--739},
      title         = {Additive patterns in multiplicative subgroups},

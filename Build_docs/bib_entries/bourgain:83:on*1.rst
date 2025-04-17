@@ -15,7 +15,7 @@ bourgain:83:on*1
      journal       = {Israel J. Math.},
      mrclass       = {46J15 (30H05 46B20)},
      mrnumber      = {720307},
-     mrreviewer    = {P.\ Wojtaszczyk},
+     mrreviewer    = {P. Wojtaszczyk},
      number        = {4},
      pages         = {329--336},
      title         = {On the primarity of {$H\sp{infty }$}-spaces},

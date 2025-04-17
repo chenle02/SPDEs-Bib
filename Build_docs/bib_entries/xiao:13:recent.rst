@@ -14,7 +14,7 @@ xiao:13:recent
      isbn          = {978-0-8176-8399-3; 978-0-8176-8400-6},
      mrclass       = {60G60 (60-02 60G15 60G17)},
      mrnumber      = {3184196},
-     mrreviewer    = {Anatoliy\ Malyarenko},
+     mrreviewer    = {Anatoliy Malyarenko},
      pages         = {255--288},
      publisher     = {Birkh\"{a}user/Springer, New York},
      series        = {Trends Math.},

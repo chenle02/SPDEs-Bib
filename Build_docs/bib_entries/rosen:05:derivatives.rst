@@ -14,7 +14,7 @@ rosen:05:derivatives
      isbn          = {3-540-23973-1},
      mrclass       = {60J55},
      mrnumber      = {2126979},
-     mrreviewer    = {Hac\`ene\ Boutabia},
+     mrreviewer    = {Hac\`ene Boutabia},
      pages         = {263--281},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

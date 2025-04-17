@@ -15,7 +15,7 @@ avron.simon:83:almost
      journal       = {Duke Math. J.},
      mrclass       = {34B25 (35P05 81C10)},
      mrnumber      = {700145},
-     mrreviewer    = {W.\ O.\ Amrein},
+     mrreviewer    = {W. O. Amrein},
      number        = {1},
      pages         = {369--391},
      title         = {Almost periodic {S}chr\"odinger operators. {II}. {T}he integrated density of states},

@@ -14,7 +14,7 @@ rosen:83:local
      journal       = {Comm. Math. Phys.},
      mrclass       = {60J65 (60G17)},
      mrnumber      = {701921},
-     mrreviewer    = {Robert\ J.\ Adler},
+     mrreviewer    = {Robert J. Adler},
      number        = {3},
      pages         = {327--338},
      title         = {A local time approach to the self-intersections of {B}rownian paths in space},

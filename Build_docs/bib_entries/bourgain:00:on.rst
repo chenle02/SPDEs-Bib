@@ -15,7 +15,7 @@ bourgain:00:on
      journal       = {J. Anal. Math.},
      mrclass       = {35K55 (35B45 35B65 35Q55)},
      mrnumber      = {1771522},
-     mrreviewer    = {Dario\ Bambusi},
+     mrreviewer    = {Dario Bambusi},
      pages         = {1--35},
      title         = {On diffusion in high-dimensional {H}amiltonian systems and {PDE}},
      url           = {https://doi.org/10.1007/BF02791532},

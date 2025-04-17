@@ -15,7 +15,7 @@ smirnov:01:on
      journal       = {Colloq. Math.},
      mrclass       = {37F50 (30D05)},
      mrnumber      = {1814670},
-     mrreviewer    = {Peter\ Ha\"{i}ssinsky},
+     mrreviewer    = {Peter Ha\"{i}ssinsky},
      number        = {2},
      pages         = {287--295},
      title         = {On supports of dynamical laminations and biaccessible points in polynomial {J}ulia sets},

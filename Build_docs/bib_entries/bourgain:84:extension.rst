@@ -15,7 +15,7 @@ bourgain:84:extension
      journal       = {Ark. Mat.},
      mrclass       = {47B38 (42B20 46E40)},
      mrnumber      = {735880},
-     mrreviewer    = {S.\ V.\ Khrushch\"{e}v},
+     mrreviewer    = {S. V. Khrushch\"{e}v},
      number        = {1},
      pages         = {91--95},
      title         = {Extension of a result of {B}enedek, {C}alder\'{o}n and {P}anzone},

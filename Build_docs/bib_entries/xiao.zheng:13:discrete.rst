@@ -15,7 +15,7 @@ xiao.zheng:13:discrete
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60K37 (60F17 60G50 82C41)},
      mrnumber      = {3055250},
-     mrreviewer    = {Elena\ A.\ Zhizhina},
+     mrreviewer    = {Elena A. Zhizhina},
      number        = {1-2},
      pages         = {1--26},
      title         = {Discrete fractal dimensions of the ranges of random walks in {${\Bbb Z}^d$} associate with random conductances},

@@ -15,7 +15,7 @@ da-prato.flandoli.ea:13:strong
      journal       = {Ann. Probab.},
      mrclass       = {60H15 (35A02 35R60)},
      mrnumber      = {3127884},
-     mrreviewer    = {Dora\ Sele\v{s}i},
+     mrreviewer    = {Dora Sele\v{s}i},
      number        = {5},
      pages         = {3306--3344},
      title         = {Strong uniqueness for stochastic evolution equations in {H}ilbert spaces perturbed by a bounded measurable drift},

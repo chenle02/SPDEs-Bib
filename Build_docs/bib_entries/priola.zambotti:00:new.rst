@@ -14,7 +14,7 @@ priola.zambotti:00:new
      journal       = {Boll. Unione Mat. Ital. Sez. B Artic. Ric. Mat. (8)},
      mrclass       = {35R15 (35J99)},
      mrnumber      = {1769994},
-     mrreviewer    = {Stanis\l aw\ W\polhk{e}drychowicz},
+     mrreviewer    = {Stanis\l aw W\polhk{e}drychowicz},
      number        = {2},
      pages         = {411--429},
      title         = {New optimal regularity results for infinite-dimensional elliptic equations},

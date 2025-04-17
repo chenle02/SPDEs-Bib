@@ -15,7 +15,7 @@ gro-kinsky.klingenberg.ea:04:rigorous
      journal       = {Stochastic Anal. Appl.},
      mrclass       = {82C22 (35K57 60H10 85A04)},
      mrnumber      = {2033992},
-     mrreviewer    = {Madalina\ Deaconu},
+     mrreviewer    = {Madalina Deaconu},
      number        = {1},
      pages         = {113--141},
      title         = {A rigorous derivation of {S}moluchowski's equation in the moderate limit},

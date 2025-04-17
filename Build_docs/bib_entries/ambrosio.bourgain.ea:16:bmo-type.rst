@@ -15,7 +15,7 @@ ambrosio.bourgain.ea:16:bmo-type
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {42B35},
      mrnumber      = {3493625},
-     mrreviewer    = {Manuel\ Alejandro\ Sanabria Garc\'{i}a},
+     mrreviewer    = {Manuel Alejandro Sanabria Garc\'{i}a},
      number        = {6},
      pages         = {1062--1086},
      title         = {B{MO}-type norms related to the perimeter of sets},

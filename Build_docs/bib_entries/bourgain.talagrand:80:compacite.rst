@@ -15,7 +15,7 @@ bourgain.talagrand:80:compacite
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {46B10 (46A50)},
      mrnumber      = {574510},
-     mrreviewer    = {M.\ M.\ Day},
+     mrreviewer    = {M. M. Day},
      number        = {1},
      pages         = {68--70},
      title         = {Compacit\'{e} extr\'{e}male},

@@ -14,7 +14,7 @@ gardner.derrida:89:probability
      journal       = {J. Phys. A},
      mrclass       = {82A57},
      mrnumber      = {1004905},
-     mrreviewer    = {A.\ Comtet},
+     mrreviewer    = {A. Comtet},
      note          = {Special issue in memory of Elizabeth Gardner, 1957--1988},
      number        = {12},
      pages         = {1975--1981},

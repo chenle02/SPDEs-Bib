@@ -14,7 +14,7 @@ maslowski.seidler:94:ergodic
      journal       = {Osaka J. Math.},
      mrclass       = {60H10 (34F05 34G20 47D07)},
      mrnumber      = {1315015},
-     mrreviewer    = {Yasushi\ Ishikawa},
+     mrreviewer    = {Yasushi Ishikawa},
      number        = {4},
      pages         = {965--1003},
      title         = {Ergodic properties of recurrent solutions of stochastic evolution equations},

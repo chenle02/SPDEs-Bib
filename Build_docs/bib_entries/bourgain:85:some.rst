@@ -14,7 +14,7 @@ bourgain:85:some
      isbn          = {3-540-16051-5},
      mrclass       = {46E15 (32A35 46J15)},
      mrnumber      = {827752},
-     mrreviewer    = {P.\ Wojtaszczyk},
+     mrreviewer    = {P. Wojtaszczyk},
      pages         = {4--10},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

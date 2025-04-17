@@ -13,7 +13,7 @@ dembo.zeitouni:95:large
      isbn          = {3-7643-5241-8},
      mrclass       = {60F10 (60G15 60J65)},
      mrnumber      = {1360270},
-     mrreviewer    = {Vadim\ R.\ Fatalov},
+     mrreviewer    = {Vadim R. Fatalov},
      pages         = {111--121},
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Progr. Probab.},

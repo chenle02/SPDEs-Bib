@@ -14,7 +14,7 @@ derrida.evans.ea:93:exact
      journal       = {J. Phys. A},
      mrclass       = {60K35 (82C20)},
      mrnumber      = {1219679},
-     mrreviewer    = {Pablo\ A.\ Ferrari},
+     mrreviewer    = {Pablo A. Ferrari},
      number        = {7},
      pages         = {1493--1517},
      title         = {Exact solution of a {$1$}D asymmetric exclusion model using a matrix formulation},

@@ -15,7 +15,7 @@ bourgain:93:on*3
      journal       = {Geom. Funct. Anal.},
      mrclass       = {35Q53 (42B05)},
      mrnumber      = {1223434},
-     mrreviewer    = {Daniel\ B\"{a}ttig},
+     mrreviewer    = {Daniel B\"{a}ttig},
      number        = {4},
      pages         = {315--341},
      title         = {On the {C}auchy problem for the {K}adomtsev-{P}etviashvili equation},

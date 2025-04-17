@@ -15,7 +15,7 @@ bourgain:80:f--sections
      journal       = {Fund. Math.},
      mrclass       = {54H05},
      mrnumber      = {584665},
-     mrreviewer    = {D.\ W.\ Bressler},
+     mrreviewer    = {D. W. Bressler},
      number        = {2},
      pages         = {129--133},
      title         = {{$F\sb{\sigma \delta }$}-sections of {B}orel sets},

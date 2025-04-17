@@ -15,7 +15,7 @@ kesten.spitzer:84:convergence
      journal       = {Z. Wahrsch. Verw. Gebiete},
      mrclass       = {60B15 (15A52 60J15)},
      mrnumber      = {761563},
-     mrreviewer    = {E.\ Seneta},
+     mrreviewer    = {E. Seneta},
      number        = {4},
      pages         = {363--386},
      title         = {Convergence in distribution of products of random matrices},

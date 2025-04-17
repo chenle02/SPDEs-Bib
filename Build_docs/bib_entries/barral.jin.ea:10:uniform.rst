@@ -15,7 +15,7 @@ barral.jin.ea:10:uniform
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60G18 (28A78 60F15 60G22 60G42 60G44)},
      mrnumber      = {2676937},
-     mrreviewer    = {Sreenivasan\ Ravi},
+     mrreviewer    = {Sreenivasan Ravi},
      number        = {4},
      pages         = {1205--1218},
      title         = {Uniform convergence for complex {$[0,1]$}-martingales},

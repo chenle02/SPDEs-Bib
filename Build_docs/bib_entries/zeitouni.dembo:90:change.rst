@@ -15,7 +15,7 @@ zeitouni.dembo:90:change
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H05},
      mrnumber      = {1035665},
-     mrreviewer    = {Ali\ S\"{u}leyman\ \"{U}st\"{u}nel},
+     mrreviewer    = {Ali S\"{u}leyman \"{U}st\"{u}nel},
      number        = {3},
      pages         = {411--425},
      title         = {A change of variables formula for {S}tratonovich integrals and existence of solutions for two-point stochastic boundary value problems},

@@ -14,7 +14,7 @@ bourgain:78:some
      journal       = {Bull. Soc. Math. Belg.},
      mrclass       = {54C50 (54E50)},
      mrnumber      = {549647},
-     mrreviewer    = {Val\'{e}ry\ Mi\v{s}kin},
+     mrreviewer    = {Val\'{e}ry Mi\v{s}kin},
      number        = {1},
      pages         = {3--10},
      title         = {Some remarks on compact sets of first {B}aire class},

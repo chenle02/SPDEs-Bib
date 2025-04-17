@@ -15,7 +15,7 @@ derrida:97:from
      journal       = {Phys. D},
      mrclass       = {82D30 (82B41 82B44)},
      mrnumber      = {1491962},
-     mrreviewer    = {Barbara\ Gentz},
+     mrreviewer    = {Barbara Gentz},
      note          = {Landscape paradigms in physics and biology (Los Alamos, NM, 1996)},
      number        = {2-4},
      pages         = {186--198},

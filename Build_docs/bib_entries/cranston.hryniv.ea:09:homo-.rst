@@ -14,7 +14,7 @@ cranston.hryniv.ea:09:homo-
      journal       = {Markov Process. Related Fields},
      mrclass       = {60K35 (82B44)},
      mrnumber      = {2538314},
-     mrreviewer    = {Giambattista\ Giacomin},
+     mrreviewer    = {Giambattista Giacomin},
      number        = {2},
      pages         = {205--224},
      title         = {Homo- and hetero-polymers in the mean-field approximation},

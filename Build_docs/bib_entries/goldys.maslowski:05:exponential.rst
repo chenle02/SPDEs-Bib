@@ -15,7 +15,7 @@ goldys.maslowski:05:exponential
      journal       = {J. Funct. Anal.},
      mrclass       = {35R60 (35Q30 35Q53 37L55 60H10 76D05 76M35)},
      mrnumber      = {2158741},
-     mrreviewer    = {Ana\ Bela\ Cruzeiro},
+     mrreviewer    = {Ana Bela Cruzeiro},
      number        = {1},
      pages         = {230--255},
      title         = {Exponential ergodicity for stochastic {B}urgers and 2{D} {N}avier-{S}tokes equations},

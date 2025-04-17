@@ -15,7 +15,7 @@ bourgain.bulut:12:gibbs
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {35Q55 (35L71 37K10)},
      mrnumber      = {2956145},
-     mrreviewer    = {Makoto\ Nakamura},
+     mrreviewer    = {Makoto Nakamura},
      number        = {11-12},
      pages         = {571--575},
      title         = {Gibbs measure evolution in radial nonlinear wave and {S}chr\"{o}dinger equations on the ball},

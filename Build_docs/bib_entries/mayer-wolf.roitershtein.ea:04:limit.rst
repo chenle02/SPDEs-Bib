@@ -15,7 +15,7 @@ mayer-wolf.roitershtein.ea:04:limit
      journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
      mrclass       = {60K37 (60F05 60J05 60J80)},
      mrnumber      = {2086017},
-     mrreviewer    = {Nikita\ Y.\ Ratanov},
+     mrreviewer    = {Nikita Y. Ratanov},
      number        = {5},
      pages         = {635--659},
      title         = {Limit theorems for one-dimensional transient random walks in {M}arkov environments},

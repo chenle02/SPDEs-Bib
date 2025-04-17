@@ -14,7 +14,7 @@ bourgain:10:on
      isbn          = {978-963-9453-14-2; 978-3-642-14443-1},
      mrclass       = {11T23 (11L07)},
      mrnumber      = {2815603},
-     mrreviewer    = {Antonio\ Rojas Le\'{o}n},
+     mrreviewer    = {Antonio Rojas Le\'{o}n},
      pages         = {219--242},
      publisher     = {J\'{a}nos Bolyai Math. Soc., Budapest},
      series        = {Bolyai Soc. Math. Stud.},

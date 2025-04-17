@@ -15,7 +15,7 @@ cranston.le-jan:90:noncoalescence
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H10 (60G17 60J55 60J65)},
      mrnumber      = {1080491},
-     mrreviewer    = {H.-J.\ Engelbert},
+     mrreviewer    = {H.-J. Engelbert},
      number        = {2},
      pages         = {241--252},
      title         = {Noncoalescence for the {S}korohod equation in a convex domain of {${\bf R}^2$}},

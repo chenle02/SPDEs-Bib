@@ -15,7 +15,7 @@ li:92:lim
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60G15 (60F15 60G17)},
      mrnumber      = {1156451},
-     mrreviewer    = {M.\ Cs\"{o}rg\H{o}},
+     mrreviewer    = {M. Cs\"{o}rg\H{o}},
      number        = {1},
      pages         = {69--90},
      title         = {Lim inf results for the {W}iener process and its increments under the {$L_2$}-norm},

@@ -15,7 +15,7 @@ kochubeui:89:one-dimensional
      journal       = {Ukrain. Mat. Zh.},
      mrclass       = {81Q10},
      mrnumber      = {1034685},
-     mrreviewer    = {Julius\ A.\ Semenov},
+     mrreviewer    = {Julius A. Semenov},
      number        = {10},
      pages         = {1391--1395, 1439},
      title         = {One-dimensional point interactions},

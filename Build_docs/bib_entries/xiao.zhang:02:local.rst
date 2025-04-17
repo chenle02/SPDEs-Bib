@@ -15,7 +15,7 @@ xiao.zhang:02:local
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60G15 (60G17)},
      mrnumber      = {1936017},
-     mrreviewer    = {H.\ Vishnu\ Hebbar},
+     mrreviewer    = {H. Vishnu Hebbar},
      number        = {2},
      pages         = {204--226},
      title         = {Local times of fractional {B}rownian sheets},

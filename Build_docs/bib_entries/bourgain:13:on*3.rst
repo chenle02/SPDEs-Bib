@@ -15,7 +15,7 @@ bourgain:13:on*3
      journal       = {Israel J. Math.},
      mrclass       = {11F30},
      mrnumber      = {3096614},
-     mrreviewer    = {Gergely\ Harcos},
+     mrreviewer    = {Gergely Harcos},
      number        = {1},
      pages         = {215--235},
      title         = {On the {F}ourier-{W}alsh spectrum of the {M}oebius function},

@@ -14,7 +14,7 @@ deuschel.zeitouni:95:limiting
      journal       = {Ann. Probab.},
      mrclass       = {60G70 (60F10)},
      mrnumber      = {1334175},
-     mrreviewer    = {Charles\ M.\ Goldie},
+     mrreviewer    = {Charles M. Goldie},
      number        = {2},
      pages         = {852--878},
      title         = {Limiting curves for i.i.d. records},

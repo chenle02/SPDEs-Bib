@@ -15,7 +15,7 @@ xiao:98:local
      journal       = {J. Theoret. Probab.},
      mrclass       = {60J55 (60J65)},
      mrnumber      = {1622577},
-     mrreviewer    = {Endre\ Cs\'{a}ki},
+     mrreviewer    = {Endre Cs\'{a}ki},
      number        = {2},
      pages         = {383--408},
      title         = {Local times and related properties of multidimensional iterated {B}rownian motion},

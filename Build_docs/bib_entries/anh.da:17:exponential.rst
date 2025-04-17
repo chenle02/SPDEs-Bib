@@ -15,7 +15,7 @@ anh.da:17:exponential
      journal       = {Stochastics},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {3607743},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {3-4},
      pages         = {593--618},
      title         = {The exponential behaviour and stabilizability of stochastic 2{D} hydrodynamical type systems},

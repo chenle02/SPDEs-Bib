@@ -15,7 +15,7 @@ barral.fournier.ea:10:pure
      journal       = {Ann. Probab.},
      mrclass       = {60J75 (28A78 28A80 60H10)},
      mrnumber      = {2722790},
-     mrreviewer    = {Andrzej\ Stos},
+     mrreviewer    = {Andrzej Stos},
      number        = {5},
      pages         = {1924--1946},
      title         = {A pure jump {M}arkov process with a random singularity spectrum},

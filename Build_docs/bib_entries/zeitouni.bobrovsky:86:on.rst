@@ -15,7 +15,7 @@ zeitouni.bobrovsky:86:on
      journal       = {Stochastics},
      mrclass       = {60H15 (60G35)},
      mrnumber      = {870617},
-     mrreviewer    = {Rajeeva\ L.\ Karandikar},
+     mrreviewer    = {Rajeeva L. Karandikar},
      number        = {3},
      pages         = {133--149},
      title         = {On the reference probability approach to the equations of nonlinear filtering},

@@ -15,7 +15,7 @@ xiao:97:hausdorff
      journal       = {Math. Proc. Cambridge Philos. Soc.},
      mrclass       = {60J65},
      mrnumber      = {1466658},
-     mrreviewer    = {Andr\'{e}\ Goldman},
+     mrreviewer    = {Andr\'{e} Goldman},
      number        = {3},
      pages         = {565--576},
      title         = {Hausdorff measure of the graph of fractional {B}rownian motion},

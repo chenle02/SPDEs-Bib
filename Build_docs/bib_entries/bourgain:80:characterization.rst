@@ -15,7 +15,7 @@ bourgain:80:characterization
      journal       = {Israel J. Math.},
      mrclass       = {47B38 (46B22 47B05 60G48)},
      mrnumber      = {599301},
-     mrreviewer    = {R.\ W.\ Cross},
+     mrreviewer    = {R. W. Cross},
      number        = {1-2},
      pages         = {48--53},
      title         = {A characterization of non-{D}unford-{P}ettis operators on {$L\sp{1}$}},

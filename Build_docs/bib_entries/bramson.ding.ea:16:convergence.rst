@@ -15,7 +15,7 @@ bramson.ding.ea:16:convergence
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60G15 (05C81 60F05 60G60 60J80)},
      mrnumber      = {3433630},
-     mrreviewer    = {Serguei\ Popov},
+     mrreviewer    = {Serguei Popov},
      number        = {1},
      pages         = {62--123},
      title         = {Convergence in law of the maximum of the two-dimensional discrete {G}aussian free field},

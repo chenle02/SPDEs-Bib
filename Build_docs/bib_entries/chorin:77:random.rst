@@ -15,7 +15,7 @@ chorin:77:random
      journal       = {J. Comput. Phys.},
      mrclass       = {76.65},
      mrnumber      = {471617},
-     mrreviewer    = {Nima\ Geffen},
+     mrreviewer    = {Nima Geffen},
      number        = {3},
      pages         = {253--272},
      title         = {Random choice methods with applications to reacting gas flow},

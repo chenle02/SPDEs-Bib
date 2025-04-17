@@ -15,7 +15,7 @@ bourgain:80:linfty-c0
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {46B25 (46A45)},
      mrnumber      = {550499},
-     mrreviewer    = {S.\ Swaminathan},
+     mrreviewer    = {S. Swaminathan},
      number        = {2},
      pages         = {225--226},
      title         = {{$l\sp{infty }/c\sb{0}$} has no equivalent strictly convex norm},

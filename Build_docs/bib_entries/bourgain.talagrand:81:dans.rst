@@ -15,7 +15,7 @@ bourgain.talagrand:81:dans
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {46B22 (46B30)},
      mrnumber      = {589144},
-     mrreviewer    = {P.\ D.\ Morris},
+     mrreviewer    = {P. D. Morris},
      number        = {1},
      pages         = {93--96},
      title         = {Dans un espace de {B}anach reticul\'{e} solide, la propri\'{e}t\'{e} de {R}adon-{N}ikod\'{y}m et celle de {K}reu{i}n-{M}il{\cprime}man sont \'{e}quivalentes},

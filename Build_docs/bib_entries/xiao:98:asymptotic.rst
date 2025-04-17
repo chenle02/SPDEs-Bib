@@ -14,7 +14,7 @@ xiao:98:asymptotic
      isbn          = {0-444-50083-9},
      mrclass       = {60J25 (60G18 60J55)},
      mrnumber      = {1661490},
-     mrreviewer    = {Juha\ Vuolle-Apiala},
+     mrreviewer    = {Juha Vuolle-Apiala},
      pages         = {323--340},
      publisher     = {North-Holland, Amsterdam},
      title         = {Asymptotic results for self-similar {M}arkov processes},

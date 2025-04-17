@@ -15,7 +15,7 @@ lan.xiao:18:strong
      journal       = {Statist. Probab. Lett.},
      mrclass       = {60G60 (60G17 60G22)},
      mrnumber      = {3758260},
-     mrreviewer    = {Yizao\ Wang},
+     mrreviewer    = {Yizao Wang},
      pages         = {44--50},
      title         = {Strong local nondeterminism of spherical fractional {B}rownian motion},
      url           = {https://doi.org/10.1016/j.spl.2017.11.007},

@@ -15,7 +15,7 @@ arous.subag.ea:20:geometry
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {82D30 (60G15 82B44)},
      mrnumber      = {4113545},
-     mrreviewer    = {Reza\ Gheissari},
+     mrreviewer    = {Reza Gheissari},
      number        = {8},
      pages         = {1732--1828},
      title         = {Geometry and temperature chaos in mixed spherical spin glasses at low temperature: the perturbative regime},

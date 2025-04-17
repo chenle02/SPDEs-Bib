@@ -14,7 +14,7 @@ bourgain:97:hamiltonian
      isbn          = {981-02-3117-2},
      mrclass       = {35Q55 (35K99)},
      mrnumber      = {1622924},
-     mrreviewer    = {Peter\ E.\ Zhidkov},
+     mrreviewer    = {Peter E. Zhidkov},
      pages         = {542--554},
      publisher     = {World Sci. Publ., River Edge, NJ},
      series        = {World Sci. Ser. 20th Century Math.},

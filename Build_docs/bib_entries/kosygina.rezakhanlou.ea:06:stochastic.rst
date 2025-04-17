@@ -15,7 +15,7 @@ kosygina.rezakhanlou.ea:06:stochastic
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35B27 (35B25 35F20 49J45 60H25 76M35 76M50 76S05)},
      mrnumber      = {2248897},
-     mrreviewer    = {Catherine\ Choquet},
+     mrreviewer    = {Catherine Choquet},
      number        = {10},
      pages         = {1489--1521},
      title         = {Stochastic homogenization of {H}amilton-{J}acobi-{B}ellman equations},

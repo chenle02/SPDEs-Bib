@@ -15,7 +15,7 @@ kiselev.last.ea:98:modified
      journal       = {Comm. Math. Phys.},
      mrclass       = {34L40 (39A70 47B39 47B80 47E05 81Q10)},
      mrnumber      = {1628290},
-     mrreviewer    = {G\"unter\ Stolz},
+     mrreviewer    = {G\"unter Stolz},
      number        = {1},
      pages         = {1--45},
      title         = {Modified {P}r\"ufer and {EFGP} transforms and the spectral analysis of one-dimensional {S}chr\"odinger operators},

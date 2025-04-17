@@ -15,7 +15,7 @@ bourgain:82:remark
      journal       = {Studia Math.},
      mrclass       = {46B20},
      mrnumber      = {671402},
-     mrreviewer    = {Zvi\ Altshuler},
+     mrreviewer    = {Zvi Altshuler},
      number        = {3},
      pages         = {285--289},
      title         = {A remark on finite-dimensional {$P\sb{\lambda }$}-spaces},

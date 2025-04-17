@@ -13,7 +13,7 @@ dembo.zeitouni:97:moderate
      isbn          = {981-02-3292-6},
      mrclass       = {60F10 (28D05 60G10)},
      mrnumber      = {1647246},
-     mrreviewer    = {Alexander\ Veretennikov},
+     mrreviewer    = {Alexander Veretennikov},
      pages         = {1--11},
      publisher     = {World Sci. Publ., River Edge, NJ},
      title         = {Moderate deviations for iterates of expanding maps},

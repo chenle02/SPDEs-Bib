@@ -15,7 +15,7 @@ bourgain.rudnick:12:restriction
      journal       = {Geom. Funct. Anal.},
      mrclass       = {58J50 (11P21 35P15 35R01)},
      mrnumber      = {2984120},
-     mrreviewer    = {Tanya\ J.\ Christiansen},
+     mrreviewer    = {Tanya J. Christiansen},
      number        = {4},
      pages         = {878--937},
      title         = {Restriction of toral eigenfunctions to hypersurfaces and nodal sets},

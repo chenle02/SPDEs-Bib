@@ -15,7 +15,7 @@ li.xiao.ea:19:on
      journal       = {J. Theoret. Probab.},
      mrclass       = {60J55 (60G15 60J75)},
      mrnumber      = {4020694},
-     mrreviewer    = {Olga\ Izyumtseva},
+     mrreviewer    = {Olga Izyumtseva},
      number        = {4},
      pages         = {1943--1972},
      title         = {On the favorite points of symmetric {L}\'{e}vy processes},

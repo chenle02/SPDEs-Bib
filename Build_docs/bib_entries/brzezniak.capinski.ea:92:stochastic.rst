@@ -15,7 +15,7 @@ brzezniak.capinski.ea:92:stochastic
      journal       = {Stochastic Anal. Appl.},
      mrclass       = {35Q30 (35R60 60H15 76D05 76M35)},
      mrnumber      = {1185046},
-     mrreviewer    = {Ana\ Bela\ Cruzeiro},
+     mrreviewer    = {Ana Bela Cruzeiro},
      number        = {5},
      pages         = {523--532},
      title         = {Stochastic {N}avier-{S}tokes equations with multiplicative noise},

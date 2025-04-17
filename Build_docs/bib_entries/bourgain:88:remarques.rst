@@ -12,7 +12,7 @@ bourgain:88:remarques
      booktitle     = {S\'{e}minaire d'{A}nalyse {F}onctionelle 1985/1986/1987},
      mrclass       = {52A20 (52A40)},
      mrnumber      = {960297},
-     mrreviewer    = {W.\ J.\ Firey},
+     mrreviewer    = {W. J. Firey},
      pages         = {171--186},
      publisher     = {Univ. Paris VII, Paris},
      series        = {Publ. Math. Univ. Paris VII},

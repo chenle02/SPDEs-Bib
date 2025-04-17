@@ -14,7 +14,7 @@ bourgain:84:some
      journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
      mrclass       = {43A46},
      mrnumber      = {777195},
-     mrreviewer    = {Colin\ C.\ Graham},
+     mrreviewer    = {Colin C. Graham},
      pages         = {171--191},
      title         = {Some properties of sets satisfying {$A(E)=B_0(E)$}},
      volume        = {36},

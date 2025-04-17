@@ -15,7 +15,7 @@ barral.feng:21:on
      journal       = {Math. Z.},
      mrclass       = {28A80 (37C45)},
      mrnumber      = {4257091},
-     mrreviewer    = {Jonathan\ MacDonald\ Fraser},
+     mrreviewer    = {Jonathan MacDonald Fraser},
      number        = {1-2},
      pages         = {359--383},
      title         = {On multifractal formalism for self-similar measures with overlaps},

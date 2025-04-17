@@ -15,7 +15,7 @@ li.xiao:07:mean
      journal       = {Ann. Inst. Statist. Math.},
      mrclass       = {62G08},
      mrnumber      = {2394169},
-     mrreviewer    = {Yichuan\ Zhao},
+     mrreviewer    = {Yichuan Zhao},
      number        = {2},
      pages         = {299--324},
      title         = {Mean integrated squared error of nonlinear wavelet-based estimators with long memory data},

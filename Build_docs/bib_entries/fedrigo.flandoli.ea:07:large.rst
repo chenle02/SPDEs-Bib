@@ -15,7 +15,7 @@ fedrigo.flandoli.ea:07:large
      journal       = {Ann. Mat. Pura Appl. (4)},
      mrclass       = {60F10 (60G57 82B05 82B44)},
      mrnumber      = {2317646},
-     mrreviewer    = {Jos\'{e}\ Trashorras},
+     mrreviewer    = {Jos\'{e} Trashorras},
      number        = {3},
      pages         = {381--417},
      title         = {A large deviation principle for the free energy of random {G}ibbs measures with application to the {REM}},

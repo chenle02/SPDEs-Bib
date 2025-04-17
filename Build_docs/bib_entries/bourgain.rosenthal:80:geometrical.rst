@@ -14,7 +14,7 @@ bourgain.rosenthal:80:geometrical
      journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
      mrclass       = {46B22},
      mrnumber      = {682992},
-     mrreviewer    = {James\ Hagler},
+     mrreviewer    = {James Hagler},
      number        = {1},
      pages         = {57--82},
      title         = {Geometrical implications of certain finite-dimensional decompositions},

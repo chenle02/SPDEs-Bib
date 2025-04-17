@@ -13,7 +13,7 @@ flandoli:82:riccati*1
      journal       = {Boll. Un. Mat. Ital. C (6)},
      mrclass       = {93E20 (34G20 34H05)},
      mrnumber      = {696281},
-     mrreviewer    = {B.\ P.\ Molinari},
+     mrreviewer    = {B. P. Molinari},
      number        = {1},
      pages         = {377--393},
      title         = {Riccati equation arising in a stochastic optimal control problem with boundary control},

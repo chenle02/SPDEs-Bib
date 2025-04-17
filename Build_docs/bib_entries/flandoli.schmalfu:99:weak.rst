@@ -15,7 +15,7 @@ flandoli.schmalfu:99:weak
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {60H15 (35B41 35D05 35Q30 35R60 37L30 76D05 76M35)},
      mrnumber      = {1695250},
-     mrreviewer    = {Marek\ Capi\'{n}ski},
+     mrreviewer    = {Marek Capi\'{n}ski},
      number        = {2},
      pages         = {355--398},
      title         = {Weak solutions and attractors for three-dimensional {N}avier-{S}tokes equations with nonregular force},

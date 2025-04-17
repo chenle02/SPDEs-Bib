@@ -15,7 +15,7 @@ chong.kevei:19:intermittency
      journal       = {Ann. Probab.},
      mrclass       = {60H15 (35B40 35K15 35R60 37H15 60G51)},
      mrnumber      = {3980911},
-     mrreviewer    = {Markus\ Kunze},
+     mrreviewer    = {Markus Kunze},
      number        = {4},
      pages         = {1911--1948},
      title         = {Intermittency for the stochastic heat equation with {L}\'{e}vy noise},

@@ -15,7 +15,7 @@ ebrahimi-fard.patras.ea:23:shifted
      journal       = {SIGMA Symmetry Integrability Geom. Methods Appl.},
      mrclass       = {16T05 (16T10 16T30 17A30 46L53 46L54)},
      mrnumber      = {4598381},
-     mrreviewer    = {Loic\ Foissy},
+     mrreviewer    = {Loic Foissy},
      pages         = {Paper No. 038, 17},
      title         = {Shifted substitution in non-commutative multivariate power series with a view toward free probability},
      url           = {https://doi.org/10.3842/SIGMA.2023.038},

@@ -15,7 +15,7 @@ e.mattingly:01:ergodicity
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {76F55 (35Q30 37H99 37L40 60J60 76D05 76M35)},
      mrnumber      = {1846802},
-     mrreviewer    = {Marco\ Romito},
+     mrreviewer    = {Marco Romito},
      number        = {11},
      pages         = {1386--1402},
      title         = {Ergodicity for the {N}avier-{S}tokes equation with degenerate random forcing: finite-dimensional approximation},

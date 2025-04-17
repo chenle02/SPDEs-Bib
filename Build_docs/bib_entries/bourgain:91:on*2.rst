@@ -15,7 +15,7 @@ bourgain:91:on*2
      journal       = {Geom. Funct. Anal.},
      mrclass       = {52A38},
      mrnumber      = {1091609},
-     mrreviewer    = {W.\ J.\ Firey},
+     mrreviewer    = {W. J. Firey},
      number        = {1},
      pages         = {1--13},
      title         = {On the {B}usemann-{P}etty problem for perturbations of the ball},

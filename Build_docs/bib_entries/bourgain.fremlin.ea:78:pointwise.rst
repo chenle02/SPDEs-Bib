@@ -15,7 +15,7 @@ bourgain.fremlin.ea:78:pointwise
      journal       = {Amer. J. Math.},
      mrclass       = {54C50},
      mrnumber      = {509077},
-     mrreviewer    = {James\ Chew},
+     mrreviewer    = {James Chew},
      number        = {4},
      pages         = {845--886},
      title         = {Pointwise compact sets of {B}aire-measurable functions},

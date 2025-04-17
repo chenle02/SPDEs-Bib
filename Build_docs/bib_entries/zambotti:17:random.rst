@@ -13,7 +13,7 @@ zambotti:17:random
      isbn          = {978-3-319-52095-7; 978-3-319-52096-4},
      mrclass       = {60H15 (35K86 35R35 35R60 60J55)},
      mrnumber      = {3616274},
-     mrreviewer    = {Sergey\ V.\ Lototsky},
+     mrreviewer    = {Sergey V. Lototsky},
      note          = {Lecture notes from the 45th Probability Summer School held in Saint-Flour, 2015},
      pages         = {ix+162},
      publisher     = {Springer, Cham},

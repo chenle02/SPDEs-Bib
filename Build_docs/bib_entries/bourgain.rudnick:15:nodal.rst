@@ -15,7 +15,7 @@ bourgain.rudnick:15:nodal
      journal       = {Israel J. Math.},
      mrclass       = {58J50 (11H06)},
      mrnumber      = {3358055},
-     mrreviewer    = {Veronica\ Felli},
+     mrreviewer    = {Veronica Felli},
      number        = {1},
      pages         = {479--505},
      title         = {Nodal intersections and {$L^p$} restriction theorems on the torus},

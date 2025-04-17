@@ -15,7 +15,7 @@ bourgain.gamburd:08:random
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {20F65 (05C25 20G40)},
      mrnumber      = {2423265},
-     mrreviewer    = {Tullio\ G.\ Ceccherini-Silberstein},
+     mrreviewer    = {Tullio G. Ceccherini-Silberstein},
      number        = {11-12},
      pages         = {619--623},
      title         = {Random walks and expansion in {${\rm SL}_d(\Bbb Z/p^n\Bbb Z)$}},

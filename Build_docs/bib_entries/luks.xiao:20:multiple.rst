@@ -15,7 +15,7 @@ luks.xiao:20:multiple
      journal       = {J. Theoret. Probab.},
      mrclass       = {60J25 (60G17 60G51)},
      mrnumber      = {4064297},
-     mrreviewer    = {Doncho\ S.\ Donchev},
+     mrreviewer    = {Doncho S. Donchev},
      number        = {1},
      pages         = {153--179},
      title         = {Multiple points of operator semistable {L}\'{e}vy processes},

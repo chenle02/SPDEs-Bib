@@ -14,7 +14,7 @@ angenent.tannenbaum.ea:06:curve
      isbn          = {978-0-8176-4376-8; 0-8176-4376-1},
      mrclass       = {60D05 (35K05 35K57 53C44 60K35)},
      mrnumber      = {2274200},
-     mrreviewer    = {Anders\ Linn\'{e}r},
+     mrreviewer    = {Anders Linn\'{e}r},
      pages         = {303--311},
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Model. Simul. Sci. Eng. Technol.},

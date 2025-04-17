@@ -15,7 +15,7 @@ bourgain:93:exponential
      journal       = {Geom. Funct. Anal.},
      mrclass       = {35Q55 (11L07 35B10)},
      mrnumber      = {1209300},
-     mrreviewer    = {Yun\ Mei\ Chen},
+     mrreviewer    = {Yun Mei Chen},
      number        = {2},
      pages         = {157--178},
      title         = {Exponential sums and nonlinear {S}chr\"{o}dinger equations},

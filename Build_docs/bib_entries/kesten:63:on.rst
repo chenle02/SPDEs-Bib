@@ -15,7 +15,7 @@ kesten:63:on
      journal       = {J. Mathematical Phys.},
      mrclass       = {60.62},
      mrnumber      = {152026},
-     mrreviewer    = {F.\ L.\ Spitzer},
+     mrreviewer    = {F. L. Spitzer},
      pages         = {960--969},
      title         = {On the number of self-avoiding walks},
      url           = {https://doi.org/10.1063/1.1704022},

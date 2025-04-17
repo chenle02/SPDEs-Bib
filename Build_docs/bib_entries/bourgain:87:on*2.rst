@@ -14,7 +14,7 @@ bourgain:87:on*2
      isbn          = {3-540-18103-2},
      mrclass       = {42B25 (42B15)},
      mrnumber      = {907693},
-     mrreviewer    = {Roger\ L.\ Jones},
+     mrreviewer    = {Roger L. Jones},
      pages         = {168--176},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

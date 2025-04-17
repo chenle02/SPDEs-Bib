@@ -12,7 +12,7 @@ spitzer:69:random
      booktitle     = {Probability and {I}nformation {T}heory ({P}roc. {I}nternat. {S}ympos., {M}c{M}aster {U}niv., {H}amilton, {O}nt., 1968)},
      mrclass       = {60.62},
      mrnumber      = {268964},
-     mrreviewer    = {D.\ W.\ Stroock},
+     mrreviewer    = {D. W. Stroock},
      pages         = {201--223},
      publisher     = {Springer, Berlin-New York},
      series        = {Lecture Notes in Math.},

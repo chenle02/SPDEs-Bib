@@ -15,7 +15,7 @@ hesse.neamtu:19:local
      journal       = {J. Differential Equations},
      mrclass       = {60H15 (60G22 60H05 60L20)},
      mrnumber      = {4001062},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {11},
      pages         = {6480--6538},
      title         = {Local mild solutions for rough stochastic partial differential equations},

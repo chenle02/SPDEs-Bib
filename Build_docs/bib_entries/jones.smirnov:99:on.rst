@@ -14,7 +14,7 @@ jones.smirnov:99:on
      journal       = {Ann. Acad. Sci. Fenn. Math.},
      mrclass       = {30C20 (30C85)},
      mrnumber      = {1677977},
-     mrreviewer    = {D.\ A.\ Brannan},
+     mrreviewer    = {D. A. Brannan},
      number        = {1},
      pages         = {105--108},
      title         = {On {V}. {I}. {S}mirnov domains},

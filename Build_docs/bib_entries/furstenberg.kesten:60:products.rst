@@ -15,7 +15,7 @@ furstenberg.kesten:60:products
      journal       = {Ann. Math. Statist.},
      mrclass       = {60.00},
      mrnumber      = {121828},
-     mrreviewer    = {R.\ E.\ Bellman},
+     mrreviewer    = {R. E. Bellman},
      pages         = {457--469},
      title         = {Products of random matrices},
      url           = {https://doi.org/10.1214/aoms/1177705909},

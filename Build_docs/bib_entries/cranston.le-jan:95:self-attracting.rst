@@ -15,7 +15,7 @@ cranston.le-jan:95:self-attracting
      journal       = {Math. Ann.},
      mrclass       = {60H10 (60F15 60J60)},
      mrnumber      = {1348356},
-     mrreviewer    = {Qingji\ Yang},
+     mrreviewer    = {Qingji Yang},
      number        = {1},
      pages         = {87--93},
      title         = {Self-attracting diffusions: two case studies},

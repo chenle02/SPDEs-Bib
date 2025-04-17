@@ -15,7 +15,7 @@ falconer.xiao:14:generalized
      journal       = {Adv. Math.},
      mrclass       = {60G15 (60G17 60G60)},
      mrnumber      = {3144239},
-     mrreviewer    = {Marco\ Dozzi},
+     mrreviewer    = {Marco Dozzi},
      pages         = {492--517},
      title         = {Generalized dimensions of images of measures under {G}aussian processes},
      url           = {https://doi.org/10.1016/j.aim.2013.11.002},

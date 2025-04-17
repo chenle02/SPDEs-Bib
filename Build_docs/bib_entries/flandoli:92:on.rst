@@ -15,7 +15,7 @@ flandoli:92:on
      journal       = {Stochastic Anal. Appl.},
      mrclass       = {34G10 (34F05 47D06 47N20 60H15)},
      mrnumber      = {1154534},
-     mrreviewer    = {Yu.\ L.\ Daletskiu{i}},
+     mrreviewer    = {Yu. L. Daletskiu{i}},
      number        = {2},
      pages         = {181--203},
      title         = {On the semigroup approach to stochastic evolution equations},

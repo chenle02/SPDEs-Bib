@@ -15,7 +15,7 @@ bourgain.brezis.ea:05:lifting
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {26A99 (26A45 42A50 46E35)},
      mrnumber      = {2119868},
-     mrreviewer    = {Steven\ George\ Krantz},
+     mrreviewer    = {Steven George Krantz},
      number        = {4},
      pages         = {529--551},
      title         = {Lifting, degree, and distributional {J}acobian revisited},

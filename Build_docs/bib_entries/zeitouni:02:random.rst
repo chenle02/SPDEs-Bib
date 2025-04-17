@@ -13,7 +13,7 @@ zeitouni:02:random
      isbn          = {7-04-008690-5},
      mrclass       = {60K37 (82C41 82C44)},
      mrnumber      = {1957524},
-     mrreviewer    = {Didier\ Piau},
+     mrreviewer    = {Didier Piau},
      pages         = {117--127},
      publisher     = {Higher Ed. Press, Beijing},
      title         = {Random walks in random environments},

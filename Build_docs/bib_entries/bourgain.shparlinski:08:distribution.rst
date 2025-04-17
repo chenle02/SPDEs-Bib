@@ -15,7 +15,7 @@ bourgain.shparlinski:08:distribution
      journal       = {Acta Arith.},
      mrclass       = {11L07 (11L20 11T23)},
      mrnumber      = {2429637},
-     mrreviewer    = {Moubariz\ Z.\ Garaev},
+     mrreviewer    = {Moubariz Z. Garaev},
      number        = {1},
      pages         = {83--91},
      title         = {Distribution of consecutive modular roots of an integer},

@@ -15,7 +15,7 @@ bourgain.brezis.ea:04:h12
      journal       = {Publ. Math. Inst. Hautes \'{E}tudes Sci.},
      mrclass       = {58D15 (35B25 35J20 46E35 58E50)},
      mrnumber      = {2075883},
-     mrreviewer    = {Robert\ Leon\ Jerrard},
+     mrreviewer    = {Robert Leon Jerrard},
      number        = {99},
      pages         = {1--115},
      title         = {{$H^{1/2}$} maps with values into the circle: minimal connections, lifting, and the {G}inzburg-{L}andau equation},

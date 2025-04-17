@@ -15,7 +15,7 @@ burgeuin:93:boundedness
      journal       = {Mat. Zametki},
      mrclass       = {30D50 (26A24 31A05 42A99)},
      mrnumber      = {1256604},
-     mrreviewer    = {Krzysztof\ Samotij},
+     mrreviewer    = {Krzysztof Samotij},
      number        = {4},
      pages         = {24--33, 158},
      title         = {Boundedness of variation of convolution of measures},

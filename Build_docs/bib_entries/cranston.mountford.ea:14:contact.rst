@@ -14,7 +14,7 @@ cranston.mountford.ea:14:contact
      journal       = {ALEA Lat. Am. J. Probab. Math. Stat.},
      mrclass       = {60K35 (05C05 82C22)},
      mrnumber      = {3249416},
-     mrreviewer    = {N.\ N.\ Ganikhodjaev},
+     mrreviewer    = {N. N. Ganikhodjaev},
      number        = {1},
      pages         = {385--408},
      title         = {The contact process on finite homogeneous trees revisited},

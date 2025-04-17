@@ -15,7 +15,7 @@ bodineau.giacomin.ea:08:copolymers
      journal       = {J. Stat. Phys.},
      mrclass       = {82B24 (82D60)},
      mrnumber      = {2429695},
-     mrreviewer    = {Mohammad\ R.\ Rahimi Tabar},
+     mrreviewer    = {Mohammad R. Rahimi Tabar},
      number        = {4},
      pages         = {603--626},
      title         = {Copolymers at selective interfaces: new bounds on the phase diagram},

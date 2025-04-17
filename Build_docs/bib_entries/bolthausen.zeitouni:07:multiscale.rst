@@ -15,7 +15,7 @@ bolthausen.zeitouni:07:multiscale
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60K37 (60F05 60G50)},
      mrnumber      = {2299720},
-     mrreviewer    = {Francis\ Comets},
+     mrreviewer    = {Francis Comets},
      number        = {3-4},
      pages         = {581--645},
      title         = {Multiscale analysis of exit distributions for random walks in random environments},

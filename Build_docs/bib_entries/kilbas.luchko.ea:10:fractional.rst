@@ -15,7 +15,7 @@ kilbas.luchko.ea:10:fractional
      journal       = {Integral Transforms Spec. Funct.},
      mrclass       = {42A38 (26A33 35R11 44A10 47B38)},
      mrnumber      = {2743546},
-     mrreviewer    = {Yunus\ Emre\ Yildirir},
+     mrreviewer    = {Yunus Emre Yildirir},
      number        = {9-10},
      pages         = {779--795},
      title         = {Fractional {F}ourier transform in the framework of fractional calculus operators},

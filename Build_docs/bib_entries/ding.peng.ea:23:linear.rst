@@ -15,7 +15,7 @@ ding.peng.ea:23:linear
      journal       = {Bernoulli},
      mrclass       = {60G52 (60G22 60G60 60J55)},
      mrnumber      = {4497267},
-     mrreviewer    = {Zbigniew\ Michna},
+     mrreviewer    = {Zbigniew Michna},
      number        = {1},
      pages         = {785--814},
      title         = {Linear multifractional stable sheets in the broad sense: existence and joint continuity of local times},

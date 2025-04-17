@@ -15,7 +15,7 @@ crauel.flandoli:94:attractors
      journal       = {Probab. Theory Related Fields},
      mrclass       = {58F11 (34D45 35Q99 58F12 58F39 60H15)},
      mrnumber      = {1305587},
-     mrreviewer    = {Bohdan\ Maslowski},
+     mrreviewer    = {Bohdan Maslowski},
      number        = {3},
      pages         = {365--393},
      title         = {Attractors for random dynamical systems},

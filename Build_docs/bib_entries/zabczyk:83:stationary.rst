@@ -14,7 +14,7 @@ zabczyk:83:stationary
      journal       = {Bull. Polish Acad. Sci. Math.},
      mrclass       = {60H10 (60G10)},
      mrnumber      = {742808},
-     mrreviewer    = {Ludwig\ Arnold},
+     mrreviewer    = {Ludwig Arnold},
      number        = {3-4},
      pages         = {197--209},
      title         = {Stationary distribution for linear equations driven by general noise},

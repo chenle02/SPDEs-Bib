@@ -15,7 +15,7 @@ bourgain:87:on
      journal       = {Invent. Math.},
      mrclass       = {31A15},
      mrnumber      = {874032},
-     mrreviewer    = {J.\ Siciak},
+     mrreviewer    = {J. Siciak},
      number        = {3},
      pages         = {477--483},
      title         = {On the {H}ausdorff dimension of harmonic measure in higher dimension},

@@ -15,7 +15,7 @@ baik:00:random
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60G50 (82B41)},
      mrnumber      = {1773413},
-     mrreviewer    = {Gerold\ Alsmeyer},
+     mrreviewer    = {Gerold Alsmeyer},
      number        = {11},
      pages         = {1385--1410},
      title         = {Random vicious walks and random matrices},

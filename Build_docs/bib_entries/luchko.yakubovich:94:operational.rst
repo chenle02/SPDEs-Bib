@@ -14,7 +14,7 @@ luchko.yakubovich:94:operational
      journal       = {Differentsial{\cprime}nye Uravneniya},
      mrclass       = {45L05 (47G20)},
      mrnumber      = {1299409},
-     mrreviewer    = {Tian\ You\ Fan},
+     mrreviewer    = {Tian You Fan},
      number        = {2},
      pages         = {269--280, 365},
      title         = {An operational method for solving some classes of integro-differential equations},

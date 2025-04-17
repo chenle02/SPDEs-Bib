@@ -14,7 +14,7 @@ lacoin:14:scaling*1
      isbn          = {978-1-4939-0339-9; 978-1-4939-0338-2},
      mrclass       = {82B20 (60K35)},
      mrnumber      = {3229287},
-     mrreviewer    = {N.\ N.\ Ganikhodjaev},
+     mrreviewer    = {N. N. Ganikhodjaev},
      pages         = {85--120},
      publisher     = {Springer, New York},
      series        = {Springer Proc. Math. Stat.},

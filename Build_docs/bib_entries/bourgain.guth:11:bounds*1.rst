@@ -15,7 +15,7 @@ bourgain.guth:11:bounds*1
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {42B20 (42B10 42B15)},
      mrnumber      = {2769895},
-     mrreviewer    = {Dashan\ Fan},
+     mrreviewer    = {Dashan Fan},
      number        = {3-4},
      pages         = {137--141},
      title         = {Bounds on oscillatory integral operators},

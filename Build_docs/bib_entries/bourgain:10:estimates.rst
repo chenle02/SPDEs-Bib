@@ -15,7 +15,7 @@ bourgain:10:estimates
      journal       = {Israel J. Math.},
      mrclass       = {11L07},
      mrnumber      = {2653193},
-     mrreviewer    = {Nicolas\ P.\ Templier},
+     mrreviewer    = {Nicolas P. Templier},
      pages         = {221--240},
      title         = {Estimates on polynomial exponential sums},
      url           = {https://doi.org/10.1007/s11856-010-0027-8},

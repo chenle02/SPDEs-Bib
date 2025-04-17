@@ -15,7 +15,7 @@ spitzer.wan:76:characterization
      journal       = {J. Math. Econom.},
      mrclass       = {90A15},
      mrnumber      = {401103},
-     mrreviewer    = {Mukul\ Majumdar},
+     mrreviewer    = {Mukul Majumdar},
      number        = {1},
      pages         = {43--79},
      title         = {The characterization of optimal saving programs in a quadratic model},

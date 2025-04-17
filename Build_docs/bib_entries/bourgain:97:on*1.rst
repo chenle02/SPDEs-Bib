@@ -15,7 +15,7 @@ bourgain:97:on*1
      journal       = {J. Anal. Math.},
      mrclass       = {35Q55 (35B05)},
      mrnumber      = {1482999},
-     mrreviewer    = {Masato\ Hisakado},
+     mrreviewer    = {Masato Hisakado},
      pages         = {299--310},
      title         = {On growth in time of {S}obolev norms of smooth solutions of nonlinear {S}chr\"{o}dinger equations in {${\bf R}^D$}},
      url           = {https://doi.org/10.1007/BF02843163},

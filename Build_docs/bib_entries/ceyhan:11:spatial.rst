@@ -15,7 +15,7 @@ ceyhan:11:spatial
      journal       = {Comm. Statist. Theory Methods},
      mrclass       = {62H30 (05C20 05C69 05C80 60D05 62G10 62G20 62H11)},
      mrnumber      = {2776238},
-     mrreviewer    = {Antonio\ Cuevas},
+     mrreviewer    = {Antonio Cuevas},
      number        = {8},
      pages         = {1363--1395},
      title         = {Spatial clustering tests based on the domination number of a new random digraph family},

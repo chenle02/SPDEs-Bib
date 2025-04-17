@@ -15,7 +15,7 @@ gurel-gurevich.peres.ea:14:localization
      journal       = {Electron. Commun. Probab.},
      mrclass       = {60G42},
      mrnumber      = {3208322},
-     mrreviewer    = {Pavel\ Chigansky},
+     mrreviewer    = {Pavel Chigansky},
      pages         = {no. 24, 8},
      title         = {Localization for controlled random walks and martingales},
      url           = {https://doi.org/10.1214/ECP.v19-3081},

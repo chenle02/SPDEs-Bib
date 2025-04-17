@@ -15,7 +15,7 @@ flandoli:87:invertibility
      journal       = {Systems Control Lett.},
      mrclass       = {93B05 (93A10 93B25)},
      mrnumber      = {894727},
-     mrreviewer    = {O.\ A.\ Sebakhy},
+     mrreviewer    = {O. A. Sebakhy},
      number        = {1},
      pages         = {65--72},
      title         = {Invertibility of {R}iccati operators and controllability of related systems},

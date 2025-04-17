@@ -15,7 +15,7 @@ xiao:96:packing*1
      journal       = {Math. Proc. Cambridge Philos. Soc.},
      mrclass       = {28A78 (28A80)},
      mrnumber      = {1388205},
-     mrreviewer    = {Claude\ Tricot},
+     mrreviewer    = {Claude Tricot},
      number        = {3},
      pages         = {535--546},
      title         = {Packing dimension, {H}ausdorff dimension and {C}artesian product sets},

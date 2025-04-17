@@ -15,7 +15,7 @@ bourgain.cochrane.ea:09:decimations
      journal       = {SIAM J. Discrete Math.},
      mrclass       = {11A07 (11A15 11B50 11L07 94A55)},
      mrnumber      = {2496921},
-     mrreviewer    = {Igor\ E.\ Shparlinski},
+     mrreviewer    = {Igor E. Shparlinski},
      number        = {2},
      pages         = {842--857},
      title         = {Decimations of {$l$}-sequences and permutations of even residues mod {\$p\$}},

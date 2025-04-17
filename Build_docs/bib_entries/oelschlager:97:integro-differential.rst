@@ -15,7 +15,7 @@ oelschlager:97:integro-differential
      journal       = {Arch. Rational Mech. Anal.},
      mrclass       = {35Q72 (45K05 76A99)},
      mrnumber      = {1463791},
-     mrreviewer    = {Jos\'{e}\ Luiz\ Boldrini},
+     mrreviewer    = {Jos\'{e} Luiz Boldrini},
      number        = {2},
      pages         = {99--134},
      title         = {An integro-differential equation modelling a {N}ewtonian dynamics and its scaling limit},

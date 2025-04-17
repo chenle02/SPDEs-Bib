@@ -14,7 +14,7 @@ baik.ferrari.ea:14:convergence
      isbn          = {978-3-319-00785-4; 978-3-319-00786-1},
      mrclass       = {60K35},
      mrnumber      = {3205038},
-     mrreviewer    = {Benedikt\ Jahnel},
+     mrreviewer    = {Benedikt Jahnel},
      pages         = {91--110},
      publisher     = {Springer, Cham},
      title         = {Convergence of the two-point function of the stationary {TASEP}},

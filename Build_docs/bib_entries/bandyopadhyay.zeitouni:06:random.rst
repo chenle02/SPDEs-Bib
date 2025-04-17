@@ -14,7 +14,7 @@ bandyopadhyay.zeitouni:06:random
      journal       = {ALEA Lat. Am. J. Probab. Math. Stat.},
      mrclass       = {60K37 (60F15 60F17 82C41 82C44)},
      mrnumber      = {2249655},
-     mrreviewer    = {Andrew\ R.\ Wade},
+     mrreviewer    = {Andrew R. Wade},
      pages         = {205--224},
      title         = {Random walk in dynamic {M}arkovian random environment},
      volume        = {1},

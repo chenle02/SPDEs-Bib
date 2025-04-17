@@ -13,7 +13,7 @@ bourgain:99:periodic
      isbn          = {0-226-10456-7},
      mrclass       = {35L70 (35B10)},
      mrnumber      = {1743856},
-     mrreviewer    = {C.\ Eugene\ Wayne},
+     mrreviewer    = {C. Eugene Wayne},
      pages         = {69--97},
      publisher     = {Univ. Chicago Press, Chicago, IL},
      series        = {Chicago Lectures in Math.},

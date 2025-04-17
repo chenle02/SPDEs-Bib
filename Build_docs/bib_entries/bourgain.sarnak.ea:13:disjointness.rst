@@ -14,7 +14,7 @@ bourgain.sarnak.ea:13:disjointness
      isbn          = {978-1-4614-4074-1; 978-1-4614-4075-8},
      mrclass       = {37D40 (11L20 11N37)},
      mrnumber      = {2986954},
-     mrreviewer    = {Moubariz\ Z.\ Garaev},
+     mrreviewer    = {Moubariz Z. Garaev},
      pages         = {67--83},
      publisher     = {Springer, New York},
      series        = {Dev. Math.},

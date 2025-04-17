@@ -15,7 +15,7 @@ oelschlager:01:sequence
      journal       = {Z. Anal. Anwendungen},
      mrclass       = {45K05 (35B65 35C20 35K57 76S05)},
      mrnumber      = {1826320},
-     mrreviewer    = {Giuliana\ Lauro},
+     mrreviewer    = {Giuliana Lauro},
      number        = {1},
      pages         = {55--91},
      title         = {A sequence of integro-differential equations approximating a viscous porous medium equation},

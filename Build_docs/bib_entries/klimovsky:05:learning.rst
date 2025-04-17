@@ -15,7 +15,7 @@ klimovsky:05:learning
      journal       = {Math. Comput. Modelling},
      mrclass       = {82C32 (62E20 62M45)},
      mrnumber      = {2185355},
-     mrreviewer    = {Dimitri\ Petritis},
+     mrreviewer    = {Dimitri Petritis},
      number        = {11-12},
      pages         = {1339--1358},
      title         = {Learning and generalization errors for the 2{D} binary perceptron},

@@ -15,7 +15,7 @@ kong.shen:14:liouville
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {35K58 (34A33 35B10 35B51 35R60 45J05 92D25)},
      mrnumber      = {3175265},
-     mrreviewer    = {Weian\ Liu},
+     mrreviewer    = {Weian Liu},
      number        = {1},
      pages         = {181--215},
      title         = {Liouville type property and spreading speeds of {KPP} equations in periodic media with localized spatial inhomogeneity},

@@ -15,7 +15,7 @@ ellis.rosen:82:asymptotic
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60G15 (28C20 58D20 81C35)},
      mrnumber      = {667156},
-     mrreviewer    = {S.\ R. S. Varadhan},
+     mrreviewer    = {S. R. S. Varadhan},
      number        = {2},
      pages         = {447--481},
      title         = {Asymptotic analysis of {G}aussian integrals. {I}. {I}solated minimum points},

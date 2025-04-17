@@ -15,7 +15,7 @@ cao.shen:17:spreading
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {35Q53 (34A33 35C07)},
      mrnumber      = {3661816},
-     mrreviewer    = {Wei-Jie\ Sheng},
+     mrreviewer    = {Wei-Jie Sheng},
      number        = {9},
      pages         = {4697--4727},
      title         = {Spreading speeds and transition fronts of lattice {KPP} equations in time heterogeneous media},

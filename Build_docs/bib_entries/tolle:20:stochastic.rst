@@ -15,7 +15,7 @@ tolle:20:stochastic
      journal       = {Stochastic Process. Appl.},
      mrclass       = {35R60 (35B30 35K55 35K92 35R70 49J40 58J65 60H15)},
      mrnumber      = {4080744},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {5},
      pages         = {3220--3248},
      title         = {Stochastic evolution equations with singular drift and gradient noise via curvature and commutation conditions},

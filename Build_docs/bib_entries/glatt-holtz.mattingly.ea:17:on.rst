@@ -15,7 +15,7 @@ glatt-holtz.mattingly.ea:17:on
      journal       = {J. Stat. Phys.},
      mrclass       = {37H10 (35R60 60H15)},
      mrnumber      = {3607584},
-     mrreviewer    = {Min\ Zhao},
+     mrreviewer    = {Min Zhao},
      number        = {3-4},
      pages         = {618--649},
      title         = {On unique ergodicity in nonlinear stochastic partial differential equations},

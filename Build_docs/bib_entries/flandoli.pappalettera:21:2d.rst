@@ -15,7 +15,7 @@ flandoli.pappalettera:21:2d
      journal       = {J. Nonlinear Sci.},
      mrclass       = {76B03 (35Q31 76M35)},
      mrnumber      = {4215938},
-     mrreviewer    = {Francesco\ Fanelli},
+     mrreviewer    = {Francesco Fanelli},
      number        = {1},
      pages         = {Paper No. 24, 38},
      title         = {2{D} {E}uler equations with {S}tratonovich transport noise as a large-scale stochastic model reduction},

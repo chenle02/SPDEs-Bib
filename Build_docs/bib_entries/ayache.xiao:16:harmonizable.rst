@@ -15,7 +15,7 @@ ayache.xiao:16:harmonizable
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60G52 (60G17 60G18 60G60 60J55)},
      mrnumber      = {3426515},
-     mrreviewer    = {Anatoliy\ Malyarenko},
+     mrreviewer    = {Anatoliy Malyarenko},
      number        = {1},
      pages         = {171--185},
      title         = {Harmonizable fractional stable fields: local nondeterminism and joint continuity of the local times},

@@ -15,7 +15,7 @@ bourgain.kontorovich:10:on
      journal       = {Geom. Funct. Anal.},
      mrclass       = {11B30 (11B05 11L07 11P55)},
      mrnumber      = {2746949},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {5},
      pages         = {1144--1174},
      title         = {On representations of integers in thin subgroups of {${\rm SL}_2(\Bbb Z)$}},

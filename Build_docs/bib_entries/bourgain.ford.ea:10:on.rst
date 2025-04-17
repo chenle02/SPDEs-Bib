@@ -15,7 +15,7 @@ bourgain.ford.ea:10:on
      journal       = {Michigan Math. J.},
      mrclass       = {11N69 (11A07 11N36)},
      mrnumber      = {2677624},
-     mrreviewer    = {D.\ R.\ Heath-Brown},
+     mrreviewer    = {D. R. Heath-Brown},
      number        = {2},
      pages         = {313--328},
      title         = {On the divisibility of {F}ermat quotients},

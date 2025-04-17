@@ -15,7 +15,7 @@ bourgain.kontorovich:19:beyond
      journal       = {Duke Math. J.},
      mrclass       = {11J70 (11N36 37A45)},
      mrnumber      = {4034890},
-     mrreviewer    = {B.\ Sury},
+     mrreviewer    = {B. Sury},
      number        = {18},
      pages         = {3413--3435},
      title         = {Beyond expansion, {III}: {R}eciprocal geodesics},

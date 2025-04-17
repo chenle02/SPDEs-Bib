@@ -15,7 +15,7 @@ bourgain:98:refinements
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {35Q55},
      mrnumber      = {1616917},
-     mrreviewer    = {Tohru\ Ozawa},
+     mrreviewer    = {Tohru Ozawa},
      number        = {5},
      pages         = {253--283},
      title         = {Refinements of {S}trichartz' inequality and applications to {$2$}D-{NLS} with critical nonlinearity},

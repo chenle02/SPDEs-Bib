@@ -14,7 +14,7 @@ goldys.maslowski:06:exponential
      isbn          = {978-0-8247-0027-0; 0-8247-0027-9},
      mrclass       = {60J35},
      mrnumber      = {2227225},
-     mrreviewer    = {Toshihiro\ Uemura},
+     mrreviewer    = {Toshihiro Uemura},
      pages         = {115--131},
      publisher     = {Chapman \& Hall/CRC, Boca Raton, FL},
      series        = {Lect. Notes Pure Appl. Math.},

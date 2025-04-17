@@ -15,7 +15,7 @@ munch.turner.ea:15:probabilistic
      journal       = {Electron. J. Stat.},
      mrclass       = {55N35 (60B05 62H11)},
      mrnumber      = {3354335},
-     mrreviewer    = {Peter\ Bubenik},
+     mrreviewer    = {Peter Bubenik},
      number        = {1},
      pages         = {1173--1204},
      title         = {Probabilistic {F}r\'echet means for time varying persistence diagrams},

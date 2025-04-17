@@ -15,7 +15,7 @@ tudor.xiao:07:sample
      journal       = {Bernoulli},
      mrclass       = {60G17 (60G15 60J55)},
      mrnumber      = {2364225},
-     mrreviewer    = {Erick\ Herbin},
+     mrreviewer    = {Erick Herbin},
      number        = {4},
      pages         = {1023--1052},
      title         = {Sample path properties of bifractional {B}rownian motion},

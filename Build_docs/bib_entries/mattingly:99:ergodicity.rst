@@ -15,7 +15,7 @@ mattingly:99:ergodicity
      journal       = {Comm. Math. Phys.},
      mrclass       = {76D05 (35Q30 35R60 37H99 37L30 37L40 60H30)},
      mrnumber      = {1722141},
-     mrreviewer    = {Ana\ Bela\ Cruzeiro},
+     mrreviewer    = {Ana Bela Cruzeiro},
      number        = {2},
      pages         = {273--288},
      title         = {Ergodicity of {$2$}D {N}avier-{S}tokes equations with random forcing and large viscosity},

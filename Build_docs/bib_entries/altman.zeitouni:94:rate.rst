@@ -15,7 +15,7 @@ altman.zeitouni:94:rate
      journal       = {Math. Oper. Res.},
      mrclass       = {90C40 (60J10 90B22 93E20)},
      mrnumber      = {1304632},
-     mrreviewer    = {P.\ Neumann},
+     mrreviewer    = {P. Neumann},
      number        = {4},
      pages         = {955--974},
      title         = {Rate of convergence of empirical measures and costs in controlled {M}arkov chains and transient optimality},

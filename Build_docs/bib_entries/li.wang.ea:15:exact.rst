@@ -15,7 +15,7 @@ li.wang.ea:15:exact
      journal       = {Bernoulli},
      mrclass       = {60G60 (60G15)},
      mrnumber      = {3338652},
-     mrreviewer    = {Zbigniew\ Andrzej\ \L agodowski},
+     mrreviewer    = {Zbigniew Andrzej \L agodowski},
      number        = {2},
      pages         = {930--956},
      title         = {Exact moduli of continuity for operator-scaling {G}aussian random fields},

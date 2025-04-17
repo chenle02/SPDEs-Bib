@@ -15,7 +15,7 @@ simon:99:new
      journal       = {Ann. of Math. (2)},
      mrclass       = {34L05 (34A55 34B24 47E05)},
      mrnumber      = {1740987},
-     mrreviewer    = {Paul\ E.\ Sacks},
+     mrreviewer    = {Paul E. Sacks},
      number        = {3},
      pages         = {1029--1057},
      title         = {A new approach to inverse spectral theory. {I}. {F}undamental formalism},

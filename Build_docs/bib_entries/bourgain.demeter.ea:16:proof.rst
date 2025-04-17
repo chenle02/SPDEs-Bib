@@ -15,7 +15,7 @@ bourgain.demeter.ea:16:proof
      journal       = {Ann. of Math. (2)},
      mrclass       = {11P05 (11N25)},
      mrnumber      = {3548534},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {2},
      pages         = {633--682},
      title         = {Proof of the main conjecture in {V}inogradov's mean value theorem for degrees higher than three},

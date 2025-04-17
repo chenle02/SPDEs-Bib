@@ -13,7 +13,7 @@ papanicolaou.varadhan:80:diffusion
      isbn          = {3-540-10498-4},
      mrclass       = {60J60},
      mrnumber      = {609184},
-     mrreviewer    = {Constantin\ Tudor},
+     mrreviewer    = {Constantin Tudor},
      pages         = {190--206},
      publisher     = {Springer, Berlin-New York},
      series        = {Lect. Notes Control Inf. Sci.},

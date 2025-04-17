@@ -15,7 +15,7 @@ bourgain.lindenstrauss:03:entropy
      journal       = {Comm. Math. Phys.},
      mrclass       = {11F72 (11F37 58J50 81Q50)},
      mrnumber      = {1957735},
-     mrreviewer    = {Boris\ Hasselblatt},
+     mrreviewer    = {Boris Hasselblatt},
      number        = {1},
      pages         = {153--171},
      title         = {Entropy of quantum limits},

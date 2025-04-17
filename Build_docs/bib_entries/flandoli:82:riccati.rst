@@ -14,7 +14,7 @@ flandoli:82:riccati
      journal       = {Atti Accad. Naz. Lincei Rend. Cl. Sci. Fis. Mat. Nat. (8)},
      mrclass       = {93C05 (34H05 35B32 49A22)},
      mrnumber      = {726093},
-     mrreviewer    = {H.\ O.\ Fattorini},
+     mrreviewer    = {H. O. Fattorini},
      number        = {3},
      pages         = {133--136},
      title         = {A {R}iccati equation arising in a boundary control problem for distributed parameters},

@@ -15,7 +15,7 @@ przytycki.rivera-letelier.ea:04:equality
      journal       = {Ergodic Theory Dynam. Systems},
      mrclass       = {37F10 (37D35 37F35 37F50)},
      mrnumber      = {2062924},
-     mrreviewer    = {Christian\ P.\ Wolf},
+     mrreviewer    = {Christian P. Wolf},
      number        = {3},
      pages         = {891--914},
      title         = {Equality of pressures for rational functions},

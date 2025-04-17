@@ -15,7 +15,7 @@ benaych-georges.zeitouni:18:eigenvectors
      journal       = {Electron. Commun. Probab.},
      mrclass       = {15B52 (15A18 60B20)},
      mrnumber      = {3866043},
-     mrreviewer    = {Jianxing\ Zhao},
+     mrreviewer    = {Jianxing Zhao},
      pages         = {Paper No. 70, 12},
      title         = {Eigenvectors of non normal random matrices},
      url           = {https://doi.org/10.1214/18-ECP171},

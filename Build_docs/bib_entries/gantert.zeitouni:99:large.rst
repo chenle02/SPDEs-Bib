@@ -13,7 +13,7 @@ gantert.zeitouni:99:large
      isbn          = {963-8022-91-4},
      mrclass       = {60F10 (60G50 60K37)},
      mrnumber      = {1752893},
-     mrreviewer    = {Didier\ Piau},
+     mrreviewer    = {Didier Piau},
      pages         = {127--165},
      publisher     = {J\'{a}nos Bolyai Math. Soc., Budapest},
      series        = {Bolyai Soc. Math. Stud.},

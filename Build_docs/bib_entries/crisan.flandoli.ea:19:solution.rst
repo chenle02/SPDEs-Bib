@@ -15,7 +15,7 @@ crisan.flandoli.ea:19:solution
      journal       = {J. Nonlinear Sci.},
      mrclass       = {60H15 (35Q31 35R60 60H30 76B03)},
      mrnumber      = {3948949},
-     mrreviewer    = {Stefano\ Bonaccorsi},
+     mrreviewer    = {Stefano Bonaccorsi},
      number        = {3},
      pages         = {813--870},
      title         = {Solution properties of a 3{D} stochastic {E}uler fluid equation},

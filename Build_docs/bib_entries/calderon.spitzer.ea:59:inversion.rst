@@ -14,7 +14,7 @@ calderon.spitzer.ea:59:inversion
      journal       = {Illinois J. Math.},
      mrclass       = {46.00 (42.00)},
      mrnumber      = {121652},
-     mrreviewer    = {P.\ Hartman},
+     mrreviewer    = {P. Hartman},
      pages         = {490--498},
      title         = {Inversion of {T}oeplitz matrices},
      url           = {http://projecteuclid.org/euclid.ijm/1255455456},

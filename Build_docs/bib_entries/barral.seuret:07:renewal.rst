@@ -15,7 +15,7 @@ barral.seuret:07:renewal
      journal       = {Adv. in Appl. Probab.},
      mrclass       = {60G57 (28A78 28A80 60F10)},
      mrnumber      = {2307876},
-     mrreviewer    = {Elena\ Villa},
+     mrreviewer    = {Elena Villa},
      number        = {1},
      pages         = {162--188},
      title         = {Renewal of singularity sets of random self-similar measures},

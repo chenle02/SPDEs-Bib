@@ -15,7 +15,7 @@ derrida.domany.ea:92:exact
      journal       = {J. Statist. Phys.},
      mrclass       = {60K35 (82C22)},
      mrnumber      = {1193854},
-     mrreviewer    = {T.\ M.\ Liggett},
+     mrreviewer    = {T. M. Liggett},
      number        = {3-4},
      pages         = {667--687},
      title         = {An exact solution of a one-dimensional asymmetric exclusion model with open boundaries},

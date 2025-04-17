@@ -15,7 +15,7 @@ ambrosio.bourgain.ea:14:perimeter
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {46E27 (42B35)},
      mrnumber      = {3258259},
-     mrreviewer    = {Giampiero\ Palatucci},
+     mrreviewer    = {Giampiero Palatucci},
      number        = {9},
      pages         = {697--698},
      title         = {Perimeter of sets and {$BMO$}-type norms},

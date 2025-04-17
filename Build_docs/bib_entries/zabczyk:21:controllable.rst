@@ -15,7 +15,7 @@ zabczyk:21:controllable
      journal       = {Ann. Polon. Math.},
      mrclass       = {93B05 (47N20 93C25)},
      mrnumber      = {4358435},
-     mrreviewer    = {Alina\ Ilinca\ Lazu},
+     mrreviewer    = {Alina Ilinca Lazu},
      number        = {1-2},
      pages         = {87--98},
      title         = {Controllable systems with vanishing energy},

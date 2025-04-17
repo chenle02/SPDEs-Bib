@@ -15,7 +15,7 @@ rockner.russo:17:uniqueness
      journal       = {J. Evol. Equ.},
      mrclass       = {35R60 (35Q84 60H15 82C31)},
      mrnumber      = {3707309},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {3},
      pages         = {1049--1062},
      title         = {Uniqueness for a class of stochastic {F}okker-{P}lanck and porous media equations},

@@ -15,7 +15,7 @@ xiao:03:packing
      journal       = {Math. Proc. Cambridge Philos. Soc.},
      mrclass       = {60J65 (28A78)},
      mrnumber      = {2006069},
-     mrreviewer    = {Hac\`ene\ Boutabia},
+     mrreviewer    = {Hac\`ene Boutabia},
      number        = {2},
      pages         = {349--373},
      title         = {The packing measure of the trajectories of multiparameter fractional {B}rownian motion},

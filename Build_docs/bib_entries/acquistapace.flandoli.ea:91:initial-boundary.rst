@@ -15,7 +15,7 @@ acquistapace.flandoli.ea:91:initial-boundary
      journal       = {SIAM J. Control Optim.},
      mrclass       = {49K20 (34H05 35B37 47D06 47N70 93C20)},
      mrnumber      = {1088221},
-     mrreviewer    = {J.\ P.\ Babary},
+     mrreviewer    = {J. P. Babary},
      number        = {1},
      pages         = {89--118},
      title         = {Initial-boundary value problems and optimal control for nonautonomous parabolic systems},

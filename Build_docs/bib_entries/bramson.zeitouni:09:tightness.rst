@@ -15,7 +15,7 @@ bramson.zeitouni:09:tightness
      journal       = {Ann. Probab.},
      mrclass       = {60J80 (60G50)},
      mrnumber      = {2510018},
-     mrreviewer    = {Quansheng\ Liu},
+     mrreviewer    = {Quansheng Liu},
      number        = {2},
      pages         = {615--653},
      title         = {Tightness for a family of recursion equations},

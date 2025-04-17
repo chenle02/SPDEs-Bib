@@ -15,7 +15,7 @@ aleksandrov.bourgain.ea:95:uniqueness
      journal       = {Geom. Funct. Anal.},
      mrclass       = {31B20 (31B15 35J05)},
      mrnumber      = {1339816},
-     mrreviewer    = {Ragnar\ Sigurdsson},
+     mrreviewer    = {Ragnar Sigurdsson},
      number        = {3},
      pages         = {529--571},
      title         = {Uniqueness and free interpolation for logarithmic potentials and the {C}auchy problem for the {L}aplace equation in {${\bf R}^2$}},

@@ -15,7 +15,7 @@ shieh.xiao:10:hausdorff
      journal       = {Bernoulli},
      mrclass       = {60G60 (28A78 62M09)},
      mrnumber      = {2759163},
-     mrreviewer    = {Marco\ Dozzi},
+     mrreviewer    = {Marco Dozzi},
      number        = {4},
      pages         = {926--952},
      title         = {Hausdorff and packing dimensions of the images of random fields},

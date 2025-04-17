@@ -15,7 +15,7 @@ dembo.peres.ea:02:thick
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60J55 (28A80 60G50 60J65)},
      mrnumber      = {1926845},
-     mrreviewer    = {Patrick\ Fitzsimmons},
+     mrreviewer    = {Patrick Fitzsimmons},
      number        = {12},
      pages         = {4969--5003},
      title         = {Thick points for intersections of planar sample paths},

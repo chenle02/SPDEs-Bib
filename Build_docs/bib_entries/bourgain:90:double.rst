@@ -15,7 +15,7 @@ bourgain:90:double
      journal       = {J. Reine Angew. Math.},
      mrclass       = {28D05 (11K99 47A35)},
      mrnumber      = {1037434},
-     mrreviewer    = {Anzelm\ Iwanik},
+     mrreviewer    = {Anzelm Iwanik},
      pages         = {140--161},
      title         = {Double recurrence and almost sure convergence},
      url           = {https://doi.org/10.1515/crll.1990.404.140},

@@ -15,7 +15,7 @@ flandoli:18:weak
      journal       = {Comm. Partial Differential Equations},
      mrclass       = {35Q31 (35R60)},
      mrnumber      = {3910197},
-     mrreviewer    = {Paul\ Andr\'{e}\ Razafimandimby},
+     mrreviewer    = {Paul Andr\'{e} Razafimandimby},
      number        = {7},
      pages         = {1102--1149},
      title         = {Weak vorticity formulation of 2{D} {E}uler equations with white noise initial condition},

@@ -15,7 +15,7 @@ comets.zeitouni:05:gaussian
      journal       = {Israel J. Math.},
      mrclass       = {60K37 (60F05 82B41 82B44)},
      mrnumber      = {2191225},
-     mrreviewer    = {Nikita\ Y.\ Ratanov},
+     mrreviewer    = {Nikita Y. Ratanov},
      note          = {Probability in mathematics},
      pages         = {87--113},
      title         = {Gaussian fluctuations for random walks in random mixing environments},

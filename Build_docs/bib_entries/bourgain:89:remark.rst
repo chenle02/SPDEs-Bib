@@ -13,7 +13,7 @@ bourgain:89:remark
      isbn          = {0-521-36436-1},
      mrclass       = {42B25},
      mrnumber      = {1009171},
-     mrreviewer    = {J.\ A.\ Chao},
+     mrreviewer    = {J. A. Chao},
      pages         = {111--132},
      publisher     = {Cambridge Univ. Press, Cambridge},
      series        = {London Math. Soc. Lecture Note Ser.},

@@ -15,7 +15,7 @@ yor.zambotti:04:remark
      journal       = {Statist. Probab. Lett.},
      mrclass       = {60J65},
      mrnumber      = {2083898},
-     mrreviewer    = {I.\ Cuculescu},
+     mrreviewer    = {I. Cuculescu},
      number        = {3},
      pages         = {297--304},
      title         = {A remark about the norm of a {B}rownian bridge},

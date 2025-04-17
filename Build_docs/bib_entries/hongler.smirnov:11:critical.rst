@@ -15,7 +15,7 @@ hongler.smirnov:11:critical
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60K35 (30C35 30D40 60J67 82B20)},
      mrnumber      = {2851698},
-     mrreviewer    = {Dmitry\ Beliaev},
+     mrreviewer    = {Dmitry Beliaev},
      number        = {3-4},
      pages         = {735--756},
      title         = {Critical percolation: the expected number of clusters in a rectangle},

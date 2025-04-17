@@ -15,7 +15,7 @@ stroock.varadhan:72:on
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35J70 (35K10 60J45)},
      mrnumber      = {387812},
-     mrreviewer    = {M.\ Biroli},
+     mrreviewer    = {M. Biroli},
      pages         = {651--713},
      title         = {On degenerate elliptic-parabolic operators of second order and their associated diffusions},
      url           = {https://doi.org/10.1002/cpa.3160250603},

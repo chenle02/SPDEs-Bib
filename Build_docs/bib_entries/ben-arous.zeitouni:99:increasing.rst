@@ -15,7 +15,7 @@ ben-arous.zeitouni:99:increasing
      journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
      mrclass       = {60F10 (60K35)},
      mrnumber      = {1669916},
-     mrreviewer    = {Hans-Otto\ Georgii},
+     mrreviewer    = {Hans-Otto Georgii},
      number        = {1},
      pages         = {85--102},
      title         = {Increasing propagation of chaos for mean field models},

@@ -15,7 +15,7 @@ bombieri.bourgain:09:on
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {42A05 (11C08 11L03 42A16)},
      mrnumber      = {2505444},
-     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
+     mrreviewer    = {Sergeu{i} V. Konyagin},
      number        = {3},
      pages         = {627--703},
      title         = {On {K}ahane's ultraflat polynomials},

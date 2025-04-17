@@ -15,7 +15,7 @@ li.lu.ea:19:wavelet
      journal       = {J. Fourier Anal. Appl.},
      mrclass       = {62G08 (62G20 62M40)},
      mrnumber      = {4029176},
-     mrreviewer    = {Roman\ A.\ R\'{o}\.{z}a\'{n}ski},
+     mrreviewer    = {Roman A. R\'{o}\.{z}a\'{n}ski},
      number        = {6},
      pages         = {3184--3213},
      title         = {Wavelet thresholding in fixed design regression for {G}aussian random fields},

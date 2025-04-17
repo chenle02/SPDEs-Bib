@@ -15,7 +15,7 @@ flandoli:96:stochastic
      journal       = {Rend. Sem. Mat. Fis. Milano},
      mrclass       = {35R60 (35Q30 60H15 76M35)},
      mrnumber      = {1639835},
-     mrreviewer    = {Alp\ O.\ Eden},
+     mrreviewer    = {Alp O. Eden},
      pages         = {121--148},
      title         = {Stochastic differential equations in fluid dynamics},
      url           = {https://doi.org/10.1007/BF02925357},

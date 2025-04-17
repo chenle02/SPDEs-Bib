@@ -13,7 +13,7 @@ bourgain:14:on*2
      isbn          = {978-0-691-15941-6},
      mrclass       = {42B20 (42B25)},
      mrnumber      = {3329846},
-     mrreviewer    = {Brett\ D.\ Wick},
+     mrreviewer    = {Brett D. Wick},
      pages         = {47--62},
      publisher     = {Princeton Univ. Press, Princeton, NJ},
      series        = {Princeton Math. Ser.},

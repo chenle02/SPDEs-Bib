@@ -14,7 +14,7 @@ bourgain:80:on*2
      journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
      mrclass       = {05A99},
      mrnumber      = {682989},
-     mrreviewer    = {J.\ Spencer},
+     mrreviewer    = {J. Spencer},
      number        = {1},
      pages         = {29--32},
      title         = {On lacunary sets},

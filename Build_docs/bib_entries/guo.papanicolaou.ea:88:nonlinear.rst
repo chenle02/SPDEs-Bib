@@ -14,7 +14,7 @@ guo.papanicolaou.ea:88:nonlinear
      journal       = {Comm. Math. Phys.},
      mrclass       = {60K35 (60J60)},
      mrnumber      = {954674},
-     mrreviewer    = {F.\ L.\ Spitzer},
+     mrreviewer    = {F. L. Spitzer},
      number        = {1},
      pages         = {31--59},
      title         = {Nonlinear diffusion limit for a system with nearest neighbor interactions},

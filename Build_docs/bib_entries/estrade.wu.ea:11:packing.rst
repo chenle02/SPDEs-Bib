@@ -15,7 +15,7 @@ estrade.wu.ea:11:packing
      journal       = {Commun. Stoch. Anal.},
      mrclass       = {60G15 (28A80 60G18 60G60)},
      mrnumber      = {2808535},
-     mrreviewer    = {Narn-Rueih\ Shieh},
+     mrreviewer    = {Narn-Rueih Shieh},
      number        = {1},
      pages         = {41--64},
      title         = {Packing dimension results for anisotropic {G}aussian random fields},

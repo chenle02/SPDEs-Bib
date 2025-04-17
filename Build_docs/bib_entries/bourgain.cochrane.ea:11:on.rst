@@ -15,7 +15,7 @@ bourgain.cochrane.ea:11:on
      journal       = {Acta Arith.},
      mrclass       = {11N69 (11K36 11K38 11L07)},
      mrnumber      = {2771661},
-     mrreviewer    = {Igor\ E.\ Shparlinski},
+     mrreviewer    = {Igor E. Shparlinski},
      number        = {2},
      pages         = {173--203},
      title         = {On the parity of {$k$}-th powers modulo {\$p\$}. {A} generalization of a problem of {L}ehmer},

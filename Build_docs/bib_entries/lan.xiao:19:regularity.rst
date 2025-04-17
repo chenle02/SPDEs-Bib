@@ -15,7 +15,7 @@ lan.xiao:19:regularity
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {60H15 (35B65 35R60 60G22)},
      mrnumber      = {3944417},
-     mrreviewer    = {Mar\'{i}a\ J.\ Garrido-Atienza},
+     mrreviewer    = {Mar\'{i}a J. Garrido-Atienza},
      number        = {1},
      pages         = {27--52},
      title         = {Regularity properties of the solution to a stochastic heat equation driven by a fractional {G}aussian noise on {$\Bbb{S}^2$}},

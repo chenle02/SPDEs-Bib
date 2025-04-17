@@ -15,7 +15,7 @@ deift.tomei.ea:82:inverse
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35Q20 (58F07 76B15)},
      mrnumber      = {668408},
-     mrreviewer    = {David\ J.\ Kaup},
+     mrreviewer    = {David J. Kaup},
      number        = {5},
      pages         = {567--628},
      title         = {Inverse scattering and the {B}oussinesq equation},

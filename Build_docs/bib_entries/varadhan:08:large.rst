@@ -15,7 +15,7 @@ varadhan:08:large
      journal       = {Ann. Probab.},
      mrclass       = {60F10 (60K35 60K37 82B31 82C22)},
      mrnumber      = {2393987},
-     mrreviewer    = {Dominique\ L\'epingle},
+     mrreviewer    = {Dominique L\'epingle},
      number        = {2},
      pages         = {397--419},
      title         = {Large deviations},

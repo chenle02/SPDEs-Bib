@@ -15,7 +15,7 @@ brzezniak.peszat:01:stochastic
      journal       = {Ann. Probab.},
      mrclass       = {60G60 (35Q30 35R60 60J25 76B99 76M35)},
      mrnumber      = {1880243},
-     mrreviewer    = {Yimin\ Xiao},
+     mrreviewer    = {Yimin Xiao},
      number        = {4},
      pages         = {1796--1832},
      title         = {Stochastic two dimensional {E}uler equations},

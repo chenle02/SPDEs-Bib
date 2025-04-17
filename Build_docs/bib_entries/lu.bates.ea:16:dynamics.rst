@@ -15,7 +15,7 @@ lu.bates.ea:16:dynamics
      journal       = {Commun. Math. Sci.},
      mrclass       = {37L55 (35R11 35R60 37H10 60H15)},
      mrnumber      = {3407726},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {1},
      pages         = {273--295},
      title         = {Dynamics of the 3{D} fractional {G}inzburg-{L}andau equation with multiplicative noise on an unbounded domain},

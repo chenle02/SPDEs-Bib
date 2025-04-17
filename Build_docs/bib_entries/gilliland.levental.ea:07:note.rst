@@ -15,7 +15,7 @@ gilliland.levental.ea:07:note
      journal       = {Statist. Probab. Lett.},
      mrclass       = {60G42 (60G40 60G50)},
      mrnumber      = {2395066},
-     mrreviewer    = {Adam\ Os\polhk{e}kowski},
+     mrreviewer    = {Adam Os\polhk{e}kowski},
      number        = {11},
      pages         = {1098--1105},
      title         = {A note on absorption probabilities in one-dimensional random walk via complex-valued martingales},

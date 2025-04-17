@@ -14,7 +14,7 @@ xiao:91:multiple
      journal       = {Chinese Ann. Math. Ser. A},
      mrclass       = {60J65 (28A78 60G17 60J25)},
      mrnumber      = {1153948},
-     mrreviewer    = {Xiang\ Qun\ Yang},
+     mrreviewer    = {Xiang Qun Yang},
      number        = {5},
      pages         = {612--618},
      title         = {Multiple points of fractional {B}rownian motion and {H}ausdorff dimension},

@@ -15,7 +15,7 @@ tkocz.smaczynski.ea:12:tensor
      journal       = {Random Matrices Theory Appl.},
      mrclass       = {60B20 (15B52)},
      mrnumber      = {3039370},
-     mrreviewer    = {Sasha\ Sodin},
+     mrreviewer    = {Sasha Sodin},
      number        = {4},
      pages         = {1250009, 26},
      title         = {Tensor products of random unitary matrices},

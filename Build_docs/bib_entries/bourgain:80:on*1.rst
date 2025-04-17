@@ -14,7 +14,7 @@ bourgain:80:on*1
      journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
      mrclass       = {46E15 (46B20 54C30)},
      mrnumber      = {682645},
-     mrreviewer    = {D.\ H.\ Fremlin},
+     mrreviewer    = {D. H. Fremlin},
      number        = {2},
      pages         = {235--249},
      title         = {On convergent sequences of continuous functions},

@@ -15,7 +15,7 @@ berg.kesten:85:inequalities
      journal       = {J. Appl. Probab.},
      mrclass       = {60E15 (60K35 82A43)},
      mrnumber      = {799280},
-     mrreviewer    = {R.\ T.\ Smythe},
+     mrreviewer    = {R. T. Smythe},
      number        = {3},
      pages         = {556--569},
      title         = {Inequalities with applications to percolation and reliability},

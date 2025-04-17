@@ -15,7 +15,7 @@ bombieri.bourgain:04:remark
      journal       = {Int. Math. Res. Not.},
      mrclass       = {30B10},
      mrnumber      = {2126627},
-     mrreviewer    = {P.\ Lappan},
+     mrreviewer    = {P. Lappan},
      number        = {80},
      pages         = {4307--4330},
      title         = {A remark on {B}ohr's inequality},

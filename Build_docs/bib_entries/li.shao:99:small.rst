@@ -15,7 +15,7 @@ li.shao:99:small
      journal       = {J. Theoret. Probab.},
      mrclass       = {60G15},
      mrnumber      = {1702899},
-     mrreviewer    = {Davar\ Khoshnevisan},
+     mrreviewer    = {Davar Khoshnevisan},
      number        = {3},
      pages         = {699--720},
      title         = {Small ball estimates for {G}aussian processes under {S}obolev type norms},

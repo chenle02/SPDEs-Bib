@@ -15,7 +15,7 @@ bourgain:91:besicovitch
      journal       = {Geom. Funct. Anal.},
      mrclass       = {42B25 (42B08 42B10)},
      mrnumber      = {1097257},
-     mrreviewer    = {Peter\ I.\ Lizorkin},
+     mrreviewer    = {Peter I. Lizorkin},
      number        = {2},
      pages         = {147--187},
      title         = {Besicovitch type maximal operators and applications to {F}ourier analysis},

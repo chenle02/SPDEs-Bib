@@ -15,7 +15,7 @@ levanony.schwartz.ea:93:uniform
      journal       = {Stochastics Stochastics Rep.},
      mrclass       = {60H05 (62M05)},
      mrnumber      = {1276921},
-     mrreviewer    = {Vivek\ S.\ Borkar},
+     mrreviewer    = {Vivek S. Borkar},
      number        = {1-2},
      pages         = {9--28},
      title         = {Uniform decay and equicontinuity for normalized, parameter dependent, {I}t\^{o} integrals},

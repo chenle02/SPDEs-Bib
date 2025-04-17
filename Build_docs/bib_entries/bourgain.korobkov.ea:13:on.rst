@@ -15,7 +15,7 @@ bourgain.korobkov.ea:13:on
      journal       = {Rev. Mat. Iberoam.},
      mrclass       = {58K05 (46E35)},
      mrnumber      = {3010119},
-     mrreviewer    = {P.\ P.\ Zabreu{i}ko},
+     mrreviewer    = {P. P. Zabreu{i}ko},
      number        = {1},
      pages         = {1--23},
      title         = {On the {M}orse-{S}ard property and level sets of {S}obolev and {BV} functions},

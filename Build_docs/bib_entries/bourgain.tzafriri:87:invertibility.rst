@@ -15,7 +15,7 @@ bourgain.tzafriri:87:invertibility
      journal       = {Israel J. Math.},
      mrclass       = {46B20 (15A60 43A46 47A99 47B38)},
      mrnumber      = {890420},
-     mrreviewer    = {T.\ Figiel},
+     mrreviewer    = {T. Figiel},
      number        = {2},
      pages         = {137--224},
      title         = {Invertibility of ``large'' submatrices with applications to the geometry of {B}anach spaces and harmonic analysis},

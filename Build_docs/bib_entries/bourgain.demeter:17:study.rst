@@ -15,7 +15,7 @@ bourgain.demeter:17:study
      journal       = {Chinese Ann. Math. Ser. B},
      mrclass       = {42B37},
      mrnumber      = {3592159},
-     mrreviewer    = {Juha\ K.\ Kinnunen},
+     mrreviewer    = {Juha K. Kinnunen},
      number        = {1},
      pages         = {173--200},
      title         = {A study guide for the {$l^2$} decoupling theorem},

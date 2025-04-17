@@ -15,7 +15,7 @@ korbel.luchko:16:modeling
      journal       = {Fract. Calc. Appl. Anal.},
      mrclass       = {91G20 (26A33 34A08 35R11)},
      mrnumber      = {3589358},
-     mrreviewer    = {Wei-Lin\ Xiao},
+     mrreviewer    = {Wei-Lin Xiao},
      number        = {6},
      pages         = {1414--1433},
      title         = {Modeling of financial processes with a space-time fractional diffusion equation of varying order},

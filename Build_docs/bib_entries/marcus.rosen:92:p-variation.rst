@@ -14,7 +14,7 @@ marcus.rosen:92:p-variation
      journal       = {Ann. Probab.},
      mrclass       = {60J55 (60G15 60G17)},
      mrnumber      = {1188038},
-     mrreviewer    = {Ditlev\ Monrad},
+     mrreviewer    = {Ditlev Monrad},
      number        = {4},
      pages         = {1685--1713},
      title         = {{$p$}-variation of the local times of symmetric stable processes and of {G}aussian processes with stationary increments},

@@ -14,7 +14,7 @@ kesten:87:scaling
      journal       = {Comm. Math. Phys.},
      mrclass       = {60K35 (82A43)},
      mrnumber      = {879034},
-     mrreviewer    = {R.\ T.\ Smythe},
+     mrreviewer    = {R. T. Smythe},
      number        = {1},
      pages         = {109--156},
      title         = {Scaling relations for {$2$}D-percolation},

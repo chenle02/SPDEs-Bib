@@ -14,7 +14,7 @@ bourgain:91:on*1
      isbn          = {3-540-54024-5},
      mrclass       = {52A21 (46B07 46E30 52A20)},
      mrnumber      = {1122617},
-     mrreviewer    = {Wolfgang\ Lusky},
+     mrreviewer    = {Wolfgang Lusky},
      pages         = {127--137},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

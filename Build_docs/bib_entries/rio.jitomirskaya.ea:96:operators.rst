@@ -15,7 +15,7 @@ rio.jitomirskaya.ea:96:operators
      journal       = {J. Anal. Math.},
      mrclass       = {47A10 (34L40 47A55 47B25 47B80 47E05 47N50 81Q10)},
      mrnumber      = {1428099},
-     mrreviewer    = {Horst\ Behncke},
+     mrreviewer    = {Horst Behncke},
      pages         = {153--200},
      title         = {Operators with singular continuous spectrum. {IV}. {H}ausdorff dimensions, rank one perturbations, and localization},
      url           = {https://doi.org/10.1007/BF02787106},

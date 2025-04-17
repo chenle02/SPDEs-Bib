@@ -15,7 +15,7 @@ kochubeui:88:parabolic
      journal       = {Izv. Akad. Nauk SSSR Ser. Mat.},
      mrclass       = {60J35 (35K25 35S05)},
      mrnumber      = {972089},
-     mrreviewer    = {Joerg-Uwe\ Loebus},
+     mrreviewer    = {Joerg-Uwe Loebus},
      number        = {5},
      pages         = {909--934, 1118},
      title         = {Parabolic pseudodifferential equations, hypersingular integrals and {M}arkov processes},

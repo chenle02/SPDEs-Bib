@@ -15,7 +15,7 @@ komorowski.peszat.ea:13:passive
      journal       = {Nonlinearity},
      mrclass       = {76D06 (35Q30 35R60 60H07 60H15 60J25)},
      mrnumber      = {3071450},
-     mrreviewer    = {Azzouz\ Dermoune},
+     mrreviewer    = {Azzouz Dermoune},
      number        = {7},
      pages         = {1999--2026},
      title         = {Passive tracer in a flow corresponding to two-dimensional stochastic {N}avier-{S}tokes equations},

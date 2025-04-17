@@ -15,7 +15,7 @@ bourgain:05:on
      journal       = {J. Funct. Anal.},
      mrclass       = {37K55 (35B15 35B20 35Q55 37L25)},
      mrnumber      = {2180074},
-     mrreviewer    = {Dario\ Bambusi},
+     mrreviewer    = {Dario Bambusi},
      number        = {1},
      pages         = {62--94},
      title         = {On invariant tori of full dimension for 1{D} periodic {NLS}},

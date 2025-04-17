@@ -15,7 +15,7 @@ graczyk.smirnov:98:collet
      journal       = {Invent. Math.},
      mrclass       = {37F15 (28A80 30D05 37F50)},
      mrnumber      = {1626469},
-     mrreviewer    = {Petra\ Bonfert-Taylor},
+     mrreviewer    = {Petra Bonfert-Taylor},
      number        = {1},
      pages         = {69--96},
      title         = {Collet, {E}ckmann and {H}\"{o}lder},

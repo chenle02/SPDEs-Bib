@@ -14,7 +14,7 @@ shen:06:traveling
      journal       = {Differential Integral Equations},
      mrclass       = {35K55 (35K15 74N99 92D25)},
      mrnumber      = {2215558},
-     mrreviewer    = {Mo\ Xun\ Tang},
+     mrreviewer    = {Mo Xun Tang},
      number        = {3},
      pages         = {241--278},
      title         = {Traveling waves in time dependent bistable equations},

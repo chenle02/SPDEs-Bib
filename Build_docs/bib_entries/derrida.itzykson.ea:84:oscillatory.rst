@@ -14,7 +14,7 @@ derrida.itzykson.ea:84:oscillatory
      journal       = {Comm. Math. Phys.},
      mrclass       = {82A68 (58F11)},
      mrnumber      = {763765},
-     mrreviewer    = {G.\ Benettin},
+     mrreviewer    = {G. Benettin},
      number        = {1},
      pages         = {115--132},
      title         = {Oscillatory critical amplitudes in hierarchical models},

@@ -15,7 +15,7 @@ bourgain:04:remark
      journal       = {J. Anal. Math.},
      mrclass       = {37K55 (35L60 35Q55)},
      mrnumber      = {2124457},
-     mrreviewer    = {Dario\ Bambusi},
+     mrreviewer    = {Dario Bambusi},
      pages         = {125--157},
      title         = {A remark on normal forms and the ``{$I$}-method'' for periodic {NLS}},
      url           = {https://doi.org/10.1007/BF02789044},

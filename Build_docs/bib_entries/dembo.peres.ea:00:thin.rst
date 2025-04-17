@@ -15,7 +15,7 @@ dembo.peres.ea:00:thin
      journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
      mrclass       = {60J65 (28A80)},
      mrnumber      = {1797392},
-     mrreviewer    = {Robert\ G.\ Smits},
+     mrreviewer    = {Robert G. Smits},
      number        = {6},
      pages         = {749--774},
      title         = {Thin points for {B}rownian motion},

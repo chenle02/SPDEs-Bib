@@ -15,7 +15,7 @@ prause.smirnov:11:quasisymmetric
      journal       = {Bull. Lond. Math. Soc.},
      mrclass       = {30C62 (30C75 30C80 30C85)},
      mrnumber      = {2781207},
-     mrreviewer    = {Pavel\ A.\ Gumenuk},
+     mrreviewer    = {Pavel A. Gumenuk},
      number        = {2},
      pages         = {267--277},
      title         = {Quasisymmetric distortion spectrum},

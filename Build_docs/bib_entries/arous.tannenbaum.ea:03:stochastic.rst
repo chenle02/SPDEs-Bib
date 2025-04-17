@@ -15,7 +15,7 @@ arous.tannenbaum.ea:03:stochastic
      journal       = {J. Differential Equations},
      mrclass       = {60K35 (35K55 53C44 62L20 82C22)},
      mrnumber      = {2019245},
-     mrreviewer    = {Mustapha\ Mourragui},
+     mrreviewer    = {Mustapha Mourragui},
      number        = {1},
      pages         = {119--142},
      title         = {Stochastic approximations to curve-shortening flows via particle systems},

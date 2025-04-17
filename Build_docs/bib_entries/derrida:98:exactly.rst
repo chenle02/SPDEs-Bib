@@ -15,7 +15,7 @@ derrida:98:exactly
      journal       = {Phys. Rep.},
      mrclass       = {82C22 (60K35 82C23)},
      mrnumber      = {1640459},
-     mrreviewer    = {Gunter\ Sch\"utz},
+     mrreviewer    = {Gunter Sch\"utz},
      note          = {Fundamental problems in statistical mechanics (Altenberg, 1997)},
      number        = {1-3},
      pages         = {65--83},

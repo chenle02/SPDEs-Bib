@@ -15,7 +15,7 @@ bourgain.goldstein.ea:02:anderson
      journal       = {Acta Math.},
      mrclass       = {81Q10 (47B80 47N50 60J45 82B44)},
      mrnumber      = {1947458},
-     mrreviewer    = {Svetlana\ Jitomirskaya},
+     mrreviewer    = {Svetlana Jitomirskaya},
      number        = {1},
      pages         = {41--86},
      title         = {Anderson localization for {S}chr\"{o}dinger operators on {$\bold Z^2$} with quasi-periodic potential},

@@ -15,7 +15,7 @@ li.shao:02:normal
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60E15 (60F15 60G15 60J65 60K35)},
      mrnumber      = {1902188},
-     mrreviewer    = {Sreenivasan\ Ravi},
+     mrreviewer    = {Sreenivasan Ravi},
      number        = {4},
      pages         = {494--508},
      title         = {A normal comparison inequality and its applications},

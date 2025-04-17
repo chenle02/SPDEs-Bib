@@ -15,7 +15,7 @@ dembo.peres.ea:00:thick
      journal       = {Ann. Probab.},
      mrclass       = {60J65 (28A78 28A80 60F15 60J55)},
      mrnumber      = {1755996},
-     mrreviewer    = {Yimin\ Xiao},
+     mrreviewer    = {Yimin Xiao},
      number        = {1},
      pages         = {1--35},
      title         = {Thick points for spatial {B}rownian motion: multifractal analysis of occupation measure},

@@ -14,7 +14,7 @@ zabczyk:73:remarks
      journal       = {Bull. Acad. Polon. Sci. S\'{e}r. Sci. Math. Astronom. Phys.},
      mrclass       = {60H99},
      mrnumber      = {321182},
-     mrreviewer    = {M.\ Cs\"{o}rg\H{o}},
+     mrreviewer    = {M. Cs\"{o}rg\H{o}},
      pages         = {263--269},
      title         = {Remarks on stochastic derivation},
      volume        = {21},

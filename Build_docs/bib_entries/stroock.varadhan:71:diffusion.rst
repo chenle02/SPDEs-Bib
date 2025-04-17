@@ -15,7 +15,7 @@ stroock.varadhan:71:diffusion
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60.62},
      mrnumber      = {277037},
-     mrreviewer    = {J.\ A.\ Beekman},
+     mrreviewer    = {J. A. Beekman},
      pages         = {147--225},
      title         = {Diffusion processes with boundary conditions},
      url           = {https://doi.org/10.1002/cpa.3160240206},

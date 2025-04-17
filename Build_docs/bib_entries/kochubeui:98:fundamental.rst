@@ -15,7 +15,7 @@ kochubeui:98:fundamental
      journal       = {Izv. Ross. Akad. Nauk Ser. Mat.},
      mrclass       = {11S80 (35A08 35S05 47G30 47S10)},
      mrnumber      = {1680862},
-     mrreviewer    = {Vladimir\ Tulovsky},
+     mrreviewer    = {Vladimir Tulovsky},
      number        = {6},
      pages         = {103--124},
      title         = {Fundamental solutions of pseudodifferential equations associated with {$p$}-adic quadratic forms},

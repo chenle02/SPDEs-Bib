@@ -13,7 +13,7 @@ li.kuelbs:98:some
      isbn          = {3-7643-5867-X},
      mrclass       = {60G15 (60B12 60E15)},
      mrnumber      = {1652329},
-     mrreviewer    = {Werner\ Linde},
+     mrreviewer    = {Werner Linde},
      pages         = {233--243},
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Progr. Probab.},

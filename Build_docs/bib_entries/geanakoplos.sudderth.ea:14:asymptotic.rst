@@ -15,7 +15,7 @@ geanakoplos.sudderth.ea:14:asymptotic
      journal       = {Sankhya A},
      mrclass       = {60F99 (60G42 60G50 60J05)},
      mrnumber      = {3167776},
-     mrreviewer    = {Hanspeter\ Schmidli},
+     mrreviewer    = {Hanspeter Schmidli},
      number        = {1},
      pages         = {150--157},
      title         = {Asymptotic behavior of a stochastic discount rate},

@@ -15,7 +15,7 @@ cheng.xiao:16:excursion
      journal       = {Bernoulli},
      mrclass       = {60G60 (60G70)},
      mrnumber      = {3449810},
-     mrreviewer    = {Kirstin\ Strokorb},
+     mrreviewer    = {Kirstin Strokorb},
      number        = {2},
      pages         = {1113--1130},
      title         = {Excursion probability of {G}aussian random fields on sphere},

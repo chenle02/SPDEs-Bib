@@ -15,7 +15,7 @@ donsker.varadhan:76:on
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35P15},
      mrnumber      = {425380},
-     mrreviewer    = {H.\ F.\ Weinberger},
+     mrreviewer    = {H. F. Weinberger},
      number        = {6},
      pages         = {595--621},
      title         = {On the principal eigenvalue of second-order elliptic differential operators},

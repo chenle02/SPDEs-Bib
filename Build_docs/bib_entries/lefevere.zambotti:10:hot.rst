@@ -15,7 +15,7 @@ lefevere.zambotti:10:hot
      journal       = {J. Stat. Phys.},
      mrclass       = {82C70 (82C31)},
      mrnumber      = {2638933},
-     mrreviewer    = {Christian\ Dogbe},
+     mrreviewer    = {Christian Dogbe},
      number        = {4},
      pages         = {686--713},
      title         = {Hot scatterers and tracers for the transfer of heat in collisional dynamics},

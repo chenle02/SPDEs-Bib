@@ -15,7 +15,7 @@ bourgain.chang:17:nonlinear
      journal       = {Israel J. Math.},
      mrclass       = {11B30 (37A45)},
      mrnumber      = {3704938},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {2},
      pages         = {853--867},
      title         = {Nonlinear {R}oth type theorems in finite fields},

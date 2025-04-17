@@ -15,7 +15,7 @@ bourgain.kozma:07:one
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {42A16 (42A61)},
      mrnumber      = {2341826},
-     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
+     mrreviewer    = {Sergeu{i} V. Konyagin},
      number        = {4},
      pages         = {637--658},
      title         = {One cannot hear the winding number},

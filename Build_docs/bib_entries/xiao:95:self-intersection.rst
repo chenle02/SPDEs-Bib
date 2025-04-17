@@ -14,7 +14,7 @@ xiao:95:self-intersection
      journal       = {Chinese Ann. Math. Ser. A},
      mrclass       = {60J60 (60G60)},
      mrnumber      = {1338908},
-     mrreviewer    = {Guang\ Lu\ Gong},
+     mrreviewer    = {Guang Lu Gong},
      number        = {1},
      pages         = {8--15},
      title         = {Self-intersection local times and dimensions of {$k$}-multiple times of two-parameter {O}rnstein-{U}hlenbeck processes},

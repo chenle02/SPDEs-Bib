@@ -15,7 +15,7 @@ dyson.lieb.ea:78:phase
      journal       = {J. Statist. Phys.},
      mrclass       = {82.47},
      mrnumber      = {496246},
-     mrreviewer    = {Derek\ W.\ Robinson},
+     mrreviewer    = {Derek W. Robinson},
      number        = {4},
      pages         = {335--383},
      title         = {Phase transitions in quantum spin systems with isotropic and nonisotropic interactions},

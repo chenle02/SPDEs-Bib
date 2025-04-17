@@ -15,7 +15,7 @@ bourgain:17:decoupling*1
      journal       = {J. Amer. Math. Soc.},
      mrclass       = {11M06 (11L07)},
      mrnumber      = {3556291},
-     mrreviewer    = {Kostadinka\ Lapkova},
+     mrreviewer    = {Kostadinka Lapkova},
      number        = {1},
      pages         = {205--224},
      title         = {Decoupling, exponential sums and the {R}iemann zeta function},

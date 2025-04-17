@@ -13,7 +13,7 @@ majda.harlim:12:filtering
      isbn          = {978-1-107-01666-8},
      mrclass       = {76-02 (35Q35 60G35 76F20 93E11)},
      mrnumber      = {2934167},
-     mrreviewer    = {Lennaert\ van Veen},
+     mrreviewer    = {Lennaert van Veen},
      pages         = {x+357},
      publisher     = {Cambridge University Press, Cambridge},
      title         = {Filtering complex turbulent systems},

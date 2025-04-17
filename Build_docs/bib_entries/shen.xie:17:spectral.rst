@@ -15,7 +15,7 @@ shen.xie:17:spectral
      journal       = {Discrete Contin. Dyn. Syst. Ser. B},
      mrclass       = {35F16 (35P05 35R09 45K05 47B37 92D25)},
      mrnumber      = {3639154},
-     mrreviewer    = {Eric\ Stachura},
+     mrreviewer    = {Eric Stachura},
      number        = {3},
      pages         = {1023--1047},
      title         = {Spectral theory for nonlocal dispersal operators with time periodic indefinite weight functions and applications},

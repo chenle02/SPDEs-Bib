@@ -12,7 +12,7 @@ papanicolaou.stroock.ea:77:martingale
      booktitle     = {Papers from the {D}uke {T}urbulence {C}onference ({D}uke {U}niv., {D}urham, {N}.{C}., 1976)},
      mrclass       = {60J60 (60F05 60G45 60H10)},
      mrnumber      = {461684},
-     mrreviewer    = {Mark\ Pinsky},
+     mrreviewer    = {Mark Pinsky},
      pages         = {Paper No. 6, ii+120},
      publisher     = {Duke Univ., Durham, NC},
      series        = {Duke Univ. Math. Ser.},

@@ -14,7 +14,7 @@ spitzer:64:electrostatic
      journal       = {Z. Wahrscheinlichkeitstheorie und Verw. Gebiete},
      mrclass       = {60.62},
      mrnumber      = {172343},
-     mrreviewer    = {H.\ P.\ McKean, Jr.},
+     mrreviewer    = {H. P. McKean, Jr.},
      pages         = {110--121},
      title         = {Electrostatic capacity, heat flow, and {B}rownian motion},
      url           = {https://doi.org/10.1007/BF00535970},

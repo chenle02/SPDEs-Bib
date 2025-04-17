@@ -14,7 +14,7 @@ donsker.varadhan:85:large
      journal       = {Comm. Math. Phys.},
      mrclass       = {60G15 (60F10)},
      mrnumber      = {782966},
-     mrreviewer    = {Sujit\ K.\ Basu},
+     mrreviewer    = {Sujit K. Basu},
      number        = {1-2},
      pages         = {187--210},
      title         = {Large deviations for stationary {G}aussian processes},

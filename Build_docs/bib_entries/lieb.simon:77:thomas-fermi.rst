@@ -15,7 +15,7 @@ lieb.simon:77:thomas-fermi
      journal       = {Advances in Math.},
      mrclass       = {81.35},
      mrnumber      = {428944},
-     mrreviewer    = {F.\ C.\ Auluck},
+     mrreviewer    = {F. C. Auluck},
      number        = {1},
      pages         = {22--116},
      title         = {The {T}homas-{F}ermi theory of atoms, molecules and solids},

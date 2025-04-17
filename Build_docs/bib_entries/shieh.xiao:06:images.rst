@@ -15,7 +15,7 @@ shieh.xiao:06:images
      journal       = {Studia Math.},
      mrclass       = {60G60 (28A80 43A46 60G15 60G17)},
      mrnumber      = {2263961},
-     mrreviewer    = {Ren\'{e}\ L.\ Schilling},
+     mrreviewer    = {Ren\'{e} L. Schilling},
      number        = {1},
      pages         = {37--60},
      title         = {Images of {G}aussian random fields: {S}alem sets and interior points},

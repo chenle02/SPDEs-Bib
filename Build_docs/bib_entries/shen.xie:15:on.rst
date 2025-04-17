@@ -15,7 +15,7 @@ shen.xie:15:on
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {45C05 (45K05 92D25)},
      mrnumber      = {3285842},
-     mrreviewer    = {Mohamed\ Abdalla\ Darwish},
+     mrreviewer    = {Mohamed Abdalla Darwish},
      number        = {4},
      pages         = {1665--1696},
      title         = {On principal spectrum points/principal eigenvalues of nonlocal dispersal operators and applications},

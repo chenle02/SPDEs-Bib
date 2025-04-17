@@ -15,7 +15,7 @@ xiao:97:weak
      journal       = {J. Theoret. Probab.},
      mrclass       = {60G15 (60G17)},
      mrnumber      = {1481651},
-     mrreviewer    = {Simeon\ M.\ Berman},
+     mrreviewer    = {Simeon M. Berman},
      number        = {4},
      pages         = {849--866},
      title         = {Weak variation of {G}aussian processes},

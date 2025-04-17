@@ -14,7 +14,7 @@ barral.mandelbrot:04:introduction
      isbn          = {0-8218-3638-2},
      mrclass       = {28A80 (60G18 60G44 60G55 60G57)},
      mrnumber      = {2112119},
-     mrreviewer    = {Peter\ R.\ Massopust},
+     mrreviewer    = {Peter R. Massopust},
      pages         = {3--16},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Proc. Sympos. Pure Math.},

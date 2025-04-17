@@ -15,7 +15,7 @@ li.xiao:10:note
      journal       = {Comm. Statist. Theory Methods},
      mrclass       = {62G08 (62C20 62G05)},
      mrnumber      = {2745368},
-     mrreviewer    = {Armel\ Fabrice\ Yode},
+     mrreviewer    = {Armel Fabrice Yode},
      number        = {7},
      pages         = {1111--1128},
      title         = {A note on block-thresholded wavelet estimators with correlated noise},

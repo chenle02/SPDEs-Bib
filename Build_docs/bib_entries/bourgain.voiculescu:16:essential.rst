@@ -14,7 +14,7 @@ bourgain.voiculescu:16:essential
      isbn          = {978-3-319-29114-7; 978-3-319-29116-1},
      mrclass       = {47A55 (47B47 47L20 47L30)},
      mrnumber      = {3526952},
-     mrreviewer    = {Lawrence\ R.\ Williams},
+     mrreviewer    = {Lawrence R. Williams},
      pages         = {77--80},
      publisher     = {Birkh\"{a}user/Springer, [Cham]},
      series        = {Oper. Theory Adv. Appl.},

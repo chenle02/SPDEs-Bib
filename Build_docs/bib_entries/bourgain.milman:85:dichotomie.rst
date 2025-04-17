@@ -14,7 +14,7 @@ bourgain.milman:85:dichotomie
      journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
      mrclass       = {43A46 (46B99)},
      mrnumber      = {785065},
-     mrreviewer    = {Fran\c{c}oise\ Lust-Piquard},
+     mrreviewer    = {Fran\c{c}oise Lust-Piquard},
      number        = {9},
      pages         = {263--266},
      title         = {Dichotomie du cotype pour les espaces invariants},

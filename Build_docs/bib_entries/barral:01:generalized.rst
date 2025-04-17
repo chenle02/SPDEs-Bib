@@ -15,7 +15,7 @@ barral:01:generalized
      journal       = {Adv. in Appl. Probab.},
      mrclass       = {60J80 (60B12 60F25 60G42 60G57)},
      mrnumber      = {1875784},
-     mrreviewer    = {John\ Verzani},
+     mrreviewer    = {John Verzani},
      number        = {4},
      pages         = {874--895},
      title         = {Generalized vector multiplicative cascades},

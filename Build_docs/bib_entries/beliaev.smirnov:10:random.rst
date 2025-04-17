@@ -15,7 +15,7 @@ beliaev.smirnov:10:random
      journal       = {Ann. of Math. (2)},
      mrclass       = {60G18 (28A80 60D05)},
      mrnumber      = {2680427},
-     mrreviewer    = {Artemi\ Berlinkov},
+     mrreviewer    = {Artemi Berlinkov},
      number        = {1},
      pages         = {597--615},
      title         = {Random conformal snowflakes},

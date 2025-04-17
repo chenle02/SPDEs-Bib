@@ -15,7 +15,7 @@ flandoli.luo:19:-white
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H15 (35Q31 35Q84 35R60 60H40 76D05)},
      mrnumber      = {4026605},
-     mrreviewer    = {Xiliang\ Fan},
+     mrreviewer    = {Xiliang Fan},
      number        = {3-4},
      pages         = {783--832},
      title         = {{$\rho$}-white noise solution to 2{D} stochastic {E}uler equations},

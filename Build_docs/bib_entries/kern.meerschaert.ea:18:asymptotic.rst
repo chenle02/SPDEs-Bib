@@ -15,7 +15,7 @@ kern.meerschaert.ea:18:asymptotic
      journal       = {J. Theoret. Probab.},
      mrclass       = {60E10 (28A78 28A80 60E07 60G17 60G18 60G51 60G52)},
      mrnumber      = {3769826},
-     mrreviewer    = {Anatoliy\ Malyarenko},
+     mrreviewer    = {Anatoliy Malyarenko},
      number        = {1},
      pages         = {598--617},
      title         = {Asymptotic behavior of semistable {L}\'{e}vy exponents and applications to fractal path properties},

@@ -15,7 +15,7 @@ nourdin.peccati.ea:22:multivariate
      journal       = {J. Theoret. Probab.},
      mrclass       = {60F05 (60G15 60H07)},
      mrnumber      = {4488569},
-     mrreviewer    = {Daniel\ M.\ Harnett},
+     mrreviewer    = {Daniel M. Harnett},
      number        = {3},
      pages         = {2020--2037},
      title         = {Multivariate normal approximation on the {W}iener space: new bounds in the convex distance},

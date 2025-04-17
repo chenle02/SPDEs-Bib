@@ -15,7 +15,7 @@ cranston:91:gradient
      journal       = {J. Funct. Anal.},
      mrclass       = {58G32 (53C21 60J65)},
      mrnumber      = {1120916},
-     mrreviewer    = {Jacques\ Vauthier},
+     mrreviewer    = {Jacques Vauthier},
      number        = {1},
      pages         = {110--124},
      title         = {Gradient estimates on manifolds using coupling},

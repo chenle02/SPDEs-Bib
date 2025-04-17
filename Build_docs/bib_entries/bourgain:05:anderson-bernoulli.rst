@@ -15,7 +15,7 @@ bourgain:05:anderson-bernoulli
      journal       = {Mosc. Math. J.},
      mrclass       = {82B44 (60H25 81Q10 82-02 82B10)},
      mrnumber      = {2241811},
-     mrreviewer    = {David\ Damanik},
+     mrreviewer    = {David Damanik},
      number        = {3},
      pages         = {523--536, 742},
      title         = {Anderson-{B}ernoulli models},

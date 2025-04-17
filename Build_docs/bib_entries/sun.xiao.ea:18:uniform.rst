@@ -15,7 +15,7 @@ sun.xiao.ea:18:uniform
      journal       = {Bernoulli},
      mrclass       = {60G17 (28A80 60G18 60G51 60J25)},
      mrnumber      = {3788192},
-     mrreviewer    = {Marta\ Tyran-Kami\'{n}ska},
+     mrreviewer    = {Marta Tyran-Kami\'{n}ska},
      number        = {4B},
      pages         = {3924--3951},
      title         = {Uniform dimension results for a family of {M}arkov processes},

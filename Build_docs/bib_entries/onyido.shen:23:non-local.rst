@@ -15,7 +15,7 @@ onyido.shen:23:non-local
      journal       = {Discrete Contin. Dyn. Syst. Ser. S},
      mrclass       = {45M15 (35R09 45C05 45M10 47G20 92D25)},
      mrnumber      = {4567441},
-     mrreviewer    = {Xiongxiong\ Bao},
+     mrreviewer    = {Xiongxiong Bao},
      number        = {3-4},
      pages         = {548--572},
      title         = {Non-local dispersal equations with almost periodic dependence. {II}. {A}symptotic dynamics of {F}isher-{KPP} equations},

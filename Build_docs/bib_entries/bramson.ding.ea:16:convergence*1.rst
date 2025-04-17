@@ -15,7 +15,7 @@ bramson.ding.ea:16:convergence*1
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60G70 (60J80)},
      mrnumber      = {3573300},
-     mrreviewer    = {Anja\ K.\ Sturm},
+     mrreviewer    = {Anja K. Sturm},
      number        = {4},
      pages         = {1897--1924},
      title         = {Convergence in law of the maximum of nonlattice branching random walk},

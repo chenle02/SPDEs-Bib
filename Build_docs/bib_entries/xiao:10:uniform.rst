@@ -15,7 +15,7 @@ xiao:10:uniform
      journal       = {Monatsh. Math.},
      mrclass       = {60G60 (60G17 60G18 60G52)},
      mrnumber      = {2564392},
-     mrreviewer    = {Hong\ Xue},
+     mrreviewer    = {Hong Xue},
      number        = {1-2},
      pages         = {163--184},
      title         = {Uniform modulus of continuity of random fields},

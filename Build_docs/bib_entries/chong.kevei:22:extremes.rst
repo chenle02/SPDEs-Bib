@@ -15,7 +15,7 @@ chong.kevei:22:extremes
      journal       = {Electron. J. Probab.},
      mrclass       = {60H15 (60F15 60G17 60G51 60G70)},
      mrnumber      = {4490411},
-     mrreviewer    = {Jorge\ A.\ Le\'{o}n},
+     mrreviewer    = {Jorge A. Le\'{o}n},
      pages         = {Paper No. 128, 21},
      title         = {Extremes of the stochastic heat equation with additive {L}\'{e}vy noise},
      url           = {https://doi.org/10.1214/22-ejp855},

@@ -13,7 +13,7 @@ cranston.kendall.ea:96:gromovs
      isbn          = {981-02-2560-1},
      mrclass       = {58G32 (58E20 60J65)},
      mrnumber      = {1453129},
-     mrreviewer    = {Elton\ Pei\ Hsu},
+     mrreviewer    = {Elton Pei Hsu},
      pages         = {139--164},
      publisher     = {World Sci. Publ., River Edge, NJ},
      title         = {Gromov's hyperbolicity and {P}icard's little theorem for harmonic maps},

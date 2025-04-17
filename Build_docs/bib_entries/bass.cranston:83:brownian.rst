@@ -14,7 +14,7 @@ bass.cranston:83:brownian
      journal       = {Ann. Probab.},
      mrclass       = {60J65 (60J15)},
      mrnumber      = {682798},
-     mrreviewer    = {F.\ B.\ Knight},
+     mrreviewer    = {F. B. Knight},
      number        = {1},
      pages         = {34--39},
      title         = {Brownian motion with lower class moving boundaries which grow faster than {$t\sp{1/2}$}},

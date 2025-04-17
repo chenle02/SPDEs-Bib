@@ -15,7 +15,7 @@ cook.derrida:89:polymers
      journal       = {J. Statist. Phys.},
      mrclass       = {82B44 (60K35 82-04 82D60)},
      mrnumber      = {1031405},
-     mrreviewer    = {Klaus\ Ziegler},
+     mrreviewer    = {Klaus Ziegler},
      number        = {1-2},
      pages         = {89--139},
      title         = {Polymers on disordered hierarchical lattices: a nonlinear combination of random variables},

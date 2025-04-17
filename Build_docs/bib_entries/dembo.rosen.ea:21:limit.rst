@@ -15,7 +15,7 @@ dembo.rosen.ea:21:limit
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60J80 (60G50 60J85)},
      mrnumber      = {4260486},
-     mrreviewer    = {Gerold\ Alsmeyer},
+     mrreviewer    = {Gerold Alsmeyer},
      number        = {2},
      pages         = {830--855},
      title         = {Limit law for the cover time of a random walk on a binary tree},

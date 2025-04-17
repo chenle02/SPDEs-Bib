@@ -14,7 +14,7 @@ bourgain.demeter.ea:20:decouplings
      isbn          = {978-3-030-36020-7; 978-3-030-36019-1},
      mrclass       = {42B10 (53A05)},
      mrnumber      = {4175746},
-     mrreviewer    = {Bochen\ Liu},
+     mrreviewer    = {Bochen Liu},
      pages         = {113--125},
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},

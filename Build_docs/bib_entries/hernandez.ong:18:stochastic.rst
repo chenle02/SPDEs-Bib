@@ -15,7 +15,7 @@ hernandez.ong:18:stochastic
      journal       = {J. Math. Fluid Mech.},
      mrclass       = {35R60 (37D10 37L10 60H15)},
      mrnumber      = {3841986},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {3},
      pages         = {1353--1372},
      title         = {Stochastic {S}wift-{H}ohenberg equation with degenerate linear multiplicative noise},

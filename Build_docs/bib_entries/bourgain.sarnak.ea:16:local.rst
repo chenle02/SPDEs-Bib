@@ -14,7 +14,7 @@ bourgain.sarnak.ea:16:local
      isbn          = {978-1-4704-2534-0},
      mrclass       = {11K36 (11E12 11E25)},
      mrnumber      = {3489563},
-     mrreviewer    = {Gediminas\ Stepanauskas},
+     mrreviewer    = {Gediminas Stepanauskas},
      pages         = {269--282},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

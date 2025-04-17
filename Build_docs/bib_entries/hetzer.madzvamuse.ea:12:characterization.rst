@@ -15,7 +15,7 @@ hetzer.madzvamuse.ea:12:characterization
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {35K57 (35A01 35A02 37L30)},
      mrnumber      = {2945815},
-     mrreviewer    = {Hiroki\ Hoshino},
+     mrreviewer    = {Hiroki Hoshino},
      number        = {11},
      pages         = {3975--4000},
      title         = {Characterization of {T}uring diffusion-driven instability on evolving domains},

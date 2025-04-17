@@ -15,7 +15,7 @@ zeitouni.dembo:88:existence
      journal       = {Stochastics},
      mrclass       = {93E11 (60G35 60J60 62M20)},
      mrnumber      = {928355},
-     mrreviewer    = {V\v{e}ra\ L\'{a}nsk\'{a}},
+     mrreviewer    = {V\v{e}ra L\'{a}nsk\'{a}},
      number        = {2},
      pages         = {197--218},
      title         = {An existence theorem and some properties of maximum a posteriori estimators of trajectories of diffusions},

@@ -14,7 +14,7 @@ oelschlager:90:limit*1
      journal       = {Ann. Probab.},
      mrclass       = {60K35 (60F05)},
      mrnumber      = {1043949},
-     mrreviewer    = {Peter\ Donnelly},
+     mrreviewer    = {Peter Donnelly},
      number        = {1},
      pages         = {290--318},
      title         = {Limit theorems for age-structured populations},

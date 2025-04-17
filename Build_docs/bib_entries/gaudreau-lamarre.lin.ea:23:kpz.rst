@@ -15,7 +15,7 @@ gaudreau-lamarre.lin.ea:23:kpz
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H15 (60F10)},
      mrnumber      = {4556284},
-     mrreviewer    = {Jiang\ Lun\ Wu},
+     mrreviewer    = {Jiang Lun Wu},
      number        = {3-4},
      pages         = {885--920},
      title         = {K{PZ} equation with a small noise, deep upper tail and limit shape},

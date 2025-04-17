@@ -15,7 +15,7 @@ chong.kevei:23:landscape
      journal       = {Ann. Probab.},
      mrclass       = {60H15 (28A78 28A80 60F15 60G51 60G70)},
      mrnumber      = {4597324},
-     mrreviewer    = {Isamu\ D\^{o}ku},
+     mrreviewer    = {Isamu D\^{o}ku},
      number        = {4},
      pages         = {1449--1501},
      title         = {A landscape of peaks: the intermittency islands of the stochastic heat equation with {L}\'{e}vy noise},

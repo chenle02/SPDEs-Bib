@@ -15,7 +15,7 @@ bourgain.furman.ea:07:invariant
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {37A15 (22F10 28D15)},
      mrnumber      = {2340439},
-     mrreviewer    = {Bryna\ Kra},
+     mrreviewer    = {Bryna Kra},
      number        = {12},
      pages         = {737--742},
      title         = {Invariant measures and stiffness for non-abelian groups of toral automorphisms},

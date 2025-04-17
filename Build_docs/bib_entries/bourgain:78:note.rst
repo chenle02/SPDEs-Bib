@@ -15,7 +15,7 @@ bourgain:78:note
      journal       = {Bull. Soc. Math. Belg.},
      mrclass       = {46A55},
      mrnumber      = {549654},
-     mrreviewer    = {Benno\ Fuchssteiner},
+     mrreviewer    = {Benno Fuchssteiner},
      number        = {1},
      pages         = {89--91},
      title         = {A note on extreme points in duals},

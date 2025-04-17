@@ -15,7 +15,7 @@ sznitman.zeitouni:06:invariance
      journal       = {Invent. Math.},
      mrclass       = {60F17 (60K37 82B44)},
      mrnumber      = {2221130},
-     mrreviewer    = {Zhong\ Gen\ Su},
+     mrreviewer    = {Zhong Gen Su},
      number        = {3},
      pages         = {455--567},
      title         = {An invariance principle for isotropic diffusions in random environment},

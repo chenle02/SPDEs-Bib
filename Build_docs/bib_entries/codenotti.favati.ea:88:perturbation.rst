@@ -13,7 +13,7 @@ codenotti.favati.ea:88:perturbation
      journal       = {Boll. Un. Mat. Ital. B (7)},
      mrclass       = {15A24 (47A62 93B25)},
      mrnumber      = {977592},
-     mrreviewer    = {V.\ S.\ Zaja\v{c}kovski},
+     mrreviewer    = {V. S. Zaja\v{c}kovski},
      number        = {4},
      pages         = {817--830},
      title         = {Perturbation analysis of algebraic {R}iccati equations},

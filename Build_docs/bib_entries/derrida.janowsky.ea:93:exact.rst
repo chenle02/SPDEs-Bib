@@ -15,7 +15,7 @@ derrida.janowsky.ea:93:exact
      journal       = {J. Statist. Phys.},
      mrclass       = {60K35 (82C20)},
      mrnumber      = {1251221},
-     mrreviewer    = {Pablo\ A.\ Ferrari},
+     mrreviewer    = {Pablo A. Ferrari},
      number        = {5-6},
      pages         = {813--842},
      title         = {Exact solution of the totally asymmetric simple exclusion process: shock profiles},

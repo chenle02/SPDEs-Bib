@@ -15,7 +15,7 @@ barbu.bonaccorsi.ea:15:stochastic
      journal       = {J. Optim. Theory Appl.},
      mrclass       = {60H15},
      mrnumber      = {3328198},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {2},
      pages         = {317--343},
      title         = {A stochastic heat equation with nonlinear dissipation on the boundary},

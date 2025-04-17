@@ -15,7 +15,7 @@ bourgain.yehudayoff:13:expansion
      journal       = {Geom. Funct. Anal.},
      mrclass       = {05C25 (20F65)},
      mrnumber      = {3037896},
-     mrreviewer    = {Mikhail\ Ostrovskii},
+     mrreviewer    = {Mikhail Ostrovskii},
      number        = {1},
      pages         = {1--41},
      title         = {Expansion in {${\rm SL}_2(\Bbb{R})$} and monotone expanders},

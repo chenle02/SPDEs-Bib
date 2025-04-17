@@ -15,7 +15,7 @@ paquette.zeitouni:17:extremal
      journal       = {Ann. Probab.},
      mrclass       = {60B20 (60F99)},
      mrnumber      = {3729625},
-     mrreviewer    = {Ji\v{r}\'{i}\ \v{C}ern\'{y}},
+     mrreviewer    = {Ji\v{r}\'{i} \v{C}ern\'{y}},
      number        = {6A},
      pages         = {4112--4166},
      title         = {Extremal eigenvalue correlations in the {GUE} minor process and a law of fractional logarithm},

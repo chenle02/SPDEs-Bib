@@ -14,7 +14,7 @@ flandoli:90:boundary
      isbn          = {3-540-52630-7},
      mrclass       = {93E20 (93C20)},
      mrnumber      = {1070780},
-     mrreviewer    = {Wies\l aw\ Kotarski},
+     mrreviewer    = {Wies\l aw Kotarski},
      pages         = {694--703},
      publisher     = {Springer, Berlin},
      series        = {Lect. Notes Control Inf. Sci.},

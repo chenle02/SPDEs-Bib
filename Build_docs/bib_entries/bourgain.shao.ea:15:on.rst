@@ -15,7 +15,7 @@ bourgain.shao.ea:15:on
      journal       = {Comm. Math. Phys.},
      mrclass       = {58J50 (47A10)},
      mrnumber      = {3302640},
-     mrreviewer    = {G.\ V.\ Rozenblum},
+     mrreviewer    = {G. V. Rozenblum},
      number        = {3},
      pages         = {1483--1527},
      title         = {On {$L^p$}-resolvent estimates and the density of eigenvalues for compact {R}iemannian manifolds},

@@ -14,7 +14,7 @@ shen:91:dynamical
      journal       = {Chinese Ann. Math. Ser. B},
      mrclass       = {34C15 (58F27 78A55)},
      mrnumber      = {1112247},
-     mrreviewer    = {R.\ Dil\~{a}o},
+     mrreviewer    = {R. Dil\~{a}o},
      note          = {A Chinese summary appears in Chinese Ann. Math. Ser. A {\bf 12} (1991), no. 2, 258},
      number        = {2},
      pages         = {137--146},

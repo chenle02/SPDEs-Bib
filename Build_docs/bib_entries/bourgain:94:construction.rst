@@ -15,7 +15,7 @@ bourgain:94:construction
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {58G18 (34G20 35B99 35Q58 58F27 58F39)},
      mrnumber      = {1316975},
-     mrreviewer    = {C.\ Eugene\ Wayne},
+     mrreviewer    = {C. Eugene Wayne},
      number        = {11},
      pages         = {475ff., approx. 21 pp.},
      title         = {Construction of quasi-periodic solutions for {H}amiltonian perturbations of linear equations and applications to nonlinear {PDE}},

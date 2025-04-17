@@ -15,7 +15,7 @@ zeitouni:98:superexponential
      journal       = {J. Appl. Probab.},
      mrclass       = {60F10 (60G99)},
      mrnumber      = {1659505},
-     mrreviewer    = {Bronius\ Riauba},
+     mrreviewer    = {Bronius Riauba},
      number        = {3},
      pages         = {776--781},
      title         = {Superexponential decay for the {GEM} process},

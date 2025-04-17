@@ -15,7 +15,7 @@ bourgain:79:decompositions
      journal       = {Fund. Math.},
      mrclass       = {28A05 (04A15)},
      mrnumber      = {558129},
-     mrreviewer    = {D.\ H.\ Fremlin},
+     mrreviewer    = {D. H. Fremlin},
      number        = {1},
      pages         = {61--71},
      title         = {Decompositions in the product of a measure space and a {P}olish space},

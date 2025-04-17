@@ -15,7 +15,7 @@ flandoli:96:stochastic*2
      journal       = {Ann. Probab.},
      mrclass       = {60H15 (35K57 35R60)},
      mrnumber      = {1404520},
-     mrreviewer    = {Marek\ Capi\'{n}ski},
+     mrreviewer    = {Marek Capi\'{n}ski},
      number        = {2},
      pages         = {547--558},
      title         = {Stochastic flows for nonlinear second-order parabolic {SPDE}},

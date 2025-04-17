@@ -15,7 +15,7 @@ kesten.spitzer:79:limit
      journal       = {Z. Wahrsch. Verw. Gebiete},
      mrclass       = {60K35 (60F05)},
      mrnumber      = {550121},
-     mrreviewer    = {J.\ Theodore\ Cox},
+     mrreviewer    = {J. Theodore Cox},
      number        = {1},
      pages         = {5--25},
      title         = {A limit theorem related to a new class of self-similar processes},

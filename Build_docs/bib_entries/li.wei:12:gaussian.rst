@@ -15,7 +15,7 @@ li.wei:12:gaussian
      journal       = {J. Theoret. Probab.},
      mrclass       = {60E15},
      mrnumber      = {2886380},
-     mrreviewer    = {Guangyu\ Yang},
+     mrreviewer    = {Guangyu Yang},
      number        = {1},
      pages         = {92--99},
      title         = {A {G}aussian inequality for expected absolute products},

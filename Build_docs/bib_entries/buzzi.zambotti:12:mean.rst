@@ -15,7 +15,7 @@ buzzi.zambotti:12:mean
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {94A17 (60C05 60G60 92B20)},
      mrnumber      = {2954258},
-     mrreviewer    = {Christian\ Lavault},
+     mrreviewer    = {Christian Lavault},
      number        = {2},
      pages         = {343--367},
      title         = {Mean mutual information and symmetry breaking for finite random fields},

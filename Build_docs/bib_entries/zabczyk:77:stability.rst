@@ -14,7 +14,7 @@ zabczyk:77:stability
      journal       = {Kybernetika (Prague)},
      mrclass       = {93D99},
      mrnumber      = {453080},
-     mrreviewer    = {K.\ B.\ Datta},
+     mrreviewer    = {K. B. Datta},
      number        = {1},
      pages         = {1--10},
      title         = {Stability properties of the discrete {R}iccati operator equation},

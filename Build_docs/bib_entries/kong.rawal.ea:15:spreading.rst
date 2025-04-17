@@ -15,7 +15,7 @@ kong.rawal.ea:15:spreading
      journal       = {Math. Model. Nat. Phenom.},
      mrclass       = {92D25 (45K05)},
      mrnumber      = {3414250},
-     mrreviewer    = {Ihsan\ Topaloglu},
+     mrreviewer    = {Ihsan Topaloglu},
      number        = {6},
      pages         = {113--141},
      title         = {Spreading speeds and linear determinacy for two species competition systems with nonlocal dispersal in periodic habitats},

@@ -15,7 +15,7 @@ basak.zeitouni:20:outliers
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60B20 (15A18 15B05 47A55 47B80)},
      mrnumber      = {4168388},
-     mrreviewer    = {Florent\ Benaych-Georges},
+     mrreviewer    = {Florent Benaych-Georges},
      number        = {3-4},
      pages         = {771--826},
      title         = {Outliers of random perturbations of {T}oeplitz matrices with finite symbols},

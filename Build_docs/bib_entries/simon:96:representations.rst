@@ -13,7 +13,7 @@ simon:96:representations
      isbn          = {0-8218-0453-7},
      mrclass       = {22-01 (20C05 20C15 22E15)},
      mrnumber      = {1363490},
-     mrreviewer    = {Antoni\ Wawrzy\'nczyk},
+     mrreviewer    = {Antoni Wawrzy\'nczyk},
      pages         = {xii+266},
      publisher     = {American Mathematical Society, Providence, RI},
      series        = {Graduate Studies in Mathematics},

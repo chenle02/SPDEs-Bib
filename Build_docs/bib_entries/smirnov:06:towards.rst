@@ -13,7 +13,7 @@ smirnov:06:towards
      isbn          = {978-3-03719-022-7},
      mrclass       = {82B20 (30C35 60K35 81T40 82B43)},
      mrnumber      = {2275653},
-     mrreviewer    = {Roland\ M.\ Friedrich},
+     mrreviewer    = {Roland M. Friedrich},
      pages         = {1421--1451},
      publisher     = {Eur. Math. Soc., Z\"{u}rich},
      title         = {Towards conformal invariance of 2{D} lattice models},

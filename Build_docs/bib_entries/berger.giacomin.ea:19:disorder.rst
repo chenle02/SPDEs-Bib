@@ -15,7 +15,7 @@ berger.giacomin.ea:19:disorder
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60K37 (60K35 82B27 82B44 82D60)},
      mrnumber      = {3980305},
-     mrreviewer    = {Andrew\ R.\ Wade},
+     mrreviewer    = {Andrew R. Wade},
      number        = {3-4},
      pages         = {787--819},
      title         = {Disorder and critical phenomena: the {$\alpha =0$} copolymer model},

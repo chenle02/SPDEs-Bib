@@ -15,7 +15,7 @@ deift.mclaughlin:98:continuum
      journal       = {Mem. Amer. Math. Soc.},
      mrclass       = {58F07 (35Q53)},
      mrnumber      = {1407901},
-     mrreviewer    = {Alexander\ V.\ Shapovalov},
+     mrreviewer    = {Alexander V. Shapovalov},
      number        = {624},
      pages         = {x+216},
      title         = {A continuum limit of the {T}oda lattice},

@@ -15,7 +15,7 @@ barral.fan:05:covering
      journal       = {Bull. Sci. Math.},
      mrclass       = {28A80 (28A78 60G44 60G57)},
      mrnumber      = {2134123},
-     mrreviewer    = {Ren\'e\ L.\ Schilling},
+     mrreviewer    = {Ren\'e L. Schilling},
      number        = {4},
      pages         = {275--317},
      title         = {Covering numbers of different points in {D}voretzky covering},

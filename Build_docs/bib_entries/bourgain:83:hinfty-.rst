@@ -15,7 +15,7 @@ bourgain:83:hinfty-
      journal       = {Studia Math.},
      mrclass       = {46J15 (30D55 46B20 46E15)},
      mrnumber      = {722264},
-     mrreviewer    = {S.\ V.\ Kislyakov},
+     mrreviewer    = {S. V. Kislyakov},
      number        = {2},
      pages         = {193--216},
      title         = {{$H\sp{infty }$} is a {G}rothendieck space},

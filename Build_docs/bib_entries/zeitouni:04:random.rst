@@ -14,7 +14,7 @@ zeitouni:04:random
      isbn          = {3-540-20832-1},
      mrclass       = {60K37 (60F05 60F10 60F15 60G50 82B41 82B44)},
      mrnumber      = {2071631},
-     mrreviewer    = {Utkir\ Rozikov},
+     mrreviewer    = {Utkir Rozikov},
      pages         = {189--312},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

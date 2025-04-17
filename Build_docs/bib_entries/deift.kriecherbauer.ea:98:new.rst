@@ -15,7 +15,7 @@ deift.kriecherbauer.ea:98:new
      journal       = {J. Approx. Theory},
      mrclass       = {31A99 (34A55 34L25 34M99 41A10 45E05)},
      mrnumber      = {1657691},
-     mrreviewer    = {John\ Albert},
+     mrreviewer    = {John Albert},
      number        = {3},
      pages         = {388--475},
      title         = {New results on the equilibrium measure for logarithmic potentials in the presence of an external field},

@@ -15,7 +15,7 @@ bourgain:86:real
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {46B20},
      mrnumber      = {818448},
-     mrreviewer    = {Y.\ Benyamini},
+     mrreviewer    = {Y. Benyamini},
      number        = {2},
      pages         = {221--226},
      title         = {Real isomorphic complex {B}anach spaces need not be complex isomorphic},

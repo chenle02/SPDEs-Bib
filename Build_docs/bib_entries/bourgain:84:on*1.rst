@@ -15,7 +15,7 @@ bourgain:84:on*1
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {46J15 (46B15 46E15)},
      mrnumber      = {748834},
-     mrreviewer    = {Jacques\ Mayer},
+     mrreviewer    = {Jacques Mayer},
      number        = {1},
      pages         = {133--139},
      title         = {On bases in the disc algebra},

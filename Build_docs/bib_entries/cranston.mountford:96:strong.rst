@@ -15,7 +15,7 @@ cranston.mountford:96:strong
      journal       = {Ann. Probab.},
      mrclass       = {60F15 (60H05)},
      mrnumber      = {1411496},
-     mrreviewer    = {Maria\ E.\ Vares},
+     mrreviewer    = {Maria E. Vares},
      number        = {3},
      pages         = {1300--1323},
      title         = {The strong law of large numbers for a {B}rownian polymer},

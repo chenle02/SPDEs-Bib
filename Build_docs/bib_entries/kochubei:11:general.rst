@@ -15,7 +15,7 @@ kochubei:11:general
      journal       = {Integral Equations Operator Theory},
      mrclass       = {26A33 (34A08 35R11 60G22 60K05)},
      mrnumber      = {2854867},
-     mrreviewer    = {Rudolf\ Gorenflo},
+     mrreviewer    = {Rudolf Gorenflo},
      number        = {4},
      pages         = {583--600},
      title         = {General fractional calculus, evolution equations, and renewal processes},

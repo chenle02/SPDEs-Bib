@@ -15,7 +15,7 @@ dembo.peres.ea:04:cover
      journal       = {Ann. of Math. (2)},
      mrclass       = {60J65 (60G50)},
      mrnumber      = {2123929},
-     mrreviewer    = {M.\ G.\ Shur},
+     mrreviewer    = {M. G. Shur},
      number        = {2},
      pages         = {433--464},
      title         = {Cover times for {B}rownian motion and random walks in two dimensions},

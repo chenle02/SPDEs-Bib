@@ -15,7 +15,7 @@ bourgain:14:on*5
      journal       = {Israel J. Math.},
      mrclass       = {42B25},
      mrnumber      = {3273441},
-     mrreviewer    = {Javier\ P\'{e}rez L\'{a}zaro},
+     mrreviewer    = {Javier P\'{e}rez L\'{a}zaro},
      number        = {1},
      pages         = {275--293},
      title         = {On the {H}ardy-{L}ittlewood maximal function for the cube},

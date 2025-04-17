@@ -13,7 +13,7 @@ cycon.froese.ea:87:schrodinger
      isbn          = {3-540-16758-7},
      mrclass       = {35-02 (35J10 47F05 58G40 81C10)},
      mrnumber      = {883643},
-     mrreviewer    = {M.\ Demuth},
+     mrreviewer    = {M. Demuth},
      pages         = {x+319},
      publisher     = {Springer-Verlag, Berlin},
      series        = {Texts and Monographs in Physics},

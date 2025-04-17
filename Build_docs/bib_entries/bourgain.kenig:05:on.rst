@@ -15,7 +15,7 @@ bourgain.kenig:05:on
      journal       = {Invent. Math.},
      mrclass       = {82B44 (60H25 81Q10 82B10)},
      mrnumber      = {2180453},
-     mrreviewer    = {David\ Damanik},
+     mrreviewer    = {David Damanik},
      number        = {2},
      pages         = {389--426},
      title         = {On localization in the continuous {A}nderson-{B}ernoulli model in higher dimension},

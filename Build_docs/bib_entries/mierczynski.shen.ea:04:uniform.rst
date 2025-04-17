@@ -15,7 +15,7 @@ mierczynski.shen.ea:04:uniform
      journal       = {J. Differential Equations},
      mrclass       = {37L30 (35B41 37B55 37H15 37L55 92D25)},
      mrnumber      = {2085544},
-     mrreviewer    = {Antonio\ Su\'{a}rez Fern\'{a}ndez},
+     mrreviewer    = {Antonio Su\'{a}rez Fern\'{a}ndez},
      number        = {2},
      pages         = {471--510},
      title         = {Uniform persistence for nonautonomous and random parabolic {K}olmogorov systems},

@@ -15,7 +15,7 @@ cranston:92:probabilistic
      journal       = {Canad. Math. Bull.},
      mrclass       = {35B45 (60J60 60J65)},
      mrnumber      = {1157463},
-     mrreviewer    = {L.\ C. G. Rogers},
+     mrreviewer    = {L. C. G. Rogers},
      number        = {1},
      pages         = {46--55},
      title         = {A probabilistic approach to gradient estimates},

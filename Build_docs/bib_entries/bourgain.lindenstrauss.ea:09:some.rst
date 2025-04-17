@@ -15,7 +15,7 @@ bourgain.lindenstrauss.ea:09:some
      journal       = {Ergodic Theory Dynam. Systems},
      mrclass       = {37A45 (11K06 28D20 37A35)},
      mrnumber      = {2563089},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {6},
      pages         = {1705--1722},
      title         = {Some effective results for {$\times a\times b$}},

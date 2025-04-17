@@ -14,7 +14,7 @@ dembo.zeitouni:96:large*1
      isbn          = {0-387-94623-3},
      mrclass       = {60F10 (60C05)},
      mrnumber      = {1395607},
-     mrreviewer    = {David\ J.\ Aldous},
+     mrreviewer    = {David J. Aldous},
      pages         = {45--53},
      publisher     = {Springer, New York},
      series        = {IMA Vol. Math. Appl.},

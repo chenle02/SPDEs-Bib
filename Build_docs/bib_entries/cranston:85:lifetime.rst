@@ -15,7 +15,7 @@ cranston:85:lifetime
      journal       = {Z. Wahrsch. Verw. Gebiete},
      mrclass       = {60J65 (31B05)},
      mrnumber      = {803674},
-     mrreviewer    = {L.\ C. G. Rogers},
+     mrreviewer    = {L. C. G. Rogers},
      number        = {3},
      pages         = {335--340},
      title         = {Lifetime of conditioned {B}rownian motion in {L}ipschitz domains},

@@ -15,7 +15,7 @@ maslowski.seidler:01:strong
      journal       = {Studia Math.},
      mrclass       = {60H15 (60J35)},
      mrnumber      = {1881256},
-     mrreviewer    = {Isabel\ Sim\~{a}o},
+     mrreviewer    = {Isabel Sim\~{a}o},
      number        = {2},
      pages         = {111--129},
      title         = {Strong {F}eller solutions to {SPDE}'s are strong {F}eller in the weak topology},

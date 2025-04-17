@@ -15,7 +15,7 @@ bourgain:87:on*1
      journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
      mrclass       = {28D05 (11L15 11L40 82A99)},
      mrnumber      = {916338},
-     mrreviewer    = {F.\ Schweiger},
+     mrreviewer    = {F. Schweiger},
      number        = {10},
      pages         = {397--402},
      title         = {On pointwise ergodic theorems for arithmetic sets},

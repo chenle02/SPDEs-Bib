@@ -14,7 +14,7 @@ seidler.vrkoc:97:generalized
      journal       = {Dynam. Systems Appl.},
      mrclass       = {60G40 (26D10)},
      mrnumber      = {1434620},
-     mrreviewer    = {B.\ G.\ Pachpatte},
+     mrreviewer    = {B. G. Pachpatte},
      number        = {1},
      pages         = {101--105},
      title         = {The generalized {G}ronwall lemma fails under random stopping},

@@ -14,7 +14,7 @@ bourgain:89:on*2
      isbn          = {3-540-51303-5},
      mrclass       = {42C20},
      mrnumber      = {1008725},
-     mrreviewer    = {F.\ M\'{o}ricz},
+     mrreviewer    = {F. M\'{o}ricz},
      pages         = {209--250},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

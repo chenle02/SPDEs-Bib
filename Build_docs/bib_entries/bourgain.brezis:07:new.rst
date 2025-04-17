@@ -15,7 +15,7 @@ bourgain.brezis:07:new
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {35J05 (35B45 58A10)},
      mrnumber      = {2293957},
-     mrreviewer    = {Vicen\c{t}iu\ D.\ Ru{a}dulescu},
+     mrreviewer    = {Vicen\c{t}iu D. Ru{a}dulescu},
      number        = {2},
      pages         = {277--315},
      title         = {New estimates for elliptic equations and {H}odge type systems},

@@ -13,7 +13,7 @@ atar.viens.ea:99:robustness
      isbn          = {0-8176-4078-9},
      mrclass       = {93E11 (60G35)},
      mrnumber      = {1702969},
-     mrreviewer    = {Fred\ Espen\ Benth},
+     mrreviewer    = {Fred Espen Benth},
      pages         = {339--352},
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Systems Control Found. Appl.},

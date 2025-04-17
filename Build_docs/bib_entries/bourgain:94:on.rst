@@ -15,7 +15,7 @@ bourgain:94:on
      journal       = {Duke Math. J.},
      mrclass       = {35Q55 (58F11 58F39 82B05)},
      mrnumber      = {1301190},
-     mrreviewer    = {Tohru\ Ozawa},
+     mrreviewer    = {Tohru Ozawa},
      number        = {1},
      pages         = {175--202},
      title         = {On the {C}auchy and invariant measure problem for the periodic {Z}akharov system},

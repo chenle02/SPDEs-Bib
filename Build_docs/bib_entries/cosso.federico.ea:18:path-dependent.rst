@@ -15,7 +15,7 @@ cosso.federico.ea:18:path-dependent
      journal       = {Ann. Probab.},
      mrclass       = {35R60 (35B30 35D40 60H15 60H30)},
      mrnumber      = {3758728},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {1},
      pages         = {126--174},
      title         = {Path-dependent equations and viscosity solutions in infinite dimension},

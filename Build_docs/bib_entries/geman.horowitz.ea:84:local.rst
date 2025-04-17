@@ -14,7 +14,7 @@ geman.horowitz.ea:84:local
      journal       = {Ann. Probab.},
      mrclass       = {60G15 (60G17 60G60 60J65)},
      mrnumber      = {723731},
-     mrreviewer    = {Robert\ J.\ Adler},
+     mrreviewer    = {Robert J. Adler},
      number        = {1},
      pages         = {86--107},
      title         = {A local time analysis of intersections of {B}rownian paths in the plane},

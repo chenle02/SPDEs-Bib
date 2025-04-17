@@ -14,7 +14,7 @@ cranston.le-jan:89:simultaneous
      isbn          = {3-540-51191-1},
      mrclass       = {60J65},
      mrnumber      = {1022913},
-     mrreviewer    = {Terry\ R.\ McConnell},
+     mrreviewer    = {Terry R. McConnell},
      pages         = {234--238},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

@@ -15,7 +15,7 @@ bourgain:02:on*3
      journal       = {Proc. Natl. Acad. Sci. USA},
      mrclass       = {35Q55 (35G25)},
      mrnumber      = {1946761},
-     mrreviewer    = {Victor\ V.\ Zharinov},
+     mrreviewer    = {Victor V. Zharinov},
      number        = {24},
      pages         = {15262--15268},
      title         = {On the global {C}auchy problem for the nonlinear {S}chr\"{o}dinger equation},

@@ -15,7 +15,7 @@ duchon.robert.ea:12:forecasting
      journal       = {Math. Finance},
      mrclass       = {60G25 (60G22 60G57 60H40 62M20 91G80)},
      mrnumber      = {2881881},
-     mrreviewer    = {Nicolas\ Privault},
+     mrreviewer    = {Nicolas Privault},
      number        = {1},
      pages         = {83--108},
      title         = {Forecasting volatility with the multifractal random walk model},

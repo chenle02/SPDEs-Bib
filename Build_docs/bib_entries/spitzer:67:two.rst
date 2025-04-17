@@ -12,7 +12,7 @@ spitzer:67:two
      booktitle     = {Symposium on {P}robability {M}ethods in {A}nalysis ({L}outraki, 1966)},
      mrclass       = {60.65},
      mrnumber      = {224165},
-     mrreviewer    = {J.\ L.\ Snell},
+     mrreviewer    = {J. L. Snell},
      pages         = {296--298},
      publisher     = {Springer, Berlin-New York},
      series        = {Lecture Notes in Math.},

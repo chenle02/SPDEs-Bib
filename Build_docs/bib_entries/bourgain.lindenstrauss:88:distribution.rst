@@ -15,7 +15,7 @@ bourgain.lindenstrauss:88:distribution
      journal       = {Israel J. Math.},
      mrclass       = {46B20 (52A25 52A45)},
      mrnumber      = {981745},
-     mrreviewer    = {T.\ Figiel},
+     mrreviewer    = {T. Figiel},
      number        = {1},
      pages         = {25--31},
      title         = {Distribution of points on spheres and approximation by zonotopes},

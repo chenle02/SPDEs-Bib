@@ -15,7 +15,7 @@ dembo.mayer-wolf.ea:95:exact
      journal       = {Statist. Probab. Lett.},
      mrclass       = {60G15 (60F10)},
      mrnumber      = {1340163},
-     mrreviewer    = {Vadim\ R.\ Fatalov},
+     mrreviewer    = {Vadim R. Fatalov},
      number        = {3},
      pages         = {275--280},
      title         = {Exact behavior of {G}aussian seminorms},

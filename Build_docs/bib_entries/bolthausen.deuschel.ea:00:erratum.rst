@@ -15,7 +15,7 @@ bolthausen.deuschel.ea:00:erratum
      journal       = {Comm. Math. Phys.},
      mrclass       = {82B20 (60F15 60G15 81T25)},
      mrnumber      = {1737994},
-     mrreviewer    = {Aernout\ C. D. van Enter},
+     mrreviewer    = {Aernout C. D. van Enter},
      number        = {2},
      pages         = {547--548},
      title         = {Erratum: ``{E}ntropic repulsion of the lattice free field'' [{C}omm. {M}ath. {P}hys. {\bf 170} (1995), no. 2, 417--443; {MR}1334403 (96g:82012)]},

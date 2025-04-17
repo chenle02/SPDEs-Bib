@@ -14,7 +14,7 @@ smirnov.khavin:98:approximation
      journal       = {Algebra i Analiz},
      mrclass       = {41A65 (49Q15 58A10)},
      mrnumber      = {1628034},
-     mrreviewer    = {Andrew\ Bucki},
+     mrreviewer    = {Andrew Bucki},
      number        = {3},
      pages         = {133--162},
      title         = {Approximation and extension problems for some classes of vector fields},

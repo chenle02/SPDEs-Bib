@@ -15,7 +15,7 @@ stroock.varadhan:69:diffusion*1
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60.62},
      mrnumber      = {254923},
-     mrreviewer    = {H.\ P.\ McKean, Jr.},
+     mrreviewer    = {H. P. McKean, Jr.},
      pages         = {479--530},
      title         = {Diffusion processes with continuous coefficients. {II}},
      url           = {https://doi.org/10.1002/cpa.3160220404},

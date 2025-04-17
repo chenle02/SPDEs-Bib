@@ -15,7 +15,7 @@ bourgain:97:on*2
      journal       = {Math. Res. Lett.},
      mrclass       = {58F27 (34C27 58F05 70H15)},
      mrnumber      = {1470416},
-     mrreviewer    = {C.\ Eugene\ Wayne},
+     mrreviewer    = {C. Eugene Wayne},
      number        = {4},
      pages         = {445--458},
      title         = {On {M}elnikov's persistency problem},

@@ -15,7 +15,7 @@ bourgain:13:on*1
      journal       = {J. Anal. Math.},
      mrclass       = {37A30 (11L20 11N37)},
      mrnumber      = {3095150},
-     mrreviewer    = {Giulio\ Tiozzo},
+     mrreviewer    = {Giulio Tiozzo},
      pages         = {105--130},
      title         = {On the correlation of the {M}oebius function with rank-one systems},
      url           = {https://doi.org/10.1007/s11854-013-0016-z},

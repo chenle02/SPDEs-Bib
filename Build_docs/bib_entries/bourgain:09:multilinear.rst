@@ -15,7 +15,7 @@ bourgain:09:multilinear
      journal       = {Geom. Funct. Anal.},
      mrclass       = {11L07 (11B30 11L05 11T23)},
      mrnumber      = {2481734},
-     mrreviewer    = {Antonio\ Rojas Le\'{o}n},
+     mrreviewer    = {Antonio Rojas Le\'{o}n},
      number        = {5},
      pages         = {1477--1502},
      title         = {Multilinear exponential sums in prime fields under optimal entropy condition on the sources},

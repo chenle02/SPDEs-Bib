@@ -13,7 +13,7 @@ stroock.zeitouni:91:microcanonical
      isbn          = {0-8176-3509-2},
      mrclass       = {82B03 (60F10 60F17 82B05)},
      mrnumber      = {1146461},
-     mrreviewer    = {Christian\ Maes},
+     mrreviewer    = {Christian Maes},
      pages         = {399--424},
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Progr. Probab.},

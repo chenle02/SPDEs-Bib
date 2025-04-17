@@ -15,7 +15,7 @@ comets.zeitouni:04:law
      journal       = {Ann. Probab.},
      mrclass       = {60K40 (60F15 60K37 82B41 82B44 82D30)},
      mrnumber      = {2039946},
-     mrreviewer    = {Fabio\ P.\ Machado},
+     mrreviewer    = {Fabio P. Machado},
      number        = {1B},
      pages         = {880--914},
      title         = {A law of large numbers for random walks in random mixing environments},

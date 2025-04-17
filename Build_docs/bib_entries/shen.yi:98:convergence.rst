@@ -15,7 +15,7 @@ shen.yi:98:convergence
      journal       = {J. Math. Biol.},
      mrclass       = {92D25 (35K57 35Q80 92D40)},
      mrnumber      = {1636648},
-     mrreviewer    = {Ying\ Guo\ Lei},
+     mrreviewer    = {Ying Guo Lei},
      number        = {1},
      pages         = {84--102},
      title         = {Convergence in almost periodic {F}isher and {K}olmogorov models},

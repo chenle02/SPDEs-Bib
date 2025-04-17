@@ -14,7 +14,7 @@ bourgain:83:on
      journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
      mrclass       = {46E15 (46J15)},
      mrnumber      = {712065},
-     mrreviewer    = {S.\ V.\ Kislyakov},
+     mrreviewer    = {S. V. Kislyakov},
      number        = {1},
      pages         = {111--118},
      title         = {On weak completeness of the dual of spaces of analytic and smooth functions},

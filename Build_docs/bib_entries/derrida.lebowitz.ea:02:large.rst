@@ -15,7 +15,7 @@ derrida.lebowitz.ea:02:large
      journal       = {J. Statist. Phys.},
      mrclass       = {82C22 (60F10 60K35)},
      mrnumber      = {1898851},
-     mrreviewer    = {Ellen\ Saada},
+     mrreviewer    = {Ellen Saada},
      number        = {3-4},
      pages         = {599--634},
      title         = {Large deviation of the density profile in the steady state of the open symmetric simple exclusion process},

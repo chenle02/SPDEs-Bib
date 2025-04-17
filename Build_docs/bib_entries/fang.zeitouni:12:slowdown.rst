@@ -15,7 +15,7 @@ fang.zeitouni:12:slowdown
      journal       = {J. Stat. Phys.},
      mrclass       = {60J65 (60F10 60J80)},
      mrnumber      = {2981635},
-     mrreviewer    = {Xiaowen\ Zhou},
+     mrreviewer    = {Xiaowen Zhou},
      number        = {1},
      pages         = {1--9},
      title         = {Slowdown for time inhomogeneous branching {B}rownian motion},

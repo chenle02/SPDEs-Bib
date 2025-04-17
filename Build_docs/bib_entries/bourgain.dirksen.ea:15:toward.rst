@@ -15,7 +15,7 @@ bourgain.dirksen.ea:15:toward
      journal       = {Geom. Funct. Anal.},
      mrclass       = {62H30 (60E15 62J07 65J05 94A12)},
      mrnumber      = {3385629},
-     mrreviewer    = {Santiago\ Velilla},
+     mrreviewer    = {Santiago Velilla},
      number        = {4},
      pages         = {1009--1088},
      title         = {Toward a unified theory of sparse dimensionality reduction in {E}uclidean space},

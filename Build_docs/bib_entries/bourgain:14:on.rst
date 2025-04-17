@@ -15,7 +15,7 @@ bourgain:14:on
      journal       = {Israel J. Math.},
      mrclass       = {60G15 (35J05 35P20)},
      mrnumber      = {3265298},
-     mrreviewer    = {Isamu\ D\^{o}ku},
+     mrreviewer    = {Isamu D\^{o}ku},
      number        = {2},
      pages         = {611--630},
      title         = {On toral eigenfunctions and the random wave model},

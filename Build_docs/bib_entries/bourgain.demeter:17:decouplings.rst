@@ -15,7 +15,7 @@ bourgain.demeter:17:decouplings
      journal       = {J. Anal. Math.},
      mrclass       = {11E76},
      mrnumber      = {3736493},
-     mrreviewer    = {Rainer\ Dietmann},
+     mrreviewer    = {Rainer Dietmann},
      pages         = {279--311},
      title         = {Decouplings for curves and hypersurfaces with nonzero {G}aussian curvature},
      url           = {https://doi.org/10.1007/s11854-017-0034-3},

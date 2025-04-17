@@ -15,7 +15,7 @@ barral.qu:12:localized
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {37D35 (28A80 31A15 37A25)},
      mrnumber      = {2851877},
-     mrreviewer    = {Pei\ Dong\ Liu},
+     mrreviewer    = {Pei Dong Liu},
      number        = {3},
      pages         = {717--751},
      title         = {Localized asymptotic behavior for almost additive potentials},

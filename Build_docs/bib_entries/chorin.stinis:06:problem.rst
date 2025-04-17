@@ -15,7 +15,7 @@ chorin.stinis:06:problem
      journal       = {Commun. Appl. Math. Comput. Sci.},
      mrclass       = {82C80 (65C05 70H05 76F30 82-02 82C05 82C28)},
      mrnumber      = {2244266},
-     mrreviewer    = {Mikhail\ V.\ Tretyakov},
+     mrreviewer    = {Mikhail V. Tretyakov},
      pages         = {1--27},
      title         = {Problem reduction, renormalization, and memory},
      url           = {https://doi.org/10.2140/camcos.2006.1.1},

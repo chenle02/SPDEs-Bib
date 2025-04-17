@@ -15,7 +15,7 @@ cranston.mountford:91:extension
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60J15 (60J65)},
      mrnumber      = {1118560},
-     mrreviewer    = {Gregory\ F.\ Lawler},
+     mrreviewer    = {Gregory F. Lawler},
      number        = {4},
      pages         = {487--502},
      title         = {An extension of a result of {B}urdzy and {L}awler},

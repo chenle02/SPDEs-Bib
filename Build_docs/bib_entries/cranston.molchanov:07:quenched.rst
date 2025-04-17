@@ -15,7 +15,7 @@ cranston.molchanov:07:quenched
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60F05 (60E07 60F10 60G70)},
      mrnumber      = {2288068},
-     mrreviewer    = {Wolfgang\ K\"{o}nig},
+     mrreviewer    = {Wolfgang K\"{o}nig},
      number        = {1-2},
      pages         = {177--193},
      title         = {Quenched to annealed transition in the parabolic {A}nderson problem},

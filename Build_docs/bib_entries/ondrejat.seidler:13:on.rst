@@ -15,7 +15,7 @@ ondrejat.seidler:13:on
      journal       = {Electron. Commun. Probab.},
      mrclass       = {60G07},
      mrnumber      = {3037218},
-     mrreviewer    = {Zhenxia\ Liu},
+     mrreviewer    = {Zhenxia Liu},
      pages         = {no. 20, 6},
      title         = {On existence of progressively measurable modifications},
      url           = {https://doi.org/10.1214/ECP.v18-2548},

@@ -15,7 +15,7 @@ shen:96:lifted
      journal       = {SIAM J. Appl. Math.},
      mrclass       = {58F39 (58F13 58F15 82C05)},
      mrnumber      = {1409125},
-     mrreviewer    = {Volker\ Matthias\ Gundlach},
+     mrreviewer    = {Volker Matthias Gundlach},
      number        = {5},
      pages         = {1379--1399},
      title         = {Lifted lattices, hyperbolic structures, and topological disorders in coupled map lattices},

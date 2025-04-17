@@ -13,7 +13,7 @@ varadhan:03:large
      isbn          = {0-691-11338-6},
      mrclass       = {60F10 (94A17)},
      mrnumber      = {2035822},
-     mrreviewer    = {Rita\ Giuliano Antonini},
+     mrreviewer    = {Rita Giuliano Antonini},
      pages         = {199--214},
      publisher     = {Princeton Univ. Press, Princeton, NJ},
      series        = {Princeton Ser. Appl. Math.},

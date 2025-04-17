@@ -15,7 +15,7 @@ busnello.flandoli.ea:05:probabilistic
      journal       = {Proc. Edinb. Math. Soc. (2)},
      mrclass       = {35Q30 (35R60 60H10 60H30 60J45 76D05 76M35)},
      mrnumber      = {2157249},
-     mrreviewer    = {Azzouz\ Dermoune},
+     mrreviewer    = {Azzouz Dermoune},
      number        = {2},
      pages         = {295--336},
      title         = {A probabilistic representation for the vorticity of a three-dimensional viscous fluid and for general systems of parabolic equations},

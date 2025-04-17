@@ -15,7 +15,7 @@ bourgain:88:on*2
      journal       = {Israel J. Math.},
      mrclass       = {28D05},
      mrnumber      = {937581},
-     mrreviewer    = {Alberto\ de la Torre},
+     mrreviewer    = {Alberto de la Torre},
      number        = {1},
      pages         = {39--72},
      title         = {On the maximal ergodic theorem for certain subsets of the integers},

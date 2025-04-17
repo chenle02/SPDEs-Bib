@@ -15,7 +15,7 @@ bourgain:99:on*2
      journal       = {Geom. Funct. Anal.},
      mrclass       = {42B25 (11B75)},
      mrnumber      = {1692486},
-     mrreviewer    = {Andreas\ Seeger},
+     mrreviewer    = {Andreas Seeger},
      number        = {2},
      pages         = {256--282},
      title         = {On the dimension of {K}akeya sets and related maximal inequalities},

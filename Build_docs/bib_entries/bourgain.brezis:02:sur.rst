@@ -14,7 +14,7 @@ bourgain.brezis:02:sur
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {35F05 (35B45)},
      mrnumber      = {1913720},
-     mrreviewer    = {Alexander\ A.\ Pankov},
+     mrreviewer    = {Alexander A. Pankov},
      number        = {11},
      pages         = {973--976},
      title         = {Sur l'\'{e}quation {${\rm div}\,u=f$}},

@@ -15,7 +15,7 @@ dembo.lubetzky.ea:21:universality
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60K35 (60F10 60H10 82C31 82C44)},
      mrnumber      = {4350976},
-     mrreviewer    = {Irene\ Crimaldi},
+     mrreviewer    = {Irene Crimaldi},
      number        = {6},
      pages         = {2864--2880},
      title         = {Universality for {L}angevin-like spin glass dynamics},

@@ -15,7 +15,7 @@ avron.seiler.ea:94:index
      journal       = {J. Funct. Anal.},
      mrclass       = {47A53 (46L10 47B10)},
      mrnumber      = {1262254},
-     mrreviewer    = {H.\ Halpern},
+     mrreviewer    = {H. Halpern},
      number        = {1},
      pages         = {220--237},
      title         = {The index of a pair of projections},

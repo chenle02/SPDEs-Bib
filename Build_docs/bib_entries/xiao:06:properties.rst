@@ -14,7 +14,7 @@ xiao:06:properties
      journal       = {Ann. Fac. Sci. Toulouse Math. (6)},
      mrclass       = {60G60 (60G17)},
      mrnumber      = {2225751},
-     mrreviewer    = {Randall\ James\ Swift},
+     mrreviewer    = {Randall James Swift},
      number        = {1},
      pages         = {157--193},
      title         = {Properties of local-nondeterminism of {G}aussian and stable random fields and their applications},

@@ -15,7 +15,7 @@ bourgain.bulut:14:almost*1
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {35Q55 (35B30 37K05 37L50 82B10)},
      mrnumber      = {3226743},
-     mrreviewer    = {Thierry\ Cazenave},
+     mrreviewer    = {Thierry Cazenave},
      number        = {6},
      pages         = {1289--1325},
      title         = {Almost sure global well-posedness for the radial nonlinear {S}chr\"{o}dinger equation on the unit ball {II}: the 3d case},

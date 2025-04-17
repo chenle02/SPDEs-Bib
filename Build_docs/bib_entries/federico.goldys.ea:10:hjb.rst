@@ -15,7 +15,7 @@ federico.goldys.ea:10:hjb
      journal       = {SIAM J. Control Optim.},
      mrclass       = {49L20 (34K35 35F21 49L25 93B52)},
      mrnumber      = {2735510},
-     mrreviewer    = {Marino\ Belloni},
+     mrreviewer    = {Marino Belloni},
      number        = {8},
      pages         = {4910--4937},
      title         = {H{JB} equations for the optimal control of differential equations with delays and state constraints, {I}: regularity of viscosity solutions},

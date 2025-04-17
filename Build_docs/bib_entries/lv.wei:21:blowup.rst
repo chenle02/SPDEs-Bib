@@ -15,7 +15,7 @@ lv.wei:21:blowup
      journal       = {Appl. Math. Lett.},
      mrclass       = {35R60 (60H15)},
      mrnumber      = {4280778},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      pages         = {Paper No. 107475, 5},
      title         = {Blowup of parabolic equations with additive noise},
      url           = {https://doi.org/10.1016/j.aml.2021.107475},

@@ -15,7 +15,7 @@ bourgain:96:construction
      journal       = {Geom. Funct. Anal.},
      mrclass       = {35B15 (35A35 35L70 35Q55)},
      mrnumber      = {1384610},
-     mrreviewer    = {R.\ G.\ Airapetyan},
+     mrreviewer    = {R. G. Airapetyan},
      number        = {2},
      pages         = {201--230},
      title         = {Construction of approximative and almost periodic solutions of perturbed linear {S}chr\"{o}dinger and wave equations},

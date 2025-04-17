@@ -15,7 +15,7 @@ chong.kluppelberg:15:integrability
      journal       = {Bernoulli},
      mrclass       = {60H05 (60G57 60H15 62M10)},
      mrnumber      = {3378464},
-     mrreviewer    = {Vadym\ M.\ Radchenko},
+     mrreviewer    = {Vadym M. Radchenko},
      number        = {4},
      pages         = {2190--2216},
      title         = {Integrability conditions for space-time stochastic integrals: theory and applications},

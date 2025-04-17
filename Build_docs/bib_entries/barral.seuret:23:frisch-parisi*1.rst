@@ -15,7 +15,7 @@ barral.seuret:23:frisch-parisi*1
      journal       = {J. Math. Pures Appl. (9)},
      mrclass       = {28A78 (28A80 30H40 42C40 46A04)},
      mrnumber      = {4598929},
-     mrreviewer    = {Esa\ J\"arvenp\"a\"a},
+     mrreviewer    = {Esa J\"arvenp\"a\"a},
      pages         = {76--108},
      title         = {The {F}risch-{P}arisi conjecture {I}: {P}rescribed multifractal behavior, and a partial solution},
      url           = {https://doi.org/10.1016/j.matpur.2023.05.003},

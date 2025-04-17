@@ -15,7 +15,7 @@ flandoli:87:algebraic
      journal       = {SIAM J. Control Optim.},
      mrclass       = {49A27 (49A22 93E20)},
      mrnumber      = {885189},
-     mrreviewer    = {V.\ Popescu},
+     mrreviewer    = {V. Popescu},
      number        = {3},
      pages         = {612--636},
      title         = {Algebraic {R}iccati equation arising in boundary control problems},

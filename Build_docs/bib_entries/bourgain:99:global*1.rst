@@ -15,7 +15,7 @@ bourgain:99:global*1
      journal       = {J. Amer. Math. Soc.},
      mrclass       = {35Q55},
      mrnumber      = {1626257},
-     mrreviewer    = {Tohru\ Ozawa},
+     mrreviewer    = {Tohru Ozawa},
      number        = {1},
      pages         = {145--171},
      title         = {Global wellposedness of defocusing critical nonlinear {S}chr\"{o}dinger equation in the radial case},

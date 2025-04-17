@@ -14,7 +14,7 @@ bourgain.mirek.ea:20:on
      isbn          = {978-3-030-36020-7; 978-3-030-36019-1},
      mrclass       = {42B25},
      mrnumber      = {4175747},
-     mrreviewer    = {Wilfredo\ O.\ Urbina},
+     mrreviewer    = {Wilfredo O. Urbina},
      pages         = {127--169},
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},

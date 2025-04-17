@@ -15,7 +15,7 @@ bourgain.brezis:03:on
      journal       = {J. Amer. Math. Soc.},
      mrclass       = {35F05 (35B10 35F15 42B05 47N20)},
      mrnumber      = {1949165},
-     mrreviewer    = {Florin\ Iacob},
+     mrreviewer    = {Florin Iacob},
      number        = {2},
      pages         = {393--426},
      title         = {On the equation {${\rm div}\, Y=f$} and application to control of phases},

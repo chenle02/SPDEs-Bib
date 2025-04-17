@@ -13,7 +13,7 @@ bourgain:97:quasi-periodic
      isbn          = {0-8247-9801-5},
      mrclass       = {58F27 (34C27 34G20 35Bxx 35Q58)},
      mrnumber      = {1440412},
-     mrreviewer    = {Spyridon\ Kamvissis},
+     mrreviewer    = {Spyridon Kamvissis},
      pages         = {17--38},
      publisher     = {Dekker, New York},
      series        = {Lecture Notes in Pure and Appl. Math.},

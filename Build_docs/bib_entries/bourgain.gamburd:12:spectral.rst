@@ -15,7 +15,7 @@ bourgain.gamburd:12:spectral
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {22E30 (11B30)},
      mrnumber      = {2966656},
-     mrreviewer    = {B.\ Sury},
+     mrreviewer    = {B. Sury},
      number        = {5},
      pages         = {1455--1511},
      title         = {A spectral gap theorem in {${\rm SU}(d)$}},

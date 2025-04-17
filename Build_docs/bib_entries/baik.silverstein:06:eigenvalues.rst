@@ -15,7 +15,7 @@ baik.silverstein:06:eigenvalues
      journal       = {J. Multivariate Anal.},
      mrclass       = {60F15 (15A18 62H99)},
      mrnumber      = {2279680},
-     mrreviewer    = {Florent\ Benaych-Georges},
+     mrreviewer    = {Florent Benaych-Georges},
      number        = {6},
      pages         = {1382--1408},
      title         = {Eigenvalues of large sample covariance matrices of spiked population models},

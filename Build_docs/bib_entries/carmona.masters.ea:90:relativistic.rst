@@ -15,7 +15,7 @@ carmona.masters.ea:90:relativistic
      journal       = {J. Funct. Anal.},
      mrclass       = {35P20 (35J10 35Q75 47F05 47N50 81S40)},
      mrnumber      = {1054115},
-     mrreviewer    = {Hideo\ Tamura},
+     mrreviewer    = {Hideo Tamura},
      number        = {1},
      pages         = {117--142},
      title         = {Relativistic {S}chr\"odinger operators: asymptotic behavior of the eigenfunctions},

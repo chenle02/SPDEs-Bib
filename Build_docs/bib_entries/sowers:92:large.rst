@@ -15,7 +15,7 @@ sowers:92:large
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60F10},
      mrnumber      = {1165518},
-     mrreviewer    = {Jerzy\ Zabczyk},
+     mrreviewer    = {Jerzy Zabczyk},
      number        = {3},
      pages         = {393--421},
      title         = {Large deviations for the invariant measure of a reaction-diffusion equation with non-{G}aussian perturbations},

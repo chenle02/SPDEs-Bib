@@ -14,7 +14,7 @@ marcus.rosen:92:sample
      journal       = {Ann. Probab.},
      mrclass       = {60G15 (60J25 60J55)},
      mrnumber      = {1188037},
-     mrreviewer    = {Robert\ J.\ Adler},
+     mrreviewer    = {Robert J. Adler},
      number        = {4},
      pages         = {1603--1684},
      title         = {Sample path properties of the local times of strongly symmetric {M}arkov processes via {G}aussian processes},

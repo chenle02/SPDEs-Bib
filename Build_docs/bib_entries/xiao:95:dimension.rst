@@ -14,7 +14,7 @@ xiao:95:dimension
      journal       = {Ann. Probab.},
      mrclass       = {60G17 (60G60)},
      mrnumber      = {1330771},
-     mrreviewer    = {John\ P.\ Nolan},
+     mrreviewer    = {John P. Nolan},
      number        = {1},
      pages         = {273--291},
      title         = {Dimension results for {G}aussian vector fields and index-{$\alpha$} stable fields},

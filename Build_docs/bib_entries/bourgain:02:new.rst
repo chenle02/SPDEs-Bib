@@ -14,7 +14,7 @@ bourgain:02:new
      isbn          = {0-8218-2900-9},
      mrclass       = {81Q10 (35P05 39A70 47B39 47N50 81-02 82B44)},
      mrnumber      = {1946014},
-     mrreviewer    = {Fran\c{c}ois\ Germinet},
+     mrreviewer    = {Fran\c{c}ois Germinet},
      pages         = {27--38},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

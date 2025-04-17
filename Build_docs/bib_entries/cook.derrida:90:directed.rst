@@ -14,7 +14,7 @@ cook.derrida:90:directed
      journal       = {J. Phys. A},
      mrclass       = {82B41 (82B43 82D60)},
      mrnumber      = {1048783},
-     mrreviewer    = {Preben\ Alstr\o m},
+     mrreviewer    = {Preben Alstr\o m},
      number        = {9},
      pages         = {1523--1554},
      title         = {Directed polymers in a random medium: {$1/d$} expansion and the {\$n\$}-tree approximation},

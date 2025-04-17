@@ -15,7 +15,7 @@ bourgain.glibichuk.ea:06:estimates
      journal       = {J. London Math. Soc. (2)},
      mrclass       = {11L07 (11B75 11L05 11T23)},
      mrnumber      = {2225493},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {2},
      pages         = {380--398},
      title         = {Estimates for the number of sums and products and for exponential sums in fields of prime order},

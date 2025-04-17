@@ -15,7 +15,7 @@ bourgain.demeter:16:mean
      journal       = {J. Lond. Math. Soc. (2)},
      mrclass       = {11L07 (42A45)},
      mrnumber      = {3614930},
-     mrreviewer    = {Timothy\ D.\ Browning},
+     mrreviewer    = {Timothy D. Browning},
      number        = {3},
      pages         = {814--838},
      title         = {Mean value estimates for {W}eyl sums in two dimensions},

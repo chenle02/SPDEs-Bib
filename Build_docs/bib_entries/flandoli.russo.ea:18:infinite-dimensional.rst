@@ -15,7 +15,7 @@ flandoli.russo.ea:18:infinite-dimensional
      journal       = {J. Theoret. Probab.},
      mrclass       = {60H05 (60H15 60H30)},
      mrnumber      = {3803915},
-     mrreviewer    = {Martin\ Ondrej\'{a}t},
+     mrreviewer    = {Martin Ondrej\'{a}t},
      number        = {2},
      pages         = {789--826},
      title         = {Infinite-dimensional calculus under weak spatial regularity of the processes},

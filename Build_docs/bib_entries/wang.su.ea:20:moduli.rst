@@ -15,7 +15,7 @@ wang.su.ea:20:moduli
      journal       = {Bernoulli},
      mrclass       = {60G15 (60G17 60G22 60G60)},
      mrnumber      = {4058372},
-     mrreviewer    = {Anatoliy\ Malyarenko},
+     mrreviewer    = {Anatoliy Malyarenko},
      number        = {2},
      pages         = {1410--1430},
      title         = {The moduli of non-differentiability for {G}aussian random fields with stationary increments},

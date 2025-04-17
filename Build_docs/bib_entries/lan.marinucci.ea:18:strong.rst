@@ -15,7 +15,7 @@ lan.marinucci.ea:18:strong
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60G60 (42C40 60G15 60G17)},
      mrnumber      = {3769662},
-     mrreviewer    = {David\ Ginsbourger},
+     mrreviewer    = {David Ginsbourger},
      number        = {4},
      pages         = {1294--1315},
      title         = {Strong local nondeterminism and exact modulus of continuity for spherical {G}aussian fields},

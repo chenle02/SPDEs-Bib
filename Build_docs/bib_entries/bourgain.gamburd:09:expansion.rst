@@ -15,7 +15,7 @@ bourgain.gamburd:09:expansion
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {60B15 (05C25 20G40 60G50)},
      mrnumber      = {2538500},
-     mrreviewer    = {Wolfgang\ Woess},
+     mrreviewer    = {Wolfgang Woess},
      note          = {With an appendix by Bourgain},
      number        = {5},
      pages         = {1057--1103},

@@ -15,7 +15,7 @@ lacoin:10:martingale
      journal       = {Electron. Commun. Probab.},
      mrclass       = {60K37 (60G42 60K05 82B44)},
      mrnumber      = {2726088},
-     mrreviewer    = {David\ A.\ Croydon},
+     mrreviewer    = {David A. Croydon},
      pages         = {418--427},
      title         = {The martingale approach to disorder irrelevance for pinning models},
      url           = {https://doi.org/10.1214/ECP.v15-1572},

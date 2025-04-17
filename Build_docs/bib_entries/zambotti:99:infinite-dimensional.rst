@@ -15,7 +15,7 @@ zambotti:99:infinite-dimensional
      journal       = {Stochastic Anal. Appl.},
      mrclass       = {35R15 (35J15 35R60 60H15)},
      mrnumber      = {1686963},
-     mrreviewer    = {Stanis\l aw\ W\polhk{e}drychowicz},
+     mrreviewer    = {Stanis\l aw W\polhk{e}drychowicz},
      number        = {3},
      pages         = {487--508},
      title         = {Infinite-dimensional elliptic and stochastic equations with {H}\"{o}lder-continuous coefficients},

@@ -15,7 +15,7 @@ bourgain:96:on
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {35B40 (34G20 35Q55 58F39)},
      mrnumber      = {1386079},
-     mrreviewer    = {C.\ Eugene\ Wayne},
+     mrreviewer    = {C. Eugene Wayne},
      number        = {6},
      pages         = {277--304},
      title         = {On the growth in time of higher {S}obolev norms of smooth solutions of {H}amiltonian {PDE}},

@@ -15,7 +15,7 @@ bourgain:99:on
      journal       = {Geom. Funct. Anal.},
      mrclass       = {11P55 (11B25 11N64)},
      mrnumber      = {1726234},
-     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
+     mrreviewer    = {Sergeu{i} V. Konyagin},
      number        = {5},
      pages         = {968--984},
      title         = {On triples in arithmetic progression},

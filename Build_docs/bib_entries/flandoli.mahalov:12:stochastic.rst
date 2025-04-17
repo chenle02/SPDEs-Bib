@@ -15,7 +15,7 @@ flandoli.mahalov:12:stochastic
      journal       = {Arch. Ration. Mech. Anal.},
      mrclass       = {60H15 (35Q30 35R60 76D06)},
      mrnumber      = {2927621},
-     mrreviewer    = {Benedetta\ Ferrario},
+     mrreviewer    = {Benedetta Ferrario},
      number        = {1},
      pages         = {195--237},
      title         = {Stochastic three-dimensional rotating {N}avier-{S}tokes equations: averaging, convergence and regularity},

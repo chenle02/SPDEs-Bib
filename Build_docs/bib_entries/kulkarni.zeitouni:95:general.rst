@@ -15,7 +15,7 @@ kulkarni.zeitouni:95:general
      journal       = {Ann. Statist.},
      mrclass       = {62F03 (62G10 62G20)},
      mrnumber      = {1353511},
-     mrreviewer    = {M.\ Hu\v{s}kov\'{a}},
+     mrreviewer    = {M. Hu\v{s}kov\'{a}},
      number        = {4},
      pages         = {1393--1407},
      title         = {A general classification rule for probability measures},

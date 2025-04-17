@@ -15,7 +15,7 @@ kemppainen.smirnov:17:random
      journal       = {Ann. Probab.},
      mrclass       = {60D05 (30C35 30C80 60J67 60K35 82B20 82B31)},
      mrnumber      = {3630286},
-     mrreviewer    = {Dmitry\ Beliaev},
+     mrreviewer    = {Dmitry Beliaev},
      number        = {2},
      pages         = {698--779},
      title         = {Random curves, scaling limits and {L}oewner evolutions},

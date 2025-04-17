@@ -15,7 +15,7 @@ flandoli:06:on
      journal       = {J. Evol. Equ.},
      mrclass       = {35R60 (35Q30 60H15 76D05 76D06 76M35)},
      mrnumber      = {2227697},
-     mrreviewer    = {Ana\ Bela\ Cruzeiro},
+     mrreviewer    = {Ana Bela Cruzeiro},
      number        = {2},
      pages         = {269--286},
      title         = {On the method of {D}a {P}rato and {D}ebussche for the 3{D} stochastic {N}avier {S}tokes equations},

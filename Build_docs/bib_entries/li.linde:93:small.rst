@@ -14,7 +14,7 @@ li.linde:93:small
      journal       = {Probab. Math. Statist.},
      mrclass       = {60G15 (60B11)},
      mrnumber      = {1321763},
-     mrreviewer    = {Deli\ Li},
+     mrreviewer    = {Deli Li},
      number        = {2},
      pages         = {231--251},
      title         = {Small ball problems for non-centered {G}aussian measures},

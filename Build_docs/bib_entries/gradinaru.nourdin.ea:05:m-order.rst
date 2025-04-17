@@ -15,7 +15,7 @@ gradinaru.nourdin.ea:05:m-order
      journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
      mrclass       = {60H05 (60G15 60G18)},
      mrnumber      = {2144234},
-     mrreviewer    = {Christian\ Bender},
+     mrreviewer    = {Christian Bender},
      number        = {4},
      pages         = {781--806},
      title         = {{$m$}-order integrals and generalized {I}t\^{o}'s formula: the case of a fractional {B}rownian motion with any {H}urst index},

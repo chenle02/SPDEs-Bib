@@ -15,7 +15,7 @@ vargas:07:strong
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60K37},
      mrnumber      = {2299713},
-     mrreviewer    = {Rongfeng\ Sun},
+     mrreviewer    = {Rongfeng Sun},
      number        = {3-4},
      pages         = {391--410},
      title         = {Strong localization and macroscopic atoms for directed polymers},

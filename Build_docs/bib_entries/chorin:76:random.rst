@@ -15,7 +15,7 @@ chorin:76:random
      journal       = {J. Comput. Phys.},
      mrclass       = {65M05 (35L65 76.65)},
      mrnumber      = {471342},
-     mrreviewer    = {H.\ C.\ Kranzer},
+     mrreviewer    = {H. C. Kranzer},
      number        = {4},
      pages         = {517--533},
      title         = {Random choice solution of hyperbolic systems},

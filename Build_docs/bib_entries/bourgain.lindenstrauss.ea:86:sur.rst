@@ -14,7 +14,7 @@ bourgain.lindenstrauss.ea:86:sur
      journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
      mrclass       = {46E30 (46B20)},
      mrnumber      = {877187},
-     mrreviewer    = {Gunnar\ Hans\ Olsen},
+     mrreviewer    = {Gunnar Hans Olsen},
      number        = {20},
      pages         = {987--988},
      title         = {Sur l'approximation de zono\"{i}des par des zonot\^{o}pes},

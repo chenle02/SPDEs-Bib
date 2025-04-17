@@ -14,7 +14,7 @@ bourgain:03:on*2
      isbn          = {3-540-00485-8},
      mrclass       = {46B07 (46B20 52A20 60G15)},
      mrnumber      = {2083391},
-     mrreviewer    = {Apostolos\ A.\ Giannopoulos},
+     mrreviewer    = {Apostolos A. Giannopoulos},
      pages         = {114--121},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

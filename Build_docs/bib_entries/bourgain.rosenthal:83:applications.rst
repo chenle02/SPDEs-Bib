@@ -15,7 +15,7 @@ bourgain.rosenthal:83:applications
      journal       = {J. Funct. Anal.},
      mrclass       = {46B20},
      mrnumber      = {707202},
-     mrreviewer    = {Y.\ Benyamini},
+     mrreviewer    = {Y. Benyamini},
      number        = {2},
      pages         = {149--188},
      title         = {Applications of the theory of semi-embeddings to {B}anach space theory},

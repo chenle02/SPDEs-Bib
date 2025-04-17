@@ -15,7 +15,7 @@ mattingly.suidan.ea:07:simple
      journal       = {Comm. Math. Phys.},
      mrclass       = {37L99 (37C99 37N10 76D05 76F02)},
      mrnumber      = {2342292},
-     mrreviewer    = {Jos\'e\ A.\ Langa},
+     mrreviewer    = {Jos\'e A. Langa},
      number        = {1},
      pages         = {189--220},
      title         = {Simple systems with anomalous dissipation and energy cascade},

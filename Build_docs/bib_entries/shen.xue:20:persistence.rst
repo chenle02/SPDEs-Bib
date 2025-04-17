@@ -15,7 +15,7 @@ shen.xue:20:persistence
      journal       = {J. Differential Equations},
      mrclass       = {92D40 (35M31 35Q92 92C17)},
      mrnumber      = {4104955},
-     mrreviewer    = {Lake\ Rylie\ Ritter},
+     mrreviewer    = {Lake Rylie Ritter},
      number        = {7},
      pages         = {6236--6268},
      title         = {Persistence and spreading speeds of parabolic-elliptic {K}eller-{S}egel models in shifting environments},

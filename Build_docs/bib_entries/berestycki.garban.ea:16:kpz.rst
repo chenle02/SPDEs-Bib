@@ -15,7 +15,7 @@ berestycki.garban.ea:16:kpz
      journal       = {J. Lond. Math. Soc. (2)},
      mrclass       = {60J70 (35K08 60G15 81T20)},
      mrnumber      = {3532169},
-     mrreviewer    = {Dmitry\ Beliaev},
+     mrreviewer    = {Dmitry Beliaev},
      number        = {1},
      pages         = {186--208},
      title         = {K{PZ} formula derived from {L}iouville heat kernel},

@@ -15,7 +15,7 @@ deift.kriecherbauer.ea:99:strong
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {42C05},
      mrnumber      = {1711036},
-     mrreviewer    = {D.\ S.\ Lubinsky},
+     mrreviewer    = {D. S. Lubinsky},
      number        = {12},
      pages         = {1491--1552},
      title         = {Strong asymptotics of orthogonal polynomials with respect to exponential weights},

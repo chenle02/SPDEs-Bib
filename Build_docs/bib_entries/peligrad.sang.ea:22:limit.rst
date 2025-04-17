@@ -15,7 +15,7 @@ peligrad.sang.ea:22:limit
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60G60 (60F05 60G52 62M40)},
      mrnumber      = {4433071},
-     mrreviewer    = {A.\ Ya.\ Olenko},
+     mrreviewer    = {A. Ya. Olenko},
      pages         = {596--621},
      title         = {Limit theorems for linear random fields with innovations in the domain of attraction of a stable law},
      url           = {https://doi.org/10.1016/j.spa.2022.05.003},

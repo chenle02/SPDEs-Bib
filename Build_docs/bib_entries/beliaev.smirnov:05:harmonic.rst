@@ -13,7 +13,7 @@ beliaev.smirnov:05:harmonic
      isbn          = {3-03719-009-4},
      mrclass       = {31C20 (28A80 30C50 37F35)},
      mrnumber      = {2185735},
-     mrreviewer    = {Klaus\ G\"{u}rlebeck},
+     mrreviewer    = {Klaus G\"{u}rlebeck},
      pages         = {41--59},
      publisher     = {Eur. Math. Soc., Z\"{u}rich},
      title         = {Harmonic measure on fractal sets},

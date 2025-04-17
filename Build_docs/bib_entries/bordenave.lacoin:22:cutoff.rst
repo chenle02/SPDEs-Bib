@@ -15,7 +15,7 @@ bordenave.lacoin:22:cutoff
      journal       = {J. Inst. Math. Jussieu},
      mrclass       = {05C81 (60J10)},
      mrnumber      = {4476123},
-     mrreviewer    = {Ryokichi\ Tanaka},
+     mrreviewer    = {Ryokichi Tanaka},
      number        = {5},
      pages         = {1571--1616},
      title         = {Cutoff at the entropic time for random walks on covered expander graphs},

@@ -15,7 +15,7 @@ shen:01:dynamical
      journal       = {J. Differential Equations},
      mrclass       = {37L99 (34C27 35B15 35K55)},
      mrnumber      = {1808473},
-     mrreviewer    = {Stephen\ A.\ Gourley},
+     mrreviewer    = {Stephen A. Gourley},
      note          = {Special issue in celebration of Jack K. Hale's 70th birthday, Part 4 (Atlanta, GA/Lisbon, 1998)},
      number        = {2},
      pages         = {493--548},

@@ -13,7 +13,7 @@ bourgain:05:greens
      isbn          = {0-691-12098-6},
      mrclass       = {35Q40 (35A08 35Q55 37N20 47B80 47N50 81Q10 82B44)},
      mrnumber      = {2100420},
-     mrreviewer    = {David\ Damanik},
+     mrreviewer    = {David Damanik},
      pages         = {x+173},
      publisher     = {Princeton University Press, Princeton, NJ},
      series        = {Annals of Mathematics Studies},

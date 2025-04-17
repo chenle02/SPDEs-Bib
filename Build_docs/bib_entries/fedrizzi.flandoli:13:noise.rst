@@ -15,7 +15,7 @@ fedrizzi.flandoli:13:noise
      journal       = {J. Funct. Anal.},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {3017266},
-     mrreviewer    = {Bj\"{o}rn\ Schmalfuss},
+     mrreviewer    = {Bj\"{o}rn Schmalfuss},
      number        = {6},
      pages         = {1329--1354},
      title         = {Noise prevents singularities in linear transport equations},

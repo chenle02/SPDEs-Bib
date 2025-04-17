@@ -15,7 +15,7 @@ shen.wang.ea:16:structure
      journal       = {J. Differential Equations},
      mrclass       = {35K59 (35B15 35K57)},
      mrnumber      = {3562306},
-     mrreviewer    = {Andrea\ Tellini},
+     mrreviewer    = {Andrea Tellini},
      number        = {12},
      pages         = {6633--6667},
      title         = {Structure of {$\omega$}-limit sets for almost-periodic parabolic equations on {\$S^1\$} with reflection symmetry},

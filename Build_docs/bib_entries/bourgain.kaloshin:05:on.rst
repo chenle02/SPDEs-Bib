@@ -15,7 +15,7 @@ bourgain.kaloshin:05:on
      journal       = {J. Funct. Anal.},
      mrclass       = {37J40 (35B25 35F20 37J35)},
      mrnumber      = {2180073},
-     mrreviewer    = {Maria\ E.\ Saprykina},
+     mrreviewer    = {Maria E. Saprykina},
      number        = {1},
      pages         = {1--61},
      title         = {On diffusion in high-dimensional {H}amiltonian systems},

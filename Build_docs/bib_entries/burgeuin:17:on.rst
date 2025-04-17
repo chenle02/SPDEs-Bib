@@ -16,7 +16,7 @@ burgeuin:17:on
      journal       = {Tr. Mat. Inst. Steklova},
      mrclass       = {11P05 (11L07 11L15)},
      mrnumber      = {3640771},
-     mrreviewer    = {Temenoujka\ P.\ Peneva},
+     mrreviewer    = {Temenoujka P. Peneva},
      note          = {English version published in Proc. Steklov Inst. Math. {\bf 296} (2017), no. 1, 30--40},
      pages         = {36--46},
      title         = {On the {V}inogradov integral},

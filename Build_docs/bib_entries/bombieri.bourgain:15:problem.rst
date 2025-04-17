@@ -15,7 +15,7 @@ bombieri.bourgain:15:problem
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {11G05 (14G99)},
      mrnumber      = {3373053},
-     mrreviewer    = {Jan\ Nekov\'{a}\v{r}},
+     mrreviewer    = {Jan Nekov\'{a}\v{r}},
      number        = {11},
      pages         = {3343--3407},
      title         = {A problem on sums of two squares},

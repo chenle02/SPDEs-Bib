@@ -15,7 +15,7 @@ hanyga.seredynska:07:relations
      journal       = {J. Elasticity},
      mrclass       = {74D05 (74A99 74E05 74H99)},
      mrnumber      = {2337270},
-     mrreviewer    = {Mohamed\ Ibrahim Ahmed Othman},
+     mrreviewer    = {Mohamed Ibrahim Ahmed Othman},
      number        = {1},
      pages         = {41--61},
      title         = {Relations between relaxation modulus and creep compliance in anisotropic linear viscoelasticity},

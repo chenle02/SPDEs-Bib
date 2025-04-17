@@ -15,7 +15,7 @@ bourgain:89:bounded
      journal       = {Acta Math.},
      mrclass       = {43A46},
      mrnumber      = {989397},
-     mrreviewer    = {Fran\c{c}oise\ Lust-Piquard},
+     mrreviewer    = {Fran\c{c}oise Lust-Piquard},
      number        = {3-4},
      pages         = {227--245},
      title         = {Bounded orthogonal systems and the {$\Lambda(p)$}-set problem},

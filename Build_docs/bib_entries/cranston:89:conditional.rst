@@ -13,7 +13,7 @@ cranston:89:conditional
      isbn          = {0-8176-3422-3},
      mrclass       = {60J65},
      mrnumber      = {990477},
-     mrreviewer    = {Terry\ R.\ McConnell},
+     mrreviewer    = {Terry R. McConnell},
      pages         = {109--119},
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Progr. Probab.},

@@ -14,7 +14,7 @@ bourgain.lindenstrauss.ea:89:estimates
      isbn          = {3-540-51303-5},
      mrclass       = {52A20},
      mrnumber      = {1008728},
-     mrreviewer    = {A.\ Florian},
+     mrreviewer    = {A. Florian},
      pages         = {264--273},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

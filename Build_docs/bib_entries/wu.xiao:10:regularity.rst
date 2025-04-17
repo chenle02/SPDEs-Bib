@@ -15,7 +15,7 @@ wu.xiao:10:regularity
      journal       = {J. Theoret. Probab.},
      mrclass       = {60G22 (28A80 60F25 60J55)},
      mrnumber      = {2735733},
-     mrreviewer    = {Ivan\ Nourdin},
+     mrreviewer    = {Ivan Nourdin},
      number        = {4},
      pages         = {972--1001},
      title         = {Regularity of intersection local times of fractional {B}rownian motions},

@@ -15,7 +15,7 @@ shen.wang:08:carrying
      journal       = {J. Differential Equations},
      mrclass       = {37B55 (34C12 34D45 34F05 37H10 37N25 92D25)},
      mrnumber      = {2422708},
-     mrreviewer    = {Wendi\ Wang},
+     mrreviewer    = {Wendi Wang},
      number        = {1},
      pages         = {1--29},
      title         = {Carrying simplices in nonautonomous and random competitive {K}olmogorov systems},

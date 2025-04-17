@@ -15,7 +15,7 @@ derrida.giacomin.ea:09:fractional
      journal       = {Comm. Math. Phys.},
      mrclass       = {82B44 (60K05 60K37)},
      mrnumber      = {2486665},
-     mrreviewer    = {Rongfeng\ Sun},
+     mrreviewer    = {Rongfeng Sun},
      number        = {3},
      pages         = {867--887},
      title         = {Fractional moment bounds and disorder relevance for pinning models},

@@ -15,7 +15,7 @@ ney.spitzer:66:martin
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60.66 (60.62)},
      mrnumber      = {195151},
-     mrreviewer    = {J.\ L.\ Snell},
+     mrreviewer    = {J. L. Snell},
      pages         = {116--132},
      title         = {The {M}artin boundary for random walk},
      url           = {https://doi.org/10.2307/1994335},

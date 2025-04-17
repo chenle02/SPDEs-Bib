@@ -15,7 +15,7 @@ bourgain:85:on*3
      journal       = {Israel J. Math.},
      mrclass       = {46B99 (05C80 58B05)},
      mrnumber      = {815600},
-     mrreviewer    = {Michel\ Deza},
+     mrreviewer    = {Michel Deza},
      number        = {1-2},
      pages         = {46--52},
      title         = {On {L}ipschitz embedding of finite metric spaces in {H}ilbert space},

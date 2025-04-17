@@ -15,7 +15,7 @@ chow.shen.ea:07:dynamical
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {60H10 (34C15 34F05 37H10)},
      mrnumber      = {2357536},
-     mrreviewer    = {Jos\'{e}\ A.\ Langa},
+     mrreviewer    = {Jos\'{e} A. Langa},
      number        = {4},
      pages         = {1007--1036},
      title         = {Dynamical order in systems of coupled noisy oscillators},

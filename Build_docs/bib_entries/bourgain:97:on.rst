@@ -15,7 +15,7 @@ bourgain:97:on
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {35Q53},
      mrnumber      = {1443322},
-     mrreviewer    = {Spyridon\ Kamvissis},
+     mrreviewer    = {Spyridon Kamvissis},
      number        = {9},
      pages         = {437--447},
      title         = {On the compactness of the support of solutions of dispersive equations},

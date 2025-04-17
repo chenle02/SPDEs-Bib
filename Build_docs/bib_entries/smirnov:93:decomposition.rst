@@ -14,7 +14,7 @@ smirnov:93:decomposition
      journal       = {Algebra i Analiz},
      mrclass       = {49Q15 (49Q20 58A25 58C35)},
      mrnumber      = {1246427},
-     mrreviewer    = {Andrew\ Bucki},
+     mrreviewer    = {Andrew Bucki},
      number        = {4},
      pages         = {206--238},
      title         = {Decomposition of solenoidal vector charges into elementary solenoids, and the structure of normal one-dimensional flows},

@@ -14,7 +14,7 @@ spitzer:57:wiener-hopf
      journal       = {Duke Math. J.},
      mrclass       = {60.0X},
      mrnumber      = {90917},
-     mrreviewer    = {J.\ Kiefer},
+     mrreviewer    = {J. Kiefer},
      pages         = {327--343},
      title         = {The {W}iener-{H}opf equation whose kernel is a probability density},
      url           = {http://projecteuclid.org/euclid.dmj/1077467479},

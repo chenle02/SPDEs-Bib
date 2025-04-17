@@ -15,7 +15,7 @@ spitzer:59:some
      journal       = {Bull. Amer. Math. Soc.},
      mrclass       = {60.00},
      mrnumber      = {105739},
-     mrreviewer    = {J.\ Kiefer},
+     mrreviewer    = {J. Kiefer},
      pages         = {117--119},
      title         = {Some probability limit theorems},
      url           = {https://doi.org/10.1090/S0002-9904-1959-10284-6},

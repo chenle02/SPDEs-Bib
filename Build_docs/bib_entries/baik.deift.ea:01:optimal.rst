@@ -15,7 +15,7 @@ baik.deift.ea:01:optimal
      journal       = {Adv. Theor. Math. Phys.},
      mrclass       = {60K35 (60E15 82B43)},
      mrnumber      = {1926668},
-     mrreviewer    = {Peter\ Eichelsbacher},
+     mrreviewer    = {Peter Eichelsbacher},
      number        = {6},
      pages         = {1207--1250},
      title         = {Optimal tail estimates for directed last passage site percolation with geometric random variables},

@@ -14,7 +14,7 @@ shen:01:global
      journal       = {Far East J. Dyn. Syst.},
      mrclass       = {37C70 (34D45 78A99)},
      mrnumber      = {1848718},
-     mrreviewer    = {Alexandr\ A.\ Zevin},
+     mrreviewer    = {Alexandr A. Zevin},
      number        = {1},
      pages         = {51--80},
      title         = {Global attractor in quasi-periodically forced {J}osephson junctions},

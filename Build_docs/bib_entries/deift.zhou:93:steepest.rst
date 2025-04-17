@@ -15,7 +15,7 @@ deift.zhou:93:steepest
      journal       = {Ann. of Math. (2)},
      mrclass       = {35Q53 (34A55 34L25 35Q15 35Q55)},
      mrnumber      = {1207209},
-     mrreviewer    = {Alexey\ V.\ Samokhin},
+     mrreviewer    = {Alexey V. Samokhin},
      number        = {2},
      pages         = {295--368},
      title         = {A steepest descent method for oscillatory {R}iemann-{H}ilbert problems. {A}symptotics for the {MK}d{V} equation},

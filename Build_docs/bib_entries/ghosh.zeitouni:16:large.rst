@@ -15,7 +15,7 @@ ghosh.zeitouni:16:large
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {60F10 (60G99)},
      mrnumber      = {3509927},
-     mrreviewer    = {Maxim\ L.\ Yattselev},
+     mrreviewer    = {Maxim L. Yattselev},
      number        = {5},
      pages         = {1308--1347},
      title         = {Large deviations for zeros of random polynomials with i.i.d. exponential coefficients},

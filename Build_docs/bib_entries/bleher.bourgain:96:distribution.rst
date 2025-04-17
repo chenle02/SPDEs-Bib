@@ -14,7 +14,7 @@ bleher.bourgain:96:distribution
      isbn          = {0-8176-3824-5},
      mrclass       = {11P21},
      mrnumber      = {1399335},
-     mrreviewer    = {Hartmut\ Menzer},
+     mrreviewer    = {Hartmut Menzer},
      pages         = {141--153},
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Progr. Math.},

@@ -15,7 +15,7 @@ anderson.zeitouni:08:clt
      journal       = {Ann. Statist.},
      mrclass       = {60F05 (15B52 62H12)},
      mrnumber      = {2485007},
-     mrreviewer    = {Gutti\ J.\ Babu},
+     mrreviewer    = {Gutti J. Babu},
      number        = {6},
      pages         = {2553--2576},
      title         = {A {CLT} for regularized sample covariance matrices},

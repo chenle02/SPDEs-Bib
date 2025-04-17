@@ -15,7 +15,7 @@ deift.li.ea:86:toda
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {58F07 (58F05)},
      mrnumber      = {820068},
-     mrreviewer    = {Tudor\ S.\ Ra\c tiu},
+     mrreviewer    = {Tudor S. Ra\c tiu},
      number        = {2},
      pages         = {183--232},
      title         = {The {T}oda flow on a generic orbit is integrable},

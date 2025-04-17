@@ -15,7 +15,7 @@ barral:03:poissonian
      journal       = {Rev. Mat. Iberoamericana},
      mrclass       = {60G57 (28A80 60G18 60G44 60G55)},
      mrnumber      = {2053565},
-     mrreviewer    = {Thierry\ Edmond\ Huillet},
+     mrreviewer    = {Thierry Edmond Huillet},
      number        = {3},
      pages         = {813--856},
      title         = {Poissonian products of random weights: uniform convergence and related measures},

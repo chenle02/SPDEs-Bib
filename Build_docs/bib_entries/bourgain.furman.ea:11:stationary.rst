@@ -15,7 +15,7 @@ bourgain.furman.ea:11:stationary
      journal       = {J. Amer. Math. Soc.},
      mrclass       = {37A45 (11L07 22F10 37A17)},
      mrnumber      = {2726604},
-     mrreviewer    = {Thomas\ Ward},
+     mrreviewer    = {Thomas Ward},
      number        = {1},
      pages         = {231--280},
      title         = {Stationary measures and equidistribution for orbits of nonabelian semigroups on the torus},

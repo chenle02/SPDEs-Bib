@@ -15,7 +15,7 @@ berger.lacoin:21:scaling
      journal       = {Comm. Math. Phys.},
      mrclass       = {60F05 (82B44 82D60)},
      mrnumber      = {4294286},
-     mrreviewer    = {Ryoki\ Fukushima},
+     mrreviewer    = {Ryoki Fukushima},
      number        = {2},
      pages         = {1051--1105},
      title         = {The scaling limit of the directed polymer with power-law tail disorder},

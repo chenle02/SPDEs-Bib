@@ -15,7 +15,7 @@ bourgain:76:strongly
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {46B05},
      mrnumber      = {415272},
-     mrreviewer    = {I.\ Namioka},
+     mrreviewer    = {I. Namioka},
      pages         = {197--200},
      title         = {Strongly exposed points in weakly compact convex sets in {B}anach spaces},
      url           = {https://doi.org/10.2307/2041384},

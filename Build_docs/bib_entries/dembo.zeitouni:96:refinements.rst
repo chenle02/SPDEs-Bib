@@ -15,7 +15,7 @@ dembo.zeitouni:96:refinements
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60F10},
      mrnumber      = {1367663},
-     mrreviewer    = {Fabienne\ Castell},
+     mrreviewer    = {Fabienne Castell},
      number        = {1},
      pages         = {1--14},
      title         = {Refinements of the {G}ibbs conditioning principle},

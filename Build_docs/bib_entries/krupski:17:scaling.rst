@@ -15,7 +15,7 @@ krupski:17:scaling
      journal       = {Stoch. Dyn.},
      mrclass       = {35R60 (35B40 60G10 60G20 60G60)},
      mrnumber      = {3628179},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {3},
      pages         = {1750019, 24},
      title         = {Scaling limits of solutions of linear evolution equations with random initial conditions},

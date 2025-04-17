@@ -15,7 +15,7 @@ lacoin.moreno:10:directed
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60K35 (37N20 82B28 82B44 82D60)},
      mrnumber      = {2594367},
-     mrreviewer    = {N.\ N.\ Ganikhodjaev},
+     mrreviewer    = {N. N. Ganikhodjaev},
      number        = {4},
      pages         = {467--493},
      title         = {Directed polymers on hierarchical lattices with site disorder},

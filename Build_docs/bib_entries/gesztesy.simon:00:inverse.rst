@@ -15,7 +15,7 @@ gesztesy.simon:00:inverse
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {34A55 (34B24 34L40 47E05)},
      mrnumber      = {1694291},
-     mrreviewer    = {Vjacheslav\ A.\ Yurko},
+     mrreviewer    = {Vjacheslav A. Yurko},
      number        = {6},
      pages         = {2765--2787},
      title         = {Inverse spectral analysis with partial information on the potential. {II}. {T}he case of discrete spectrum},

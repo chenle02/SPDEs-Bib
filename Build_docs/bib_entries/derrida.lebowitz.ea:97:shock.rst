@@ -15,7 +15,7 @@ derrida.lebowitz.ea:97:shock
      journal       = {J. Statist. Phys.},
      mrclass       = {82C22 (60K35)},
      mrnumber      = {1492490},
-     mrreviewer    = {Pablo\ A.\ Ferrari},
+     mrreviewer    = {Pablo A. Ferrari},
      note          = {Dedicated to Bernard Jancovici},
      number        = {1-2},
      pages         = {135--167},

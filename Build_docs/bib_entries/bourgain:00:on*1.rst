@@ -15,7 +15,7 @@ bourgain:00:on*1
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {11M26},
      mrnumber      = {1741611},
-     mrreviewer    = {D.\ R.\ Heath-Brown},
+     mrreviewer    = {D. R. Heath-Brown},
      number        = {3},
      pages         = {133--146},
      title         = {On large values estimates for {D}irichlet polynomials and the density hypothesis for the {R}iemann zeta function},

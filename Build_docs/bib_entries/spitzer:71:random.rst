@@ -11,7 +11,7 @@ spitzer:71:random
      author        = {Spitzer, F.},
      mrclass       = {60K35},
      mrnumber      = {381041},
-     mrreviewer    = {Donald\ A.\ Dawson},
+     mrreviewer    = {Donald A. Dawson},
      note          = {Notes on lectures given at the 1971 MAA Summer Seminar, Williams College, Williamstown, Mass},
      pages         = {i+126 pp. (not consecutively paged)},
      publisher     = {Mathematical Association of America, Washington, DC},

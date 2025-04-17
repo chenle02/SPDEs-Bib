@@ -15,7 +15,7 @@ seidler:97:ergodic
      journal       = {Czechoslovak Math. J.},
      mrclass       = {60H10 (35K99 35R60 60J35)},
      mrnumber      = {1452421},
-     mrreviewer    = {Isabel\ Sim\~{a}o},
+     mrreviewer    = {Isabel Sim\~{a}o},
      number        = {2},
      pages         = {277--316},
      title         = {Ergodic behaviour of stochastic parabolic equations},

@@ -15,7 +15,7 @@ bourgain.varju:12:expansion
      journal       = {Invent. Math.},
      mrclass       = {11B05 (11B75)},
      mrnumber      = {2897695},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {1},
      pages         = {151--173},
      title         = {Expansion in {$SL_d({\bf Z}/q{\bf Z}),\,q$} arbitrary},

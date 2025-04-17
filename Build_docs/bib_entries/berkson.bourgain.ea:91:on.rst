@@ -15,7 +15,7 @@ berkson.bourgain.ea:91:on
      journal       = {Integral Equations Operator Theory},
      mrclass       = {47A35 (47B38)},
      mrnumber      = {1118968},
-     mrreviewer    = {M.\ A.\ Akcoglu},
+     mrreviewer    = {M. A. Akcoglu},
      number        = {5},
      pages         = {678--715},
      title         = {On the almost everywhere convergence of ergodic averages for power-bounded operators on {$L^p$}-subspaces},

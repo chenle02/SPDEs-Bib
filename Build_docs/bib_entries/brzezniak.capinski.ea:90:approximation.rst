@@ -13,7 +13,7 @@ brzezniak.capinski.ea:90:approximation
      isbn          = {981-02-0019-6},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {1124214},
-     mrreviewer    = {Jan\ Ub\o e},
+     mrreviewer    = {Jan Ub\o e},
      pages         = {256--268},
      publisher     = {World Sci. Publ., Teaneck, NJ},
      title         = {Approximation of white noise in stochastic partial differential equations},

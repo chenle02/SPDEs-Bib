@@ -15,7 +15,7 @@ paquette.zeitouni:18:maximum
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {60B20 (60G15)},
      mrnumber      = {3848227},
-     mrreviewer    = {Longmin\ Wang},
+     mrreviewer    = {Longmin Wang},
      number        = {16},
      pages         = {5028--5119},
      title         = {The maximum of the {CUE} field},

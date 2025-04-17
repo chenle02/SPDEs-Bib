@@ -15,7 +15,7 @@ lacoin:17:simple
      journal       = {Ann. Inst. Henri Poincar\'e{} Probab. Stat.},
      mrclass       = {82B20 (60K35 82B44)},
      mrnumber      = {3689972},
-     mrreviewer    = {Rongfeng\ Sun},
+     mrreviewer    = {Rongfeng Sun},
      number        = {3},
      pages         = {1402--1437},
      title         = {The simple exclusion process on the circle has a diffusive cutoff window},

@@ -13,7 +13,7 @@ deift.it-s.ea:93:long-time
      isbn          = {3-540-55913-2},
      mrclass       = {35B40 (35Q53 35Q55)},
      mrnumber      = {1280475},
-     mrreviewer    = {John\ Albert},
+     mrreviewer    = {John Albert},
      pages         = {181--204},
      publisher     = {Springer, Berlin},
      series        = {Springer Ser. Nonlinear Dynam.},

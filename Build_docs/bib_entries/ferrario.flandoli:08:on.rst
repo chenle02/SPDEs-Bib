@@ -15,7 +15,7 @@ ferrario.flandoli:08:on
      journal       = {Stochastic Process. Appl.},
      mrclass       = {76M35 (35Q35 35R60 60H15 76D03 76D06 76F55)},
      mrnumber      = {2411520},
-     mrreviewer    = {Hakima\ Bessaih},
+     mrreviewer    = {Hakima Bessaih},
      number        = {5},
      pages         = {762--789},
      title         = {On a stochastic version of {P}rouse model in fluid dynamics},

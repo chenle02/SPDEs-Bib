@@ -14,7 +14,7 @@ bourgain:85:sidon
      journal       = {Ann. Inst. Fourier (Grenoble)},
      mrclass       = {43A46 (42A55)},
      mrnumber      = {781783},
-     mrreviewer    = {Colin\ C.\ Graham},
+     mrreviewer    = {Colin C. Graham},
      number        = {1},
      pages         = {137--148},
      title         = {Sidon sets and {R}iesz products},

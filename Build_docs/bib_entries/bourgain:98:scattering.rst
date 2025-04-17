@@ -15,7 +15,7 @@ bourgain:98:scattering
      journal       = {J. Anal. Math.},
      mrclass       = {35P25 (35J10 35Q55)},
      mrnumber      = {1655835},
-     mrreviewer    = {Tohru\ Ozawa},
+     mrreviewer    = {Tohru Ozawa},
      pages         = {267--297},
      title         = {Scattering in the energy space and below for 3{D} {NLS}},
      url           = {https://doi.org/10.1007/BF02788703},

@@ -14,7 +14,7 @@ bourgain.li:14:on
      journal       = {Differential Integral Equations},
      mrclass       = {42B20 (46E35)},
      mrnumber      = {3263081},
-     mrreviewer    = {Juha\ K.\ Kinnunen},
+     mrreviewer    = {Juha K. Kinnunen},
      number        = {11-12},
      pages         = {1037--1072},
      title         = {On an endpoint {K}ato-{P}once inequality},

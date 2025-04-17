@@ -15,7 +15,7 @@ gvalani.schlichting:20:barriers
      journal       = {J. Funct. Anal.},
      mrclass       = {35R60 (28A33 35Q83 58E05 60F10 60J60 82C31)},
      mrnumber      = {4141490},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {11},
      pages         = {108720, 34},
      title         = {Barriers of the {M}c{K}ean-{V}lasov energy via a mountain pass theorem in the space of probability measures},

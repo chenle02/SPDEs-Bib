@@ -15,7 +15,7 @@ last.simon:99:eigenfunctions
      journal       = {Invent. Math.},
      mrclass       = {47B39 (34L05 34L40 47E05 81Q10)},
      mrnumber      = {1666767},
-     mrreviewer    = {G\"unter\ Stolz},
+     mrreviewer    = {G\"unter Stolz},
      number        = {2},
      pages         = {329--367},
      title         = {Eigenfunctions, transfer matrices, and absolutely continuous spectrum of one-dimensional {S}chr\"odinger operators},

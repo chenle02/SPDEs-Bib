@@ -15,7 +15,7 @@ bombieri.bourgain.ea:09:roots
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {11D79 (11L07 11P55)},
      mrnumber      = {2482126},
-     mrreviewer    = {Michael\ E.\ Zieve},
+     mrreviewer    = {Michael E. Zieve},
      number        = {5},
      pages         = {802--834},
      title         = {Roots of polynomials in subgroups of {$\Bbb F^*_p$} and applications to congruences},

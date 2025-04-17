@@ -15,7 +15,7 @@ mattingly.pardoux:14:invariant
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {60H10 (34C29 37A60 37L40)},
      mrnumber      = {3195367},
-     mrreviewer    = {Iulian\ Stoleriu},
+     mrreviewer    = {Iulian Stoleriu},
      number        = {10},
      pages         = {4223--4257},
      title         = {Invariant measure selection by noise. {A}n example},

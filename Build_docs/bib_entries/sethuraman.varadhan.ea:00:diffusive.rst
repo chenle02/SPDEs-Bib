@@ -15,7 +15,7 @@ sethuraman.varadhan.ea:00:diffusive
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60K35 (60F17 82C22)},
      mrnumber      = {1755948},
-     mrreviewer    = {Ellen\ Saada},
+     mrreviewer    = {Ellen Saada},
      number        = {8},
      pages         = {972--1006},
      title         = {Diffusive limit of a tagged particle in asymmetric simple exclusion processes},

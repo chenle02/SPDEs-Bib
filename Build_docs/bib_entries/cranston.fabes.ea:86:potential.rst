@@ -15,7 +15,7 @@ cranston.fabes.ea:86:potential
      journal       = {Bull. Amer. Math. Soc. (N.S.)},
      mrclass       = {60J45 (31B35)},
      mrnumber      = {854557},
-     mrreviewer    = {M.\ Fukushima},
+     mrreviewer    = {M. Fukushima},
      number        = {2},
      pages         = {213--216},
      title         = {Potential theory for the {S}chr\"{o}dinger equation},

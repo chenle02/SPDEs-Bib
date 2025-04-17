@@ -15,7 +15,7 @@ orrieri.scarpa:19:singular
      journal       = {J. Differential Equations},
      mrclass       = {35R60 (35B25 35B30 35K55 60H15 80A22)},
      mrnumber      = {3912729},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {8},
      pages         = {4624--4667},
      title         = {Singular stochastic {A}llen-{C}ahn equations with dynamic boundary conditions},

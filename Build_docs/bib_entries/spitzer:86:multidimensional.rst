@@ -13,7 +13,7 @@ spitzer:86:multidimensional
      isbn          = {0-12-598543-6},
      mrclass       = {60K15},
      mrnumber      = {875451},
-     mrreviewer    = {T.\ M.\ Liggett},
+     mrreviewer    = {T. M. Liggett},
      pages         = {147--155},
      publisher     = {Academic Press, Orlando, FL},
      series        = {Adv. Math. Suppl. Stud.},

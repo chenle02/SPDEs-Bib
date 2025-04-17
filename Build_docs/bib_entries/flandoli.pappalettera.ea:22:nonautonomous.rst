@@ -15,7 +15,7 @@ flandoli.pappalettera.ea:22:nonautonomous
      journal       = {Stoch. Dyn.},
      mrclass       = {37H05 (34D45 37C60 86A08)},
      mrnumber      = {4431442},
-     mrreviewer    = {Michael\ Zaks},
+     mrreviewer    = {Michael Zaks},
      number        = {2},
      pages         = {Paper No. 2240003, 22},
      title         = {Nonautonomous attractors and {Y}oung measures},

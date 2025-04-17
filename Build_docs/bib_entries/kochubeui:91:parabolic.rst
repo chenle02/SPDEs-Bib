@@ -15,7 +15,7 @@ kochubeui:91:parabolic
      journal       = {Izv. Akad. Nauk SSSR Ser. Mat.},
      mrclass       = {35K30 (35A08 35B35)},
      mrnumber      = {1152215},
-     mrreviewer    = {A.\ Borzymowski},
+     mrreviewer    = {A. Borzymowski},
      number        = {6},
      pages         = {1312--1330},
      title         = {Parabolic equations over the field of {$p$}-adic numbers},

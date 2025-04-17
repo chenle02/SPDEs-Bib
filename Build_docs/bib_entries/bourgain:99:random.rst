@@ -13,7 +13,7 @@ bourgain:99:random
      isbn          = {0-521-64259-0},
      mrclass       = {60D05 (52A22 60F05)},
      mrnumber      = {1665576},
-     mrreviewer    = {Hui\ Ling\ Le},
+     mrreviewer    = {Hui Ling Le},
      pages         = {53--58},
      publisher     = {Cambridge Univ. Press, Cambridge},
      series        = {Math. Sci. Res. Inst. Publ.},

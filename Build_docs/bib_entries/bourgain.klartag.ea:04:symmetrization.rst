@@ -14,7 +14,7 @@ bourgain.klartag.ea:04:symmetrization
      isbn          = {3-540-22360-6},
      mrclass       = {52A20},
      mrnumber      = {2087154},
-     mrreviewer    = {Shlomo\ Reisner},
+     mrreviewer    = {Shlomo Reisner},
      pages         = {101--115},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

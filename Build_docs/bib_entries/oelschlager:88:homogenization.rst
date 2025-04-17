@@ -14,7 +14,7 @@ oelschlager:88:homogenization
      journal       = {Ann. Probab.},
      mrclass       = {60G60 (60H15 60J60)},
      mrnumber      = {942757},
-     mrreviewer    = {Robert\ J.\ Adler},
+     mrreviewer    = {Robert J. Adler},
      number        = {3},
      pages         = {1084--1126},
      title         = {Homogenization of a diffusion process in a divergence-free random field},

@@ -15,7 +15,7 @@ barral.qu:12:on
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {37B40 (28A80 37D35)},
      mrnumber      = {2885794},
-     mrreviewer    = {Vaughn\ Climenhaga},
+     mrreviewer    = {Vaughn Climenhaga},
      number        = {6},
      pages         = {1977--1995},
      title         = {On the higher-dimensional multifractal analysis},

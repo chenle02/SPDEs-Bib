@@ -14,7 +14,7 @@ bourgain:99:nonlinear
      isbn          = {0-8218-0592-4},
      mrclass       = {35Q55 (37K10 37K55)},
      mrnumber      = {1662829},
-     mrreviewer    = {Yun\ Bo\ Zeng},
+     mrreviewer    = {Yun Bo Zeng},
      pages         = {3--157},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {IAS/Park City Math. Ser.},

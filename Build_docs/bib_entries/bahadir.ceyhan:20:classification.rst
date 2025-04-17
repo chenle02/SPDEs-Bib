@@ -14,7 +14,7 @@ bahadir.ceyhan:20:classification
      journal       = {Contrib. Discrete Math.},
      mrclass       = {05C80 (05C20)},
      mrnumber      = {4217229},
-     mrreviewer    = {Yuval\ Wigderson},
+     mrreviewer    = {Yuval Wigderson},
      number        = {3},
      pages         = {43--74},
      title         = {A classification of isomorphism-invariant random digraphs},

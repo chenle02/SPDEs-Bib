@@ -15,7 +15,7 @@ derrida.mallick:97:exact
      journal       = {J. Phys. A},
      mrclass       = {82C22 (60K35 82C70)},
      mrnumber      = {1449262},
-     mrreviewer    = {Ellen\ Saada},
+     mrreviewer    = {Ellen Saada},
      number        = {4},
      pages         = {1031--1046},
      title         = {Exact diffusion constant for the one-dimensional partially asymmetric exclusion model},

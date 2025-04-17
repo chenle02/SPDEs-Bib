@@ -15,7 +15,7 @@ lacoin:19:pinning
      journal       = {Ann. Sci. \'Ec. Norm. Sup\'er. (4)},
      mrclass       = {60K35 (60G15 82B44)},
      mrnumber      = {4061024},
-     mrreviewer    = {Yoshihiro\ Abe},
+     mrreviewer    = {Yoshihiro Abe},
      number        = {6},
      pages         = {1331--1401},
      title         = {Pinning and disorder relevance for the lattice {G}aussian free field {II}: {T}he two dimensional case},

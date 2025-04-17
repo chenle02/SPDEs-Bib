@@ -15,7 +15,7 @@ flandoli.minelli:01:probabilistic
      journal       = {Czechoslovak Math. J.},
      mrclass       = {60H05 (60H30)},
      mrnumber      = {1864038},
-     mrreviewer    = {Luis\ Rincon},
+     mrreviewer    = {Luis Rincon},
      number        = {4},
      pages         = {713--731},
      title         = {Probabilistic models of vortex filaments},

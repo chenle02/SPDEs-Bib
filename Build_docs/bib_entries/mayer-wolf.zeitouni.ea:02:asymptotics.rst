@@ -15,7 +15,7 @@ mayer-wolf.zeitouni.ea:02:asymptotics
      journal       = {Electron. J. Probab.},
      mrclass       = {60K35 (60G55 60G57 60J05)},
      mrnumber      = {1902841},
-     mrreviewer    = {Anton\ Wakolbinger},
+     mrreviewer    = {Anton Wakolbinger},
      pages         = {no. 8, 25},
      title         = {Asymptotics of certain coagulation-fragmentation processes and invariant {P}oisson-{D}irichlet measures},
      url           = {https://doi.org/10.1214/EJP.v7-107},

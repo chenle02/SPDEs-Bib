@@ -15,7 +15,7 @@ dembo.zeitouni:96:transportation
      journal       = {Electron. Comm. Probab.},
      mrclass       = {60E15 (28A35)},
      mrnumber      = {1423908},
-     mrreviewer    = {Iosif\ Pinelis},
+     mrreviewer    = {Iosif Pinelis},
      pages         = {no. 9, 83--90},
      title         = {Transportation approach to some concentration inequalities in product spaces},
      url           = {https://doi.org/10.1214/ECP.v1-979},

@@ -15,7 +15,7 @@ kochubei:12:fractional-parabolic
      journal       = {Potential Anal.},
      mrclass       = {35R11 (35A01 35A02 35A08 35B65 35K46)},
      mrnumber      = {2928236},
-     mrreviewer    = {Giampiero\ Palatucci},
+     mrreviewer    = {Giampiero Palatucci},
      number        = {1},
      pages         = {1--30},
      title         = {Fractional-parabolic systems},

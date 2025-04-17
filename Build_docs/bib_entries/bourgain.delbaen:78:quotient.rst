@@ -14,7 +14,7 @@ bourgain.delbaen:78:quotient
      journal       = {Bull. Soc. Math. Belg.},
      mrclass       = {46E15 (46B25)},
      mrnumber      = {582661},
-     mrreviewer    = {K.\ Sundaresan},
+     mrreviewer    = {K. Sundaresan},
      number        = {2},
      pages         = {111--119},
      title         = {Quotient maps onto {$c(K)$}},

@@ -15,7 +15,7 @@ eisenbaum.kaspi.ea:00:ray-knight
      journal       = {Ann. Probab.},
      mrclass       = {60J55},
      mrnumber      = {1813843},
-     mrreviewer    = {Joanna\ B.\ Mitro},
+     mrreviewer    = {Joanna B. Mitro},
      number        = {4},
      pages         = {1781--1796},
      title         = {A {R}ay-{K}night theorem for symmetric {M}arkov processes},

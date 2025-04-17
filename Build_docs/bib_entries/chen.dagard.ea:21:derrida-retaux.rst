@@ -15,7 +15,7 @@ chen.dagard.ea:21:derrida-retaux
      journal       = {Ann. Probab.},
      mrclass       = {60J80 (60K35)},
      mrnumber      = {4255128},
-     mrreviewer    = {Daniela\ Bertacchi},
+     mrreviewer    = {Daniela Bertacchi},
      number        = {2},
      pages         = {637--670},
      title         = {The {D}errida-{R}etaux conjecture on recursive models},

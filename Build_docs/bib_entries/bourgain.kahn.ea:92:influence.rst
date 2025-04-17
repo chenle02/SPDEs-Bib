@@ -15,7 +15,7 @@ bourgain.kahn.ea:92:influence
      journal       = {Israel J. Math.},
      mrclass       = {05D05 (05A20 28A35 60B15 60F15)},
      mrnumber      = {1194785},
-     mrreviewer    = {Wolfgang\ Lusky},
+     mrreviewer    = {Wolfgang Lusky},
      number        = {1-2},
      pages         = {55--64},
      title         = {The influence of variables in product spaces},

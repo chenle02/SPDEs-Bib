@@ -12,7 +12,7 @@ chorin.hald:06:stochastic
      isbn          = {978-0387-28080-6; 0-387-28080-4},
      mrclass       = {60-01 (00A20 00A69 60H10 60H30 82-01 82B31 82C31)},
      mrnumber      = {2189824},
-     mrreviewer    = {Mikhail\ V.\ Tretyakov},
+     mrreviewer    = {Mikhail V. Tretyakov},
      pages         = {viii+147},
      publisher     = {Springer, New York},
      series        = {Surveys and Tutorials in the Applied Mathematical Sciences},

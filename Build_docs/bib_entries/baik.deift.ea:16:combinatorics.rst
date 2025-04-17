@@ -13,7 +13,7 @@ baik.deift.ea:16:combinatorics
      isbn          = {978-0-8218-4841-8},
      mrclass       = {60B20 (30E25 33E17 41A60 47B35 82C23)},
      mrnumber      = {3468920},
-     mrreviewer    = {Terence\ Tao},
+     mrreviewer    = {Terence Tao},
      pages         = {xi+461},
      publisher     = {American Mathematical Society, Providence, RI},
      series        = {Graduate Studies in Mathematics},

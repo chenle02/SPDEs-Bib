@@ -15,7 +15,7 @@ fedrizzi.flandoli:13:holder
      journal       = {Stoch. Anal. Appl.},
      mrclass       = {60H10 (35B65 35D35 35R60 60J60)},
      mrnumber      = {3175794},
-     mrreviewer    = {Wilhelm\ Stannat},
+     mrreviewer    = {Wilhelm Stannat},
      number        = {4},
      pages         = {708--736},
      title         = {H\"{o}lder flow and differentiability for {SDE}s with nonregular drift},

@@ -15,7 +15,7 @@ bourgain.chang:07:on
      journal       = {Duke Math. J.},
      mrclass       = {11L07 (11L40 11R04 11R27)},
      mrnumber      = {2318285},
-     mrreviewer    = {Jerzy\ Kaczorowski},
+     mrreviewer    = {Jerzy Kaczorowski},
      number        = {2},
      pages         = {263--280},
      title         = {On the minimum norm of representatives of residue classes in number fields},

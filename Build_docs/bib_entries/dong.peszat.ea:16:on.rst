@@ -15,7 +15,7 @@ dong.peszat.ea:16:on
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {60J75 (47Dxx 60J35)},
      mrnumber      = {3415739},
-     mrreviewer    = {Fangjun\ Xu},
+     mrreviewer    = {Fangjun Xu},
      number        = {2},
      pages         = {1566--1580},
      title         = {On some smoothening effects of the transition semigroup of a {L}\'{e}vy process},

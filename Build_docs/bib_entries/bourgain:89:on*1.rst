@@ -15,7 +15,7 @@ bourgain:89:on*1
      journal       = {Israel J. Math.},
      mrclass       = {43A46 (11K31)},
      mrnumber      = {1029904},
-     mrreviewer    = {Fran\c{c}oise\ Lust-Piquard},
+     mrreviewer    = {Fran\c{c}oise Lust-Piquard},
      number        = {3},
      pages         = {291--311},
      title         = {On {$\Lambda(p)$}-subsets of squares},

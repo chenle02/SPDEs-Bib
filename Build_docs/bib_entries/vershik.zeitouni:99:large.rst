@@ -15,7 +15,7 @@ vershik.zeitouni:99:large
      journal       = {Israel J. Math.},
      mrclass       = {52A22 (60F10)},
      mrnumber      = {1679585},
-     mrreviewer    = {Charles\ M.\ Goldie},
+     mrreviewer    = {Charles M. Goldie},
      pages         = {13--27},
      title         = {Large deviations in the geometry of convex lattice polygons},
      url           = {https://doi.org/10.1007/BF02775023},

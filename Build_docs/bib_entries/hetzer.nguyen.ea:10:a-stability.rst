@@ -15,7 +15,7 @@ hetzer.nguyen.ea:10:a-stability
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {37L30 (35B41 35K51 37C20 37D15 37L05)},
      mrnumber      = {2719920},
-     mrreviewer    = {Haiyang\ Huang},
+     mrreviewer    = {Haiyang Huang},
      number        = {3},
      pages         = {533--561},
      title         = {{$\scr A$}-stability of global attractors of competition diffusion systems},

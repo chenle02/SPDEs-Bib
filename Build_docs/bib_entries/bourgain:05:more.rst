@@ -15,7 +15,7 @@ bourgain:05:more
      journal       = {Int. J. Number Theory},
      mrclass       = {11B75 (11L05)},
      mrnumber      = {2172328},
-     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
+     mrreviewer    = {Sergeu{i} V. Konyagin},
      number        = {1},
      pages         = {1--32},
      title         = {More on the sum-product phenomenon in prime fields and its applications},

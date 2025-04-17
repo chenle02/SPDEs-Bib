@@ -14,7 +14,7 @@ bourgain:87:remarks
      isbn          = {3-540-18103-2},
      mrclass       = {46B20 (46B25 46E30)},
      mrnumber      = {907692},
-     mrreviewer    = {G.\ Schechtman},
+     mrreviewer    = {G. Schechtman},
      pages         = {157--167},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

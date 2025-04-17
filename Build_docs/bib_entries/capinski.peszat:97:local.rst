@@ -15,7 +15,7 @@ capinski.peszat:97:local
      journal       = {NoDEA Nonlinear Differential Equations Appl.},
      mrclass       = {60H15 (35Q30 35R60 76D05 76M35)},
      mrnumber      = {1446215},
-     mrreviewer    = {Wilfried\ Grecksch},
+     mrreviewer    = {Wilfried Grecksch},
      number        = {2},
      pages         = {185--200},
      title         = {Local existence and uniqueness of strong solutions to {$3$}-{D} stochastic {N}avier-{S}tokes equations},

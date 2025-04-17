@@ -15,7 +15,7 @@ bothner.deift.ea:15:on
      journal       = {Comm. Math. Phys.},
      mrclass       = {47A13},
      mrnumber      = {3339181},
-     mrreviewer    = {Akio\ Arimoto},
+     mrreviewer    = {Akio Arimoto},
      number        = {3},
      pages         = {1397--1463},
      title         = {On the asymptotic behavior of a log gas in the bulk scaling limit in the presence of a varying external potential {I}},

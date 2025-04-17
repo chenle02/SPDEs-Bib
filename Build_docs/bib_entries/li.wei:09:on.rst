@@ -15,7 +15,7 @@ li.wei:09:on
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {60G15 (26C10 34C10)},
      mrnumber      = {2439441},
-     mrreviewer    = {Scott\ E.\ Zrebiec},
+     mrreviewer    = {Scott E. Zrebiec},
      number        = {1},
      pages         = {195--204},
      title         = {On the expected number of zeros of a random harmonic polynomial},

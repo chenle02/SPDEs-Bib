@@ -15,7 +15,7 @@ hofmanova.seidler:13:on
      journal       = {Stoch. Anal. Appl.},
      mrclass       = {60H10},
      mrnumber      = {3175790},
-     mrreviewer    = {Yong\ Liu},
+     mrreviewer    = {Yong Liu},
      number        = {4},
      pages         = {663--670},
      title         = {On weak solutions of stochastic differential equations {II}},

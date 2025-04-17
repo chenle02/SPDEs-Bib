@@ -15,7 +15,7 @@ yilmaz.zeitouni:10:differing
      journal       = {Comm. Math. Phys.},
      mrclass       = {60F10 (60K37 82B41 82B44)},
      mrnumber      = {2725188},
-     mrreviewer    = {Jean-Baptiste\ Bardet},
+     mrreviewer    = {Jean-Baptiste Bardet},
      number        = {1},
      pages         = {243--271},
      title         = {Differing averaged and quenched large deviations for random walks in random environments in dimensions two and three},

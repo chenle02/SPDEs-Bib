@@ -12,7 +12,7 @@ dembo.zeitouni:93:large
      isbn          = {0-86720-291-2},
      mrclass       = {60F10},
      mrnumber      = {1202429},
-     mrreviewer    = {Paolo\ Baldi},
+     mrreviewer    = {Paolo Baldi},
      pages         = {xiv+346},
      publisher     = {Jones and Bartlett Publishers, Boston, MA},
      title         = {Large deviations techniques and applications},

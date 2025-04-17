@@ -15,7 +15,7 @@ kosygina.yilmaz.ea:20:homogenization
      journal       = {Comm. Partial Differential Equations},
      mrclass       = {35B27 (35K59 60K37 93E20)},
      mrnumber      = {4037096},
-     mrreviewer    = {Ben\ W.\ Schweizer},
+     mrreviewer    = {Ben W. Schweizer},
      number        = {1},
      pages         = {32--56},
      title         = {Homogenization of a class of one-dimensional nonconvex viscous {H}amilton-{J}acobi equations with random potential},

@@ -15,7 +15,7 @@ flandoli.luo.ea:21:numerical
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {65M75 (47D07 60H35)},
      mrnumber      = {4153855},
-     mrreviewer    = {Ilja\ Kr\"{o}ker},
+     mrreviewer    = {Ilja Kr\"{o}ker},
      number        = {1},
      pages         = {Paper No. 124505, 29},
      title         = {A numerical approach to {K}olmogorov equation in high dimension based on {G}aussian analysis},

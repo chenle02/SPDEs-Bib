@@ -15,7 +15,7 @@ shen:09:spreading
      journal       = {Front. Math. China},
      mrclass       = {35K55 (35B40 35C07 37L60 37N25 92D40)},
      mrnumber      = {2525748},
-     mrreviewer    = {Ya.\ \={I}.\ B\={i}lopol{\cprime}s{\cprime}ka},
+     mrreviewer    = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
      number        = {3},
      pages         = {523--562},
      title         = {Spreading and generalized propagating speeds of discrete {KPP} models in time varying environments},

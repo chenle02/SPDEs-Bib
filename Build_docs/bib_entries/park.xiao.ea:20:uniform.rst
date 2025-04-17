@@ -15,7 +15,7 @@ park.xiao.ea:20:uniform
      journal       = {J. Theoret. Probab.},
      mrclass       = {60J76 (28A80 60G17 60G52)},
      mrnumber      = {4166197},
-     mrreviewer    = {Danijel\ Grahovac},
+     mrreviewer    = {Danijel Grahovac},
      number        = {4},
      pages         = {2213--2232},
      title         = {Uniform dimension results for the inverse images of symmetric {L}\'{e}vy processes},

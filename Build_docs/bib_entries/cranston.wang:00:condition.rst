@@ -15,7 +15,7 @@ cranston.wang:00:condition
      journal       = {Ann. Probab.},
      mrclass       = {60J60 (60J05 60J25 60J45)},
      mrnumber      = {1813838},
-     mrreviewer    = {M.\ G.\ Shur},
+     mrreviewer    = {M. G. Shur},
      number        = {4},
      pages         = {1666--1679},
      title         = {A condition for the equivalence of coupling and shift coupling},

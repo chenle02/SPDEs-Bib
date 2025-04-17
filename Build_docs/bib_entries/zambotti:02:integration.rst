@@ -15,7 +15,7 @@ zambotti:02:integration
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {60H07 (35R60 60H15)},
      mrnumber      = {1891060},
-     mrreviewer    = {Sergey\ V.\ Lototsky},
+     mrreviewer    = {Sergey V. Lototsky},
      number        = {3},
      pages         = {209--212},
      title         = {Integration by parts on {B}essel bridges and related stochastic partial differential equations},

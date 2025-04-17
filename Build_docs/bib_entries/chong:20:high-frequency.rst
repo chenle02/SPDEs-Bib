@@ -15,7 +15,7 @@ chong:20:high-frequency
      journal       = {Ann. Statist.},
      mrclass       = {62M40 (60H15 62G20)},
      mrnumber      = {4102691},
-     mrreviewer    = {Mounir\ Zili},
+     mrreviewer    = {Mounir Zili},
      number        = {2},
      pages         = {1143--1167},
      title         = {High-frequency analysis of parabolic stochastic {PDE}s},

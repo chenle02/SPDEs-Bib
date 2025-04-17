@@ -15,7 +15,7 @@ bourgain:81:new
      journal       = {Israel J. Math.},
      mrclass       = {46B22},
      mrnumber      = {617294},
-     mrreviewer    = {G.\ Schechtman},
+     mrreviewer    = {G. Schechtman},
      number        = {1-2},
      pages         = {113--126},
      title         = {A new class of {${\cal L}\sp{1}$}-spaces},

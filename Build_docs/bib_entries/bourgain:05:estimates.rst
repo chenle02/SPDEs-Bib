@@ -15,7 +15,7 @@ bourgain:05:estimates
      journal       = {Geom. Funct. Anal.},
      mrclass       = {11L07},
      mrnumber      = {2140627},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {1},
      pages         = {1--34},
      title         = {Estimates on exponential sums related to the {D}iffie-{H}ellman distributions},

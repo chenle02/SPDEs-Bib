@@ -15,7 +15,7 @@ spitzer:72:variational
      journal       = {Ann. Math. Statist.},
      mrclass       = {60J10},
      mrnumber      = {300346},
-     mrreviewer    = {B.\ Kronfeld},
+     mrreviewer    = {B. Kronfeld},
      pages         = {303--307},
      title         = {A variational characterization of finite {M}arkov chains},
      url           = {https://doi.org/10.1214/aoms/1177692723},

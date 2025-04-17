@@ -14,7 +14,7 @@ bourgain.jitomirskaya:00:anderson
      isbn          = {3-540-41070-8},
      mrclass       = {81Q10 (39A70 47B39 47N50 82B44)},
      mrnumber      = {1796713},
-     mrreviewer    = {Jean-Michel\ Ghez},
+     mrreviewer    = {Jean-Michel Ghez},
      pages         = {67--79},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

@@ -14,7 +14,7 @@ barral:04:techniques
      isbn          = {0-8218-3638-2},
      mrclass       = {28A80 (60G18 60G44 60G55 60G57)},
      mrnumber      = {2112121},
-     mrreviewer    = {Peter\ R.\ Massopust},
+     mrreviewer    = {Peter R. Massopust},
      pages         = {53--90},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Proc. Sympos. Pure Math.},

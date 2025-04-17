@@ -15,7 +15,7 @@ chow.mallet-paret.ea:98:traveling
      journal       = {J. Differential Equations},
      mrclass       = {37L60 (34C23 35Q58 37G99)},
      mrnumber      = {1646240},
-     mrreviewer    = {P.\ W.\ Bates},
+     mrreviewer    = {P. W. Bates},
      number        = {2},
      pages         = {248--291},
      title         = {Traveling waves in lattice dynamical systems},

@@ -15,7 +15,7 @@ shen.shen:17:stability
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {35K58 (35C07 35K57 92D10 92D25)},
      mrnumber      = {3592521},
-     mrreviewer    = {Thomas\ Giletti},
+     mrreviewer    = {Thomas Giletti},
      number        = {4},
      pages         = {2573--2613},
      title         = {Stability, uniqueness and recurrence of generalized traveling waves in time heterogeneous media of ignition type},

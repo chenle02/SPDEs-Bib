@@ -15,7 +15,7 @@ garban.rhodes.ea:16:liouville
      journal       = {Ann. Probab.},
      mrclass       = {60D05 (28A80 60G15)},
      mrnumber      = {3531686},
-     mrreviewer    = {Artemi\ Berlinkov},
+     mrreviewer    = {Artemi Berlinkov},
      number        = {4},
      pages         = {3076--3110},
      title         = {Liouville {B}rownian motion},

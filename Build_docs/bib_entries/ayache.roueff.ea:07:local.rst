@@ -15,7 +15,7 @@ ayache.roueff.ea:07:local
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {60G52 (60G17)},
      mrnumber      = {2310675},
-     mrreviewer    = {Dongsheng\ Wu},
+     mrreviewer    = {Dongsheng Wu},
      number        = {6},
      pages         = {389--394},
      title         = {Local and asymptotic properties of linear fractional stable sheets},

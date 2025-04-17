@@ -15,7 +15,7 @@ kupiainen.rhodes.ea:20:integrability
      journal       = {Ann. of Math. (2)},
      mrclass       = {81T40 (60D99)},
      mrnumber      = {4060417},
-     mrreviewer    = {Nizar\ Demni},
+     mrreviewer    = {Nizar Demni},
      number        = {1},
      pages         = {81--166},
      title         = {Integrability of {L}iouville theory: proof of the {DOZZ} formula},

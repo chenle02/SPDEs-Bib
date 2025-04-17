@@ -15,7 +15,7 @@ atar.zeitouni:98:note
      journal       = {Systems Control Lett.},
      mrclass       = {93E11},
      mrnumber      = {1654897},
-     mrreviewer    = {Michael\ A.\ Kouritzin},
+     mrreviewer    = {Michael A. Kouritzin},
      number        = {2},
      pages         = {131--135},
      title         = {A note on the memory length of optimal nonlinear filters},

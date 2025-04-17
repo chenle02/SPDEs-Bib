@@ -15,7 +15,7 @@ bourgain:81:on*1
      journal       = {J. London Math. Soc. (2)},
      mrclass       = {46B20 (42C99)},
      mrnumber      = {623683},
-     mrreviewer    = {R.\ C.\ James},
+     mrreviewer    = {R. C. James},
      number        = {1},
      pages         = {165--174},
      title         = {On trigonometric series in super reflexive spaces},

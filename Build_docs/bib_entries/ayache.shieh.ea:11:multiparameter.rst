@@ -15,7 +15,7 @@ ayache.shieh.ea:11:multiparameter
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60G22 (28A80 60G17 60J55)},
      mrnumber      = {2884223},
-     mrreviewer    = {Dongsheng\ Wu},
+     mrreviewer    = {Dongsheng Wu},
      number        = {4},
      pages         = {1029--1054},
      title         = {Multiparameter multifractional {B}rownian motion: local nondeterminism and joint continuity of the local times},

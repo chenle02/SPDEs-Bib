@@ -15,7 +15,7 @@ bourgain.milman:86:distances
      journal       = {Integral Equations Operator Theory},
      mrclass       = {46B20 (46B25)},
      mrnumber      = {824618},
-     mrreviewer    = {David\ Yost},
+     mrreviewer    = {David Yost},
      number        = {1},
      pages         = {31--46},
      title         = {Distances between normed spaces, their subspaces and quotient spaces},

@@ -15,7 +15,7 @@ kifer.varadhan:14:nonconventional
      journal       = {Ann. Probab.},
      mrclass       = {60F17 (37D35 60G15 60G42)},
      mrnumber      = {3178470},
-     mrreviewer    = {Dominique\ L\'epingle},
+     mrreviewer    = {Dominique L\'epingle},
      number        = {2},
      pages         = {649--688},
      title         = {Nonconventional limit theorems in discrete and continuous time via martingales},

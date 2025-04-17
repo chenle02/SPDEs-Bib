@@ -15,7 +15,7 @@ barral:00:differentiability
      journal       = {Ann. Inst. H. Poincar\'e{} Probab. Statist.},
      mrclass       = {60J80 (60F15 60G42)},
      mrnumber      = {1785388},
-     mrreviewer    = {Quansheng\ Liu},
+     mrreviewer    = {Quansheng Liu},
      number        = {4},
      pages         = {407--417},
      title         = {Differentiability of multiplicative processes related to branching random walks},

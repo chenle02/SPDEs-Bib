@@ -15,7 +15,7 @@ bourgain:92:remark
      journal       = {Israel J. Math.},
      mrclass       = {46E30 (43A15 46B07)},
      mrnumber      = {1248913},
-     mrreviewer    = {G.\ Schechtman},
+     mrreviewer    = {G. Schechtman},
      number        = {2-3},
      pages         = {193--206},
      title         = {A remark on the behaviour of {$L^p$}-multipliers and the range of operators acting on {\$L^p\$}-spaces},

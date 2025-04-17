@@ -15,7 +15,7 @@ bourgain:99:on*1
      journal       = {J. Anal. Math.},
      mrclass       = {35J10 (35B10 35K40 47N20)},
      mrnumber      = {1753490},
-     mrreviewer    = {C.\ Eugene\ Wayne},
+     mrreviewer    = {C. Eugene Wayne},
      pages         = {315--348},
      title         = {On growth of {S}obolev norms in linear {S}chr\"{o}dinger equations with smooth time dependent potential},
      url           = {https://doi.org/10.1007/BF02791265},

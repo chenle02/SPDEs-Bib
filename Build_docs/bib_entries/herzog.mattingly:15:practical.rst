@@ -15,7 +15,7 @@ herzog.mattingly:15:practical
      journal       = {Nonlinearity},
      mrclass       = {60H10 (60H07 93B27)},
      mrnumber      = {3382587},
-     mrreviewer    = {Tomoyuki\ Ichiba},
+     mrreviewer    = {Tomoyuki Ichiba},
      number        = {8},
      pages         = {2823--2845},
      title         = {A practical criterion for positivity of transition densities},

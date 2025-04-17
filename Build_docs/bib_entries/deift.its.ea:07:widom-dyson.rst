@@ -15,7 +15,7 @@ deift.its.ea:07:widom-dyson
      journal       = {J. Comput. Appl. Math.},
      mrclass       = {82B41 (15A52 30E25 34E05)},
      mrnumber      = {2301810},
-     mrreviewer    = {Razvan\ Teodorescu},
+     mrreviewer    = {Razvan Teodorescu},
      number        = {1},
      pages         = {26--47},
      title         = {The {W}idom-{D}yson constant for the gap probability in random matrix theory},

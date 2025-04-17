@@ -15,7 +15,7 @@ flandoli.leocata.ea:19:vlasov-navier-stokes
      journal       = {Discrete Contin. Dyn. Syst. Ser. B},
      mrclass       = {35Q83 (35Q30 60K35 76D05)},
      mrnumber      = {3986254},
-     mrreviewer    = {Sebastian\ Hermann\ Bauer},
+     mrreviewer    = {Sebastian Hermann Bauer},
      number        = {8},
      pages         = {3741--3753},
      title         = {The {V}lasov-{N}avier-{S}tokes equations as a mean field limit},

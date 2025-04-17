@@ -15,7 +15,7 @@ kesten:59:symmetric
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60.00 (20.00)},
      mrnumber      = {109367},
-     mrreviewer    = {H.\ Bergstr\"om},
+     mrreviewer    = {H. Bergstr\"om},
      pages         = {336--354},
      title         = {Symmetric random walks on groups},
      url           = {https://doi.org/10.2307/1993160},

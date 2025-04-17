@@ -15,7 +15,7 @@ chen.li.ea:15:on
      journal       = {Commun. Pure Appl. Anal.},
      mrclass       = {60H15 (26A33 34A08 34G20 35R11 35R60)},
      mrnumber      = {3359546},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {5},
      pages         = {1817--1840},
      title         = {On the initial value problem of fractional stochastic evolution equations in {H}ilbert spaces},

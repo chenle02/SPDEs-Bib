@@ -15,7 +15,7 @@ bourgain.garaev.ea:12:on
      journal       = {SIAM J. Comput.},
      mrclass       = {11T06 (11Y16 68Q25 94A60)},
      mrnumber      = {3023803},
-     mrreviewer    = {Tom\ Sanders},
+     mrreviewer    = {Tom Sanders},
      number        = {6},
      pages         = {1524--1557},
      title         = {On the hidden shifted power problem},

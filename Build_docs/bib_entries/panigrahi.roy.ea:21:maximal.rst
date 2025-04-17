@@ -15,7 +15,7 @@ panigrahi.roy.ea:21:maximal
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60G60 (60G17 60G52 60G70)},
      mrnumber      = {4238104},
-     mrreviewer    = {Sreenivasan\ Ravi},
+     mrreviewer    = {Sreenivasan Ravi},
      pages         = {92--124},
      title         = {Maximal moments and uniform modulus of continuity for stable random fields},
      url           = {https://doi.org/10.1016/j.spa.2021.02.002},

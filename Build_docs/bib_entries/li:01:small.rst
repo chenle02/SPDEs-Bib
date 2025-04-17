@@ -15,7 +15,7 @@ li:01:small
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60G15 (60J25 60J65)},
      mrnumber      = {1815180},
-     mrreviewer    = {Qi\ Man\ Shao},
+     mrreviewer    = {Qi Man Shao},
      number        = {1},
      pages         = {87--102},
      title         = {Small ball probabilities for {G}aussian {M}arkov processes under the {$L_p$}-norm},

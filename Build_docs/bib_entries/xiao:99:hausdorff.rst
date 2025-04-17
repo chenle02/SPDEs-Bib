@@ -14,7 +14,7 @@ xiao:99:hausdorff
      journal       = {Acta Sci. Math. (Szeged)},
      mrclass       = {60G17 (60G18 60G52 60K37)},
      mrnumber      = {1702175},
-     mrreviewer    = {J.\ L.\ Mijnheer},
+     mrreviewer    = {J. L. Mijnheer},
      number        = {1-2},
      pages         = {385--395},
      title         = {The {H}ausdorff dimension of the level sets of stable processes in random scenery},

@@ -15,7 +15,7 @@ bourgain:12:integral
      journal       = {J. Anal. Math.},
      mrclass       = {52C26},
      mrnumber      = {2993027},
-     mrreviewer    = {Egon\ Schulte},
+     mrreviewer    = {Egon Schulte},
      number        = {1},
      pages         = {221--249},
      title         = {Integral {A}pollonian circle packings and prime curvatures},

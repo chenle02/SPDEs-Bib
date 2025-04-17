@@ -15,7 +15,7 @@ cranston.scheutzow:02:dispersion
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60G35 (60G15 60K40 76F55 76M35)},
      mrnumber      = {1910637},
-     mrreviewer    = {Sreenivasan\ Ravi},
+     mrreviewer    = {Sreenivasan Ravi},
      number        = {2},
      pages         = {511--532},
      title         = {Dispersion rates under finite mode {K}olmogorov flows},

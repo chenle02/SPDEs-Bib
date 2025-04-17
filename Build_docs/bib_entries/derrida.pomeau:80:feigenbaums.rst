@@ -15,7 +15,7 @@ derrida.pomeau:80:feigenbaums
      journal       = {Phys. Lett. A},
      mrclass       = {58F13 (76F99 82A05)},
      mrnumber      = {594735},
-     mrreviewer    = {Frederick\ R.\ Marotto},
+     mrreviewer    = {Frederick R. Marotto},
      number        = {4},
      pages         = {217--219},
      title         = {Feigenbaum's ratios of two-dimensional area preserving maps},

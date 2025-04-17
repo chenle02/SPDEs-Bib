@@ -15,7 +15,7 @@ zambotti:08:conservative
      journal       = {Electron. J. Probab.},
      mrclass       = {60J65 (37L40 60G15 60H07 60H15)},
      mrnumber      = {2424988},
-     mrreviewer    = {Jan\ I.\ Seidler},
+     mrreviewer    = {Jan I. Seidler},
      pages         = {no. 37, 1096--1119},
      title         = {A conservative evolution of the {B}rownian excursion},
      url           = {https://doi.org/10.1214/EJP.v13-525},

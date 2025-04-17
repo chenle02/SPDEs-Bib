@@ -15,7 +15,7 @@ bourgain.demeter:15:new
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {42B10 (11E04)},
      mrnumber      = {3373047},
-     mrreviewer    = {Juan\ Luis\ Varona},
+     mrreviewer    = {Juan Luis Varona},
      number        = {11},
      pages         = {3150--3184},
      title         = {New bounds for the discrete {F}ourier restriction to the sphere in 4{D} and 5{D}},

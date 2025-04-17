@@ -14,7 +14,7 @@ olla.varadhan.ea:93:hydrodynamical
      journal       = {Comm. Math. Phys.},
      mrclass       = {60K35 (82C22 82C31)},
      mrnumber      = {1231642},
-     mrreviewer    = {Pablo\ A.\ Ferrari},
+     mrreviewer    = {Pablo A. Ferrari},
      number        = {3},
      pages         = {523--560},
      title         = {Hydrodynamical limit for a {H}amiltonian system with weak noise},

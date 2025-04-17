@@ -15,7 +15,7 @@ zambotti:14:lequation
      journal       = {Ast\'{e}risque},
      mrclass       = {35R60 (35B10 35B65 35K59 60H15 60H99 60K35)},
      mrnumber      = {3289283},
-     mrreviewer    = {Wilhelm\ Stannat},
+     mrreviewer    = {Wilhelm Stannat},
      number        = {361},
      pages         = {Exp. No. 1066, viii, 251--269},
      title         = {L'\'{e}quation de {K}ardar-{P}arisi-{Z}hang (d'apr\`es {M}artin {H}airer)},

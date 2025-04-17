@@ -13,7 +13,7 @@ spitzer:62:hitting
      journal       = {J. Math. Mech.},
      mrclass       = {60.66},
      mrnumber      = {139219},
-     mrreviewer    = {J.\ Gillis},
+     mrreviewer    = {J. Gillis},
      pages         = {593--614},
      title         = {Hitting probabilities},
      volume        = {11},

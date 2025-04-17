@@ -14,7 +14,7 @@ bourgain:80:remarks
      journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
      mrclass       = {46B20},
      mrnumber      = {682640},
-     mrreviewer    = {Constantin\ Niculescu},
+     mrreviewer    = {Constantin Niculescu},
      number        = {2},
      pages         = {171--178},
      title         = {Remarks on the double dual of a {B}anach space},

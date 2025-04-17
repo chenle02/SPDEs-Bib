@@ -14,7 +14,7 @@ xiao:88:equivalence
      journal       = {J. Wuhan Univ. Natur. Sci. Ed.},
      mrclass       = {42B99 (42A75)},
      mrnumber      = {965670},
-     mrreviewer    = {Weiyi\ Su},
+     mrreviewer    = {Weiyi Su},
      number        = {1},
      pages         = {1--8},
      title         = {The equivalence problem for classes of almost periodic functions of two variables},

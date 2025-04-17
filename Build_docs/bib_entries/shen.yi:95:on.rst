@@ -15,7 +15,7 @@ shen.yi:95:on
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {58F39 (34C27 35B40 35K55 54H20 58F27)},
      mrnumber      = {1311916},
-     mrreviewer    = {Janusz\ Mierczy\'{n}ski},
+     mrreviewer    = {Janusz Mierczy\'{n}ski},
      number        = {11},
      pages         = {4413--4431},
      title         = {On minimal sets of scalar parabolic equations with skew-product structures},

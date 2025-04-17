@@ -14,7 +14,7 @@ stroock.zeitouni:96:variations
      journal       = {Ast\'{e}risque},
      mrclass       = {58G32},
      mrnumber      = {1417989},
-     mrreviewer    = {Ming\ Liao},
+     mrreviewer    = {Ming Liao},
      note          = {Hommage \`a P. A. Meyer et J. Neveu},
      number        = {236},
      pages         = {291--301},

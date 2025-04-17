@@ -15,7 +15,7 @@ afraimovich.chow.ea:96:hyperbolic
      journal       = {Internat. J. Bifur. Chaos Appl. Sci. Engrg.},
      mrclass       = {58F15 (58F13 58F39 82C05)},
      mrnumber      = {1409410},
-     mrreviewer    = {Volker\ Matthias\ Gundlach},
+     mrreviewer    = {Volker Matthias Gundlach},
      note          = {Nonlinear dynamics, bifurcations and chaotic behavior},
      number        = {6},
      pages         = {1059--1075},

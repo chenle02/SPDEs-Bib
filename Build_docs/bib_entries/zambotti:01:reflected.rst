@@ -15,7 +15,7 @@ zambotti:01:reflected
      journal       = {J. Funct. Anal.},
      mrclass       = {60H15 (35R60 60J65)},
      mrnumber      = {1814427},
-     mrreviewer    = {David\ Nualart},
+     mrreviewer    = {David Nualart},
      number        = {1},
      pages         = {195--209},
      title         = {A reflected stochastic heat equation as symmetric dynamics with respect to the 3-d {B}essel bridge},

@@ -14,7 +14,7 @@ bourgain:13:on*2
      isbn          = {978-1-4614-6405-1; 978-1-4614-6406-8},
      mrclass       = {37D50 (37D25)},
      mrnumber      = {3076146},
-     mrreviewer    = {Boris\ Hasselblatt},
+     mrreviewer    = {Boris Hasselblatt},
      pages         = {39--44},
      publisher     = {Springer, New York},
      series        = {Fields Inst. Commun.},

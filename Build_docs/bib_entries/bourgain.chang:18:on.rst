@@ -15,7 +15,7 @@ bourgain.chang:18:on
      journal       = {J. Anal. Math.},
      mrclass       = {11B75},
      mrnumber      = {3892474},
-     mrreviewer    = {Art\={u}ras\ Dubickas},
+     mrreviewer    = {Art\={u}ras Dubickas},
      number        = {1},
      pages         = {253--271},
      title         = {On a paper of {E}rd\"{o}s and {S}zekeres},

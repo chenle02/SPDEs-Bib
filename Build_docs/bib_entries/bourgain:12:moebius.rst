@@ -14,7 +14,7 @@ bourgain:12:moebius
      isbn          = {978-3-642-29848-6; 978-3-642-29849-3},
      mrclass       = {39A12 (39A70 47B99 81Q05 82B44)},
      mrnumber      = {2985130},
-     mrreviewer    = {Illya\ M.\ Karabash},
+     mrreviewer    = {Illya M. Karabash},
      pages         = {143--150},
      publisher     = {Springer, Heidelberg},
      series        = {Lecture Notes in Math.},

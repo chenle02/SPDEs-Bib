@@ -15,7 +15,7 @@ wu.xiao:09:continuity
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60J55 (60G15 60G17 60G60)},
      mrnumber      = {2519346},
-     mrreviewer    = {Marco\ Dozzi},
+     mrreviewer    = {Marco Dozzi},
      number        = {6},
      pages         = {1823--1844},
      title         = {Continuity in the {H}urst index of the local times of anisotropic {G}aussian random fields},

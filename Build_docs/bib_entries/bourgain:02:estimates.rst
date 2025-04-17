@@ -15,7 +15,7 @@ bourgain:02:estimates
      journal       = {Ann. of Math. (2)},
      mrclass       = {82C10 (35A08 35Q40 81Q10)},
      mrnumber      = {1935847},
-     mrreviewer    = {David\ Damanik},
+     mrreviewer    = {David Damanik},
      number        = {1},
      pages         = {249--294},
      title         = {Estimates on {G}reen's functions, localization and the quantum kicked rotor model},

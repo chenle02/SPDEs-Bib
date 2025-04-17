@@ -15,7 +15,7 @@ berger.lacoin:12:sharp
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60K37 (60K05 82B44 82D60)},
      mrnumber      = {2914757},
-     mrreviewer    = {David\ A.\ Croydon},
+     mrreviewer    = {David A. Croydon},
      number        = {4},
      pages         = {1397--1436},
      title         = {Sharp critical behavior for pinning models in a random correlated environment},

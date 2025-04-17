@@ -15,7 +15,7 @@ bourgain:93:on*1
      journal       = {Israel J. Math.},
      mrclass       = {28D05 (42A05)},
      mrnumber      = {1244658},
-     mrreviewer    = {Joseph\ Max\ Rosenblatt},
+     mrreviewer    = {Joseph Max Rosenblatt},
      number        = {1-2},
      pages         = {53--63},
      title         = {On the spectral type of {O}rnstein's class one transformations},

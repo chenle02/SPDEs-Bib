@@ -15,7 +15,7 @@ bourgain.reinov:85:on
      journal       = {Math. Nachr.},
      mrclass       = {46E15 (46J15)},
      mrnumber      = {871186},
-     mrreviewer    = {P.\ Saphar},
+     mrreviewer    = {P. Saphar},
      pages         = {19--27},
      title         = {On the approximation properties for the space {$H^infty$}},
      url           = {https://doi.org/10.1002/mana.19851220103},

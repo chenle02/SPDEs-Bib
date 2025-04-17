@@ -15,7 +15,7 @@ bourgain:94:approximation
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {35Q55},
      mrnumber      = {1264931},
-     mrreviewer    = {Xian\ Guo\ Geng},
+     mrreviewer    = {Xian Guo Geng},
      number        = {2},
      pages         = {79--88},
      title         = {Approximation of solutions of the cubic nonlinear {S}chr\"{o}dinger equations by finite-dimensional equations and nonsqueezing properties},

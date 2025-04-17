@@ -14,7 +14,7 @@ bourgain.kalton.ea:89:geometry
      isbn          = {3-540-51303-5},
      mrclass       = {46B25},
      mrnumber      = {1008721},
-     mrreviewer    = {H.\ E.\ Lacey},
+     mrreviewer    = {H. E. Lacey},
      pages         = {138--175},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

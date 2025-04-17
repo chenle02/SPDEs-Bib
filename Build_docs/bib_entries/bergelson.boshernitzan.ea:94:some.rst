@@ -15,7 +15,7 @@ bergelson.boshernitzan.ea:94:some
      journal       = {J. Anal. Math.},
      mrclass       = {28D10 (47A35)},
      mrnumber      = {1269198},
-     mrreviewer    = {Karl\ Petersen},
+     mrreviewer    = {Karl Petersen},
      pages         = {29--46},
      title         = {Some results on nonlinear recurrence},
      url           = {https://doi.org/10.1007/BF02835947},

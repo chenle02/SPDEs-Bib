@@ -15,7 +15,7 @@ wu.xiao:07:geometric
      journal       = {J. Fourier Anal. Appl.},
      mrclass       = {60G15 (42B10 43A46)},
      mrnumber      = {2296726},
-     mrreviewer    = {Michal\ Vyoral},
+     mrreviewer    = {Michal Vyoral},
      number        = {1},
      pages         = {1--37},
      title         = {Geometric properties of fractional {B}rownian sheets},

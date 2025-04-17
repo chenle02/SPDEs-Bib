@@ -12,7 +12,7 @@ papanicolaou.varadhan:82:diffusions
      booktitle     = {Statistics and probability: essays in honor of {C}. {R}. {R}ao},
      mrclass       = {60J60},
      mrnumber      = {659505},
-     mrreviewer    = {A.\ D.\ Borisenko},
+     mrreviewer    = {A. D. Borisenko},
      pages         = {547--552},
      publisher     = {North-Holland, Amsterdam},
      title         = {Diffusions with random coefficients},

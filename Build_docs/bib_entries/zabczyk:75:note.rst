@@ -14,7 +14,7 @@ zabczyk:75:note
      journal       = {Kybernetika (Prague)},
      mrclass       = {34D05 (93E20)},
      mrnumber      = {393693},
-     mrreviewer    = {Ruth\ Curtain},
+     mrreviewer    = {Ruth Curtain},
      number        = {3},
      pages         = {218--222},
      title         = {A note on the exponential stability of a matrix {R}iccati equation of stochastic control},

@@ -15,7 +15,7 @@ brzezniak.ondrejat.ea:16:invariant
      journal       = {J. Differential Equations},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {3437583},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {5},
      pages         = {4157--4179},
      title         = {Invariant measures for stochastic nonlinear beam and wave equations},

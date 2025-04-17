@@ -14,7 +14,7 @@ simon:95:spectral
      isbn          = {0-8218-0366-2},
      mrclass       = {47A40 (47N50 81Q10 82B10)},
      mrnumber      = {1332038},
-     mrreviewer    = {Alexei\ Yu.\ Konstantinov},
+     mrreviewer    = {Alexei Yu. Konstantinov},
      pages         = {109--149},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {CRM Proc. Lecture Notes},

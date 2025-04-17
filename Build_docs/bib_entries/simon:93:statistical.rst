@@ -13,7 +13,7 @@ simon:93:statistical
      isbn          = {0-691-08779-2},
      mrclass       = {82-02 (46L60 46N55 47N55 82B20)},
      mrnumber      = {1239893},
-     mrreviewer    = {H.\ Araki},
+     mrreviewer    = {H. Araki},
      pages         = {x+522},
      publisher     = {Princeton University Press, Princeton, NJ},
      series        = {Princeton Series in Physics},

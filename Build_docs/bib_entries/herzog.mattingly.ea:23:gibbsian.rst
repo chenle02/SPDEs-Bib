@@ -15,7 +15,7 @@ herzog.mattingly.ea:23:gibbsian
      journal       = {Electron. J. Probab.},
      mrclass       = {60H10},
      mrnumber      = {4536688},
-     mrreviewer    = {Jan\ I.\ Seidler},
+     mrreviewer    = {Jan I. Seidler},
      pages         = {Paper No. 13, 29},
      title         = {Gibbsian dynamics and the generalized {L}angevin equation},
      url           = {https://doi.org/10.1214/23-ejp904},

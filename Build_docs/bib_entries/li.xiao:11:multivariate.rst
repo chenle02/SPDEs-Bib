@@ -15,7 +15,7 @@ li.xiao:11:multivariate
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60G60 (60G15 60G18)},
      mrnumber      = {2794972},
-     mrreviewer    = {Anatoliy\ Malyarenko},
+     mrreviewer    = {Anatoliy Malyarenko},
      number        = {6},
      pages         = {1178--1200},
      title         = {Multivariate operator-self-similar random fields},

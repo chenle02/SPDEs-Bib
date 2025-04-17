@@ -15,7 +15,7 @@ guionnet.zeitouni:12:support
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60B20 (46L53 60B10)},
      mrnumber      = {3000558},
-     mrreviewer    = {Florent\ Benaych-Georges},
+     mrreviewer    = {Florent Benaych-Georges},
      number        = {3-4},
      pages         = {661--675},
      title         = {Support convergence in the single ring theorem},

@@ -15,7 +15,7 @@ bourgain:02:on*4
      journal       = {J. Anal. Math.},
      mrclass       = {47B39 (35P20 47A10 47N50 81Q10)},
      mrnumber      = {1945277},
-     mrreviewer    = {David\ Damanik},
+     mrreviewer    = {David Damanik},
      note          = {Dedicated to the memory of Thomas H. Wolff},
      pages         = {37--75},
      title         = {On the spectrum of lattice {S}chr\"{o}dinger operators with deterministic potential},

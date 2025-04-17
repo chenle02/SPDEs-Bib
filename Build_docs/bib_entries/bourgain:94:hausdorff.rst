@@ -15,7 +15,7 @@ bourgain:94:hausdorff
      journal       = {Israel J. Math.},
      mrclass       = {28A78},
      mrnumber      = {1286826},
-     mrreviewer    = {K.\ E.\ Hirst},
+     mrreviewer    = {K. E. Hirst},
      number        = {1-3},
      pages         = {193--201},
      title         = {Hausdorff dimension and distance sets},

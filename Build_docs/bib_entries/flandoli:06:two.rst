@@ -14,7 +14,7 @@ flandoli:06:two
      isbn          = {978-0-8247-0027-0; 0-8247-0027-9},
      mrclass       = {60G60 (60H15)},
      mrnumber      = {2227224},
-     mrreviewer    = {David\ Nualart},
+     mrreviewer    = {David Nualart},
      pages         = {105--114},
      publisher     = {Chapman \& Hall/CRC, Boca Raton, FL},
      series        = {Lect. Notes Pure Appl. Math.},

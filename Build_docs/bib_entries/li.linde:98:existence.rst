@@ -15,7 +15,7 @@ li.linde:98:existence
      journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
      mrclass       = {60G05 (60G17)},
      mrnumber      = {1649147},
-     mrreviewer    = {Qi\ Man\ Shao},
+     mrreviewer    = {Qi Man Shao},
      number        = {11},
      pages         = {1329--1334},
      title         = {Existence of small ball constants for fractional {B}rownian motions},

@@ -15,7 +15,7 @@ derrida.janowsky.ea:93:microscopic-shock
      journal       = {Europhys. Lett.},
      mrclass       = {81T25 (60G99 81T50 82B26 82C35)},
      mrnumber      = {1226155},
-     mrreviewer    = {Krystyna\ Parczyk},
+     mrreviewer    = {Krystyna Parczyk},
      number        = {9},
      pages         = {651--656},
      title         = {Microscopic-shock profiles: exact solution of a nonequilibrium system},

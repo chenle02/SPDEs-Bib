@@ -15,7 +15,7 @@ spitzer:75:random
      journal       = {Advances in Math.},
      mrclass       = {60K35},
      mrnumber      = {365776},
-     mrreviewer    = {T.\ M.\ Liggett},
+     mrreviewer    = {T. M. Liggett},
      pages         = {139--143},
      title         = {Random time evolution of infinite particle systems},
      url           = {https://doi.org/10.1016/0001-8708(75)90146-2},

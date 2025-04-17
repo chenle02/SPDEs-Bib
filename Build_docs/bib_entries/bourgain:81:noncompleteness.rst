@@ -14,7 +14,7 @@ bourgain:81:noncompleteness
      journal       = {Colloq. Math.},
      mrclass       = {46A45 (46B99)},
      mrnumber      = {633114},
-     mrreviewer    = {M.\ S.\ Ramanujan},
+     mrreviewer    = {M. S. Ramanujan},
      number        = {1},
      pages         = {175--178},
      title         = {Noncompleteness of some convergence on {$l\sp{1}$}},

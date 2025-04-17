@@ -14,7 +14,7 @@ zabczyk:75:note*1
      journal       = {Bull. Acad. Polon. Sci. S\'{e}r. Sci. Math. Astronom. Phys.},
      mrclass       = {47D05},
      mrnumber      = {383144},
-     mrreviewer    = {Marshall\ Slemrod},
+     mrreviewer    = {Marshall Slemrod},
      number        = {8},
      pages         = {895--898},
      title         = {A note on {$C\sb{0}$}-semigroups},

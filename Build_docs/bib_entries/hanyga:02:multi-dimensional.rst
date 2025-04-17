@@ -15,7 +15,7 @@ hanyga:02:multi-dimensional
      journal       = {R. Soc. Lond. Proc. Ser. A Math. Phys. Eng. Sci.},
      mrclass       = {60J60 (26A33 60K40)},
      mrnumber      = {1889936},
-     mrreviewer    = {Jose\ Luis\ Menaldi},
+     mrreviewer    = {Jose Luis Menaldi},
      number        = {2018},
      pages         = {429--450},
      title         = {Multi-dimensional solutions of space-time-fractional diffusion equations},

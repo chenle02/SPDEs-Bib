@@ -12,7 +12,7 @@ bourgain:80:complementation
      booktitle     = {Seminar on {F}unctional {A}nalysis, 1979--1980 ({F}rench)},
      mrclass       = {46E30 (46B25)},
      mrnumber      = {604408},
-     mrreviewer    = {A.\ V.\ Bukhvalov},
+     mrreviewer    = {A. V. Bukhvalov},
      pages         = {Exp. No. 27, 7},
      publisher     = {\'{E}cole Polytech., Palaiseau},
      title         = {Compl\'{e}mentation de sous-espaces {$L\sp{1}$} dans les espaces {\$L\sp{1}\$}},

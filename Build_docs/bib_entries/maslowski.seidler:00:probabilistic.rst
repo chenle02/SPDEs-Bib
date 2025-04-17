@@ -15,7 +15,7 @@ maslowski.seidler:00:probabilistic
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60J35 (60H10 60H15)},
      mrnumber      = {1790081},
-     mrreviewer    = {Tu\ Sheng\ Zhang},
+     mrreviewer    = {Tu Sheng Zhang},
      number        = {2},
      pages         = {187--210},
      title         = {Probabilistic approach to the strong {F}eller property},

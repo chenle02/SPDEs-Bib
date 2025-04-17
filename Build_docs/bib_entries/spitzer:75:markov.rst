@@ -15,7 +15,7 @@ spitzer:75:markov
      journal       = {Ann. Probability},
      mrclass       = {60K35},
      mrnumber      = {378152},
-     mrreviewer    = {T.\ M.\ Liggett},
+     mrreviewer    = {T. M. Liggett},
      number        = {3},
      pages         = {387--398},
      title         = {Markov random fields on an infinite tree},

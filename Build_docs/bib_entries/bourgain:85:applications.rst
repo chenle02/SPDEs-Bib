@@ -15,7 +15,7 @@ bourgain:85:applications
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {46E15 (32A35 46J15 47B38)},
      mrnumber      = {770536},
-     mrreviewer    = {P.\ Wojtaszczyk},
+     mrreviewer    = {P. Wojtaszczyk},
      number        = {2},
      pages         = {277--283},
      title         = {Applications of the spaces of homogeneous polynomials to some problems on the ball algebra},

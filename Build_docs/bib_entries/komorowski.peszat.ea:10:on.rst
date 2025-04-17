@@ -15,7 +15,7 @@ komorowski.peszat.ea:10:on
      journal       = {Ann. Probab.},
      mrclass       = {60J25 (37A50 60H15 76M35)},
      mrnumber      = {2663632},
-     mrreviewer    = {Huijie\ Qiao},
+     mrreviewer    = {Huijie Qiao},
      number        = {4},
      pages         = {1401--1443},
      title         = {On ergodicity of some {M}arkov processes},

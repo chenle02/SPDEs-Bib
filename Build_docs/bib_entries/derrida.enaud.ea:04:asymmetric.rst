@@ -15,7 +15,7 @@ derrida.enaud.ea:04:asymmetric
      journal       = {J. Statist. Phys.},
      mrclass       = {82C22 (60K35)},
      mrnumber      = {2070099},
-     mrreviewer    = {Ellen\ Saada},
+     mrreviewer    = {Ellen Saada},
      number        = {1-2},
      pages         = {365--382},
      title         = {The asymmetric exclusion process and {B}rownian excursions},

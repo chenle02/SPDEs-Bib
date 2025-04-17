@@ -15,7 +15,7 @@ gorbachuk.gorbachuk.ea:89:theory
      journal       = {Ukrain. Mat. Zh.},
      mrclass       = {47B25 (34G10 47A20 47B44 47E05)},
      mrnumber      = {1034669},
-     mrreviewer    = {R.\ C.\ Gilbert},
+     mrreviewer    = {R. C. Gilbert},
      number        = {10},
      pages         = {1299--1313, 1436},
      title         = {The theory of extensions of symmetric operators, and boundary value problems for differential equations},

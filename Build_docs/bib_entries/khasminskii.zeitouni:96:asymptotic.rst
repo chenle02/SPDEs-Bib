@@ -15,7 +15,7 @@ khasminskii.zeitouni:96:asymptotic
      journal       = {Stochastic Process. Appl.},
      mrclass       = {93E11 (60J10 62M05)},
      mrnumber      = {1411186},
-     mrreviewer    = {Fred\ Espen\ Benth},
+     mrreviewer    = {Fred Espen Benth},
      number        = {1},
      pages         = {1--10},
      title         = {Asymptotic filtering for finite state {M}arkov chains},

@@ -16,7 +16,7 @@ bourgain:13:on
      journal       = {Tr. Mat. Inst. Steklova},
      mrclass       = {42B20 (35J10 35Q41)},
      mrnumber      = {3241836},
-     mrreviewer    = {Juan\ Luis\ Varona},
+     mrreviewer    = {Juan Luis Varona},
      pages         = {53--66},
      title         = {On the {S}chr\"{o}dinger maximal function in higher dimension},
      url           = {https://doi.org/10.1134/s0081543813010045},

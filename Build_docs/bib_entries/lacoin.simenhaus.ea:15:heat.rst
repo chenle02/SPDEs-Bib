@@ -15,7 +15,7 @@ lacoin.simenhaus.ea:15:heat
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {82C20 (60K35 82C22)},
      mrnumber      = {3378196},
-     mrreviewer    = {Aernout\ C. D. van Enter},
+     mrreviewer    = {Aernout C. D. van Enter},
      number        = {9},
      pages         = {1640--1681},
      title         = {The heat equation shrinks {I}sing droplets to points},

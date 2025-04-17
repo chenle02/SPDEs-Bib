@@ -15,7 +15,7 @@ pisztora.povel.ea:99:precise
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60F10 (60J15 60K35 82C41)},
      mrnumber      = {1676839},
-     mrreviewer    = {Timo\ Sepp\"{a}l\"{a}inen},
+     mrreviewer    = {Timo Sepp\"{a}l\"{a}inen},
      number        = {2},
      pages         = {191--219},
      title         = {Precise large deviation estimates for a one-dimensional random walk in a random environment},

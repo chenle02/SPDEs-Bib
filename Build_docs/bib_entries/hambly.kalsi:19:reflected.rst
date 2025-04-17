@@ -15,7 +15,7 @@ hambly.kalsi:19:reflected
      journal       = {Stoch. Partial Differ. Equ. Anal. Comput.},
      mrclass       = {35R37 (35K40 35K91 35R60 60H15)},
      mrnumber      = {4022287},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {4},
      pages         = {746--807},
      title         = {A reflected moving boundary problem driven by space-time white noise},

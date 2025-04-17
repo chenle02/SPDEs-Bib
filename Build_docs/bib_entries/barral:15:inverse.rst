@@ -15,7 +15,7 @@ barral:15:inverse
      journal       = {Ann. Sci. \'Ec. Norm. Sup\'er. (4)},
      mrclass       = {28A80 (28A78)},
      mrnumber      = {3429473},
-     mrreviewer    = {Lars\ Olsen},
+     mrreviewer    = {Lars Olsen},
      number        = {6},
      pages         = {1457--1510},
      title         = {Inverse problems in multifractal analysis of measures},

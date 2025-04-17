@@ -15,7 +15,7 @@ spitzer:75:phase
      journal       = {J. Functional Analysis},
      mrclass       = {60K35},
      mrnumber      = {388583},
-     mrreviewer    = {Richard\ Holley},
+     mrreviewer    = {Richard Holley},
      number        = {3},
      pages         = {240--255},
      title         = {Phase transition in one-dimensional nearest-neighbor systems},

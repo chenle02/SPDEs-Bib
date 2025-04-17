@@ -14,7 +14,7 @@ zabczyk:69:probabilites
      journal       = {Bull. Acad. Polon. Sci. S\'{e}r. Sci. Math. Astronom. Phys.},
      mrclass       = {60.65},
      mrnumber      = {285054},
-     mrreviewer    = {A.\ Fuchs},
+     mrreviewer    = {A. Fuchs},
      pages         = {827--831},
      title         = {Probabilit\'{e}s d'atteintes d'un ensemble dans les cha\^{i}nes de {M}arkov},
      volume        = {17},

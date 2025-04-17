@@ -14,7 +14,7 @@ bourgain:77:compact
      journal       = {Bull. Soc. Math. Belg.},
      mrclass       = {54C50},
      mrnumber      = {470931},
-     mrreviewer    = {J.\ D.\ Baum},
+     mrreviewer    = {J. D. Baum},
      number        = {2},
      pages         = {135--143},
      title         = {Compact sets of first {B}aire class},

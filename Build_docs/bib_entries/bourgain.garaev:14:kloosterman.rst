@@ -15,7 +15,7 @@ bourgain.garaev:14:kloosterman
      journal       = {Acta Arith.},
      mrclass       = {11L05},
      mrnumber      = {3223318},
-     mrreviewer    = {Michelle\ R.\ DeDeo},
+     mrreviewer    = {Michelle R. DeDeo},
      number        = {1},
      pages         = {43--64},
      title         = {Kloosterman sums in residue rings},

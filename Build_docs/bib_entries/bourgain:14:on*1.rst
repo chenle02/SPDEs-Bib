@@ -14,7 +14,7 @@ bourgain:14:on*1
      isbn          = {978-3-319-09476-2; 978-3-319-09477-9},
      mrclass       = {35P15 (35J10 35P05 47B39 81Q12 82B20 82B44)},
      mrnumber      = {3364680},
-     mrreviewer    = {Michael\ A.\ Perelmuter},
+     mrreviewer    = {Michael A. Perelmuter},
      pages         = {71--83},
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},

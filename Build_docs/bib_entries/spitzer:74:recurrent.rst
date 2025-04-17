@@ -15,7 +15,7 @@ spitzer:74:recurrent
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60K35},
      mrnumber      = {375533},
-     mrreviewer    = {T.\ M.\ Liggett},
+     mrreviewer    = {T. M. Liggett},
      pages         = {191--199},
      title         = {Recurrent random walk of an infinite particle system},
      url           = {https://doi.org/10.2307/1996754},

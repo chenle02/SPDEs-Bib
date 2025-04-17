@@ -15,7 +15,7 @@ camargo.kifer.ea:22:erdos-renyi-shepp
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60G50 (60F10 60F15 60K37)},
      mrnumber      = {4492981},
-     mrreviewer    = {Zakhar\ Kabluchko},
+     mrreviewer    = {Zakhar Kabluchko},
      number        = {4},
      pages         = {2347--2381},
      title         = {The {E}rd\H{o}s-{R}\'{e}nyi-{S}hepp law of large numbers for ballistic random walk in random environment},

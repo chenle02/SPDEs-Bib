@@ -15,7 +15,7 @@ bourgain.gamburd:08:expansion
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {05C25},
      mrnumber      = {2443926},
-     mrreviewer    = {Harald\ A.\ Helfgott},
+     mrreviewer    = {Harald A. Helfgott},
      number        = {4},
      pages         = {987--1011},
      title         = {Expansion and random walks in {${\rm SL}_d(\Bbb Z/p^n\Bbb Z)$}. {I}},

@@ -13,7 +13,7 @@ cranston:92:on
      isbn          = {0-8176-3628-5},
      mrclass       = {60J60},
      mrnumber      = {1172140},
-     mrreviewer    = {Uwe\ R\"{o}sler},
+     mrreviewer    = {Uwe R\"{o}sler},
      pages         = {15--37},
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Progr. Probab.},

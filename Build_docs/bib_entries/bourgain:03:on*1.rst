@@ -14,7 +14,7 @@ bourgain:03:on*1
      isbn          = {3-540-00485-8},
      mrclass       = {35Q40 (35B40)},
      mrnumber      = {2083390},
-     mrreviewer    = {Woodford\ W.\ Zachary},
+     mrreviewer    = {Woodford W. Zachary},
      pages         = {99--113},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

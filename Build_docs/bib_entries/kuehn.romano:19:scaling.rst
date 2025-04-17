@@ -15,7 +15,7 @@ kuehn.romano:19:scaling
      journal       = {European J. Appl. Math.},
      mrclass       = {35R60 (34G10 37G99 60H15)},
      mrnumber      = {4001556},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {5},
      pages         = {853--868},
      title         = {Scaling laws and warning signs for bifurcations of {SPDE}s},

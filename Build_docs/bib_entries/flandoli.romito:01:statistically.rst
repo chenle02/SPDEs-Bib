@@ -15,7 +15,7 @@ flandoli.romito:01:statistically
      journal       = {Electron. J. Probab.},
      mrclass       = {35Q30 (76D06)},
      mrnumber      = {1825712},
-     mrreviewer    = {J\"{u}rgen\ Socolowsky},
+     mrreviewer    = {J\"{u}rgen Socolowsky},
      pages         = {no. 5, 15},
      title         = {Statistically stationary solutions to the 3-{D} {N}avier-{S}tokes equation do not show singularities},
      url           = {https://doi.org/10.1214/EJP.v6-78},

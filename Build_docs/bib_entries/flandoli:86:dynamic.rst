@@ -13,7 +13,7 @@ flandoli:86:dynamic
      journal       = {Boll. Un. Mat. Ital. B (6)},
      mrclass       = {49A22 (49C20)},
      mrnumber      = {841624},
-     mrreviewer    = {Jerzy\ Zabczyk},
+     mrreviewer    = {Jerzy Zabczyk},
      number        = {1},
      pages         = {177--195},
      title         = {Dynamic programming approach to the optimal control of systems governed by non-well-posed {C}auchy problems in {H}ilbert spaces},

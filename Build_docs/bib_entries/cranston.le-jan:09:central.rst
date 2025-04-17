@@ -15,7 +15,7 @@ cranston.le-jan:09:central
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60F05 (60E07 60F10 60G60 60G70)},
      mrnumber      = {2568295},
-     mrreviewer    = {Ming\ Liao},
+     mrreviewer    = {Ming Liao},
      number        = {10},
      pages         = {3767--3784},
      title         = {A central limit theorem for isotropic flows},

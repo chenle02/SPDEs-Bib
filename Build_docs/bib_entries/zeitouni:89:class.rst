@@ -15,7 +15,7 @@ zeitouni:89:class
      journal       = {Systems Control Lett.},
      mrclass       = {93C40 (93E20)},
      mrnumber      = {979727},
-     mrreviewer    = {G.\ N.\ Mil{\cprime}shteu{i}n},
+     mrreviewer    = {G. N. Mil{\cprime}shteu{i}n},
      number        = {1},
      pages         = {57--62},
      title         = {A class of adaptive control problems solved via stochastic control},

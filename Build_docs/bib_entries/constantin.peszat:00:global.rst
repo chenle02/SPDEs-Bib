@@ -14,7 +14,7 @@ constantin.peszat:00:global
      journal       = {Differential Integral Equations},
      mrclass       = {35K55 (35K15 35K90)},
      mrnumber      = {1811950},
-     mrreviewer    = {Alan\ V.\ Lair},
+     mrreviewer    = {Alan V. Lair},
      number        = {1-3},
      pages         = {99--114},
      title         = {Global existence of solutions of semilinear parabolic evolution equations},

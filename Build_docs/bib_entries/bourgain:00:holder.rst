@@ -15,7 +15,7 @@ bourgain:00:holder
      journal       = {Lett. Math. Phys.},
      mrclass       = {47B39 (39A12 47N50 82B44)},
      mrnumber      = {1774640},
-     mrreviewer    = {David\ Damanik},
+     mrreviewer    = {David Damanik},
      number        = {2},
      pages         = {83--118},
      title         = {H\"{o}lder regularity of integrated density of states for the almost {M}athieu operator in a perturbative regime},

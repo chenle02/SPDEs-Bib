@@ -15,7 +15,7 @@ cranston.molchanov:05:limit
      journal       = {Israel J. Math.},
      mrclass       = {60F05 (60G50)},
      mrnumber      = {2191226},
-     mrreviewer    = {M.\ Iosifescu},
+     mrreviewer    = {M. Iosifescu},
      note          = {Probability in mathematics},
      pages         = {115--136},
      title         = {Limit laws for sums of products of exponentials of iid random variables},

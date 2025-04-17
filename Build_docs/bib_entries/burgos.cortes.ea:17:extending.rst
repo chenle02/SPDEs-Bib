@@ -15,7 +15,7 @@ burgos.cortes.ea:17:extending
      journal       = {Chaos Solitons Fractals},
      mrclass       = {34F05 (26A33 34A08 60H25)},
      mrnumber      = {3672022},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      pages         = {305--318},
      title         = {Extending the deterministic {R}iemann-{L}iouville and {C}aputo operators to the random framework: a mean square approach with applications to solve random fractional differential equations},
      url           = {https://doi.org/10.1016/j.chaos.2017.02.008},

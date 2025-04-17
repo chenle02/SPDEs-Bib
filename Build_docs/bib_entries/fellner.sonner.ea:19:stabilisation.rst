@@ -15,7 +15,7 @@ fellner.sonner.ea:19:stabilisation
      journal       = {Discrete Contin. Dyn. Syst. Ser. B},
      mrclass       = {35R60 (35K20 35K57 35P15 60H15)},
      mrnumber      = {3986268},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {8},
      pages         = {4055--4078},
      title         = {Stabilisation by noise on the boundary for a {C}hafee-{I}nfante equation with dynamical boundary conditions},

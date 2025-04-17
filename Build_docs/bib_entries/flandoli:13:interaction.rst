@@ -14,7 +14,7 @@ flandoli:13:interaction
      journal       = {Boll. Unione Mat. Ital. (9)},
      mrclass       = {60H15 (35F10 35R60 60H30)},
      mrnumber      = {3112979},
-     mrreviewer    = {Benedetta\ Ferrario},
+     mrreviewer    = {Benedetta Ferrario},
      number        = {2},
      pages         = {253--267},
      title         = {Interaction between noise and singularities in partial differential equations},

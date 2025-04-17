@@ -15,7 +15,7 @@ binder.makarov.ea:03:harmonic
      journal       = {Duke Math. J.},
      mrclass       = {37F35 (30C85 30D05 37F10 37F50)},
      mrnumber      = {1971297},
-     mrreviewer    = {Michael\ Yampolsky},
+     mrreviewer    = {Michael Yampolsky},
      number        = {2},
      pages         = {343--365},
      title         = {Harmonic measure and polynomial {J}ulia sets},

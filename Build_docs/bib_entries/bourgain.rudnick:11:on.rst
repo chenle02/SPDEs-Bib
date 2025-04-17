@@ -15,7 +15,7 @@ bourgain.rudnick:11:on
      journal       = {Ann. Henri Poincar\'{e}},
      mrclass       = {58J51 (37D20)},
      mrnumber      = {2823207},
-     mrreviewer    = {Dieter\ H.\ Mayer},
+     mrreviewer    = {Dieter H. Mayer},
      number        = {6},
      pages         = {1027--1053},
      title         = {On the geometry of the nodal lines of eigenfunctions of the two-dimensional torus},

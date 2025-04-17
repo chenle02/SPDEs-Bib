@@ -15,7 +15,7 @@ bourgain.lindenstrauss:93:approximating
      journal       = {Discrete Comput. Geom.},
      mrclass       = {52A21 (46B20)},
      mrnumber      = {1194031},
-     mrreviewer    = {W.\ J.\ Firey},
+     mrreviewer    = {W. J. Firey},
      number        = {2},
      pages         = {131--144},
      title         = {Approximating the ball by a {M}inkowski sum of segments with equal length},

@@ -15,7 +15,7 @@ bodineau.derrida.ea:10:diffusive
      journal       = {J. Stat. Phys.},
      mrclass       = {82C70},
      mrnumber      = {2670735},
-     mrreviewer    = {Christian\ Dogbe},
+     mrreviewer    = {Christian Dogbe},
      number        = {4},
      pages         = {648--675},
      title         = {A diffusive system driven by a battery or by a smoothly varying field},

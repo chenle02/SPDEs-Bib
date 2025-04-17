@@ -15,7 +15,7 @@ joffe.spitzer:67:on
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {60.67},
      mrnumber      = {212895},
-     mrreviewer    = {I.\ J.\ Good},
+     mrreviewer    = {I. J. Good},
      pages         = {409--430},
      title         = {On multitype branching processes with {$\rho \leq 1$}},
      url           = {https://doi.org/10.1016/0022-247X(67)90001-7},

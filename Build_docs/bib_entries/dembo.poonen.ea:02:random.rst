@@ -15,7 +15,7 @@ dembo.poonen.ea:02:random
      journal       = {J. Amer. Math. Soc.},
      mrclass       = {60G99 (12D10)},
      mrnumber      = {1915821},
-     mrreviewer    = {V.\ Thangaraj},
+     mrreviewer    = {V. Thangaraj},
      number        = {4},
      pages         = {857--892},
      title         = {Random polynomials having few or no real zeros},

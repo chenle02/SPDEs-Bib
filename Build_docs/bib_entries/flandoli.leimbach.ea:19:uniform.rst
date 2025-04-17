@@ -15,7 +15,7 @@ flandoli.leimbach.ea:19:uniform
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {35R60 (35K15 35K91)},
      mrnumber      = {3912811},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {1},
      pages         = {27--52},
      title         = {Uniform convergence of proliferating particles to the {FKPP} equation},

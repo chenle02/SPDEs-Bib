@@ -15,7 +15,7 @@ mayer-wolf.zeitouni:93:onsager
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H15 (60H07)},
      mrnumber      = {1214087},
-     mrreviewer    = {David\ Nualart},
+     mrreviewer    = {David Nualart},
      number        = {2},
      pages         = {199--216},
      title         = {Onsager {M}achlup functionals for non-trace-class {SPDE}s},

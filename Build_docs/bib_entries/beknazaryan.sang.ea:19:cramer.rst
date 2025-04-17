@@ -15,7 +15,7 @@ beknazaryan.sang.ea:19:cramer
      journal       = {J. Appl. Probab.},
      mrclass       = {60F10 (60G60 62E20 62G08)},
      mrnumber      = {3981155},
-     mrreviewer    = {Davide\ Giraudo},
+     mrreviewer    = {Davide Giraudo},
      number        = {1},
      pages         = {223--245},
      title         = {Cram\'{e}r type moderate deviations for random fields},

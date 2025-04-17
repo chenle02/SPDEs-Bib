@@ -15,7 +15,7 @@ asmar.berkson.ea:94:restrictions
      journal       = {Studia Math.},
      mrclass       = {42B15 (42B25)},
      mrnumber      = {1259281},
-     mrreviewer    = {Javier\ Duoandikoetxea},
+     mrreviewer    = {Javier Duoandikoetxea},
      number        = {3},
      pages         = {291--299},
      title         = {Restrictions from {$\bold R^n$} to {\$\bold Z^n\$} of weak type {\$(1,1)\$} multipliers},

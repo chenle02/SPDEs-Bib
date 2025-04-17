@@ -15,7 +15,7 @@ zeitouni.dembo:87:maximum
      journal       = {Stochastics},
      mrclass       = {93E11 (60G35 60J60)},
      mrnumber      = {878313},
-     mrreviewer    = {R.\ S.\ Bucy},
+     mrreviewer    = {R. S. Bucy},
      number        = {3},
      pages         = {221--246},
      title         = {A maximum a posteriori estimator for trajectories of diffusion processes},

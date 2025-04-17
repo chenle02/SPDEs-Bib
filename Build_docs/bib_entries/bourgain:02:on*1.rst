@@ -13,7 +13,7 @@ bourgain:02:on*1
      isbn          = {1-56881-126-8},
      mrclass       = {11M26},
      mrnumber      = {1956220},
-     mrreviewer    = {Jerzy\ Kaczorowski},
+     mrreviewer    = {Jerzy Kaczorowski},
      pages         = {87--109},
      publisher     = {A K Peters, Natick, MA},
      title         = {On the distribution of {D}irichlet sums. {II}},

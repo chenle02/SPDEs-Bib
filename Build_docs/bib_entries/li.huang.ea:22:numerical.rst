@@ -15,7 +15,7 @@ li.huang.ea:22:numerical
      journal       = {IMA J. Numer. Anal.},
      mrclass       = {65R20},
      mrnumber      = {4454933},
-     mrreviewer    = {Mahadevan\ Ganesh},
+     mrreviewer    = {Mahadevan Ganesh},
      number        = {3},
      pages         = {2656--2683},
      title         = {Numerical methods for stochastic {V}olterra integral equations with weakly singular kernels},

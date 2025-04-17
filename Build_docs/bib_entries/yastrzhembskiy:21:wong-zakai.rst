@@ -15,7 +15,7 @@ yastrzhembskiy:21:wong-zakai
      journal       = {Stoch. Partial Differ. Equ. Anal. Comput.},
      mrclass       = {35R60 (60H15)},
      mrnumber      = {4218788},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {1},
      pages         = {71--104},
      title         = {Wong-{Z}akai approximation and support theorem for semilinear stochastic partial differential equations with finite dimensional noise in the whole space},

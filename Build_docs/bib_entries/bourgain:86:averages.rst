@@ -15,7 +15,7 @@ bourgain:86:averages
      journal       = {J. Analyse Math.},
      mrclass       = {42B25 (52A10)},
      mrnumber      = {874045},
-     mrreviewer    = {K.\ J.\ Falconer},
+     mrreviewer    = {K. J. Falconer},
      pages         = {69--85},
      title         = {Averages in the plane over convex curves and maximal operators},
      url           = {https://doi.org/10.1007/BF02792533},

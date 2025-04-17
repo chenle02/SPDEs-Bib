@@ -14,7 +14,7 @@ aizenman.kesten.ea:87:uniqueness
      journal       = {Comm. Math. Phys.},
      mrclass       = {82A43 (60K35 82A05)},
      mrnumber      = {901151},
-     mrreviewer    = {G.\ R.\ Grimmett},
+     mrreviewer    = {G. R. Grimmett},
      number        = {4},
      pages         = {505--531},
      title         = {Uniqueness of the infinite cluster and continuity of connectivity functions for short and long range percolation},

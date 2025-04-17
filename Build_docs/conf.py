@@ -15,6 +15,7 @@ author = "Le Chen (陈乐)"
 # )
 
 bibtex_bibfiles = ["../All.bib"]
+bibtex_default_style = 'unsrt'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -34,7 +35,8 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # html_theme = "pyramid"
 html_theme = "press"
 
-html_static_path = ["_static", "audio_files"]
+html_static_path = ["_static"]
+html_extra_path = ["audio_files"]
 html_baseurl = "https://chenle02.github.io/SPDEs-Bib/"
 html_theme_options = {
     "footer": "Le Chen (陈乐), Auburn University, le.chen@auburn.edu, chenle02@gmail.com"

@@ -15,7 +15,7 @@ kesten.ornstein.ea:62:general
      journal       = {Bull. Amer. Math. Soc.},
      mrclass       = {60.66},
      mrnumber      = {142160},
-     mrreviewer    = {J.\ Gillis},
+     mrreviewer    = {J. Gillis},
      pages         = {526--528},
      title         = {A general property of random walk},
      url           = {https://doi.org/10.1090/S0002-9904-1962-10808-8},

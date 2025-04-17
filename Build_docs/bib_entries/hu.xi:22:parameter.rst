@@ -15,7 +15,7 @@ hu.xi:22:parameter
      journal       = {J. Comput. Appl. Math.},
      mrclass       = {62M05 (62F12)},
      mrnumber      = {4400030},
-     mrreviewer    = {Snje\v{z}ana\ Lubura Strunjak},
+     mrreviewer    = {Snje\v{z}ana Lubura Strunjak},
      pages         = {Paper No. 114264, 17},
      title         = {Parameter estimation for threshold {O}rnstein-{U}hlenbeck processes from discrete observations},
      url           = {https://doi.org/10.1016/j.cam.2022.114264},

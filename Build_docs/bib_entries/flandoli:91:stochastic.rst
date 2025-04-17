@@ -14,7 +14,7 @@ flandoli:91:stochastic
      isbn          = {3-540-54662-6},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {1178958},
-     mrreviewer    = {Bohdan\ Maslowski},
+     mrreviewer    = {Bohdan Maslowski},
      pages         = {196--205},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

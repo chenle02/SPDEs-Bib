@@ -15,7 +15,7 @@ friz.gassiat.ea:17:eikonal
      journal       = {Stoch. Partial Differ. Equ. Anal. Comput.},
      mrclass       = {35R60 (35G20 60H15)},
      mrnumber      = {3640072},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {2},
      pages         = {256--277},
      title         = {Eikonal equations and pathwise solutions to fully non-linear {SPDE}s},

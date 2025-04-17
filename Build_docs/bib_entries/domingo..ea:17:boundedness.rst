@@ -15,7 +15,7 @@ domingo..ea:17:boundedness
      journal       = {J. Math. Phys.},
      mrclass       = {60H10 (60H30)},
      mrnumber      = {3614938},
-     mrreviewer    = {Hao\ Ge},
+     mrreviewer    = {Hao Ge},
      number        = {3},
      pages         = {033301, 14},
      title         = {Boundedness vs unboundedness of a noise linked to {T}sallis q-statistics: the role of the overdamped approximation},

@@ -15,7 +15,7 @@ bourgain:00:problems
      journal       = {Geom. Funct. Anal.},
      mrclass       = {35F20 (35B30 35B40 35Q55)},
      mrnumber      = {1826248},
-     mrreviewer    = {Paola\ Loreti},
+     mrreviewer    = {Paola Loreti},
      note          = {GAFA 2000 (Tel Aviv, 1999)},
      pages         = {32--56},
      title         = {Problems in {H}amiltonian {PDE}'s},

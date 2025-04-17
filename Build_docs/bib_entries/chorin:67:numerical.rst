@@ -15,7 +15,7 @@ chorin:67:numerical
      journal       = {Bull. Amer. Math. Soc.},
      mrclass       = {76.65},
      mrnumber      = {216814},
-     mrreviewer    = {I.\ O.\ Bohachevsky},
+     mrreviewer    = {I. O. Bohachevsky},
      pages         = {928--931},
      title         = {The numerical solution of the {N}avier-{S}tokes equations for an incompressible fluid},
      url           = {https://doi.org/10.1090/S0002-9904-1967-11853-6},

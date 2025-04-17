@@ -15,7 +15,7 @@ bourgain.pavlovic:08:ill-posedness
      journal       = {J. Funct. Anal.},
      mrclass       = {35Q30 (35B35 76D05)},
      mrnumber      = {2473255},
-     mrreviewer    = {Christopher\ C.\ Hallstrom},
+     mrreviewer    = {Christopher C. Hallstrom},
      number        = {9},
      pages         = {2233--2247},
      title         = {Ill-posedness of the {N}avier-{S}tokes equations in a critical space in 3{D}},

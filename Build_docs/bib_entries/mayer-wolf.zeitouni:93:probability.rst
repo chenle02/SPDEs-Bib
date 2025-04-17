@@ -14,7 +14,7 @@ mayer-wolf.zeitouni:93:probability
      journal       = {Ann. Probab.},
      mrclass       = {60F10},
      mrnumber      = {1207213},
-     mrreviewer    = {L.\ A.\ Shepp},
+     mrreviewer    = {L. A. Shepp},
      number        = {1},
      pages         = {14--24},
      title         = {The probability of small {G}aussian ellipsoids and associated conditional moments},

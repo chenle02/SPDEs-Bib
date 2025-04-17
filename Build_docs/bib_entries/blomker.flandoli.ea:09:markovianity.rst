@@ -15,7 +15,7 @@ blomker.flandoli.ea:09:markovianity
      journal       = {Ann. Probab.},
      mrclass       = {60H15 (35R60 60H30)},
      mrnumber      = {2489166},
-     mrreviewer    = {Carlos\ M.\ Mora Gonz\'{a}lez},
+     mrreviewer    = {Carlos M. Mora Gonz\'{a}lez},
      number        = {1},
      pages         = {275--313},
      title         = {Markovianity and ergodicity for a surface growth {PDE}},

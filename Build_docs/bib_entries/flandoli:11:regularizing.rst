@@ -15,7 +15,7 @@ flandoli:11:regularizing
      journal       = {Stoch. Dyn.},
      mrclass       = {60J65 (60G17 60H10)},
      mrnumber      = {2836529},
-     mrreviewer    = {Vilmos\ Prokaj},
+     mrreviewer    = {Vilmos Prokaj},
      number        = {2-3},
      pages         = {323--331},
      title         = {Regularizing properties of {B}rownian paths and a result of {D}avie},

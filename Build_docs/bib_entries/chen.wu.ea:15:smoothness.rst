@@ -15,7 +15,7 @@ chen.wu.ea:15:smoothness
      journal       = {Front. Math. China},
      mrclass       = {60G15 (60H05 60H07)},
      mrnumber      = {3352887},
-     mrreviewer    = {Zbigniew\ Andrzej\ \L agodowski},
+     mrreviewer    = {Zbigniew Andrzej \L agodowski},
      number        = {4},
      pages         = {777--805},
      title         = {Smoothness of local times and self-intersection local times of {G}aussian random fields},

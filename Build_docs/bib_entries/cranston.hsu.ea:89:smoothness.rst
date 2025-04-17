@@ -14,7 +14,7 @@ cranston.hsu.ea:89:smoothness
      journal       = {Ann. Probab.},
      mrclass       = {60J65},
      mrnumber      = {972777},
-     mrreviewer    = {S.\ J.\ Taylor},
+     mrreviewer    = {S. J. Taylor},
      number        = {1},
      pages         = {144--150},
      title         = {Smoothness of the convex hull of planar {B}rownian motion},

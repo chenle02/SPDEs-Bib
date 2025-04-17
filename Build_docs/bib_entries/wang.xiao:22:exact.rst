@@ -15,7 +15,7 @@ wang.xiao:22:exact
      journal       = {J. Theoret. Probab.},
      mrclass       = {60G15 (60F15 60G17 60G18 60G22)},
      mrnumber      = {4509074},
-     mrreviewer    = {Mikhail\ A.\ Lifshits},
+     mrreviewer    = {Mikhail A. Lifshits},
      number        = {4},
      pages         = {2442--2479},
      title         = {Exact uniform modulus of continuity and {C}hung's {LIL} for the generalized fractional {B}rownian motion},

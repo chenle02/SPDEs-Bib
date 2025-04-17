@@ -15,7 +15,7 @@ luchko:00:asymptotics
      journal       = {Z. Anal. Anwendungen},
      mrclass       = {33E20 (30D15 30E15)},
      mrnumber      = {1769012},
-     mrreviewer    = {H.\ M.\ Srivastava},
+     mrreviewer    = {H. M. Srivastava},
      number        = {2},
      pages         = {583--595},
      title         = {Asymptotics of zeros of the {W}right function},

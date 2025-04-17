@@ -15,7 +15,7 @@ cruzeiro.flandoli.ea:07:brownian
      journal       = {J. Funct. Anal.},
      mrclass       = {60J65 (37K65 58D05 58J65 76B03 76M35)},
      mrnumber      = {2274026},
-     mrreviewer    = {Robert\ Otto\ Bauer},
+     mrreviewer    = {Robert Otto Bauer},
      number        = {1},
      pages         = {304--326},
      title         = {Brownian motion on volume preserving diffeomorphisms group and existence of global solutions of 2{D} stochastic {E}uler equation},

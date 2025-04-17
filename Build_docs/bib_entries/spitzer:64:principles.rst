@@ -11,7 +11,7 @@ spitzer:64:principles
      author        = {Spitzer, Frank},
      mrclass       = {60.66},
      mrnumber      = {171290},
-     mrreviewer    = {T.\ Watanabe},
+     mrreviewer    = {T. Watanabe},
      pages         = {xi+406},
      publisher     = {D. Van Nostrand Co., Inc., Princeton, N.J.-Toronto-London},
      series        = {The University Series in Higher Mathematics},

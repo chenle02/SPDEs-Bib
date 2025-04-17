@@ -14,7 +14,7 @@ avron.seiler.ea:94:charge
      journal       = {Comm. Math. Phys.},
      mrclass       = {82D20 (47N55 82C10)},
      mrnumber      = {1256994},
-     mrreviewer    = {Lech\ Jak\'obczyk},
+     mrreviewer    = {Lech Jak\'obczyk},
      number        = {2},
      pages         = {399--422},
      title         = {Charge deficiency, charge transport and comparison of dimensions},

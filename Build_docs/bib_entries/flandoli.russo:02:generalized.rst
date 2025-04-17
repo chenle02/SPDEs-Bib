@@ -15,7 +15,7 @@ flandoli.russo:02:generalized
      journal       = {Stoch. Stoch. Rep.},
      mrclass       = {60H05 (60H10)},
      mrnumber      = {1896436},
-     mrreviewer    = {Luis\ Rincon},
+     mrreviewer    = {Luis Rincon},
      number        = {1-2},
      pages         = {11--54},
      title         = {Generalized calculus and {SDE}s with non regular drift},

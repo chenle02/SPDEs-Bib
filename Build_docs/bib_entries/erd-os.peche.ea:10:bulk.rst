@@ -15,7 +15,7 @@ erd-os.peche.ea:10:bulk
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60B20 (82B44)},
      mrnumber      = {2662426},
-     mrreviewer    = {Sasha\ Sodin},
+     mrreviewer    = {Sasha Sodin},
      number        = {7},
      pages         = {895--925},
      title         = {Bulk universality for {W}igner matrices},

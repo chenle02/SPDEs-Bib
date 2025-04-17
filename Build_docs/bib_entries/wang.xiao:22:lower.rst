@@ -15,7 +15,7 @@ wang.xiao:22:lower
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {60G22 (60G15)},
      mrnumber      = {4426115},
-     mrreviewer    = {Mounir\ Zili},
+     mrreviewer    = {Mounir Zili},
      number        = {2},
      pages         = {Paper No. 126320, 31},
      title         = {Lower functions and {C}hung's {LIL}s of the generalized fractional {B}rownian motion},

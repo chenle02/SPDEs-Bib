@@ -14,7 +14,7 @@ deift.hempel:86:on
      journal       = {Comm. Math. Phys.},
      mrclass       = {35P15 (35J10 47F05 81C10)},
      mrnumber      = {832922},
-     mrreviewer    = {Helge\ Holden},
+     mrreviewer    = {Helge Holden},
      number        = {3},
      pages         = {461--490},
      title         = {On the existence of eigenvalues of the {S}chr\"odinger operator {$H-\lambda W$} in a gap of {\$\sigma(H)\$}},

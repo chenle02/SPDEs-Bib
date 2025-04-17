@@ -14,7 +14,7 @@ barral.durand.ea:13:local
      isbn          = {978-0-8218-9148-3},
      mrclass       = {28A80 (37C40 42C40 60G17 60G60 60J75)},
      mrnumber      = {3203826},
-     mrreviewer    = {Jinjun\ Li},
+     mrreviewer    = {Jinjun Li},
      pages         = {31--64},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

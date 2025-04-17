@@ -15,7 +15,7 @@ bourgain:15:remark
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {11D09},
      mrnumber      = {3352258},
-     mrreviewer    = {Tom\ Sanders},
+     mrreviewer    = {Tom Sanders},
      number        = {10},
      pages         = {2841--2855},
      title         = {A remark on solutions of the {P}ell equation},

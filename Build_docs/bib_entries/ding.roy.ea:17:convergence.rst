@@ -15,7 +15,7 @@ ding.roy.ea:17:convergence
      journal       = {Ann. Probab.},
      mrclass       = {60G15 (60G60 60G70)},
      mrnumber      = {3729618},
-     mrreviewer    = {Kirstin\ Strokorb},
+     mrreviewer    = {Kirstin Strokorb},
      number        = {6A},
      pages         = {3886--3928},
      title         = {Convergence of the centered maximum of log-correlated {G}aussian fields},

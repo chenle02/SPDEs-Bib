@@ -15,7 +15,7 @@ brzezniak.komorowski.ea:22:ergodicity
      journal       = {Electron. Commun. Probab.},
      mrclass       = {60H15 (35Q30)},
      mrnumber      = {4368698},
-     mrreviewer    = {Qi\ L\"{u}},
+     mrreviewer    = {Qi L\"{u}},
      pages         = {Paper No. 4, 10},
      title         = {Ergodicity for stochastic equations of {N}avier-{S}tokes type},
      url           = {https://doi.org/10.1214/21-ecp443},

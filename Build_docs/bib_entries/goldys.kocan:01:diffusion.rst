@@ -15,7 +15,7 @@ goldys.kocan:01:diffusion
      journal       = {J. Differential Equations},
      mrclass       = {60H10 (47D07)},
      mrnumber      = {1836243},
-     mrreviewer    = {Anna\ M.\ Paganoni},
+     mrreviewer    = {Anna M. Paganoni},
      number        = {1},
      pages         = {17--39},
      title         = {Diffusion semigroups in spaces of continuous functions with mixed topology},

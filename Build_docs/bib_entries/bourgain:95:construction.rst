@@ -15,7 +15,7 @@ bourgain:95:construction
      journal       = {Geom. Funct. Anal.},
      mrclass       = {35B10 (11J99 35L70)},
      mrnumber      = {1345016},
-     mrreviewer    = {Pavel\ Krej\v{c}\'{i}},
+     mrreviewer    = {Pavel Krej\v{c}\'{i}},
      number        = {4},
      pages         = {629--639},
      title         = {Construction of periodic solutions of nonlinear wave equations in higher dimension},

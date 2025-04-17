@@ -15,7 +15,7 @@ bourgain:87:remark
      journal       = {Studia Math.},
      mrclass       = {43A25 (43A46 46N05)},
      mrnumber      = {887313},
-     mrreviewer    = {Gilles\ Pisier},
+     mrreviewer    = {Gilles Pisier},
      number        = {1},
      pages         = {79--84},
      title         = {A remark on entropy of abelian groups and the invariant uniform approximation property},

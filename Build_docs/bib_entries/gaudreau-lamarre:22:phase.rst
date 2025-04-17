@@ -15,7 +15,7 @@ gaudreau-lamarre:22:phase
      journal       = {Stoch. Partial Differ. Equ. Anal. Comput.},
      mrclass       = {60H15 (35K57 47D08 82B44)},
      mrnumber      = {4503171},
-     mrreviewer    = {Stefano\ Bonaccorsi},
+     mrreviewer    = {Stefano Bonaccorsi},
      number        = {4},
      pages         = {1451--1499},
      title         = {Phase transitions in asymptotically singular {A}nderson {H}amiltonian and parabolic model},

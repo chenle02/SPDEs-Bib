@@ -15,7 +15,7 @@ cranston.li:97:eigenfunction
      journal       = {Comm. Partial Differential Equations},
      mrclass       = {35J05 (35B45 35P15)},
      mrnumber      = {1629490},
-     mrreviewer    = {Ya.\ A.\ Rou{i}tberg},
+     mrreviewer    = {Ya. A. Rou{i}tberg},
      number        = {11-12},
      pages         = {1805--1836},
      title         = {Eigenfunction and harmonic function estimates in domains with horns and cusps},

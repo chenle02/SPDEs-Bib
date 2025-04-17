@@ -15,7 +15,7 @@ giacomin.lacoin:18:pinning
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {60K35 (60G15 82B24 82B27 82B44)},
      mrnumber      = {3743241},
-     mrreviewer    = {Yoshihiro\ Abe},
+     mrreviewer    = {Yoshihiro Abe},
      number        = {1},
      pages         = {199--257},
      title         = {Pinning and disorder relevance for the lattice {G}aussian free field},

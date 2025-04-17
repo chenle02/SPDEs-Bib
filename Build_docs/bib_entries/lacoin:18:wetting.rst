@@ -15,7 +15,7 @@ lacoin:18:wetting
      journal       = {Comm. Math. Phys.},
      mrclass       = {82D20 (82B21 82B24 82B26)},
      mrnumber      = {3845294},
-     mrreviewer    = {Uwe\ C.\ T\"auber},
+     mrreviewer    = {Uwe C. T\"auber},
      number        = {3},
      pages         = {1007--1048},
      title         = {Wetting and layering for solid-on-solid {I}: {I}dentification of the wetting point and critical behavior},

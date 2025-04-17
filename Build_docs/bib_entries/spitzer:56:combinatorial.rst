@@ -15,7 +15,7 @@ spitzer:56:combinatorial
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60.0X},
      mrnumber      = {79851},
-     mrreviewer    = {J.\ L.\ Snell},
+     mrreviewer    = {J. L. Snell},
      pages         = {323--339},
      title         = {A combinatorial lemma and its application to probability theory},
      url           = {https://doi.org/10.2307/1993051},

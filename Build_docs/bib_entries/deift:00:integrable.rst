@@ -14,7 +14,7 @@ deift:00:integrable
      journal       = {Notices Amer. Math. Soc.},
      mrclass       = {05A16 (34L40 34M55 37K10)},
      mrnumber      = {1764262},
-     mrreviewer    = {George\ M.\ Rassias},
+     mrreviewer    = {George M. Rassias},
      number        = {6},
      pages         = {631--640},
      title         = {Integrable systems and combinatorial theory},

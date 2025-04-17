@@ -15,7 +15,7 @@ ben-arous.zeitouni:98:large
      journal       = {ESAIM Probab. Statist.},
      mrclass       = {60F10 (15A52 46L53)},
      mrnumber      = {1660943},
-     mrreviewer    = {Fumio\ Hiai},
+     mrreviewer    = {Fumio Hiai},
      pages         = {123--134},
      title         = {Large deviations from the circular law},
      url           = {https://doi.org/10.1051/ps:1998104},

@@ -13,7 +13,7 @@ bourgain.dirksen.ea:15:toward*1
      isbn          = {978-1-4503-3536-2},
      mrclass       = {62H30 (47B49 60E15 60F05 94A12)},
      mrnumber      = {3388229},
-     mrreviewer    = {Santiago\ Velilla},
+     mrreviewer    = {Santiago Velilla},
      pages         = {499--508},
      publisher     = {ACM, New York},
      title         = {Toward a unified theory of sparse dimensionality reduction in {E}uclidean space},

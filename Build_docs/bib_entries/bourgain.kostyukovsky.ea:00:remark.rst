@@ -14,7 +14,7 @@ bourgain.kostyukovsky.ea:00:remark
      journal       = {Real Anal. Exchange},
      mrclass       = {42A05 (42A45)},
      mrnumber      = {1844404},
-     mrreviewer    = {Eduard\ Belinskii},
+     mrreviewer    = {Eduard Belinskii},
      number        = {2},
      pages         = {901--904},
      title         = {A remark on a maximal operator for {F}ourier multipliers},

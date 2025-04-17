@@ -15,7 +15,7 @@ flandoli:94:dissipativity
      journal       = {NoDEA Nonlinear Differential Equations Appl.},
      mrclass       = {35R60 (35Q30 60H15)},
      mrnumber      = {1300150},
-     mrreviewer    = {Jan\ I.\ Seidler},
+     mrreviewer    = {Jan I. Seidler},
      number        = {4},
      pages         = {403--423},
      title         = {Dissipativity and invariant measures for stochastic {N}avier-{S}tokes equations},

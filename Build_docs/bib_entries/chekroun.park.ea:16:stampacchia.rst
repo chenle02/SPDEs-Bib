@@ -15,7 +15,7 @@ chekroun.park.ea:16:stampacchia
      journal       = {J. Differential Equations},
      mrclass       = {35R60 (35B50 35B51 60H15)},
      mrnumber      = {3427686},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {3},
      pages         = {2926--2972},
      title         = {The {S}tampacchia maximum principle for stochastic partial differential equations and applications},

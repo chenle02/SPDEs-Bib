@@ -15,7 +15,7 @@ bakhtin.mattingly:07:malliavin
      journal       = {J. Funct. Anal.},
      mrclass       = {60H07 (76D05 76M35)},
      mrnumber      = {2345335},
-     mrreviewer    = {Sandra\ Cerrai},
+     mrreviewer    = {Sandra Cerrai},
      number        = {2},
      pages         = {307--353},
      title         = {Malliavin calculus for infinite-dimensional systems with additive noise},

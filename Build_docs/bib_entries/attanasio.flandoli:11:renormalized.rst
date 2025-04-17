@@ -15,7 +15,7 @@ attanasio.flandoli:11:renormalized
      journal       = {Comm. Partial Differential Equations},
      mrclass       = {60H15 (35D30 35F15 35R60)},
      mrnumber      = {2825598},
-     mrreviewer    = {Marko\ Nedeljkov},
+     mrreviewer    = {Marko Nedeljkov},
      number        = {8},
      pages         = {1455--1474},
      title         = {Renormalized solutions for stochastic transport equations and the regularization by bilinear multiplication noise},

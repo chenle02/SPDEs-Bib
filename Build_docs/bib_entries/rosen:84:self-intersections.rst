@@ -14,7 +14,7 @@ rosen:84:self-intersections
      journal       = {Ann. Probab.},
      mrclass       = {60G60 (60G15 60G17 60J65)},
      mrnumber      = {723732},
-     mrreviewer    = {Robert\ J.\ Adler},
+     mrreviewer    = {Robert J. Adler},
      number        = {1},
      pages         = {108--119},
      title         = {Self-intersections of random fields},

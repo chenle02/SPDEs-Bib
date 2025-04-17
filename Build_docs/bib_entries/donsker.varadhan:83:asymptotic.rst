@@ -15,7 +15,7 @@ donsker.varadhan:83:asymptotic
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60J25},
      mrnumber      = {690656},
-     mrreviewer    = {D.\ W.\ Stroock},
+     mrreviewer    = {D. W. Stroock},
      number        = {2},
      pages         = {183--212},
      title         = {Asymptotic evaluation of certain {M}arkov process expectations for large time. {IV}},

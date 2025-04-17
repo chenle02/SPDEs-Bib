@@ -15,7 +15,7 @@ bourgain:97:estimates
      journal       = {Israel J. Math.},
      mrclass       = {11B75 (11K70 11L07 42A05)},
      mrnumber      = {1441239},
-     mrreviewer    = {Yuri\ Bilu},
+     mrreviewer    = {Yuri Bilu},
      pages         = {71--92},
      title         = {Estimates related to sumfree subsets of sets of integers},
      url           = {https://doi.org/10.1007/BF02774027},

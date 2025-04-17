@@ -14,10 +14,10 @@ bourgain:86:translation
      journal       = {Ann. Inst. Fourier (Grenoble)},
      mrclass       = {43A15 (46E30)},
      mrnumber      = {840715},
-     mrreviewer    = {B.\ E.\ Johnson},
+     mrreviewer    = {B. E. Johnson},
      number        = {1},
      pages         = {97--104},
-     title         = {Translation invariant forms on {$L^p(G)\ (1<p<infty)$}},
+     title         = {Translation invariant forms on {$L^p(G) (1<p<infty)$}},
      url           = {http://www.numdam.org/item?id=AIF\_1986\_\_36\_1\_97\_0},
      volume        = {36},
      year          = {1986}

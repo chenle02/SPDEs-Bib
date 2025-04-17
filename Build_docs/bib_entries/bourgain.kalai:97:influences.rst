@@ -15,7 +15,7 @@ bourgain.kalai:97:influences
      journal       = {Geom. Funct. Anal.},
      mrclass       = {20B35 (05C80 20B15)},
      mrnumber      = {1466334},
-     mrreviewer    = {Wolfgang\ Lusky},
+     mrreviewer    = {Wolfgang Lusky},
      number        = {3},
      pages         = {438--461},
      title         = {Influences of variables and threshold intervals under group symmetries},

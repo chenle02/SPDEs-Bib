@@ -14,7 +14,7 @@ bourgain:14:on*4
      isbn          = {978-3-319-09476-2; 978-3-319-09477-9},
      mrclass       = {35Q41 (47B39 47N50 81Q05)},
      mrnumber      = {3364682},
-     mrreviewer    = {G.\ V.\ Rozenblum},
+     mrreviewer    = {G. V. Rozenblum},
      pages         = {97--105},
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},

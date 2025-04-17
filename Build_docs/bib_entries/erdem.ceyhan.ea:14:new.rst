@@ -15,7 +15,7 @@ erdem.ceyhan.ea:14:new
      journal       = {Phys. A},
      mrclass       = {62M10},
      mrnumber      = {3251804},
-     mrreviewer    = {Paulo\ Serra},
+     mrreviewer    = {Paulo Serra},
      pages         = {274--284},
      title         = {A new correlation coefficient for bivariate time-series data},
      url           = {https://doi.org/10.1016/j.physa.2014.07.054},

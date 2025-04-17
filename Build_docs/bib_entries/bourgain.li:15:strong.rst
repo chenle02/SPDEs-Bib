@@ -15,7 +15,7 @@ bourgain.li:15:strong
      journal       = {Geom. Funct. Anal.},
      mrclass       = {35Q31 (35B30 35R25)},
      mrnumber      = {3320889},
-     mrreviewer    = {Franck\ Sueur},
+     mrreviewer    = {Franck Sueur},
      number        = {1},
      pages         = {1--86},
      title         = {Strong illposedness of the incompressible {E}uler equation in integer {$C^m$} spaces},

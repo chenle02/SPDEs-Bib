@@ -15,7 +15,7 @@ xue.xiao:11:fractal
      journal       = {Front. Math. China},
      mrclass       = {62M40 (28A80 60G15 60G17 60G60 62M30)},
      mrnumber      = {2862654},
-     mrreviewer    = {A.\ Ya.\ Olenko},
+     mrreviewer    = {A. Ya. Olenko},
      number        = {6},
      pages         = {1217--1248},
      title         = {Fractal and smoothness properties of space-time {G}aussian models},

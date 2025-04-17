@@ -15,7 +15,7 @@ flandoli:90:solution
      journal       = {SIAM J. Control Optim.},
      mrclass       = {49K45 (60H20 93C20)},
      mrnumber      = {1051631},
-     mrreviewer    = {Negash\ G.\ Medhin},
+     mrreviewer    = {Negash G. Medhin},
      number        = {4},
      pages         = {936--949},
      title         = {Solution and control of a bilinear stochastic delay equation},

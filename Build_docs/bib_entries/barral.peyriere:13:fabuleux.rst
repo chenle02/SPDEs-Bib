@@ -14,7 +14,7 @@ barral.peyriere:13:fabuleux
      journal       = {Gaz. Math.},
      mrclass       = {60G18 (60G42)},
      mrnumber      = {3099261},
-     mrreviewer    = {Thierry\ Edmond\ Huillet},
+     mrreviewer    = {Thierry Edmond Huillet},
      number        = {136},
      pages         = {135--157},
      title         = {Le fabuleux destin des cascades de {M}andelbrot},

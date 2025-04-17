@@ -15,7 +15,7 @@ bourgain.li:21:strong
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {35Q30},
      mrnumber      = {4300224},
-     mrreviewer    = {Jean\ C.\ Cortissoz},
+     mrreviewer    = {Jean C. Cortissoz},
      number        = {16},
      pages         = {12155--12264},
      title         = {Strong ill-posedness of the 3{D} incompressible {E}uler equation in borderline spaces},

@@ -15,7 +15,7 @@ shen.wang.ea:19:long-time
      journal       = {J. Differential Equations},
      mrclass       = {35K59 (35B15 35B40 35K57)},
      mrnumber      = {3906218},
-     mrreviewer    = {Christian\ Stinner},
+     mrreviewer    = {Christian Stinner},
      number        = {2-3},
      pages         = {1377--1413},
      title         = {Long-time behavior of almost periodically forced parabolic equations on the circle},

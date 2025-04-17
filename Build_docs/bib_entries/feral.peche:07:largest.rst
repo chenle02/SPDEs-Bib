@@ -15,7 +15,7 @@ feral.peche:07:largest
      journal       = {Comm. Math. Phys.},
      mrclass       = {82B31 (60K40 82B21)},
      mrnumber      = {2291807},
-     mrreviewer    = {Florent\ Benaych-Georges},
+     mrreviewer    = {Florent Benaych-Georges},
      number        = {1},
      pages         = {185--228},
      title         = {The largest eigenvalue of rank one deformation of large {W}igner matrices},

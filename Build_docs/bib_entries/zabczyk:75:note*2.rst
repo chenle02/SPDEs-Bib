@@ -12,7 +12,7 @@ zabczyk:75:note*2
      booktitle     = {Probability---{W}inter {S}chool ({P}roc. {F}ourth {W}inter {S}chool, {K}arpacz, 1975)},
      mrclass       = {60J30},
      mrnumber      = {394895},
-     mrreviewer    = {Jacques\ Az\'{e}ma},
+     mrreviewer    = {Jacques Az\'{e}ma},
      pages         = {277--283},
      publisher     = {Springer, Berlin-New York},
      series        = {Lecture Notes in Math.},

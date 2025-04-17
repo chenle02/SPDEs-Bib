@@ -12,7 +12,7 @@ bojdecki..ea:74:some
      booktitle     = {Mathematical models in economics ({P}roc. {S}ympos. and {C}onf. on von {N}eumann {M}odels, {W}arsaw, 1972)},
      mrclass       = {46A40},
      mrnumber      = {377455},
-     mrreviewer    = {H.\ J.\ Biesterfeldt, Jr.},
+     mrreviewer    = {H. J. Biesterfeldt, Jr.},
      pages         = {315--327},
      publisher     = {North-Holland, Amsterdam-London},
      title         = {Some properties of ordered finite-dimensional spaces},

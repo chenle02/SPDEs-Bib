@@ -15,7 +15,7 @@ tapia.zambotti:20:geometry
      journal       = {Proc. Lond. Math. Soc. (3)},
      mrclass       = {60L20 (16T05 60H10 60L30)},
      mrnumber      = {4093955},
-     mrreviewer    = {Keisuke\ Hara},
+     mrreviewer    = {Keisuke Hara},
      number        = {2},
      pages         = {220--251},
      title         = {The geometry of the space of branched rough paths},

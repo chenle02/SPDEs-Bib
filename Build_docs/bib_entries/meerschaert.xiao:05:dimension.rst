@@ -15,7 +15,7 @@ meerschaert.xiao:05:dimension
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60J25 (28A80 60G17 60G51)},
      mrnumber      = {2105369},
-     mrreviewer    = {Marta\ Tyran-Kami\'{n}ska},
+     mrreviewer    = {Marta Tyran-Kami\'{n}ska},
      number        = {1},
      pages         = {55--75},
      title         = {Dimension results for sample paths of operator stable {L}\'{e}vy processes},

@@ -14,7 +14,7 @@ bourgain:91:remarks
      isbn          = {3-540-54024-5},
      mrclass       = {11M41},
      mrnumber      = {1122620},
-     mrreviewer    = {G.\ Greaves},
+     mrreviewer    = {G. Greaves},
      pages         = {153--165},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

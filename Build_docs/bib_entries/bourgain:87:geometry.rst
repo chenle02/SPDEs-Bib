@@ -13,7 +13,7 @@ bourgain:87:geometry
      isbn          = {0-8218-0110-4},
      mrclass       = {42-02 (43A46 46B20)},
      mrnumber      = {934289},
-     mrreviewer    = {Alberto\ Torchinsky},
+     mrreviewer    = {Alberto Torchinsky},
      pages         = {871--878},
      publisher     = {Amer. Math. Soc., Providence, RI},
      title         = {Geometry of {B}anach spaces and harmonic analysis},

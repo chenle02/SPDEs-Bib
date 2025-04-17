@@ -14,7 +14,7 @@ kipnis.varadhan:86:central
      journal       = {Comm. Math. Phys.},
      mrclass       = {60F17 (60J05 60K35)},
      mrnumber      = {834478},
-     mrreviewer    = {H.\ Kesten},
+     mrreviewer    = {H. Kesten},
      number        = {1},
      pages         = {1--19},
      title         = {Central limit theorem for additive functionals of reversible {M}arkov processes and applications to simple exclusions},

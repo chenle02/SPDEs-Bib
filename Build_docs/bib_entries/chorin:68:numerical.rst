@@ -15,7 +15,7 @@ chorin:68:numerical
      journal       = {Math. Comp.},
      mrclass       = {65.68},
      mrnumber      = {242392},
-     mrreviewer    = {R.\ Peyret},
+     mrreviewer    = {R. Peyret},
      pages         = {745--762},
      title         = {Numerical solution of the {N}avier-{S}tokes equations},
      url           = {https://doi.org/10.2307/2004575},

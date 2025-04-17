@@ -14,7 +14,7 @@ bourgain:83:proprietes
      journal       = {Bull. Soc. Math. France},
      mrclass       = {43A46 (42A55)},
      mrnumber      = {763552},
-     mrreviewer    = {Gilles\ Pisier},
+     mrreviewer    = {Gilles Pisier},
      number        = {4},
      pages         = {421--428},
      title         = {Propri\'{e}t\'{e}s de d\'{e}composition pour les ensembles de {S}idon},

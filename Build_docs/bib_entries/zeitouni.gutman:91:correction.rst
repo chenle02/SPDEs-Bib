@@ -14,7 +14,7 @@ zeitouni.gutman:91:correction
      journal       = {IEEE Trans. Inform. Theory},
      mrclass       = {94A13 (60F10 62G10)},
      mrnumber      = {1145824},
-     mrreviewer    = {Tamer\ Ba\c{s}ar},
+     mrreviewer    = {Tamer Ba\c{s}ar},
      number        = {3},
      pages         = {698},
      title         = {Correction to: ``{O}n universal hypotheses testing via large deviations''},

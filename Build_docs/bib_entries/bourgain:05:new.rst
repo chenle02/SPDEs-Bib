@@ -14,7 +14,7 @@ bourgain:05:new
      isbn          = {978-3-540-30432-6; 3-540-30432-0},
      mrclass       = {11B75 (28A75 28A80 94A60)},
      mrnumber      = {2206765},
-     mrreviewer    = {Samuel\ S.\ Wagstaff, Jr.},
+     mrreviewer    = {Samuel S. Wagstaff, Jr.},
      pages         = {17--26},
      publisher     = {Springer, Berlin},
      series        = {Math. Phys. Stud.},

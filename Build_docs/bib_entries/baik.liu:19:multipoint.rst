@@ -15,7 +15,7 @@ baik.liu:19:multipoint
      journal       = {J. Amer. Math. Soc.},
      mrclass       = {60K35 (82C22)},
      mrnumber      = {3981984},
-     mrreviewer    = {B\'alint\ Vet\H o},
+     mrreviewer    = {B\'alint Vet\H o},
      number        = {3},
      pages         = {609--674},
      title         = {Multipoint distribution of periodic {TASEP}},

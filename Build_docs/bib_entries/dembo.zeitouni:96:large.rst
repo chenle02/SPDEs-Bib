@@ -15,7 +15,7 @@ dembo.zeitouni:96:large
      journal       = {Statist. Probab. Lett.},
      mrclass       = {60F10},
      mrnumber      = {1395567},
-     mrreviewer    = {Tim\ Zajic},
+     mrreviewer    = {Tim Zajic},
      number        = {3},
      pages         = {201--205},
      title         = {Large deviations for subsampling from individual sequences},

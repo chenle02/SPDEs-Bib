@@ -15,7 +15,7 @@ benaych-georges.peche:14:localization
      journal       = {Ann. Inst. Henri Poincar\'e{} Probab. Stat.},
      mrclass       = {60B20 (60F05)},
      mrnumber      = {3269999},
-     mrreviewer    = {Sho\ Matsumoto},
+     mrreviewer    = {Sho Matsumoto},
      number        = {4},
      pages         = {1385--1403},
      title         = {Localization and delocalization for heavy tailed band matrices},

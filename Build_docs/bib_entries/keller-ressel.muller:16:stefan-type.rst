@@ -15,7 +15,7 @@ keller-ressel.muller:16:stefan-type
      journal       = {Stoch. Partial Differ. Equ. Anal. Comput.},
      mrclass       = {35R35 (35R60 60H15 91B70 91G80)},
      mrnumber      = {3554430},
-     mrreviewer    = {Le\ Chen},
+     mrreviewer    = {Le Chen},
      number        = {4},
      pages         = {746--790},
      title         = {A {S}tefan-type stochastic moving boundary problem},

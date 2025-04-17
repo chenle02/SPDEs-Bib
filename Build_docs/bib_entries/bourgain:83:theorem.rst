@@ -14,7 +14,7 @@ bourgain:83:theorem
      journal       = {Simon Stevin},
      mrclass       = {30E05 (46J15)},
      mrnumber      = {702329},
-     mrreviewer    = {Arne\ Stray},
+     mrreviewer    = {Arne Stray},
      number        = {1-2},
      pages         = {145--155},
      title         = {A theorem on interpolating sequences in the disc},

@@ -14,7 +14,7 @@ li:98:result
      isbn          = {0-444-50083-9},
      mrclass       = {60J65 (60J70)},
      mrnumber      = {1661486},
-     mrreviewer    = {Chull\ Park},
+     mrreviewer    = {Chull Park},
      pages         = {281--292},
      publisher     = {North-Holland, Amsterdam},
      title         = {A {$\liminf$} result for the {B}rownian motion},

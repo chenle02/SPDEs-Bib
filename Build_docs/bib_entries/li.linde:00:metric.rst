@@ -14,7 +14,7 @@ li.linde:00:metric
      journal       = {Studia Math.},
      mrclass       = {60G15 (46C05 47B06 52A99 54C70)},
      mrnumber      = {1763043},
-     mrreviewer    = {Qi\ Man\ Shao},
+     mrreviewer    = {Qi Man Shao},
      number        = {1},
      pages         = {29--45},
      title         = {Metric entropy of convex hulls in {H}ilbert spaces},

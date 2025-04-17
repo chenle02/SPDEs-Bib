@@ -12,7 +12,7 @@ majda.bertozzi:02:vorticity
      isbn          = {0-521-63057-6; 0-521-63948-4},
      mrclass       = {76-02 (35Q30 35Q35 76B03 76D03 76D05)},
      mrnumber      = {1867882},
-     mrreviewer    = {Yuxi\ Zheng},
+     mrreviewer    = {Yuxi Zheng},
      pages         = {xii+545},
      publisher     = {Cambridge University Press, Cambridge},
      series        = {Cambridge Texts in Applied Mathematics},

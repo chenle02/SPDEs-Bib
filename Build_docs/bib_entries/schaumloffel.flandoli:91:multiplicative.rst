@@ -15,7 +15,7 @@ schaumloffel.flandoli:91:multiplicative
      journal       = {Stochastics Stochastics Rep.},
      mrclass       = {60H15 (28D15 54H20 60E15)},
      mrnumber      = {1124837},
-     mrreviewer    = {Wolfgang\ Kliemann},
+     mrreviewer    = {Wolfgang Kliemann},
      number        = {3-4},
      pages         = {241--255},
      title         = {A multiplicative ergodic theorem with applications to a first order stochastic hyperbolic equation in a bounded domain},

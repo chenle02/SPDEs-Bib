@@ -14,7 +14,7 @@ xiao:11:properties
      isbn          = {978-3-0348-0020-4},
      mrclass       = {60G52 (60G17 60G18 60G60)},
      mrnumber      = {2857032},
-     mrreviewer    = {Robert\ C.\ Dalang},
+     mrreviewer    = {Robert C. Dalang},
      pages         = {279--308},
      publisher     = {Birkh\"{a}user/Springer Basel AG, Basel},
      series        = {Progr. Probab.},

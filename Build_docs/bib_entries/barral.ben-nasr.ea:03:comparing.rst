@@ -15,7 +15,7 @@ barral.ben-nasr.ea:03:comparing
      journal       = {Asian J. Math.},
      mrclass       = {28A80 (37C45)},
      mrnumber      = {2014962},
-     mrreviewer    = {Esa\ J\"arvenp\"a\"a},
+     mrreviewer    = {Esa J\"arvenp\"a\"a},
      number        = {2},
      pages         = {149--165},
      title         = {Comparing multifractal formalisms: the neighboring boxes condition},

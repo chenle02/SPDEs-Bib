@@ -15,7 +15,7 @@ berestycki.schramm.ea:11:mixing
      journal       = {Ann. Probab.},
      mrclass       = {60B15 (60J27)},
      mrnumber      = {2884874},
-     mrreviewer    = {Sara\ Brofferio},
+     mrreviewer    = {Sara Brofferio},
      number        = {5},
      pages         = {1815--1843},
      title         = {Mixing times for random {$k$}-cycles and coalescence-fragmentation chains},

@@ -14,7 +14,7 @@ bourgain.wang:97:construction
      journal       = {Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4)},
      mrclass       = {35Q55 (35B99 35C99)},
      mrnumber      = {1655515},
-     mrreviewer    = {Marcel\ Oliver},
+     mrreviewer    = {Marcel Oliver},
      note          = {Dedicated to Ennio De Giorgi},
      number        = {1-2},
      pages         = {197--215},

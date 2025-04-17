@@ -15,7 +15,7 @@ du.miao.ea:15:packing
      journal       = {Statist. Probab. Lett.},
      mrclass       = {60G60 (28A78 60G15 60G17)},
      mrnumber      = {3389994},
-     mrreviewer    = {Ren\'{e}\ L.\ Schilling},
+     mrreviewer    = {Ren\'{e} L. Schilling},
      pages         = {209--217},
      title         = {Packing dimensions of the images of {G}aussian random fields},
      url           = {https://doi.org/10.1016/j.spl.2015.07.020},

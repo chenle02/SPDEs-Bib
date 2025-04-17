@@ -15,7 +15,7 @@ deift.killip:99:on
      journal       = {Comm. Math. Phys.},
      mrclass       = {34L40 (34L25 39A70 47B39 47E05 81Q10)},
      mrnumber      = {1697600},
-     mrreviewer    = {Christian\ Remling},
+     mrreviewer    = {Christian Remling},
      number        = {2},
      pages         = {341--347},
      title         = {On the absolutely continuous spectrum of one-dimensional {S}chr\"odinger operators with square summable potentials},

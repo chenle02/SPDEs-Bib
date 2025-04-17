@@ -15,7 +15,7 @@ hongler.smirnov:13:energy
      journal       = {Acta Math.},
      mrclass       = {82B20},
      mrnumber      = {3143889},
-     mrreviewer    = {Xifeng\ Su},
+     mrreviewer    = {Xifeng Su},
      number        = {2},
      pages         = {191--225},
      title         = {The energy density in the planar {I}sing model},

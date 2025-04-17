@@ -15,7 +15,7 @@ gao.li:06:logarithmic
      journal       = {J. Theoret. Probab.},
      mrclass       = {60G15 (60F99 60G10)},
      mrnumber      = {2280509},
-     mrreviewer    = {J.\ H\"{u}sler},
+     mrreviewer    = {J. H\"{u}sler},
      number        = {3},
      pages         = {535--556},
      title         = {Logarithmic level comparison for small deviation probabilities},

@@ -15,7 +15,7 @@ bourgain.figiel.ea:86:on
      journal       = {Israel J. Math.},
      mrclass       = {46C05 (46B20 54E35)},
      mrnumber      = {868175},
-     mrreviewer    = {M.\ I.\ Kadets},
+     mrreviewer    = {M. I. Kadets},
      number        = {2},
      pages         = {147--152},
      title         = {On {H}ilbertian subsets of finite metric spaces},

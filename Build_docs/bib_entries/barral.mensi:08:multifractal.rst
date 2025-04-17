@@ -15,7 +15,7 @@ barral.mensi:08:multifractal
      journal       = {Nonlinearity},
      mrclass       = {37C45 (28A78 28A80 37D35 37D40)},
      mrnumber      = {2439486},
-     mrreviewer    = {Lars\ Olsen},
+     mrreviewer    = {Lars Olsen},
      number        = {10},
      pages         = {2409--2425},
      title         = {Multifractal analysis of {B}irkhoff averages on `self-affine' symbolic spaces},

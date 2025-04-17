@@ -14,7 +14,7 @@ xiao:04:random
      isbn          = {0-8218-3638-2},
      mrclass       = {60G17 (28A78 28A80 60J25 60J60)},
      mrnumber      = {2112126},
-     mrreviewer    = {Marta\ Tyran-Kami\'{n}ska},
+     mrreviewer    = {Marta Tyran-Kami\'{n}ska},
      pages         = {261--338},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Proc. Sympos. Pure Math.},

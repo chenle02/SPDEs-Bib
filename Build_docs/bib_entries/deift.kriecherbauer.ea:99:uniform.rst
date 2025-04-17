@@ -15,7 +15,7 @@ deift.kriecherbauer.ea:99:uniform
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {42C05 (15A52 41A60 82B41)},
      mrnumber      = {1702716},
-     mrreviewer    = {D.\ S.\ Lubinsky},
+     mrreviewer    = {D. S. Lubinsky},
      number        = {11},
      pages         = {1335--1425},
      title         = {Uniform asymptotics for polynomials orthogonal with respect to varying exponential weights and applications to universality questions in random matrix theory},

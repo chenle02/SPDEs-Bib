@@ -15,7 +15,7 @@ chong.dalang:23:power
      journal       = {Bernoulli},
      mrclass       = {60H15 (35Kxx 35R50)},
      mrnumber      = {4580897},
-     mrreviewer    = {Markus\ Kunze},
+     mrreviewer    = {Markus Kunze},
      number        = {3},
      pages         = {1792--1820},
      title         = {Power variations in fractional {S}obolev spaces for a class of parabolic stochastic {PDE}s},

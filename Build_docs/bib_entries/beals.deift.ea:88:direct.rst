@@ -13,7 +13,7 @@ beals.deift.ea:88:direct
      isbn          = {0-8218-1530-X},
      mrclass       = {58F07 (34A55 34B25 35Q20 47E05 81C12)},
      mrnumber      = {954382},
-     mrreviewer    = {M.\ Victor\ Wickerhauser},
+     mrreviewer    = {M. Victor Wickerhauser},
      pages         = {xiv+209},
      publisher     = {American Mathematical Society, Providence, RI},
      series        = {Mathematical Surveys and Monographs},

@@ -14,7 +14,7 @@ deift:08:some
      isbn          = {978-0-8218-4240-9},
      mrclass       = {37K15 (15B52 34M55 35Q53 60F05 60K35 62H25 82B44)},
      mrnumber      = {2411922},
-     mrreviewer    = {Razvan\ Teodorescu},
+     mrreviewer    = {Razvan Teodorescu},
      pages         = {419--430},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

@@ -15,7 +15,7 @@ chojnowska-michalik.goldys:01:generalized
      journal       = {J. Funct. Anal.},
      mrclass       = {47D07 (42B25 46E35 46G12 47N30 60J25)},
      mrnumber      = {1828795},
-     mrreviewer    = {Marta\ Tyran-Kami\'nska},
+     mrreviewer    = {Marta Tyran-Kami\'nska},
      number        = {2},
      pages         = {243--279},
      title         = {Generalized {O}rnstein-{U}hlenbeck semigroups: {L}ittlewood-{P}aley-{S}tein inequalities and the {P}. {A}. {M}eyer equivalence of norms},

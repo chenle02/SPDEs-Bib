@@ -12,7 +12,7 @@ bourgain:81:new*1
      isbn          = {3-540-11156-5},
      mrclass       = {46B20},
      mrnumber      = {639014},
-     mrreviewer    = {Hermann\ K\"{o}nig},
+     mrreviewer    = {Hermann K\"{o}nig},
      pages         = {v+143},
      publisher     = {Springer-Verlag, Berlin-New York},
      series        = {Lecture Notes in Mathematics},

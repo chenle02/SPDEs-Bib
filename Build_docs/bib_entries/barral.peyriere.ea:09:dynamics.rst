@@ -15,7 +15,7 @@ barral.peyriere.ea:09:dynamics
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60F05 (60F17 60G15 60G17 60G18 60G42)},
      mrnumber      = {2496444},
-     mrreviewer    = {Ren\'e\ L.\ Schilling},
+     mrreviewer    = {Ren\'e L. Schilling},
      number        = {3-4},
      pages         = {615--631},
      title         = {Dynamics of {M}andelbrot cascades},

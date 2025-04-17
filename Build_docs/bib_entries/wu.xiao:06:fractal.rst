@@ -14,7 +14,7 @@ wu.xiao:06:fractal
      isbn          = {978-0-940600-67-6; 0-940600-67-6},
      mrclass       = {60H15 (28A80 60G15 60G17 60H40)},
      mrnumber      = {2387765},
-     mrreviewer    = {Pedro\ Mar\'{i}n Rubio},
+     mrreviewer    = {Pedro Mar\'{i}n Rubio},
      pages         = {128--147},
      publisher     = {Inst. Math. Statist., Beachwood, OH},
      series        = {IMS Lecture Notes Monogr. Ser.},

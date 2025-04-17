@@ -15,7 +15,7 @@ barski.zabczyk:21:note
      journal       = {Commun. Inf. Syst.},
      mrclass       = {60H10 (60G51 91G30)},
      mrnumber      = {4273497},
-     mrreviewer    = {Christel\ Geiss},
+     mrreviewer    = {Christel Geiss},
      number        = {2},
      pages         = {209--218},
      title         = {A note on generalized {CIR} equations},

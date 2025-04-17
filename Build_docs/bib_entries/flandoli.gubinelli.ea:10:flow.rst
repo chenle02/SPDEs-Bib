@@ -15,7 +15,7 @@ flandoli.gubinelli.ea:10:flow
      journal       = {Bull. Sci. Math.},
      mrclass       = {60H10 (35R60 47D07)},
      mrnumber      = {2651899},
-     mrreviewer    = {Wei\ Liu},
+     mrreviewer    = {Wei Liu},
      number        = {4},
      pages         = {405--422},
      title         = {Flow of diffeomorphisms for {SDE}s with unbounded {H}\"{o}lder continuous drift},

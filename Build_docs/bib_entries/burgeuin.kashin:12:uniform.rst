@@ -15,7 +15,7 @@ burgeuin.kashin:12:uniform
      journal       = {Mat. Sb.},
      mrclass       = {41A25 (41A46)},
      mrnumber      = {3060069},
-     mrreviewer    = {F.\ M\'{o}ricz},
+     mrreviewer    = {F. M\'{o}ricz},
      number        = {12},
      pages         = {57--80},
      title         = {Uniform approximation of a partial sum by a shorter sum and {$\Phi$}-widths},

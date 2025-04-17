@@ -13,7 +13,7 @@ zabczyk:78:semigroup
      isbn          = {0-08-022018-5},
      mrclass       = {93C99},
      mrnumber      = {534864},
-     mrreviewer    = {Andrzej\ W.\ Olbrot},
+     mrreviewer    = {Andrzej W. Olbrot},
      pages         = {99--107},
      publisher     = {IFAC, D\"{u}sseldorf},
      title         = {A semigroup approach to boundary value control},

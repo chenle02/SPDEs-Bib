@@ -15,7 +15,7 @@ chorin.mccracken.ea:78:product
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {65J05 (47D05 58D05)},
      mrnumber      = {488713},
-     mrreviewer    = {Juhani\ Pitk\"aranta},
+     mrreviewer    = {Juhani Pitk\"aranta},
      number        = {2},
      pages         = {205--256},
      title         = {Product formulas and numerical algorithms},

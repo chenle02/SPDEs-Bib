@@ -15,7 +15,7 @@ bobrovsky.zeitouni:92:some
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60J60 (60H10)},
      mrnumber      = {1164177},
-     mrreviewer    = {George\ Yin},
+     mrreviewer    = {George Yin},
      number        = {2},
      pages         = {241--256},
      title         = {Some results on the problem of exit from a domain},

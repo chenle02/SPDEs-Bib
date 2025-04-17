@@ -15,7 +15,7 @@ bourgain:09:approach
      journal       = {J. Stat. Phys.},
      mrclass       = {82B44 (47B80)},
      mrnumber      = {2518977},
-     mrreviewer    = {David\ Damanik},
+     mrreviewer    = {David Damanik},
      number        = {5-6},
      pages         = {969--978},
      title         = {An approach to {W}egner's estimate using subharmonicity},

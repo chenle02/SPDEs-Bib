@@ -15,7 +15,7 @@ bourgain.tzafriri:91:on
      journal       = {J. Reine Angew. Math.},
      mrclass       = {46L05 (46L30 47B35 47D25)},
      mrnumber      = {1124564},
-     mrreviewer    = {H.\ Halpern},
+     mrreviewer    = {H. Halpern},
      pages         = {1--43},
      title         = {On a problem of {K}adison and {S}inger},
      url           = {https://doi.org/10.1515/crll.1991.420.1},

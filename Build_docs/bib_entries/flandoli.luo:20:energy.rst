@@ -15,7 +15,7 @@ flandoli.luo:20:energy
      journal       = {J. Math. Phys.},
      mrclass       = {76F20 (60B10 60H30 60K35)},
      mrnumber      = {4047934},
-     mrreviewer    = {Lennaert\ van Veen},
+     mrreviewer    = {Lennaert van Veen},
      number        = {1},
      pages         = {013101, 22},
      title         = {Energy conditional measures and 2{D} turbulence},

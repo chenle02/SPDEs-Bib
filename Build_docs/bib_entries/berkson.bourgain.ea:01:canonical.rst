@@ -15,7 +15,7 @@ berkson.bourgain.ea:01:canonical
      journal       = {Mem. Amer. Math. Soc.},
      mrclass       = {47B38 (42B15 46E35 47F05)},
      mrnumber      = {1805761},
-     mrreviewer    = {Leszek\ Skrzypczak},
+     mrreviewer    = {Leszek Skrzypczak},
      number        = {714},
      pages         = {viii+75},
      title         = {Canonical {S}obolev projections of weak type {$(1,1)$}},

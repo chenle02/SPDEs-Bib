@@ -15,7 +15,7 @@ bourgain.dyatlov:17:fourier
      journal       = {Geom. Funct. Anal.},
      mrclass       = {37C30 (11B30 37F30)},
      mrnumber      = {3678500},
-     mrreviewer    = {Shu\ Shen},
+     mrreviewer    = {Shu Shen},
      number        = {4},
      pages         = {744--771},
      title         = {Fourier dimension and spectral gaps for hyperbolic surfaces},

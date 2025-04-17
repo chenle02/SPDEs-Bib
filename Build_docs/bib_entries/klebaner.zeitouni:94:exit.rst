@@ -14,7 +14,7 @@ klebaner.zeitouni:94:exit
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60J80 (60F10)},
      mrnumber      = {1304781},
-     mrreviewer    = {J.\ D.\ Biggins},
+     mrreviewer    = {J. D. Biggins},
      number        = {4},
      pages         = {1188--1205},
      title         = {The exit problem for a class of density-dependent branching systems},

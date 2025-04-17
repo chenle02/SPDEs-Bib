@@ -15,7 +15,7 @@ zambotti:04:fluctuations
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60K35 (60H15 82B24 82B41)},
      mrnumber      = {2128236},
-     mrreviewer    = {Wolfgang\ Freudenberg},
+     mrreviewer    = {Wolfgang Freudenberg},
      number        = {3},
      pages         = {315--339},
      title         = {Fluctuations for a {$\nabla\phi$} interface model with repulsion from a wall},

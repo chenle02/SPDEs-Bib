@@ -15,7 +15,7 @@ dong.li.ea:12:stationary
      journal       = {Stoch. Dyn.},
      mrclass       = {60H15 (35D30 35Q30 35R60)},
      mrnumber      = {2887918},
-     mrreviewer    = {Jan\ I.\ Seidler},
+     mrreviewer    = {Jan I. Seidler},
      number        = {1},
      pages         = {1150006, 22},
      title         = {Stationary weak solutions for stochastic 3{D} {N}avier-{S}tokes equations with {L}\'{e}vy noise},

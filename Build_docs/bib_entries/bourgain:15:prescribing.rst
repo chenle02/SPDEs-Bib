@@ -15,7 +15,7 @@ bourgain:15:prescribing
      journal       = {Israel J. Math.},
      mrclass       = {11N05 (11A41 11A63)},
      mrnumber      = {3319636},
-     mrreviewer    = {Vilius\ Stakenas},
+     mrreviewer    = {Vilius Stakenas},
      number        = {1},
      pages         = {165--182},
      title         = {Prescribing the binary digits of primes, {II}},

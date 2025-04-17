@@ -15,7 +15,7 @@ shen:88:horseshoe
      journal       = {Acta Math. Appl. Sinica (English Ser.)},
      mrclass       = {58F14 (58F15 58F30 70K40)},
      mrnumber      = {985115},
-     mrreviewer    = {Jan\ Andres},
+     mrreviewer    = {Jan Andres},
      number        = {4},
      pages         = {345--354},
      title         = {Horseshoe motions and subharmonics of the equation of {J}-{J} type with small parameters},

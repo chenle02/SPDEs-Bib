@@ -15,7 +15,7 @@ kupiainen.rhodes.ea:19:local
      journal       = {Comm. Math. Phys.},
      mrclass       = {81T40 (81T20)},
      mrnumber      = {4029827},
-     mrreviewer    = {Nizar\ Demni},
+     mrreviewer    = {Nizar Demni},
      number        = {3},
      pages         = {1005--1069},
      title         = {Local conformal structure of {L}iouville quantum gravity},

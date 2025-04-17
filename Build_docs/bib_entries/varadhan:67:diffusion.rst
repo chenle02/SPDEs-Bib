@@ -15,7 +15,7 @@ varadhan:67:diffusion
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60.62 (35.00)},
      mrnumber      = {217881},
-     mrreviewer    = {H.\ P.\ McKean, Jr.},
+     mrreviewer    = {H. P. McKean, Jr.},
      pages         = {659--685},
      title         = {Diffusion processes in a small time interval},
      url           = {https://doi.org/10.1002/cpa.3160200404},

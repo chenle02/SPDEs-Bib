@@ -13,7 +13,7 @@ bourgain:14:some
      isbn          = {978-1-107-03685-7},
      mrclass       = {11J70 (11B30)},
      mrnumber      = {3220882},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      pages         = {1--22},
      publisher     = {Cambridge Univ. Press, Cambridge},
      series        = {Math. Sci. Res. Inst. Publ.},

@@ -15,7 +15,7 @@ dembo.zeitouni:92:erratum
      journal       = {Stochastic Process. Appl.},
      mrclass       = {93E10 (62F10 62M09 93E14)},
      mrnumber      = {1158031},
-     mrreviewer    = {Richard\ M.\ Hawkes},
+     mrreviewer    = {Richard M. Hawkes},
      number        = {2},
      pages         = {359--361},
      title         = {Erratum: ``{P}arameter estimation of partially observed continuous time stochastic processes via the {EM} algorithm'' [{S}tochastic {P}rocess. {A}ppl. {\bf 23} (1986), no. 1, 91--113; {MR}0866289 (88h:93068)]},

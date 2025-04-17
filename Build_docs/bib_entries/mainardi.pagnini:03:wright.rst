@@ -15,7 +15,7 @@ mainardi.pagnini:03:wright
      journal       = {Appl. Math. Comput.},
      mrclass       = {35R10 (26A33 33C60 33E20 35C15 35G10)},
      mrnumber      = {1984227},
-     mrreviewer    = {Anatoly\ Kilbas},
+     mrreviewer    = {Anatoly Kilbas},
      note          = {Advanced special functions and related topics in differential equations (Melfi, 2001)},
      number        = {1},
      pages         = {51--62},

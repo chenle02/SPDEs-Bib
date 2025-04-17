@@ -15,7 +15,7 @@ capinski.peszat:01:on
      journal       = {Nonlinear Anal.},
      mrclass       = {60H15 (35Q30 35R60 76D05)},
      mrnumber      = {1816656},
-     mrreviewer    = {Anna\ Karczewska},
+     mrreviewer    = {Anna Karczewska},
      number        = {2},
      pages         = {141--177},
      title         = {On the existence of a solution to stochastic {N}avier-{S}tokes equations},

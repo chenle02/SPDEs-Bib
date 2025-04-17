@@ -15,7 +15,7 @@ bourgain:93:on*2
      journal       = {J. Anal. Math.},
      mrclass       = {11M99 (28A75)},
      mrnumber      = {1253227},
-     mrreviewer    = {D.\ R.\ Heath-Brown},
+     mrreviewer    = {D. R. Heath-Brown},
      pages         = {21--32},
      title         = {On the distribution of {D}irichlet sums},
      url           = {https://doi.org/10.1007/BF03341964},

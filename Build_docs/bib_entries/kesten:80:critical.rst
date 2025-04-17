@@ -14,7 +14,7 @@ kesten:80:critical
      journal       = {Comm. Math. Phys.},
      mrclass       = {60K35 (82A42 82A67)},
      mrnumber      = {575895},
-     mrreviewer    = {R.\ T.\ Smythe},
+     mrreviewer    = {R. T. Smythe},
      number        = {1},
      pages         = {41--59},
      title         = {The critical probability of bond percolation on the square lattice equals {${1\over 2}$}},

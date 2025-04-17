@@ -15,7 +15,7 @@ sznitman.zeitouni:04:on
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {60K37 (60J60)},
      mrnumber      = {2092758},
-     mrreviewer    = {Fabio\ P.\ Machado},
+     mrreviewer    = {Fabio P. Machado},
      number        = {6},
      pages         = {429--434},
      title         = {On the diffusive behavior of isotropic diffusions in a random environment},

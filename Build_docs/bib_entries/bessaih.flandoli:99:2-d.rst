@@ -15,7 +15,7 @@ bessaih.flandoli:99:2-d
      journal       = {NoDEA Nonlinear Differential Equations Appl.},
      mrclass       = {60H15 (35Q30 35R60 76B03 76M35)},
      mrnumber      = {1674779},
-     mrreviewer    = {Marek\ Capi\'{n}ski},
+     mrreviewer    = {Marek Capi\'{n}ski},
      number        = {1},
      pages         = {35--54},
      title         = {{$2$}-{D} {E}uler equation perturbed by noise},

@@ -15,7 +15,7 @@ zambotti:00:analytic
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H15 (60J60)},
      mrnumber      = {1790079},
-     mrreviewer    = {Constantin\ Tudor},
+     mrreviewer    = {Constantin Tudor},
      number        = {2},
      pages         = {147--168},
      title         = {An analytic approach to existence and uniqueness for martingale problems in infinite dimensions},

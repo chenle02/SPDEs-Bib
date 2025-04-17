@@ -14,7 +14,7 @@ bourgain:07:normal
      isbn          = {978-0-8218-4190-7},
      mrclass       = {35Q55 (35B15)},
      mrnumber      = {2373728},
-     mrreviewer    = {Peter\ E.\ Zhidkov},
+     mrreviewer    = {Peter E. Zhidkov},
      pages         = {153--157},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

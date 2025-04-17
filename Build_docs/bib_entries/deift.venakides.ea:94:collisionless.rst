@@ -15,7 +15,7 @@ deift.venakides.ea:94:collisionless
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35Q53 (35B40)},
      mrnumber      = {1263128},
-     mrreviewer    = {Alexey\ V.\ Samokhin},
+     mrreviewer    = {Alexey V. Samokhin},
      number        = {2},
      pages         = {199--206},
      title         = {The collisionless shock region for the long-time behavior of solutions of the {K}d{V} equation},

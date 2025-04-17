@@ -15,7 +15,7 @@ bourgain.brezis.ea:00:lifting
      journal       = {J. Anal. Math.},
      mrclass       = {46E35 (35J20 58D15 58E20)},
      mrnumber      = {1771523},
-     mrreviewer    = {Piotr\ Haj\l asz},
+     mrreviewer    = {Piotr Haj\l asz},
      pages         = {37--86},
      title         = {Lifting in {S}obolev spaces},
      url           = {https://doi.org/10.1007/BF02791533},

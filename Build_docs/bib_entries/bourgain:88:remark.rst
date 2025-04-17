@@ -15,7 +15,7 @@ bourgain:88:remark
      journal       = {J. Funct. Anal.},
      mrclass       = {81B99 (46N05 81C20)},
      mrnumber      = {950087},
-     mrreviewer    = {Anatolij\ Dvure\v{c}enskij},
+     mrreviewer    = {Anatolij Dvure\v{c}enskij},
      number        = {1},
      pages         = {136--143},
      title         = {A remark on the uncertainty principle for {H}ilbertian basis},

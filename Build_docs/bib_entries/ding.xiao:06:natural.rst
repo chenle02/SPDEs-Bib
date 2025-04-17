@@ -15,7 +15,7 @@ ding.xiao:06:natural
      journal       = {Ukra\"{i}n. Mat. Zh.},
      mrclass       = {60G99 (30B20 30B50)},
      mrnumber      = {2316218},
-     mrreviewer    = {Jia\ Rong\ Yu},
+     mrreviewer    = {Jia Rong Yu},
      number        = {7},
      pages         = {997--1005},
      title         = {Natural boundary of random {D}irichlet series},

@@ -14,7 +14,7 @@ bourgain:85:on
      journal       = {Ann. Inst. Fourier (Grenoble)},
      mrclass       = {46J15 (30H05 46J20)},
      mrnumber      = {812323},
-     mrreviewer    = {Richard\ Rochberg},
+     mrreviewer    = {Richard Rochberg},
      number        = {4},
      pages         = {163--174},
      title         = {On finitely generated closed ideals in {$H^infty(D)$}},

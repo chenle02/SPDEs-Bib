@@ -15,7 +15,7 @@ bourgain:79:averaging
      journal       = {Israel J. Math.},
      mrclass       = {46B20 (28B05)},
      mrnumber      = {571083},
-     mrreviewer    = {J.\ Diestel},
+     mrreviewer    = {J. Diestel},
      number        = {4},
      pages         = {289--298},
      title         = {An averaging result for {$l\sp{1}$}-sequences and applications to weakly conditionally compact sets in {\$L\sp{1}\sb{X}\$}},

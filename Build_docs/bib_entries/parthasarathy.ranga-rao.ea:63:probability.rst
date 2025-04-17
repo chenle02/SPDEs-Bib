@@ -14,7 +14,7 @@ parthasarathy.ranga-rao.ea:63:probability
      journal       = {Illinois J. Math.},
      mrclass       = {60.08},
      mrnumber      = {190968},
-     mrreviewer    = {D.\ Sz\'asz},
+     mrreviewer    = {D. Sz\'asz},
      pages         = {337--369},
      title         = {Probability distributions on locally compact abelian groups},
      url           = {http://projecteuclid.org/euclid.ijm/1255644642},

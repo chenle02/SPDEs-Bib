@@ -15,7 +15,7 @@ shen.zhao:05:convergence
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {34C12 (34C27 37B55)},
      mrnumber      = {2085171},
-     mrreviewer    = {Addolorata\ Salvatore},
+     mrreviewer    = {Addolorata Salvatore},
      number        = {1},
      pages         = {203--212},
      title         = {Convergence in almost periodic cooperative systems with a first integral},

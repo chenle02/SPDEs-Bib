@@ -15,7 +15,7 @@ chelkak.smirnov:11:discrete
      journal       = {Adv. Math.},
      mrclass       = {60G50 (31C20 39A45 52C20 60J67)},
      mrnumber      = {2824564},
-     mrreviewer    = {Ben\ Dyhr},
+     mrreviewer    = {Ben Dyhr},
      number        = {3},
      pages         = {1590--1630},
      title         = {Discrete complex analysis on isoradial graphs},

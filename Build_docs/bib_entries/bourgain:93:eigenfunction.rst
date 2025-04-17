@@ -15,7 +15,7 @@ bourgain:93:eigenfunction
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {58G25 (35P15 58G15)},
      mrnumber      = {1208826},
-     mrreviewer    = {Johan\ Tysk},
+     mrreviewer    = {Johan Tysk},
      number        = {3},
      pages         = {61--66},
      title         = {Eigenfunction bounds for the {L}aplacian on the {$n$}-torus},

@@ -15,7 +15,7 @@ bourgain:16:on*1
      journal       = {J. Anal. Math.},
      mrclass       = {11F30},
      mrnumber      = {3481179},
-     mrreviewer    = {Hidenori\ Katsurada},
+     mrreviewer    = {Hidenori Katsurada},
      pages         = {355--367},
      title         = {On the {F}ourier-{W}alsh spectrum of the {M}oebius function, {II}},
      url           = {https://doi.org/10.1007/s11854-016-0012-1},

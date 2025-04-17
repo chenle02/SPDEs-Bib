@@ -15,7 +15,7 @@ bourgain:86:on
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {43A25 (42A16 43A46)},
      mrnumber      = {816324},
-     mrreviewer    = {Colin\ C.\ Graham},
+     mrreviewer    = {Colin C. Graham},
      number        = {2},
      pages         = {793--798},
      title         = {On the dichotomy problem for tensor algebras},

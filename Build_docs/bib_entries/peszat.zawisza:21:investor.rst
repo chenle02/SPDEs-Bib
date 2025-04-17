@@ -15,7 +15,7 @@ peszat.zawisza:21:investor
      journal       = {Ann. Polon. Math.},
      mrclass       = {91G10 (60H30 91G30 93E20)},
      mrnumber      = {4358442},
-     mrreviewer    = {Hyeng\ Keun\ Koo},
+     mrreviewer    = {Hyeng Keun Koo},
      number        = {3},
      pages         = {241--269},
      title         = {The investor problem based on the {HJM} model},

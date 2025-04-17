@@ -15,7 +15,7 @@ baik.deift.ea:00:on
      journal       = {Geom. Funct. Anal.},
      mrclass       = {05E10 (05A17 47A75 60C05)},
      mrnumber      = {1791137},
-     mrreviewer    = {Martin\ V.\ Hildebrand},
+     mrreviewer    = {Martin V. Hildebrand},
      number        = {4},
      pages         = {702--731},
      title         = {On the distribution of the length of the second row of a {Y}oung diagram under {P}lancherel measure},

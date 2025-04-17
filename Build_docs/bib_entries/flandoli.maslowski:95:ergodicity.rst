@@ -14,7 +14,7 @@ flandoli.maslowski:95:ergodicity
      journal       = {Comm. Math. Phys.},
      mrclass       = {35R60 (35Q30 60H15 60H30 76D05)},
      mrnumber      = {1346374},
-     mrreviewer    = {Peter\ E.\ Kloeden},
+     mrreviewer    = {Peter E. Kloeden},
      number        = {1},
      pages         = {119--141},
      title         = {Ergodicity of the {$2$}-{D} {N}avier-{S}tokes equation under random perturbations},

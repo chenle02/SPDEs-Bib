@@ -14,7 +14,7 @@ bourgain:88:on
      isbn          = {3-540-19353-7},
      mrclass       = {46B20},
      mrnumber      = {950984},
-     mrreviewer    = {T.\ Figiel},
+     mrreviewer    = {T. Figiel},
      pages         = {232--238},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

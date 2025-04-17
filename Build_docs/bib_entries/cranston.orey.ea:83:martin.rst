@@ -13,7 +13,7 @@ cranston.orey.ea:83:martin
      isbn          = {0-521-28590-9},
      mrclass       = {60J50 (31C35)},
      mrnumber      = {696021},
-     mrreviewer    = {J.\ C.\ Taylor},
+     mrreviewer    = {J. C. Taylor},
      pages         = {63--78},
      publisher     = {Cambridge Univ. Press, Cambridge-New York},
      series        = {London Math. Soc. Lecture Note Ser.},

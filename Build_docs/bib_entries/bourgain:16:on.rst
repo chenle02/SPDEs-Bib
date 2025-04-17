@@ -15,7 +15,7 @@ bourgain:16:on
      journal       = {Amer. J. Math.},
      mrclass       = {32A70},
      mrnumber      = {3483477},
-     mrreviewer    = {E.\ S.\ Dubtsov},
+     mrreviewer    = {E. S. Dubtsov},
      number        = {2},
      pages         = {571--584},
      title         = {On uniformly bounded bases in spaces of holomorphic functions},

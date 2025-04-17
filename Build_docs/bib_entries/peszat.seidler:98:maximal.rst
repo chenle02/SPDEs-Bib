@@ -14,7 +14,7 @@ peszat.seidler:98:maximal
      journal       = {Math. Bohem.},
      mrclass       = {60H15},
      mrnumber      = {1618707},
-     mrreviewer    = {Ralf\ Manthey},
+     mrreviewer    = {Ralf Manthey},
      number        = {1},
      pages         = {7--32},
      title         = {Maximal inequalities and space-time regularity of stochastic convolutions},

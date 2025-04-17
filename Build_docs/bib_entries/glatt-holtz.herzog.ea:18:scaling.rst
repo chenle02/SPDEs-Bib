@@ -15,7 +15,7 @@ glatt-holtz.herzog.ea:18:scaling
      journal       = {Ann. PDE},
      mrclass       = {35R60 (35H10 35Q35 60H07 60H15 76F70 93B05)},
      mrnumber      = {3862850},
-     mrreviewer    = {Mark\ R.\ Opmeer},
+     mrreviewer    = {Mark R. Opmeer},
      number        = {2},
      pages         = {Paper No. 16, 103},
      title         = {Scaling and saturation in infinite-dimensional control problems with applications to stochastic partial differential equations},

@@ -14,7 +14,7 @@ bourgain:79:note
      journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
      mrclass       = {46E30},
      mrnumber      = {592659},
-     mrreviewer    = {J.\ Diestel},
+     mrreviewer    = {J. Diestel},
      number        = {1},
      pages         = {45--47},
      title         = {A note on the {L}ebesgue spaces of vector-valued functions},

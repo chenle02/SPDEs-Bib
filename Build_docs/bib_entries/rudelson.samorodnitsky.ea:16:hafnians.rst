@@ -15,7 +15,7 @@ rudelson.samorodnitsky.ea:16:hafnians
      journal       = {Ann. Probab.},
      mrclass       = {60B20 (05C70 15B52)},
      mrnumber      = {3531682},
-     mrreviewer    = {Steven\ Joel\ Miller},
+     mrreviewer    = {Steven Joel Miller},
      number        = {4},
      pages         = {2858--2888},
      title         = {Hafnians, perfect matchings and {G}aussian matrices},

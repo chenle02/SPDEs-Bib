@@ -15,7 +15,7 @@ barral.seuret:08:ubiquity
      journal       = {Math. Proc. Cambridge Philos. Soc.},
      mrclass       = {28A80 (11A63 11J83 11K55)},
      mrnumber      = {2464774},
-     mrreviewer    = {Arnaud\ Durand},
+     mrreviewer    = {Arnaud Durand},
      number        = {3},
      pages         = {527--548},
      title         = {Ubiquity and large intersections properties under digit frequencies constraints},

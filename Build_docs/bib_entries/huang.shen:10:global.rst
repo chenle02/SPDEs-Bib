@@ -14,7 +14,7 @@ huang.shen:10:global
      journal       = {Int. J. Evol. Equ.},
      mrclass       = {37L30 (35B41 35K51 35R60 60H15)},
      mrnumber      = {2780316},
-     mrreviewer    = {Tom\'{a}s\ Caraballo},
+     mrreviewer    = {Tom\'{a}s Caraballo},
      number        = {4},
      pages         = {383--411},
      title         = {Global attractors for partly dissipative random/stochastic reaction diffusion systems},

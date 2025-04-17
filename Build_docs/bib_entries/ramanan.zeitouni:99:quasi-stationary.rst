@@ -15,7 +15,7 @@ ramanan.zeitouni:99:quasi-stationary
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60J05 (37D99 37E05 37H99 60H25)},
      mrnumber      = {1720096},
-     mrreviewer    = {Fima\ Klebaner},
+     mrreviewer    = {Fima Klebaner},
      number        = {1},
      pages         = {25--51},
      title         = {The quasi-stationary distribution for small random perturbations of certain one-dimensional maps},

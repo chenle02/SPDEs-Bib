@@ -15,7 +15,7 @@ bourgain:07:sum-product
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {11B75 (11L07)},
      mrnumber      = {2310668},
-     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
+     mrreviewer    = {Sergeu{i} V. Konyagin},
      number        = {6},
      pages         = {349--352},
      title         = {Sum-product theorems and exponential sum bounds in residue classes for general modulus},

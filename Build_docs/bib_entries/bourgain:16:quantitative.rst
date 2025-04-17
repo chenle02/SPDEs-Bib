@@ -15,7 +15,7 @@ bourgain:16:quantitative
      journal       = {Israel J. Math.},
      mrclass       = {11E20 (22E40 37A17)},
      mrnumber      = {3551907},
-     mrreviewer    = {B.\ Sury},
+     mrreviewer    = {B. Sury},
      number        = {1},
      pages         = {503--512},
      title         = {A quantitative {O}ppenheim theorem for generic diagonal quadratic forms},

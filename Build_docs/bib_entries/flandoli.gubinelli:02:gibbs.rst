@@ -15,7 +15,7 @@ flandoli.gubinelli:02:gibbs
      journal       = {Probab. Theory Related Fields},
      mrclass       = {76F55 (60H05 60H30 76B47 76M35)},
      mrnumber      = {1892850},
-     mrreviewer    = {Christophe\ Giraud},
+     mrreviewer    = {Christophe Giraud},
      number        = {3},
      pages         = {317--340},
      title         = {The {G}ibbs ensemble of a vortex filament},

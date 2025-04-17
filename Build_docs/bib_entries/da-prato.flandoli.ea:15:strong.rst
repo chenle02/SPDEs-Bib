@@ -15,7 +15,7 @@ da-prato.flandoli.ea:15:strong
      journal       = {J. Theoret. Probab.},
      mrclass       = {60H15 (35A02 35R60 60H10)},
      mrnumber      = {3422943},
-     mrreviewer    = {Dirk\ Bl\"{o}mker},
+     mrreviewer    = {Dirk Bl\"{o}mker},
      number        = {4},
      pages         = {1571--1600},
      title         = {Strong uniqueness for stochastic evolution equations with unbounded measurable drift term},

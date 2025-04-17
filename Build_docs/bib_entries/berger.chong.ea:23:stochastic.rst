@@ -15,7 +15,7 @@ berger.chong.ea:23:stochastic
      journal       = {Comm. Math. Phys.},
      mrclass       = {60H15 (60G51 82D60)},
      mrnumber      = {4630474},
-     mrreviewer    = {Peter\ E.\ Kloeden},
+     mrreviewer    = {Peter E. Kloeden},
      number        = {3},
      pages         = {2215--2299},
      title         = {The stochastic heat equation with multiplicative {L}\'{e}vy noise: existence, moments, and intermittency},

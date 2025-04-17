@@ -15,7 +15,7 @@ hetzer.shen.ea:02:asymptotic
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {60H15 (35B05 35B25 35R60 37L55)},
      mrnumber      = {1878647},
-     mrreviewer    = {Igor\ D.\ Chueshov},
+     mrreviewer    = {Igor D. Chueshov},
      number        = {1},
      pages         = {139--188},
      title         = {Asymptotic behavior of positive solutions of random and stochastic parabolic equations of {F}isher and {K}olmogorov types},

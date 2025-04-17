@@ -15,7 +15,7 @@ deift.its.ea:13:toeplitz
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {82B20 (15B05)},
      mrnumber      = {3078693},
-     mrreviewer    = {Adnene\ Besbes},
+     mrreviewer    = {Adnene Besbes},
      number        = {9},
      pages         = {1360--1438},
      title         = {Toeplitz matrices and {T}oeplitz determinants under the impetus of the {I}sing model: some history and some recent results},

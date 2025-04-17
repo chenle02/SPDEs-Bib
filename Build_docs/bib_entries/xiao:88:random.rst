@@ -14,7 +14,7 @@ xiao:88:random
      journal       = {J. Math. (Wuhan)},
      mrclass       = {30B20 (30D60)},
      mrnumber      = {963379},
-     mrreviewer    = {Ai\ Hua\ Fan},
+     mrreviewer    = {Ai Hua Fan},
      number        = {1},
      pages         = {61--66},
      title         = {Random power series and {$\alpha$}-{B}loch functions},

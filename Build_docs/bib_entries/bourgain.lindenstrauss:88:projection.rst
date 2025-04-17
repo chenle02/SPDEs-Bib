@@ -14,7 +14,7 @@ bourgain.lindenstrauss:88:projection
      isbn          = {3-540-19353-7},
      mrclass       = {46B20 (52A20)},
      mrnumber      = {950986},
-     mrreviewer    = {G.\ Schechtman},
+     mrreviewer    = {G. Schechtman},
      pages         = {250--270},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

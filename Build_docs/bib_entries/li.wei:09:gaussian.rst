@@ -14,7 +14,7 @@ li.wei:09:gaussian
      isbn          = {978-0-940600-78-2},
      mrclass       = {60E05 (60B20 60G15)},
      mrnumber      = {2797939},
-     mrreviewer    = {Nizar\ Demni},
+     mrreviewer    = {Nizar Demni},
      pages         = {43--59},
      publisher     = {Inst. Math. Statist., Beachwood, OH},
      series        = {Inst. Math. Stat. (IMS) Collect.},

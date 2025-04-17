@@ -15,7 +15,7 @@ bourgain:09:expanders
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {11B30 (05E99 68Q25)},
      mrnumber      = {2537230},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {7-8},
      pages         = {357--362},
      title         = {Expanders and dimensional expansion},

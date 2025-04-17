@@ -15,7 +15,7 @@ basak.cook.ea:18:circular
      journal       = {Electron. J. Probab.},
      mrclass       = {15B52 (60B10 60B15 60B20)},
      mrnumber      = {3798243},
-     mrreviewer    = {Olivier\ Marchal},
+     mrreviewer    = {Olivier Marchal},
      pages         = {Paper No. 33, 51},
      title         = {Circular law for the sum of random permutation matrices},
      url           = {https://doi.org/10.1214/18-EJP162},

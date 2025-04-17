@@ -15,7 +15,7 @@ flandoli.gubinelli.ea:12:remarks
      journal       = {Rend. Semin. Mat. Univ. Politec. Torino},
      mrclass       = {60H10 (35B30 35B35 35K10)},
      mrnumber      = {3305566},
-     mrreviewer    = {Zaitang\ Huang},
+     mrreviewer    = {Zaitang Huang},
      number        = {1},
      pages         = {53--73},
      title         = {Remarks on the stochastic transport equation with {H}\"{o}lder drift},

@@ -14,7 +14,7 @@ bourgain.gromov:89:estimates
      isbn          = {3-540-51303-5},
      mrclass       = {41A46 (46E35)},
      mrnumber      = {1008722},
-     mrreviewer    = {Allan\ Pinkus},
+     mrreviewer    = {Allan Pinkus},
      pages         = {176--185},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

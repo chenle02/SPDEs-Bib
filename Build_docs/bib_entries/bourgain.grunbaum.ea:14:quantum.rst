@@ -15,7 +15,7 @@ bourgain.grunbaum.ea:14:quantum
      journal       = {Comm. Math. Phys.},
      mrclass       = {81Q10 (81P15)},
      mrnumber      = {3212879},
-     mrreviewer    = {Francisco\ Marcell\'{a}n},
+     mrreviewer    = {Francisco Marcell\'{a}n},
      number        = {3},
      pages         = {1031--1067},
      title         = {Quantum recurrence of a subspace and operator-valued {S}chur functions},

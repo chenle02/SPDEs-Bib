@@ -15,7 +15,7 @@ bourgain.burq.ea:13:control
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {35Q41 (35B45 35J15 42B37 58J05 93B07)},
      mrnumber      = {3082239},
-     mrreviewer    = {Alberto\ Enciso},
+     mrreviewer    = {Alberto Enciso},
      number        = {5},
      pages         = {1597--1628},
      title         = {Control for {S}chr\"{o}dinger operators on 2-tori: rough potentials},

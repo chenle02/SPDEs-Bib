@@ -15,7 +15,7 @@ xiao.lin:94:dimension
      journal       = {Acta Math. Sinica (N.S.)},
      mrclass       = {60G18 (60G17)},
      mrnumber      = {1415699},
-     mrreviewer    = {Makoto\ Maejima},
+     mrreviewer    = {Makoto Maejima},
      note          = {A Chinese summary appears in Acta Math. Sinica {\bf 38} (1995), no. 4, 576},
      number        = {3},
      pages         = {289--300},

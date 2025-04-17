@@ -12,7 +12,7 @@ bourgain:79:espace*1
      booktitle     = {S\'{e}minaire d'{A}nalyse {F}onctionnelle (1978--1979)},
      mrclass       = {46B22},
      mrnumber      = {557381},
-     mrreviewer    = {James\ Hagler},
+     mrreviewer    = {James Hagler},
      pages         = {Exp. No. 29, 6},
      publisher     = {\'{E}cole Polytech., Palaiseau},
      title         = {Un espace non {R}adon-{N}ikod\'{y}m sans arbre diadique},

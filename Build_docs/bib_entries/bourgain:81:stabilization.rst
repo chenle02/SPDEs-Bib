@@ -15,7 +15,7 @@ bourgain:81:stabilization
      journal       = {Fund. Math.},
      mrclass       = {28A05 (04A15 54H05)},
      mrnumber      = {616734},
-     mrreviewer    = {J.\ P. R. Christensen},
+     mrreviewer    = {J. P. R. Christensen},
      number        = {1},
      pages         = {25--44},
      title         = {A stabilization property and its applications in the theory of sections},

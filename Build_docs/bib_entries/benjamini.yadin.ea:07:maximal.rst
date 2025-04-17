@@ -15,7 +15,7 @@ benjamini.yadin.ea:07:maximal
      journal       = {Electron. Comm. Probab.},
      mrclass       = {60C05 (11B25 60F05)},
      mrnumber      = {2350574},
-     mrreviewer    = {Hsien-Kuei\ Hwang},
+     mrreviewer    = {Hsien-Kuei Hwang},
      pages         = {365--376},
      title         = {Maximal arithmetic progressions in random subsets},
      url           = {https://doi.org/10.1214/ECP.v12-1321},

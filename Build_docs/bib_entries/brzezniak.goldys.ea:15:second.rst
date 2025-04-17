@@ -15,7 +15,7 @@ brzezniak.goldys.ea:15:second
      journal       = {J. Evol. Equ.},
      mrclass       = {60H15 (35B65 35J05 35J25 35K05 35R60 60G20)},
      mrnumber      = {3315663},
-     mrreviewer    = {Sergey\ V.\ Lototsky},
+     mrreviewer    = {Sergey V. Lototsky},
      number        = {1},
      pages         = {1--26},
      title         = {Second order {PDE}s with {D}irichlet white noise boundary conditions},

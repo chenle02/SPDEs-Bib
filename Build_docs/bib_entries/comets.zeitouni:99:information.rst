@@ -14,7 +14,7 @@ comets.zeitouni:99:information
      journal       = {Markov Process. Related Fields},
      mrclass       = {60G60 (60F10 82B20 82B44)},
      mrnumber      = {1710981},
-     mrreviewer    = {Peter\ Eichelsbacher},
+     mrreviewer    = {Peter Eichelsbacher},
      number        = {3},
      pages         = {269--291},
      title         = {Information estimates and {M}arkov random fields},

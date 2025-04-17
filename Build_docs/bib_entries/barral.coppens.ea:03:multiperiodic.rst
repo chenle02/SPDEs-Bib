@@ -15,7 +15,7 @@ barral.coppens.ea:03:multiperiodic
      journal       = {J. Math. Pures Appl. (9)},
      mrclass       = {60G57 (28A80 37H15 60G18 60G42 60G48)},
      mrnumber      = {2024576},
-     mrreviewer    = {Edward\ C.\ Waymire},
+     mrreviewer    = {Edward C. Waymire},
      number        = {12},
      pages         = {1555--1589},
      title         = {Multiperiodic multifractal martingale measures},

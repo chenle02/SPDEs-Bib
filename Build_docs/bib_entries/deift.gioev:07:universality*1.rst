@@ -14,7 +14,7 @@ deift.gioev:07:universality*1
      journal       = {Int. Math. Res. Pap. IMRP},
      mrclass       = {82B41 (15A52 62E20 62H05)},
      mrnumber      = {2335245},
-     mrreviewer    = {Nizar\ Demni},
+     mrreviewer    = {Nizar Demni},
      number        = {2},
      pages         = {Art. ID rpm004, 116},
      title         = {Universality in random matrix theory for orthogonal and symplectic ensembles},

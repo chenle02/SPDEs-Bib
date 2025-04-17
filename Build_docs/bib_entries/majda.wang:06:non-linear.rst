@@ -13,7 +13,7 @@ majda.wang:06:non-linear
      isbn          = {978-0-521-83441-4; 0-521-83441-4},
      mrclass       = {76U05 (76E20 76F55 76M35 86-02)},
      mrnumber      = {2241372},
-     mrreviewer    = {Christopher\ C.\ Hallstrom},
+     mrreviewer    = {Christopher C. Hallstrom},
      pages         = {xii+551},
      publisher     = {Cambridge University Press, Cambridge},
      title         = {Non-linear dynamics and statistical theories for basic geophysical flows},

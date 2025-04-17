@@ -15,7 +15,7 @@ bourgain.gamburd:08:uniform
      journal       = {Ann. of Math. (2)},
      mrclass       = {20F65 (05C25 05E15 11B30 20G40)},
      mrnumber      = {2415383},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {2},
      pages         = {625--642},
      title         = {Uniform expansion bounds for {C}ayley graphs of {${\rm SL}_2(\Bbb F_p)$}},

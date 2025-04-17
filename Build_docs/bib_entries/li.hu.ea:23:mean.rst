@@ -15,7 +15,7 @@ li.hu.ea:23:mean
      journal       = {J. Comput. Appl. Math.},
      mrclass       = {65C30 (34F05 60G22 60H10 65L20)},
      mrnumber      = {4488084},
-     mrreviewer    = {Jialin\ Hong},
+     mrreviewer    = {Jialin Hong},
      pages         = {Paper No. 114804, 24},
      title         = {Mean square stability of stochastic theta method for stochastic differential equations driven by fractional {B}rownian motion},
      url           = {https://doi.org/10.1016/j.cam.2022.114804},

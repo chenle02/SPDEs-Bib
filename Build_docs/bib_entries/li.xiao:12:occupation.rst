@@ -15,7 +15,7 @@ li.xiao:12:occupation
      journal       = {J. Theoret. Probab.},
      mrclass       = {60F17 (60G20 60G60 60J80)},
      mrnumber      = {2993016},
-     mrreviewer    = {Christian\ B\"{o}inghoff},
+     mrreviewer    = {Christian B\"{o}inghoff},
      number        = {4},
      pages         = {1119--1152},
      title         = {Occupation time fluctuations of weakly degenerate branching systems},

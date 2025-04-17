@@ -13,7 +13,7 @@ zabczyk:77:infinite-dimensional
      journal       = {Bull. Inst. Internat. Statist.},
      mrclass       = {93C25 (93B05 93E20)},
      mrnumber      = {617581},
-     mrreviewer    = {M.\ H. A. Davis},
+     mrreviewer    = {M. H. A. Davis},
      note          = {With discussion},
      number        = {2},
      pages         = {286--310, 311--314},

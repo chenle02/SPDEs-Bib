@@ -14,7 +14,7 @@ cowan.zabczyk:78:optimal
      journal       = {Teor. Veroyatnost. i Primenen.},
      mrclass       = {60G40},
      mrnumber      = {509733},
-     mrreviewer    = {S.\ M.\ Samuels},
+     mrreviewer    = {S. M. Samuels},
      number        = {3},
      pages         = {606--614},
      title         = {An optimal selection problem associated with the {P}oisson process},

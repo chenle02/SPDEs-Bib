@@ -15,7 +15,7 @@ flandoli.lisei:04:stationary
      journal       = {Stochastic Anal. Appl.},
      mrclass       = {60H15},
      mrnumber      = {2095065},
-     mrreviewer    = {Wilfried\ Grecksch},
+     mrreviewer    = {Wilfried Grecksch},
      number        = {6},
      pages         = {1385--1420},
      title         = {Stationary conjugation of flows for parabolic {SPDE}s with multiplicative noise and some applications},

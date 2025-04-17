@@ -15,7 +15,7 @@ bourgain.gamburd.ea:10:affine
      journal       = {Invent. Math.},
      mrclass       = {11B30 (11B13 11N35)},
      mrnumber      = {2587341},
-     mrreviewer    = {Ben\ Joseph\ Green},
+     mrreviewer    = {Ben Joseph Green},
      number        = {3},
      pages         = {559--644},
      title         = {Affine linear sieve, expanders, and sum-product},

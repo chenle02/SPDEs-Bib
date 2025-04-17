@@ -14,7 +14,7 @@ ben-arous.tannenbaum.ea:03:crystalline
      isbn          = {0-387-40319-1},
      mrclass       = {60K35 (35K55)},
      mrnumber      = {2043235},
-     mrreviewer    = {Laurent\ Miclo},
+     mrreviewer    = {Laurent Miclo},
      pages         = {41--61},
      publisher     = {Springer, New York},
      series        = {IMA Vol. Math. Appl.},
