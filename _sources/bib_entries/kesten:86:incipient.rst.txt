@@ -15,7 +15,7 @@ kesten:86:incipient
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60K35},
      mrnumber      = {859839},
-     mrreviewer    = {R. T. Smythe},
+     mrreviewer    = {R.\ T.\ Smythe},
      number        = {3},
      pages         = {369--394},
      title         = {The incipient infinite cluster in two-dimensional percolation},

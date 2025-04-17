@@ -15,7 +15,7 @@ ai.li.ea:12:karhunen-loeve
      journal       = {Statist. Probab. Lett.},
      mrclass       = {60J65 (60F10 60G15)},
      mrnumber      = {2929770},
-     mrreviewer    = {Xiangfeng Yang},
+     mrreviewer    = {Xiangfeng\ Yang},
      number        = {7},
      pages         = {1235--1241},
      title         = {Karhunen-{L}oeve expansions for the detrended {B}rownian motion},

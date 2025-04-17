@@ -15,7 +15,7 @@ mattingly.suidan:05:small
      journal       = {J. Stat. Phys.},
      mrclass       = {76M35 (35Q30 35R60 60H15 76D05)},
      mrnumber      = {2122959},
-     mrreviewer    = {Hakima Bessaih},
+     mrreviewer    = {Hakima\ Bessaih},
      number        = {1-2},
      pages         = {343--364},
      title         = {The small scales of the stochastic {N}avier-{S}tokes equations under rough forcing},

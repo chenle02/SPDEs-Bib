@@ -15,7 +15,7 @@ domingo..ea:20:properties
      journal       = {Stoch. Anal. Appl.},
      mrclass       = {60H30 (60H10 92C05)},
      mrnumber      = {4060521},
-     mrreviewer    = {Etienne Tanr\'{e}},
+     mrreviewer    = {Etienne\ Tanr\'{e}},
      number        = {2},
      pages         = {277--306},
      title         = {Properties of bounded stochastic processes employed in biophysics},

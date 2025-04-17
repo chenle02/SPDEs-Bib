@@ -15,7 +15,7 @@ dembo.zeitouni:90:maximum
      journal       = {J. Multivariate Anal.},
      mrclass       = {60H15 (60G60 93E11)},
      mrnumber      = {1079665},
-     mrreviewer    = {M. Zakai},
+     mrreviewer    = {M.\ Zakai},
      number        = {2},
      pages         = {151--167},
      title         = {Maximum a posteriori estimation of elliptic {G}aussian fields observed via a noisy nonlinear channel},

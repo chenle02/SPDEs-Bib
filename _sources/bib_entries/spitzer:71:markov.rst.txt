@@ -15,7 +15,7 @@ spitzer:71:markov
      journal       = {Amer. Math. Monthly},
      mrclass       = {60.60 (82.00)},
      mrnumber      = {277036},
-     mrreviewer    = {S. J. Taylor},
+     mrreviewer    = {S.\ J.\ Taylor},
      pages         = {142--154},
      title         = {Markov random fields and {G}ibbs ensembles},
      url           = {https://doi.org/10.2307/2317621},

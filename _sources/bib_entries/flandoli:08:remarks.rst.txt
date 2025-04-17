@@ -14,7 +14,7 @@ flandoli:08:remarks
      isbn          = {978-3-7643-8457-9},
      mrclass       = {60H15 (35Q35 35R60 76D05 76M35)},
      mrnumber      = {2401954},
-     mrreviewer    = {Hongjun Gao},
+     mrreviewer    = {Hongjun\ Gao},
      pages         = {123--134},
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Progr. Probab.},

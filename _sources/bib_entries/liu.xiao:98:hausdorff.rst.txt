@@ -14,7 +14,7 @@ liu.xiao:98:hausdorff
      journal       = {Probab. Math. Statist.},
      mrclass       = {60J25 (60G18 60J60)},
      mrnumber      = {1671608},
-     mrreviewer    = {Mireille Chaleyat-Maurel},
+     mrreviewer    = {Mireille\ Chaleyat-Maurel},
      number        = {2},
      pages         = {369--383},
      title         = {Hausdorff dimension theorems for self-similar {M}arkov processes},

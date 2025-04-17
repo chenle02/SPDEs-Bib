@@ -15,7 +15,7 @@ qian.shen.ea:90:dynamical
      journal       = {J. Differential Equations},
      mrclass       = {58F12 (34C15 34D45)},
      mrnumber      = {1079864},
-     mrreviewer    = {Douglas S. Shafer},
+     mrreviewer    = {Douglas\ S.\ Shafer},
      number        = {1},
      pages         = {175--212},
      title         = {Dynamical behavior in coupled systems of {$J$}-{\$J\$} type},

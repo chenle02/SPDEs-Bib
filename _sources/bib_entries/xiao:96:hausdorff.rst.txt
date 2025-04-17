@@ -14,7 +14,7 @@ xiao:96:hausdorff
      journal       = {Osaka J. Math.},
      mrclass       = {60G15 (60G18)},
      mrnumber      = {1435460},
-     mrreviewer    = {Robert J. Adler},
+     mrreviewer    = {Robert\ J.\ Adler},
      number        = {4},
      pages         = {895--913},
      title         = {Hausdorff measure of the sample paths of {G}aussian random fields},

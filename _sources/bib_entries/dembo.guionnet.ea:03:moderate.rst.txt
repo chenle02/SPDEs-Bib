@@ -15,7 +15,7 @@ dembo.guionnet.ea:03:moderate
      journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
      mrclass       = {60F99 (15A42 46L54)},
      mrnumber      = {2010395},
-     mrreviewer    = {Emmanuel C. Germain},
+     mrreviewer    = {Emmanuel\ C.\ Germain},
      number        = {6},
      pages         = {1013--1042},
      title         = {Moderate deviations for the spectral measure of certain random matrices},

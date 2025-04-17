@@ -15,7 +15,7 @@ lawley.mattingly.ea:15:stochastic
      journal       = {SIAM J. Math. Anal.},
      mrclass       = {60H15 (35R60 37H99 46N20 92C30)},
      mrnumber      = {3379020},
-     mrreviewer    = {Peter E. Kloeden},
+     mrreviewer    = {Peter\ E.\ Kloeden},
      number        = {4},
      pages         = {3035--3063},
      title         = {Stochastic switching in infinite dimensions with applications to random parabolic {PDE}},

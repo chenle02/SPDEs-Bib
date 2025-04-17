@@ -15,7 +15,7 @@ bourgain:90:problems
      journal       = {Israel J. Math.},
      mrclass       = {42A20 (11K70 42A61)},
      mrnumber      = {1074506},
-     mrreviewer    = {R. P. Boas},
+     mrreviewer    = {R.\ P.\ Boas},
      number        = {1},
      pages         = {97--127},
      title         = {Problems of almost everywhere convergence related to harmonic analysis and number theory},

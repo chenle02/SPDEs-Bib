@@ -15,7 +15,7 @@ crisan.otobe.ea:15:inverse
      journal       = {Inverse Problems},
      mrclass       = {35R30 (35K15 35R60 60H15)},
      mrnumber      = {3302366},
-     mrreviewer    = {Masayoshi Tsutsumi},
+     mrreviewer    = {Masayoshi\ Tsutsumi},
      number        = {1},
      pages         = {015005, 20},
      title         = {Inverse problems for stochastic transport equations},

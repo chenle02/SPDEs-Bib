@@ -15,7 +15,7 @@ lu.li:09:note
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {60E15 (60G15)},
      mrnumber      = {2515252},
-     mrreviewer    = {M. Cs\"{o}rg\H{o}},
+     mrreviewer    = {M.\ Cs\"{o}rg\H{o}},
      number        = {2},
      pages         = {704--707},
      title         = {A note on multivariate {G}aussian estimates},

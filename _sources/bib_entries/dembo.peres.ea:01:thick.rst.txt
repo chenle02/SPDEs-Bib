@@ -15,7 +15,7 @@ dembo.peres.ea:01:thick
      journal       = {Acta Math.},
      mrclass       = {60G50 (60J65)},
      mrnumber      = {1846031},
-     mrreviewer    = {I. Cuculescu},
+     mrreviewer    = {I.\ Cuculescu},
      number        = {2},
      pages         = {239--270},
      title         = {Thick points for planar {B}rownian motion and the {E}rd\H{o}s-{T}aylor conjecture on random walk},

@@ -15,7 +15,7 @@ derrida.evans.ea:95:exact
      journal       = {J. Statist. Phys.},
      mrclass       = {82C22 (60K35 82C23)},
      mrnumber      = {1330365},
-     mrreviewer    = {Luiz R. G. Fontes},
+     mrreviewer    = {Luiz\ R. G. Fontes},
      number        = {5-6},
      pages         = {833--874},
      title         = {Exact diffusion constant of a one-dimensional asymmetric exclusion model with open boundaries},

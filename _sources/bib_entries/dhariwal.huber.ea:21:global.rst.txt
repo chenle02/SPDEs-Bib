@@ -15,7 +15,7 @@ dhariwal.huber.ea:21:global
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {4255185},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {1},
      pages         = {577--602},
      title         = {Global martingale solutions for quasilinear {SPDE}s via the boundedness-by-entropy method},

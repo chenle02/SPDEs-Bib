@@ -14,7 +14,7 @@ bourgain.meyer.ea:88:on
      isbn          = {3-540-19353-7},
      mrclass       = {46B05 (46B20)},
      mrnumber      = {950987},
-     mrreviewer    = {Yehoram Gordon},
+     mrreviewer    = {Yehoram\ Gordon},
      pages         = {271--282},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

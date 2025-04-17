@@ -15,7 +15,7 @@ kao.lou.ea:10:random
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {35K57 (35K51 47G20 92D25 92D40)},
      mrnumber      = {2556498},
-     mrreviewer    = {Si Ning Zheng},
+     mrreviewer    = {Si\ Ning\ Zheng},
      number        = {2},
      pages         = {551--596},
      title         = {Random dispersal vs. non-local dispersal},

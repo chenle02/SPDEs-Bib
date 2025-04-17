@@ -15,7 +15,7 @@ shen:10:variational
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {35K91 (35A15 35B10 35B15 35C07 35K57)},
      mrnumber      = {2657675},
-     mrreviewer    = {Carlota M. Cuesta},
+     mrreviewer    = {Carlota\ M.\ Cuesta},
      number        = {10},
      pages         = {5125--5168},
      title         = {Variational principle for spreading speeds and generalized propagating speeds in time almost periodic and space periodic {KPP} models},

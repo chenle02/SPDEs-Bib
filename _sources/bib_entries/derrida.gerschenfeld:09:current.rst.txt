@@ -15,7 +15,7 @@ derrida.gerschenfeld:09:current
      journal       = {J. Stat. Phys.},
      mrclass       = {82C21 (82C31)},
      mrnumber      = {2525223},
-     mrreviewer    = {Peter Eichelsbacher},
+     mrreviewer    = {Peter\ Eichelsbacher},
      number        = {1},
      pages         = {1--15},
      title         = {Current fluctuations of the one dimensional symmetric simple exclusion process with step initial condition},

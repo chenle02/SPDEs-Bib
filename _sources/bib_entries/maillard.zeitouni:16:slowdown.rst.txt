@@ -15,7 +15,7 @@ maillard.zeitouni:16:slowdown
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60J80 (58J65 60J65)},
      mrnumber      = {3531703},
-     mrreviewer    = {Bastien Mallein},
+     mrreviewer    = {Bastien\ Mallein},
      number        = {3},
      pages         = {1144--1160},
      title         = {Slowdown in branching {B}rownian motion with inhomogeneous variance},

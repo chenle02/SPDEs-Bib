@@ -15,7 +15,7 @@ beffara.duminil-copin.ea:15:on
      journal       = {J. Phys. A},
      mrclass       = {60K35 (05C80 82B41)},
      mrnumber      = {3432292},
-     mrreviewer    = {Lung-Chi Chen},
+     mrreviewer    = {Lung-Chi\ Chen},
      number        = {48},
      pages         = {484003, 25},
      title         = {On the critical parameters of the {$q\leqslant4$} random-cluster model on isoradial graphs},

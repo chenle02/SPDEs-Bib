@@ -15,7 +15,7 @@ aurzada.mukherjee.ea:21:persistence
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60J05 (60F10)},
      mrnumber      = {4291444},
-     mrreviewer    = {Hanspeter Schmidli},
+     mrreviewer    = {Hanspeter\ Schmidli},
      number        = {3},
      pages         = {1411--1441},
      title         = {Persistence exponents in {M}arkov chains},

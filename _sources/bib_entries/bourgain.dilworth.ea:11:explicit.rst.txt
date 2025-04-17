@@ -15,7 +15,7 @@ bourgain.dilworth.ea:11:explicit
      journal       = {Duke Math. J.},
      mrclass       = {11B30 (11B13 11T23 41A46 94A12)},
      mrnumber      = {2817651},
-     mrreviewer    = {Moubariz Z. Garaev},
+     mrreviewer    = {Moubariz\ Z.\ Garaev},
      number        = {1},
      pages         = {145--185},
      title         = {Explicit constructions of {RIP} matrices and related problems},

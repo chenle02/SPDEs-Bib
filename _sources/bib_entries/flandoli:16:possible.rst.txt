@@ -14,7 +14,7 @@ flandoli:16:possible
      isbn          = {978-1-4704-1521-1},
      mrclass       = {60H15 (35B44 35Q35 76D03)},
      mrnumber      = {3537467},
-     mrreviewer    = {Carles Rovira},
+     mrreviewer    = {Carles\ Rovira},
      pages         = {201--209},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

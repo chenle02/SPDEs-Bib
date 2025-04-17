@@ -15,7 +15,7 @@ bourgain.wolff:90:remark
      journal       = {Colloq. Math.},
      mrclass       = {31B20 (35J67)},
      mrnumber      = {1096375},
-     mrreviewer    = {V. M. Isakov},
+     mrreviewer    = {V.\ M.\ Isakov},
      number        = {1},
      pages         = {253--260},
      title         = {A remark on gradients of harmonic functions in dimension {$\geq 3$}},

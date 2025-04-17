@@ -15,7 +15,7 @@ barral.seuret:04:function
      journal       = {Math. Nachr.},
      mrclass       = {28A80 (28A78 42C40 60G57)},
      mrnumber      = {2092321},
-     mrreviewer    = {Peter R. Massopust},
+     mrreviewer    = {Peter\ R.\ Massopust},
      pages         = {3--18},
      title         = {Function series with multifractal variations},
      url           = {https://doi.org/10.1002/mana.200410199},

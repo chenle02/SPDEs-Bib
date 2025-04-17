@@ -15,7 +15,7 @@ atar.zeitouni:97:exponential
      journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
      mrclass       = {60J57 (60G35 93E11)},
      mrnumber      = {1484538},
-     mrreviewer    = {George Yin},
+     mrreviewer    = {George\ Yin},
      number        = {6},
      pages         = {697--725},
      title         = {Exponential stability for nonlinear filtering},

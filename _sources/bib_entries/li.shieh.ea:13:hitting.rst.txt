@@ -14,7 +14,7 @@ li.shieh.ea:13:hitting
      isbn          = {978-0-8218-9148-3},
      mrclass       = {60D05 (28A80 52A22)},
      mrnumber      = {3203868},
-     mrreviewer    = {Jean-Charles Pinoli},
+     mrreviewer    = {Jean-Charles\ Pinoli},
      pages         = {307--323},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

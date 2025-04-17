@@ -15,7 +15,7 @@ hausenblas.seidler:01:note
      journal       = {Czechoslovak Math. J.},
      mrclass       = {60H05},
      mrnumber      = {1864042},
-     mrreviewer    = {Jorge A. Le\'{o}n},
+     mrreviewer    = {Jorge\ A.\ Le\'{o}n},
      number        = {4},
      pages         = {785--790},
      title         = {A note on maximal inequality for stochastic convolutions},

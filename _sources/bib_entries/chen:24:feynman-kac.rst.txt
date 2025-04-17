@@ -14,7 +14,7 @@ chen:24:feynman-kac
      journal       = {Ukrainian Math. J.},
      mrclass       = {60H15 (35K05 35R60 60H30)},
      mrnumber      = {4747121},
-     mrreviewer    = {Jiang Lun Wu},
+     mrreviewer    = {Jiang\ Lun\ Wu},
      note          = {Reprint of Ukra\"in. Mat. Zh. {\bf 75} (2023), no. 11, 1552--1569},
      number        = {11},
      pages         = {1758--1777},

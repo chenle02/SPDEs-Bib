@@ -13,7 +13,7 @@ bourgain:81:unicite
      isbn          = {2-7302-0025-8},
      mrclass       = {46B15},
      mrnumber      = {659305},
-     mrreviewer    = {T. Figiel},
+     mrreviewer    = {T.\ Figiel},
      pages         = {Exp. No. IV, 9},
      publisher     = {\'{E}cole Polytech., Palaiseau},
      title         = {Unicit\'{e} de certaines bases inconditionnelles},

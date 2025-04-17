@@ -15,7 +15,7 @@ guo.yan.ea:18:approximate
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {3702703},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {1},
      pages         = {214--232},
      title         = {Approximate the dynamical behavior for stochastic systems by {W}ong-{Z}akai approaching},

@@ -15,7 +15,7 @@ brzezniak.maslowski.ea:05:stochastic
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H15 (35Q72 35R60 74H50 74K10)},
      mrnumber      = {2136869},
-     mrreviewer    = {Grigorios A. Pavliotis},
+     mrreviewer    = {Grigorios\ A.\ Pavliotis},
      number        = {1},
      pages         = {119--149},
      title         = {Stochastic nonlinear beam equations},

@@ -15,7 +15,7 @@ salins.setayeshgar:23:uniform
      journal       = {Potential Anal.},
      mrclass       = {60H15 (37L55 60F10)},
      mrnumber      = {4535922},
-     mrreviewer    = {Yong Liu},
+     mrreviewer    = {Yong\ Liu},
      number        = {1},
      pages         = {181--201},
      title         = {Uniform large deviations for a class of {B}urgers-type stochastic partial differential equations in any space dimension},

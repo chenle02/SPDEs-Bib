@@ -14,7 +14,7 @@ dembo.zeitouni:89:on
      isbn          = {3-540-51510-0},
      mrclass       = {60H05},
      mrnumber      = {1019594},
-     mrreviewer    = {David Nualart},
+     mrreviewer    = {David\ Nualart},
      pages         = {66--76},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

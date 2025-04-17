@@ -15,7 +15,7 @@ shen.wang.ea:20:almost
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {58J35},
      mrnumber      = {4171873},
-     mrreviewer    = {Joseph L. Shomberg},
+     mrreviewer    = {Joseph\ L.\ Shomberg},
      number        = {4},
      pages         = {1687--1729},
      title         = {Almost automorphically and almost periodically forced circle flows of almost periodic parabolic equations on {$S^1$}},

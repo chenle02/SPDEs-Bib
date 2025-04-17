@@ -14,7 +14,7 @@ bourgain:82:on
      journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
      mrclass       = {46E99 (46B25)},
      mrnumber      = {682996},
-     mrreviewer    = {Bernard Beauzamy},
+     mrreviewer    = {Bernard\ Beauzamy},
      number        = {2},
      pages         = {187--194},
      title         = {On the embedding problem of {$L\sp{1}$} in {\$L\sp{1}/H\sp{1}\sb{0}\$}},

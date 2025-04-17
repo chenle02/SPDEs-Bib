@@ -15,7 +15,7 @@ bourgain:14:monotone
      journal       = {J. Anal. Math.},
      mrclass       = {11N05 (11A41 11A63)},
      mrnumber      = {3286055},
-     mrreviewer    = {Vilius Stakenas},
+     mrreviewer    = {Vilius\ Stakenas},
      pages         = {297--307},
      title         = {Monotone {B}oolean functions capture their primes},
      url           = {https://doi.org/10.1007/s11854-014-0033-6},

@@ -15,7 +15,7 @@ song.xiao.ea:21:on
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {60G15 (60B20 60G17 60G60)},
      mrnumber      = {4252156},
-     mrreviewer    = {David Nualart},
+     mrreviewer    = {David\ Nualart},
      number        = {2},
      pages         = {Paper No. 125261, 22},
      title         = {On collision of multiple eigenvalues for matrix-valued {G}aussian processes},

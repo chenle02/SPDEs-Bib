@@ -15,7 +15,7 @@ pardoux.zeitouni:04:quenched
      journal       = {SIAM J. Control Optim.},
      mrclass       = {60F10 (93E11)},
      mrnumber      = {2124273},
-     mrreviewer    = {Zhongmin Qian},
+     mrreviewer    = {Zhongmin\ Qian},
      number        = {4},
      pages         = {1272--1297},
      title         = {Quenched large deviations for one dimensional nonlinear filtering},

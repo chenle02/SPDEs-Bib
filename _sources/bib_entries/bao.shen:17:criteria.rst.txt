@@ -15,7 +15,7 @@ bao.shen:17:criteria
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {35R09 (35K55 45C05 45G15 45K05 45M15 47G20)},
      mrnumber      = {3637938},
-     mrreviewer    = {Joseph L. Shomberg},
+     mrreviewer    = {Joseph\ L.\ Shomberg},
      number        = {7},
      pages         = {2881--2894},
      title         = {Criteria for the existence of principal eigenvalues of time periodic cooperative linear systems with nonlocal dispersal},

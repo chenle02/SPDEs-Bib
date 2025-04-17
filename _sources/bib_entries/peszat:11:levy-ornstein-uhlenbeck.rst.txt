@@ -15,7 +15,7 @@ peszat:11:levy-ornstein-uhlenbeck
      journal       = {J. Funct. Anal.},
      mrclass       = {60J35 (47D03 47N30 60G51 60G52 60G57 60H30)},
      mrnumber      = {2781967},
-     mrreviewer    = {Romain Abraham},
+     mrreviewer    = {Romain\ Abraham},
      number        = {12},
      pages         = {3457--3473},
      title         = {L\'{e}vy-{O}rnstein-{U}hlenbeck transition semigroup as second quantized operator},

@@ -15,7 +15,7 @@ cranston.salisbury:93:martin
      journal       = {Ark. Mat.},
      mrclass       = {31A05 (31C35 60J50)},
      mrnumber      = {1230263},
-     mrreviewer    = {Stephen J. Gardiner},
+     mrreviewer    = {Stephen\ J.\ Gardiner},
      number        = {1},
      pages         = {27--49},
      title         = {Martin boundaries of sectorial domains},

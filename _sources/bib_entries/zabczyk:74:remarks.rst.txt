@@ -13,7 +13,7 @@ zabczyk:74:remarks
      journal       = {SIAM J. Control},
      mrclass       = {49A25 (93C55)},
      mrnumber      = {410506},
-     mrreviewer    = {R. N. P. Singh},
+     mrreviewer    = {R.\ N. P. Singh},
      pages         = {721--735},
      title         = {Remarks on the control of discrete-time distributed parameter systems},
      volume        = {12},

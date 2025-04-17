@@ -14,7 +14,7 @@ bourgain.tzafriri:87:complements
      isbn          = {3-540-18103-2},
      mrclass       = {46B20},
      mrnumber      = {907684},
-     mrreviewer    = {M. I. Kadets},
+     mrreviewer    = {M.\ I.\ Kadets},
      pages         = {39--52},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

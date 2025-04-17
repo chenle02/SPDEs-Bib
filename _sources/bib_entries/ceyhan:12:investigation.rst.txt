@@ -15,7 +15,7 @@ ceyhan:12:investigation
      journal       = {Methodol. Comput. Appl. Probab.},
      mrclass       = {60D05 (05C80 60C05)},
      mrnumber      = {2912341},
-     mrreviewer    = {Michele Zito},
+     mrreviewer    = {Michele\ Zito},
      number        = {2},
      pages         = {299--334},
      title         = {An investigation of new graph invariants related to the domination number of random proximity catch digraphs},

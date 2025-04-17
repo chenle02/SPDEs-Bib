@@ -15,7 +15,7 @@ bourgain:95:on
      journal       = {J. Fourier Anal. Appl.},
      mrclass       = {35Q53 (35B10)},
      mrnumber      = {1364878},
-     mrreviewer    = {Pavel Krej\v{c}\'{i}},
+     mrreviewer    = {Pavel\ Krej\v{c}\'{i}},
      pages         = {17--86},
      title         = {On the {C}auchy problem for periodic {K}d{V}-type equations},
      year          = {1995}

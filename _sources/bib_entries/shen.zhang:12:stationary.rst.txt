@@ -15,7 +15,7 @@ shen.zhang:12:stationary
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {45K05 (45C05 45M20 47G10 92D25 92D40)},
      mrnumber      = {2869152},
-     mrreviewer    = {Alfredo Lorenzi},
+     mrreviewer    = {Alfredo\ Lorenzi},
      number        = {5},
      pages         = {1681--1696},
      title         = {Stationary solutions and spreading speeds of nonlocal monostable equations in space periodic habitats},

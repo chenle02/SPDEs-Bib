@@ -15,7 +15,7 @@ blomer.bourgain.ea:17:small
      journal       = {Ann. Sci. \'{E}c. Norm. Sup\'{e}r. (4)},
      mrclass       = {37D50 (11K60 58J50)},
      mrnumber      = {3720030},
-     mrreviewer    = {Pengfei Zhang},
+     mrreviewer    = {Pengfei\ Zhang},
      number        = {5},
      pages         = {1283--1300},
      title         = {Small gaps in the spectrum of the rectangular billiard},

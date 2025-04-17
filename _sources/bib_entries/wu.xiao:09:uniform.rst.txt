@@ -15,7 +15,7 @@ wu.xiao:09:uniform
      journal       = {Sci. China Ser. A},
      mrclass       = {60G15 (28A78 28A80 43A46 60G17 60G60)},
      mrnumber      = {2520589},
-     mrreviewer    = {Ren\'{e} L. Schilling},
+     mrreviewer    = {Ren\'{e}\ L.\ Schilling},
      number        = {7},
      pages         = {1478--1496},
      title         = {Uniform dimension results for {G}aussian random fields},

@@ -15,7 +15,7 @@ bourgain.rosenthal:80:martingales
      journal       = {Israel J. Math.},
      mrclass       = {46B22 (60G44)},
      mrnumber      = {599302},
-     mrreviewer    = {Gilles Pisier},
+     mrreviewer    = {Gilles\ Pisier},
      number        = {1-2},
      pages         = {54--75},
      title         = {Martingales valued in certain subspaces of {$L\sp{1}$}},

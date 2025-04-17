@@ -15,7 +15,7 @@ bourgain:18:on
      journal       = {J. Stat. Phys.},
      mrclass       = {35B27 (35J15 35R60 60H25)},
      mrnumber      = {3824939},
-     mrreviewer    = {Isabelle Gruais},
+     mrreviewer    = {Isabelle\ Gruais},
      number        = {2},
      pages         = {314--320},
      title         = {On a homogenization problem},

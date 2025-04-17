@@ -15,7 +15,7 @@ radchenko:14:heat
      journal       = {Mod. Stoch. Theory Appl.},
      mrclass       = {60H15 (60G17 60G57)},
      mrnumber      = {3316482},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {2},
      pages         = {129--138},
      title         = {Heat equation with general stochastic measure colored in time},

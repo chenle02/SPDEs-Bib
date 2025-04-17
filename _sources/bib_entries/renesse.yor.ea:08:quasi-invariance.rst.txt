@@ -15,7 +15,7 @@ renesse.yor.ea:08:quasi-invariance
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60G51 (60G30 60G44)},
      mrnumber      = {2462287},
-     mrreviewer    = {Robert Stelzer},
+     mrreviewer    = {Robert\ Stelzer},
      number        = {11},
      pages         = {2038--2057},
      title         = {Quasi-invariance properties of a class of subordinators},

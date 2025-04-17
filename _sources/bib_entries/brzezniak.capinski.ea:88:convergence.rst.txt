@@ -15,7 +15,7 @@ brzezniak.capinski.ea:88:convergence
      journal       = {Stochastics},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {972973},
-     mrreviewer    = {Ralf Manthey},
+     mrreviewer    = {Ralf\ Manthey},
      number        = {4},
      pages         = {423--445},
      title         = {A convergence result for stochastic partial differential equations},

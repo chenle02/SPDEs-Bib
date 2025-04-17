@@ -15,7 +15,7 @@ varadhan.yau:97:diffusive
      journal       = {Asian J. Math.},
      mrclass       = {60K35 (82C22)},
      mrnumber      = {1621569},
-     mrreviewer    = {Claudio Landim},
+     mrreviewer    = {Claudio\ Landim},
      number        = {4},
      pages         = {623--678},
      title         = {Diffusive limit of lattice gas with mixing conditions},

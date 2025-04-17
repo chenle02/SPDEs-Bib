@@ -14,7 +14,7 @@ mountford.cranston:00:efficient
      isbn          = {0-940600-48-X},
      mrclass       = {60J27},
      mrnumber      = {1833860},
-     mrreviewer    = {Feng-Yu Wang},
+     mrreviewer    = {Feng-Yu\ Wang},
      pages         = {191--203},
      publisher     = {Inst. Math. Statist., Beachwood, OH},
      series        = {IMS Lecture Notes Monogr. Ser.},

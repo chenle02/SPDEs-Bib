@@ -14,7 +14,7 @@ makarov.smirnov:10:off-critical
      isbn          = {978-981-4304-62-7; 981-4304-62-X},
      mrclass       = {60J67 (30C35 60K35 82B27)},
      mrnumber      = {2730811},
-     mrreviewer    = {B. L. Granovsky},
+     mrreviewer    = {B.\ L.\ Granovsky},
      pages         = {362--371},
      publisher     = {World Sci. Publ., Hackensack, NJ},
      title         = {Off-critical lattice models and massive {SLE}s},

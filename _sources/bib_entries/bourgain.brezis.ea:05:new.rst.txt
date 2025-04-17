@@ -15,7 +15,7 @@ bourgain.brezis.ea:05:new
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {55M25 (46E35 47H11)},
      mrnumber      = {2139888},
-     mrreviewer    = {Christian Fenske},
+     mrreviewer    = {Christian\ Fenske},
      number        = {11},
      pages         = {787--791},
      title         = {A new estimate for the topological degree},

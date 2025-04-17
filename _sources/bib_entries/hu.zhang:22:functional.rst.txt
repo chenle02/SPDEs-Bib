@@ -15,7 +15,7 @@ hu.zhang:22:functional
      journal       = {Bayesian Anal.},
      mrclass       = {60G57 (60F05 60F15 60F17 62F15 62G20)},
      mrnumber      = {4506023},
-     mrreviewer    = {Paulo E. Oliveira},
+     mrreviewer    = {Paulo\ E.\ Oliveira},
      number        = {4},
      pages         = {1101--1120},
      title         = {Functional central limit theorems for stick-breaking priors},

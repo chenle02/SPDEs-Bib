@@ -15,7 +15,7 @@ bourgain:08:roths
      journal       = {J. Anal. Math.},
      mrclass       = {11B25 (11N64 11P55)},
      mrnumber      = {2403433},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      pages         = {155--192},
      title         = {Roth's theorem on progressions revisited},
      url           = {https://doi.org/10.1007/s11854-008-0020-x},

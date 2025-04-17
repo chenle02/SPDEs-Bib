@@ -15,7 +15,7 @@ bourgain:05:estimation
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {11L07 (68Q15 94C10)},
      mrnumber      = {2139268},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      number        = {9},
      pages         = {627--631},
      title         = {Estimation of certain exponential sums arising in complexity theory},

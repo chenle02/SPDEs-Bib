@@ -15,7 +15,7 @@ landim.sethuraman.ea:96:spectral
      journal       = {Ann. Probab.},
      mrclass       = {60K35 (82C22)},
      mrnumber      = {1415232},
-     mrreviewer    = {Timo Sepp\"al\"ainen},
+     mrreviewer    = {Timo\ Sepp\"al\"ainen},
      number        = {4},
      pages         = {1871--1902},
      title         = {Spectral gap for zero-range dynamics},

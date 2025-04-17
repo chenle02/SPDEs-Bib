@@ -15,7 +15,7 @@ flandoli.priola.ea:19:mean-field
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {60H10 (35Q84 35R60 62M45 92B20 92C20)},
      mrnumber      = {3959420},
-     mrreviewer    = {Adam Andersson},
+     mrreviewer    = {Adam\ Andersson},
      number        = {6},
      pages         = {3037--3067},
      title         = {A mean-field model with discontinuous coefficients for neurons with spatial interaction},

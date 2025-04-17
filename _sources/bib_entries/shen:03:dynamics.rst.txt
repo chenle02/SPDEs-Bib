@@ -15,7 +15,7 @@ shen:03:dynamics
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {37J45 (34C15 35Q99 37L99 60H15)},
      mrnumber      = {2020183},
-     mrreviewer    = {Xiao Ping Yuan},
+     mrreviewer    = {Xiao\ Ping\ Yuan},
      number        = {2},
      pages         = {586--605},
      title         = {Dynamics in coupled oscillators with recurrent/random forcing, a {PDE} approach},

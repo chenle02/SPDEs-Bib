@@ -13,7 +13,7 @@ chicheportiche.jaisson.ea:15:introduction
      doi           = {10.1051/proc/201551017},
      mrclass       = {91B80 (60F17 60G18 60G55 62P05 91G80)},
      mrnumber      = {3440804},
-     mrreviewer    = {Jun-ichi Maskawa},
+     mrreviewer    = {Jun-ichi\ Maskawa},
      pages         = {320--336},
      publisher     = {EDP Sci., Les Ulis},
      series        = {ESAIM Proc. Surveys},

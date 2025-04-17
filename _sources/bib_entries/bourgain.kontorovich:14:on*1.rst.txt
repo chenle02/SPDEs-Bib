@@ -15,7 +15,7 @@ bourgain.kontorovich:14:on*1
      journal       = {Ann. of Math. (2)},
      mrclass       = {11J70 (11A55)},
      mrnumber      = {3194813},
-     mrreviewer    = {Oto Strauch},
+     mrreviewer    = {Oto\ Strauch},
      number        = {1},
      pages         = {137--196},
      title         = {On {Z}aremba's conjecture},

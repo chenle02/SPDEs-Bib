@@ -14,7 +14,7 @@ seidler.vrkoc:90:averaging
      journal       = {\v{C}asopis P\v{e}st. Mat.},
      mrclass       = {60H15 (60F99)},
      mrnumber      = {1071056},
-     mrreviewer    = {Wlodzimierz Smolenski},
+     mrreviewer    = {Wlodzimierz\ Smolenski},
      number        = {3},
      pages         = {240--263},
      title         = {An averaging principle for stochastic evolution equations},

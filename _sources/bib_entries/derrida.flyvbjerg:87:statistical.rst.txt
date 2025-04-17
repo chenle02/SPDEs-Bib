@@ -14,7 +14,7 @@ derrida.flyvbjerg:87:statistical
      journal       = {J. Phys. A},
      mrclass       = {82A57},
      mrnumber      = {914705},
-     mrreviewer    = {A. Comtet},
+     mrreviewer    = {A.\ Comtet},
      number        = {15},
      pages         = {5273--5288},
      title         = {Statistical properties of randomly broken objects and of multivalley structures in disordered systems},

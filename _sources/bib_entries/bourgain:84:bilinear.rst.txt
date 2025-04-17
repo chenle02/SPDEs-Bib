@@ -15,7 +15,7 @@ bourgain:84:bilinear
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {46J15 (46E15 47B10)},
      mrnumber      = {756042},
-     mrreviewer    = {S. V. Kislyakov},
+     mrreviewer    = {S.\ V.\ Kislyakov},
      number        = {1},
      pages         = {313--337},
      title         = {Bilinear forms on {$H\sp{infty }$} and bounded bianalytic functions},

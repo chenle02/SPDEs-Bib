@@ -15,7 +15,7 @@ peled.sen.ea:16:double
      journal       = {Israel J. Math.},
      mrclass       = {60G99 (05E05 11C08)},
      mrnumber      = {3509468},
-     mrreviewer    = {Nizar Demni},
+     mrreviewer    = {Nizar\ Demni},
      number        = {1},
      pages         = {55--77},
      title         = {Double roots of random {L}ittlewood polynomials},

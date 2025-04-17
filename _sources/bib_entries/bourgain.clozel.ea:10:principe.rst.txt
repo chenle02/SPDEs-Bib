@@ -14,7 +14,7 @@ bourgain.clozel.ea:10:principe
      journal       = {Ann. Inst. Fourier (Grenoble)},
      mrclass       = {42A38 (11R42 42B10)},
      mrnumber      = {2722239},
-     mrreviewer    = {Juan Luis Varona},
+     mrreviewer    = {Juan\ Luis\ Varona},
      number        = {4},
      pages         = {1215--1232},
      title         = {Principe d'{H}eisenberg et fonctions positives},

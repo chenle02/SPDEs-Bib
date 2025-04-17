@@ -14,7 +14,7 @@ flandoli:87:dirichlet
      isbn          = {3-540-17211-4},
      mrclass       = {49A60 (35R60 93C20 93E20)},
      mrnumber      = {899296},
-     mrreviewer    = {N. U. Ahmed},
+     mrreviewer    = {N.\ U.\ Ahmed},
      pages         = {57--71},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

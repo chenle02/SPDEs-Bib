@@ -15,7 +15,7 @@ bourgain.diestel:84:limited
      journal       = {Math. Nachr.},
      mrclass       = {47B05 (46B05 47A99 47D30)},
      mrnumber      = {774176},
-     mrreviewer    = {R. W. Cross},
+     mrreviewer    = {R.\ W.\ Cross},
      pages         = {55--58},
      title         = {Limited operators and strict cosingularity},
      url           = {https://doi.org/10.1002/mana.19841190105},

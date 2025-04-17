@@ -15,7 +15,7 @@ bodineau.derrida:11:phase
      journal       = {J. Stat. Phys.},
      mrclass       = {82C26 (82C20)},
      mrnumber      = {2862956},
-     mrreviewer    = {Nicoletta Cancrini},
+     mrreviewer    = {Nicoletta\ Cancrini},
      number        = {3},
      pages         = {745--762},
      title         = {Phase fluctuations in the {ABC} model},

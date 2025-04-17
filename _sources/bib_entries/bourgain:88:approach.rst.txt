@@ -14,7 +14,7 @@ bourgain:88:approach
      isbn          = {3-540-19353-7},
      mrclass       = {28D05 (11L40 11P55 42B25 47A35)},
      mrnumber      = {950982},
-     mrreviewer    = {V. Losert},
+     mrreviewer    = {V.\ Losert},
      pages         = {204--223},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

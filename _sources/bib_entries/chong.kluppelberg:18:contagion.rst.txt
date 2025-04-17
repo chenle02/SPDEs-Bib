@@ -15,7 +15,7 @@ chong.kluppelberg:18:contagion
      journal       = {SIAM J. Financial Math.},
      mrclass       = {91B30 (62H99 62P20 91G40 91G80)},
      mrnumber      = {3744990},
-     mrreviewer    = {Piotr Jaworski},
+     mrreviewer    = {Piotr\ Jaworski},
      number        = {1},
      pages         = {28--53},
      title         = {Contagion in financial systems: a {B}ayesian network approach},

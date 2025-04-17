@@ -15,7 +15,7 @@ brzezniak.goldys.ea:20:existence
      journal       = {J. Differential Equations},
      mrclass       = {35R60 (35K59 35Q60 60H15)},
      mrnumber      = {4118880},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {11},
      pages         = {9471--9507},
      title         = {Existence of a unique solution and invariant measures for the stochastic {L}andau-{L}ifshitz-{B}loch equation},

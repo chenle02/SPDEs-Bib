@@ -15,7 +15,7 @@ hanyga:07:anomalous
      journal       = {J. Phys. A},
      mrclass       = {60G50 (26A33 82C70)},
      mrnumber      = {2343892},
-     mrreviewer    = {Mark M. Meerschaert},
+     mrreviewer    = {Mark\ M.\ Meerschaert},
      number        = {21},
      pages         = {5551--5563},
      title         = {Anomalous diffusion without scale invariance},

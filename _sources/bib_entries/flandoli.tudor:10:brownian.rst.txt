@@ -15,7 +15,7 @@ flandoli.tudor:10:brownian
      journal       = {J. Funct. Anal.},
      mrclass       = {60H07 (60G22 60J65)},
      mrnumber      = {2557964},
-     mrreviewer    = {Zhiyuan Huang},
+     mrreviewer    = {Zhiyuan\ Huang},
      number        = {1},
      pages         = {279--306},
      title         = {Brownian and fractional {B}rownian stochastic currents via {M}alliavin calculus},

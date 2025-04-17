@@ -15,7 +15,7 @@ spitzer:56:on
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {60.0X},
      mrnumber      = {90915},
-     mrreviewer    = {G. Kallianpur},
+     mrreviewer    = {G.\ Kallianpur},
      pages         = {164--171},
      title         = {On interval recurrent sums of independent random variables},
      url           = {https://doi.org/10.2307/2033263},

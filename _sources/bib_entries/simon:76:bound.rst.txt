@@ -15,7 +15,7 @@ simon:76:bound
      journal       = {Ann. Physics},
      mrclass       = {35J10},
      mrnumber      = {404846},
-     mrreviewer    = {M. S. P. Eastham},
+     mrreviewer    = {M.\ S. P. Eastham},
      number        = {2},
      pages         = {279--288},
      title         = {The bound state of weakly coupled {S}chr\"odinger operators in one and two dimensions},

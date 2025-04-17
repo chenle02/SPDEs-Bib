@@ -15,7 +15,7 @@ mattingly.stuart.ea:10:convergence
      journal       = {SIAM J. Numer. Anal.},
      mrclass       = {65C30 (37H10 60H10 60H35)},
      mrnumber      = {2669996},
-     mrreviewer    = {Peter E. Kloeden},
+     mrreviewer    = {Peter\ E.\ Kloeden},
      number        = {2},
      pages         = {552--577},
      title         = {Convergence of numerical time-averaging and stationary measures via {P}oisson equations},

@@ -15,7 +15,7 @@ wang.su.ea:20:on
      journal       = {Acta Math. Sin. (Engl. Ser.)},
      mrclass       = {60F10 (60F15 60G15 60G17 60G22 60G60)},
      mrnumber      = {4046997},
-     mrreviewer    = {Anatoliy Malyarenko},
+     mrreviewer    = {Anatoliy\ Malyarenko},
      number        = {2},
      pages         = {137--152},
      title         = {On global and local properties of the trajectories of {G}aussian random fields---a look through the set of limit points},

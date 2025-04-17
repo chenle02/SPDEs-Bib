@@ -15,7 +15,7 @@ smirnov:00:symbolic
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {37F45 (37F15)},
      mrnumber      = {1749741},
-     mrreviewer    = {Feliks Przytycki},
+     mrreviewer    = {Feliks\ Przytycki},
      number        = {7},
      pages         = {333--351},
      title         = {Symbolic dynamics and {C}ollet-{E}ckmann conditions},

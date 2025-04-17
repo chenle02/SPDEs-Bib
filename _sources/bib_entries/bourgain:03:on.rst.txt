@@ -15,7 +15,7 @@ bourgain:03:on
      journal       = {Geom. Funct. Anal.},
      mrclass       = {11K55 (28A80)},
      mrnumber      = {1982147},
-     mrreviewer    = {Ben Joseph Green},
+     mrreviewer    = {Ben\ Joseph\ Green},
      number        = {2},
      pages         = {334--365},
      title         = {On the {E}rd\H{o}s-{V}olkmann and {K}atz-{T}ao ring conjectures},

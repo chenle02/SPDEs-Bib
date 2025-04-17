@@ -15,7 +15,7 @@ shen.xie:15:approximations
      journal       = {J. Differential Equations},
      mrclass       = {35K57 (35A35 35K20 35K91 35R09 45C05 45J05 92D25)},
      mrnumber      = {3401600},
-     mrreviewer    = {Christopher P. Grant},
+     mrreviewer    = {Christopher\ P.\ Grant},
      number        = {12},
      pages         = {7375--7405},
      title         = {Approximations of random dispersal operators/equations by nonlocal dispersal operators/equations},

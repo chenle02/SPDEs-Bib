@@ -15,7 +15,7 @@ derrida:83:velocity
      journal       = {J. Statist. Phys.},
      mrclass       = {82A67 (60J70 82A42)},
      mrnumber      = {711486},
-     mrreviewer    = {M. Lawrence Glasser},
+     mrreviewer    = {M.\ Lawrence\ Glasser},
      number        = {3},
      pages         = {433--450},
      title         = {Velocity and diffusion constant of a periodic one-dimensional hopping model},

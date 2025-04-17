@@ -15,7 +15,7 @@ klebaner.lazar.ea:98:on
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60J80 (60F10 60J10 92D25)},
      mrnumber      = {1620378},
-     mrreviewer    = {G\"{o}ran H\"{o}gn\"{a}s},
+     mrreviewer    = {G\"{o}ran\ H\"{o}gn\"{a}s},
      number        = {1},
      pages         = {300--315},
      title         = {On the quasi-stationary distribution for some randomly perturbed transformations of an interval},

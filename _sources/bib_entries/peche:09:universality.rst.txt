@@ -15,7 +15,7 @@ peche:09:universality
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60B12 (60C05)},
      mrnumber      = {2475670},
-     mrreviewer    = {Florent Benaych-Georges},
+     mrreviewer    = {Florent\ Benaych-Georges},
      number        = {3-4},
      pages         = {481--516},
      title         = {Universality results for the largest eigenvalues of some sample covariance matrix ensembles},

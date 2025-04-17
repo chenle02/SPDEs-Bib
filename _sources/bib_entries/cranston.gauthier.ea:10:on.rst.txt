@@ -15,7 +15,7 @@ cranston.gauthier.ea:10:on
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60F10 (60K35 60K37)},
      mrnumber      = {2594357},
-     mrreviewer    = {Jean-Baptiste Bardet},
+     mrreviewer    = {Jean-Baptiste\ Bardet},
      number        = {1-2},
      pages         = {349--378},
      title         = {On large deviations for the parabolic {A}nderson model},

@@ -15,7 +15,7 @@ spitzer.widom:61:circumference
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {52.10},
      mrnumber      = {130616},
-     mrreviewer    = {A. Dvoretzky},
+     mrreviewer    = {A.\ Dvoretzky},
      pages         = {506--509},
      title         = {The circumference of a convex polygon},
      url           = {https://doi.org/10.2307/2034228},

@@ -15,7 +15,7 @@ bourgain:87:construction
      journal       = {Israel J. Math.},
      mrclass       = {28A12 (26A03 28A75)},
      mrnumber      = {937795},
-     mrreviewer    = {N. Passell},
+     mrreviewer    = {N.\ Passell},
      number        = {3},
      pages         = {333--344},
      title         = {Construction of sets of positive measure not containing an affine image of a given infinite structures},

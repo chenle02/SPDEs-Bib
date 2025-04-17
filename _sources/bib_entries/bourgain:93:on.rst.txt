@@ -15,7 +15,7 @@ bourgain:93:on
      journal       = {Duke Math. J.},
      mrclass       = {30D50},
      mrnumber      = {1208816},
-     mrreviewer    = {Krzysztof Samotij},
+     mrreviewer    = {Krzysztof\ Samotij},
      number        = {3},
      pages         = {671--682},
      title         = {On the radial variation of bounded analytic functions on the disc},

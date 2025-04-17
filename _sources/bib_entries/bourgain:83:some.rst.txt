@@ -15,7 +15,7 @@ bourgain:83:some
      journal       = {Ark. Mat.},
      mrclass       = {46B20 (60B11 60G42)},
      mrnumber      = {727340},
-     mrreviewer    = {D. J. H. Garling},
+     mrreviewer    = {D.\ J. H. Garling},
      number        = {2},
      pages         = {163--168},
      title         = {Some remarks on {B}anach spaces in which martingale difference sequences are unconditional},

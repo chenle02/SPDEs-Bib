@@ -15,7 +15,7 @@ hanyga:02:multidimensional
      journal       = {R. Soc. Lond. Proc. Ser. A Math. Phys. Eng. Sci.},
      mrclass       = {35G10 (26A33 33C10 33E12 35A08 35B30)},
      mrnumber      = {1898095},
-     mrreviewer    = {Anatoly Kilbas},
+     mrreviewer    = {Anatoly\ Kilbas},
      number        = {2020},
      pages         = {933--957},
      title         = {Multidimensional solutions of time-fractional diffusion-wave equations},

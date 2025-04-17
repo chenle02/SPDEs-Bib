@@ -15,7 +15,7 @@ cranston.gauthier.ea:09:on
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60F10 (60K35 60K37)},
      mrnumber      = {2521889},
-     mrreviewer    = {Peter Eichelsbacher},
+     mrreviewer    = {Peter\ Eichelsbacher},
      number        = {2},
      pages         = {826--862},
      title         = {On large deviation regimes for random media models},

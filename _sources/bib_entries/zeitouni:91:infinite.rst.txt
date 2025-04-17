@@ -13,7 +13,7 @@ zeitouni:91:infinite
      isbn          = {0-12-481005-5},
      mrclass       = {60G35 (60H07 60H15 62M05 93E10)},
      mrnumber      = {1119848},
-     mrreviewer    = {Jean Picard},
+     mrreviewer    = {Jean\ Picard},
      pages         = {513--532},
      publisher     = {Academic Press, Boston, MA},
      title         = {Infinite dimensionality results for {MAP} estimation},

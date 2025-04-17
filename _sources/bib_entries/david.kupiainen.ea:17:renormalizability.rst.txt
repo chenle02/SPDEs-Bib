@@ -15,7 +15,7 @@ david.kupiainen.ea:17:renormalizability
      journal       = {Electron. J. Probab.},
      mrclass       = {81T40 (60D05 81T20)},
      mrnumber      = {3724561},
-     mrreviewer    = {Nizar Demni},
+     mrreviewer    = {Nizar\ Demni},
      pages         = {Paper No. 93, 26},
      title         = {Renormalizability of {L}iouville quantum field theory at the {S}eiberg bound},
      url           = {https://doi.org/10.1214/17-EJP113},

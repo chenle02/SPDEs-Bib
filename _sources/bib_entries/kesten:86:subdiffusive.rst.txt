@@ -14,7 +14,7 @@ kesten:86:subdiffusive
      journal       = {Ann. Inst. H. Poincar\'e{} Probab. Statist.},
      mrclass       = {60K35 (60J15)},
      mrnumber      = {871905},
-     mrreviewer    = {T. M. Liggett},
+     mrreviewer    = {T.\ M.\ Liggett},
      number        = {4},
      pages         = {425--487},
      title         = {Subdiffusive behavior of random walk on a random cluster},

@@ -15,7 +15,7 @@ brzezniak.goldys.ea:17:large
      journal       = {Arch. Ration. Mech. Anal.},
      mrclass       = {60H15 (35Q60 35R60 60F10)},
      mrnumber      = {3687875},
-     mrreviewer    = {Leila Setayeshgar},
+     mrreviewer    = {Leila\ Setayeshgar},
      number        = {2},
      pages         = {497--558},
      title         = {Large deviations and transitions between equilibria for stochastic {L}andau-{L}ifshitz-{G}ilbert equation},

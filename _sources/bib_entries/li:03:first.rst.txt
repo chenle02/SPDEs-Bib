@@ -15,7 +15,7 @@ li:03:first
      journal       = {Ann. Probab.},
      mrclass       = {60G40 (60J65)},
      mrnumber      = {1964959},
-     mrreviewer    = {Luis Hernan R. Alvarez},
+     mrreviewer    = {Luis\ Hernan R. Alvarez},
      number        = {2},
      pages         = {1078--1096},
      title         = {The first exit time of a {B}rownian motion from an unbounded convex domain},

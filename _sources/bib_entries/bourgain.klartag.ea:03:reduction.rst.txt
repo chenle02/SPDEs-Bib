@@ -15,7 +15,7 @@ bourgain.klartag.ea:03:reduction
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {52A20 (46B20)},
      mrnumber      = {1976313},
-     mrreviewer    = {Shlomo Reisner},
+     mrreviewer    = {Shlomo\ Reisner},
      number        = {4},
      pages         = {331--334},
      title         = {A reduction of the slicing problem to finite volume ratio bodies},

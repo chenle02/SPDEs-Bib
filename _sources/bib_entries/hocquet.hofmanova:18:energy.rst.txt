@@ -15,7 +15,7 @@ hocquet.hofmanova:18:energy
      journal       = {J. Differential Equations},
      mrclass       = {35K10 (35B35 35D30)},
      mrnumber      = {3797622},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {4},
      pages         = {1407--1466},
      title         = {An energy method for rough partial differential equations},

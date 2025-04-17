@@ -15,7 +15,7 @@ dembo.gantert.ea:04:large
      journal       = {Ann. Probab.},
      mrclass       = {60G50 (60F10 60J80 60K37 82C41 82C44)},
      mrnumber      = {2044672},
-     mrreviewer    = {Fabio P. Machado},
+     mrreviewer    = {Fabio\ P.\ Machado},
      number        = {1B},
      pages         = {996--1029},
      title         = {Large deviations for random walk in random environment with holding times},

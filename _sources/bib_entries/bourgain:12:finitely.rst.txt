@@ -14,7 +14,7 @@ bourgain:12:finitely
      isbn          = {978-3-642-29848-6; 978-3-642-29849-3},
      mrclass       = {60B15},
      mrnumber      = {2985129},
-     mrreviewer    = {Christophe Cuny},
+     mrreviewer    = {Christophe\ Cuny},
      pages         = {133--141},
      publisher     = {Springer, Heidelberg},
      series        = {Lecture Notes in Math.},

@@ -15,7 +15,7 @@ luks.xiao:17:on
      journal       = {J. Theoret. Probab.},
      mrclass       = {60J25 (60G17 60G51)},
      mrnumber      = {3615090},
-     mrreviewer    = {Jian Wang},
+     mrreviewer    = {Jian\ Wang},
      number        = {1},
      pages         = {297--325},
      title         = {On the double points of operator stable {L}\'{e}vy processes},

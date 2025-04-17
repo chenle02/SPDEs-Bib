@@ -14,7 +14,7 @@ bourgain:82:hausdorff-young
      journal       = {Pacific J. Math.},
      mrclass       = {46B20 (43A30)},
      mrnumber      = {675400},
-     mrreviewer    = {R. C. James},
+     mrreviewer    = {R.\ C.\ James},
      number        = {2},
      pages         = {255--262},
      title         = {A {H}ausdorff-{Y}oung inequality for {$B$}-convex {B}anach spaces},

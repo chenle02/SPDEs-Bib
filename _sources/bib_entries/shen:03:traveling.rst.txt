@@ -15,7 +15,7 @@ shen:03:traveling
      journal       = {Nonlinear Anal.},
      mrclass       = {37L60 (34K13 35K55)},
      mrnumber      = {1979736},
-     mrreviewer    = {Stephen A. Gourley},
+     mrreviewer    = {Stephen\ A.\ Gourley},
      number        = {2},
      pages         = {319--339},
      title         = {Traveling waves in time periodic lattice differential equations},

@@ -14,7 +14,7 @@ bourgain:07:remark
      isbn          = {978-3-540-72052-2; 3-540-72052-9},
      mrclass       = {58J90 (11L07 81Q50)},
      mrnumber      = {2347042},
-     mrreviewer    = {Dieter H. Mayer},
+     mrreviewer    = {Dieter\ H.\ Mayer},
      pages         = {89--98},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

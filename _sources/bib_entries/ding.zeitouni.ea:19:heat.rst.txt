@@ -15,7 +15,7 @@ ding.zeitouni.ea:19:heat
      journal       = {Comm. Math. Phys.},
      mrclass       = {60G15 (60F10 60J35 60K35 83C80)},
      mrnumber      = {4019914},
-     mrreviewer    = {Max Fathi},
+     mrreviewer    = {Max\ Fathi},
      number        = {2},
      pages         = {561--618},
      title         = {Heat kernel for {L}iouville {B}rownian motion and {L}iouville graph distance},

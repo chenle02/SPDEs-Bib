@@ -15,7 +15,7 @@ chatterjee.varadhan:11:large
      journal       = {European J. Combin.},
      mrclass       = {60F10 (05C80)},
      mrnumber      = {2825532},
-     mrreviewer    = {Zhong Gen Su},
+     mrreviewer    = {Zhong\ Gen\ Su},
      number        = {7},
      pages         = {1000--1017},
      title         = {The large deviation principle for the {E}rd\H os-{R}\'enyi random graph},

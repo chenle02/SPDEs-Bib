@@ -15,7 +15,7 @@ deuschel.giacomin.ea:05:scaling
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60K35 (60F10 82B41)},
      mrnumber      = {2198199},
-     mrreviewer    = {Peter Eichelsbacher},
+     mrreviewer    = {Peter\ Eichelsbacher},
      number        = {4},
      pages         = {471--500},
      title         = {Scaling limits of equilibrium wetting models in {$(1+1)$}-dimension},

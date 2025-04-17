@@ -15,7 +15,7 @@ barral.seuret:05:combining
      journal       = {Comm. Math. Phys.},
      mrclass       = {28A80 (28A12 37C45)},
      mrnumber      = {2164606},
-     mrreviewer    = {Peter R. Massopust},
+     mrreviewer    = {Peter\ R.\ Massopust},
      number        = {2},
      pages         = {473--497},
      title         = {Combining multifractal additive and multiplicative chaos},

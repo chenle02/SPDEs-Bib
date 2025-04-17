@@ -13,7 +13,7 @@ chorin:94:vorticity
      isbn          = {0-387-94197-5},
      mrclass       = {76F05 (35Q30 76-02 76C05 76D05 76M35)},
      mrnumber      = {1281384},
-     mrreviewer    = {Wu Zhang},
+     mrreviewer    = {Wu\ Zhang},
      pages         = {viii+174},
      publisher     = {Springer-Verlag, New York},
      series        = {Applied Mathematical Sciences},

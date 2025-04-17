@@ -14,7 +14,7 @@ maslowski.seidler:98:invariant
      journal       = {Arch. Math. (Brno)},
      mrclass       = {60H15 (35R60 47D07)},
      mrnumber      = {1629692},
-     mrreviewer    = {Ralf Manthey},
+     mrreviewer    = {Ralf\ Manthey},
      note          = {Equadiff 9 (Brno, 1997)},
      number        = {1},
      pages         = {153--172},

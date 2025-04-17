@@ -14,7 +14,7 @@ bourgain.kahane:10:sur
      journal       = {Ann. Inst. Fourier (Grenoble)},
      mrclass       = {42A16 (30B50)},
      mrnumber      = {2722238},
-     mrreviewer    = {P. L. Duren},
+     mrreviewer    = {P.\ L.\ Duren},
      number        = {4},
      pages         = {1201--1214},
      title         = {Sur les s\'{e}ries de {F}ourier des fonctions continues unimodulaires},

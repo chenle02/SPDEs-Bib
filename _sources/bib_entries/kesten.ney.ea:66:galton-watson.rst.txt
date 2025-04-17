@@ -14,7 +14,7 @@ kesten.ney.ea:66:galton-watson
      journal       = {Teor. Verojatnost. i Primenen.},
      mrclass       = {60.67},
      mrnumber      = {207052},
-     mrreviewer    = {J. Wolfowitz},
+     mrreviewer    = {J.\ Wolfowitz},
      pages         = {579--611},
      title         = {The {G}alton-{W}atson process with mean one and finite variance},
      volume        = {11},

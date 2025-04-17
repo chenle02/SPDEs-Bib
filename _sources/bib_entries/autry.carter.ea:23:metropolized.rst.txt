@@ -15,7 +15,7 @@ autry.carter.ea:23:metropolized
      journal       = {SIAM J. Appl. Math.},
      mrclass       = {65C05 (05C05 91D10 91D20 91F10)},
      mrnumber      = {4611520},
-     mrreviewer    = {Ad Ridder},
+     mrreviewer    = {Ad\ Ridder},
      number        = {4},
      pages         = {1366--1391},
      title         = {Metropolized forest recombination for {M}onte {C}arlo sampling of graph partitions},

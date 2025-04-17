@@ -15,7 +15,7 @@ shen.vickers:07:spectral
      journal       = {J. Differential Equations},
      mrclass       = {35K55 (35P15 37H15 39A70 45A05 47B60 47D06 47G20)},
      mrnumber      = {2309574},
-     mrreviewer    = {Sergey G. Pyatkov},
+     mrreviewer    = {Sergey\ G.\ Pyatkov},
      number        = {1},
      pages         = {262--297},
      title         = {Spectral theory for general nonautonomous/random dispersal evolution operators},

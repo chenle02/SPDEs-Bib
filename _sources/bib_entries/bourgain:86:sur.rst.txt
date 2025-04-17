@@ -15,7 +15,7 @@ bourgain:86:sur
      journal       = {Acta Arith.},
      mrclass       = {11L03 (42A05)},
      mrnumber      = {847298},
-     mrreviewer    = {J.-P. Kahane},
+     mrreviewer    = {J.-P.\ Kahane},
      number        = {4},
      pages         = {381--389},
      title         = {Sur le minimum d'une somme de cosinus},

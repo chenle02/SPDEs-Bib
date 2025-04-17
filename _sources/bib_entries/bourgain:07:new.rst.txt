@@ -14,7 +14,7 @@ bourgain:07:new
      isbn          = {978-0-8218-4249-2},
      mrclass       = {43A75 (11T30 22E30 54H15 81Q10)},
      mrnumber      = {2307745},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      pages         = {499--504},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Proc. Sympos. Pure Math.},

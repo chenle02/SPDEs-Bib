@@ -15,7 +15,7 @@ mierczynski.shen:16:principal
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {37H15 (34D08 34K50 35K20 35R60 37L55)},
      mrnumber      = {3537364},
-     mrreviewer    = {M. L. Blank},
+     mrreviewer    = {M.\ L.\ Blank},
      number        = {3-4},
      pages         = {1039--1079},
      title         = {Principal {L}yapunov exponents and principal {F}loquet spaces of positive random dynamical systems. {III}. {P}arabolic equations and delay systems},

@@ -15,7 +15,7 @@ barraquand.corwin.ea:23:spatial
      journal       = {Comm. Math. Phys.},
      mrclass       = {60K35 (82B23)},
      mrnumber      = {4541922},
-     mrreviewer    = {B\'{a}lint Vet\H{o}},
+     mrreviewer    = {B\'{a}lint\ Vet\H{o}},
      number        = {3},
      pages         = {1309--1386},
      title         = {Spatial tightness at the edge of {G}ibbsian line ensembles},

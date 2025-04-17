@@ -15,7 +15,7 @@ landim.olla.ea:01:symmetric
      journal       = {Comm. Math. Phys.},
      mrclass       = {60J60 (82C31)},
      mrnumber      = {1869001},
-     mrreviewer    = {Lorenza Viola},
+     mrreviewer    = {Lorenza\ Viola},
      note          = {Dedicated to Joel L. Lebowitz},
      number        = {1},
      pages         = {307--321},

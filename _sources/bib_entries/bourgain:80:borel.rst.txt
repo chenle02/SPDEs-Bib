@@ -15,7 +15,7 @@ bourgain:80:borel
      journal       = {Fund. Math.},
      mrclass       = {54H05},
      mrnumber      = {584668},
-     mrreviewer    = {D. W. Bressler},
+     mrreviewer    = {D.\ W.\ Bressler},
      number        = {2},
      pages         = {149--159},
      title         = {Borel sets with {$F\sb{\sigma \delta }$}-sections},

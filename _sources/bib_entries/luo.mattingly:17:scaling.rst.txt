@@ -15,7 +15,7 @@ luo.mattingly:17:scaling
      journal       = {Nonlinearity},
      mrclass       = {92D25 (35F55 35Q92 37L55 60J28 60J68 60J70 92D15)},
      mrnumber      = {3636315},
-     mrreviewer    = {Reinhard Redlinger},
+     mrreviewer    = {Reinhard\ Redlinger},
      number        = {4},
      pages         = {1682--1707},
      title         = {Scaling limits of a model for selection at two scales},

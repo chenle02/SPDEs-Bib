@@ -15,7 +15,7 @@ rhodes.vargas:14:gaussian
      journal       = {Probab. Surv.},
      mrclass       = {60G57 (28A80 60G15 60G60)},
      mrnumber      = {3274356},
-     mrreviewer    = {Dora Sele\v si},
+     mrreviewer    = {Dora\ Sele\v si},
      pages         = {315--392},
      title         = {Gaussian multiplicative chaos and applications: a review},
      url           = {https://doi.org/10.1214/13-PS218},

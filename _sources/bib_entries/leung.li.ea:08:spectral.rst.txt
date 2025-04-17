@@ -15,7 +15,7 @@ leung.li.ea:08:spectral
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {30D10 (47D07 60B10 60J35)},
      mrnumber      = {2431059},
-     mrreviewer    = {On\'{e}simo Hern\'{a}ndez Lerma},
+     mrreviewer    = {On\'{e}simo\ Hern\'{a}ndez Lerma},
      number        = {12},
      pages         = {4427--4436},
      title         = {Spectral analysis of {B}rownian motion with jump boundary},

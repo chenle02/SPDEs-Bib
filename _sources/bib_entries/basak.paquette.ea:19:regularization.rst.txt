@@ -15,7 +15,7 @@ basak.paquette.ea:19:regularization
      journal       = {Forum Math. Sigma},
      mrclass       = {60B20 (15B05 15B52)},
      mrnumber      = {3912376},
-     mrreviewer    = {Sasha Sodin},
+     mrreviewer    = {Sasha\ Sodin},
      pages         = {Paper No. e3, 72},
      title         = {Regularization of non-normal matrices by {G}aussian noise---the banded {T}oeplitz and twisted {T}oeplitz cases},
      url           = {https://doi.org/10.1017/fms.2018.29},

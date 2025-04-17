@@ -15,7 +15,7 @@ zabczyk:72:on
      journal       = {Colloq. Math.},
      mrclass       = {45A05},
      mrnumber      = {326321},
-     mrreviewer    = {M. Rossler},
+     mrreviewer    = {M.\ Rossler},
      pages         = {315--318},
      title         = {On some integral equation},
      url           = {https://doi.org/10.4064/cm-25-2-315-318},

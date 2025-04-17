@@ -15,7 +15,7 @@ subag.zeitouni:15:freezing
      journal       = {Comm. Math. Phys.},
      mrclass       = {60K35 (60G55)},
      mrnumber      = {3324155},
-     mrreviewer    = {Christoph Th\"{a}le},
+     mrreviewer    = {Christoph\ Th\"{a}le},
      number        = {1},
      pages         = {55--92},
      title         = {Freezing and decorated {P}oisson point processes},

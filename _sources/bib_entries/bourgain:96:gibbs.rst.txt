@@ -13,7 +13,7 @@ bourgain:96:gibbs
      isbn          = {0-8176-3816-4},
      mrclass       = {58F39 (35B10 35Q99 58F27)},
      mrnumber      = {1398915},
-     mrreviewer    = {C. Eugene Wayne},
+     mrreviewer    = {C.\ Eugene\ Wayne},
      pages         = {23--43},
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Gelfand Math. Sem.},

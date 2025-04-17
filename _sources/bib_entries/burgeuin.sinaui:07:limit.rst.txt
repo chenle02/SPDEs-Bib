@@ -15,7 +15,7 @@ burgeuin.sinaui:07:limit
      journal       = {Uspekhi Mat. Nauk},
      mrclass       = {11D85 (11D04)},
      mrnumber      = {2358737},
-     mrreviewer    = {S. A. Stepanov},
+     mrreviewer    = {S.\ A.\ Stepanov},
      number        = {4(376)},
      pages         = {77--90},
      title         = {Limit behavior of large {F}robenius numbers},

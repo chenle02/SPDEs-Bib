@@ -13,7 +13,7 @@ derrida:06:matrix
      isbn          = {978-3-03719-022-7},
      mrclass       = {82C22 (60F10 60K35 82C26)},
      mrnumber      = {2275686},
-     mrreviewer    = {Ellen Saada},
+     mrreviewer    = {Ellen\ Saada},
      pages         = {367--382},
      publisher     = {Eur. Math. Soc., Z\"urich},
      title         = {Matrix ansatz large deviations of the density in exclusion processes},

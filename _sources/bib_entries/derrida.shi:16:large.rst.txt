@@ -15,7 +15,7 @@ derrida.shi:16:large
      journal       = {J. Stat. Phys.},
      mrclass       = {82C41},
      mrnumber      = {3503265},
-     mrreviewer    = {P\'eter N\'andori},
+     mrreviewer    = {P\'eter\ N\'andori},
      number        = {6},
      pages         = {1285--1311},
      title         = {Large deviations for the branching {B}rownian motion in presence of selection or coalescence},

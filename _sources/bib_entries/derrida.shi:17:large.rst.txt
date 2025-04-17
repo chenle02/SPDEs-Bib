@@ -14,7 +14,7 @@ derrida.shi:17:large
      isbn          = {978-3-319-65313-6; 978-3-319-65312-9},
      mrclass       = {60F10 (60J80)},
      mrnumber      = {3747671},
-     mrreviewer    = {Vitali Wachtel},
+     mrreviewer    = {Vitali\ Wachtel},
      pages         = {303--312},
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},

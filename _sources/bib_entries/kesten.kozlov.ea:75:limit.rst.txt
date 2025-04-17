@@ -14,7 +14,7 @@ kesten.kozlov.ea:75:limit
      journal       = {Compositio Math.},
      mrclass       = {60J15 (60F05 60J80)},
      mrnumber      = {380998},
-     mrreviewer    = {K. B. Erickson},
+     mrreviewer    = {K.\ B.\ Erickson},
      pages         = {145--168},
      title         = {A limit law for random walk in a random environment},
      volume        = {30},

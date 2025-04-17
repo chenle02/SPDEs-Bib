@@ -15,7 +15,7 @@ bourgain.kontorovich:14:on
      journal       = {Invent. Math.},
      mrclass       = {11F03 (52C26)},
      mrnumber      = {3211042},
-     mrreviewer    = {Ben Joseph Green},
+     mrreviewer    = {Ben\ Joseph\ Green},
      note          = {With an appendix by P\'{e}ter P. Varj\'{u}},
      number        = {3},
      pages         = {589--650},

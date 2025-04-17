@@ -15,7 +15,7 @@ bourgain.garaev.ea:14:multiplicative
      journal       = {J. Anal. Math.},
      mrclass       = {11A07 (11L05)},
      mrnumber      = {3286051},
-     mrreviewer    = {C\'{e}cile Dartyge},
+     mrreviewer    = {C\'{e}cile\ Dartyge},
      pages         = {117--147},
      title         = {Multiplicative congruences with variables from short intervals},
      url           = {https://doi.org/10.1007/s11854-014-0029-2},

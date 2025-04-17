@@ -15,7 +15,7 @@ yakir.zeitouni:21:minimum
      journal       = {Israel J. Math.},
      mrclass       = {60G15 (30B20 30C10 60G55)},
      mrnumber      = {4358255},
-     mrreviewer    = {Zipeng Wang},
+     mrreviewer    = {Zipeng\ Wang},
      number        = {2},
      pages         = {543--566},
      title         = {The minimum modulus of {G}aussian trigonometric polynomials},

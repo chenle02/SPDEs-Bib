@@ -15,7 +15,7 @@ bourgain.brezis.ea:00:on
      journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
      mrclass       = {46E35 (35Q60)},
      mrnumber      = {1781527},
-     mrreviewer    = {Giandomenico Orlandi},
+     mrreviewer    = {Giandomenico\ Orlandi},
      number        = {2},
      pages         = {119--124},
      title         = {On the structure of the {S}obolev space {$H^{1/2}$} with values into the circle},

@@ -15,7 +15,7 @@ peng.li:13:diffusions
      journal       = {Sci. China Math.},
      mrclass       = {60J50 (60J60)},
      mrnumber      = {3016590},
-     mrreviewer    = {Ren Ming Song},
+     mrreviewer    = {Ren\ Ming\ Song},
      number        = {1},
      pages         = {161--176},
      title         = {Diffusions with holding and jumping boundary},

@@ -15,7 +15,7 @@ kong.shen:11:positive
      journal       = {Methods Appl. Anal.},
      mrclass       = {35K57 (35B09 92D25)},
      mrnumber      = {2965986},
-     mrreviewer    = {Juraj F\"{o}ldes},
+     mrreviewer    = {Juraj\ F\"{o}ldes},
      number        = {4},
      pages         = {427--456},
      title         = {Positive stationary solutions and spreading speeds of {KPP} equations in locally spatially inhomogeneous media},

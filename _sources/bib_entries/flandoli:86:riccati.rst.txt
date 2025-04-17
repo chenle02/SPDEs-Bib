@@ -15,7 +15,7 @@ flandoli:86:riccati
      journal       = {Stochastic Anal. Appl.},
      mrclass       = {93C20 (93E20)},
      mrnumber      = {829650},
-     mrreviewer    = {Akira Ichikawa},
+     mrreviewer    = {Akira\ Ichikawa},
      number        = {2},
      pages         = {131--150},
      title         = {Riccati equation arising in the boundary control of stochastic hyperbolic systems},

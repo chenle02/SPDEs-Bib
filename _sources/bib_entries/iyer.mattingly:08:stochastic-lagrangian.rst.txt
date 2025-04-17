@@ -15,7 +15,7 @@ iyer.mattingly:08:stochastic-lagrangian
      journal       = {Nonlinearity},
      mrclass       = {76D05 (35Q30 35R60 60H10 60H30)},
      mrnumber      = {2448230},
-     mrreviewer    = {Benedetta Ferrario},
+     mrreviewer    = {Benedetta\ Ferrario},
      number        = {11},
      pages         = {2537--2553},
      title         = {A stochastic-{L}agrangian particle system for the {N}avier-{S}tokes equations},

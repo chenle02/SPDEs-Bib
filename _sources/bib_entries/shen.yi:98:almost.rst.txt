@@ -15,7 +15,7 @@ shen.yi:98:almost
      journal       = {Mem. Amer. Math. Soc.},
      mrclass       = {34D05 (34C27 34C35 35K55 47H20 54H20 58F11)},
      mrnumber      = {1445493},
-     mrreviewer    = {Russell A. Johnson},
+     mrreviewer    = {Russell\ A.\ Johnson},
      number        = {647},
      pages         = {x+93},
      title         = {Almost automorphic and almost periodic dynamics in skew-product semiflows},

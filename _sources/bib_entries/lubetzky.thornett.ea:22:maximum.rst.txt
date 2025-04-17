@@ -15,7 +15,7 @@ lubetzky.thornett.ea:22:maximum
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60J80 (60J65)},
      mrnumber      = {4492971},
-     mrreviewer    = {Xiaowen Zhou},
+     mrreviewer    = {Xiaowen\ Zhou},
      number        = {4},
      pages         = {2065--2093},
      title         = {Maximum of branching {B}rownian motion in a periodic environment},

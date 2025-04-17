@@ -15,7 +15,7 @@ burgeuin.garaev:14:sumsets
      journal       = {Izv. Ross. Akad. Nauk Ser. Mat.},
      mrclass       = {11T23},
      mrnumber      = {3288401},
-     mrreviewer    = {Ioulia N. Baoulina},
+     mrreviewer    = {Ioulia\ N.\ Baoulina},
      number        = {4},
      pages         = {19--72},
      title         = {Sumsets of reciprocals in prime fields and multilinear {K}loosterman sums},

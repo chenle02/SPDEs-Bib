@@ -15,7 +15,7 @@ crauel.flandoli:98:additive
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {58F12 (34C23 34F05 60H10)},
      mrnumber      = {1623013},
-     mrreviewer    = {Bohdan Maslowski},
+     mrreviewer    = {Bohdan\ Maslowski},
      number        = {2},
      pages         = {259--274},
      title         = {Additive noise destroys a pitchfork bifurcation},

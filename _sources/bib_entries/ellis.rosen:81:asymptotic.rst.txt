@@ -14,7 +14,7 @@ ellis.rosen:81:asymptotic
      journal       = {Comm. Math. Phys.},
      mrclass       = {60G15 (28C20 58D20 81C35)},
      mrnumber      = {639055},
-     mrreviewer    = {S. R. S. Varadhan},
+     mrreviewer    = {S.\ R. S. Varadhan},
      number        = {2},
      pages         = {153--181},
      title         = {Asymptotic analysis of {G}aussian integrals. {II}. {M}anifold of minimum points},

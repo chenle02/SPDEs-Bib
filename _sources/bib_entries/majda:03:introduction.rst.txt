@@ -13,7 +13,7 @@ majda:03:introduction
      isbn          = {0-8218-2954-8},
      mrclass       = {76U05 (35Q35 76B03 76B15 76D33 86A05 86A10)},
      mrnumber      = {1965452},
-     mrreviewer    = {Jiahong Wu},
+     mrreviewer    = {Jiahong\ Wu},
      pages         = {x+234},
      publisher     = {New York University, Courant Institute of Mathematical Sciences, New York; American Mathematical Society, Providence, RI},
      series        = {Courant Lecture Notes in Mathematics},

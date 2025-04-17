@@ -15,7 +15,7 @@ lacoin:12:existence
      journal       = {Electron. J. Probab.},
      mrclass       = {60K35 (60K37 82B43 82D60)},
      mrnumber      = {2928724},
-     mrreviewer    = {Elena A. Zhizhina},
+     mrreviewer    = {Elena\ A.\ Zhizhina},
      pages         = {no. 41, 17},
      title         = {Existence of an intermediate phase for oriented percolation},
      url           = {https://doi.org/10.1214/EJP.v17-1761},

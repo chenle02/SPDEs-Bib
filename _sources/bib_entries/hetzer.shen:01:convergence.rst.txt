@@ -15,7 +15,7 @@ hetzer.shen:01:convergence
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {35K57 (35B15 35B40)},
      mrnumber      = {1857229},
-     mrreviewer    = {Sergei Trofimchuk},
+     mrreviewer    = {Sergei\ Trofimchuk},
      number        = {1},
      pages         = {307--338},
      title         = {Convergence in almost periodic competition diffusion systems},

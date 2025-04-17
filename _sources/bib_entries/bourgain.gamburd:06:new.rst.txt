@@ -15,7 +15,7 @@ bourgain.gamburd:06:new
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {20G40 (11B75)},
      mrnumber      = {2227746},
-     mrreviewer    = {Alexander Lubotzky},
+     mrreviewer    = {Alexander\ Lubotzky},
      number        = {10},
      pages         = {717--721},
      title         = {New results on expanders},

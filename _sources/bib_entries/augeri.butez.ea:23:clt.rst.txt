@@ -15,7 +15,7 @@ augeri.butez.ea:23:clt
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60B20 (60F05)},
      mrnumber      = {4586217},
-     mrreviewer    = {Ramon van Handel},
+     mrreviewer    = {Ramon\ van Handel},
      number        = {1-2},
      pages         = {1--89},
      title         = {A {CLT} for the characteristic polynomial of random {J}acobi matrices, and the {${\rm G}\beta {\rm E}$}},

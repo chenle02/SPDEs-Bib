@@ -15,7 +15,7 @@ zeitouni:06:random
      journal       = {J. Phys. A},
      mrclass       = {60K37 (82C41 82C44)},
      mrnumber      = {2261885},
-     mrreviewer    = {Andrew R. Wade},
+     mrreviewer    = {Andrew\ R.\ Wade},
      number        = {40},
      pages         = {R433--R464},
      title         = {Random walks in random environments},

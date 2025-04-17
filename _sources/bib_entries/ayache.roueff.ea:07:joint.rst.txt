@@ -15,7 +15,7 @@ ayache.roueff.ea:07:joint
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {60G60 (60J55)},
      mrnumber      = {2334075},
-     mrreviewer    = {No\`elia Viles},
+     mrreviewer    = {No\`elia\ Viles},
      number        = {10},
      pages         = {635--640},
      title         = {Joint continuity of the local times of linear fractional stable sheets},

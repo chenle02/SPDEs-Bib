@@ -15,7 +15,7 @@ aizenman.simon:82:brownian
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35J10 (60J65 81C05)},
      mrnumber      = {644024},
-     mrreviewer    = {M. Schechter},
+     mrreviewer    = {M.\ Schechter},
      number        = {2},
      pages         = {209--273},
      title         = {Brownian motion and {H}arnack inequality for {S}chr\"odinger operators},

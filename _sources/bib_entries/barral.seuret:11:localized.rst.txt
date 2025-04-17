@@ -15,7 +15,7 @@ barral.seuret:11:localized
      journal       = {Adv. Math.},
      mrclass       = {11J83 (11K55 28A80)},
      mrnumber      = {2764886},
-     mrreviewer    = {Henrietta Dickinson},
+     mrreviewer    = {Henrietta\ Dickinson},
      number        = {4},
      pages         = {3191--3215},
      title         = {A localized {J}arn\'ik-{B}esicovitch theorem},

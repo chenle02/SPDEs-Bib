@@ -15,7 +15,7 @@ zhou.xiao:18:joint
      journal       = {J. Multivariate Anal.},
      mrclass       = {62H12 (60G15 62F12)},
      mrnumber      = {3768752},
-     mrreviewer    = {Viktor Skorniakov},
+     mrreviewer    = {Viktor\ Skorniakov},
      pages         = {56--72},
      title         = {Joint asymptotics for estimating the fractal indices of bivariate {G}aussian processes},
      url           = {https://doi.org/10.1016/j.jmva.2017.12.001},

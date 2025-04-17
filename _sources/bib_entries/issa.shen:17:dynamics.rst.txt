@@ -15,7 +15,7 @@ issa.shen:17:dynamics
      journal       = {SIAM J. Appl. Dyn. Syst.},
      mrclass       = {92C17 (35B08 35B10 35B15 35B35 35B40 35K57 35Q92)},
      mrnumber      = {3648963},
-     mrreviewer    = {Tomasz Cie\'{s}lak},
+     mrreviewer    = {Tomasz\ Cie\'{s}lak},
      number        = {2},
      pages         = {926--973},
      title         = {Dynamics in chemotaxis models of parabolic-elliptic type on bounded domain with time and space dependent logistic sources},

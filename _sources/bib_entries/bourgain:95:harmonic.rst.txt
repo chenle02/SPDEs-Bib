@@ -13,7 +13,7 @@ bourgain:95:harmonic
      isbn          = {3-7643-5153-5},
      mrclass       = {35K22 (35Q53 35Q55)},
      mrnumber      = {1403913},
-     mrreviewer    = {Ya. P. Pugay},
+     mrreviewer    = {Ya.\ P.\ Pugay},
      pages         = {31--44},
      publisher     = {Birkh\"{a}user, Basel},
      title         = {Harmonic analysis and nonlinear partial differential equations},

@@ -15,7 +15,7 @@ simon:78:canonical
      journal       = {J. Functional Analysis},
      mrclass       = {47B25},
      mrnumber      = {500266},
-     mrreviewer    = {Tosio Kato},
+     mrreviewer    = {Tosio\ Kato},
      number        = {3},
      pages         = {377--385},
      title         = {A canonical decomposition for quadratic forms with applications to monotone convergence theorems},

@@ -15,7 +15,7 @@ barral.seuret:07:heterogeneous
      journal       = {Bull. Braz. Math. Soc. (N.S.)},
      mrclass       = {28A80 (11K55 28A78 37A45)},
      mrnumber      = {2344210},
-     mrreviewer    = {Raby Guerbaz},
+     mrreviewer    = {Raby\ Guerbaz},
      number        = {3},
      pages         = {467--515},
      title         = {Heterogeneous ubiquitous systems in {$\Bbb R^d$} and {H}ausdorff dimension},

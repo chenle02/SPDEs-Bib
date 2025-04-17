@@ -14,7 +14,7 @@ lieb.simon:77:hartree-fock
      journal       = {Comm. Math. Phys.},
      mrclass       = {81.46},
      mrnumber      = {452286},
-     mrreviewer    = {Johan G. Belinfante},
+     mrreviewer    = {Johan\ G.\ Belinfante},
      number        = {3},
      pages         = {185--194},
      title         = {The {H}artree-{F}ock theory for {C}oulomb systems},

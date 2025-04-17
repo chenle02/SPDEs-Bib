@@ -15,7 +15,7 @@ da-prato.debussche.ea:02:some
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H15 (35K57 35R60 37L40)},
      mrnumber      = {1918538},
-     mrreviewer    = {Catherine Donati-Martin},
+     mrreviewer    = {Catherine\ Donati-Martin},
      number        = {3},
      pages         = {355--380},
      title         = {Some properties of invariant measures of non symmetric dissipative stochastic systems},

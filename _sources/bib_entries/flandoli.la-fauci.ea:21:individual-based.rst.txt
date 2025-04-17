@@ -15,7 +15,7 @@ flandoli.la-fauci.ea:21:individual-based
      journal       = {Math. Models Methods Appl. Sci.},
      mrclass       = {92C60 (60J20 92D30)},
      mrnumber      = {4275807},
-     mrreviewer    = {Hamid Pezeshk},
+     mrreviewer    = {Hamid\ Pezeshk},
      number        = {5},
      pages         = {907--939},
      title         = {Individual-based {M}arkov model of virus diffusion: comparison with {COVID}-19 incubation period, serial interval and regional time series},

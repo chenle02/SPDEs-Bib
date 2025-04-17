@@ -15,7 +15,7 @@ ayache.roueff.ea:09:linear
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60G52 (42B10 42C40 60G17 60G60)},
      mrnumber      = {2508569},
-     mrreviewer    = {John P. Nolan},
+     mrreviewer    = {John\ P.\ Nolan},
      number        = {4},
      pages         = {1168--1197},
      title         = {Linear fractional stable sheets: wavelet expansion and sample path properties},

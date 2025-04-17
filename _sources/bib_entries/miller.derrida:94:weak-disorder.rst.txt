@@ -15,7 +15,7 @@ miller.derrida:94:weak-disorder
      journal       = {J. Statist. Phys.},
      mrclass       = {82B44 (81Q10)},
      mrnumber      = {1279757},
-     mrreviewer    = {Anton Bovier},
+     mrreviewer    = {Anton\ Bovier},
      number        = {3-4},
      pages         = {357--388},
      title         = {Weak-disorder expansion for the {A}nderson model on a tree},

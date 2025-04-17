@@ -15,7 +15,7 @@ ellis.newman.ea:80:limit
      journal       = {Z. Wahrsch. Verw. Gebiete},
      mrclass       = {82A05 (60F05)},
      mrnumber      = {566313},
-     mrreviewer    = {D. Sz\'asz},
+     mrreviewer    = {D.\ Sz\'asz},
      number        = {2},
      pages         = {153--169},
      title         = {Limit theorems for sums of dependent random variables occurring in statistical mechanics. {II}. {C}onditioning, multiple phases, and metastability},

@@ -15,7 +15,7 @@ vargas.dao.ea:15:skew
      journal       = {Int. J. Theor. Appl. Finance},
      mrclass       = {91G20},
      mrnumber      = {3358103},
-     mrreviewer    = {George Stoica},
+     mrreviewer    = {George\ Stoica},
      number        = {4},
      pages         = {1550022, 15},
      title         = {Skew and implied leverage effect: smile dynamics revisited},

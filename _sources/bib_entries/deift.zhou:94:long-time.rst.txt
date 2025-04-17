@@ -14,7 +14,7 @@ deift.zhou:94:long-time
      journal       = {Comm. Math. Phys.},
      mrclass       = {35Q55 (35B40 35C20 35Q53)},
      mrnumber      = {1298946},
-     mrreviewer    = {Spyridon Kamvissis},
+     mrreviewer    = {Spyridon\ Kamvissis},
      number        = {1},
      pages         = {175--191},
      title         = {Long-time asymptotics for integrable systems. {H}igher order theory},

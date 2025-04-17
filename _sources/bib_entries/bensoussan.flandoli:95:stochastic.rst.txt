@@ -15,7 +15,7 @@ bensoussan.flandoli:95:stochastic
      journal       = {Stochastics Stochastics Rep.},
      mrclass       = {60H15},
      mrnumber      = {1380488},
-     mrreviewer    = {Constantin Tudor},
+     mrreviewer    = {Constantin\ Tudor},
      number        = {1-2},
      pages         = {13--39},
      title         = {Stochastic inertial manifold},

@@ -15,7 +15,7 @@ mueller.neuman:22:scaling
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60H15 (82D60)},
      mrnumber      = {4522351},
-     mrreviewer    = {John Masson Noble},
+     mrreviewer    = {John\ Masson\ Noble},
      number        = {6},
      pages         = {4251--4278},
      title         = {Scaling properties of a moving polymer},

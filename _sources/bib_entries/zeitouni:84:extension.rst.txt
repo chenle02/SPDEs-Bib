@@ -15,7 +15,7 @@ zeitouni:84:extension
      journal       = {Systems Control Lett.},
      mrclass       = {93E11 (93E12)},
      mrnumber      = {768709},
-     mrreviewer    = {G. Banon},
+     mrreviewer    = {G.\ Banon},
      number        = {1},
      pages         = {9--17},
      title         = {An extension of the {B}ene\v{s} filter and some identification problems solved by nonlinear filtering methods},

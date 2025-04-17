@@ -15,7 +15,7 @@ cranston.lejan:98:geometric
      journal       = {Electron. J. Probab.},
      mrclass       = {60H10 (60J60)},
      mrnumber      = {1610230},
-     mrreviewer    = {R\'{e}mi L\'{e}andre},
+     mrreviewer    = {R\'{e}mi\ L\'{e}andre},
      pages         = {no. 4, 36},
      title         = {Geometric evolution under isotropic stochastic flow},
      url           = {https://doi.org/10.1214/EJP.v3-26},

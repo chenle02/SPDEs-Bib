@@ -15,7 +15,7 @@ cook.derrida:91:finite-size
      journal       = {J. Statist. Phys.},
      mrclass       = {82B44 (82D30 82D60)},
      mrnumber      = {1115802},
-     mrreviewer    = {Aernout C. D. van Enter},
+     mrreviewer    = {Aernout\ C. D. van Enter},
      number        = {3-4},
      pages         = {505--539},
      title         = {Finite-size effects in random energy models and in the problem of polymers in a random medium},

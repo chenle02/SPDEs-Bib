@@ -15,7 +15,7 @@ garnier.s-lna:15:white-noise
      journal       = {Multiscale Model. Simul.},
      mrclass       = {35R60 (60F05 60H15)},
      mrnumber      = {3402777},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {3},
      pages         = {1022--1060},
      title         = {White-noise paraxial approximation for a general random hyperbolic system},

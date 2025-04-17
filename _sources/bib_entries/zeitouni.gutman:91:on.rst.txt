@@ -15,7 +15,7 @@ zeitouni.gutman:91:on
      journal       = {IEEE Trans. Inform. Theory},
      mrclass       = {94A13 (60F10 62G10)},
      mrnumber      = {1093743},
-     mrreviewer    = {Tamer Ba\c{s}ar},
+     mrreviewer    = {Tamer\ Ba\c{s}ar},
      number        = {2},
      pages         = {285--290},
      title         = {On universal hypotheses testing via large deviations},

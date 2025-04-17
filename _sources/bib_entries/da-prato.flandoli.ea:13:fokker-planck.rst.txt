@@ -15,7 +15,7 @@ da-prato.flandoli.ea:13:fokker-planck
      journal       = {Commun. Math. Stat.},
      mrclass       = {35Q84 (35Q30 35R60 60H15)},
      mrnumber      = {3197468},
-     mrreviewer    = {Edgard Pimentel},
+     mrreviewer    = {Edgard\ Pimentel},
      number        = {3},
      pages         = {281--304},
      title         = {Fokker-{P}lanck equations for {SPDE} with non-trace-class noise},

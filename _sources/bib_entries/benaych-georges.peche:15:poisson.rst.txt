@@ -15,7 +15,7 @@ benaych-georges.peche:15:poisson
      journal       = {J. Stat. Phys.},
      mrclass       = {60B20 (15B52 60F05 60G55 82C22)},
      mrnumber      = {3406702},
-     mrreviewer    = {Thomas Bothner},
+     mrreviewer    = {Thomas\ Bothner},
      number        = {3},
      pages         = {633--656},
      title         = {Poisson statistics for matrix ensembles at large temperature},

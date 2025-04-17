@@ -14,7 +14,7 @@ cranston.zhao:90:some
      isbn          = {0-8176-3516-5},
      mrclass       = {35J10 (35P05 60J70 81Q05)},
      mrnumber      = {1110161},
-     mrreviewer    = {Jagannathan Gomatam},
+     mrreviewer    = {Jagannathan\ Gomatam},
      pages         = {139--147},
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Progr. Probab.},

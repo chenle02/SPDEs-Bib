@@ -15,7 +15,7 @@ flandoli.zanco:16:infinite-dimensional
      journal       = {Ann. Probab.},
      mrclass       = {60H10 (35K10 35R60 60H30)},
      mrnumber      = {3531677},
-     mrreviewer    = {Dejun Luo},
+     mrreviewer    = {Dejun\ Luo},
      number        = {4},
      pages         = {2643--2693},
      title         = {An infinite-dimensional approach to path-dependent {K}olmogorov equations},

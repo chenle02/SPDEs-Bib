@@ -15,7 +15,7 @@ cranston.molchanov:12:on
      journal       = {Electron. Commun. Probab.},
      mrclass       = {60F05 (60E15)},
      mrnumber      = {2955492},
-     mrreviewer    = {Deli Li},
+     mrreviewer    = {Deli\ Li},
      pages         = {no. 27, 8},
      title         = {On a concentration inequality for sums of independent isotropic vectors},
      url           = {https://doi.org/10.1214/ECP.v17-2063},

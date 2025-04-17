@@ -14,7 +14,7 @@ sell.shen.ea:98:topological
      isbn          = {0-8218-0608-4},
      mrclass       = {34C27 (34C28 54H20)},
      mrnumber      = {1603054},
-     mrreviewer    = {Rafael Obaya Garc\'{i}a},
+     mrreviewer    = {Rafael\ Obaya Garc\'{i}a},
      pages         = {279--297},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

@@ -14,7 +14,7 @@ maslowski.seidler.ea:93:integral
      journal       = {Differential Integral Equations},
      mrclass       = {60H15 (35B35 35R60)},
      mrnumber      = {1195388},
-     mrreviewer    = {Jerzy Zabczyk},
+     mrreviewer    = {Jerzy\ Zabczyk},
      number        = {2},
      pages         = {355--382},
      title         = {Integral continuity and stability for stochastic hyperbolic equations},

@@ -15,7 +15,7 @@ peszat.talarczyk:10:functional
      journal       = {Potential Anal.},
      mrclass       = {60G52 (60F17)},
      mrnumber      = {2658982},
-     mrreviewer    = {Sreenivasan Ravi},
+     mrreviewer    = {Sreenivasan\ Ravi},
      number        = {2},
      pages         = {199--209},
      title         = {Functional central limit theorem for additive functionals of {$\alpha$}-stable processes},

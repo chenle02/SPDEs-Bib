@@ -14,7 +14,7 @@ avron.herbst.ea:78:schrodinger
      journal       = {Duke Math. J.},
      mrclass       = {35P25 (47F05 81C05)},
      mrnumber      = {518109},
-     mrreviewer    = {Richard B. Lavine},
+     mrreviewer    = {Richard\ B.\ Lavine},
      number        = {4},
      pages         = {847--883},
      title         = {Schr\"odinger operators with magnetic fields. {I}. {G}eneral interactions},

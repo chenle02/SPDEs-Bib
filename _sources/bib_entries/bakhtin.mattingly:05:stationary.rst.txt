@@ -15,7 +15,7 @@ bakhtin.mattingly:05:stationary
      journal       = {Commun. Contemp. Math.},
      mrclass       = {60H10 (35Q30 35R60 37H10 60H15 76D05 76M35)},
      mrnumber      = {2175090},
-     mrreviewer    = {Pedro Mar\'in Rubio},
+     mrreviewer    = {Pedro\ Mar\'in Rubio},
      number        = {5},
      pages         = {553--582},
      title         = {Stationary solutions of stochastic differential equations with memory and stochastic partial differential equations},

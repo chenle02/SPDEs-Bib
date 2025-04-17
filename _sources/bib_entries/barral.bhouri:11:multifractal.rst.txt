@@ -15,7 +15,7 @@ barral.bhouri:11:multifractal
      journal       = {Ergodic Theory Dynam. Systems},
      mrclass       = {37D35 (28A80 37C45)},
      mrnumber      = {2794943},
-     mrreviewer    = {St\'ephane Seuret},
+     mrreviewer    = {St\'ephane\ Seuret},
      number        = {3},
      pages         = {673--701},
      title         = {Multifractal analysis for projections of {G}ibbs and related measures},

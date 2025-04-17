@@ -13,7 +13,7 @@ bourgain.tzafriri:89:restricted
      isbn          = {0-521-36437-X},
      mrclass       = {47B37 (15A09 46B20 46L30)},
      mrnumber      = {1009186},
-     mrreviewer    = {T. Figiel},
+     mrreviewer    = {T.\ Figiel},
      pages         = {61--107},
      publisher     = {Cambridge Univ. Press, Cambridge},
      series        = {London Math. Soc. Lecture Note Ser.},

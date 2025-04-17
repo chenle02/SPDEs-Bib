@@ -15,7 +15,7 @@ hetzer.shen:05:two
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {34D20 (34D35 92D25)},
      mrnumber      = {2121248},
-     mrreviewer    = {Peter Moson},
+     mrreviewer    = {Peter\ Moson},
      number        = {1},
      pages         = {39--57},
      title         = {Two species competition with an inhibitor involved},

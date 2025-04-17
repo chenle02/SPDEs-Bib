@@ -15,7 +15,7 @@ dupuis.zeitouni:96:nonstandard
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60F10 (60J10)},
      mrnumber      = {1386175},
-     mrreviewer    = {Esa Nummelin},
+     mrreviewer    = {Esa\ Nummelin},
      number        = {2},
      pages         = {249--261},
      title         = {A nonstandard form of the rate function for the occupation measure of a {M}arkov chain},

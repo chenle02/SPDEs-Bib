@@ -15,7 +15,7 @@ shen.shen.ea:13:asymptotic
      journal       = {Stoch. Dyn.},
      mrclass       = {34F05 (34D45 37H10 60H10)},
      mrnumber      = {3116923},
-     mrreviewer    = {Zaitang Huang},
+     mrreviewer    = {Zaitang\ Huang},
      number        = {4},
      pages         = {1350002, 23},
      title         = {Asymptotic dynamics of a class of coupled oscillators driven by white noises},

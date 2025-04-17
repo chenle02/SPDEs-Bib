@@ -15,7 +15,7 @@ barral.qu:11:multifractals
      journal       = {Nonlinearity},
      mrclass       = {81Q20 (26A30 28A80 34L40 37D35)},
      mrnumber      = {2842185},
-     mrreviewer    = {Alberto Parmeggiani},
+     mrreviewer    = {Alberto\ Parmeggiani},
      number        = {10},
      pages         = {2785--2811},
      title         = {Multifractals in {W}eyl asymptotic distribution},

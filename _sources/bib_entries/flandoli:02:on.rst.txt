@@ -15,7 +15,7 @@ flandoli:02:on
      journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
      mrclass       = {76M35 (60J65 76D17 76F99)},
      mrnumber      = {1899111},
-     mrreviewer    = {Azzouz Dermoune},
+     mrreviewer    = {Azzouz\ Dermoune},
      number        = {2},
      pages         = {207--228},
      title         = {On a probabilistic description of small scale structures in 3{D} fluids},

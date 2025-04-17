@@ -15,7 +15,7 @@ bourgain.brezis.ea:15:new
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {46E35},
      mrnumber      = {3420502},
-     mrreviewer    = {Agnieszka Ka\l amajska},
+     mrreviewer    = {Agnieszka\ Ka\l amajska},
      number        = {9},
      pages         = {2083--2101},
      title         = {A new function space and applications},

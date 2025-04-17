@@ -15,7 +15,7 @@ auffinger.ben-arous.ea:09:poisson
      journal       = {Ann. Inst. Henri Poincar\'e{} Probab. Stat.},
      mrclass       = {60B20 (15B52 60G52)},
      mrnumber      = {2548495},
-     mrreviewer    = {Walid Hachem},
+     mrreviewer    = {Walid\ Hachem},
      number        = {3},
      pages         = {589--610},
      title         = {Poisson convergence for the largest eigenvalues of heavy tailed random matrices},

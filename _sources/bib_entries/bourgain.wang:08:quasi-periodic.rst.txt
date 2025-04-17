@@ -15,7 +15,7 @@ bourgain.wang:08:quasi-periodic
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {35R60 (35B15 35B25 60H15 82B44)},
      mrnumber      = {2349895},
-     mrreviewer    = {Nikita Y. Ratanov},
+     mrreviewer    = {Nikita\ Y.\ Ratanov},
      number        = {1},
      pages         = {1--45},
      title         = {Quasi-periodic solutions of nonlinear random {S}chr\"{o}dinger equations},

@@ -15,7 +15,7 @@ rawal.shen.ea:15:spreading
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {45K05 (35R09 47G20 92D25)},
      mrnumber      = {3285840},
-     mrreviewer    = {Joseph L. Shomberg},
+     mrreviewer    = {Joseph\ L.\ Shomberg},
      number        = {4},
      pages         = {1609--1640},
      title         = {Spreading speeds and traveling waves of nonlocal monostable equations in time and space periodic habitats},

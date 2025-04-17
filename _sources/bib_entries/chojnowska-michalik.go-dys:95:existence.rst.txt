@@ -15,7 +15,7 @@ chojnowska-michalik.go-dys:95:existence
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H15},
      mrnumber      = {1339737},
-     mrreviewer    = {Marek Capi\'nski},
+     mrreviewer    = {Marek\ Capi\'nski},
      number        = {3},
      pages         = {331--356},
      title         = {Existence, uniqueness and invariant measures for stochastic semilinear equations on {H}ilbert spaces},

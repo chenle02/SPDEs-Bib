@@ -15,7 +15,7 @@ yang.zhai:16:spdes
      journal       = {J. Math. Anal. Appl.},
      mrclass       = {35R60 (35A01 35A02 60H15)},
      mrnumber      = {3466075},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {2},
      pages         = {991--1009},
      title         = {S{PDE}s with two reflecting walls and two singular drifts},

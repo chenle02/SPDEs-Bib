@@ -15,7 +15,7 @@ crauel.flandoli:98:hausdorff
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {58F12 (28A78 34C35 34G20 35Q30)},
      mrnumber      = {1646622},
-     mrreviewer    = {Arnaud Debussche},
+     mrreviewer    = {Arnaud\ Debussche},
      number        = {3},
      pages         = {449--474},
      title         = {Hausdorff dimension of invariant sets for random dynamical systems},

@@ -15,7 +15,7 @@ feldheim.paquette.ea:15:regularization
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {60B20},
      mrnumber      = {3417690},
-     mrreviewer    = {Sandrine Dallaporta},
+     mrreviewer    = {Sandrine\ Dallaporta},
      number        = {18},
      pages         = {8724--8751},
      title         = {Regularization of non-normal matrices by {G}aussian noise},

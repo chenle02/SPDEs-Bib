@@ -15,7 +15,7 @@ bourgain:79:sets
      journal       = {Studia Math.},
      mrclass       = {46B22 (46B05)},
      mrnumber      = {579734},
-     mrreviewer    = {John M. Baker},
+     mrreviewer    = {John\ M.\ Baker},
      number        = {3},
      pages         = {291--297},
      title         = {Sets with the {R}adon-{N}ikod\'{y}m property in conjugate {B}anach space},

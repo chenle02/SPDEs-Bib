@@ -15,7 +15,7 @@ bourgain:84:dimension
      journal       = {Israel J. Math.},
      mrclass       = {46J15 (30H05 32A35)},
      mrnumber      = {776311},
-     mrreviewer    = {P. Wojtaszczyk},
+     mrreviewer    = {P.\ Wojtaszczyk},
      number        = {4},
      pages         = {289--304},
      title         = {The dimension conjecture for polydisc algebras},

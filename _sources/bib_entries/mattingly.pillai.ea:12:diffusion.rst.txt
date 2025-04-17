@@ -15,7 +15,7 @@ mattingly.pillai.ea:12:diffusion
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60J22 (60H15 60J20 65C05)},
      mrnumber      = {2977981},
-     mrreviewer    = {Gon\c calo Dos Reis},
+     mrreviewer    = {Gon\c calo\ Dos Reis},
      number        = {3},
      pages         = {881--930},
      title         = {Diffusion limits of the random walk {M}etropolis algorithm in high dimensions},

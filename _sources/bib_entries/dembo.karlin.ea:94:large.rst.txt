@@ -14,7 +14,7 @@ dembo.karlin.ea:94:large
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60F10 (60J30)},
      mrnumber      = {1272734},
-     mrreviewer    = {Karl Grill},
+     mrreviewer    = {Karl\ Grill},
      number        = {2},
      pages         = {432--447},
      title         = {Large exceedances for multidimensional {L}\'{e}vy processes},

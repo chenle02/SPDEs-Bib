@@ -15,7 +15,7 @@ venakides.deift.ea:91:toda
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35Q53 (34K25 34K99 70K99)},
      mrnumber      = {1127056},
-     mrreviewer    = {C. Tomei},
+     mrreviewer    = {C.\ Tomei},
      number        = {8-9},
      pages         = {1171--1242},
      title         = {The {T}oda shock problem},

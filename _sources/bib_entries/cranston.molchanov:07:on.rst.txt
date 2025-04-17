@@ -14,7 +14,7 @@ cranston.molchanov:07:on
      isbn          = {978-0-8218-4089-4},
      mrclass       = {60K35 (60K40 82B41 82D60)},
      mrnumber      = {2352264},
-     mrreviewer    = {Giambattista Giacomin},
+     mrreviewer    = {Giambattista\ Giacomin},
      pages         = {97--112},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {CRM Proc. Lecture Notes},

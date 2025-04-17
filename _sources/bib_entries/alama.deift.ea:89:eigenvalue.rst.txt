@@ -14,7 +14,7 @@ alama.deift.ea:89:eigenvalue
      journal       = {Comm. Math. Phys.},
      mrclass       = {35J10 (35P20 47A10 47F05 81C12)},
      mrnumber      = {985401},
-     mrreviewer    = {B. Hellwig},
+     mrreviewer    = {B.\ Hellwig},
      number        = {2},
      pages         = {291--321},
      title         = {Eigenvalue branches of the {S}chr\"odinger operator {$H-\lambda W$} in a gap of {\$\sigma(H)\$}},

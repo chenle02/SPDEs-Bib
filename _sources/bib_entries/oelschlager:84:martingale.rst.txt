@@ -14,7 +14,7 @@ oelschlager:84:martingale
      journal       = {Ann. Probab.},
      mrclass       = {60K35 (82A05)},
      mrnumber      = {735849},
-     mrreviewer    = {T. M. Liggett},
+     mrreviewer    = {T.\ M.\ Liggett},
      number        = {2},
      pages         = {458--479},
      title         = {A martingale approach to the law of large numbers for weakly interacting stochastic processes},

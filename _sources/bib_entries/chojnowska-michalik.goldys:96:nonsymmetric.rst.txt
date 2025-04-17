@@ -15,7 +15,7 @@ chojnowska-michalik.goldys:96:nonsymmetric
      journal       = {J. Math. Kyoto Univ.},
      mrclass       = {60J35 (47D07)},
      mrnumber      = {1417822},
-     mrreviewer    = {Joerg-Uwe Loebus},
+     mrreviewer    = {Joerg-Uwe\ Loebus},
      number        = {3},
      pages         = {481--498},
      title         = {Nonsymmetric {O}rnstein-{U}hlenbeck semigroup as second quantized operator},

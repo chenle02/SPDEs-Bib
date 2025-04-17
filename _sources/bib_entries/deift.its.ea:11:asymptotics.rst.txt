@@ -15,7 +15,7 @@ deift.its.ea:11:asymptotics
      journal       = {Ann. of Math. (2)},
      mrclass       = {47B35 (11M50 15A15 30E25 42C05 47B38)},
      mrnumber      = {2831118},
-     mrreviewer    = {A. B\"ottcher},
+     mrreviewer    = {A.\ B\"ottcher},
      number        = {2},
      pages         = {1243--1299},
      title         = {Asymptotics of {T}oeplitz, {H}ankel, and {T}oeplitz+{H}ankel determinants with {F}isher-{H}artwig singularities},

@@ -15,7 +15,7 @@ flandoli.gubinelli:05:statistics
      journal       = {Electron. J. Probab.},
      mrclass       = {76F55 (60G60 76B47 76M35)},
      mrnumber      = {2164032},
-     mrreviewer    = {Anna Amirdjanova},
+     mrreviewer    = {Anna\ Amirdjanova},
      pages         = {no. 25, 865--900},
      title         = {Statistics of a vortex filament model},
      url           = {https://doi.org/10.1214/EJP.v10-267},

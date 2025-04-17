@@ -15,7 +15,7 @@ enaud.derrida:04:large
      journal       = {J. Statist. Phys.},
      mrclass       = {82C22 (60F10 60K35)},
      mrnumber      = {2035624},
-     mrreviewer    = {Ellen Saada},
+     mrreviewer    = {Ellen\ Saada},
      number        = {3-4},
      pages         = {537--562},
      title         = {Large deviation functional of the weakly asymmetric exclusion process},

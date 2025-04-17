@@ -15,7 +15,7 @@ basak.paquette.ea:20:spectrum
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60B20},
      mrnumber      = {4127869},
-     mrreviewer    = {Maxim L. Yattselev},
+     mrreviewer    = {Maxim\ L.\ Yattselev},
      number        = {7},
      pages         = {4999--5023},
      title         = {Spectrum of random perturbations of {T}oeplitz matrices with finite symbols},

@@ -14,7 +14,7 @@ cranston.le-jan:89:on
      journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
      mrclass       = {60J65 (60H10)},
      mrnumber      = {1001020},
-     mrreviewer    = {Pierre-Louis Lions},
+     mrreviewer    = {Pierre-Louis\ Lions},
      number        = {2},
      pages         = {99--107},
      title         = {On the noncoalescence of a two point {B}rownian motion reflecting on a circle},

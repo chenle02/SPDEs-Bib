@@ -15,7 +15,7 @@ flandoli.romito:06:markov
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {60H15 (35Q30 35R60 76D05 76D06 76M35)},
      mrnumber      = {2241958},
-     mrreviewer    = {Hongjun Gao},
+     mrreviewer    = {Hongjun\ Gao},
      number        = {1},
      pages         = {47--50},
      title         = {Markov selections and their regularity for the three-dimensional stochastic {N}avier-{S}tokes equations},

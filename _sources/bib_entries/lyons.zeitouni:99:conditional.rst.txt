@@ -15,7 +15,7 @@ lyons.zeitouni:99:conditional
      journal       = {Ann. Probab.},
      mrclass       = {60J65 (60E15 60H05 60J60)},
      mrnumber      = {1742886},
-     mrreviewer    = {David Nualart},
+     mrreviewer    = {David\ Nualart},
      number        = {4},
      pages         = {1738--1749},
      title         = {Conditional exponential moments for iterated {W}iener integrals},

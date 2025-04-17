@@ -15,7 +15,7 @@ bourgain:00:invariant
      journal       = {Comm. Math. Phys.},
      mrclass       = {37K05 (35Q55 82C05)},
      mrnumber      = {1777342},
-     mrreviewer    = {Kirill L. Vaninsky},
+     mrreviewer    = {Kirill\ L.\ Vaninsky},
      number        = {3},
      pages         = {605--620},
      title         = {Invariant measures for {NLS} in infinite volume},

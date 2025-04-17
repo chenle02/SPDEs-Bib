@@ -15,7 +15,7 @@ bourgain.gamburd.ea:16:markoff
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {11G05 (14G15)},
      mrnumber      = {3456887},
-     mrreviewer    = {John L. Boxall},
+     mrreviewer    = {John\ L.\ Boxall},
      number        = {2},
      pages         = {131--135},
      title         = {Markoff triples and strong approximation},

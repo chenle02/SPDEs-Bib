@@ -15,7 +15,7 @@ barral.seuret:09:singularity
      journal       = {Ergodic Theory Dynam. Systems},
      mrclass       = {28A80 (37C45)},
      mrnumber      = {2529640},
-     mrreviewer    = {Manav Das},
+     mrreviewer    = {Manav\ Das},
      number        = {4},
      pages         = {1075--1095},
      title         = {The singularity spectrum of the inverse of cookie-cutters},

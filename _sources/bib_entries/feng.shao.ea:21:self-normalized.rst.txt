@@ -15,7 +15,7 @@ feng.shao.ea:21:self-normalized
      journal       = {J. Theoret. Probab.},
      mrclass       = {60F10 (60G50 60K37)},
      mrnumber      = {4207482},
-     mrreviewer    = {Elena Kosygina},
+     mrreviewer    = {Elena\ Kosygina},
      number        = {1},
      pages         = {103--124},
      title         = {Self-normalized moderate deviations for random walk in random scenery},

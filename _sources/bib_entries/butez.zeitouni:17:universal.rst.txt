@@ -15,7 +15,7 @@ butez.zeitouni:17:universal
      journal       = {Electron. Commun. Probab.},
      mrclass       = {60F10 (60G99)},
      mrnumber      = {3607801},
-     mrreviewer    = {Maxim L. Yattselev},
+     mrreviewer    = {Maxim\ L.\ Yattselev},
      pages         = {Paper No. 6, 10},
      title         = {Universal large deviations for {K}ac polynomials},
      url           = {https://doi.org/10.1214/16-ECP33},

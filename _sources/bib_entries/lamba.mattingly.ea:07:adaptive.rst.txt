@@ -15,7 +15,7 @@ lamba.mattingly.ea:07:adaptive
      journal       = {IMA J. Numer. Anal.},
      mrclass       = {60H35 (60H10 65C30)},
      mrnumber      = {2337577},
-     mrreviewer    = {Peter E. Kloeden},
+     mrreviewer    = {Peter\ E.\ Kloeden},
      number        = {3},
      pages         = {479--506},
      title         = {An adaptive {E}uler-{M}aruyama scheme for {SDE}s: convergence and stability},

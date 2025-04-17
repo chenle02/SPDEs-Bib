@@ -15,7 +15,7 @@ bourgain.vu.ea:10:on
      journal       = {J. Funct. Anal.},
      mrclass       = {60B20},
      mrnumber      = {2557947},
-     mrreviewer    = {Guangyu Yang},
+     mrreviewer    = {Guangyu\ Yang},
      number        = {2},
      pages         = {559--603},
      title         = {On the singularity probability of discrete random matrices},

@@ -15,7 +15,7 @@ kesten.spitzer:63:ratio
      journal       = {J. Analyse Math.},
      mrclass       = {60.66},
      mrnumber      = {162279},
-     mrreviewer    = {J. Gillis},
+     mrreviewer    = {J.\ Gillis},
      pages         = {285--322},
      title         = {Ratio theorems for random walks. {I}},
      url           = {https://doi.org/10.1007/BF02789989},

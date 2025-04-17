@@ -14,7 +14,7 @@ kocubeui:77:extensions
      journal       = {Sibirsk. Mat. \v{Z}.},
      mrclass       = {47B25},
      mrnumber      = {458227},
-     mrreviewer    = {E. Durszt},
+     mrreviewer    = {E.\ Durszt},
      number        = {2},
      pages         = {314--320, 478},
      title         = {Extensions of a nondensely defined symmetric operator},

@@ -15,7 +15,7 @@ bourgain.milman:87:new
      journal       = {Invent. Math.},
      mrclass       = {52A40 (52A20)},
      mrnumber      = {880954},
-     mrreviewer    = {W. J. Firey},
+     mrreviewer    = {W.\ J.\ Firey},
      number        = {2},
      pages         = {319--340},
      title         = {New volume ratio properties for convex symmetric bodies in {${\bf R}^n$}},

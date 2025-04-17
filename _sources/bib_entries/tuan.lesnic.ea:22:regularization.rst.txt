@@ -15,7 +15,7 @@ tuan.lesnic.ea:22:regularization
      journal       = {J. Inverse Ill-Posed Probl.},
      mrclass       = {35R60 (26A33 35B65 35R11)},
      mrnumber      = {4431341},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {3},
      pages         = {351--362},
      title         = {Regularization of the backward stochastic heat conduction problem},

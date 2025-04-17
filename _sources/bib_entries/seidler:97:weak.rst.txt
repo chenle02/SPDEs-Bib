@@ -15,7 +15,7 @@ seidler:97:weak
      journal       = {Stochastic Anal. Appl.},
      mrclass       = {60H10 (60F17 60J60)},
      mrnumber      = {1454096},
-     mrreviewer    = {Hisao Watanabe},
+     mrreviewer    = {Hisao\ Watanabe},
      number        = {3},
      pages         = {399--417},
      title         = {Weak convergence of infinite-dimensional diffusions},

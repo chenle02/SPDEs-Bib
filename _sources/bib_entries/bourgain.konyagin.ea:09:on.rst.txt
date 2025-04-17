@@ -15,7 +15,7 @@ bourgain.konyagin.ea:09:on
      journal       = {Acta Arith.},
      mrclass       = {11L07 (11A07 11A15)},
      mrnumber      = {2557852},
-     mrreviewer    = {Jeffrey O. Shallit},
+     mrreviewer    = {Jeffrey\ O.\ Shallit},
      number        = {1},
      pages         = {43--55},
      title         = {On the smallest pseudopower},

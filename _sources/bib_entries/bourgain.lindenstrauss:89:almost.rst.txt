@@ -14,7 +14,7 @@ bourgain.lindenstrauss:89:almost
      isbn          = {3-540-51303-5},
      mrclass       = {46B20 (52A20)},
      mrnumber      = {1008730},
-     mrreviewer    = {Stephen J. Dilworth},
+     mrreviewer    = {Stephen\ J.\ Dilworth},
      pages         = {278--288},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

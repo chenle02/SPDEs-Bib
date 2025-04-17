@@ -15,7 +15,7 @@ zeitouni.zakai:94:erratum
      journal       = {SIAM J. Control Optim.},
      mrclass       = {93E20 (49K45)},
      mrnumber      = {1280237},
-     mrreviewer    = {Jean Picard},
+     mrreviewer    = {Jean\ Picard},
      number        = {4},
      pages         = {1194},
      title         = {Erratum: ``{O}n the optimal tracking problem'' [{SIAM} {J}. {C}ontrol {O}ptim. {\bf 30} (1992), no. 2, 426--439; {MR}1149077 (92m:93054)]},

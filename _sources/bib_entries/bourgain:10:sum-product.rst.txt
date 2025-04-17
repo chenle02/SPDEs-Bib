@@ -14,7 +14,7 @@ bourgain:10:sum-product
      isbn          = {978-0-387-37029-3},
      mrclass       = {11L07 (11B30 11L05 11T23)},
      mrnumber      = {2744741},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      pages         = {9--38},
      publisher     = {Springer, New York},
      title         = {Sum-product theorems and applications},

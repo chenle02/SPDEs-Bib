@@ -14,7 +14,7 @@ cowan.zabczyk:76:new
      journal       = {Bull. Acad. Polon. Sci. S\'{e}r. Sci. Math. Astronom. Phys.},
      mrclass       = {60G40 (62L15)},
      mrnumber      = {428424},
-     mrreviewer    = {S. M. Samuels},
+     mrreviewer    = {S.\ M.\ Samuels},
      number        = {9},
      pages         = {773--778},
      title         = {A new version of the best choice problem},

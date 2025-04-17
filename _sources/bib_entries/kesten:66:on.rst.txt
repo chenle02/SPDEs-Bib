@@ -15,9 +15,9 @@ kesten:66:on
      journal       = {Acta Arith.},
      mrclass       = {10.33},
      mrnumber      = {209253},
-     mrreviewer    = {P. Sz\"usz},
+     mrreviewer    = {P.\ Sz\"usz},
      pages         = {193--212},
-     title         = {On a conjecture of {E}rd\H os and {S}z\"usz related to uniform distribution {${\rm mod} 1$}},
+     title         = {On a conjecture of {E}rd\H os and {S}z\"usz related to uniform distribution {${\rm mod}\ 1$}},
      url           = {https://doi.org/10.4064/aa-12-2-193-212},
      volume        = {12},
      year          = {1966/67}

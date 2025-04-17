@@ -15,7 +15,7 @@ kupiainen.rhodes.ea:18:dozz
      journal       = {J. High Energy Phys.},
      mrclass       = {81T40 (83C47)},
      mrnumber      = {3832670},
-     mrreviewer    = {Lance W. Nielsen},
+     mrreviewer    = {Lance\ W.\ Nielsen},
      number        = {5},
      pages         = {094, front matter+23},
      title         = {The {DOZZ} formula from the path integral},

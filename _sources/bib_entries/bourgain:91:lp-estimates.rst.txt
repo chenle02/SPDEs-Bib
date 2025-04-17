@@ -15,7 +15,7 @@ bourgain:91:lp-estimates
      journal       = {Geom. Funct. Anal.},
      mrclass       = {42B10 (42B20 47G10)},
      mrnumber      = {1132294},
-     mrreviewer    = {Sundaram Thangavelu},
+     mrreviewer    = {Sundaram\ Thangavelu},
      number        = {4},
      pages         = {321--374},
      title         = {{$L^p$}-estimates for oscillatory integrals in several variables},

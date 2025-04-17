@@ -15,7 +15,7 @@ bodineau.derrida.ea:08:long
      journal       = {J. Stat. Phys.},
      mrclass       = {82C26 (82C70)},
      mrnumber      = {2462009},
-     mrreviewer    = {Christian Dogbe},
+     mrreviewer    = {Christian\ Dogbe},
      number        = {6},
      pages         = {1013--1031},
      title         = {Long range correlations and phase transitions in non-equilibrium diffusive systems},

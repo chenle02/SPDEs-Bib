@@ -15,7 +15,7 @@ bourgain.davis:86:martingale
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {46E40 (42B20 46B99 60G46)},
      mrnumber      = {825718},
-     mrreviewer    = {Gilles Pisier},
+     mrreviewer    = {Gilles\ Pisier},
      number        = {2},
      pages         = {501--515},
      title         = {Martingale transforms and complex uniform convexity},

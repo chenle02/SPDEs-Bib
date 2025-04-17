@@ -15,7 +15,7 @@ armstrong.zeitouni:16:local
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60G42 (93E20)},
      mrnumber      = {3513596},
-     mrreviewer    = {Dominique L\'{e}pingle},
+     mrreviewer    = {Dominique\ L\'{e}pingle},
      number        = {3},
      pages         = {1467--1494},
      title         = {Local asymptotics for controlled martingales},

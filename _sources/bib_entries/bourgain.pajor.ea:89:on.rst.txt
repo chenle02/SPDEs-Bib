@@ -14,7 +14,7 @@ bourgain.pajor.ea:89:on
      isbn          = {3-540-51303-5},
      mrclass       = {47B10 (46B10)},
      mrnumber      = {1008716},
-     mrreviewer    = {Bernd Carl},
+     mrreviewer    = {Bernd\ Carl},
      pages         = {50--63},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

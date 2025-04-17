@@ -14,7 +14,7 @@ bourgain:00:positive
      isbn          = {3-540-41070-8},
      mrclass       = {81Q10 (39A70 47B39 47N50)},
      mrnumber      = {1796712},
-     mrreviewer    = {Jean-Michel Ghez},
+     mrreviewer    = {Jean-Michel\ Ghez},
      pages         = {37--66},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

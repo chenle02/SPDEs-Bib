@@ -15,7 +15,7 @@ bourgain.pisier:83:construction
      journal       = {Bol. Soc. Brasil. Mat.},
      mrclass       = {46B20 (46B22)},
      mrnumber      = {756904},
-     mrreviewer    = {S. V. Kislyakov},
+     mrreviewer    = {S.\ V.\ Kislyakov},
      number        = {2},
      pages         = {109--123},
      title         = {A construction of {$\mathscr{L}_{infty}$}-spaces and related {B}anach spaces},

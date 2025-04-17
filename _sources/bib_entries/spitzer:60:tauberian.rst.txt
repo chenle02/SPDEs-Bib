@@ -15,7 +15,7 @@ spitzer:60:tauberian
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60.00},
      mrnumber      = {111066},
-     mrreviewer    = {J. L. Snell},
+     mrreviewer    = {J.\ L.\ Snell},
      pages         = {150--169},
      title         = {A {T}auberian theorem and its probability interpretation},
      url           = {https://doi.org/10.2307/1993283},

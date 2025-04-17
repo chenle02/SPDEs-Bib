@@ -14,7 +14,7 @@ bourgain.lindenstrauss:91:on
      isbn          = {3-540-54024-5},
      mrclass       = {52C17},
      mrnumber      = {1122618},
-     mrreviewer    = {Keith Ball},
+     mrreviewer    = {Keith\ Ball},
      pages         = {138--144},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

@@ -15,7 +15,7 @@ makarov.smirnov:03:on
      journal       = {J. London Math. Soc. (2)},
      mrclass       = {37F10 (30C85 37C30 37D35)},
      mrnumber      = {1956144},
-     mrreviewer    = {Feliks Przytycki},
+     mrreviewer    = {Feliks\ Przytycki},
      number        = {2},
      pages         = {417--432},
      title         = {On thermodynamics of rational maps. {II}. {N}on-recurrent maps},

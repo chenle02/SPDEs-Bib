@@ -15,7 +15,7 @@ e.mattingly.ea:01:gibbsian
      journal       = {Comm. Math. Phys.},
      mrclass       = {76D05 (35Q30 37L40 37N10 60H15)},
      mrnumber      = {1868992},
-     mrreviewer    = {Bohdan Maslowski},
+     mrreviewer    = {Bohdan\ Maslowski},
      note          = {Dedicated to Joel L. Lebowitz},
      number        = {1},
      pages         = {83--106},

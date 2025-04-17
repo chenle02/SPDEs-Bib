@@ -15,7 +15,7 @@ chiodaroli.feireisl.ea:21:ill-posedness
      journal       = {Indiana Univ. Math. J.},
      mrclass       = {76N10 (35Q31 60H05 60H15)},
      mrnumber      = {4318474},
-     mrreviewer    = {Olga S. Rozanova},
+     mrreviewer    = {Olga\ S.\ Rozanova},
      number        = {4},
      pages         = {1267--1282},
      title         = {Ill-posedness for the full {E}uler system driven by multiplicative white noise},

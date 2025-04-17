@@ -15,7 +15,7 @@ bourgain.fuchs:12:on
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {11E10 (11N64)},
      mrnumber      = {3006169},
-     mrreviewer    = {Valentin Blomer},
+     mrreviewer    = {Valentin\ Blomer},
      number        = {24},
      pages         = {5505--5553},
      title         = {On representation of integers by binary quadratic forms},

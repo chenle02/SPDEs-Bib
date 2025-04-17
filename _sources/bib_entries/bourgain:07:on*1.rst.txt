@@ -15,7 +15,7 @@ bourgain:07:on*1
      journal       = {Geom. Funct. Anal.},
      mrclass       = {68R10 (11L07 60C05 68W20)},
      mrnumber      = {2306652},
-     mrreviewer    = {Alessandro Conflitti},
+     mrreviewer    = {Alessandro\ Conflitti},
      number        = {1},
      pages         = {33--57},
      title         = {On the construction of affine extractors},

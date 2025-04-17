@@ -15,7 +15,7 @@ da-prato.flandoli.ea:21:continuity
      journal       = {Stoch. Partial Differ. Equ. Anal. Comput.},
      mrclass       = {35Q31 (76B03)},
      mrnumber      = {4261332},
-     mrreviewer    = {Xinyu He},
+     mrreviewer    = {Xinyu\ He},
      number        = {2},
      pages         = {491--509},
      title         = {Continuity equation in {L}log{L} for the 2{D} {E}uler equations under the enstrophy measure},

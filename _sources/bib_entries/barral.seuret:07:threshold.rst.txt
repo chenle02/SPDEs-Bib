@@ -14,7 +14,7 @@ barral.seuret:07:threshold
      journal       = {Real Anal. Exchange},
      mrclass       = {60F10 (28A80)},
      mrnumber      = {2369855},
-     mrreviewer    = {Lars Olsen},
+     mrreviewer    = {Lars\ Olsen},
      number        = {2},
      pages         = {455--472},
      title         = {Threshold and {H}ausdorff spectrum of discontinuous measures},

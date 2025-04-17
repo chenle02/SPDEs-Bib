@@ -15,7 +15,7 @@ baik.kriecherbauer.ea:03:uniform
      journal       = {Int. Math. Res. Not.},
      mrclass       = {41A60 (30C10 33C45 42C05 82B05)},
      mrnumber      = {1952523},
-     mrreviewer    = {Peter D. Dragnev},
+     mrreviewer    = {Peter\ D.\ Dragnev},
      number        = {15},
      pages         = {821--858},
      title         = {Uniform asymptotics for polynomials orthogonal with respect to a general class of discrete weights and universality results for associated ensembles: announcement of results},

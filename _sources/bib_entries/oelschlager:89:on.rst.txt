@@ -15,7 +15,7 @@ oelschlager:89:on
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60K35 (35K57 60J60)},
      mrnumber      = {1002901},
-     mrreviewer    = {Ralf Manthey},
+     mrreviewer    = {Ralf\ Manthey},
      number        = {4},
      pages         = {565--586},
      title         = {On the derivation of reaction-diffusion equations as limit dynamics of systems of moderately interacting stochastic processes},

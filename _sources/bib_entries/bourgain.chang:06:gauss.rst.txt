@@ -15,7 +15,7 @@ bourgain.chang:06:gauss
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {11T24},
      mrnumber      = {2225868},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      number        = {9},
      pages         = {643--646},
      title         = {A {G}auss sum estimate in arbitrary finite fields},

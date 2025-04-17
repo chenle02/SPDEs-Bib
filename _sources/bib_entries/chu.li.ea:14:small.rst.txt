@@ -15,7 +15,7 @@ chu.li.ea:14:small
      journal       = {Bernoulli},
      mrclass       = {60F10 (60J80)},
      mrnumber      = {3160586},
-     mrreviewer    = {Felipe Torres},
+     mrreviewer    = {Felipe\ Torres},
      number        = {1},
      pages         = {377--393},
      title         = {Small value probabilities for supercritical branching processes with immigration},

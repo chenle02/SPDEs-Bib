@@ -15,7 +15,7 @@ collins.gaudreau-lamarre:17:-freeness
      journal       = {Adv. in Appl. Math.},
      mrclass       = {46L54 (20C07 46L06 46L53)},
      mrnumber      = {3573218},
-     mrreviewer    = {Florent Benaych-Georges},
+     mrreviewer    = {Florent\ Benaych-Georges},
      pages         = {47--80},
      title         = {{$\ast$}-freeness in finite tensor products},
      url           = {https://doi.org/10.1016/j.aam.2016.09.002},

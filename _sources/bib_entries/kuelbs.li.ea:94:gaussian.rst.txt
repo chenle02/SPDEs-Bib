@@ -15,7 +15,7 @@ kuelbs.li.ea:94:gaussian
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60B05 (60B12 60G15)},
      mrnumber      = {1258983},
-     mrreviewer    = {Z. G. Gorgadze},
+     mrreviewer    = {Z.\ G.\ Gorgadze},
      number        = {2},
      pages         = {143--162},
      title         = {The {G}aussian measure of shifted balls},

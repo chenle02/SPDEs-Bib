@@ -15,7 +15,7 @@ bourgain.konyagin.ea:12:distribution
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {11B30},
      mrnumber      = {2920821},
-     mrreviewer    = {Tom Sanders},
+     mrreviewer    = {Tom\ Sanders},
      number        = {9},
      pages         = {1968--2009},
      title         = {Distribution of elements of cosets of small subgroups and applications},

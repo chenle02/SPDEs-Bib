@@ -15,7 +15,7 @@ ayache.shieh.ea:20:wavelet
      journal       = {Stochastics},
      mrclass       = {60G52 (60G17 60G18 60G60)},
      mrnumber      = {4037083},
-     mrreviewer    = {Anatoliy Malyarenko},
+     mrreviewer    = {Anatoliy\ Malyarenko},
      number        = {1},
      pages         = {1--23},
      title         = {Wavelet series representation and geometric properties of harmonizable fractional stable sheets},

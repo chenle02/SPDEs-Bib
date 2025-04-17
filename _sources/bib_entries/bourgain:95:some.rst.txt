@@ -13,7 +13,7 @@ bourgain:95:some
      isbn          = {0-691-08655-9},
      mrclass       = {42B15 (42B20 47B38)},
      mrnumber      = {1315543},
-     mrreviewer    = {Gary Sampson},
+     mrreviewer    = {Gary\ Sampson},
      pages         = {83--112},
      publisher     = {Princeton Univ. Press, Princeton, NJ},
      series        = {Princeton Math. Ser.},

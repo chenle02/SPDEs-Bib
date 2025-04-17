@@ -13,7 +13,7 @@ bourgain:86:vector-valued
      isbn          = {0-8247-7473-6},
      mrclass       = {42B20 (46E40 47B10)},
      mrnumber      = {830227},
-     mrreviewer    = {Mario Milman},
+     mrreviewer    = {Mario\ Milman},
      pages         = {1--19},
      publisher     = {Dekker, New York},
      series        = {Monogr. Textbooks Pure Appl. Math.},

@@ -15,7 +15,7 @@ zambotti:06:convergence
      journal       = {J. Evol. Equ.},
      mrclass       = {60H15 (35R60 47D07 47N30 60H10)},
      mrnumber      = {2267701},
-     mrreviewer    = {Jan I. Seidler},
+     mrreviewer    = {Jan\ I.\ Seidler},
      number        = {4},
      pages         = {601--619},
      title         = {Convergence of approximations of monotone gradient systems},

@@ -14,7 +14,7 @@ bourgain.lindenstrauss.ea:88:minkowski
      isbn          = {3-540-19353-7},
      mrclass       = {46B20 (46E99 52A20 52A22)},
      mrnumber      = {950975},
-     mrreviewer    = {G. Schechtman},
+     mrreviewer    = {G.\ Schechtman},
      pages         = {44--66},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

@@ -15,7 +15,7 @@ bourgain.lindenstrauss.ea:89:approximation
      journal       = {Acta Math.},
      mrclass       = {46B20 (52A25 52A45)},
      mrnumber      = {981200},
-     mrreviewer    = {T. Figiel},
+     mrreviewer    = {T.\ Figiel},
      number        = {1-2},
      pages         = {73--141},
      title         = {Approximation of zonoids by zonotopes},

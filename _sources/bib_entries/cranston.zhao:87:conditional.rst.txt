@@ -14,7 +14,7 @@ cranston.zhao:87:conditional
      journal       = {Comm. Math. Phys.},
      mrclass       = {35J10 (60J60 81C20)},
      mrnumber      = {910581},
-     mrreviewer    = {Ross Pinsky},
+     mrreviewer    = {Ross\ Pinsky},
      number        = {4},
      pages         = {613--625},
      title         = {Conditional transformation of drift formula and potential theory for {${1\over 2}\Delta +b(\cdot)\cdot\nabla$}},

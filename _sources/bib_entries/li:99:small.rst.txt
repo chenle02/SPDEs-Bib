@@ -15,7 +15,7 @@ li:99:small
      journal       = {J. Theoret. Probab.},
      mrclass       = {60G15 (60F10 60J65)},
      mrnumber      = {1729464},
-     mrreviewer    = {Endre Cs\'{a}ki},
+     mrreviewer    = {Endre\ Cs\'{a}ki},
      number        = {4},
      pages         = {971--984},
      title         = {Small deviations for {G}aussian {M}arkov processes under the sup-norm},

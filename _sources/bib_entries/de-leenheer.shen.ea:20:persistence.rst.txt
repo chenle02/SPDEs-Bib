@@ -15,7 +15,7 @@ de-leenheer.shen.ea:20:persistence
      journal       = {Nonlinear Anal. Real World Appl.},
      mrclass       = {35R09 (35C07)},
      mrnumber      = {4062344},
-     mrreviewer    = {Stanley Snelson},
+     mrreviewer    = {Stanley\ Snelson},
      pages         = {103110, 33},
      title         = {Persistence and extinction of nonlocal dispersal evolution equations in moving habitats},
      url           = {https://doi.org/10.1016/j.nonrwa.2020.103110},

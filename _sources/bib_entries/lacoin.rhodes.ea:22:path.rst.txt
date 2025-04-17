@@ -15,7 +15,7 @@ lacoin.rhodes.ea:22:path
      journal       = {Duke Math. J.},
      mrclass       = {81T40 (60D05 81S40 81T20)},
      mrnumber      = {4383250},
-     mrreviewer    = {Nizar Demni},
+     mrreviewer    = {Nizar\ Demni},
      number        = {3},
      pages         = {483--545},
      title         = {Path integral for quantum {M}abuchi {K}-energy},

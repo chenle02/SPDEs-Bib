@@ -15,7 +15,7 @@ shen.yi:96:ergodicity
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {58F39 (35B40 35K60 58F11)},
      mrnumber      = {1388876},
-     mrreviewer    = {Janusz Mierczy\'{n}ski},
+     mrreviewer    = {Janusz\ Mierczy\'{n}ski},
      number        = {2},
      pages         = {299--323},
      title         = {Ergodicity of minimal sets in scalar parabolic equations},

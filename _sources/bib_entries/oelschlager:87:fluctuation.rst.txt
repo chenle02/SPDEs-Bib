@@ -15,7 +15,7 @@ oelschlager:87:fluctuation
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60J60},
      mrnumber      = {876258},
-     mrreviewer    = {G. Leha},
+     mrreviewer    = {G.\ Leha},
      number        = {4},
      pages         = {591--616},
      title         = {A fluctuation theorem for moderately interacting diffusion processes},

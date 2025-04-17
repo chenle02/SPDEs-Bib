@@ -15,7 +15,7 @@ cranston:83:invariant
      journal       = {Z. Wahrsch. Verw. Gebiete},
      mrclass       = {60J60 (31A35 60J50)},
      mrnumber      = {722128},
-     mrreviewer    = {Uwe R\"{o}sler},
+     mrreviewer    = {Uwe\ R\"{o}sler},
      number        = {2},
      pages         = {161--180},
      title         = {Invariant {$\sigma $}-fields for a class of diffusions},

@@ -13,7 +13,7 @@ zabczyk:77:selection
      isbn          = {3-540-08406-1},
      mrclass       = {60G40 (62L15)},
      mrnumber      = {488270},
-     mrreviewer    = {S. M. Samuels},
+     mrreviewer    = {S.\ M.\ Samuels},
      pages         = {508--515},
      publisher     = {Springer, Berlin-New York},
      series        = {Lect. Notes Control Inf. Sci.},

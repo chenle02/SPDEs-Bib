@@ -15,7 +15,7 @@ lawley.mattingly.ea:14:sensitivity
      journal       = {Commun. Math. Sci.},
      mrclass       = {60J75 (37H15 60J27 93E15)},
      mrnumber      = {3210750},
-     mrreviewer    = {Yuhong Li},
+     mrreviewer    = {Yuhong\ Li},
      number        = {7},
      pages         = {1343--1352},
      title         = {Sensitivity to switching rates in stochastically switched {ODE}s},

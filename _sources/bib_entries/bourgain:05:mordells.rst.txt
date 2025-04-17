@@ -15,7 +15,7 @@ bourgain:05:mordells
      journal       = {J. Amer. Math. Soc.},
      mrclass       = {11L07 (11L05)},
      mrnumber      = {2137982},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      number        = {2},
      pages         = {477--499},
      title         = {Mordell's exponential sum estimate revisited},

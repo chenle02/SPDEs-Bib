@@ -15,7 +15,7 @@ flandoli.leimbach:16:mean
      journal       = {Discrete Contin. Dyn. Syst. Ser. B},
      mrclass       = {60K35 (60F17 82C22)},
      mrnumber      = {3567800},
-     mrreviewer    = {Patr\'{i}cia Gon\c{c}alves},
+     mrreviewer    = {Patr\'{i}cia\ Gon\c{c}alves},
      number        = {9},
      pages         = {3029--3052},
      title         = {Mean field limit with proliferation},

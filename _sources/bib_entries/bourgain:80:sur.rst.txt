@@ -14,7 +14,7 @@ bourgain:80:sur
      journal       = {C. R. Acad. Sci. Paris S\'{e}r. A-B},
      mrclass       = {46E15 (46J15)},
      mrnumber      = {604994},
-     mrreviewer    = {B. Korenblum},
+     mrreviewer    = {B.\ Korenblum},
      number        = {2},
      pages         = {A111--A112},
      title         = {Sur les isomorphismes entre espaces {$H\sp{1}$}},

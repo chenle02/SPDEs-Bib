@@ -15,7 +15,7 @@ brzezniak.razafimandimby:16:irreducibility
      journal       = {Discrete Contin. Dyn. Syst. Ser. B},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {3483552},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {4},
      pages         = {1051--1077},
      title         = {Irreducibility and strong {F}eller property for stochastic evolution equations in {B}anach spaces},

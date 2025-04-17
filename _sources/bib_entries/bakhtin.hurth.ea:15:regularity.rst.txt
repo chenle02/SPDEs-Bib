@@ -15,7 +15,7 @@ bakhtin.hurth.ea:15:regularity
      journal       = {Nonlinearity},
      mrclass       = {37H10 (60J25)},
      mrnumber      = {3424891},
-     mrreviewer    = {Sascha Troscheit},
+     mrreviewer    = {Sascha\ Troscheit},
      number        = {11},
      pages         = {3755--3787},
      title         = {Regularity of invariant densities for 1{D} systems with random switching},

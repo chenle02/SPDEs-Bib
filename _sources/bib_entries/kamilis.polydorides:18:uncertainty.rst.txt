@@ -15,7 +15,7 @@ kamilis.polydorides:18:uncertainty
      journal       = {SIAM/ASA J. Uncertain. Quantif.},
      mrclass       = {35Q61 (35R60 62M40 65D30 65N30)},
      mrnumber      = {3860127},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {4},
      pages         = {1295--1334},
      title         = {Uncertainty quantification for low-frequency, time-harmonic {M}axwell equations with stochastic conductivity models},

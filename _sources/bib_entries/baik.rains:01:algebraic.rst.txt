@@ -15,7 +15,7 @@ baik.rains:01:algebraic
      journal       = {Duke Math. J.},
      mrclass       = {05E15 (05A15 05E05 60C05)},
      mrnumber      = {1844203},
-     mrreviewer    = {Ira Gessel},
+     mrreviewer    = {Ira\ Gessel},
      number        = {1},
      pages         = {1--65},
      title         = {Algebraic aspects of increasing subsequences},

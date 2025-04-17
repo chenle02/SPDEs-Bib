@@ -15,7 +15,7 @@ guionnet.zeitouni:02:large
      journal       = {J. Funct. Anal.},
      mrclass       = {60F10 (42B25 43A80 60K35)},
      mrnumber      = {1883414},
-     mrreviewer    = {Michael Voit},
+     mrreviewer    = {Michael\ Voit},
      number        = {2},
      pages         = {461--515},
      title         = {Large deviations asymptotics for spherical integrals},

@@ -15,7 +15,7 @@ luchko:08:integral
      journal       = {Integral Transforms Spec. Funct.},
      mrclass       = {44A15 (33C60 44A10 44A20 45E10)},
      mrnumber      = {2467094},
-     mrreviewer    = {K. C. Gupta},
+     mrreviewer    = {K.\ C.\ Gupta},
      number        = {11-12},
      pages         = {809--851},
      title         = {Integral transforms of the {M}ellin convolution type and their generating operators},

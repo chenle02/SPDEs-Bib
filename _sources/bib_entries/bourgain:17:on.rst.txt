@@ -13,7 +13,7 @@ bourgain:17:on
      isbn          = {978-3-319-45281-4; 978-3-319-45282-1},
      mrclass       = {22D40 (60G50)},
      mrnumber      = {3645114},
-     mrreviewer    = {S. G. Dani},
+     mrreviewer    = {S.\ G.\ Dani},
      pages         = {55--63},
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},

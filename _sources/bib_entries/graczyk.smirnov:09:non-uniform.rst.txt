@@ -15,7 +15,7 @@ graczyk.smirnov:09:non-uniform
      journal       = {Invent. Math.},
      mrclass       = {37F10 (37D25 37F35 37F45)},
      mrnumber      = {2470110},
-     mrreviewer    = {Henk Bruin},
+     mrreviewer    = {Henk\ Bruin},
      number        = {2},
      pages         = {335--415},
      title         = {Non-uniform hyperbolicity in complex dynamics},

@@ -14,7 +14,7 @@ mattingly.stuart:02:geometric
      journal       = {Markov Process. Related Fields},
      mrclass       = {60H10 (37A25 82C31)},
      mrnumber      = {1924935},
-     mrreviewer    = {Da-Quan Jiang},
+     mrreviewer    = {Da-Quan\ Jiang},
      note          = {Inhomogeneous random systems (Cergy-Pontoise, 2001)},
      number        = {2},
      pages         = {199--214},

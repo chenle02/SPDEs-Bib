@@ -14,7 +14,7 @@ mattingly.suidan:08:transition
      isbn          = {978-0-8218-4240-9},
      mrclass       = {60H15 (35Q53 35R60 60J60 76M35)},
      mrnumber      = {2411921},
-     mrreviewer    = {Azzouz Dermoune},
+     mrreviewer    = {Azzouz\ Dermoune},
      pages         = {409--418},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

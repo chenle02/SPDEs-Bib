@@ -14,7 +14,7 @@ lacoin.leblond:11:cutoff
      journal       = {ALEA Lat. Am. J. Probab. Math. Stat.},
      mrclass       = {60K35 (60B10)},
      mrnumber      = {2869447},
-     mrreviewer    = {Zhong Gen Su},
+     mrreviewer    = {Zhong\ Gen\ Su},
      pages         = {285--301},
      title         = {Cutoff phenomenon for the simple exclusion process on the complete graph},
      volume        = {8},

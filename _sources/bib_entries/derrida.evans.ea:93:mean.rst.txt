@@ -14,7 +14,7 @@ derrida.evans.ea:93:mean
      journal       = {Comm. Math. Phys.},
      mrclass       = {82B44 (60K35 82D30 82D60)},
      mrnumber      = {1233845},
-     mrreviewer    = {Aernout C. D. van Enter},
+     mrreviewer    = {Aernout\ C. D. van Enter},
      number        = {2},
      pages         = {221--244},
      title         = {Mean field theory of directed polymers with random complex weights},

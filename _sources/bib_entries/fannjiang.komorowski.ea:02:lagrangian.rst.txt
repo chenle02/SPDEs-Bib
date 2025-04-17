@@ -15,7 +15,7 @@ fannjiang.komorowski.ea:02:lagrangian
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60H10 (60G60 60H15 76F25 76M35)},
      mrnumber      = {1875332},
-     mrreviewer    = {Dominique L\'{e}pingle},
+     mrreviewer    = {Dominique\ L\'{e}pingle},
      number        = {2},
      pages         = {171--198},
      title         = {Lagrangian dynamics for a passive tracer in a class of {G}aussian {M}arkovian flows},

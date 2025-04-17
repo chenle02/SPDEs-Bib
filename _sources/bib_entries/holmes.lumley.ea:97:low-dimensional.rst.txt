@@ -15,7 +15,7 @@ holmes.lumley.ea:97:low-dimensional
      journal       = {Phys. Rep.},
      mrclass       = {76F20 (58F39 76M35)},
      mrnumber      = {1471174},
-     mrreviewer    = {P. L. Sulem},
+     mrreviewer    = {P.\ L.\ Sulem},
      number        = {4},
      pages         = {337--384},
      title         = {Low-dimensional models of coherent structures in turbulence},

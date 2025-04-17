@@ -15,7 +15,7 @@ bovier.klimovsky:08:fluctuations
      journal       = {J. Math. Phys.},
      mrclass       = {82B44 (60F99 60G15 60K40)},
      mrnumber      = {2484333},
-     mrreviewer    = {Nicoletta Cancrini},
+     mrreviewer    = {Nicoletta\ Cancrini},
      number        = {12},
      pages         = {125202, 27},
      title         = {Fluctuations of the partition function in the generalized random energy model with external field},

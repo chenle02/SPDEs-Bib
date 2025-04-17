@@ -14,7 +14,7 @@ zeitouni:00:map
      isbn          = {0-7923-8618-3},
      mrclass       = {60-02 (60G35 60J60 62M05)},
      mrnumber      = {1801489},
-     mrreviewer    = {Ornella Arcudi},
+     mrreviewer    = {Ornella\ Arcudi},
      pages         = {145--154},
      publisher     = {Kluwer Acad. Publ., Boston, MA},
      series        = {Kluwer Internat. Ser. Engrg. Comput. Sci.},

@@ -15,7 +15,7 @@ fedrizzi.flandoli.ea:17:regularity
      journal       = {Electron. J. Probab.},
      mrclass       = {60H15 (35R60 60H10 60H30)},
      mrnumber      = {3661662},
-     mrreviewer    = {Carles Rovira},
+     mrreviewer    = {Carles\ Rovira},
      pages         = {Paper No. 48, 42},
      title         = {Regularity of stochastic kinetic equations},
      url           = {https://doi.org/10.1214/17-EJP65},

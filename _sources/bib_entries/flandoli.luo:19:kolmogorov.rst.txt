@@ -15,7 +15,7 @@ flandoli.luo:19:kolmogorov
      journal       = {SIAM J. Math. Anal.},
      mrclass       = {35Q31 (35Q84 35R60)},
      mrnumber      = {3947288},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {3},
      pages         = {1761--1791},
      title         = {Kolmogorov equations associated to the stochastic two dimensional {E}uler equations},

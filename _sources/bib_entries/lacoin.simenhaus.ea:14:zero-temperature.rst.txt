@@ -15,7 +15,7 @@ lacoin.simenhaus.ea:14:zero-temperature
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {60K35 (82B20)},
      mrnumber      = {3293804},
-     mrreviewer    = {Peter Eichelsbacher},
+     mrreviewer    = {Peter\ Eichelsbacher},
      number        = {12},
      pages         = {2557--2615},
      title         = {Zero-temperature 2{D} stochastic {I}sing model and anisotropic curve-shortening flow},

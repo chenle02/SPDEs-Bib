@@ -14,7 +14,7 @@ dembo.peres.ea:96:tail
      journal       = {Comm. Math. Phys.},
      mrclass       = {60J15 (60J10)},
      mrnumber      = {1414305},
-     mrreviewer    = {Kiyoshi Kawazu},
+     mrreviewer    = {Kiyoshi\ Kawazu},
      number        = {3},
      pages         = {667--683},
      title         = {Tail estimates for one-dimensional random walk in random environment},

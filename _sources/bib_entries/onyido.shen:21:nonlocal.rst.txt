@@ -15,7 +15,7 @@ onyido.shen:21:nonlocal
      journal       = {J. Differential Equations},
      mrclass       = {45C05 (45K05 47A10 47B65 92D25)},
      mrnumber      = {4267553},
-     mrreviewer    = {S. N. Askhabov},
+     mrreviewer    = {S.\ N.\ Askhabov},
      pages         = {1--38},
      title         = {Nonlocal dispersal equations with almost periodic dependence. {I}. {P}rincipal spectral theory},
      url           = {https://doi.org/10.1016/j.jde.2021.05.050},

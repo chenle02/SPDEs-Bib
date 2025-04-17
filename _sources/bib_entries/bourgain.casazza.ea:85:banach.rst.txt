@@ -15,7 +15,7 @@ bourgain.casazza.ea:85:banach
      journal       = {Mem. Amer. Math. Soc.},
      mrclass       = {46B15},
      mrnumber      = {782647},
-     mrreviewer    = {M. I. Kadets},
+     mrreviewer    = {M.\ I.\ Kadets},
      number        = {322},
      pages         = {iv+111},
      title         = {Banach spaces with a unique unconditional basis, up to permutation},

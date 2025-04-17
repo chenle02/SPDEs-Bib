@@ -15,7 +15,7 @@ makarov.smirnov:00:on
      journal       = {Comm. Math. Phys.},
      mrclass       = {37F35 (37C30 37D35)},
      mrnumber      = {1773815},
-     mrreviewer    = {Feliks Przytycki},
+     mrreviewer    = {Feliks\ Przytycki},
      number        = {3},
      pages         = {705--743},
      title         = {On ``thermodynamics'' of rational maps. {I}. {N}egative spectrum},

@@ -13,7 +13,7 @@ zabczyk:79:on
      isbn          = {83-01-01492-X},
      mrclass       = {93E15 (60H10)},
      mrnumber      = {561486},
-     mrreviewer    = {T. K. Sirazetdinov},
+     mrreviewer    = {T.\ K.\ Sirazetdinov},
      pages         = {273--281},
      publisher     = {PWN, Warsaw},
      series        = {Banach Center Publ.},

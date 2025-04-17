@@ -15,7 +15,7 @@ mason.xiao:01:sample
      journal       = {Teor. Veroyatnost. i Primenen.},
      mrclass       = {60G17 (60G18 60G60)},
      mrnumber      = {1968707},
-     mrreviewer    = {Makoto Maejima},
+     mrreviewer    = {Makoto\ Maejima},
      number        = {1},
      pages         = {94--116},
      title         = {Sample path properties of operator-self-similar {G}aussian random fields},

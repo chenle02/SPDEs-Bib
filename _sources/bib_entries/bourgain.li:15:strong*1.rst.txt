@@ -15,7 +15,7 @@ bourgain.li:15:strong*1
      journal       = {Invent. Math.},
      mrclass       = {35Q31 (35B30)},
      mrnumber      = {3359050},
-     mrreviewer    = {Emil Wiedemann},
+     mrreviewer    = {Emil\ Wiedemann},
      number        = {1},
      pages         = {97--157},
      title         = {Strong ill-posedness of the incompressible {E}uler equation in borderline {S}obolev spaces},

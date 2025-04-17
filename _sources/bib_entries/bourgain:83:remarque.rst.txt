@@ -12,7 +12,7 @@ bourgain:83:remarque
      booktitle     = {Harmonic analysis: study group on translation-invariant {B}anach spaces},
      mrclass       = {43A46 (42A55 60G17)},
      mrnumber      = {697395},
-     mrreviewer    = {Gilles Pisier},
+     mrreviewer    = {Gilles\ Pisier},
      pages         = {Exp. No. 2, 6},
      publisher     = {Univ. Paris XI, Orsay},
      series        = {Publ. Math. Orsay 83},

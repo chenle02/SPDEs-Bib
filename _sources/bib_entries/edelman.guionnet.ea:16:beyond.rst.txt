@@ -15,7 +15,7 @@ edelman.guionnet.ea:16:beyond
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60B20 (15B52)},
      mrnumber      = {3513602},
-     mrreviewer    = {Thomas Kriecherbauer},
+     mrreviewer    = {Thomas\ Kriecherbauer},
      number        = {3},
      pages         = {1659--1697},
      title         = {Beyond universality in random matrix theory},

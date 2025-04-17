@@ -13,7 +13,7 @@ bourgain:90:on
      isbn          = {0-521-38101-0},
      mrclass       = {11B25 (11N64)},
      mrnumber      = {1117007},
-     mrreviewer    = {Armel Mercier},
+     mrreviewer    = {Armel\ Mercier},
      pages         = {105--109},
      publisher     = {Cambridge Univ. Press, Cambridge},
      title         = {On arithmetic progressions in sums of sets of integers},

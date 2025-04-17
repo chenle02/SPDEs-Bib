@@ -15,7 +15,7 @@ davies.simon:84:ultracontractivity
      journal       = {J. Funct. Anal.},
      mrclass       = {47F05 (35J05 35J10 35K05 35P99)},
      mrnumber      = {766493},
-     mrreviewer    = {Evans M. Harrell},
+     mrreviewer    = {Evans\ M.\ Harrell},
      number        = {2},
      pages         = {335--395},
      title         = {Ultracontractivity and the heat kernel for {S}chr\"odinger operators and {D}irichlet {L}aplacians},

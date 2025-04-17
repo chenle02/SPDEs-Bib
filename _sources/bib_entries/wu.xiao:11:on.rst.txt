@@ -15,7 +15,7 @@ wu.xiao:11:on
      journal       = {Commun. Stoch. Anal.},
      mrclass       = {60G15 (28A80 60F25 60G18 60G60 60J55)},
      mrnumber      = {2808534},
-     mrreviewer    = {Jos\'{e} Rafael Le\'{o}n},
+     mrreviewer    = {Jos\'{e}\ Rafael\ Le\'{o}n},
      number        = {1},
      pages         = {15--39},
      title         = {On local times of anisotropic {G}aussian random fields},

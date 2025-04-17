@@ -15,7 +15,7 @@ bourgain.konyagin.ea:15:character
      journal       = {Math. Comp.},
      mrclass       = {11T06 (11L40 11Y16 68Q25)},
      mrnumber      = {3378857},
-     mrreviewer    = {Alina Ostafe},
+     mrreviewer    = {Alina\ Ostafe},
      number        = {296},
      pages         = {2969--2977},
      title         = {Character sums and deterministic polynomial root finding in finite fields},

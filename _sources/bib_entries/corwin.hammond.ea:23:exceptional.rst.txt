@@ -15,7 +15,7 @@ corwin.hammond.ea:23:exceptional
      journal       = {Electron. J. Probab.},
      mrclass       = {82C21 (60J25)},
      mrnumber      = {4536117},
-     mrreviewer    = {D. Erhard},
+     mrreviewer    = {D.\ Erhard},
      pages         = {Paper No. 11, 81},
      title         = {Exceptional times when the {KPZ} fixed point violates {J}ohansson's conjecture on maximizer uniqueness},
      url           = {https://doi.org/10.1214/22-ejp898},

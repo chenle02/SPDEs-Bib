@@ -13,7 +13,7 @@ majda:16:introduction
      isbn          = {978-3-319-32215-5; 978-3-319-32217-9},
      mrclass       = {37-02 (37H10 62M20 76F20 76F55 86A05 86A10)},
      mrnumber      = {3560633},
-     mrreviewer    = {Xiaoming Wang},
+     mrreviewer    = {Xiaoming\ Wang},
      pages         = {xi+91},
      publisher     = {Springer, [Cham]},
      series        = {Frontiers in Applied Dynamical Systems: Reviews and Tutorials},

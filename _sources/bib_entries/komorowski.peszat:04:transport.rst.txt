@@ -15,7 +15,7 @@ komorowski.peszat:04:transport
      journal       = {J. Statist. Phys.},
      mrclass       = {76F25 (60G60 76F55 76M35 82C70)},
      mrnumber      = {2066287},
-     mrreviewer    = {Azzouz Dermoune},
+     mrreviewer    = {Azzouz\ Dermoune},
      number        = {5-6},
      pages         = {1361--1388},
      title         = {Transport of a passive tracer by an irregular velocity field},

@@ -15,7 +15,7 @@ rawal.shen:12:criteria
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {35K57 (35B10 35P15 45C05 92D25)},
      mrnumber      = {3000610},
-     mrreviewer    = {Rui Peng},
+     mrreviewer    = {Rui\ Peng},
      number        = {4},
      pages         = {927--954},
      title         = {Criteria for the existence and lower bounds of principal eigenvalues of time periodic nonlocal dispersal operators and applications},

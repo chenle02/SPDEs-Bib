@@ -15,7 +15,7 @@ garban.rhodes.ea:14:on
      journal       = {Electron. J. Probab.},
      mrclass       = {60G60 (60G15 60J45)},
      mrnumber      = {3272329},
-     mrreviewer    = {Mounir Bezzarga},
+     mrreviewer    = {Mounir\ Bezzarga},
      pages         = {no. 96, 25},
      title         = {On the heat kernel and the {D}irichlet form of {L}iouville {B}rownian motion},
      url           = {https://doi.org/10.1214/ejp.v19-2950},

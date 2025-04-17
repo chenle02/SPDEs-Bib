@@ -13,7 +13,7 @@ spitzer:68:uniform
      journal       = {J. Math. Mech.},
      mrclass       = {60.90 (82.00)},
      mrnumber      = {243646},
-     mrreviewer    = {H. P. McKean, Jr.},
+     mrreviewer    = {H.\ P.\ McKean, Jr.},
      pages         = {973--989},
      title         = {Uniform motion with elastic collision of an infinite particle system},
      volume        = {18},

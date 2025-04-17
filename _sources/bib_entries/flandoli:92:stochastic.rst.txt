@@ -14,7 +14,7 @@ flandoli:92:stochastic
      isbn          = {3-540-55292-8},
      mrclass       = {60H10 (34F05 34G10 35R60 47H20 47N20 60H25)},
      mrnumber      = {1176773},
-     mrreviewer    = {B. G. Pachpatte},
+     mrreviewer    = {B.\ G.\ Pachpatte},
      pages         = {70--80},
      publisher     = {Springer, Berlin},
      series        = {Lect. Notes Control Inf. Sci.},

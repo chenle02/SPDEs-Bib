@@ -15,7 +15,7 @@ li.shao:01:capture
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60J65},
      mrnumber      = {1857107},
-     mrreviewer    = {Jean-Claude Gruet},
+     mrreviewer    = {Jean-Claude\ Gruet},
      number        = {1},
      pages         = {30--48},
      title         = {Capture time of {B}rownian pursuits},

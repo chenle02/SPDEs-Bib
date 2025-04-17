@@ -14,7 +14,7 @@ bourgain:81:counterexample
      journal       = {Compositio Math.},
      mrclass       = {46B25 (46E30)},
      mrnumber      = {631431},
-     mrreviewer    = {James Hagler},
+     mrreviewer    = {James\ Hagler},
      number        = {1},
      pages         = {133--144},
      title         = {A counterexample to a complementation problem},

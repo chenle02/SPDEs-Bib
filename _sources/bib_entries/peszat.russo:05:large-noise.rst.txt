@@ -15,7 +15,7 @@ peszat.russo:05:large-noise
      journal       = {Bernoulli},
      mrclass       = {60J60 (60F05)},
      mrnumber      = {2132725},
-     mrreviewer    = {Song Liang},
+     mrreviewer    = {Song\ Liang},
      number        = {2},
      pages         = {247--262},
      title         = {Large-noise asymptotics for one-dimensional diffusions},

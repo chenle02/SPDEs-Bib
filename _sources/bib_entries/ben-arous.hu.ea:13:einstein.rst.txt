@@ -15,7 +15,7 @@ ben-arous.hu.ea:13:einstein
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60K37 (60J80 82C44)},
      mrnumber      = {3112431},
-     mrreviewer    = {Serguei Popov},
+     mrreviewer    = {Serguei\ Popov},
      number        = {3},
      pages         = {698--721},
      title         = {Einstein relation for biased random walk on {G}alton-{W}atson trees},

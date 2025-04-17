@@ -15,7 +15,7 @@ donsker.varadhan:79:on
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60J15 (60F10)},
      mrnumber      = {539157},
-     mrreviewer    = {W. E. Pruitt},
+     mrreviewer    = {W.\ E.\ Pruitt},
      number        = {6},
      pages         = {721--747},
      title         = {On the number of distinct sites visited by a random walk},

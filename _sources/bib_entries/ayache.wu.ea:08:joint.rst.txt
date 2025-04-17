@@ -15,7 +15,7 @@ ayache.wu.ea:08:joint
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60G22 (60J55)},
      mrnumber      = {2446295},
-     mrreviewer    = {Anne Estrade},
+     mrreviewer    = {Anne\ Estrade},
      number        = {4},
      pages         = {727--748},
      title         = {Joint continuity of the local times of fractional {B}rownian sheets},

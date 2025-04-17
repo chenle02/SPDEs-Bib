@@ -15,7 +15,7 @@ xie:18:intermittency
      journal       = {J. Differential Equations},
      mrclass       = {60H15 (35R60 60K37)},
      mrnumber      = {3720837},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {2},
      pages         = {1050--1079},
      title         = {Intermittency for stochastic partial differential equations driven by strongly inhomogeneous space-time white noises},

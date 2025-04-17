@@ -15,7 +15,7 @@ zabczyk:70:sur
      journal       = {Studia Math.},
      mrclass       = {60.62},
      mrnumber      = {267643},
-     mrreviewer    = {J. A. Beekman},
+     mrreviewer    = {J.\ A.\ Beekman},
      pages         = {227--247},
      title         = {Sur la th\'{e}orie semi-classique du potentiel pour les processus \`a accroissements ind\'{e}pendants},
      url           = {https://doi.org/10.4064/sm-35-3-227-247},

@@ -15,7 +15,7 @@ barral.feng:11:non-uniqueness
      journal       = {Nonlinearity},
      mrclass       = {37D35 (28A78 37A35)},
      mrnumber      = {2824021},
-     mrreviewer    = {Antti K\"aenm\"aki},
+     mrreviewer    = {Antti\ K\"aenm\"aki},
      number        = {9},
      pages         = {2563--2567},
      title         = {Non-uniqueness of ergodic measures with full {H}ausdorff dimensions on a {G}atzouras-{L}alley carpet},

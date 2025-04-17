@@ -15,7 +15,7 @@ huang.shen:09:pullback
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {35B41 (35K55 35K58 35R60 37L30 37L55)},
      mrnumber      = {2505685},
-     mrreviewer    = {Bruno J. Scarpellini},
+     mrreviewer    = {Bruno\ J.\ Scarpellini},
      number        = {3},
      pages         = {855--882},
      title         = {Pullback attractors for nonautonomous and random parabolic equations on non-smooth domains},

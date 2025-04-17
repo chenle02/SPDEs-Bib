@@ -15,7 +15,7 @@ harang.tindel.ea:23:volterra
      journal       = {Stoch. Dyn.},
      mrclass       = {45D05 (45G05 60L20 60L30 60L70)},
      mrnumber      = {4566955},
-     mrreviewer    = {Barbara Pacchiarotti},
+     mrreviewer    = {Barbara\ Pacchiarotti},
      number        = {1},
      pages         = {Paper No. 2350002, 50},
      title         = {Volterra equations driven by rough signals 2: {H}igher-order expansions},

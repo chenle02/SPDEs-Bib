@@ -15,7 +15,7 @@ kulkarni.zeitouni:91:can
      journal       = {Statist. Probab. Lett.},
      mrclass       = {62F10 (62G05)},
      mrnumber      = {1131058},
-     mrreviewer    = {G. Roussas},
+     mrreviewer    = {G.\ Roussas},
      number        = {4},
      pages         = {323--327},
      title         = {Can one decide the type of the mean from the empirical measure?},

@@ -15,7 +15,7 @@ madaule.rhodes.ea:16:glassy
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60G57 (60G15 82D30)},
      mrnumber      = {3476621},
-     mrreviewer    = {Flora Koukiou},
+     mrreviewer    = {Flora\ Koukiou},
      number        = {2},
      pages         = {643--690},
      title         = {Glassy phase and freezing of log-correlated {G}aussian potentials},

@@ -14,7 +14,7 @@ bourgain:87:on*3
      isbn          = {3-540-18103-2},
      mrclass       = {52A43 (11H31 52A45)},
      mrnumber      = {907681},
-     mrreviewer    = {J. M. Wills},
+     mrreviewer    = {J.\ M.\ Wills},
      pages         = {5--12},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

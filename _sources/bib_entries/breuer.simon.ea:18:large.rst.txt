@@ -15,7 +15,7 @@ breuer.simon.ea:18:large
      journal       = {Duke Math. J.},
      mrclass       = {60F10 (42C05)},
      mrnumber      = {3865654},
-     mrreviewer    = {Anatoly P. Golub},
+     mrreviewer    = {Anatoly\ P.\ Golub},
      number        = {15},
      pages         = {2857--2902},
      title         = {Large deviations and the {L}ukic conjecture},

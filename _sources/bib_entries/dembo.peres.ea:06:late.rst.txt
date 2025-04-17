@@ -15,7 +15,7 @@ dembo.peres.ea:06:late
      journal       = {Ann. Probab.},
      mrclass       = {60G50 (28A80 82C41)},
      mrnumber      = {2206347},
-     mrreviewer    = {M. G. Shur},
+     mrreviewer    = {M.\ G.\ Shur},
      number        = {1},
      pages         = {219--263},
      title         = {Late points for random walks in two dimensions},

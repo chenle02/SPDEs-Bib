@@ -15,7 +15,7 @@ smirnov:10:dimension
      journal       = {Acta Math.},
      mrclass       = {30C62},
      mrnumber      = {2736155},
-     mrreviewer    = {Christopher Bishop},
+     mrreviewer    = {Christopher\ Bishop},
      number        = {1},
      pages         = {189--197},
      title         = {Dimension of quasicircles},

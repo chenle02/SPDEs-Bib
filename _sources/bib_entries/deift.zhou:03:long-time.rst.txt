@@ -15,7 +15,7 @@ deift.zhou:03:long-time
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35Q55 (35B40 35P25 37K15 37K40)},
      mrnumber      = {1989226},
-     mrreviewer    = {Olivier J. Goubet},
+     mrreviewer    = {Olivier\ J.\ Goubet},
      note          = {Dedicated to the memory of J\"urgen K. Moser},
      number        = {8},
      pages         = {1029--1077},

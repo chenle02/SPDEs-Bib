@@ -14,7 +14,7 @@ mainardi.pagnini.ea:03:mellin
      journal       = {Fract. Calc. Appl. Anal.},
      mrclass       = {60G18 (44A15 60G52)},
      mrnumber      = {2044309},
-     mrreviewer    = {Jutta Groos},
+     mrreviewer    = {Jutta\ Groos},
      number        = {4},
      pages         = {441--459},
      title         = {Mellin transform and subordination laws in fractional diffusion processes},

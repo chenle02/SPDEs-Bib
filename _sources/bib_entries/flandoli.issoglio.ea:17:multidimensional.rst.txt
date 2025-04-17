@@ -15,7 +15,7 @@ flandoli.issoglio.ea:17:multidimensional
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60H10 (35B65 35K10 35R60 60H30)},
      mrnumber      = {3581216},
-     mrreviewer    = {Wilhelm Stannat},
+     mrreviewer    = {Wilhelm\ Stannat},
      number        = {3},
      pages         = {1665--1688},
      title         = {Multidimensional stochastic differential equations with distributional drift},

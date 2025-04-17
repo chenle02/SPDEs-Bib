@@ -15,7 +15,7 @@ deuschel.zambotti:05:bismut-elworthys
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60H10 (60H07 60J55)},
      mrnumber      = {2134484},
-     mrreviewer    = {Anna Amirdjanova},
+     mrreviewer    = {Anna\ Amirdjanova},
      number        = {6},
      pages         = {907--925},
      title         = {Bismut-{E}lworthy's formula and random walk representation for {SDE}s with reflection},

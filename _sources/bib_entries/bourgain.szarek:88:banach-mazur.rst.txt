@@ -15,7 +15,7 @@ bourgain.szarek:88:banach-mazur
      journal       = {Israel J. Math.},
      mrclass       = {46B20 (52A20)},
      mrnumber      = {947820},
-     mrreviewer    = {H. E. Lacey},
+     mrreviewer    = {H.\ E.\ Lacey},
      number        = {2},
      pages         = {169--180},
      title         = {The {B}anach-{M}azur distance to the cube and the {D}voretzky-{R}ogers factorization},

@@ -14,7 +14,7 @@ simon:83:semiclassical
      journal       = {Ann. Inst. H. Poincar\'e{} Sect. A (N.S.)},
      mrclass       = {81C12 (35P20)},
      mrnumber      = {708966},
-     mrreviewer    = {Jean Michel Combes},
+     mrreviewer    = {Jean\ Michel\ Combes},
      number        = {3},
      pages         = {295--308},
      title         = {Semiclassical analysis of low lying eigenvalues. {I}. {N}ondegenerate minima: asymptotic expansions},

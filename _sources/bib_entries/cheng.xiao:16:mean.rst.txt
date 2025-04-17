@@ -15,7 +15,7 @@ cheng.xiao:16:mean
      journal       = {Ann. Appl. Probab.},
      mrclass       = {60G15 (60G60 60G70)},
      mrnumber      = {3476623},
-     mrreviewer    = {Yizao Wang},
+     mrreviewer    = {Yizao\ Wang},
      number        = {2},
      pages         = {722--759},
      title         = {The mean {E}uler characteristic and excursion probability of {G}aussian random fields with stationary increments},

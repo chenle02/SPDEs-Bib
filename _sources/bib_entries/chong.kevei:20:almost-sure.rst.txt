@@ -15,7 +15,7 @@ chong.kevei:20:almost-sure
      journal       = {Ann. Probab.},
      mrclass       = {60H15 (35B40 60F15 60G17 60G55)},
      mrnumber      = {4112721},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {3},
      pages         = {1466--1494},
      title         = {The almost-sure asymptotic behavior of the solution to the stochastic heat equation with {L}\'{e}vy noise},

@@ -15,7 +15,7 @@ varadhan.williams:85:brownian
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60J60},
      mrnumber      = {792398},
-     mrreviewer    = {Naresh C. Jain},
+     mrreviewer    = {Naresh\ C.\ Jain},
      number        = {4},
      pages         = {405--443},
      title         = {Brownian motion in a wedge with oblique reflection},

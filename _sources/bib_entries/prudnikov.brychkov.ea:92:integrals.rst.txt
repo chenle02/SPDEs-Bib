@@ -12,7 +12,7 @@ prudnikov.brychkov.ea:92:integrals
      isbn          = {2-88124-837-3},
      mrclass       = {44A10 (33-00 44-00 44A20 44A35)},
      mrnumber      = {1162979},
-     mrreviewer    = {J. M. H. Peters},
+     mrreviewer    = {J.\ M. H. Peters},
      note          = {Direct Laplace transforms},
      pages         = {xx+619},
      publisher     = {Gordon and Breach Science Publishers, New York},

@@ -15,7 +15,7 @@ guionnet.krishnapur.ea:11:single
      journal       = {Ann. of Math. (2)},
      mrclass       = {60B20 (15B52)},
      mrnumber      = {2831116},
-     mrreviewer    = {Walid Hachem},
+     mrreviewer    = {Walid\ Hachem},
      number        = {2},
      pages         = {1189--1217},
      title         = {The single ring theorem},

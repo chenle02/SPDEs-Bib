@@ -15,7 +15,7 @@ zanon.derrida:88:weak
      journal       = {J. Statist. Phys.},
      mrclass       = {82A42 (60K99)},
      mrnumber      = {939499},
-     mrreviewer    = {W. Th. F. den Hollander},
+     mrreviewer    = {W.\ Th.\ F.\ den Hollander},
      number        = {3-4},
      pages         = {509--528},
      title         = {Weak disorder expansion of {L}iapunov exponents in a degenerate case},

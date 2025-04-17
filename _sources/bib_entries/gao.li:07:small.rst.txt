@@ -15,7 +15,7 @@ gao.li:07:small
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60G15 (42A55)},
      mrnumber      = {2262853},
-     mrreviewer    = {Isamu D\^{o}ku},
+     mrreviewer    = {Isamu\ D\^{o}ku},
      number        = {3},
      pages         = {1339--1350},
      title         = {Small ball probabilities for the {S}lepian {G}aussian fields},

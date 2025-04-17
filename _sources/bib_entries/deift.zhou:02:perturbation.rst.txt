@@ -15,7 +15,7 @@ deift.zhou:02:perturbation
      journal       = {Acta Math.},
      mrclass       = {37K15 (34A55 34L40 35B20 35Q55)},
      mrnumber      = {1947893},
-     mrreviewer    = {Piotr G. Grinevich},
+     mrreviewer    = {Piotr\ G.\ Grinevich},
      number        = {2},
      pages         = {163--262},
      title         = {Perturbation theory for infinite-dimensional integrable systems on the line. {A} case study},

@@ -13,7 +13,7 @@ li:92:on
      isbn          = {0-8176-3657-9},
      mrclass       = {60B05 (60B11)},
      mrnumber      = {1227613},
-     mrreviewer    = {S. A. Chobanyan},
+     mrreviewer    = {S.\ A.\ Chobanyan},
      pages         = {106--115},
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Progr. Probab.},

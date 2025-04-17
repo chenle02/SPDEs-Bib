@@ -15,7 +15,7 @@ cranston.fabes.ea:88:conditional
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60J60 (31C35 35J10 60J45)},
      mrnumber      = {936811},
-     mrreviewer    = {Thomas S. Salisbury},
+     mrreviewer    = {Thomas\ S.\ Salisbury},
      number        = {1},
      pages         = {171--194},
      title         = {Conditional gauge and potential theory for the {S}chr\"{o}dinger operator},

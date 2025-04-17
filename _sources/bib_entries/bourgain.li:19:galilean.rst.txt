@@ -15,7 +15,7 @@ bourgain.li:19:galilean
      journal       = {Comm. Math. Phys.},
      mrclass       = {35Q31},
      mrnumber      = {4031801},
-     mrreviewer    = {Xinyu He},
+     mrreviewer    = {Xinyu\ He},
      number        = {1},
      pages         = {261--280},
      title         = {Galilean boost and non-uniform continuity for incompressible {E}uler},

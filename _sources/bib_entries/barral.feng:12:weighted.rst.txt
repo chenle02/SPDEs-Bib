@@ -15,7 +15,7 @@ barral.feng:12:weighted
      journal       = {Asian J. Math.},
      mrclass       = {37D35 (37A25 37B10)},
      mrnumber      = {2916367},
-     mrreviewer    = {Alejandro Mario Mes\'on},
+     mrreviewer    = {Alejandro\ Mario\ Mes\'on},
      number        = {2},
      pages         = {319--352},
      title         = {Weighted thermodynamic formalism on subshifts and applications},

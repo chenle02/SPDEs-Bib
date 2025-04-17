@@ -15,7 +15,7 @@ broux.zambotti:22:sewing
      journal       = {J. Funct. Anal.},
      mrclass       = {60L20 (16T05)},
      mrnumber      = {4459000},
-     mrreviewer    = {Ilya Chevyrev},
+     mrreviewer    = {Ilya\ Chevyrev},
      number        = {10},
      pages         = {Paper No. 109644, 34},
      title         = {The sewing lemma for {$0<\gamma\leq1$}},

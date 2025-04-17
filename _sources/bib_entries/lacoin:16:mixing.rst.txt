@@ -15,7 +15,7 @@ lacoin:16:mixing
      journal       = {Ann. Probab.},
      mrclass       = {60J10 (37L60 60K35 82C20)},
      mrnumber      = {3474475},
-     mrreviewer    = {G\'erard Letac},
+     mrreviewer    = {G\'erard\ Letac},
      number        = {2},
      pages         = {1426--1487},
      title         = {Mixing time and cutoff for the adjacent transposition shuffle and the simple exclusion},

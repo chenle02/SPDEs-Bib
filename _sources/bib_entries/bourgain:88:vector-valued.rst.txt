@@ -14,7 +14,7 @@ bourgain:88:vector-valued
      isbn          = {3-540-19353-7},
      mrclass       = {46E40 (43A15 46B20)},
      mrnumber      = {950985},
-     mrreviewer    = {Mario Milman},
+     mrreviewer    = {Mario\ Milman},
      pages         = {239--249},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

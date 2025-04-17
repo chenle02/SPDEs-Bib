@@ -14,7 +14,7 @@ qian.shen:90:dynamical
      journal       = {Sci. China Ser. A},
      mrclass       = {34C15 (34C25 34D45 58F22)},
      mrnumber      = {1070686},
-     mrreviewer    = {J. Angel Rodr\'{i}guez},
+     mrreviewer    = {J.\ Angel\ Rodr\'{i}guez},
      number        = {4},
      pages         = {409--422},
      title         = {Dynamical behavior in the equation of {J}osephson junction type},

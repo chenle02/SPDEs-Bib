@@ -15,7 +15,7 @@ lu.yin:15:unique
      journal       = {ESAIM Control Optim. Calc. Var.},
      mrclass       = {60H15},
      mrnumber      = {3348404},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {2},
      pages         = {378--398},
      title         = {Unique continuation for stochastic heat equations},

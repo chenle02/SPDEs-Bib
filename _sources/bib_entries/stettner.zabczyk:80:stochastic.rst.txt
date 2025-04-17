@@ -13,7 +13,7 @@ stettner.zabczyk:80:stochastic
      isbn          = {3-540-10080-6},
      mrclass       = {49D30},
      mrnumber      = {588530},
-     mrreviewer    = {Bension Kurtaran},
+     mrreviewer    = {Bension\ Kurtaran},
      pages         = {179--183},
      publisher     = {Springer, Berlin-New York},
      series        = {Lect. Notes Control Inf. Sci.},

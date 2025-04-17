@@ -15,7 +15,7 @@ barral.jin:14:on
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60G57 (60E07 60G18 60G44 60K05)},
      mrnumber      = {3278915},
-     mrreviewer    = {Edward C. Waymire},
+     mrreviewer    = {Edward\ C.\ Waymire},
      number        = {3-4},
      pages         = {521--565},
      title         = {On exact scaling log-infinitely divisible cascades},

@@ -15,7 +15,7 @@ cook.zeitouni:20:maximum
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60B20 (60G60)},
      mrnumber      = {4113544},
-     mrreviewer    = {Theodoros Assiotis},
+     mrreviewer    = {Theodoros\ Assiotis},
      number        = {8},
      pages         = {1660--1731},
      title         = {Maximum of the characteristic polynomial for a random permutation matrix},

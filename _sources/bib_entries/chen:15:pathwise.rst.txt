@@ -15,7 +15,7 @@ chen:15:pathwise
      journal       = {Ann. Probab.},
      mrclass       = {60H15 (35A02 35R60 60J68)},
      mrnumber      = {3433584},
-     mrreviewer    = {Hui He},
+     mrreviewer    = {Hui\ He},
      number        = {6},
      pages         = {3359--3467},
      title         = {Pathwise nonuniqueness for the {SPDE}s of some super-{B}rownian motions with immigration},

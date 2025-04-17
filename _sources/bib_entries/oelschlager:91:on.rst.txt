@@ -15,7 +15,7 @@ oelschlager:91:on
      journal       = {Arch. Rational Mech. Anal.},
      mrclass       = {82C21 (76A02 76N10)},
      mrnumber      = {1120850},
-     mrreviewer    = {Giuseppe Toscani},
+     mrreviewer    = {Giuseppe\ Toscani},
      number        = {4},
      pages         = {297--310},
      title         = {On the connection between {H}amiltonian many-particle systems and the hydrodynamical equations},

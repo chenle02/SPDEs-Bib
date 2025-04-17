@@ -15,7 +15,7 @@ hutson.shen.ea:01:estimates
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {35P15 (35B10 35K20 92D25)},
      mrnumber      = {1814096},
-     mrreviewer    = {Vladimir Tulovsky},
+     mrreviewer    = {Vladimir\ Tulovsky},
      number        = {6},
      pages         = {1669--1679},
      title         = {Estimates for the principal spectrum point for certain time-dependent parabolic operators},

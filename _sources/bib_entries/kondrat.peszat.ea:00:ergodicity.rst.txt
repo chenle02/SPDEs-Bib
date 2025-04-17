@@ -15,7 +15,7 @@ kondrat.peszat.ea:00:ergodicity
      journal       = {J. Phys. A},
      mrclass       = {82C05 (60K35 82C20)},
      mrnumber      = {1785176},
-     mrreviewer    = {Timo Sepp\"{a}l\"{a}inen},
+     mrreviewer    = {Timo\ Sepp\"{a}l\"{a}inen},
      number        = {33},
      pages         = {5901--5912},
      title         = {Ergodicity for generalized {K}awasaki dynamics},

@@ -15,7 +15,7 @@ kulik.peszat.ea:23:gradient
      journal       = {NoDEA Nonlinear Differential Equations Appl.},
      mrclass       = {60H10 (60G51 60H07 60J76)},
      mrnumber      = {4505173},
-     mrreviewer    = {Kai He},
+     mrreviewer    = {Kai\ He},
      number        = {1},
      pages         = {Paper No. 7, 27},
      title         = {Gradient formula for transition semigroup corresponding to stochastic equation driven by a system of independent {L}\'{e}vy processes},

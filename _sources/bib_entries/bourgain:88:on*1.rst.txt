@@ -15,7 +15,7 @@ bourgain:88:on*1
      journal       = {Israel J. Math.},
      mrclass       = {28D05},
      mrnumber      = {937582},
-     mrreviewer    = {Alberto de la Torre},
+     mrreviewer    = {Alberto\ de la Torre},
      number        = {1},
      pages         = {73--84},
      title         = {On the pointwise ergodic theorem on {$L^p$} for arithmetic sets},

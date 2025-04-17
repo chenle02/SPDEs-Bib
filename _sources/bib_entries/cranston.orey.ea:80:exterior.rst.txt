@@ -13,7 +13,7 @@ cranston.orey.ea:80:exterior
      isbn          = {3-540-10498-4},
      mrclass       = {60J60 (31C05 35J25)},
      mrnumber      = {609185},
-     mrreviewer    = {S. J. Taylor},
+     mrreviewer    = {S.\ J.\ Taylor},
      pages         = {207--220},
      publisher     = {Springer, Berlin-New York},
      series        = {Lect. Notes Control Inf. Sci.},

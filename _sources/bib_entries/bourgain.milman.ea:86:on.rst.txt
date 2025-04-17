@@ -15,7 +15,7 @@ bourgain.milman.ea:86:on
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {46B99 (46G99 54E35 58C99)},
      mrnumber      = {819949},
-     mrreviewer    = {Gilles Pisier},
+     mrreviewer    = {Gilles\ Pisier},
      number        = {1},
      pages         = {295--317},
      title         = {On type of metric spaces},

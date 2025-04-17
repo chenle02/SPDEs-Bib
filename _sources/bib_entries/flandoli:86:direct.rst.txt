@@ -15,7 +15,7 @@ flandoli:86:direct
      journal       = {Appl. Math. Optim.},
      mrclass       = {93C20 (93E20)},
      mrnumber      = {863335},
-     mrreviewer    = {Akira Ichikawa},
+     mrreviewer    = {Akira\ Ichikawa},
      number        = {2},
      pages         = {107--129},
      title         = {Direct solution of a {R}iccati equation arising in a stochastic control problem with control and observation on the boundary},

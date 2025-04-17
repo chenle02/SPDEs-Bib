@@ -15,7 +15,7 @@ derrida.evans:93:exact
      journal       = {J. Physique I},
      mrclass       = {82C20},
      mrnumber      = {1215845},
-     mrreviewer    = {Flora Koukiou},
+     mrreviewer    = {Flora\ Koukiou},
      number        = {2},
      pages         = {311--322},
      title         = {Exact correlation functions in an asymmetric exclusion model with open boundaries},

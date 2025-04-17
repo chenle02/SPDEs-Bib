@@ -15,7 +15,7 @@ bourgain.demeter:15:proof
      journal       = {Ann. of Math. (2)},
      mrclass       = {42B37 (11E76 46E30 53C40)},
      mrnumber      = {3374964},
-     mrreviewer    = {G. V. Rozenblum},
+     mrreviewer    = {G.\ V.\ Rozenblum},
      number        = {1},
      pages         = {351--389},
      title         = {The proof of the {$l^2$} decoupling conjecture},

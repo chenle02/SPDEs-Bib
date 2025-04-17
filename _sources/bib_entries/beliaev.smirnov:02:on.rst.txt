@@ -15,7 +15,7 @@ beliaev.smirnov:02:on
      journal       = {Math. Ann.},
      mrclass       = {28A80 (31A15 37C45)},
      mrnumber      = {1906911},
-     mrreviewer    = {Athanassios Batakis},
+     mrreviewer    = {Athanassios\ Batakis},
      number        = {1},
      pages         = {123--141},
      title         = {On dimension of porous measures},

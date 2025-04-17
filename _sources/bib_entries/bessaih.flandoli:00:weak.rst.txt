@@ -15,7 +15,7 @@ bessaih.flandoli:00:weak
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {35Q35 (35B41 37L30 76B99)},
      mrnumber      = {1826961},
-     mrreviewer    = {Jos\'{e} A. Langa},
+     mrreviewer    = {Jos\'{e}\ A.\ Langa},
      number        = {4},
      pages         = {713--732},
      title         = {Weak attractor for a dissipative {E}uler equation},

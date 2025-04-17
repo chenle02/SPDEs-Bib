@@ -14,7 +14,7 @@ bourgain:89:pointwise
      journal       = {Inst. Hautes \'{E}tudes Sci. Publ. Math.},
      mrclass       = {28D05 (11B83 11K99 11L03 47A35)},
      mrnumber      = {1019960},
-     mrreviewer    = {F. Schweiger},
+     mrreviewer    = {F.\ Schweiger},
      note          = {With an appendix by the author, Harry Furstenberg, Yitzhak Katznelson and Donald S. Ornstein},
      number        = {69},
      pages         = {5--45},

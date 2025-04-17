@@ -15,7 +15,7 @@ armstrong.serfaty.ea:14:remarks
      journal       = {Potential Anal.},
      mrclass       = {31A35 (49K10 60B20)},
      mrnumber      = {3264829},
-     mrreviewer    = {Jiang Hu},
+     mrreviewer    = {Jiang\ Hu},
      number        = {3},
      pages         = {945--958},
      title         = {Remarks on a constrained optimization problem for the {G}inibre ensemble},

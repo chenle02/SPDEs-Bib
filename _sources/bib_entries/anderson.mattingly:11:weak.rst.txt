@@ -15,7 +15,7 @@ anderson.mattingly:11:weak
      journal       = {Commun. Math. Sci.},
      mrclass       = {60H35 (60H10 65C30)},
      mrnumber      = {2836848},
-     mrreviewer    = {Mikhail V. Tretyakov},
+     mrreviewer    = {Mikhail\ V.\ Tretyakov},
      number        = {1},
      pages         = {301--318},
      title         = {A weak trapezoidal method for a class of stochastic differential equations},

@@ -15,7 +15,7 @@ xiao:96:packing
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60G17 (60J65)},
      mrnumber      = {1370655},
-     mrreviewer    = {Bert Fristedt},
+     mrreviewer    = {Bert\ Fristedt},
      number        = {8},
      pages         = {3193--3213},
      title         = {Packing measure of the sample paths of fractional {B}rownian motion},

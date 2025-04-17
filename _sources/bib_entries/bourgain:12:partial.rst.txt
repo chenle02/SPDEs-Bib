@@ -15,7 +15,7 @@ bourgain:12:partial
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {11A55 (11L03 11P55)},
      mrnumber      = {2981341},
-     mrreviewer    = {Ping Ding},
+     mrreviewer    = {Ping\ Ding},
      number        = {15-16},
      pages         = {727--730},
      title         = {Partial quotients and representation of rational numbers},

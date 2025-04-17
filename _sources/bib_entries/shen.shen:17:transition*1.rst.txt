@@ -15,7 +15,7 @@ shen.shen:17:transition*1
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {35K91 (35K57 92D25)},
      mrnumber      = {3583509},
-     mrreviewer    = {Stefano Melchionna},
+     mrreviewer    = {Stefano\ Melchionna},
      number        = {2},
      pages         = {1013--1037},
      title         = {Transition fronts in nonlocal equations with time heterogeneous ignition nonlinearity},

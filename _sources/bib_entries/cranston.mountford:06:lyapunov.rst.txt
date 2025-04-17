@@ -15,7 +15,7 @@ cranston.mountford:06:lyapunov
      journal       = {J. Funct. Anal.},
      mrclass       = {60H15 (82B44)},
      mrnumber      = {2227130},
-     mrreviewer    = {Carlos M. Mora Gonz\'{a}lez},
+     mrreviewer    = {Carlos\ M.\ Mora Gonz\'{a}lez},
      number        = {1},
      pages         = {78--119},
      title         = {Lyapunov exponent for the parabolic {A}nderson model in {$\bold R^d$}},

@@ -15,7 +15,7 @@ ceyhan:14:comparison
      journal       = {TEST},
      mrclass       = {60D05 (05C62 62G10 62M30)},
      mrnumber      = {3179619},
-     mrreviewer    = {Christian Rau},
+     mrreviewer    = {Christian\ Rau},
      number        = {1},
      pages         = {100--134},
      title         = {Comparison of relative density of two random geometric digraph families in testing spatial clustering},

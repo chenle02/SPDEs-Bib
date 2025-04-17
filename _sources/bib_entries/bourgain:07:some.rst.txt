@@ -14,7 +14,7 @@ bourgain:07:some
      isbn          = {978-3-540-72052-2; 3-540-72052-9},
      mrclass       = {11L05 (11B75 11L07 11P05)},
      mrnumber      = {2347043},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      pages         = {99--116},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

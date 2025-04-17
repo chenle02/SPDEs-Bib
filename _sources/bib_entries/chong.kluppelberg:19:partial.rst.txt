@@ -15,7 +15,7 @@ chong.kluppelberg:19:partial
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60B12 (05C80 60F10 60F25 60K35 82C22)},
      mrnumber      = {4025698},
-     mrreviewer    = {Zhenfu Wang},
+     mrreviewer    = {Zhenfu\ Wang},
      number        = {12},
      pages         = {4998--5036},
      title         = {Partial mean field limits in heterogeneous networks},

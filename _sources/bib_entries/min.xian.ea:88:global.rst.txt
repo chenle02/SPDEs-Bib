@@ -15,7 +15,7 @@ min.xian.ea:88:global
      journal       = {J. Differential Equations},
      mrclass       = {58F14 (34C25 58F12 58F13 94C05)},
      mrnumber      = {927005},
-     mrreviewer    = {Andrew C. Fowler},
+     mrreviewer    = {Andrew\ C.\ Fowler},
      number        = {2},
      pages         = {315--333},
      title         = {Global behavior in the dynamical equation of {J}-{J} type},

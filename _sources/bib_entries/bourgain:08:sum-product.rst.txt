@@ -15,7 +15,7 @@ bourgain:08:sum-product
      journal       = {J. Anal. Math.},
      mrclass       = {11B13 (11B75)},
      mrnumber      = {2448982},
-     mrreviewer    = {Tom Sanders},
+     mrreviewer    = {Tom\ Sanders},
      pages         = {1--93},
      title         = {The sum-product theorem in {$\Bbb Z_q$} with {\$q\$} arbitrary},
      url           = {https://doi.org/10.1007/s11854-008-0044-2},

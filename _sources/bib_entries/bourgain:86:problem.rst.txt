@@ -14,7 +14,7 @@ bourgain:86:problem
      journal       = {Pacific J. Math.},
      mrclass       = {30D55 (42A50 46J15)},
      mrnumber      = {815031},
-     mrreviewer    = {Joaquim Bruna},
+     mrreviewer    = {Joaquim\ Bruna},
      number        = {1},
      pages         = {47--50},
      title         = {A problem of {D}ouglas and {R}udin on factorization},

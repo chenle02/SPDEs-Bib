@@ -15,7 +15,7 @@ beliaev.jarvenpaa.ea:09:packing
      journal       = {J. Lond. Math. Soc. (2)},
      mrclass       = {28A75 (28A80)},
      mrnumber      = {2545265},
-     mrreviewer    = {Zhi-Ying Wen},
+     mrreviewer    = {Zhi-Ying\ Wen},
      number        = {2},
      pages         = {514--530},
      title         = {Packing dimension of mean porous measures},

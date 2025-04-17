@@ -15,7 +15,7 @@ cranston.greven:95:coupling
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60J25 (60J45)},
      mrnumber      = {1376804},
-     mrreviewer    = {Uwe R\"{o}sler},
+     mrreviewer    = {Uwe\ R\"{o}sler},
      number        = {2},
      pages         = {261--286},
      title         = {Coupling and harmonic functions in the case of continuous time {M}arkov processes},

@@ -15,7 +15,7 @@ bourgain.klein:13:bounds
      journal       = {Invent. Math.},
      mrclass       = {35J10 (35B65)},
      mrnumber      = {3103255},
-     mrreviewer    = {Kenichi Ito},
+     mrreviewer    = {Kenichi\ Ito},
      number        = {1},
      pages         = {41--72},
      title         = {Bounds on the density of states for {S}chr\"{o}dinger operators},

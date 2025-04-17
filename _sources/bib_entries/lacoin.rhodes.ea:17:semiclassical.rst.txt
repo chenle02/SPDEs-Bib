@@ -15,7 +15,7 @@ lacoin.rhodes.ea:17:semiclassical
      journal       = {J. Funct. Anal.},
      mrclass       = {81R12},
      mrnumber      = {3653942},
-     mrreviewer    = {Dmitry Beliaev},
+     mrreviewer    = {Dmitry\ Beliaev},
      number        = {3},
      pages         = {875--916},
      title         = {Semiclassical limit of {L}iouville field theory},

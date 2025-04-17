@@ -15,7 +15,7 @@ mainardi.pagnini:07:role
      journal       = {J. Comput. Appl. Math.},
      mrclass       = {26A33 (33C65 33E12 44A10)},
      mrnumber      = {2345245},
-     mrreviewer    = {Mridula Garg},
+     mrreviewer    = {Mridula\ Garg},
      number        = {2},
      pages         = {245--257},
      title         = {The role of the {F}ox-{W}right functions in fractional sub-diffusion of distributed order},

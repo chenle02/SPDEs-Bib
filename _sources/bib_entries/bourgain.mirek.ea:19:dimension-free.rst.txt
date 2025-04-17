@@ -15,7 +15,7 @@ bourgain.mirek.ea:19:dimension-free
      journal       = {Amer. J. Math.},
      mrclass       = {42B25},
      mrnumber      = {3992568},
-     mrreviewer    = {Kenneth F. Andersen},
+     mrreviewer    = {Kenneth\ F.\ Andersen},
      number        = {4},
      pages         = {857--905},
      title         = {Dimension-free estimates for discrete {H}ardy-{L}ittlewood averaging operators over the cubes in {$\Bbb Z^d$}},

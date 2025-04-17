@@ -15,7 +15,7 @@ athreya.kolba.ea:12:propagating
      journal       = {Electron. J. Probab.},
      mrclass       = {37A25 (37A30 37B25 60H10)},
      mrnumber      = {2994844},
-     mrreviewer    = {Vincent De Valk},
+     mrreviewer    = {Vincent\ De Valk},
      pages         = {no. 96, 38},
      title         = {Propagating {L}yapunov functions to prove noise-induced stabilization},
      url           = {https://doi.org/10.1214/EJP.v17-2410},

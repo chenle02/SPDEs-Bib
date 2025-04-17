@@ -15,7 +15,7 @@ gantert.zeitouni:98:quenched
      journal       = {Comm. Math. Phys.},
      mrclass       = {60K35 (60F10 60J15 82C44)},
      mrnumber      = {1628294},
-     mrreviewer    = {Didier Piau},
+     mrreviewer    = {Didier\ Piau},
      number        = {1},
      pages         = {177--190},
      title         = {Quenched sub-exponential tail estimates for one-dimensional random walk in random environment},

@@ -15,7 +15,7 @@ flandoli.romito:08:markov
      journal       = {Probab. Theory Related Fields},
      mrclass       = {76D05 (35Q30 35R60 60H15 60H30 76M35)},
      mrnumber      = {2365480},
-     mrreviewer    = {Hakima Bessaih},
+     mrreviewer    = {Hakima\ Bessaih},
      number        = {3-4},
      pages         = {407--458},
      title         = {Markov selections for the 3{D} stochastic {N}avier-{S}tokes equations},

@@ -15,7 +15,7 @@ bourgain.guth:11:bounds
      journal       = {Geom. Funct. Anal.},
      mrclass       = {42B20},
      mrnumber      = {2860188},
-     mrreviewer    = {Andrei K. Lerner},
+     mrreviewer    = {Andrei\ K.\ Lerner},
      number        = {6},
      pages         = {1239--1295},
      title         = {Bounds on oscillatory integral operators based on multilinear estimates},

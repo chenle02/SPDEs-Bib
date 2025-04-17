@@ -15,7 +15,7 @@ hermon.lacoin.ea:16:total
      journal       = {Electron. J. Probab.},
      mrclass       = {60J10},
      mrnumber      = {3530321},
-     mrreviewer    = {Yong-Hua Mao},
+     mrreviewer    = {Yong-Hua\ Mao},
      pages         = {Paper No. 44, 36},
      title         = {Total variation and separation cutoffs are not equivalent and neither one implies the other},
      url           = {https://doi.org/10.1214/16-EJP4687},

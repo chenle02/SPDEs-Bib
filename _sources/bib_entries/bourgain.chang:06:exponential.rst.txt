@@ -15,7 +15,7 @@ bourgain.chang:06:exponential
      journal       = {Geom. Funct. Anal.},
      mrclass       = {11L07 (11L05)},
      mrnumber      = {2231466},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      number        = {2},
      pages         = {327--366},
      title         = {Exponential sum estimates over subgroups and almost subgroups of {$\Bbb Z_Q^*$}, where {\$Q\$} is composite with few prime factors},

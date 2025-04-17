@@ -13,7 +13,7 @@ shepp.zeitouni:93:exponential
      isbn          = {3-7643-2833-9},
      mrclass       = {60J60 (60H10 60J65)},
      mrnumber      = {1265050},
-     mrreviewer    = {H.-J. Engelbert},
+     mrreviewer    = {H.-J.\ Engelbert},
      pages         = {203--215},
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Progr. Probab.},

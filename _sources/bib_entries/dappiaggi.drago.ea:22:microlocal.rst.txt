@@ -15,7 +15,7 @@ dappiaggi.drago.ea:22:microlocal
      journal       = {Commun. Contemp. Math.},
      mrclass       = {81T05 (60H17)},
      mrnumber      = {4476312},
-     mrreviewer    = {Michael D\"{u}tsch},
+     mrreviewer    = {Michael\ D\"{u}tsch},
      number        = {7},
      pages         = {Paper No. 2150075, 74},
      title         = {A microlocal approach to renormalization in stochastic {PDE}s},

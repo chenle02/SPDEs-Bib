@@ -15,7 +15,7 @@ cranston.kendall.ea:93:radial
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60J65 (58G32)},
      mrnumber      = {1231929},
-     mrreviewer    = {Jacques Vauthier},
+     mrreviewer    = {Jacques\ Vauthier},
      number        = {3},
      pages         = {353--368},
      title         = {The radial part of {B}rownian motion. {II}. {I}ts life and times on the cut locus},

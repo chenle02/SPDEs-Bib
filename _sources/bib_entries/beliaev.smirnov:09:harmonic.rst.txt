@@ -15,7 +15,7 @@ beliaev.smirnov:09:harmonic
      journal       = {Comm. Math. Phys.},
      mrclass       = {60J67 (28A80 30C85 31A15 60D05)},
      mrnumber      = {2525631},
-     mrreviewer    = {Roland M. Friedrich},
+     mrreviewer    = {Roland\ M.\ Friedrich},
      number        = {2},
      pages         = {577--595},
      title         = {Harmonic measure and {SLE}},

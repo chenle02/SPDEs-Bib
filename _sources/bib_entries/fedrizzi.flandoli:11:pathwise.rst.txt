@@ -15,7 +15,7 @@ fedrizzi.flandoli:11:pathwise
      journal       = {Stochastics},
      mrclass       = {60H10 (35K05 35R60 60J65)},
      mrnumber      = {2810591},
-     mrreviewer    = {Dejun Luo},
+     mrreviewer    = {Dejun\ Luo},
      number        = {3},
      pages         = {241--257},
      title         = {Pathwise uniqueness and continuous dependence of {SDE}s with non-regular drift},

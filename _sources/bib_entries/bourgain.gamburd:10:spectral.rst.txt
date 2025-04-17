@@ -15,7 +15,7 @@ bourgain.gamburd:10:spectral
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {11B30},
      mrnumber      = {2652483},
-     mrreviewer    = {Ben Joseph Green},
+     mrreviewer    = {Ben\ Joseph\ Green},
      number        = {11-12},
      pages         = {609--611},
      title         = {Spectral gaps in {${\rm SU}(d)$}},

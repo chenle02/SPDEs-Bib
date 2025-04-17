@@ -15,7 +15,7 @@ bodineau.derrida:06:current
      journal       = {J. Stat. Phys.},
      mrclass       = {82C22 (60F10 60K35)},
      mrnumber      = {2227085},
-     mrreviewer    = {Ellen Saada},
+     mrreviewer    = {Ellen\ Saada},
      number        = {2},
      pages         = {277--300},
      title         = {Current large deviations for asymmetric exclusion processes with open boundaries},

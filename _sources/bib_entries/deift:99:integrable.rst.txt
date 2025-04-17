@@ -14,7 +14,7 @@ deift:99:integrable
      isbn          = {0-8218-1387-0},
      mrclass       = {47G10 (35Q15 45P05 47B35 82-02)},
      mrnumber      = {1730504},
-     mrreviewer    = {Luen-Chau Li},
+     mrreviewer    = {Luen-Chau\ Li},
      pages         = {69--84},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Amer. Math. Soc. Transl. Ser. 2},

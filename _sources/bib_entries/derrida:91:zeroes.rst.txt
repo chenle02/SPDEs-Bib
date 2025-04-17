@@ -15,7 +15,7 @@ derrida:91:zeroes
      journal       = {Phys. A},
      mrclass       = {82B05 (30C15 82B26)},
      mrnumber      = {1137017},
-     mrreviewer    = {James L. Monroe},
+     mrreviewer    = {James\ L.\ Monroe},
      note          = {Current problems in statistical mechanics (Washington, DC, 1991)},
      number        = {1-3},
      pages         = {31--37},

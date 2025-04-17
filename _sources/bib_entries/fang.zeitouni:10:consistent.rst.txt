@@ -15,7 +15,7 @@ fang.zeitouni:10:consistent
      journal       = {Electron. Commun. Probab.},
      mrclass       = {60G50 (60J80)},
      mrnumber      = {2606508},
-     mrreviewer    = {Sebastian M\"{u}ller},
+     mrreviewer    = {Sebastian\ M\"{u}ller},
      pages         = {106--118},
      title         = {Consistent minimal displacement of branching random walks},
      url           = {https://doi.org/10.1214/ECP.v15-1533},

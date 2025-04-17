@@ -15,7 +15,7 @@ kosygina.varadhan:08:homogenization
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35B27 (34E15 34F05 35B25 35K59 60H30)},
      mrnumber      = {2400607},
-     mrreviewer    = {Mamadou Sango},
+     mrreviewer    = {Mamadou\ Sango},
      number        = {6},
      pages         = {816--847},
      title         = {Homogenization of {H}amilton-{J}acobi-{B}ellman equations with respect to time-space shifts in a stationary ergodic medium},

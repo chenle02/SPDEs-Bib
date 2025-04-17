@@ -15,7 +15,7 @@ bourgain.chang:04:sum-product
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {11L07 (11B75)},
      mrnumber      = {2099542},
-     mrreviewer    = {Ben Joseph Green},
+     mrreviewer    = {Ben\ Joseph\ Green},
      number        = {7},
      pages         = {463--466},
      title         = {Sum-product theorem and exponential sum estimates in residue classes with modulus involving few prime factors},

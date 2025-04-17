@@ -15,7 +15,7 @@ liggett.spitzer:81:ergodic
      journal       = {Z. Wahrsch. Verw. Gebiete},
      mrclass       = {60K35 (60J15 82A05)},
      mrnumber      = {621659},
-     mrreviewer    = {N. U. Prabhu},
+     mrreviewer    = {N.\ U.\ Prabhu},
      number        = {4},
      pages         = {443--468},
      title         = {Ergodic theorems for coupled random walks and other systems with locally interacting components},

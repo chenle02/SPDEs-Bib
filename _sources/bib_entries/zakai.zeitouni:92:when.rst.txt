@@ -14,7 +14,7 @@ zakai.zeitouni:92:when
      journal       = {Ann. Probab.},
      mrclass       = {60H07 (47N30)},
      mrnumber      = {1175269},
-     mrreviewer    = {David Nualart},
+     mrreviewer    = {David\ Nualart},
      number        = {3},
      pages         = {1436--1440},
      title         = {When does the {R}amer formula look like the {G}irsanov formula?},

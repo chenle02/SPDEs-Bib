@@ -15,7 +15,7 @@ bounebache.zambotti:14:skew
      journal       = {J. Theoret. Probab.},
      mrclass       = {60H15 (31C25 60J45 60J55)},
      mrnumber      = {3174222},
-     mrreviewer    = {Victoria Knopova},
+     mrreviewer    = {Victoria\ Knopova},
      number        = {1},
      pages         = {168--201},
      title         = {A skew stochastic heat equation},

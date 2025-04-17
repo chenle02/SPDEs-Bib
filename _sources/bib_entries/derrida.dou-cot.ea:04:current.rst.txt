@@ -15,7 +15,7 @@ derrida.dou-cot.ea:04:current
      journal       = {J. Statist. Phys.},
      mrclass       = {82C22 (60K35)},
      mrnumber      = {2054160},
-     mrreviewer    = {Ellen Saada},
+     mrreviewer    = {Ellen\ Saada},
      number        = {3-4},
      pages         = {717--748},
      title         = {Current fluctuations in the one-dimensional symmetric exclusion process with open boundaries},

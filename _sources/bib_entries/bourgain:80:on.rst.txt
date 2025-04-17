@@ -15,7 +15,7 @@ bourgain:80:on
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {46B20},
      mrnumber      = {565347},
-     mrreviewer    = {Zvi Altshuler},
+     mrreviewer    = {Zvi\ Altshuler},
      number        = {2},
      pages         = {241--246},
      title         = {On separable {B}anach spaces, universal for all separable reflexive spaces},

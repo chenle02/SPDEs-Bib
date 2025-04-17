@@ -15,7 +15,7 @@ bessaih.flandoli.ea:10:stochastic
      journal       = {J. Stat. Phys.},
      mrclass       = {76F55 (37L55 60H10 76M35)},
      mrnumber      = {2670737},
-     mrreviewer    = {Benedetta Ferrario},
+     mrreviewer    = {Benedetta\ Ferrario},
      number        = {4},
      pages         = {688--717},
      title         = {Stochastic attractors for shell phenomenological models of turbulence},

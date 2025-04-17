@@ -15,7 +15,7 @@ deift.venakides.ea:97:new
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {35Q53},
      mrnumber      = {1440305},
-     mrreviewer    = {Linghai Zhang},
+     mrreviewer    = {Linghai\ Zhang},
      number        = {6},
      pages         = {286--299},
      title         = {New results in small dispersion {K}d{V} by an extension of the steepest descent method for {R}iemann-{H}ilbert problems},

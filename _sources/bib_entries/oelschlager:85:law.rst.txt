@@ -15,7 +15,7 @@ oelschlager:85:law
      journal       = {Z. Wahrsch. Verw. Gebiete},
      mrclass       = {60J60 (60K35 82A31)},
      mrnumber      = {779460},
-     mrreviewer    = {Maria E. Vares},
+     mrreviewer    = {Maria\ E.\ Vares},
      number        = {2},
      pages         = {279--322},
      title         = {A law of large numbers for moderately interacting diffusion processes},

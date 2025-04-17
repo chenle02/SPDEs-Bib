@@ -15,7 +15,7 @@ berestycki.nirenberg.ea:94:principal
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35J15 (35B50 35J20 35P15)},
      mrnumber      = {1258192},
-     mrreviewer    = {M. S. Agranovich},
+     mrreviewer    = {M.\ S.\ Agranovich},
      number        = {1},
      pages         = {47--92},
      title         = {The principal eigenvalue and maximum principle for second-order elliptic operators in general domains},

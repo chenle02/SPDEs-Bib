@@ -15,7 +15,7 @@ derrida.enaud.ea:05:fluctuations
      journal       = {J. Stat. Phys.},
      mrclass       = {82C22 (60K35)},
      mrnumber      = {2130640},
-     mrreviewer    = {Marina Vachkovskaia},
+     mrreviewer    = {Marina\ Vachkovskaia},
      number        = {5-6},
      pages         = {795--811},
      title         = {Fluctuations in the weakly asymmetric exclusion process with open boundary conditions},

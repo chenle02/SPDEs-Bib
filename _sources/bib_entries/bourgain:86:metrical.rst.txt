@@ -15,7 +15,7 @@ bourgain:86:metrical
      journal       = {Israel J. Math.},
      mrclass       = {46B10 (46B20)},
      mrnumber      = {880292},
-     mrreviewer    = {R. C. James},
+     mrreviewer    = {R.\ C.\ James},
      number        = {2},
      pages         = {222--230},
      title         = {The metrical interpretation of superreflexivity in {B}anach spaces},

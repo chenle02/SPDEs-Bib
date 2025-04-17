@@ -15,7 +15,7 @@ basu.dembo.ea:20:exponential
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {60G15 (60F10 60G10)},
      mrnumber      = {4182810},
-     mrreviewer    = {Rita Giuliano Antonini},
+     mrreviewer    = {Rita\ Giuliano Antonini},
      number        = {23},
      pages         = {9769--9796},
      title         = {Exponential concentration for zeroes of stationary {G}aussian processes},

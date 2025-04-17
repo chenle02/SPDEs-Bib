@@ -15,7 +15,7 @@ zabczyk:78:on
      journal       = {SIAM J. Control Optim.},
      mrclass       = {47D05 (34G05)},
      mrnumber      = {512915},
-     mrreviewer    = {H. O. Fattorini},
+     mrreviewer    = {H.\ O.\ Fattorini},
      number        = {4},
      pages         = {523--534},
      title         = {On decomposition of generators},

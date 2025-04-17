@@ -15,7 +15,7 @@ cranston.mcconnell:83:lifetime
      journal       = {Z. Wahrsch. Verw. Gebiete},
      mrclass       = {60J65 (60G17)},
      mrnumber      = {717928},
-     mrreviewer    = {Chull Park},
+     mrreviewer    = {Chull\ Park},
      number        = {1},
      pages         = {1--11},
      title         = {The lifetime of conditioned {B}rownian motion},

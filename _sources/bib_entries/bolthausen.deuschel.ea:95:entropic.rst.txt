@@ -14,7 +14,7 @@ bolthausen.deuschel.ea:95:entropic
      journal       = {Comm. Math. Phys.},
      mrclass       = {82B20 (60F15 60G15 81T25)},
      mrnumber      = {1334403},
-     mrreviewer    = {Aernout C. D. van Enter},
+     mrreviewer    = {Aernout\ C. D. van Enter},
      number        = {2},
      pages         = {417--443},
      title         = {Entropic repulsion of the lattice free field},

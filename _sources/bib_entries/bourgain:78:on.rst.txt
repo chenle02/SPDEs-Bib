@@ -14,7 +14,7 @@ bourgain:78:on
      journal       = {Bull. Soc. Math. Belg.},
      mrclass       = {46A55},
      mrnumber      = {582662},
-     mrreviewer    = {Thomas E. Armstrong},
+     mrreviewer    = {Thomas\ E.\ Armstrong},
      number        = {2},
      pages         = {121--133},
      title         = {On the representation of two-dimensional unconditional and symmetric norms},

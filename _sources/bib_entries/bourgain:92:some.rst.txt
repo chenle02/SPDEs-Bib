@@ -15,7 +15,7 @@ bourgain:92:some
      journal       = {Israel J. Math.},
      mrclass       = {46M35 (46E15 47B10)},
      mrnumber      = {1194791},
-     mrreviewer    = {Yu. I. Petunin},
+     mrreviewer    = {Yu.\ I.\ Petunin},
      number        = {1-2},
      pages         = {165--185},
      title         = {Some consequences of {P}isier's approach to interpolation},

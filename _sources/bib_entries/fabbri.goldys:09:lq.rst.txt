@@ -15,7 +15,7 @@ fabbri.goldys:09:lq
      journal       = {SIAM J. Control Optim.},
      mrclass       = {93E20 (35K05 37L55 47D06 49N10 60H05 93C20)},
      mrnumber      = {2496985},
-     mrreviewer    = {Tom\'a\v s Roub\'i\v cek},
+     mrreviewer    = {Tom\'a\v s\ Roub\'i\v cek},
      number        = {3},
      pages         = {1473--1488},
      title         = {An {LQ} problem for the heat equation on the halfline with {D}irichlet boundary control and noise},

@@ -15,7 +15,7 @@ falconer.xiao:95:average
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60J30 (28A75 60G17)},
      mrnumber      = {1313023},
-     mrreviewer    = {S. J. Taylor},
+     mrreviewer    = {S.\ J.\ Taylor},
      number        = {2},
      pages         = {271--283},
      title         = {Average densities of the image and zero set of stable processes},

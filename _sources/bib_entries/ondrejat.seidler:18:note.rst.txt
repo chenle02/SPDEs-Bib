@@ -15,7 +15,7 @@ ondrejat.seidler:18:note
      journal       = {Kybernetika (Prague)},
      mrclass       = {60H10},
      mrnumber      = {3893126},
-     mrreviewer    = {Lijun Bo},
+     mrreviewer    = {Lijun\ Bo},
      number        = {5},
      pages         = {888--907},
      title         = {A note on weak solutions to stochastic differential equations},

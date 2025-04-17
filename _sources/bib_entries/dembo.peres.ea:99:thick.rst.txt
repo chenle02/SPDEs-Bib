@@ -15,7 +15,7 @@ dembo.peres.ea:99:thick
      journal       = {Electron. J. Probab.},
      mrclass       = {60J55 (60G52)},
      mrnumber      = {1690314},
-     mrreviewer    = {Larbi Alili},
+     mrreviewer    = {Larbi\ Alili},
      pages         = {no. 10, 13},
      title         = {Thick points for transient symmetric stable processes},
      url           = {https://doi.org/10.1214/EJP.v4-47},

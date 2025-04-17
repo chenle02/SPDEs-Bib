@@ -15,7 +15,7 @@ barral.mensi:07:gibbs
      journal       = {Ergodic Theory Dynam. Systems},
      mrclass       = {37C45 (28A78)},
      mrnumber      = {2358972},
-     mrreviewer    = {Lars Olsen},
+     mrreviewer    = {Lars\ Olsen},
      number        = {5},
      pages         = {1419--1443},
      title         = {Gibbs measures on self-affine {S}ierpi\'nski carpets and their singularity spectrum},

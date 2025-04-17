@@ -14,7 +14,7 @@ wu.xiao:95:some
      journal       = {Chinese Ann. Math. Ser. B},
      mrclass       = {60G17 (60J65)},
      mrnumber      = {1342142},
-     mrreviewer    = {S. J. Taylor},
+     mrreviewer    = {S.\ J.\ Taylor},
      note          = {A Chinese summary appears in Chinese Ann. Math. Ser. A {\bf 16} (1995), no. 2, 260},
      number        = {2},
      pages         = {191--202},

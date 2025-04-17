@@ -15,7 +15,7 @@ bourgain:88:almost
      journal       = {Israel J. Math.},
      mrclass       = {60G15 (28D99 47A35 47B38 94A17)},
      mrnumber      = {959049},
-     mrreviewer    = {F. M\'{o}ricz},
+     mrreviewer    = {F.\ M\'{o}ricz},
      number        = {1},
      pages         = {79--97},
      title         = {Almost sure convergence and bounded entropy},

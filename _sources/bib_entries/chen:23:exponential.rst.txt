@@ -15,7 +15,7 @@ chen:23:exponential
      journal       = {Electron. J. Probab.},
      mrclass       = {60F10 (60G15 60J65)},
      mrnumber      = {4660700},
-     mrreviewer    = {Thorsten Dickhaus},
+     mrreviewer    = {Thorsten\ Dickhaus},
      pages         = {Paper No. 119, 17},
      title         = {Exponential asymptotics for {B}rownian self-intersection local times under {D}alang's condition},
      url           = {https://doi.org/10.1214/23-ejp985},

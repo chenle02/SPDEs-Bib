@@ -15,7 +15,7 @@ bourgain.gamburd:08:on
      journal       = {Invent. Math.},
      mrclass       = {22E30 (11B75 43A75)},
      mrnumber      = {2358056},
-     mrreviewer    = {Ben Joseph Green},
+     mrreviewer    = {Ben\ Joseph\ Green},
      number        = {1},
      pages         = {83--121},
      title         = {On the spectral gap for finitely-generated subgroups of {$\rm SU(2)$}},

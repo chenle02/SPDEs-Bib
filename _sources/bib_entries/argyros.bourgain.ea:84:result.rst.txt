@@ -15,7 +15,7 @@ argyros.bourgain.ea:84:result
      journal       = {Studia Math.},
      mrclass       = {46B20},
      mrnumber      = {766706},
-     mrreviewer    = {Stefan Heinrich},
+     mrreviewer    = {Stefan\ Heinrich},
      number        = {1},
      pages         = {77--91},
      title         = {A result on the isomorphic embeddability of {$l^1(\Gamma)$}},

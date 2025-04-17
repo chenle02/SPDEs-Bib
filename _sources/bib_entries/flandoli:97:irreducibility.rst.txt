@@ -15,7 +15,7 @@ flandoli:97:irreducibility
      journal       = {J. Funct. Anal.},
      mrclass       = {35R60 (35Q30 60H15 76D05)},
      mrnumber      = {1471103},
-     mrreviewer    = {Peter E. Kloeden},
+     mrreviewer    = {Peter\ E.\ Kloeden},
      number        = {1},
      pages         = {160--177},
      title         = {Irreducibility of the {$3$}-{D} stochastic {N}avier-{S}tokes equation},

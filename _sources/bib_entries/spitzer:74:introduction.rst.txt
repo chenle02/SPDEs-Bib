@@ -12,7 +12,7 @@ spitzer:74:introduction
      booktitle     = {\'{E}cole d'\'{E}t\'{e} de {P}robabilit\'{e}s de {S}aint-{F}lour, {III}--1973},
      mrclass       = {60K35},
      mrnumber      = {436388},
-     mrreviewer    = {Hans-Otto Georgii},
+     mrreviewer    = {Hans-Otto\ Georgii},
      pages         = {114--189},
      publisher     = {Springer, Berlin-New York},
      series        = {Lecture Notes in Math.},

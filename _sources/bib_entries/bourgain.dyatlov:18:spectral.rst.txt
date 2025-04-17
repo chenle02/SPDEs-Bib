@@ -15,7 +15,7 @@ bourgain.dyatlov:18:spectral
      journal       = {Ann. of Math. (2)},
      mrclass       = {43A85 (30D60 35B34 35P05 35R01 58J50)},
      mrnumber      = {3779959},
-     mrreviewer    = {Anton Deitmar},
+     mrreviewer    = {Anton\ Deitmar},
      number        = {3},
      pages         = {825--867},
      title         = {Spectral gaps without the pressure condition},

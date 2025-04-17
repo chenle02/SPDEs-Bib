@@ -15,7 +15,7 @@ flandoli.gubinelli.ea:09:on
      journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
      mrclass       = {60H05 (60G18 60G22 60H30 76F55 76M35)},
      mrnumber      = {2521413},
-     mrreviewer    = {Ivan Nourdin},
+     mrreviewer    = {Ivan\ Nourdin},
      number        = {2},
      pages         = {545--576},
      title         = {On the regularity of stochastic currents, fractional {B}rownian motion and applications to a turbulence model},

@@ -14,7 +14,7 @@ bourgain:78:geometric
      journal       = {Compositio Math.},
      mrclass       = {46B20},
      mrnumber      = {515034},
-     mrreviewer    = {J. Diestel},
+     mrreviewer    = {J.\ Diestel},
      number        = {1},
      pages         = {3--6},
      title         = {A geometric characterization of the {R}adon-{N}ikod\'{y}m property in {B}anach spaces},

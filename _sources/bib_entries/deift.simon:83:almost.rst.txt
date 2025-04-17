@@ -14,7 +14,7 @@ deift.simon:83:almost
      journal       = {Comm. Math. Phys.},
      mrclass       = {34B25 (35P05 47F05 81C10)},
      mrnumber      = {719297},
-     mrreviewer    = {W. O. Amrein},
+     mrreviewer    = {W.\ O.\ Amrein},
      number        = {3},
      pages         = {389--411},
      title         = {Almost periodic {S}chr\"odinger operators. {III}. {T}he absolutely continuous spectrum in one dimension},

@@ -15,7 +15,7 @@ bourgain.sato:86:direct
      journal       = {Studia Math.},
      mrclass       = {42B10 (60E10)},
      mrnumber      = {871852},
-     mrreviewer    = {Colin C. Graham},
+     mrreviewer    = {Colin\ C.\ Graham},
      number        = {2},
      pages         = {125--131},
      title         = {A direct proof of van der {V}aart's theorem},

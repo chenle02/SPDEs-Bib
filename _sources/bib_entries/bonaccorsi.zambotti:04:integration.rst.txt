@@ -15,7 +15,7 @@ bonaccorsi.zambotti:04:integration
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {60H07 (31C25 60H15 60J55)},
      mrnumber      = {2019968},
-     mrreviewer    = {Catherine Donati-Martin},
+     mrreviewer    = {Catherine\ Donati-Martin},
      number        = {3},
      pages         = {875--883},
      title         = {Integration by parts on the {B}rownian meander},

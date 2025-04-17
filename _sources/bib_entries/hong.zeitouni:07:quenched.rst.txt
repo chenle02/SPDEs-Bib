@@ -15,7 +15,7 @@ hong.zeitouni:07:quenched
      journal       = {J. Theoret. Probab.},
      mrclass       = {60J80 (60F05)},
      mrnumber      = {2359056},
-     mrreviewer    = {Jochen Blath},
+     mrreviewer    = {Jochen\ Blath},
      number        = {4},
      pages         = {807--820},
      title         = {A quenched {CLT} for super-{B}rownian motion with random immigration},

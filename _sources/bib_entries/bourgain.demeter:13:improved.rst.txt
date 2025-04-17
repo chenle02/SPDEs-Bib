@@ -14,7 +14,7 @@ bourgain.demeter:13:improved
      journal       = {Illinois J. Math.},
      mrclass       = {11L07 (11L05 42A16)},
      mrnumber      = {3224568},
-     mrreviewer    = {Matthew P. Young},
+     mrreviewer    = {Matthew\ P.\ Young},
      number        = {1},
      pages         = {213--227},
      title         = {Improved estimates for the discrete {F}ourier restriction to the higher dimensional sphere},

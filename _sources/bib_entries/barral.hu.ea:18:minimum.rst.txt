@@ -15,7 +15,7 @@ barral.hu.ea:18:minimum
      journal       = {Bernoulli},
      mrclass       = {60J80 (60F05 60G50)},
      mrnumber      = {3706777},
-     mrreviewer    = {Bastien Mallein},
+     mrreviewer    = {Bastien\ Mallein},
      number        = {2},
      pages         = {801--841},
      title         = {The minimum of a branching random walk outside the boundary case},

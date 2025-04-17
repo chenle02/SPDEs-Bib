@@ -15,7 +15,7 @@ derrida.lebowitz.ea:07:entropy
      journal       = {J. Stat. Phys.},
      mrclass       = {82C20 (60K35 82C26)},
      mrnumber      = {2311899},
-     mrreviewer    = {Marina Vachkovskaia},
+     mrreviewer    = {Marina\ Vachkovskaia},
      number        = {4-5},
      pages         = {1083--1108},
      title         = {Entropy of open lattice systems},

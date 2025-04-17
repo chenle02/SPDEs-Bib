@@ -15,7 +15,7 @@ bourgain:10:discretized
      journal       = {J. Anal. Math.},
      mrclass       = {11B30},
      mrnumber      = {2763000},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      pages         = {193--236},
      title         = {The discretized sum-product and projection theorems},
      url           = {https://doi.org/10.1007/s11854-010-0028-x},

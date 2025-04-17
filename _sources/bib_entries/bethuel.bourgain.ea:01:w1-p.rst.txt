@@ -15,7 +15,7 @@ bethuel.bourgain.ea:01:w1-p
      journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
      mrclass       = {35J60 (35B25 35J20 35J65)},
      mrnumber      = {1881236},
-     mrreviewer    = {Stanley A. Alama},
+     mrreviewer    = {Stanley\ A.\ Alama},
      number        = {12},
      pages         = {1069--1076},
      title         = {{$W^{1,p}$} estimates for solutions to the {G}inzburg-{L}andau equation with boundary data in {\$H^{1/2}\$}},

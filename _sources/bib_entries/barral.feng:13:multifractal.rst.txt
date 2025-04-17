@@ -15,7 +15,7 @@ barral.feng:13:multifractal
      journal       = {Comm. Math. Phys.},
      mrclass       = {28A80 (28C10)},
      mrnumber      = {3020165},
-     mrreviewer    = {St\'ephane Seuret},
+     mrreviewer    = {St\'ephane\ Seuret},
      number        = {2},
      pages         = {473--504},
      title         = {Multifractal formalism for almost all self-affine measures},

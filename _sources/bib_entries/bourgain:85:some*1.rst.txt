@@ -14,7 +14,7 @@ bourgain:85:some*1
      journal       = {Ast\'{e}risque},
      mrclass       = {46J15 (32E25)},
      mrnumber      = {816752},
-     mrreviewer    = {S. V. Kislyakov},
+     mrreviewer    = {S.\ V.\ Kislyakov},
      note          = {Colloquium in honor of Laurent Schwartz, Vol. 1 (Palaiseau,~1983)},
      number        = {131},
      pages         = {279--298},

@@ -15,7 +15,7 @@ issa.salako.ea:21:traveling
      journal       = {Nonlinear Anal.},
      mrclass       = {35B35 (35B40 35K57 35Q92 92C17)},
      mrnumber      = {4285038},
-     mrreviewer    = {Mihaela Negreanu},
+     mrreviewer    = {Mihaela\ Negreanu},
      pages         = {Paper No. 112480, 25},
      title         = {Traveling wave solutions for two species competitive chemotaxis systems},
      url           = {https://doi.org/10.1016/j.na.2021.112480},

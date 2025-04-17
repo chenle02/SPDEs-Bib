@@ -15,7 +15,7 @@ goldys.neerven:03:transition
      journal       = {Acta Appl. Math.},
      mrclass       = {47D07 (47D06 60H15 60J35)},
      mrnumber      = {1976297},
-     mrreviewer    = {Vladimir I. Bogachev},
+     mrreviewer    = {Vladimir\ I.\ Bogachev},
      number        = {3},
      pages         = {283--330},
      title         = {Transition semigroups of {B}anach space-valued {O}rnstein-{U}hlenbeck processes},

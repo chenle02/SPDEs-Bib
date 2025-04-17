@@ -13,7 +13,7 @@ smirnov:10:discrete
      isbn          = {978-81-85931-08-3; 978-981-4324-31-1; 981-4324-31-0},
      mrclass       = {60J67 (30G25 60K35)},
      mrnumber      = {2827906},
-     mrreviewer    = {Dmitry Beliaev},
+     mrreviewer    = {Dmitry\ Beliaev},
      pages         = {595--621},
      publisher     = {Hindustan Book Agency, New Delhi},
      title         = {Discrete complex analysis and probability},

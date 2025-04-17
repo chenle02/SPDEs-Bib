@@ -15,7 +15,7 @@ cranston.koralov.ea:10:solvable
      journal       = {Random Oper. Stoch. Equ.},
      mrclass       = {60K37 (35K10 47D07 60K35)},
      mrnumber      = {2606477},
-     mrreviewer    = {Quansheng Liu},
+     mrreviewer    = {Quansheng\ Liu},
      number        = {1},
      pages         = {73--95},
      title         = {A solvable model for homopolymers and self-similarity near the critical point},

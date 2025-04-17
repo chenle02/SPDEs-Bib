@@ -15,7 +15,7 @@ bourgain.demeter:16:decouplings
      journal       = {J. Funct. Anal.},
      mrclass       = {42B37 (11L03 53A05)},
      mrnumber      = {3447712},
-     mrreviewer    = {Juan Luis Varona},
+     mrreviewer    = {Juan\ Luis\ Varona},
      number        = {4},
      pages         = {1299--1318},
      title         = {Decouplings for surfaces in {$\Bbb{R}^4$}},

@@ -15,7 +15,7 @@ luchko:20:fractional
      journal       = {Fract. Calc. Appl. Anal.},
      mrclass       = {26A33 (26B30 44A10 45E10)},
      mrnumber      = {4151092},
-     mrreviewer    = {Jyotindra C. Prajapati},
+     mrreviewer    = {Jyotindra\ C.\ Prajapati},
      number        = {4},
      pages         = {939--966},
      title         = {Fractional derivatives and the fundamental theorem of fractional calculus},

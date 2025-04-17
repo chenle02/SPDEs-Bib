@@ -15,7 +15,7 @@ bulla.gesztesy.ea:97:weakly
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {81Q10 (35J05 35P05 47F05 47N50)},
      mrnumber      = {1371117},
-     mrreviewer    = {Mihai Pascu},
+     mrreviewer    = {Mihai\ Pascu},
      number        = {5},
      pages         = {1487--1495},
      title         = {Weakly coupled bound states in quantum waveguides},

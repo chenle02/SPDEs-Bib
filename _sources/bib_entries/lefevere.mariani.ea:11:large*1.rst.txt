@@ -15,7 +15,7 @@ lefevere.mariani.ea:11:large*1
      journal       = {J. Math. Phys.},
      mrclass       = {60F10 (82C31)},
      mrnumber      = {2814865},
-     mrreviewer    = {Rapha\"{e}l Cerf},
+     mrreviewer    = {Rapha\"{e}l\ Cerf},
      number        = {3},
      pages         = {033302, 22},
      title         = {Large deviations of the current in stochastic collisional dynamics},

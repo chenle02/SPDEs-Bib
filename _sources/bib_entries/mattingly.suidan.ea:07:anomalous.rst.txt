@@ -15,7 +15,7 @@ mattingly.suidan.ea:07:anomalous
      journal       = {J. Stat. Phys.},
      mrclass       = {37L55 (60H10 82C05)},
      mrnumber      = {2348788},
-     mrreviewer    = {Rodica Luca},
+     mrreviewer    = {Rodica\ Luca},
      number        = {5},
      pages         = {1145--1152},
      title         = {Anomalous dissipation in a stochastically forced infinite-dimensional system of coupled oscillators},

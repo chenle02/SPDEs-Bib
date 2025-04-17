@@ -13,7 +13,7 @@ papanicolaou.varadhan:81:boundary
      isbn          = {0-444-85441-X},
      mrclass       = {58G32 (35R60 60H10 82A05)},
      mrnumber      = {712714},
-     mrreviewer    = {Jacques Vauthier},
+     mrreviewer    = {Jacques\ Vauthier},
      pages         = {835--873},
      publisher     = {North-Holland, Amsterdam-New York},
      series        = {Colloq. Math. Soc. J\'anos Bolyai},

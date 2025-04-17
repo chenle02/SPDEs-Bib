@@ -15,7 +15,7 @@ hsu.lin.ea:99:traveling
      journal       = {Internat. J. Bifur. Chaos Appl. Sci. Engrg.},
      mrclass       = {82C32 (34K10 37C99 37N25 92B20)},
      mrnumber      = {1729676},
-     mrreviewer    = {P. W. Bates},
+     mrreviewer    = {P.\ W.\ Bates},
      number        = {7},
      pages         = {1307--1319},
      title         = {Traveling waves in cellular neural networks},

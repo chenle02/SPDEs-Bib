@@ -15,7 +15,7 @@ zhou.xiao:17:tail
      journal       = {Bernoulli},
      mrclass       = {60G15 (60F99 60G60 60G70)},
      mrnumber      = {3624871},
-     mrreviewer    = {Ou Zhao},
+     mrreviewer    = {Ou\ Zhao},
      number        = {3},
      pages         = {1566--1598},
      title         = {Tail asymptotics for the extremes of bivariate {G}aussian random fields},

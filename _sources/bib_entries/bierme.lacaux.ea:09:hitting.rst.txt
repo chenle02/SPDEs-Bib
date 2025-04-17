@@ -15,7 +15,7 @@ bierme.lacaux.ea:09:hitting
      journal       = {Bull. Lond. Math. Soc.},
      mrclass       = {60G60 (28A80 60G15 60G17)},
      mrnumber      = {2496502},
-     mrreviewer    = {Anatoliy Malyarenko},
+     mrreviewer    = {Anatoliy\ Malyarenko},
      number        = {2},
      pages         = {253--273},
      title         = {Hitting probabilities and the {H}ausdorff dimension of the inverse images of anisotropic {G}aussian random fields},

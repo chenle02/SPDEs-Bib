@@ -15,7 +15,7 @@ sang.xiao:18:exact
      journal       = {J. Appl. Probab.},
      mrclass       = {60F10 (60G60 62E20)},
      mrnumber      = {3832897},
-     mrreviewer    = {Fr\'{e}d\'{e}ric Ouimet},
+     mrreviewer    = {Fr\'{e}d\'{e}ric\ Ouimet},
      number        = {2},
      pages         = {431--449},
      title         = {Exact moderate and large deviations for linear random fields},

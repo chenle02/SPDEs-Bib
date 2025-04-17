@@ -15,7 +15,7 @@ bourgain.bulut:14:invariant
      journal       = {J. Funct. Anal.},
      mrclass       = {35L71 (35B30 35L20 35R11 35S05 37L05 74G10)},
      mrnumber      = {3150162},
-     mrreviewer    = {Flank D. M. Bezerra},
+     mrreviewer    = {Flank\ D. M. Bezerra},
      number        = {4},
      pages         = {2319--2340},
      title         = {Invariant {G}ibbs measure evolution for the radial nonlinear wave equation on the 3d ball},

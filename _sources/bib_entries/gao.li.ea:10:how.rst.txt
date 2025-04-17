@@ -15,7 +15,7 @@ gao.li.ea:10:how
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {46N30 (46B50 60F10 60G15 60G52 62G05)},
      mrnumber      = {2680059},
-     mrreviewer    = {Werner Linde},
+     mrreviewer    = {Werner\ Linde},
      number        = {12},
      pages         = {4331--4344},
      title         = {How many {L}aplace transforms of probability measures are there?},

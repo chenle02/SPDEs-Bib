@@ -15,7 +15,7 @@ bourgain.mirek.ea:18:on
      journal       = {Geom. Funct. Anal.},
      mrclass       = {42B25 (47J20 52A20)},
      mrnumber      = {3777413},
-     mrreviewer    = {Dmitry Ryabogin},
+     mrreviewer    = {Dmitry\ Ryabogin},
      number        = {1},
      pages         = {58--99},
      title         = {On dimension-free variational inequalities for averaging operators in {$\Bbb R^d$}},

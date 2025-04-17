@@ -15,7 +15,7 @@ spitzer:58:some
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {60.00},
      mrnumber      = {104296},
-     mrreviewer    = {S. K. Zaremba},
+     mrreviewer    = {S.\ K.\ Zaremba},
      pages         = {187--197},
      title         = {Some theorems concerning {$2$}-dimensional {B}rownian motion},
      url           = {https://doi.org/10.2307/1993096},

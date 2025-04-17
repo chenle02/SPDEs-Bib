@@ -14,7 +14,7 @@ lacoin.morters:12:scaling
      isbn          = {978-3-642-23811-6; 978-3-642-23810-9},
      mrclass       = {60H25 (60F05 60F10 60F15 82C44)},
      mrnumber      = {3372851},
-     mrreviewer    = {Achim Klenke},
+     mrreviewer    = {Achim\ Klenke},
      pages         = {247--272},
      publisher     = {Springer, Heidelberg},
      series        = {Springer Proc. Math.},

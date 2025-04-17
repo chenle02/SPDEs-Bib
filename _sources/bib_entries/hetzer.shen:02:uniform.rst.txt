@@ -15,7 +15,7 @@ hetzer.shen:02:uniform
      journal       = {SIAM J. Math. Anal.},
      mrclass       = {37N25 (35B15 35B40 35K57 37L05 92D25)},
      mrnumber      = {1950832},
-     mrreviewer    = {Michael Grinfeld},
+     mrreviewer    = {Michael\ Grinfeld},
      number        = {1},
      pages         = {204--227},
      title         = {Uniform persistence, coexistence, and extinction in almost periodic/nonautonomous competition diffusion systems},

@@ -15,7 +15,7 @@ donsker.varadhan:89:large
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60K35 (60F10 82A31)},
      mrnumber      = {982350},
-     mrreviewer    = {Francis Comets},
+     mrreviewer    = {Francis\ Comets},
      number        = {3},
      pages         = {243--270},
      title         = {Large deviations from a hydrodynamic scaling limit},

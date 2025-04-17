@@ -14,7 +14,7 @@ zambotti:08:fluctuations
      journal       = {ALEA Lat. Am. J. Probab. Math. Stat.},
      mrclass       = {60K35 (60H15)},
      mrnumber      = {2421180},
-     mrreviewer    = {Glauco Valle},
+     mrreviewer    = {Glauco\ Valle},
      pages         = {167--184},
      title         = {Fluctuations for a conservative interface model on a wall},
      volume        = {4},

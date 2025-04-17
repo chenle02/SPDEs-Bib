@@ -15,7 +15,7 @@ deift.krasovsky.ea:11:asymptotics
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {60B20 (33C15 47B10 47G10 47N30)},
      mrnumber      = {2806560},
-     mrreviewer    = {Sasha Sodin},
+     mrreviewer    = {Sasha\ Sodin},
      number        = {9},
      pages         = {2117--2160},
      title         = {Asymptotics for a determinant with a confluent hypergeometric kernel},

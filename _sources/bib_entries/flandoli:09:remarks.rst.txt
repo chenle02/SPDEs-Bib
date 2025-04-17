@@ -15,7 +15,7 @@ flandoli:09:remarks
      journal       = {Metrika},
      mrclass       = {60H10 (34F05)},
      mrnumber      = {2481917},
-     mrreviewer    = {Ning-Mao Xia},
+     mrreviewer    = {Ning-Mao\ Xia},
      number        = {2-3},
      pages         = {101--123},
      title         = {Remarks on uniqueness and strong solutions to deterministic and stochastic differential equations},

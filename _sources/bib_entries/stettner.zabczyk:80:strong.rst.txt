@@ -15,7 +15,7 @@ stettner.zabczyk:80:strong
      journal       = {Stochastics},
      mrclass       = {60G44 (60J35 62L15)},
      mrnumber      = {609689},
-     mrreviewer    = {F. B. Knight},
+     mrreviewer    = {F.\ B.\ Knight},
      number        = {4},
      pages         = {267--280},
      title         = {Strong envelopes of stochastic processes and a penalty method},

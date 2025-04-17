@@ -15,7 +15,7 @@ bourgain.colliander:96:on
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {35Q55},
      mrnumber      = {1405972},
-     mrreviewer    = {Nakao Hayashi},
+     mrreviewer    = {Nakao\ Hayashi},
      number        = {11},
      pages         = {515--546},
      title         = {On wellposedness of the {Z}akharov system},

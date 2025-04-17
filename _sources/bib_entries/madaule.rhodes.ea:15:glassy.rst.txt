@@ -15,7 +15,7 @@ madaule.rhodes.ea:15:glassy
      journal       = {Comm. Math. Phys.},
      mrclass       = {60G57 (60J80)},
      mrnumber      = {3312433},
-     mrreviewer    = {Yueyun Hu},
+     mrreviewer    = {Yueyun\ Hu},
      number        = {3},
      pages         = {1157--1187},
      title         = {The glassy phase of complex branching {B}rownian motion},

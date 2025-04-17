@@ -14,7 +14,7 @@ peszat.twardowska.ea:21:ergodicity
      journal       = {J. Stoch. Anal.},
      mrclass       = {60H15 (35Q35 60J35)},
      mrnumber      = {4304481},
-     mrreviewer    = {Liping Li},
+     mrreviewer    = {Liping\ Li},
      number        = {3},
      pages         = {Art. 10, 16},
      title         = {Ergodicity of {B}urgers' system},

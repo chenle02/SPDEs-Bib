@@ -14,7 +14,7 @@ bourgain:97:analysis
      isbn          = {0-8218-0565-7},
      mrclass       = {42B05 (11P21 35P20 35Q55)},
      mrnumber      = {1467003},
-     mrreviewer    = {C. Eugene Wayne},
+     mrreviewer    = {C.\ Eugene\ Wayne},
      pages         = {85--109},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Contemp. Math.},

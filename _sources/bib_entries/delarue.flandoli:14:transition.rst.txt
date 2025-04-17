@@ -15,7 +15,7 @@ delarue.flandoli:14:transition
      journal       = {Discrete Contin. Dyn. Syst.},
      mrclass       = {60H10 (34A12 34F05 60F99)},
      mrnumber      = {3195359},
-     mrreviewer    = {Daniel C. Biles},
+     mrreviewer    = {Daniel\ C.\ Biles},
      number        = {10},
      pages         = {4071--4083},
      title         = {The transition point in the zero noise limit for a 1{D} {P}eano example},

@@ -14,7 +14,7 @@ varadhan:91:scaling
      journal       = {Comm. Math. Phys.},
      mrclass       = {60K35 (60J60 82C22)},
      mrnumber      = {1087387},
-     mrreviewer    = {D. W. Stroock},
+     mrreviewer    = {D.\ W.\ Stroock},
      number        = {2},
      pages         = {313--353},
      title         = {Scaling limits for interacting diffusions},

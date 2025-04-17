@@ -13,7 +13,7 @@ varadhan:93:nonlinear
      isbn          = {0-582-08656-6},
      mrclass       = {60K35 (60J60)},
      mrnumber      = {1354152},
-     mrreviewer    = {Ingemar Kaj},
+     mrreviewer    = {Ingemar\ Kaj},
      pages         = {75--128},
      publisher     = {Longman Sci. Tech., Harlow},
      series        = {Pitman Res. Notes Math. Ser.},

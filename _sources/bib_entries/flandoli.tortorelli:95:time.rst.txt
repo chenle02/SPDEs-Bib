@@ -15,7 +15,7 @@ flandoli.tortorelli:95:time
      journal       = {Stochastics Stochastics Rep.},
      mrclass       = {35R60 (35Q30 60H15 76M35)},
      mrnumber      = {1382289},
-     mrreviewer    = {Ana Bela Cruzeiro},
+     mrreviewer    = {Ana\ Bela\ Cruzeiro},
      number        = {1-2},
      pages         = {141--165},
      title         = {Time discretization of {O}rnstein-{U}hlenbeck equations and stochastic {N}avier-{S}tokes equations with a generalized noise},

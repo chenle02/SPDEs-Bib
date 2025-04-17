@@ -15,7 +15,7 @@ bourgain:04:remarks
      journal       = {Ergodic Theory Dynam. Systems},
      mrclass       = {37K55 (35B35 35Q55 37K60)},
      mrnumber      = {2104588},
-     mrreviewer    = {C. Eugene Wayne},
+     mrreviewer    = {C.\ Eugene\ Wayne},
      number        = {5},
      pages         = {1331--1357},
      title         = {Remarks on stability and diffusion in high-dimensional {H}amiltonian systems and partial differential equations},

@@ -15,7 +15,7 @@ bourgain:77:on
      journal       = {Israel J. Math.},
      mrclass       = {46B05},
      mrnumber      = {482076},
-     mrreviewer    = {Robert E. Huff},
+     mrreviewer    = {Robert\ E.\ Huff},
      number        = {4},
      pages         = {265--271},
      title         = {On dentability and the {B}ishop-{P}helps property},

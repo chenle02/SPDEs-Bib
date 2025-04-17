@@ -15,7 +15,7 @@ bourgain.delbaen:80:class
      journal       = {Acta Math.},
      mrclass       = {46B20},
      mrnumber      = {590288},
-     mrreviewer    = {G. J. O. Jameson},
+     mrreviewer    = {G.\ J. O. Jameson},
      number        = {3-4},
      pages         = {155--176},
      title         = {A class of special {${\cal L}\sb{infty }$} spaces},

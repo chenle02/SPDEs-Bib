@@ -14,7 +14,7 @@ liptser.zeitouni:98:robust
      journal       = {J. Math. Systems Estim. Control},
      mrclass       = {93E11},
      mrnumber      = {1650159},
-     mrreviewer    = {Vivek S. Borkar},
+     mrreviewer    = {Vivek\ S.\ Borkar},
      number        = {1},
      pages         = {22 pp.},
      title         = {Robust diffusion approximation for nonlinear filtering},

@@ -15,7 +15,7 @@ bourgain:86:on*3
      journal       = {Israel J. Math.},
      mrclass       = {47A65},
      mrnumber      = {852479},
-     mrreviewer    = {Vern Paulsen},
+     mrreviewer    = {Vern\ Paulsen},
      number        = {2},
      pages         = {227--241},
      title         = {On the similarity problem for polynomially bounded operators on {H}ilbert space},

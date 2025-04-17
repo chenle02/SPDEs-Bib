@@ -15,7 +15,7 @@ mainardi.pagnini.ea:05:fox
      journal       = {J. Comput. Appl. Math.},
      mrclass       = {26A33 (33C60 33E20 35K57 44A15 60G18 60J60)},
      mrnumber      = {2127888},
-     mrreviewer    = {R. K. Raina},
+     mrreviewer    = {R.\ K.\ Raina},
      number        = {1-2},
      pages         = {321--331},
      title         = {Fox {$H$} functions in fractional diffusion},

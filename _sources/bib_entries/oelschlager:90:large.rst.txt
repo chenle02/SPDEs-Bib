@@ -15,7 +15,7 @@ oelschlager:90:large
      journal       = {J. Differential Equations},
      mrclass       = {82C70 (35K55 60K35 76S05)},
      mrnumber      = {1081251},
-     mrreviewer    = {G. Leha},
+     mrreviewer    = {G.\ Leha},
      number        = {2},
      pages         = {294--346},
      title         = {Large systems of interacting particles and the porous medium equation},

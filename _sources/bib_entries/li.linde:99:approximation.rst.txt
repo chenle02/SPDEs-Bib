@@ -15,7 +15,7 @@ li.linde:99:approximation
      journal       = {Ann. Probab.},
      mrclass       = {60G15 (46G12 47B06 47G10 60F99)},
      mrnumber      = {1733160},
-     mrreviewer    = {Qi Man Shao},
+     mrreviewer    = {Qi\ Man\ Shao},
      number        = {3},
      pages         = {1556--1578},
      title         = {Approximation, metric entropy and small ball estimates for {G}aussian measures},

@@ -15,7 +15,7 @@ flandoli.gess.ea:17:synchronization*1
      journal       = {Probab. Theory Related Fields},
      mrclass       = {37H15 (37B25 37G35 60H10)},
      mrnumber      = {3663624},
-     mrreviewer    = {Min Zhao},
+     mrreviewer    = {Min\ Zhao},
      number        = {3-4},
      pages         = {511--556},
      title         = {Synchronization by noise},

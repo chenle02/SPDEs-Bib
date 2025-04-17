@@ -15,7 +15,7 @@ kesten.stigum:66:additional
      journal       = {Ann. Math. Statist.},
      mrclass       = {60.67},
      mrnumber      = {200979},
-     mrreviewer    = {I. J. Good},
+     mrreviewer    = {I.\ J.\ Good},
      pages         = {1463--1481},
      title         = {Additional limit theorems for indecomposable multidimensional {G}alton-{W}atson processes},
      url           = {https://doi.org/10.1214/aoms/1177699139},

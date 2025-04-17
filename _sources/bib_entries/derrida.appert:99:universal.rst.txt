@@ -15,7 +15,7 @@ derrida.appert:99:universal
      journal       = {J. Statist. Phys.},
      mrclass       = {82C22 (60F10 82C24)},
      mrnumber      = {1679690},
-     mrreviewer    = {Filippo Cesi},
+     mrreviewer    = {Filippo\ Cesi},
      number        = {1-2},
      pages         = {1--30},
      title         = {Universal large-deviation function of the {K}ardar-{P}arisi-{Z}hang equation in one dimension},

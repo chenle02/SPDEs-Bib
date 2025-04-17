@@ -15,7 +15,7 @@ safikhani.xiao:19:spectral
      journal       = {Electron. J. Probab.},
      mrclass       = {60G60 (62H11)},
      mrnumber      = {3916328},
-     mrreviewer    = {Johannes T. N. Krebs},
+     mrreviewer    = {Johannes\ T. N. Krebs},
      pages         = {Paper No. 8, 19},
      title         = {Spectral conditions for equivalence of {G}aussian random fields with stationary increments},
      url           = {https://doi.org/10.1214/19-EJP270},

@@ -13,9 +13,11 @@ from pathlib import Path
 def convert_wav_to_rst_name(wav_filename):
     # Remove .wav extension
     base_name = wav_filename[:-4]
-    # Convert back to citation format: underscore to dot, hyphen to colon
-    rst_name = base_name.replace('_', '.').replace('-', ':')
-    return f"{rst_name}.rst"
+    # Replace _ with .
+    base_name = base_name.replace('_', '.')
+    # Replace -99- (or any number) with :99:
+    base_name = re.sub(r'-(\d+)-', r':\1:', base_name)
+    return f"{base_name}.rst"
 
 
 def check_and_add_audio(rst_file_path, wav_filename):
@@ -28,7 +30,14 @@ def check_and_add_audio(rst_file_path, wav_filename):
         return False
 
     # Match BibTeX code block followed by "`Back to"
-    pattern = r'(\*\*BibTeX Entry:\*\*\s*\n\s*\.\. code-block:: bibtex\s*\n(?:\n|.)*?^\s*})\s*\n\s*(?=`Back to)'
+    pattern = (
+        r'(\*\*BibTeX Entry:\*\*\s*\n'                     # Match "**BibTeX Entry:**"
+        r'\s*\.\. code-block:: bibtex\s*\n'                # Match code block line
+        r'(?:\n(?:\s{3,}.*\n)*?)'                          # Match BibTeX lines (indented)
+        r'\s{3,}\}\s*\n'                                   # Match the closing brace
+        r'(?:\s*`The URL link to the source <.*?>`__\s*\n)?'  # OPTIONAL URL link line
+        r')(?=\s*`Back to)'                                # Lookahead for "`Back to index"
+    )
     bibtex_match = re.search(pattern, content, re.MULTILINE)
 
     if not bibtex_match:

@@ -14,7 +14,7 @@ benjamini.zeitouni:12:tightness
      isbn          = {978-3-642-29848-6; 978-3-642-29849-3},
      mrclass       = {60K35},
      mrnumber      = {2985128},
-     mrreviewer    = {Sunder Sethuraman},
+     mrreviewer    = {Sunder\ Sethuraman},
      pages         = {127--132},
      publisher     = {Springer, Heidelberg},
      series        = {Lecture Notes in Math.},

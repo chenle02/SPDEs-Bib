@@ -15,7 +15,7 @@ bourgain.chang:09:sum-product
      journal       = {J. Anal. Math.},
      mrclass       = {11B30 (11B13)},
      mrnumber      = {2585396},
-     mrreviewer    = {Sergeu{i} V. Konyagin},
+     mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      pages         = {253--277},
      title         = {Sum-product theorems in algebraic number fields},
      url           = {https://doi.org/10.1007/s11854-009-0033-0},

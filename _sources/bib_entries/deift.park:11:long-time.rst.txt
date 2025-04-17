@@ -15,7 +15,7 @@ deift.park:11:long-time
      journal       = {Int. Math. Res. Not. IMRN},
      mrclass       = {35Q55 (35A30 35B35 35B40 35Q15)},
      mrnumber      = {2863375},
-     mrreviewer    = {Olivier J. Goubet},
+     mrreviewer    = {Olivier\ J.\ Goubet},
      number        = {24},
      pages         = {5505--5624},
      title         = {Long-time asymptotics for solutions of the {NLS} equation with a delta potential and even initial data},

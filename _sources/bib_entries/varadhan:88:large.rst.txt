@@ -14,7 +14,7 @@ varadhan:88:large
      isbn          = {3-540-50549-0},
      mrclass       = {60F10},
      mrnumber      = {983371},
-     mrreviewer    = {Esa Nummelin},
+     mrreviewer    = {Esa\ Nummelin},
      pages         = {1--49},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},

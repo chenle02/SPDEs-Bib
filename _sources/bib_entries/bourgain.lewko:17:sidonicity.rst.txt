@@ -14,7 +14,7 @@ bourgain.lewko:17:sidonicity
      journal       = {Ann. Inst. Fourier (Grenoble)},
      mrclass       = {43A46 (42C05)},
      mrnumber      = {3668774},
-     mrreviewer    = {D. L. Salinger},
+     mrreviewer    = {D.\ L.\ Salinger},
      number        = {3},
      pages         = {1321--1352},
      title         = {Sidonicity and variants of {K}aczmarz's problem},

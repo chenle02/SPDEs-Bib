@@ -15,7 +15,7 @@ mattingly.stuart.ea:02:ergodicity
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60H10 (34F05 37H10 60J35)},
      mrnumber      = {1931266},
-     mrreviewer    = {Jan I. Seidler},
+     mrreviewer    = {Jan\ I.\ Seidler},
      number        = {2},
      pages         = {185--232},
      title         = {Ergodicity for {SDE}s and approximations: locally {L}ipschitz vector fields and degenerate noise},

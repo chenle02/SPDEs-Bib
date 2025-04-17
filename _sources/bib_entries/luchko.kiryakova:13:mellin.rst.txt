@@ -15,7 +15,7 @@ luchko.kiryakova:13:mellin
      journal       = {Fract. Calc. Appl. Anal.},
      mrclass       = {26A33 (33C60 33E30 44A10 44A20)},
      mrnumber      = {3033696},
-     mrreviewer    = {Gianni Pagnini},
+     mrreviewer    = {Gianni\ Pagnini},
      number        = {2},
      pages         = {405--430},
      title         = {The {M}ellin integral transform in fractional calculus},

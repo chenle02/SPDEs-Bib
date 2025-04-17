@@ -15,7 +15,7 @@ song.tindel:22:skorohod
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60H05 (60H07 60L20)},
      mrnumber      = {4426165},
-     mrreviewer    = {Maria Jolis},
+     mrreviewer    = {Maria\ Jolis},
      pages         = {569--595},
      title         = {Skorohod and {S}tratonovich integrals for controlled processes},
      url           = {https://doi.org/10.1016/j.spa.2022.05.002},

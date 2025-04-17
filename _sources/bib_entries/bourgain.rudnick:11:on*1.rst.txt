@@ -15,7 +15,7 @@ bourgain.rudnick:11:on*1
      journal       = {Invent. Math.},
      mrclass       = {58J51 (11P21)},
      mrnumber      = {2810800},
-     mrreviewer    = {Igor Wigman},
+     mrreviewer    = {Igor\ Wigman},
      number        = {1},
      pages         = {199--237},
      title         = {On the nodal sets of toral eigenfunctions},

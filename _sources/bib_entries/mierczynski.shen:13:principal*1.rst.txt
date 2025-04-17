@@ -15,7 +15,7 @@ mierczynski.shen:13:principal*1
      journal       = {Trans. Amer. Math. Soc.},
      mrclass       = {37H15 (37A30 37L55)},
      mrnumber      = {3074376},
-     mrreviewer    = {Md. Shafiqul Islam},
+     mrreviewer    = {Md.\ Shafiqul\ Islam},
      number        = {10},
      pages         = {5329--5365},
      title         = {Principal {L}yapunov exponents and principal {F}loquet spaces of positive random dynamical systems. {I}. {G}eneral theory},

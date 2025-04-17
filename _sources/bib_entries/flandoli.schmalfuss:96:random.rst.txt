@@ -15,7 +15,7 @@ flandoli.schmalfuss:96:random
      journal       = {Stochastics Stochastics Rep.},
      mrclass       = {60H15 (35B40 35Q30 35R60)},
      mrnumber      = {1427258},
-     mrreviewer    = {Krystyna Twardowska},
+     mrreviewer    = {Krystyna\ Twardowska},
      number        = {1-2},
      pages         = {21--45},
      title         = {Random attractors for the {$3$}D stochastic {N}avier-{S}tokes equation with multiplicative white noise},

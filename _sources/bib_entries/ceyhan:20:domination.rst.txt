@@ -15,7 +15,7 @@ ceyhan:20:domination
      journal       = {Statistics},
      mrclass       = {05C80 (05C20 60C05 60D05 62E20)},
      mrnumber      = {4076247},
-     mrreviewer    = {Lyuben R. Mutafchiev},
+     mrreviewer    = {Lyuben\ R.\ Mutafchiev},
      number        = {2},
      pages         = {310--339},
      title         = {Domination number of an interval catch digraph family and its use for testing uniformity},

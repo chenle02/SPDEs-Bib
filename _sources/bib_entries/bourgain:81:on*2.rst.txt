@@ -15,7 +15,7 @@ bourgain:81:on*2
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {46E40 (28B99 46B20)},
      mrnumber      = {593470},
-     mrreviewer    = {J. J. Uhl, Jr.},
+     mrreviewer    = {J.\ J.\ Uhl, Jr.},
      number        = {2},
      pages         = {265--272},
      title         = {On the {D}unford-{P}ettis property},

@@ -15,7 +15,7 @@ varadhan:66:asymptotic
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {35.06 (60.75)},
      mrnumber      = {203230},
-     mrreviewer    = {H. P. McKean, Jr.},
+     mrreviewer    = {H.\ P.\ McKean, Jr.},
      pages         = {261--286},
      title         = {Asymptotic probabilities and differential equations},
      url           = {https://doi.org/10.1002/cpa.3160190303},

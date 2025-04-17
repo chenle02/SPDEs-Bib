@@ -15,7 +15,7 @@ dembo.zeitouni:15:matrix
      journal       = {J. Stat. Phys.},
      mrclass       = {60F10 (82D30)},
      mrnumber      = {3350373},
-     mrreviewer    = {Wenxin Zhou},
+     mrreviewer    = {Wenxin\ Zhou},
      number        = {6},
      pages         = {1306--1326},
      title         = {Matrix optimization under random external fields},

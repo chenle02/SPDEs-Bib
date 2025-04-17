@@ -15,7 +15,7 @@ diaconis.mayer-wolf.ea:04:poisson-dirichlet
      journal       = {Ann. Probab.},
      mrclass       = {60K35 (60G55 60J27)},
      mrnumber      = {2044670},
-     mrreviewer    = {Alexander V. Gnedin},
+     mrreviewer    = {Alexander\ V.\ Gnedin},
      number        = {1B},
      pages         = {915--938},
      title         = {The {P}oisson-{D}irichlet law is the unique invariant distribution for uniform split-merge transformations},

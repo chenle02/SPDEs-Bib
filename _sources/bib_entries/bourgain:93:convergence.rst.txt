@@ -14,7 +14,7 @@ bourgain:93:convergence
      journal       = {Illinois J. Math.},
      mrclass       = {28D15 (42A45 42A61 60F05 60J15)},
      mrnumber      = {1226786},
-     mrreviewer    = {Joseph Max Rosenblatt},
+     mrreviewer    = {Joseph\ Max\ Rosenblatt},
      number        = {4},
      pages         = {624--636},
      title         = {Convergence of ergodic averages on lattice random walks},

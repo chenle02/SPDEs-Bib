@@ -15,7 +15,7 @@ cranston.scheutzow.ea:00:linear
      journal       = {Ann. Probab.},
      mrclass       = {60H20 (60H15)},
      mrnumber      = {1813845},
-     mrreviewer    = {Olivier Raimond},
+     mrreviewer    = {Olivier\ Raimond},
      number        = {4},
      pages         = {1852--1869},
      title         = {Linear bounds for stochastic dispersion},

@@ -14,7 +14,7 @@ spitzer.stone:60:class
      journal       = {Illinois J. Math.},
      mrclass       = {60.00},
      mrnumber      = {117773},
-     mrreviewer    = {U. Grenander},
+     mrreviewer    = {U.\ Grenander},
      pages         = {253--277},
      title         = {A class of {T}oeplitz forms and their application to probability theory},
      url           = {http://projecteuclid.org/euclid.ijm/1255455868},

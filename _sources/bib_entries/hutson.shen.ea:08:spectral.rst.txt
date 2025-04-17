@@ -15,7 +15,7 @@ hutson.shen.ea:08:spectral
      journal       = {Rocky Mountain J. Math.},
      mrclass       = {47N20 (35K90 35P99 45K05 47G20)},
      mrnumber      = {2436718},
-     mrreviewer    = {Reinhard B\"{u}rger},
+     mrreviewer    = {Reinhard\ B\"{u}rger},
      number        = {4},
      pages         = {1147--1175},
      title         = {Spectral theory for nonlocal dispersal with periodic or almost-periodic time dependence},

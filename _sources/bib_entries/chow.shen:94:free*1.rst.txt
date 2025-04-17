@@ -15,7 +15,7 @@ chow.shen:94:free*1
      journal       = {J. Differential Equations},
      mrclass       = {35R35 (34G20 35B32 47N20 80A25)},
      mrnumber      = {1270585},
-     mrreviewer    = {Xinfu Chen},
+     mrreviewer    = {Xinfu\ Chen},
      number        = {2},
      pages         = {390--423},
      title         = {A free boundary problem related to condensed two-phase combustion. {II}. {S}tability and bifurcation},

@@ -15,7 +15,7 @@ anderson.zeitouni:06:clt
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60F05 (15A52)},
      mrnumber      = {2222385},
-     mrreviewer    = {Emmanuel C. Germain},
+     mrreviewer    = {Emmanuel\ C.\ Germain},
      number        = {2},
      pages         = {283--338},
      title         = {A {CLT} for a band matrix model},

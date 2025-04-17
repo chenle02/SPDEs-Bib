@@ -15,7 +15,7 @@ mariani.zambotti:14:renewal
      journal       = {Electron. Commun. Probab.},
      mrclass       = {60K05 (60F10 60G20)},
      mrnumber      = {3269169},
-     mrreviewer    = {E. Omey},
+     mrreviewer    = {E.\ Omey},
      pages         = {no. 69, 13},
      title         = {A renewal version of the {S}anov theorem},
      url           = {https://doi.org/10.1214/ECP.v19-3325},

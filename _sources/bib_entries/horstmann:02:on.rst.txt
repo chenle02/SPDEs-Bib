@@ -15,7 +15,7 @@ horstmann:02:on
      journal       = {J. Math. Biol.},
      mrclass       = {35K57 (35B40 35K50 92C37 92D25)},
      mrnumber      = {1908133},
-     mrreviewer    = {Song Mu Zheng},
+     mrreviewer    = {Song\ Mu\ Zheng},
      number        = {5},
      pages         = {463--478},
      title         = {On the existence of radially symmetric blow-up solutions for the {K}eller-{S}egel model},

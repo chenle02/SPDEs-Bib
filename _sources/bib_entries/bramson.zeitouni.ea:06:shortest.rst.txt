@@ -15,7 +15,7 @@ bramson.zeitouni.ea:06:shortest
      journal       = {Ann. Probab.},
      mrclass       = {60K37 (05C80)},
      mrnumber      = {2243869},
-     mrreviewer    = {Marina Vachkovskaia},
+     mrreviewer    = {Marina\ Vachkovskaia},
      number        = {3},
      pages         = {821--856},
      title         = {Shortest spanning trees and a counterexample for random walks in random environments},

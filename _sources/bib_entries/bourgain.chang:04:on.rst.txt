@@ -15,7 +15,7 @@ bourgain.chang:04:on
      journal       = {J. Amer. Math. Soc.},
      mrclass       = {11B75},
      mrnumber      = {2051619},
-     mrreviewer    = {Ben Joseph Green},
+     mrreviewer    = {Ben\ Joseph\ Green},
      number        = {2},
      pages         = {473--497},
      title         = {On the size of {$k$}-fold sum and product sets of integers},

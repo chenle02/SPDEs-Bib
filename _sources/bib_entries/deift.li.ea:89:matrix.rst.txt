@@ -15,7 +15,7 @@ deift.li.ea:89:matrix
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {58F07 (15A18 35Q53 70H05)},
      mrnumber      = {990138},
-     mrreviewer    = {Randolph J. Schilling},
+     mrreviewer    = {Randolph\ J.\ Schilling},
      number        = {4},
      pages         = {443--521},
      title         = {Matrix factorizations and integrable systems},

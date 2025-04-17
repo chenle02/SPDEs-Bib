@@ -13,7 +13,7 @@ zabczyk:84:stopping
      isbn          = {83-01-05523-5},
      mrclass       = {60G40 (90C40 93E05)},
      mrnumber      = {804789},
-     mrreviewer    = {P. Neumann},
+     mrreviewer    = {P.\ Neumann},
      pages         = {1425--1437},
      publisher     = {PWN, Warsaw},
      title         = {Stopping problems in stochastic control},

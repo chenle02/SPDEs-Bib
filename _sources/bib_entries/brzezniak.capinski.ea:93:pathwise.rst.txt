@@ -15,7 +15,7 @@ brzezniak.capinski.ea:93:pathwise
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60H10},
      mrnumber      = {1207308},
-     mrreviewer    = {Bohdan Maslowski},
+     mrreviewer    = {Bohdan\ Maslowski},
      number        = {1},
      pages         = {87--102},
      title         = {Pathwise global attractors for stationary random dynamical systems},

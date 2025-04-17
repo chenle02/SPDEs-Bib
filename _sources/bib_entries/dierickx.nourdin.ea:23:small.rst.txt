@@ -15,7 +15,7 @@ dierickx.nourdin.ea:23:small
      journal       = {Comm. Math. Phys.},
      mrclass       = {60G60 (33C55 58J50 60F05)},
      mrnumber      = {4538280},
-     mrreviewer    = {Stephen Muirhead},
+     mrreviewer    = {Stephen\ Muirhead},
      number        = {1},
      pages         = {1--36},
      title         = {Small scale {CLT}s for the nodal length of monochromatic waves},

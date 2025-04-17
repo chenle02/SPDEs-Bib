@@ -15,7 +15,7 @@ cranston.scheutzow.ea:99:linear
      journal       = {Electron. Comm. Probab.},
      mrclass       = {60H15 (60J65)},
      mrnumber      = {1741738},
-     mrreviewer    = {R\'{e}mi L\'{e}andre},
+     mrreviewer    = {R\'{e}mi\ L\'{e}andre},
      pages         = {91--101},
      title         = {Linear expansion of isotropic {B}rownian flows},
      url           = {https://doi.org/10.1214/ECP.v4-1010},

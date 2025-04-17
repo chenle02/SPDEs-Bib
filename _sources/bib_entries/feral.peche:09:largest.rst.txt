@@ -15,7 +15,7 @@ feral.peche:09:largest
      journal       = {J. Math. Phys.},
      mrclass       = {62H25 (05C50 05C80 15A18)},
      mrnumber      = {2548630},
-     mrreviewer    = {Yonghui Liu},
+     mrreviewer    = {Yonghui\ Liu},
      number        = {7},
      pages         = {073302, 33},
      title         = {The largest eigenvalues of sample covariance matrices for a spiked population: diagonal case},

@@ -13,7 +13,7 @@ varadhan:84:large
      isbn          = {0-89871-189-4},
      mrclass       = {60F10 (60J25)},
      mrnumber      = {758258},
-     mrreviewer    = {Fran\c cois Bronner},
+     mrreviewer    = {Fran\c cois\ Bronner},
      pages         = {v+75},
      publisher     = {Society for Industrial and Applied Mathematics (SIAM), Philadelphia, PA},
      series        = {CBMS-NSF Regional Conference Series in Applied Mathematics},

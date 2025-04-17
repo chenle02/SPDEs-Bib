@@ -15,7 +15,7 @@ li.linde:04:small
      journal       = {J. Theoret. Probab.},
      mrclass       = {60G52 (60G15)},
      mrnumber      = {2054588},
-     mrreviewer    = {Miguel A. Arcones},
+     mrreviewer    = {Miguel\ A.\ Arcones},
      number        = {1},
      pages         = {261--284},
      title         = {Small deviations of stable processes via metric entropy},

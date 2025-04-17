@@ -15,7 +15,7 @@ peche:06:largest
      journal       = {Probab. Theory Related Fields},
      mrclass       = {15A52 (60F05 82B44)},
      mrnumber      = {2221787},
-     mrreviewer    = {Pavel T. Stoynov},
+     mrreviewer    = {Pavel\ T.\ Stoynov},
      number        = {1},
      pages         = {127--173},
      title         = {The largest eigenvalue of small rank perturbations of {H}ermitian random matrices},

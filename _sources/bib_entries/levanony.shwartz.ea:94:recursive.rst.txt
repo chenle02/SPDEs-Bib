@@ -15,7 +15,7 @@ levanony.shwartz.ea:94:recursive
      journal       = {Stochastic Process. Appl.},
      mrclass       = {62M05 (60H10 93E12)},
      mrnumber      = {1260193},
-     mrreviewer    = {Shao Zhong Cheng},
+     mrreviewer    = {Shao\ Zhong\ Cheng},
      number        = {2},
      pages         = {245--275},
      title         = {Recursive identification in continuous-time stochastic processes},

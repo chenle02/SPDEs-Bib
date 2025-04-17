@@ -14,7 +14,7 @@ bourgain:80:result
      journal       = {J. Operator Theory},
      mrclass       = {46B25 (47B38)},
      mrnumber      = {578944},
-     mrreviewer    = {Y. Benyamini},
+     mrreviewer    = {Y.\ Benyamini},
      number        = {2},
      pages         = {275--289},
      title         = {A result on operators on {$\mathscr{C}[0,1]$}},

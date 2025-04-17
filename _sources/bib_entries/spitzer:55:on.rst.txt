@@ -15,7 +15,7 @@ spitzer:55:on
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {60.0X},
      mrnumber      = {68768},
-     mrreviewer    = {H. P. McKean, Jr.},
+     mrreviewer    = {H.\ P.\ McKean, Jr.},
      pages         = {494--505},
      title         = {On a class of random variables},
      url           = {https://doi.org/10.2307/2032795},

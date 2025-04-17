@@ -15,7 +15,7 @@ zambotti:05:integration
      journal       = {J. Funct. Anal.},
      mrclass       = {60H07 (60J65)},
      mrnumber      = {2139884},
-     mrreviewer    = {Hac\`ene Boutabia},
+     mrreviewer    = {Hac\`ene\ Boutabia},
      number        = {1},
      pages         = {147--178},
      title         = {Integration by parts on the law of the reflecting {B}rownian motion},

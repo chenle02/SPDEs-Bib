@@ -15,7 +15,7 @@ perry.sigal.ea:81:spectral
      journal       = {Ann. of Math. (2)},
      mrclass       = {81F10 (35P05 47F05)},
      mrnumber      = {634428},
-     mrreviewer    = {Evans M. Harrell},
+     mrreviewer    = {Evans\ M.\ Harrell},
      number        = {3},
      pages         = {519--567},
      title         = {Spectral analysis of {$N$}-body {S}chr\"odinger operators},

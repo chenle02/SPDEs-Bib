@@ -15,7 +15,7 @@ yan.yang.ea:19:white
      journal       = {J. Differential Equations},
      mrclass       = {35R60 (35B30 35G25 60H15)},
      mrnumber      = {3996783},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {10},
      pages         = {5701--5735},
      title         = {White noise driven {O}strovsky equation},

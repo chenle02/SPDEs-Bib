@@ -15,7 +15,7 @@ bourgain.kontorovich:17:beyond
      journal       = {J. Eur. Math. Soc. (JEMS)},
      mrclass       = {11J70 (11N36 37A45)},
      mrnumber      = {3635355},
-     mrreviewer    = {B. Sury},
+     mrreviewer    = {B.\ Sury},
      number        = {5},
      pages         = {1331--1359},
      title         = {Beyond expansion {II}: low-lying fundamental geodesics},

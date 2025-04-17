@@ -15,7 +15,7 @@ dembo.shkolnikov.ea:16:large
      journal       = {Comm. Pure Appl. Math.},
      mrclass       = {60F10 (60J60 60K35)},
      mrnumber      = {3503022},
-     mrreviewer    = {Markus Fischer},
+     mrreviewer    = {Markus\ Fischer},
      number        = {7},
      pages         = {1259--1313},
      title         = {Large deviations for diffusions interacting through their ranks},

@@ -14,7 +14,7 @@ zeitouni:16:branching
      isbn          = {978-1-4704-2248-6},
      mrclass       = {60G15 (60G70 60J80)},
      mrnumber      = {3526836},
-     mrreviewer    = {Anna Talarczyk},
+     mrreviewer    = {Anna\ Talarczyk},
      pages         = {437--471},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Proc. Sympos. Pure Math.},

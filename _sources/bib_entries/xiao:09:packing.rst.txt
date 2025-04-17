@@ -15,7 +15,7 @@ xiao:09:packing
      journal       = {Statist. Probab. Lett.},
      mrclass       = {60G60 (28A78 28A80)},
      mrnumber      = {2483400},
-     mrreviewer    = {Jiang Lun Wu},
+     mrreviewer    = {Jiang\ Lun\ Wu},
      number        = {1},
      pages         = {88--97},
      title         = {A packing dimension theorem for {G}aussian random fields},

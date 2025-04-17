@@ -15,7 +15,7 @@ brzezniak.flandoli.ea:16:existence
      journal       = {Arch. Ration. Mech. Anal.},
      mrclass       = {35R60 (35Q31 60H15 76B03)},
      mrnumber      = {3483892},
-     mrreviewer    = {Paul Andr\'{e} Razafimandimby},
+     mrreviewer    = {Paul\ Andr\'{e}\ Razafimandimby},
      number        = {1},
      pages         = {107--142},
      title         = {Existence and uniqueness for stochastic 2{D} {E}uler flows with bounded vorticity},

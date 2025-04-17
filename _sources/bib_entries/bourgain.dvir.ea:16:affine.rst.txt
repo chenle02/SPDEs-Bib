@@ -15,7 +15,7 @@ bourgain.dvir.ea:16:affine
      journal       = {Comput. Complexity},
      mrclass       = {68W20 (68W30)},
      mrnumber      = {3566209},
-     mrreviewer    = {Colton Magnant},
+     mrreviewer    = {Colton\ Magnant},
      number        = {4},
      pages         = {921--931},
      title         = {Affine extractors over large fields with exponential error},

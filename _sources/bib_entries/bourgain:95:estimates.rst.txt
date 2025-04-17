@@ -13,7 +13,7 @@ bourgain:95:estimates
      isbn          = {3-7643-5207-8},
      mrclass       = {42B15},
      mrnumber      = {1353448},
-     mrreviewer    = {Harald E. Krogstad},
+     mrreviewer    = {Harald\ E.\ Krogstad},
      pages         = {41--60},
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Oper. Theory Adv. Appl.},

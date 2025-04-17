@@ -15,7 +15,7 @@ flandoli.imkeller.ea:14:2d-stochastic
      journal       = {J. Theoret. Probab.},
      mrclass       = {60G15 (60G22 60G60 60H05 60H07)},
      mrnumber      = {3195826},
-     mrreviewer    = {David Nualart},
+     mrreviewer    = {David\ Nualart},
      number        = {2},
      pages         = {552--575},
      title         = {2{D}-stochastic currents over the {W}iener sheet},

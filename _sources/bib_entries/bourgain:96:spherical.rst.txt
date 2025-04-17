@@ -15,7 +15,7 @@ bourgain:96:spherical
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {42B08 (42B05)},
      mrnumber      = {1383751},
-     mrreviewer    = {J. Marshall Ash},
+     mrreviewer    = {J.\ Marshall\ Ash},
      number        = {3},
      pages         = {93--107},
      title         = {Spherical summation and uniqueness of multiple trigonometric series},

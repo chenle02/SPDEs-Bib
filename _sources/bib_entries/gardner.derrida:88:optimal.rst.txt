@@ -14,7 +14,7 @@ gardner.derrida:88:optimal
      journal       = {J. Phys. A},
      mrclass       = {82A57 (68M99 92A09)},
      mrnumber      = {939731},
-     mrreviewer    = {F. Ventriglia},
+     mrreviewer    = {F.\ Ventriglia},
      number        = {1},
      pages         = {271--284},
      title         = {Optimal storage properties of neural network models},

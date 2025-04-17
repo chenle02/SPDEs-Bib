@@ -15,7 +15,7 @@ bourgain.chang:03:on
      journal       = {C. R. Math. Acad. Sci. Paris},
      mrclass       = {11B75},
      mrnumber      = {2017126},
-     mrreviewer    = {Ben Joseph Green},
+     mrreviewer    = {Ben\ Joseph\ Green},
      number        = {8},
      pages         = {499--503},
      title         = {On multiple sum and product sets of finite sets of integers},

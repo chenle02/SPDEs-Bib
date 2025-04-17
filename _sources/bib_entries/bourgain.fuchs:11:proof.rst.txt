@@ -15,7 +15,7 @@ bourgain.fuchs:11:proof
      journal       = {J. Amer. Math. Soc.},
      mrclass       = {11D09 (11E16 11E20 52C15)},
      mrnumber      = {2813334},
-     mrreviewer    = {Matthias Beck},
+     mrreviewer    = {Matthias\ Beck},
      number        = {4},
      pages         = {945--967},
      title         = {A proof of the positive density conjecture for integer {A}pollonian circle packings},

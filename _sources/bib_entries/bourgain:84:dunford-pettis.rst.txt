@@ -15,7 +15,7 @@ bourgain:84:dunford-pettis
      journal       = {Studia Math.},
      mrclass       = {46B99 (46E15 46J15)},
      mrnumber      = {745280},
-     mrreviewer    = {H. H. McFaden},
+     mrreviewer    = {H.\ H.\ McFaden},
      number        = {3},
      pages         = {245--253},
      title         = {The {D}unford-{P}ettis property for the ball-algebras, the polydisc-algebras and the {S}obolev spaces},

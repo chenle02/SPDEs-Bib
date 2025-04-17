@@ -15,7 +15,7 @@ beliaev.smirnov:05:on
      journal       = {Bull. London Math. Soc.},
      mrclass       = {30C10 (30C55 30C85 30D35)},
      mrnumber      = {2164834},
-     mrreviewer    = {D. H. Hamilton},
+     mrreviewer    = {D.\ H.\ Hamilton},
      number        = {5},
      pages         = {719--726},
      title         = {On {L}ittlewoods's constants},

@@ -15,7 +15,7 @@ deift.its.ea:99:on
      journal       = {Comm. Math. Phys.},
      mrclass       = {34M55 (32G34)},
      mrnumber      = {1700154},
-     mrreviewer    = {Eugen Belokolos},
+     mrreviewer    = {Eugen\ Belokolos},
      number        = {3},
      pages         = {613--633},
      title         = {On the algebro-geometric integration of the {S}chlesinger equations},

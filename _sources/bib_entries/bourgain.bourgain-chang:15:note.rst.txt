@@ -15,7 +15,7 @@ bourgain.bourgain-chang:15:note
      journal       = {J. Spectr. Theory},
      mrclass       = {82B44 (39A70 47B39)},
      mrnumber      = {3340174},
-     mrreviewer    = {Mariza S. Simsen},
+     mrreviewer    = {Mariza\ S.\ Simsen},
      number        = {1},
      pages         = {1--15},
      title         = {A note on {L}yapunov exponents of deterministic strongly mixing potentials},

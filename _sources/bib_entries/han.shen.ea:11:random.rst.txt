@@ -15,7 +15,7 @@ han.shen.ea:11:random
      journal       = {J. Differential Equations},
      mrclass       = {37L55 (34A33 34D45 34F05 37L30 37L60 60H15)},
      mrnumber      = {2737203},
-     mrreviewer    = {Bj\"{o}rn Schmalfuss},
+     mrreviewer    = {Bj\"{o}rn\ Schmalfuss},
      number        = {3},
      pages         = {1235--1266},
      title         = {Random attractors for stochastic lattice dynamical systems in weighted spaces},

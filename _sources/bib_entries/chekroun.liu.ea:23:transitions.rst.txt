@@ -15,7 +15,7 @@ chekroun.liu.ea:23:transitions
      journal       = {J. Differential Equations},
      mrclass       = {35R60},
      mrnumber      = {4513840},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      pages         = {145--204},
      title         = {Transitions in stochastic non-equilibrium systems: efficient reduction and analysis},
      url           = {https://doi.org/10.1016/j.jde.2022.11.025},

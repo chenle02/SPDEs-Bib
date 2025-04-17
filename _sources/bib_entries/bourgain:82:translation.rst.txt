@@ -15,7 +15,7 @@ bourgain:82:translation
      journal       = {Studia Math.},
      mrclass       = {43A15},
      mrnumber      = {676808},
-     mrreviewer    = {Mario Milman},
+     mrreviewer    = {Mario\ Milman},
      number        = {1},
      pages         = {95--101},
      title         = {Translation invariant complemented subspaces of {$L\sp{p}$}},

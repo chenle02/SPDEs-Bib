@@ -15,7 +15,7 @@ flandoli.gubinelli.ea:05:stochastic
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60H05 (49Q15 60G48)},
      mrnumber      = {2158261},
-     mrreviewer    = {Mohamed Mellouk},
+     mrreviewer    = {Mohamed\ Mellouk},
      number        = {9},
      pages         = {1583--1601},
      title         = {Stochastic currents},

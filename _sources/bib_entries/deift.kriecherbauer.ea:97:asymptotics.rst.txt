@@ -15,7 +15,7 @@ deift.kriecherbauer.ea:97:asymptotics
      journal       = {Internat. Math. Res. Notices},
      mrclass       = {34A55 (15A52 34L25 35Q53 82B44)},
      mrnumber      = {1472344},
-     mrreviewer    = {Alexander Vladimirovich Kitaev},
+     mrreviewer    = {Alexander\ Vladimirovich\ Kitaev},
      number        = {16},
      pages         = {759--782},
      title         = {Asymptotics for polynomials orthogonal with respect to varying exponential weights},

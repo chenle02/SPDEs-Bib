@@ -15,7 +15,7 @@ bourgain:05:exponential
      journal       = {J. Anal. Math.},
      mrclass       = {11L07},
      mrnumber      = {2274981},
-     mrreviewer    = {Ben Joseph Green},
+     mrreviewer    = {Ben\ Joseph\ Green},
      pages         = {317--355},
      title         = {Exponential sum estimates over subgroups of {${\Bbb Z}^*_q$}, {\$q\$} arbitrary},
      url           = {https://doi.org/10.1007/BF02807410},

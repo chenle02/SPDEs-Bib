@@ -15,7 +15,7 @@ mattingly:02:dissipative
      journal       = {J. Statist. Phys.},
      mrclass       = {76D03 (35Q30 35R60 37L55 60H15 76D06 76M35)},
      mrnumber      = {1933449},
-     mrreviewer    = {Benedetta Ferrario},
+     mrreviewer    = {Benedetta\ Ferrario},
      note          = {Dedicated to David Ruelle and Yasha Sinai on the occasion of their 65th birthdays},
      number        = {5-6},
      pages         = {1157--1179},

@@ -15,7 +15,7 @@ blei.gao.ea:07:metric
      journal       = {Proc. Amer. Math. Soc.},
      mrclass       = {60B05 (46B50 60G15)},
      mrnumber      = {2341952},
-     mrreviewer    = {Hermann K\"{o}nig},
+     mrreviewer    = {Hermann\ K\"{o}nig},
      number        = {12},
      pages         = {4009--4018},
      title         = {Metric entropy of high dimensional distributions},

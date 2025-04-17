@@ -15,7 +15,7 @@ bourgain:86:on*2
      journal       = {Israel J. Math.},
      mrclass       = {42B25},
      mrnumber      = {853451},
-     mrreviewer    = {Roger L. Jones},
+     mrreviewer    = {Roger\ L.\ Jones},
      number        = {3},
      pages         = {257--265},
      title         = {On the {$L^p$}-bounds for maximal functions associated to convex bodies in {\${\bf R}^n\$}},

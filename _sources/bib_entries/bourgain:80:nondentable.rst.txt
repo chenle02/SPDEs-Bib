@@ -15,7 +15,7 @@ bourgain:80:nondentable
      journal       = {Studia Math.},
      mrclass       = {46B20},
      mrnumber      = {599142},
-     mrreviewer    = {Robert E. Huff},
+     mrreviewer    = {Robert\ E.\ Huff},
      number        = {2},
      pages         = {131--139},
      title         = {A nondentable set without the tree property},

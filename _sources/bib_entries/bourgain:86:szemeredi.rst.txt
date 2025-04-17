@@ -15,7 +15,7 @@ bourgain:86:szemeredi
      journal       = {Israel J. Math.},
      mrclass       = {11B05 (28D05)},
      mrnumber      = {853455},
-     mrreviewer    = {H. G. Meijer},
+     mrreviewer    = {H.\ G.\ Meijer},
      number        = {3},
      pages         = {307--316},
      title         = {A {S}zemer\'{e}di type theorem for sets of positive density in {${\bf R}^k$}},

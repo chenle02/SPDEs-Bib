@@ -14,7 +14,7 @@ zambotti:06:ito-tanakas
      isbn          = {978-0-8247-0027-0; 0-8247-0027-9},
      mrclass       = {60H15 (35K55 35R60 60H07)},
      mrnumber      = {2227240},
-     mrreviewer    = {Jan I. Seidler},
+     mrreviewer    = {Jan\ I.\ Seidler},
      pages         = {337--347},
      publisher     = {Chapman \& Hall/CRC, Boca Raton, FL},
      series        = {Lect. Notes Pure Appl. Math.},

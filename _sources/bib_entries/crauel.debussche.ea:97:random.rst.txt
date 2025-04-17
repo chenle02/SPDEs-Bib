@@ -15,7 +15,7 @@ crauel.debussche.ea:97:random
      journal       = {J. Dynam. Differential Equations},
      mrclass       = {60H15 (35B40 35Qxx 35R60 47H20 58F11 58F12 76D05)},
      mrnumber      = {1451294},
-     mrreviewer    = {Bj\"{o}rn Schmalfuss},
+     mrreviewer    = {Bj\"{o}rn\ Schmalfuss},
      number        = {2},
      pages         = {307--341},
      title         = {Random attractors},

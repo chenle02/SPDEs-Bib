@@ -15,7 +15,7 @@ codenotti.flandoli:89:monte
      journal       = {J. Complexity},
      mrclass       = {65C05 (65F99 65W05)},
      mrnumber      = {990815},
-     mrreviewer    = {Hans-Eberhard Scholz},
+     mrreviewer    = {Hans-Eberhard\ Scholz},
      number        = {1},
      pages         = {107--117},
      title         = {A {M}onte {C}arlo method for the parallel solution of linear systems},

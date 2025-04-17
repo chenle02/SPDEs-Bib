@@ -13,7 +13,7 @@ ciesielski.zabczyk:79:note
      isbn          = {83-01-01492-X},
      mrclass       = {60G40 (62L15)},
      mrnumber      = {561467},
-     mrreviewer    = {S. M. Samuels},
+     mrreviewer    = {S.\ M.\ Samuels},
      pages         = {47--51},
      publisher     = {PWN, Warsaw},
      series        = {Banach Center Publ.},

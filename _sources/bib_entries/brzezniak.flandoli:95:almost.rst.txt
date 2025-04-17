@@ -15,7 +15,7 @@ brzezniak.flandoli:95:almost
      journal       = {Stochastic Process. Appl.},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {1313027},
-     mrreviewer    = {Krystyna Twardowska},
+     mrreviewer    = {Krystyna\ Twardowska},
      number        = {2},
      pages         = {329--358},
      title         = {Almost sure approximation of {W}ong-{Z}akai type for stochastic partial differential equations},

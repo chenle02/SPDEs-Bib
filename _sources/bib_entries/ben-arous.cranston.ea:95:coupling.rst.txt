@@ -14,7 +14,7 @@ ben-arous.cranston.ea:95:coupling
      isbn          = {0-8218-0289-5},
      mrclass       = {60J60 (60H10)},
      mrnumber      = {1335472},
-     mrreviewer    = {Mireille Chaleyat-Maurel},
+     mrreviewer    = {Mireille\ Chaleyat-Maurel},
      pages         = {193--212},
      publisher     = {Amer. Math. Soc., Providence, RI},
      series        = {Proc. Sympos. Pure Math.},

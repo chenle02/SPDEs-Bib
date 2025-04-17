@@ -15,7 +15,7 @@ zeitouni.bobrovsky:86:on*1
      journal       = {Systems Control Lett.},
      mrclass       = {60G15 (93E11)},
      mrnumber      = {850446},
-     mrreviewer    = {V\v{e}ra L\'{a}nsk\'{a}},
+     mrreviewer    = {V\v{e}ra\ L\'{a}nsk\'{a}},
      number        = {4},
      pages         = {317--321},
      title         = {On the joint nonlinear filtering-smoothing of diffusion processes},

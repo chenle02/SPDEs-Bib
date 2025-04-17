@@ -14,7 +14,7 @@ kocubeui:80:characteristic
      journal       = {Izv. Akad. Nauk Armyan. SSR Ser. Mat.},
      mrclass       = {47A45 (47E05)},
      mrnumber      = {592863},
-     mrreviewer    = {E. R. Deal},
+     mrreviewer    = {E.\ R.\ Deal},
      number        = {3},
      pages         = {219--232, 247},
      title         = {Characteristic functions of symmetric operators and their extensions},

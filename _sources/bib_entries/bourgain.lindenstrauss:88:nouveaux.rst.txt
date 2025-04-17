@@ -14,7 +14,7 @@ bourgain.lindenstrauss:88:nouveaux
      journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
      mrclass       = {52A20},
      mrnumber      = {934623},
-     mrreviewer    = {P. McMullen},
+     mrreviewer    = {P.\ McMullen},
      number        = {8},
      pages         = {377--380},
      title         = {Nouveaux r\'{e}sultats sur les zono\"{i}des et les corps de projection},

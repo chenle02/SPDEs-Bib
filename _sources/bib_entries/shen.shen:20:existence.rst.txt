@@ -15,7 +15,7 @@ shen.shen:20:existence
      journal       = {European J. Appl. Math.},
      mrclass       = {35K57 (35C07 35Q92 35R09 92D25)},
      mrnumber      = {4120254},
-     mrreviewer    = {Guo-Bao Zhang},
+     mrreviewer    = {Guo-Bao\ Zhang},
      number        = {4},
      pages         = {601--645},
      title         = {Existence, uniqueness and stability of transition fronts of non-local equations in time heterogeneous bistable media},

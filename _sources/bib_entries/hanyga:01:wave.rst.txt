@@ -15,7 +15,7 @@ hanyga:01:wave
      journal       = {Math. Comput. Modelling},
      mrclass       = {74J10 (45J05 74D05 74H99)},
      mrnumber      = {1868410},
-     mrreviewer    = {Renuka Ravindran},
+     mrreviewer    = {Renuka\ Ravindran},
      note          = {Topics in the mathematical modelling of smart materials},
      number        = {12-13},
      pages         = {1399--1421},

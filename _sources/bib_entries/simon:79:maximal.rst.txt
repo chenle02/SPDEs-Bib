@@ -14,7 +14,7 @@ simon:79:maximal
      journal       = {J. Operator Theory},
      mrclass       = {35P05 (81C10)},
      mrnumber      = {526289},
-     mrreviewer    = {Woodford W. Zachary},
+     mrreviewer    = {Woodford\ W.\ Zachary},
      number        = {1},
      pages         = {37--47},
      title         = {Maximal and minimal {S}chr\"odinger forms},

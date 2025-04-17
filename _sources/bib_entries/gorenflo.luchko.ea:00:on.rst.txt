@@ -14,7 +14,7 @@ gorenflo.luchko.ea:00:on
      journal       = {Fract. Calc. Appl. Anal.},
      mrclass       = {35S15 (26A33 47G30)},
      mrnumber      = {1806315},
-     mrreviewer    = {J. Horv\'{a}th},
+     mrreviewer    = {J.\ Horv\'{a}th},
      number        = {4},
      pages         = {453--468},
      title         = {On some boundary value problems for pseudo-differential equations with boundary operators of fractional order},

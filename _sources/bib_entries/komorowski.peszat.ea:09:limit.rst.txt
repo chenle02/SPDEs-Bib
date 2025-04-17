@@ -15,7 +15,7 @@ komorowski.peszat.ea:09:limit
      journal       = {Comm. Math. Phys.},
      mrclass       = {81S25 (60B10 60H40 82B10)},
      mrnumber      = {2544740},
-     mrreviewer    = {J. A. van Casteren},
+     mrreviewer    = {J.\ A.\ van Casteren},
      number        = {2},
      pages         = {479--510},
      title         = {Limit of fluctuations of solutions of {W}igner equation},

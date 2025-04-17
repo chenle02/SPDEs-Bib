@@ -15,7 +15,7 @@ wu.xiao:07:dimensional
      journal       = {Acta Math. Sin. (Engl. Ser.)},
      mrclass       = {60G17 (28A80 60G15)},
      mrnumber      = {2308095},
-     mrreviewer    = {Marta Tyran-Kami\'{n}ska},
+     mrreviewer    = {Marta\ Tyran-Kami\'{n}ska},
      number        = {4},
      pages         = {613--622},
      title         = {Dimensional properties of fractional {B}rownian motion},

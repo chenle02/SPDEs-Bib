@@ -15,7 +15,7 @@ spitzer:77:stochastic
      journal       = {Bull. Amer. Math. Soc.},
      mrclass       = {60K35 (60J25)},
      mrnumber      = {448632},
-     mrreviewer    = {T. M. Liggett},
+     mrreviewer    = {T.\ M.\ Liggett},
      number        = {5},
      pages         = {880--890},
      title         = {Stochastic time evolution of one dimensional infinite particle systems},

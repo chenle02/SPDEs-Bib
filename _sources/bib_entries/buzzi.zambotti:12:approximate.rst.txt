@@ -15,7 +15,7 @@ buzzi.zambotti:12:approximate
      journal       = {Probab. Theory Related Fields},
      mrclass       = {94A17 (60C05 92C99)},
      mrnumber      = {2948682},
-     mrreviewer    = {Oliver Johnson},
+     mrreviewer    = {Oliver\ Johnson},
      number        = {3-4},
      pages         = {421--440},
      title         = {Approximate maximizers of intricacy functionals},

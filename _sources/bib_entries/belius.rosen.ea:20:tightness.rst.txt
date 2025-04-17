@@ -15,7 +15,7 @@ belius.rosen.ea:20:tightness
      journal       = {Probab. Theory Related Fields},
      mrclass       = {60J65},
      mrnumber      = {4087494},
-     mrreviewer    = {Endre Cs\'{a}ki},
+     mrreviewer    = {Endre\ Cs\'{a}ki},
      number        = {3-4},
      pages         = {1357--1437},
      title         = {Tightness for the cover time of the two dimensional sphere},

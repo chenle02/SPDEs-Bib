@@ -15,7 +15,7 @@ chen.kim:14:lp-theory
      journal       = {Forum Math.},
      mrclass       = {60H15 (35R60)},
      mrnumber      = {3334033},
-     mrreviewer    = {Le Chen},
+     mrreviewer    = {Le\ Chen},
      number        = {5},
      pages         = {1381--1411},
      title         = {An {$L_p$}-theory for non-divergence form {SPDE}s driven by {L}\'{e}vy processes},

@@ -14,7 +14,7 @@ bourgain.demeter:20:three
      isbn          = {978-3-030-36020-7; 978-3-030-36019-1},
      mrclass       = {11E45 (11L07)},
      mrnumber      = {4175745},
-     mrreviewer    = {Anton Deitmar},
+     mrreviewer    = {Anton\ Deitmar},
      pages         = {99--111},
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},
