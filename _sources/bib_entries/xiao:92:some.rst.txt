@@ -1,0 +1,24 @@
+xiao:92:some
+============
+
+:cite:t:`xiao:92:some`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{xiao:92:some,
+     author        = {Xiao, Yi Min},
+     fjournal      = {Journal of Mathematics. Shuxue Zazhi},
+     issn          = {0255-7797},
+     journal       = {J. Math. (Wuhan)},
+     mrclass       = {60G15 (60G60 60J65)},
+     mrnumber      = {1205076},
+     number        = {2},
+     pages         = {237--240},
+     title         = {Some properties of the image sets of two-parameter {O}rnstein-{U}hlenbeck processes},
+     volume        = {12},
+     year          = {1992}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

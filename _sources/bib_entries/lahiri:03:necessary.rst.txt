@@ -1,0 +1,31 @@
+lahiri:03:necessary
+===================
+
+:cite:t:`lahiri:03:necessary`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lahiri:03:necessary,
+     author        = {Lahiri, S. N.},
+     doi           = {10.1214/aos/1051027883},
+     fjournal      = {The Annals of Statistics},
+     issn          = {0090-5364},
+     journal       = {Ann. Statist.},
+     mrclass       = {62M10 (62E20)},
+     mrnumber      = {1983544},
+     mrreviewer    = {Juan Carlos Abril},
+     note          = {Dedicated to the memory of Herbert E. Robbins},
+     number        = {2},
+     pages         = {613--641},
+     title         = {A necessary and sufficient condition for asymptotic independence of discrete {F}ourier transforms under short- and long-range dependence},
+     url           = {https://doi.org/10.1214/aos/1051027883},
+     volume        = {31},
+     year          = {2003}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/aos/1051027883>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

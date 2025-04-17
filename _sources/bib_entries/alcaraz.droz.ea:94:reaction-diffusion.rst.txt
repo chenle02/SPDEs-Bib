@@ -1,0 +1,30 @@
+alcaraz.droz.ea:94:reaction-diffusion
+=====================================
+
+:cite:t:`alcaraz.droz.ea:94:reaction-diffusion`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{alcaraz.droz.ea:94:reaction-diffusion,
+     author        = {Alcaraz, Francisco C. and Droz, Michel and Henkel, Malte and Rittenberg, Vladimir},
+     doi           = {10.1006/aphy.1994.1026},
+     fjournal      = {Annals of Physics},
+     issn          = {0003-4916},
+     journal       = {Ann. Physics},
+     mrclass       = {82C23 (82C20 82C35)},
+     mrnumber      = {1268278},
+     mrreviewer    = {Domingos H. U. Marchetti},
+     number        = {2},
+     pages         = {250--302},
+     title         = {Reaction-diffusion processes, critical dynamics, and quantum chains},
+     url           = {https://doi.org/10.1006/aphy.1994.1026},
+     volume        = {230},
+     year          = {1994}
+   }
+
+`The URL link to the source <https://doi.org/10.1006/aphy.1994.1026>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

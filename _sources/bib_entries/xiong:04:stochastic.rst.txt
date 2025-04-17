@@ -1,0 +1,30 @@
+xiong:04:stochastic
+===================
+
+:cite:t:`xiong:04:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{xiong:04:stochastic,
+     author        = {Xiong, Jie},
+     doi           = {10.1214/009117904000000540},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60H15 (60G57 60J80)},
+     mrnumber      = {2078543},
+     mrreviewer    = {Achim Klenke},
+     number        = {3B},
+     pages         = {2362--2388},
+     title         = {A stochastic log-{L}aplace equation},
+     url           = {https://doi.org/10.1214/009117904000000540},
+     volume        = {32},
+     year          = {2004}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/009117904000000540>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

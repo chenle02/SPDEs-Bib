@@ -1,0 +1,29 @@
+lacoin:22:universality
+======================
+
+:cite:t:`lacoin:22:universality`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lacoin:22:universality,
+     author        = {Lacoin, Hubert},
+     doi           = {10.1214/21-aap1677},
+     fjournal      = {The Annals of Applied Probability},
+     issn          = {1050-5164,2168-8737},
+     journal       = {Ann. Appl. Probab.},
+     mrclass       = {60G15 (60F99)},
+     mrnumber      = {4386527},
+     number        = {1},
+     pages         = {269--293},
+     title         = {A universality result for subcritical complex {G}aussian multiplicative chaos},
+     url           = {https://doi.org/10.1214/21-aap1677},
+     volume        = {32},
+     year          = {2022}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/21-aap1677>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

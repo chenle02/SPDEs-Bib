@@ -1,0 +1,30 @@
+bardina.rovira.ea:03:onsager
+============================
+
+:cite:t:`bardina.rovira.ea:03:onsager`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bardina.rovira.ea:03:onsager,
+     author        = {Bardina, Xavier and Rovira, Carles and Tindel, Samy},
+     doi           = {10.1081/SAP-120026105},
+     fjournal      = {Stochastic Analysis and Applications},
+     issn          = {0736-2994},
+     journal       = {Stochastic Anal. Appl.},
+     mrclass       = {60H15 (35R60 82C31)},
+     mrnumber      = {2014556},
+     mrreviewer    = {Mikhail V. Tretyakov},
+     number        = {6},
+     pages         = {1231--1253},
+     title         = {Onsager {M}achlup functional for stochastic evolution equations in a class of norms},
+     url           = {https://doi.org/10.1081/SAP-120026105},
+     volume        = {21},
+     year          = {2003}
+   }
+
+`The URL link to the source <https://doi.org/10.1081/SAP-120026105>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,23 @@
+mehta:91:random
+===============
+
+:cite:t:`mehta:91:random`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{mehta:91:random,
+     author        = {Mehta, Madan Lal},
+     edition       = {Second},
+     isbn          = {0-12-488051-7},
+     mrclass       = {82-02 (15A52 60B99 60K35 82B41)},
+     mrnumber      = {1083764},
+     mrreviewer    = {B. S. Nahapetian},
+     pages         = {xviii+562},
+     publisher     = {Academic Press, Inc., Boston, MA},
+     title         = {Random matrices},
+     year          = {1991}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

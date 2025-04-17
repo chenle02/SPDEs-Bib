@@ -1,0 +1,30 @@
+denk.hieber.ea:03:r-boundedness
+===============================
+
+:cite:t:`denk.hieber.ea:03:r-boundedness`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{denk.hieber.ea:03:r-boundedness,
+     author        = {Denk, Robert and Hieber, Matthias and Pr\"{u}ss, Jan},
+     doi           = {10.1090/memo/0788},
+     fjournal      = {Memoirs of the American Mathematical Society},
+     issn          = {0065-9266},
+     journal       = {Mem. Amer. Math. Soc.},
+     mrclass       = {35-02 (35J30 35K25 42B15)},
+     mrnumber      = {2006641},
+     mrreviewer    = {Alain Brillard},
+     number        = {788},
+     pages         = {viii+114},
+     title         = {{$\scr R$}-boundedness, {F}ourier multipliers and problems of elliptic and parabolic type},
+     url           = {https://doi.org/10.1090/memo/0788},
+     volume        = {166},
+     year          = {2003}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/memo/0788>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

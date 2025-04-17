@@ -1,0 +1,25 @@
+stettner.zabczyk:80:stochastic
+==============================
+
+:cite:t:`stettner.zabczyk:80:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{stettner.zabczyk:80:stochastic,
+     author        = {Stettner, \L . and Zabczyk, J.},
+     booktitle     = {Optimization techniques ({P}roc. {N}inth {IFIP} {C}onf., {W}arsaw, 1979), {P}art 1},
+     isbn          = {3-540-10080-6},
+     mrclass       = {49D30},
+     mrnumber      = {588530},
+     mrreviewer    = {Bension Kurtaran},
+     pages         = {179--183},
+     publisher     = {Springer, Berlin-New York},
+     series        = {Lect. Notes Control Inf. Sci.},
+     title         = {Stochastic version of a penalty method},
+     volume        = {22},
+     year          = {1980}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

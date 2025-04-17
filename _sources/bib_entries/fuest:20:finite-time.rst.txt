@@ -1,0 +1,28 @@
+fuest:20:finite-time
+====================
+
+:cite:t:`fuest:20:finite-time`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{fuest:20:finite-time,
+     author        = {Fuest, Mario},
+     doi           = {10.1016/j.nonrwa.2019.103022},
+     fjournal      = {Nonlinear Analysis. Real World Applications. An International Multidisciplinary Journal},
+     issn          = {1468-1218},
+     journal       = {Nonlinear Anal. Real World Appl.},
+     mrclass       = {92C17 (35B44 35K51 35M33)},
+     mrnumber      = {4000159},
+     pages         = {103022, 14},
+     title         = {Finite-time blow-up in a two-dimensional {K}eller-{S}egel system with an environmental dependent logistic source},
+     url           = {https://doi.org/10.1016/j.nonrwa.2019.103022},
+     volume        = {52},
+     year          = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2019.103022>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

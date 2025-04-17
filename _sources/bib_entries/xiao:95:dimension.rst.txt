@@ -1,0 +1,29 @@
+xiao:95:dimension
+=================
+
+:cite:t:`xiao:95:dimension`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{xiao:95:dimension,
+     author        = {Xiao, Yi Min},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798,2168-894X},
+     journal       = {Ann. Probab.},
+     mrclass       = {60G17 (60G60)},
+     mrnumber      = {1330771},
+     mrreviewer    = {John P. Nolan},
+     number        = {1},
+     pages         = {273--291},
+     title         = {Dimension results for {G}aussian vector fields and index-{$\alpha$} stable fields},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199501)23:1<273:DRFGVF>2.0.CO;2-I\&origin=MSN},
+     volume        = {23},
+     year          = {1995}
+   }
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199501)23:1<273:DRFGVF>2.0.CO;2-I\&origin=MSN>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

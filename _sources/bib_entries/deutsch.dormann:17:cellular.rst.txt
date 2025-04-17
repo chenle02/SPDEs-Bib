@@ -1,0 +1,23 @@
+deutsch.dormann:17:cellular
+===========================
+
+:cite:t:`deutsch.dormann:17:cellular`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{deutsch.dormann:17:cellular,
+     author        = {Deutsch, Andreas and Dormann, Sabine},
+     isbn          = {978-1-4899-7978-0; 978-1-4899-7980-3},
+     mrclass       = {92C15 (37B15 68Q80 92C17)},
+     mrnumber      = {3753585},
+     note          = {Characterization, examples, and analysis, Second edition of [ MR2100608], With a foreword by Philip K. Maini},
+     pages         = {xxii+464},
+     publisher     = {Birkh\"{a}user/Springer, New York},
+     series        = {Modeling and Simulation in Science, Engineering and Technology},
+     title         = {Cellular automaton modeling of biological pattern formation},
+     year          = {2017}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,29 @@
+kumagai.zeitouni:13:fluctuations
+================================
+
+:cite:t:`kumagai.zeitouni:13:fluctuations`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kumagai.zeitouni:13:fluctuations,
+     author        = {Kumagai, Takashi and Zeitouni, Ofer},
+     doi           = {10.1214/ECP.v18-2632},
+     fjournal      = {Electronic Communications in Probability},
+     issn          = {1083-589X},
+     journal       = {Electron. Commun. Probab.},
+     mrclass       = {60G15 (28A80)},
+     mrnumber      = {3109630},
+     mrreviewer    = {Yimin Xiao},
+     pages         = {no. 75, 12},
+     title         = {Fluctuations of maxima of discrete {G}aussian free fields on a class of recurrent graphs},
+     url           = {https://doi.org/10.1214/ECP.v18-2632},
+     volume        = {18},
+     year          = {2013}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/ECP.v18-2632>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

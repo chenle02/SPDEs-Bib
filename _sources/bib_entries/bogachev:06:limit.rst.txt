@@ -1,0 +1,30 @@
+bogachev:06:limit
+=================
+
+:cite:t:`bogachev:06:limit`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bogachev:06:limit,
+     author        = {Bogachev, Leonid},
+     doi           = {10.1007/s10959-006-0036-z},
+     fjournal      = {Journal of Theoretical Probability},
+     issn          = {0894-9840},
+     journal       = {J. Theoret. Probab.},
+     mrclass       = {60G50 (60E07 60F05)},
+     mrnumber      = {2279606},
+     mrreviewer    = {Peter Kern},
+     number        = {4},
+     pages         = {849--873},
+     title         = {Limit laws for norms of {IID} samples with {W}eibull tails},
+     url           = {https://doi.org/10.1007/s10959-006-0036-z},
+     volume        = {19},
+     year          = {2006}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10959-006-0036-z>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

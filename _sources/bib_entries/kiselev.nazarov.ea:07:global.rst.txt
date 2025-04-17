@@ -1,0 +1,30 @@
+kiselev.nazarov.ea:07:global
+============================
+
+:cite:t:`kiselev.nazarov.ea:07:global`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kiselev.nazarov.ea:07:global,
+     author        = {Kiselev, A. and Nazarov, F. and Volberg, A.},
+     doi           = {10.1007/s00222-006-0020-3},
+     fjournal      = {Inventiones Mathematicae},
+     issn          = {0020-9910},
+     journal       = {Invent. Math.},
+     mrclass       = {35Q35 (35B30 35K50)},
+     mrnumber      = {2276260},
+     mrreviewer    = {Xiaoming Wang},
+     number        = {3},
+     pages         = {445--453},
+     title         = {Global well-posedness for the critical 2{D} dissipative quasi-geostrophic equation},
+     url           = {https://doi.org/10.1007/s00222-006-0020-3},
+     volume        = {167},
+     year          = {2007}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00222-006-0020-3>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

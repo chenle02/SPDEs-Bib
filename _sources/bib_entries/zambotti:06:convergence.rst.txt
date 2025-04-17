@@ -1,0 +1,30 @@
+zambotti:06:convergence
+=======================
+
+:cite:t:`zambotti:06:convergence`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{zambotti:06:convergence,
+     author        = {Zambotti, Lorenzo},
+     doi           = {10.1007/s00028-006-0275-6},
+     fjournal      = {Journal of Evolution Equations},
+     issn          = {1424-3199,1424-3202},
+     journal       = {J. Evol. Equ.},
+     mrclass       = {60H15 (35R60 47D07 47N30 60H10)},
+     mrnumber      = {2267701},
+     mrreviewer    = {Jan I. Seidler},
+     number        = {4},
+     pages         = {601--619},
+     title         = {Convergence of approximations of monotone gradient systems},
+     url           = {https://doi.org/10.1007/s00028-006-0275-6},
+     volume        = {6},
+     year          = {2006}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00028-006-0275-6>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

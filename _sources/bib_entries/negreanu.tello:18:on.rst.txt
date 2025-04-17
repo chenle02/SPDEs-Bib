@@ -1,0 +1,30 @@
+negreanu.tello:18:on
+====================
+
+:cite:t:`negreanu.tello:18:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{negreanu.tello:18:on,
+     author        = {Negreanu, Mihaela and Tello, J. Ignacio},
+     doi           = {10.1016/j.jde.2018.01.040},
+     fjournal      = {Journal of Differential Equations},
+     issn          = {0022-0396},
+     journal       = {J. Differential Equations},
+     mrclass       = {92C17 (35B45 35M33 35Q92)},
+     mrnumber      = {3788622},
+     mrreviewer    = {Jingyu Li},
+     number        = {3},
+     pages         = {733--751},
+     title         = {On a parabolic-elliptic system with gradient dependent chemotactic coefficient},
+     url           = {https://doi.org/10.1016/j.jde.2018.01.040},
+     volume        = {265},
+     year          = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2018.01.040>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

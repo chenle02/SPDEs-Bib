@@ -1,0 +1,30 @@
+nourdin:09:change
+=================
+
+:cite:t:`nourdin:09:change`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{nourdin:09:change,
+     author        = {Nourdin, Ivan},
+     doi           = {10.1016/j.jfa.2008.10.005},
+     fjournal      = {Journal of Functional Analysis},
+     issn          = {0022-1236},
+     journal       = {J. Funct. Anal.},
+     mrclass       = {60G22 (60F05 60G18 60G60 60H05)},
+     mrnumber      = {2498767},
+     mrreviewer    = {Jos\'{e} Rafael Le\'{o}n},
+     number        = {7},
+     pages         = {2304--2320},
+     title         = {A change of variable formula for the 2{D} fractional {B}rownian motion of {H}urst index bigger or equal to {$1/4$}},
+     url           = {https://doi.org/10.1016/j.jfa.2008.10.005},
+     volume        = {256},
+     year          = {2009}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2008.10.005>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

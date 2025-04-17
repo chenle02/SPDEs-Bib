@@ -1,0 +1,30 @@
+jan-en:10:limit
+===============
+
+:cite:t:`jan-en:10:limit`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{jan-en:10:limit,
+     author        = {Jan\ss en, Anja},
+     doi           = {10.1007/s00440-008-0198-y},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60F05 (60E07 60G70)},
+     mrnumber      = {2574737},
+     mrreviewer    = {M. Sreehari},
+     number        = {3-4},
+     pages         = {515--533},
+     title         = {Limit laws for power sums and norms of i.i.d. samples},
+     url           = {https://doi.org/10.1007/s00440-008-0198-y},
+     volume        = {146},
+     year          = {2010}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00440-008-0198-y>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

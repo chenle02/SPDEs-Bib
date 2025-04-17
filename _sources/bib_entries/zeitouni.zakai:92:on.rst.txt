@@ -1,0 +1,30 @@
+zeitouni.zakai:92:on
+====================
+
+:cite:t:`zeitouni.zakai:92:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{zeitouni.zakai:92:on,
+     author        = {Zeitouni, Ofer and Zakai, Moshe},
+     doi           = {10.1137/0330026},
+     fjournal      = {SIAM Journal on Control and Optimization},
+     issn          = {0363-0129},
+     journal       = {SIAM J. Control Optim.},
+     mrclass       = {93E20 (49K45)},
+     mrnumber      = {1149077},
+     mrreviewer    = {Jean Picard},
+     number        = {2},
+     pages         = {426--439},
+     title         = {On the optimal tracking problem},
+     url           = {https://doi.org/10.1137/0330026},
+     volume        = {30},
+     year          = {1992}
+   }
+
+`The URL link to the source <https://doi.org/10.1137/0330026>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

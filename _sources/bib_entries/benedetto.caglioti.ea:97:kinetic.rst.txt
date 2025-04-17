@@ -1,0 +1,30 @@
+benedetto.caglioti.ea:97:kinetic
+================================
+
+:cite:t:`benedetto.caglioti.ea:97:kinetic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{benedetto.caglioti.ea:97:kinetic,
+     author        = {Benedetto, D. and Caglioti, E. and Pulvirenti, M.},
+     doi           = {10.1051/m2an/1997310506151},
+     fjournal      = {RAIRO Mod\'{e}lisation Math\'{e}matique et Analyse Num\'{e}rique},
+     issn          = {0764-583X},
+     journal       = {RAIRO Mod\'{e}l. Math. Anal. Num\'{e}r.},
+     mrclass       = {82C40 (45K05 73E99 76A99 76P05)},
+     mrnumber      = {1471181},
+     mrreviewer    = {Nicola Bellomo},
+     number        = {5},
+     pages         = {615--641},
+     title         = {A kinetic equation for granular media},
+     url           = {https://doi.org/10.1051/m2an/1997310506151},
+     volume        = {31},
+     year          = {1997}
+   }
+
+`The URL link to the source <https://doi.org/10.1051/m2an/1997310506151>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

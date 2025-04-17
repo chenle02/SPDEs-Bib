@@ -1,0 +1,24 @@
+mao:94:exponential
+==================
+
+:cite:t:`mao:94:exponential`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{mao:94:exponential,
+     author        = {Mao, Xuerong},
+     isbn          = {0-8247-9080-4},
+     mrclass       = {60H20 (34D08 34F05 60G48 93E15)},
+     mrnumber      = {1275834},
+     mrreviewer    = {Wolfgang Kliemann},
+     pages         = {xii+307},
+     publisher     = {Marcel Dekker, Inc., New York},
+     series        = {Monographs and Textbooks in Pure and Applied Mathematics},
+     title         = {Exponential stability of stochastic differential equations},
+     volume        = {182},
+     year          = {1994}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

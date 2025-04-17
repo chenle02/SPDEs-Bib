@@ -1,0 +1,29 @@
+di-pietro.ern:12:mathematical
+=============================
+
+:cite:t:`di-pietro.ern:12:mathematical`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{di-pietro.ern:12:mathematical,
+     author        = {Di Pietro, Daniele Antonio and Ern, Alexandre},
+     doi           = {10.1007/978-3-642-22980-0},
+     isbn          = {978-3-642-22979-4},
+     mrclass       = {65-02 (35A35 35F15 35J25 35Q35 65M60 65N30)},
+     mrnumber      = {2882148},
+     mrreviewer    = {R\'{e}mi Vaillancourt},
+     pages         = {xviii+384},
+     publisher     = {Springer, Heidelberg},
+     series        = {Math\'{e}matiques \& Applications (Berlin) [Mathematics \& Applications]},
+     title         = {Mathematical aspects of discontinuous {G}alerkin methods},
+     url           = {https://doi.org/10.1007/978-3-642-22980-0},
+     volume        = {69},
+     year          = {2012}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/978-3-642-22980-0>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

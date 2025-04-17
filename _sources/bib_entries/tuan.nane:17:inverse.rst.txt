@@ -1,0 +1,28 @@
+tuan.nane:17:inverse
+====================
+
+:cite:t:`tuan.nane:17:inverse`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{tuan.nane:17:inverse,
+     author        = {Tuan, Nguyen Huy and Nane, Erkan},
+     doi           = {10.1016/j.spl.2016.09.026},
+     fjournal      = {Statistics \& Probability Letters},
+     issn          = {0167-7152},
+     journal       = {Statist. Probab. Lett.},
+     mrclass       = {35R11 (35R30 62G08)},
+     mrnumber      = {3567931},
+     pages         = {126--134},
+     title         = {Inverse source problem for time-fractional diffusion with discrete random noise},
+     url           = {https://doi.org/10.1016/j.spl.2016.09.026},
+     volume        = {120},
+     year          = {2017}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.spl.2016.09.026>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

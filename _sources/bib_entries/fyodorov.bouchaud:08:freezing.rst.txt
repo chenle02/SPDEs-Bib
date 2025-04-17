@@ -1,0 +1,29 @@
+fyodorov.bouchaud:08:freezing
+=============================
+
+:cite:t:`fyodorov.bouchaud:08:freezing`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{fyodorov.bouchaud:08:freezing,
+     author        = {Fyodorov, Yan V. and Bouchaud, Jean-Philippe},
+     doi           = {10.1088/1751-8113/41/37/372001},
+     fjournal      = {Journal of Physics. A. Mathematical and Theoretical},
+     issn          = {1751-8113},
+     journal       = {J. Phys. A},
+     mrclass       = {82B44},
+     mrnumber      = {2430565},
+     number        = {37},
+     pages         = {372001, 12},
+     title         = {Freezing and extreme-value statistics in a random energy model with logarithmically correlated potential},
+     url           = {https://doi.org/10.1088/1751-8113/41/37/372001},
+     volume        = {41},
+     year          = {2008}
+   }
+
+`The URL link to the source <https://doi.org/10.1088/1751-8113/41/37/372001>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+flandoli.langa:08:markov
+========================
+
+:cite:t:`flandoli.langa:08:markov`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{flandoli.langa:08:markov,
+     author        = {Flandoli, Franco and Langa, Jos\'{e} A.},
+     doi           = {10.1142/S0219493708002202},
+     fjournal      = {Stochastics and Dynamics},
+     issn          = {0219-4937,1793-6799},
+     journal       = {Stoch. Dyn.},
+     mrclass       = {37B25 (34A36 34F05 37L30 60J25)},
+     mrnumber      = {2399926},
+     mrreviewer    = {Peter E. Kloeden},
+     number        = {1},
+     pages         = {59--75},
+     title         = {Markov attractors: a probabilistic approach to multivalued flows},
+     url           = {https://doi.org/10.1142/S0219493708002202},
+     volume        = {8},
+     year          = {2008}
+   }
+
+`The URL link to the source <https://doi.org/10.1142/S0219493708002202>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

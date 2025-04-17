@@ -1,0 +1,30 @@
+kong.shen:14:liouville
+======================
+
+:cite:t:`kong.shen:14:liouville`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kong.shen:14:liouville,
+     author        = {Kong, Liang and Shen, Wenxian},
+     doi           = {10.1007/s10884-014-9351-8},
+     fjournal      = {Journal of Dynamics and Differential Equations},
+     issn          = {1040-7294,1572-9222},
+     journal       = {J. Dynam. Differential Equations},
+     mrclass       = {35K58 (34A33 35B10 35B51 35R60 45J05 92D25)},
+     mrnumber      = {3175265},
+     mrreviewer    = {Weian Liu},
+     number        = {1},
+     pages         = {181--215},
+     title         = {Liouville type property and spreading speeds of {KPP} equations in periodic media with localized spatial inhomogeneity},
+     url           = {https://doi.org/10.1007/s10884-014-9351-8},
+     volume        = {26},
+     year          = {2014}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10884-014-9351-8>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
