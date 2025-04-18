@@ -6,7 +6,7 @@
 SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
-BUILDDIR      = ../../SPPDs-Bib-Docs
+BUILDDIR      = _build
 DESTPATH      = $(BUILDDIR)/html/
 GHPAGEDIR     = ../../SPDEs-Bib-Docs/
 
