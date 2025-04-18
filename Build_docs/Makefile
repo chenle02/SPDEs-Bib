@@ -19,7 +19,8 @@ help:
 # Add new deploy target
 deploy:
 	rsync -av --delete --exclude='.*' "$(DESTPATH)" "$(GHPAGEDIR)"
-	cd "$(GHPAGEDIR)" && git add . && oco --yes && git push
+	# cd "$(GHPAGEDIR)" && git add . && opencommit --yes && git push
+	cd "$(GHPAGEDIR)" && git diff-index --quiet HEAD || (git add . && git commit -m "docs: update Sphinx documentation build" && git push)
 
 
 # New target that combines html and deploy
