@@ -8,7 +8,7 @@ SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = ../../SPPDs-Bib-Docs
 DESTPATH      = $(BUILDDIR)/html/
-GH-PageDIR    = ../../SPDEs-Bib-Docs/
+GHPAGEDIR     = ../../SPDEs-Bib-Docs/
 
 # Put it first so that "make" without argument is like "make help".
 help:
@@ -18,8 +18,8 @@ help:
 
 # Add new deploy target
 deploy:
-	rsync -av --delete --exclude='.*' "$(DESTPATH)" "$(GH-PageDIR)"
-	cd "$(GH-PageDir)" && git add . && git commit -m "Update documentation"
+	rsync -av --delete --exclude='.*' "$(DESTPATH)" "$(GHPAGEDIR)"
+	cd "$(GHPAGEDIR)" && git add . && oco --yes && git push
 
 
 # New target that combines html and deploy
