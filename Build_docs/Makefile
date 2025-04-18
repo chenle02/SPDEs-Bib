@@ -7,8 +7,8 @@ SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = ../../SPPDs-Bib-Docs
-DESTPATH      = $(BUILDDIR)/html
-GH-PageDIR    = ../../SPDEs-Bib-Docs
+DESTPATH      = $(BUILDDIR)/html/
+GH-PageDIR    = ../../SPDEs-Bib-Docs/
 
 # Put it first so that "make" without argument is like "make help".
 help:
