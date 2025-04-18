@@ -1,26 +1,21 @@
-# Minimal makefile for Sphinx documentation
-#
 
-# You can set these variables from the command line, and also
-# from the environment for the first two.
 SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = ../../SPPDs-Bib-Docs
 DESTPATH      = $(BUILDDIR)/html
-GH-PageDIR    = ../../SPDEs-Bib-Docs
+GH_PAGEDIR    = ../../SPDEs-Bib-Docs
 
 # Put it first so that "make" without argument is like "make help".
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-.PHONY: help Makefile
+.PHONY: help deploy html-and-deploy
 
 # Add new deploy target
 deploy:
-	rsync -av --delete --exclude='.*' "$(DESTPATH)" "$(GH-PageDIR)"
-	cd "$(GH-PageDir)" && git add . && git commit -m "Update documentation"
-
+	rsync -av --delete --exclude='.*' "$(DESTPATH)/" "$(GH_PAGEDIR)/" || { echo "rsync failed"; exit 1; }
+	cd "$(GH_PAGEDIR)" && git add . && git commit -m "Update documentation on $$(date +'%Y-%m-%d %H:%M:%S')" || { echo "git commit failed"; exit 1; }
 
 # New target that combines html and deploy
 html-and-deploy: html deploy
