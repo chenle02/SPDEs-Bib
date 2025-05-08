@@ -42,6 +42,26 @@ html_theme_options = {
     "footer": "Le Chen (陈乐), Auburn University, le.chen@auburn.edu, chenle02@gmail.com"
 }
 
+# Automatically inject audio podcast links after building docs
+import subprocess
+import os
+import sys
+
+def run_add_podcast(app):
+    script_dir = os.path.join(os.path.dirname(__file__), 'audio_files')
+    script_path = os.path.join(script_dir, 'add_podcast.py')
+    if not os.path.exists(script_path):
+        print(f"[audio] add_podcast.py not found at {script_path}")
+        return
+    print(f"[audio] Running add_podcast.py to inject audio into RST files")
+    try:
+        subprocess.run([sys.executable, script_path], cwd=script_dir, check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"[audio] add_podcast.py failed: {e}")
+
+def setup(app):
+    app.connect('builder-inited', run_add_podcast)
+
 # -- Options for latex pdf output -------------------------------------------------
 # bibtex_bibfiles = ["../All-test.bib"]
 
