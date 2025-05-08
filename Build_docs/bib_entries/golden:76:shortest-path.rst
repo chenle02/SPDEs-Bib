@@ -8,14 +8,14 @@ golden:76:shortest-path
 .. code-block:: bibtex
 
    @article{golden:76:shortest-path,
-     author        = {Golden, Bruce},
-     journal       = {Operations Research},
-     number        = {6},
-     pages         = {1164--1168},
-     publisher     = {INFORMS},
-     title         = {Shortest-path algorithms: A comparison},
-     volume        = {24},
-     year          = {1976}
+    author = {Golden, Bruce},
+    journal = {Operations Research},
+    number = {6},
+    pages = {1164--1168},
+    publisher = {INFORMS},
+    title = {Shortest-path algorithms: A comparison},
+    volume = {24},
+    year = {1976}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

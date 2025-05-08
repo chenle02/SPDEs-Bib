@@ -8,23 +8,24 @@ goldstein.nourdin.ea:17:gaussian
 .. code-block:: bibtex
 
    @article{goldstein.nourdin.ea:17:gaussian,
-     author        = {Goldstein, Larry and Nourdin, Ivan and Peccati, Giovanni},
-     doi           = {10.1214/16-AAP1195},
-     fjournal      = {The Annals of Applied Probability},
-     issn          = {1050-5164},
-     journal       = {Ann. Appl. Probab.},
-     mrclass       = {60D05 (60F05 62F30)},
-     mrnumber      = {3619780},
-     mrreviewer    = {Christoph Th\"{a}le},
-     number        = {1},
-     pages         = {1--47},
-     title         = {Gaussian phase transitions and conic intrinsic volumes: {S}teining the {S}teiner formula},
-     url           = {https://doi.org/10.1214/16-AAP1195},
-     volume        = {27},
-     year          = {2017}
+    author = {Goldstein, Larry and Nourdin, Ivan and Peccati, Giovanni},
+    doi = {10.1214/16-AAP1195},
+    fjournal = {The Annals of Applied Probability},
+    issn = {1050-5164},
+    journal = {Ann. Appl. Probab.},
+    mrclass = {60D05 (60F05 62F30)},
+    mrnumber = {3619780},
+    mrreviewer = {Christoph Th\"{a}le},
+    number = {1},
+    pages = {1--47},
+    title = {Gaussian phase transitions and conic intrinsic volumes:
+   {S}teining the {S}teiner formula},
+    url = {https://doi.org/10.1214/16-AAP1195},
+    volume = {27},
+    year = {2017}
    }
 
-`The URL link to the source <https://doi.org/10.1214/16-AAP1195>`__
+`The URL link to the source <ttps://doi.org/10.1214/16-AAP1195}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

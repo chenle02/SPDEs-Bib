@@ -8,22 +8,23 @@ ethier.kurtz:86:markov
 .. code-block:: bibtex
 
    @book{ethier.kurtz:86:markov,
-     author        = {Ethier, Stewart N. and Kurtz, Thomas G.},
-     doi           = {10.1002/9780470316658},
-     isbn          = {0-471-08186-8},
-     mrclass       = {60J25 (60B10 60F05 60F17 60G44 60J80)},
-     mrnumber      = {838085},
-     mrreviewer    = {S. R. S. Varadhan},
-     note          = {Characterization and convergence},
-     pages         = {x+534},
-     publisher     = {John Wiley \& Sons, Inc., New York},
-     series        = {Wiley Series in Probability and Mathematical Statistics: Probability and Mathematical Statistics},
-     title         = {Markov processes},
-     url           = {https://doi.org/10.1002/9780470316658},
-     year          = {1986}
+    author = {Ethier, Stewart N. and Kurtz, Thomas G.},
+    doi = {10.1002/9780470316658},
+    isbn = {0-471-08186-8},
+    mrclass = {60J25 (60B10 60F05 60F17 60G44 60J80)},
+    mrnumber = {838085},
+    mrreviewer = {S. R. S. Varadhan},
+    note = {Characterization and convergence},
+    pages = {x+534},
+    publisher = {John Wiley \& Sons, Inc., New York},
+    series = {Wiley Series in Probability and Mathematical Statistics:
+   Probability and Mathematical Statistics},
+    title = {Markov processes},
+    url = {https://doi.org/10.1002/9780470316658},
+    year = {1986}
    }
 
-`The URL link to the source <https://doi.org/10.1002/9780470316658>`__
+`The URL link to the source <ttps://doi.org/10.1002/9780470316658}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

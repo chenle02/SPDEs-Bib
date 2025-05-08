@@ -8,22 +8,23 @@ brzezniak.ondrejat:11:weak
 .. code-block:: bibtex
 
    @article{brzezniak.ondrejat:11:weak,
-     author        = {Brze\'{z}niak, Z. and Ondrej\'{a}t, M.},
-     doi           = {10.1080/03605302.2011.574243},
-     fjournal      = {Communications in Partial Differential Equations},
-     issn          = {0360-5302},
-     journal       = {Comm. Partial Differential Equations},
-     mrclass       = {60H15 (35D30 35L70 35R01 35R60)},
-     mrnumber      = {2825605},
-     number        = {9},
-     pages         = {1624--1653},
-     title         = {Weak solutions to stochastic wave equations with values in {R}iemannian manifolds},
-     url           = {https://doi.org/10.1080/03605302.2011.574243},
-     volume        = {36},
-     year          = {2011}
+    author = {Brze\'{z}niak, Z. and Ondrej\'{a}t, M.},
+    doi = {10.1080/03605302.2011.574243},
+    fjournal = {Communications in Partial Differential Equations},
+    issn = {0360-5302},
+    journal = {Comm. Partial Differential Equations},
+    mrclass = {60H15 (35D30 35L70 35R01 35R60)},
+    mrnumber = {2825605},
+    number = {9},
+    pages = {1624--1653},
+    title = {Weak solutions to stochastic wave equations with values in
+   {R}iemannian manifolds},
+    url = {https://doi.org/10.1080/03605302.2011.574243},
+    volume = {36},
+    year = {2011}
    }
 
-`The URL link to the source <https://doi.org/10.1080/03605302.2011.574243>`__
+`The URL link to the source <ttps://doi.org/10.1080/03605302.2011.574243}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

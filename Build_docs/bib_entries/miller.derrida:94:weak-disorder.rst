@@ -8,23 +8,24 @@ miller.derrida:94:weak-disorder
 .. code-block:: bibtex
 
    @article{miller.derrida:94:weak-disorder,
-     author        = {Miller, Jeffrey D. and Derrida, Bernard},
-     doi           = {10.1007/BF02186867},
-     fjournal      = {Journal of Statistical Physics},
-     issn          = {0022-4715,1572-9613},
-     journal       = {J. Statist. Phys.},
-     mrclass       = {82B44 (81Q10)},
-     mrnumber      = {1279757},
-     mrreviewer    = {Anton\ Bovier},
-     number        = {3-4},
-     pages         = {357--388},
-     title         = {Weak-disorder expansion for the {A}nderson model on a tree},
-     url           = {https://doi.org/10.1007/BF02186867},
-     volume        = {75},
-     year          = {1994}
+    author = {Miller, Jeffrey D. and Derrida, Bernard},
+    doi = {10.1007/BF02186867},
+    fjournal = {Journal of Statistical Physics},
+    issn = {0022-4715,1572-9613},
+    journal = {J. Statist. Phys.},
+    mrclass = {82B44 (81Q10)},
+    mrnumber = {1279757},
+    mrreviewer = {Anton\ Bovier},
+    number = {3-4},
+    pages = {357--388},
+    title = {Weak-disorder expansion for the {A}nderson model on a
+   tree},
+    url = {https://doi.org/10.1007/BF02186867},
+    volume = {75},
+    year = {1994}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02186867>`__
+`The URL link to the source <ttps://doi.org/10.1007/BF02186867}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

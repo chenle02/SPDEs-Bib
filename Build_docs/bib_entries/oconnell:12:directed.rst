@@ -8,23 +8,23 @@ oconnell:12:directed
 .. code-block:: bibtex
 
    @article{oconnell:12:directed,
-     author        = {O'Connell, Neil},
-     doi           = {10.1214/10-AOP632},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
-     mrclass       = {60J65 (37K10 60B20 60J25 60K37)},
-     mrnumber      = {2952082},
-     mrreviewer    = {Vladimir Al. Osipov},
-     number        = {2},
-     pages         = {437--458},
-     title         = {Directed polymers and the quantum {T}oda lattice},
-     url           = {https://doi.org/10.1214/10-AOP632},
-     volume        = {40},
-     year          = {2012}
+    author = {O'Connell, Neil},
+    doi = {10.1214/10-AOP632},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60J65 (37K10 60B20 60J25 60K37)},
+    mrnumber = {2952082},
+    mrreviewer = {Vladimir Al. Osipov},
+    number = {2},
+    pages = {437--458},
+    title = {Directed polymers and the quantum {T}oda lattice},
+    url = {https://doi.org/10.1214/10-AOP632},
+    volume = {40},
+    year = {2012}
    }
 
-`The URL link to the source <https://doi.org/10.1214/10-AOP632>`__
+`The URL link to the source <ttps://doi.org/10.1214/10-AOP632}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

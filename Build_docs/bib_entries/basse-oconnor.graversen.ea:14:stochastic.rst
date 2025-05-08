@@ -8,23 +8,23 @@ basse-oconnor.graversen.ea:14:stochastic
 .. code-block:: bibtex
 
    @article{basse-oconnor.graversen.ea:14:stochastic,
-     author        = {Basse-O'Connor, A. and Graversen, S.-E. and Pedersen, J.},
-     doi           = {10.1137/S0040585X97986540},
-     fjournal      = {Theory of Probability and its Applications},
-     issn          = {0040-585X},
-     journal       = {Theory Probab. Appl.},
-     mrclass       = {60H05 (60G51 60G57)},
-     mrnumber      = {3300554},
-     mrreviewer    = {Mats Torbj\"{o}rn Pihlsg\aa rd},
-     number        = {2},
-     pages         = {193--215},
-     title         = {Stochastic integration on the real line},
-     url           = {https://doi.org/10.1137/S0040585X97986540},
-     volume        = {58},
-     year          = {2014}
+    author = {Basse-O'Connor, A. and Graversen, S.-E. and Pedersen, J.},
+    doi = {10.1137/S0040585X97986540},
+    fjournal = {Theory of Probability and its Applications},
+    issn = {0040-585X},
+    journal = {Theory Probab. Appl.},
+    mrclass = {60H05 (60G51 60G57)},
+    mrnumber = {3300554},
+    mrreviewer = {Mats Torbj\"{o}rn Pihlsg\aa rd},
+    number = {2},
+    pages = {193--215},
+    title = {Stochastic integration on the real line},
+    url = {https://doi.org/10.1137/S0040585X97986540},
+    volume = {58},
+    year = {2014}
    }
 
-`The URL link to the source <https://doi.org/10.1137/S0040585X97986540>`__
+`The URL link to the source <ttps://doi.org/10.1137/S0040585X97986540}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

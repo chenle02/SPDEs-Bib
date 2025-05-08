@@ -7,24 +7,19 @@ perkins:82:local
 
 .. code-block:: bibtex
 
-   @article{perkins:82:local,
-     author        = {Perkins, Edwin},
-     doi           = {10.1007/BF01957098},
-     fjournal      = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
-     issn          = {0044-3719},
-     journal       = {Z. Wahrsch. Verw. Gebiete},
-     mrclass       = {60J65 (60G44)},
-     mrnumber      = {661760},
-     mrreviewer    = {E. \c{C}inlar},
-     number        = {1},
-     pages         = {79--117},
-     title         = {Local time is a semimartingale},
-     url           = {https://doi.org/10.1007/BF01957098},
-     volume        = {60},
-     year          = {1982}
+   @incollection{perkins:82:local,
+    author = {Perkins, Edwin},
+    booktitle = {Seminar on {P}robability, {XVI}},
+    mrclass = {60H10},
+    mrnumber = {658680},
+    mrreviewer = {Toshio Yamada},
+    pages = {201--208},
+    publisher = {Springer, Berlin-New York},
+    series = {Lecture Notes in Math.},
+    title = {Local time and pathwise uniqueness for stochastic
+   differential equations},
+    volume = {920},
+    year = {1982}
    }
-
-`The URL link to the source <https://doi.org/10.1007/BF01957098>`__
-
 
 `Back to index <../By-Cite-Keys.html>`__

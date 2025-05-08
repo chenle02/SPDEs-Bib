@@ -8,23 +8,25 @@ winkler:18:global
 .. code-block:: bibtex
 
    @article{winkler:18:global,
-     author        = {Winkler, Michael},
-     doi           = {10.1007/s00028-018-0440-8},
-     fjournal      = {Journal of Evolution Equations},
-     issn          = {1424-3199},
-     journal       = {J. Evol. Equ.},
-     mrclass       = {35Q35 (35D30 35K55 35Q92 92C17)},
-     mrnumber      = {3859449},
-     mrreviewer    = {Doron Levy},
-     number        = {3},
-     pages         = {1267--1289},
-     title         = {Global mass-preserving solutions in a two-dimensional chemotaxis-{S}tokes system with rotational flux components},
-     url           = {https://doi.org/10.1007/s00028-018-0440-8},
-     volume        = {18},
-     year          = {2018}
+    author = {Winkler, Michael},
+    doi = {10.1007/s00028-018-0440-8},
+    fjournal = {Journal of Evolution Equations},
+    issn = {1424-3199},
+    journal = {J. Evol. Equ.},
+    mrclass = {35Q35 (35D30 35K55 35Q92 92C17)},
+    mrnumber = {3859449},
+    mrreviewer = {Doron Levy},
+    number = {3},
+    pages = {1267--1289},
+    title = {Global mass-preserving solutions in a two-dimensional
+   chemotaxis-{S}tokes system with rotational flux
+   components},
+    url = {https://doi.org/10.1007/s00028-018-0440-8},
+    volume = {18},
+    year = {2018}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00028-018-0440-8>`__
+`The URL link to the source <ttps://doi.org/10.1007/s00028-018-0440-8}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

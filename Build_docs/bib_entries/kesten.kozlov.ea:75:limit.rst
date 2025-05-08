@@ -8,17 +8,17 @@ kesten.kozlov.ea:75:limit
 .. code-block:: bibtex
 
    @article{kesten.kozlov.ea:75:limit,
-     author        = {Kesten, H. and Kozlov, M. V. and Spitzer, F.},
-     fjournal      = {Compositio Mathematica},
-     issn          = {0010-437X,1570-5846},
-     journal       = {Compositio Math.},
-     mrclass       = {60J15 (60F05 60J80)},
-     mrnumber      = {380998},
-     mrreviewer    = {K.\ B.\ Erickson},
-     pages         = {145--168},
-     title         = {A limit law for random walk in a random environment},
-     volume        = {30},
-     year          = {1975}
+    author = {Kesten, H. and Kozlov, M. V. and Spitzer, F.},
+    fjournal = {Compositio Mathematica},
+    issn = {0010-437X,1570-5846},
+    journal = {Compositio Math.},
+    mrclass = {60J15 (60F05 60J80)},
+    mrnumber = {380998},
+    mrreviewer = {K.\ B.\ Erickson},
+    pages = {145--168},
+    title = {A limit law for random walk in a random environment},
+    volume = {30},
+    year = {1975}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

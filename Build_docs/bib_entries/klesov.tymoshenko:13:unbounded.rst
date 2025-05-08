@@ -8,16 +8,18 @@ klesov.tymoshenko:13:unbounded
 .. code-block:: bibtex
 
    @article{klesov.tymoshenko:13:unbounded,
-     author        = {Klesov, O. I. and Tymoshenko, O. A.},
-     fjournal      = {Annales Universitatis Scientiarum Budapestinensis de Rolando E\"{o}tv\"{o}s Nominatae. Sectio Computatorica},
-     issn          = {0138-9491},
-     journal       = {Ann. Univ. Sci. Budapest. Sect. Comput.},
-     mrclass       = {60H10 (34C11)},
-     mrnumber      = {3129122},
-     pages         = {25--35},
-     title         = {Unbounded solutions of stochastic differential equations with time-dependent coefficients},
-     volume        = {41},
-     year          = {2013}
+    author = {Klesov, O. I. and Tymoshenko, O. A.},
+    fjournal = {Annales Universitatis Scientiarum Budapestinensis de
+   Rolando E\"{o}tv\"{o}s Nominatae. Sectio Computatorica},
+    issn = {0138-9491},
+    journal = {Ann. Univ. Sci. Budapest. Sect. Comput.},
+    mrclass = {60H10 (34C11)},
+    mrnumber = {3129122},
+    pages = {25--35},
+    title = {Unbounded solutions of stochastic differential equations
+   with time-dependent coefficients},
+    volume = {41},
+    year = {2013}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,22 +8,23 @@ falconer.xiao:14:generalized
 .. code-block:: bibtex
 
    @article{falconer.xiao:14:generalized,
-     author        = {Falconer, Kenneth and Xiao, Yimin},
-     doi           = {10.1016/j.aim.2013.11.002},
-     fjournal      = {Advances in Mathematics},
-     issn          = {0001-8708,1090-2082},
-     journal       = {Adv. Math.},
-     mrclass       = {60G15 (60G17 60G60)},
-     mrnumber      = {3144239},
-     mrreviewer    = {Marco\ Dozzi},
-     pages         = {492--517},
-     title         = {Generalized dimensions of images of measures under {G}aussian processes},
-     url           = {https://doi.org/10.1016/j.aim.2013.11.002},
-     volume        = {252},
-     year          = {2014}
+    author = {Falconer, Kenneth and Xiao, Yimin},
+    doi = {10.1016/j.aim.2013.11.002},
+    fjournal = {Advances in Mathematics},
+    issn = {0001-8708,1090-2082},
+    journal = {Adv. Math.},
+    mrclass = {60G15 (60G17 60G60)},
+    mrnumber = {3144239},
+    mrreviewer = {Marco\ Dozzi},
+    pages = {492--517},
+    title = {Generalized dimensions of images of measures under
+   {G}aussian processes},
+    url = {https://doi.org/10.1016/j.aim.2013.11.002},
+    volume = {252},
+    year = {2014}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.aim.2013.11.002>`__
+`The URL link to the source <ttps://doi.org/10.1016/j.aim.2013.11.002}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

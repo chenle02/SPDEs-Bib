@@ -8,22 +8,24 @@ rovira.tindel:00:sharp*1
 .. code-block:: bibtex
 
    @article{rovira.tindel:00:sharp*1,
-     author        = {Rovira, Carles and Tindel, Samy},
-     doi           = {10.1080/17442500008834230},
-     fjournal      = {Stochastics and Stochastics Reports},
-     issn          = {1045-1129},
-     journal       = {Stochastics Stochastics Rep.},
-     mrclass       = {60F10 (60H15)},
-     mrnumber      = {1751716},
-     number        = {1-2},
-     pages         = {11--30},
-     title         = {Sharp {L}aplace asymptotics for a parabolic {SPDE}},
-     url           = {https://doi.org/10.1080/17442500008834230},
-     volume        = {69},
-     year          = {2000}
+    author = {Rovira, Carles and Tindel, Samy},
+    doi = {10.1016/S0007-4497(00)01062-9},
+    fjournal = {Bulletin des Sciences Math\'{e}matiques},
+    issn = {0007-4497},
+    journal = {Bull. Sci. Math.},
+    mrclass = {60H07 (60F10)},
+    mrnumber = {1793908},
+    mrreviewer = {Ali S\"{u}leyman \"{U}st\"{u}nel},
+    number = {7},
+    pages = {525--555},
+    title = {Sharp large deviation estimates for a certain class of
+   sets on the {W}iener space},
+    url = {https://doi.org/10.1016/S0007-4497(00)01062-9},
+    volume = {124},
+    year = {2000}
    }
 
-`The URL link to the source <https://doi.org/10.1080/17442500008834230>`__
+`The URL link to the source <ttps://doi.org/10.1016/S0007-4497(00)01062-9}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

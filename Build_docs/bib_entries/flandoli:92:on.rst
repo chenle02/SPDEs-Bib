@@ -8,23 +8,24 @@ flandoli:92:on
 .. code-block:: bibtex
 
    @article{flandoli:92:on,
-     author        = {Flandoli, Franco},
-     doi           = {10.1080/07362999208809262},
-     fjournal      = {Stochastic Analysis and Applications},
-     issn          = {0736-2994,1532-9356},
-     journal       = {Stochastic Anal. Appl.},
-     mrclass       = {34G10 (34F05 47D06 47N20 60H15)},
-     mrnumber      = {1154534},
-     mrreviewer    = {Yu.\ L.\ Daletskiu{i}},
-     number        = {2},
-     pages         = {181--203},
-     title         = {On the semigroup approach to stochastic evolution equations},
-     url           = {https://doi.org/10.1080/07362999208809262},
-     volume        = {10},
-     year          = {1992}
+    author = {Flandoli, Franco},
+    doi = {10.1080/07362999208809262},
+    fjournal = {Stochastic Analysis and Applications},
+    issn = {0736-2994,1532-9356},
+    journal = {Stochastic Anal. Appl.},
+    mrclass = {34G10 (34F05 47D06 47N20 60H15)},
+    mrnumber = {1154534},
+    mrreviewer = {Yu.\ L.\ Daletskiu{i}},
+    number = {2},
+    pages = {181--203},
+    title = {On the semigroup approach to stochastic evolution
+   equations},
+    url = {https://doi.org/10.1080/07362999208809262},
+    volume = {10},
+    year = {1992}
    }
 
-`The URL link to the source <https://doi.org/10.1080/07362999208809262>`__
+`The URL link to the source <ttps://doi.org/10.1080/07362999208809262}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

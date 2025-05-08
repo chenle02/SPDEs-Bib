@@ -7,24 +7,25 @@ dembo.zeitouni:96:large*1
 
 .. code-block:: bibtex
 
-   @incollection{dembo.zeitouni:96:large*1,
-     author        = {Dembo, Amir and Zeitouni, Ofer},
-     booktitle     = {Random discrete structures ({M}inneapolis, {MN}, 1993)},
-     doi           = {10.1007/978-1-4612-0719-1\_4},
-     isbn          = {0-387-94623-3},
-     mrclass       = {60F10 (60C05)},
-     mrnumber      = {1395607},
-     mrreviewer    = {David\ J.\ Aldous},
-     pages         = {45--53},
-     publisher     = {Springer, New York},
-     series        = {IMA Vol. Math. Appl.},
-     title         = {Large deviations for random distribution of mass},
-     url           = {https://doi.org/10.1007/978-1-4612-0719-1\_4},
-     volume        = {76},
-     year          = {1996}
+   @article{dembo.zeitouni:96:large*1,
+    author = {Dembo, Amir and Zeitouni, Ofer},
+    doi = {10.1016/0167-7152(95)00065-8},
+    fjournal = {Statistics \& Probability Letters},
+    issn = {0167-7152,1879-2103},
+    journal = {Statist. Probab. Lett.},
+    mrclass = {60F10},
+    mrnumber = {1395567},
+    mrreviewer = {Tim\ Zajic},
+    number = {3},
+    pages = {201--205},
+    title = {Large deviations for subsampling from individual
+   sequences},
+    url = {https://doi.org/10.1016/0167-7152(95)00065-8},
+    volume = {27},
+    year = {1996}
    }
 
-`The URL link to the source <https://doi.org/10.1007/978-1-4612-0719-1\_4>`__
+`The URL link to the source <ttps://doi.org/10.1016/0167-7152(95)00065-8}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

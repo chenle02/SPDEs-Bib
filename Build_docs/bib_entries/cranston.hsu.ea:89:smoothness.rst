@@ -8,22 +8,23 @@ cranston.hsu.ea:89:smoothness
 .. code-block:: bibtex
 
    @article{cranston.hsu.ea:89:smoothness,
-     author        = {Cranston, M. and Hsu, P. and March, P.},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798,2168-894X},
-     journal       = {Ann. Probab.},
-     mrclass       = {60J65},
-     mrnumber      = {972777},
-     mrreviewer    = {S.\ J.\ Taylor},
-     number        = {1},
-     pages         = {144--150},
-     title         = {Smoothness of the convex hull of planar {B}rownian motion},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198901)17:1<144:SOTCHO>2.0.CO;2-V\&origin=MSN},
-     volume        = {17},
-     year          = {1989}
+    author = {Cranston, M. and Hsu, P. and March, P.},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60J65},
+    mrnumber = {972777},
+    mrreviewer = {S.\ J.\ Taylor},
+    number = {1},
+    pages = {144--150},
+    title = {Smoothness of the convex hull of planar {B}rownian
+   motion},
+    url = {http://links.jstor.org/sici?sici=0091-1798(198901)17:1<144:SOTCHO>2.0.CO;2-V&origin=MSN},
+    volume = {17},
+    year = {1989}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198901)17:1<144:SOTCHO>2.0.CO;2-V\&origin=MSN>`__
+`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198901)17:1<144:SOTCHO>2.0.CO;2-V&origin=MSN}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

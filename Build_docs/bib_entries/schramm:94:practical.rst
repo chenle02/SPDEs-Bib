@@ -8,10 +8,10 @@ schramm:94:practical
 .. code-block:: bibtex
 
    @book{schramm:94:practical,
-     author        = {Schramm, Gebhard},
-     publisher     = {Haake Karlsruhe},
-     title         = {A practical approach to rheology and rheometry},
-     year          = {1994}
+    author = {Schramm, Gebhard},
+    publisher = {Haake Karlsruhe},
+    title = {A practical approach to rheology and rheometry},
+    year = {1994}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

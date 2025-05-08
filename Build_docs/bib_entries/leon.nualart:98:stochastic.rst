@@ -8,23 +8,23 @@ leon.nualart:98:stochastic
 .. code-block:: bibtex
 
    @article{leon.nualart:98:stochastic,
-     author        = {Le\'{o}n, Jorge A. and Nualart, David},
-     doi           = {10.1214/aop/1022855415},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
-     mrclass       = {60H15 (60H07 60H10)},
-     mrnumber      = {1617045},
-     mrreviewer    = {Catherine Donati-Martin},
-     number        = {1},
-     pages         = {149--186},
-     title         = {Stochastic evolution equations with random generators},
-     url           = {https://doi.org/10.1214/aop/1022855415},
-     volume        = {26},
-     year          = {1998}
+    author = {Le\'{o}n, Jorge A. and Nualart, David},
+    doi = {10.1214/aop/1022855415},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60H15 (60H07 60H10)},
+    mrnumber = {1617045},
+    mrreviewer = {Catherine Donati-Martin},
+    number = {1},
+    pages = {149--186},
+    title = {Stochastic evolution equations with random generators},
+    url = {https://doi.org/10.1214/aop/1022855415},
+    volume = {26},
+    year = {1998}
    }
 
-`The URL link to the source <https://doi.org/10.1214/aop/1022855415>`__
+`The URL link to the source <ttps://doi.org/10.1214/aop/1022855415}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

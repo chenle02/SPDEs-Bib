@@ -8,23 +8,24 @@ mohammed.zhang:06:large
 .. code-block:: bibtex
 
    @article{mohammed.zhang:06:large,
-     author        = {Mohammed, Salah-Eldin A. and Zhang, Tusheng},
-     doi           = {10.3934/dcdsb.2006.6.881},
-     fjournal      = {Discrete and Continuous Dynamical Systems. Series B. A Journal Bridging Mathematics and Sciences},
-     issn          = {1531-3492},
-     journal       = {Discrete Contin. Dyn. Syst. Ser. B},
-     mrclass       = {60F10 (60J27)},
-     mrnumber      = {2223913},
-     mrreviewer    = {Yiwen Jiang},
-     number        = {4},
-     pages         = {881--893},
-     title         = {Large deviations for stochastic systems with memory},
-     url           = {https://doi.org/10.3934/dcdsb.2006.6.881},
-     volume        = {6},
-     year          = {2006}
+    author = {Mohammed, Salah-Eldin A. and Zhang, Tusheng},
+    doi = {10.3934/dcdsb.2006.6.881},
+    fjournal = {Discrete and Continuous Dynamical Systems. Series B. A
+   Journal Bridging Mathematics and Sciences},
+    issn = {1531-3492},
+    journal = {Discrete Contin. Dyn. Syst. Ser. B},
+    mrclass = {60F10 (60J27)},
+    mrnumber = {2223913},
+    mrreviewer = {Yiwen Jiang},
+    number = {4},
+    pages = {881--893},
+    title = {Large deviations for stochastic systems with memory},
+    url = {https://doi.org/10.3934/dcdsb.2006.6.881},
+    volume = {6},
+    year = {2006}
    }
 
-`The URL link to the source <https://doi.org/10.3934/dcdsb.2006.6.881>`__
+`The URL link to the source <ttps://doi.org/10.3934/dcdsb.2006.6.881}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

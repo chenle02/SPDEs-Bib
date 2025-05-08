@@ -8,22 +8,24 @@ barbato.flandoli.ea:11:anomalous
 .. code-block:: bibtex
 
    @article{barbato.flandoli.ea:11:anomalous,
-     author        = {Barbato, David and Flandoli, Franco and Morandin, Francesco},
-     doi           = {10.1214/11-AAP768},
-     fjournal      = {The Annals of Applied Probability},
-     issn          = {1050-5164},
-     journal       = {Ann. Appl. Probab.},
-     mrclass       = {60H15 (35Q30 60J28 76F55)},
-     mrnumber      = {2895420},
-     number        = {6},
-     pages         = {2424--2446},
-     title         = {Anomalous dissipation in a stochastic inviscid dyadic model},
-     url           = {https://doi.org/10.1214/11-AAP768},
-     volume        = {21},
-     year          = {2011}
+    author = {Barbato, David and Flandoli, Franco and Morandin,
+   Francesco},
+    doi = {10.1214/11-AAP768},
+    fjournal = {The Annals of Applied Probability},
+    issn = {1050-5164},
+    journal = {Ann. Appl. Probab.},
+    mrclass = {60H15 (35Q30 60J28 76F55)},
+    mrnumber = {2895420},
+    number = {6},
+    pages = {2424--2446},
+    title = {Anomalous dissipation in a stochastic inviscid dyadic
+   model},
+    url = {https://doi.org/10.1214/11-AAP768},
+    volume = {21},
+    year = {2011}
    }
 
-`The URL link to the source <https://doi.org/10.1214/11-AAP768>`__
+`The URL link to the source <ttps://doi.org/10.1214/11-AAP768}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

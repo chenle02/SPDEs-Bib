@@ -8,23 +8,25 @@ wuthrich:98:fluctuation
 .. code-block:: bibtex
 
    @article{wuthrich:98:fluctuation,
-     author        = {W\"{u}thrich, Mario V.},
-     doi           = {10.1016/S0246-0203(98)80013-7},
-     fjournal      = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistiques},
-     issn          = {0246-0203},
-     journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
-     mrclass       = {60J65 (60K35)},
-     mrnumber      = {1625875},
-     mrreviewer    = {Ingemar Kaj},
-     number        = {3},
-     pages         = {279--308},
-     title         = {Fluctuation results for {B}rownian motion in a {P}oissonian potential},
-     url           = {https://doi.org/10.1016/S0246-0203(98)80013-7},
-     volume        = {34},
-     year          = {1998}
+    author = {W\"{u}thrich, Mario V.},
+    doi = {10.1016/S0246-0203(98)80013-7},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistiques},
+    issn = {0246-0203},
+    journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
+    mrclass = {60J65 (60K35)},
+    mrnumber = {1625875},
+    mrreviewer = {Ingemar Kaj},
+    number = {3},
+    pages = {279--308},
+    title = {Fluctuation results for {B}rownian motion in a
+   {P}oissonian potential},
+    url = {https://doi.org/10.1016/S0246-0203(98)80013-7},
+    volume = {34},
+    year = {1998}
    }
 
-`The URL link to the source <https://doi.org/10.1016/S0246-0203(98)80013-7>`__
+`The URL link to the source <ttps://doi.org/10.1016/S0246-0203(98)80013-7}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

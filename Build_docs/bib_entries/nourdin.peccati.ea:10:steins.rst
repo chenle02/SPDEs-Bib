@@ -8,21 +8,22 @@ nourdin.peccati.ea:10:steins
 .. code-block:: bibtex
 
    @article{nourdin.peccati.ea:10:steins,
-     author        = {Nourdin, Ivan and Peccati, Giovanni and Reinert, Gesine},
-     doi           = {10.1214/EJP.v15-843},
-     fjournal      = {Electronic Journal of Probability},
-     journal       = {Electron. J. Probab.},
-     mrclass       = {60F05 (60F99 60G50 60H07)},
-     mrnumber      = {2735379},
-     mrreviewer    = {Adrian R\"{o}llin},
-     pages         = {no. 55, 1703--1742},
-     title         = {Stein's method and stochastic analysis of {R}ademacher functionals},
-     url           = {https://doi.org/10.1214/EJP.v15-843},
-     volume        = {15},
-     year          = {2010}
+    author = {Nourdin, Ivan and Peccati, Giovanni and Reinert, Gesine},
+    doi = {10.1214/EJP.v15-843},
+    fjournal = {Electronic Journal of Probability},
+    journal = {Electron. J. Probab.},
+    mrclass = {60F05 (60F99 60G50 60H07)},
+    mrnumber = {2735379},
+    mrreviewer = {Adrian R\"{o}llin},
+    pages = {no. 55, 1703--1742},
+    title = {Stein's method and stochastic analysis of {R}ademacher
+   functionals},
+    url = {https://doi.org/10.1214/EJP.v15-843},
+    volume = {15},
+    year = {2010}
    }
 
-`The URL link to the source <https://doi.org/10.1214/EJP.v15-843>`__
+`The URL link to the source <ttps://doi.org/10.1214/EJP.v15-843}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

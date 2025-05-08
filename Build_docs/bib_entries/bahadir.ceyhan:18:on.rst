@@ -8,22 +8,23 @@ bahadir.ceyhan:18:on
 .. code-block:: bibtex
 
    @article{bahadir.ceyhan:18:on,
-     author        = {Bahadir, Selim and Ceyhan, Elvan},
-     doi           = {10.19195/0208-4147.38.1.7},
-     fjournal      = {Probability and Mathematical Statistics},
-     issn          = {0208-4147,2300-8113},
-     journal       = {Probab. Math. Statist.},
-     mrclass       = {05A05 (60F05)},
-     mrnumber      = {3813909},
-     number        = {1},
-     pages         = {123--137},
-     title         = {On the number of reflexive and shared nearest neighbor pairs in one-dimensional uniform data},
-     url           = {https://doi.org/10.19195/0208-4147.38.1.7},
-     volume        = {38},
-     year          = {2018}
+    author = {Bahadir, Selim and Ceyhan, Elvan},
+    doi = {10.19195/0208-4147.38.1.7},
+    fjournal = {Probability and Mathematical Statistics},
+    issn = {0208-4147,2300-8113},
+    journal = {Probab. Math. Statist.},
+    mrclass = {05A05 (60F05)},
+    mrnumber = {3813909},
+    number = {1},
+    pages = {123--137},
+    title = {On the number of reflexive and shared nearest neighbor
+   pairs in one-dimensional uniform data},
+    url = {https://doi.org/10.19195/0208-4147.38.1.7},
+    volume = {38},
+    year = {2018}
    }
 
-`The URL link to the source <https://doi.org/10.19195/0208-4147.38.1.7>`__
+`The URL link to the source <ttps://doi.org/10.19195/0208-4147.38.1.7}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

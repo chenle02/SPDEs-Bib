@@ -8,23 +8,24 @@ applebaum.siakalli:09:asymptotic
 .. code-block:: bibtex
 
    @article{applebaum.siakalli:09:asymptotic,
-     author        = {Applebaum, David and Siakalli, Michailina},
-     doi           = {10.1239/jap/1261670692},
-     fjournal      = {Journal of Applied Probability},
-     issn          = {0021-9002},
-     journal       = {J. Appl. Probab.},
-     mrclass       = {60H10 (60G51 93D20)},
-     mrnumber      = {2582710},
-     mrreviewer    = {Aleh Yablonski},
-     number        = {4},
-     pages         = {1116--1129},
-     title         = {Asymptotic stability of stochastic differential equations driven by {L}\'{e}vy noise},
-     url           = {https://doi.org/10.1239/jap/1261670692},
-     volume        = {46},
-     year          = {2009}
+    author = {Applebaum, David and Siakalli, Michailina},
+    doi = {10.1239/jap/1261670692},
+    fjournal = {Journal of Applied Probability},
+    issn = {0021-9002},
+    journal = {J. Appl. Probab.},
+    mrclass = {60H10 (60G51 93D20)},
+    mrnumber = {2582710},
+    mrreviewer = {Aleh Yablonski},
+    number = {4},
+    pages = {1116--1129},
+    title = {Asymptotic stability of stochastic differential equations
+   driven by {L}\'{e}vy noise},
+    url = {https://doi.org/10.1239/jap/1261670692},
+    volume = {46},
+    year = {2009}
    }
 
-`The URL link to the source <https://doi.org/10.1239/jap/1261670692>`__
+`The URL link to the source <ttps://doi.org/10.1239/jap/1261670692}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,24 @@ kriecherbauer.krug:10:pedestrians
 .. code-block:: bibtex
 
    @article{kriecherbauer.krug:10:pedestrians,
-     author        = {Kriecherbauer, Thomas and Krug, Joachim},
-     doi           = {10.1088/1751-8113/43/40/403001},
-     fjournal      = {Journal of Physics. A. Mathematical and Theoretical},
-     issn          = {1751-8113},
-     journal       = {J. Phys. A},
-     mrclass       = {60K35 (60B20 82C22)},
-     mrnumber      = {2725545},
-     mrreviewer    = {M\'{a}rton Bal\'{a}zs},
-     number        = {40},
-     pages         = {403001, 41},
-     title         = {A pedestrian's view on interacting particle systems, {KPZ} universality and random matrices},
-     url           = {https://doi.org/10.1088/1751-8113/43/40/403001},
-     volume        = {43},
-     year          = {2010}
+    author = {Kriecherbauer, Thomas and Krug, Joachim},
+    doi = {10.1088/1751-8113/43/40/403001},
+    fjournal = {Journal of Physics. A. Mathematical and Theoretical},
+    issn = {1751-8113},
+    journal = {J. Phys. A},
+    mrclass = {60K35 (60B20 82C22)},
+    mrnumber = {2725545},
+    mrreviewer = {M\'{a}rton Bal\'{a}zs},
+    number = {40},
+    pages = {403001, 41},
+    title = {A pedestrian's view on interacting particle systems, {KPZ}
+   universality and random matrices},
+    url = {https://doi.org/10.1088/1751-8113/43/40/403001},
+    volume = {43},
+    year = {2010}
    }
 
-`The URL link to the source <https://doi.org/10.1088/1751-8113/43/40/403001>`__
+`The URL link to the source <ttps://doi.org/10.1088/1751-8113/43/40/403001}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

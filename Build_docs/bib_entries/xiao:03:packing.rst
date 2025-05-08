@@ -8,23 +8,25 @@ xiao:03:packing
 .. code-block:: bibtex
 
    @article{xiao:03:packing,
-     author        = {Xiao, Yimin},
-     doi           = {10.1017/S0305004103006753},
-     fjournal      = {Mathematical Proceedings of the Cambridge Philosophical Society},
-     issn          = {0305-0041,1469-8064},
-     journal       = {Math. Proc. Cambridge Philos. Soc.},
-     mrclass       = {60J65 (28A78)},
-     mrnumber      = {2006069},
-     mrreviewer    = {Hac\`ene\ Boutabia},
-     number        = {2},
-     pages         = {349--373},
-     title         = {The packing measure of the trajectories of multiparameter fractional {B}rownian motion},
-     url           = {https://doi.org/10.1017/S0305004103006753},
-     volume        = {135},
-     year          = {2003}
+    author = {Xiao, Yimin},
+    doi = {10.1017/S0305004103006753},
+    fjournal = {Mathematical Proceedings of the Cambridge Philosophical
+   Society},
+    issn = {0305-0041,1469-8064},
+    journal = {Math. Proc. Cambridge Philos. Soc.},
+    mrclass = {60J65 (28A78)},
+    mrnumber = {2006069},
+    mrreviewer = {Hac\`ene\ Boutabia},
+    number = {2},
+    pages = {349--373},
+    title = {The packing measure of the trajectories of multiparameter
+   fractional {B}rownian motion},
+    url = {https://doi.org/10.1017/S0305004103006753},
+    volume = {135},
+    year = {2003}
    }
 
-`The URL link to the source <https://doi.org/10.1017/S0305004103006753>`__
+`The URL link to the source <ttps://doi.org/10.1017/S0305004103006753}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

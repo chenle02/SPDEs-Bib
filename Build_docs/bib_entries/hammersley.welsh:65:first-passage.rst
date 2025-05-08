@@ -8,15 +8,17 @@ hammersley.welsh:65:first-passage
 .. code-block:: bibtex
 
    @inproceedings{hammersley.welsh:65:first-passage,
-     author        = {Hammersley, J. M. and Welsh, D. J. A.},
-     booktitle     = {Proc. {I}nternat. {R}es. {S}emin., {S}tatist. {L}ab., {U}niv. {C}alifornia, {B}erkeley, {C}alif., 1963},
-     mrclass       = {60.70 (60.99)},
-     mrnumber      = {198576},
-     mrreviewer    = {J. N. Kapur},
-     pages         = {61--110},
-     publisher     = {Springer, New York},
-     title         = {First-passage percolation, subadditive processes, stochastic networks, and generalized renewal theory},
-     year          = {1965}
+    author = {Hammersley, J. M. and Welsh, D. J. A.},
+    booktitle = {Proc. {I}nternat. {R}es. {S}emin., {S}tatist. {L}ab.,
+   {U}niv. {C}alifornia, {B}erkeley, {C}alif., 1963},
+    mrclass = {60.70 (60.99)},
+    mrnumber = {198576},
+    mrreviewer = {J. N. Kapur},
+    pages = {61--110},
+    publisher = {Springer, New York},
+    title = {First-passage percolation, subadditive processes,
+   stochastic networks, and generalized renewal theory},
+    year = {1965}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

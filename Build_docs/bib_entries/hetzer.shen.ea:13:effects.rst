@@ -8,22 +8,24 @@ hetzer.shen.ea:13:effects
 .. code-block:: bibtex
 
    @article{hetzer.shen.ea:13:effects,
-     author        = {Hetzer, Georg and Shen, Wenxian and Zhang, Aijun},
-     doi           = {10.1216/RMJ-2013-43-2-489},
-     fjournal      = {The Rocky Mountain Journal of Mathematics},
-     issn          = {0035-7596,1945-3795},
-     journal       = {Rocky Mountain J. Math.},
-     mrclass       = {92D25 (34A33 35K57 37L60 45K05)},
-     mrnumber      = {3077838},
-     number        = {2},
-     pages         = {489--513},
-     title         = {Effects of spatial variations and dispersal strategies on principal eigenvalues of dispersal operators and spreading speeds of monostable equations},
-     url           = {https://doi.org/10.1216/RMJ-2013-43-2-489},
-     volume        = {43},
-     year          = {2013}
+    author = {Hetzer, Georg and Shen, Wenxian and Zhang, Aijun},
+    doi = {10.1216/RMJ-2013-43-2-489},
+    fjournal = {The Rocky Mountain Journal of Mathematics},
+    issn = {0035-7596,1945-3795},
+    journal = {Rocky Mountain J. Math.},
+    mrclass = {92D25 (34A33 35K57 37L60 45K05)},
+    mrnumber = {3077838},
+    number = {2},
+    pages = {489--513},
+    title = {Effects of spatial variations and dispersal strategies on
+   principal eigenvalues of dispersal operators and spreading
+   speeds of monostable equations},
+    url = {https://doi.org/10.1216/RMJ-2013-43-2-489},
+    volume = {43},
+    year = {2013}
    }
 
-`The URL link to the source <https://doi.org/10.1216/RMJ-2013-43-2-489>`__
+`The URL link to the source <ttps://doi.org/10.1216/RMJ-2013-43-2-489}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

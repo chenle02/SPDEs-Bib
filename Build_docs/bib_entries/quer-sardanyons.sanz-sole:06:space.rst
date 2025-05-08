@@ -8,23 +8,26 @@ quer-sardanyons.sanz-sole:06:space
 .. code-block:: bibtex
 
    @article{quer-sardanyons.sanz-sole:06:space,
-     author        = {Quer-Sardanyons, Llu\'{i}s and Sanz-Sol\'{e}, Marta},
-     doi           = {10.1007/s11118-005-9002-0},
-     fjournal      = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
-     issn          = {0926-2601},
-     journal       = {Potential Anal.},
-     mrclass       = {60H35 (60H15)},
-     mrnumber      = {2224753},
-     mrreviewer    = {Roger Pettersson},
-     number        = {4},
-     pages         = {303--332},
-     title         = {Space semi-discretisations for a stochastic wave equation},
-     url           = {https://doi.org/10.1007/s11118-005-9002-0},
-     volume        = {24},
-     year          = {2006}
+    author = {Quer-Sardanyons, Llu\'{i}s and Sanz-Sol\'{e}, Marta},
+    doi = {10.1007/s11118-005-9002-0},
+    fjournal = {Potential Analysis. An International Journal Devoted to
+   the Interactions between Potential Theory, Probability
+   Theory, Geometry and Functional Analysis},
+    issn = {0926-2601},
+    journal = {Potential Anal.},
+    mrclass = {60H35 (60H15)},
+    mrnumber = {2224753},
+    mrreviewer = {Roger Pettersson},
+    number = {4},
+    pages = {303--332},
+    title = {Space semi-discretisations for a stochastic wave
+   equation},
+    url = {https://doi.org/10.1007/s11118-005-9002-0},
+    volume = {24},
+    year = {2006}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s11118-005-9002-0>`__
+`The URL link to the source <ttps://doi.org/10.1007/s11118-005-9002-0}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

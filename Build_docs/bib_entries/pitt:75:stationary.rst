@@ -8,23 +8,24 @@ pitt:75:stationary
 .. code-block:: bibtex
 
    @article{pitt:75:stationary,
-     author        = {Pitt, Loren D.},
-     doi           = {10.1016/0047-259X(75)90048-2},
-     fjournal      = {Journal of Multivariate Analysis},
-     issn          = {0047-259X},
-     journal       = {J. Multivariate Anal.},
-     mrclass       = {60G15},
-     mrnumber      = {410883},
-     mrreviewer    = {V. S. Mandrekar},
-     number        = {3},
-     pages         = {300--311},
-     title         = {Stationary {G}aussian {M}arkov fields on {$R^{d}$} with a deterministic component},
-     url           = {https://doi.org/10.1016/0047-259X(75)90048-2},
-     volume        = {5},
-     year          = {1975}
+    author = {Pitt, Loren D.},
+    doi = {10.1016/0047-259X(75)90048-2},
+    fjournal = {Journal of Multivariate Analysis},
+    issn = {0047-259X},
+    journal = {J. Multivariate Anal.},
+    mrclass = {60G15},
+    mrnumber = {410883},
+    mrreviewer = {V. S. Mandrekar},
+    number = {3},
+    pages = {300--311},
+    title = {Stationary {G}aussian {M}arkov fields on {$R^{d}$} with a
+   deterministic component},
+    url = {https://doi.org/10.1016/0047-259X(75)90048-2},
+    volume = {5},
+    year = {1975}
    }
 
-`The URL link to the source <https://doi.org/10.1016/0047-259X(75)90048-2>`__
+`The URL link to the source <ttps://doi.org/10.1016/0047-259X(75)90048-2}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

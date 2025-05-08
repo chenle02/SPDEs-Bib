@@ -8,20 +8,21 @@ edwards.wilkinson:82:surface
 .. code-block:: bibtex
 
    @article{edwards.wilkinson:82:surface,
-     author        = {Edwards, Samuel Frederick and Wilkinson, D. R.},
-     doi           = {10.1098/rspa.1982.0056},
-     eprint        = {https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.1982.0056},
-     fjournal      = {Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences},
-     journal       = {Proc. R. Soc. London A},
-     number        = {1780},
-     pages         = {17--31},
-     title         = {The surface statistics of a granular aggregate},
-     url           = {https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1982.0056},
-     volume        = {381},
-     year          = {1982}
+    author = {Edwards, Samuel Frederick and Wilkinson, D. R.},
+    doi = {10.1098/rspa.1982.0056},
+    eprint = {https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.1982.0056},
+    fjournal = {Proceedings of the Royal Society of London. A.
+   Mathematical and Physical Sciences},
+    journal = {Proc. R. Soc. London A},
+    number = {1780},
+    pages = {17--31},
+    title = {The surface statistics of a granular aggregate},
+    url = {https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1982.0056},
+    volume = {381},
+    year = {1982}
    }
 
-`The URL link to the source <https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1982.0056>`__
+`The URL link to the source <ttps://royalsocietypublishing.org/doi/abs/10.1098/rspa.1982.0056}>`__
 
 
 

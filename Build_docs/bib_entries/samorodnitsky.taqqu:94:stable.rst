@@ -8,17 +8,17 @@ samorodnitsky.taqqu:94:stable
 .. code-block:: bibtex
 
    @book{samorodnitsky.taqqu:94:stable,
-     author        = {Samorodnitsky, Gennady and Taqqu, Murad S.},
-     isbn          = {0-412-05171-0},
-     mrclass       = {60E07 (60G18 60G99 60H99 62J05 62M10 62M15)},
-     mrnumber      = {1280932},
-     mrreviewer    = {Thomas Mikosch},
-     note          = {Stochastic models with infinite variance},
-     pages         = {xxii+632},
-     publisher     = {Chapman \& Hall, New York},
-     series        = {Stochastic Modeling},
-     title         = {Stable non-{G}aussian random processes},
-     year          = {1994}
+    author = {Samorodnitsky, Gennady and Taqqu, Murad S.},
+    isbn = {0-412-05171-0},
+    mrclass = {60E07 (60G18 60G99 60H99 62J05 62M10 62M15)},
+    mrnumber = {1280932},
+    mrreviewer = {Thomas Mikosch},
+    note = {Stochastic models with infinite variance},
+    pages = {xxii+632},
+    publisher = {Chapman \& Hall, New York},
+    series = {Stochastic Modeling},
+    title = {Stable non-{G}aussian random processes},
+    year = {1994}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

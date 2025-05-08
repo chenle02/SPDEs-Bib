@@ -8,23 +8,23 @@ tracy.widom:09:on*1
 .. code-block:: bibtex
 
    @article{tracy.widom:09:on*1,
-     author        = {Tracy, Craig A. and Widom, Harold},
-     doi           = {10.1088/1751-8113/42/42/425002},
-     fjournal      = {Journal of Physics. A. Mathematical and Theoretical},
-     issn          = {1751-8113},
-     journal       = {J. Phys. A},
-     mrclass       = {60K35 (82C22)},
-     mrnumber      = {2546037},
-     mrreviewer    = {Pablo A. Ferrari},
-     number        = {42},
-     pages         = {425002, 6},
-     title         = {On the distribution of a second-class particle in the asymmetric simple exclusion process},
-     url           = {https://doi.org/10.1088/1751-8113/42/42/425002},
-     volume        = {42},
-     year          = {2009}
+    author = {Tracy, Craig A. and Widom, Harold},
+    doi = {10.1007/s10955-009-9867-1},
+    fjournal = {Journal of Statistical Physics},
+    issn = {0022-4715},
+    journal = {J. Stat. Phys.},
+    mrclass = {60K35 (82C22)},
+    mrnumber = {2570751},
+    mrreviewer = {Timo Sepp\"{a}l\"{a}inen},
+    number = {5-6},
+    pages = {825--838},
+    title = {On {ASEP} with step {B}ernoulli initial condition},
+    url = {https://doi.org/10.1007/s10955-009-9867-1},
+    volume = {137},
+    year = {2009}
    }
 
-`The URL link to the source <https://doi.org/10.1088/1751-8113/42/42/425002>`__
+`The URL link to the source <ttps://doi.org/10.1007/s10955-009-9867-1}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

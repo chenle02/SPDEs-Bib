@@ -8,23 +8,23 @@ bonaccorsi.zambotti:04:integration
 .. code-block:: bibtex
 
    @article{bonaccorsi.zambotti:04:integration,
-     author        = {Bonaccorsi, Stefano and Zambotti, Lorenzo},
-     doi           = {10.1090/S0002-9939-03-07097-7},
-     fjournal      = {Proceedings of the American Mathematical Society},
-     issn          = {0002-9939,1088-6826},
-     journal       = {Proc. Amer. Math. Soc.},
-     mrclass       = {60H07 (31C25 60H15 60J55)},
-     mrnumber      = {2019968},
-     mrreviewer    = {Catherine\ Donati-Martin},
-     number        = {3},
-     pages         = {875--883},
-     title         = {Integration by parts on the {B}rownian meander},
-     url           = {https://doi.org/10.1090/S0002-9939-03-07097-7},
-     volume        = {132},
-     year          = {2004}
+    author = {Bonaccorsi, Stefano and Zambotti, Lorenzo},
+    doi = {10.1090/S0002-9939-03-07097-7},
+    fjournal = {Proceedings of the American Mathematical Society},
+    issn = {0002-9939,1088-6826},
+    journal = {Proc. Amer. Math. Soc.},
+    mrclass = {60H07 (31C25 60H15 60J55)},
+    mrnumber = {2019968},
+    mrreviewer = {Catherine\ Donati-Martin},
+    number = {3},
+    pages = {875--883},
+    title = {Integration by parts on the {B}rownian meander},
+    url = {https://doi.org/10.1090/S0002-9939-03-07097-7},
+    volume = {132},
+    year = {2004}
    }
 
-`The URL link to the source <https://doi.org/10.1090/S0002-9939-03-07097-7>`__
+`The URL link to the source <ttps://doi.org/10.1090/S0002-9939-03-07097-7}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,21 +8,23 @@ pilipenko.proske:18:on*1
 .. code-block:: bibtex
 
    @article{pilipenko.proske:18:on*1,
-     author        = {Pilipenko, Andrey and Proske, Frank Norbert},
-     doi           = {10.1016/j.spl.2017.09.005},
-     fjournal      = {Statistics \& Probability Letters},
-     issn          = {0167-7152},
-     journal       = {Statist. Probab. Lett.},
-     mrclass       = {60H10 (60F05 60F99 60G18)},
-     mrnumber      = {3718090},
-     pages         = {62--73},
-     title         = {On perturbations of an {ODE} with non-{L}ipschitz coefficients by a small self-similar noise},
-     url           = {https://doi.org/10.1016/j.spl.2017.09.005},
-     volume        = {132},
-     year          = {2018}
+    author = {Pilipenko, Andrey and Proske, Frank Norbert},
+    doi = {10.1142/S0219493718500454},
+    fjournal = {Stochastics and Dynamics},
+    issn = {0219-4937},
+    journal = {Stoch. Dyn.},
+    mrclass = {60H10 (49N60)},
+    mrnumber = {3869883},
+    number = {6},
+    pages = {1850045, 23},
+    title = {On a selection problem for small noise perturbation in the
+   multidimensional case},
+    url = {https://doi.org/10.1142/S0219493718500454},
+    volume = {18},
+    year = {2018}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.spl.2017.09.005>`__
+`The URL link to the source <ttps://doi.org/10.1142/S0219493718500454}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

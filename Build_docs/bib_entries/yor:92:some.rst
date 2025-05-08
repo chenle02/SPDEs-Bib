@@ -8,17 +8,17 @@ yor:92:some
 .. code-block:: bibtex
 
    @book{yor:92:some,
-     author        = {Yor, Marc},
-     isbn          = {3-7643-2807-X},
-     mrclass       = {60J65 (60H99)},
-     mrnumber      = {1193919},
-     mrreviewer    = {Krzysztof Burdzy},
-     note          = {Some special functionals},
-     pages         = {x+136},
-     publisher     = {Birkh\"{a}user Verlag, Basel},
-     series        = {Lectures in Mathematics ETH Z\"{u}rich},
-     title         = {Some aspects of {B}rownian motion. {P}art {I}},
-     year          = {1992}
+    author = {Yor, Marc},
+    isbn = {3-7643-2807-X},
+    mrclass = {60J65 (60H99)},
+    mrnumber = {1193919},
+    mrreviewer = {Krzysztof Burdzy},
+    note = {Some special functionals},
+    pages = {x+136},
+    publisher = {Birkh\"{a}user Verlag, Basel},
+    series = {Lectures in Mathematics ETH Z\"{u}rich},
+    title = {Some aspects of {B}rownian motion. {P}art {I}},
+    year = {1992}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,24 @@ hu.jolis.ea:13:on
 .. code-block:: bibtex
 
    @article{hu.jolis.ea:13:on,
-     author        = {Hu, Yaozhong and Jolis, Maria and Tindel, Samy},
-     doi           = {10.1214/12-AOP751},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
-     mrclass       = {60H05 (60G15 60G17 60G22 60H07 60H10 60H35)},
-     mrnumber      = {3098687},
-     mrreviewer    = {Guangjun Shen},
-     number        = {3A},
-     pages         = {1656--1693},
-     title         = {On {S}tratonovich and {S}korohod stochastic calculus for {G}aussian processes},
-     url           = {https://doi.org/10.1214/12-AOP751},
-     volume        = {41},
-     year          = {2013}
+    author = {Hu, Yaozhong and Jolis, Maria and Tindel, Samy},
+    doi = {10.1214/12-AOP751},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798},
+    journal = {Ann. Probab.},
+    mrclass = {60H05 (60G15 60G17 60G22 60H07 60H10 60H35)},
+    mrnumber = {3098687},
+    mrreviewer = {Guangjun Shen},
+    number = {3A},
+    pages = {1656--1693},
+    title = {On {S}tratonovich and {S}korohod stochastic calculus for
+   {G}aussian processes},
+    url = {https://doi.org/10.1214/12-AOP751},
+    volume = {41},
+    year = {2013}
    }
 
-`The URL link to the source <https://doi.org/10.1214/12-AOP751>`__
+`The URL link to the source <ttps://doi.org/10.1214/12-AOP751}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

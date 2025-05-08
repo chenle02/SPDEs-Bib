@@ -8,21 +8,23 @@ valizadeh.hamzehpour.ea:23:edwards-wilkinson
 .. code-block:: bibtex
 
    @article{valizadeh.hamzehpour.ea:23:edwards-wilkinson,
-     author        = {Valizadeh, N. and Hamzehpour, H. and Samadpour, M. and Najafi, M. N.},
-     day           = {29},
-     doi           = {10.1038/s41598-023-39191-6},
-     issn          = {2045-2322},
-     journal       = {Scientific Reports},
-     month         = {Jul},
-     number        = {1},
-     pages         = {12300},
-     title         = {Edwards--Wilkinson depinning transition in fractional Brownian motion background},
-     url           = {https://doi.org/10.1038/s41598-023-39191-6},
-     volume        = {13},
-     year          = {2023}
+    author = {Valizadeh, N. and Hamzehpour, H. and Samadpour, M. and
+   Najafi, M. N.},
+    day = {29},
+    doi = {10.1038/s41598-023-39191-6},
+    issn = {2045-2322},
+    journal = {Scientific Reports},
+    month = {Jul},
+    number = {1},
+    pages = {12300},
+    title = {Edwards--Wilkinson depinning transition in fractional
+   Brownian motion background},
+    url = {https://doi.org/10.1038/s41598-023-39191-6},
+    volume = {13},
+    year = {2023}
    }
 
-`The URL link to the source <https://doi.org/10.1038/s41598-023-39191-6>`__
+`The URL link to the source <ttps://doi.org/10.1038/s41598-023-39191-6}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

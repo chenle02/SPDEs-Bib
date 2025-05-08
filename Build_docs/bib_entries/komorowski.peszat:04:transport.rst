@@ -8,23 +8,24 @@ komorowski.peszat:04:transport
 .. code-block:: bibtex
 
    @article{komorowski.peszat:04:transport,
-     author        = {Komorowski, Tomasz and Peszat, Szymon},
-     doi           = {10.1023/B:JOSS.0000028063.58764.68},
-     fjournal      = {Journal of Statistical Physics},
-     issn          = {0022-4715,1572-9613},
-     journal       = {J. Statist. Phys.},
-     mrclass       = {76F25 (60G60 76F55 76M35 82C70)},
-     mrnumber      = {2066287},
-     mrreviewer    = {Azzouz\ Dermoune},
-     number        = {5-6},
-     pages         = {1361--1388},
-     title         = {Transport of a passive tracer by an irregular velocity field},
-     url           = {https://doi.org/10.1023/B:JOSS.0000028063.58764.68},
-     volume        = {115},
-     year          = {2004}
+    author = {Komorowski, Tomasz and Peszat, Szymon},
+    doi = {10.1023/B:JOSS.0000028063.58764.68},
+    fjournal = {Journal of Statistical Physics},
+    issn = {0022-4715,1572-9613},
+    journal = {J. Statist. Phys.},
+    mrclass = {76F25 (60G60 76F55 76M35 82C70)},
+    mrnumber = {2066287},
+    mrreviewer = {Azzouz\ Dermoune},
+    number = {5-6},
+    pages = {1361--1388},
+    title = {Transport of a passive tracer by an irregular velocity
+   field},
+    url = {https://doi.org/10.1023/B:JOSS.0000028063.58764.68},
+    volume = {115},
+    year = {2004}
    }
 
-`The URL link to the source <https://doi.org/10.1023/B:JOSS.0000028063.58764.68>`__
+`The URL link to the source <ttps://doi.org/10.1023/B:JOSS.0000028063.58764.68}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

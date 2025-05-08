@@ -8,23 +8,24 @@ arguin.bovier.ea:13:extremal
 .. code-block:: bibtex
 
    @article{arguin.bovier.ea:13:extremal,
-     author        = {Arguin, Louis-Pierre and Bovier, Anton and Kistler, Nicola},
-     doi           = {10.1007/s00440-012-0464-x},
-     fjournal      = {Probability Theory and Related Fields},
-     issn          = {0178-8051},
-     journal       = {Probab. Theory Related Fields},
-     mrclass       = {60J80 (60G70 60J65)},
-     mrnumber      = {3129797},
-     mrreviewer    = {Anthony G. Pakes},
-     number        = {3-4},
-     pages         = {535--574},
-     title         = {The extremal process of branching {B}rownian motion},
-     url           = {https://doi.org/10.1007/s00440-012-0464-x},
-     volume        = {157},
-     year          = {2013}
+    author = {Arguin, Louis-Pierre and Bovier, Anton and Kistler,
+   Nicola},
+    doi = {10.1007/s00440-012-0464-x},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60J80 (60G70 60J65)},
+    mrnumber = {3129797},
+    mrreviewer = {Anthony G. Pakes},
+    number = {3-4},
+    pages = {535--574},
+    title = {The extremal process of branching {B}rownian motion},
+    url = {https://doi.org/10.1007/s00440-012-0464-x},
+    volume = {157},
+    year = {2013}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00440-012-0464-x>`__
+`The URL link to the source <ttps://doi.org/10.1007/s00440-012-0464-x}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

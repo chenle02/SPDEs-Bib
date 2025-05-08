@@ -7,24 +7,24 @@ bourgain:14:on*4
 
 .. code-block:: bibtex
 
-   @incollection{bourgain:14:on*4,
-     author        = {Bourgain, Jean},
-     booktitle     = {Geometric aspects of functional analysis},
-     doi           = {10.1007/978-3-319-09477-9\_8},
-     isbn          = {978-3-319-09476-2; 978-3-319-09477-9},
-     mrclass       = {35Q41 (47B39 47N50 81Q05)},
-     mrnumber      = {3364682},
-     mrreviewer    = {G.\ V.\ Rozenblum},
-     pages         = {97--105},
-     publisher     = {Springer, Cham},
-     series        = {Lecture Notes in Math.},
-     title         = {On the control problem for {S}chr\"{o}dinger operators on tori},
-     url           = {https://doi.org/10.1007/978-3-319-09477-9\_8},
-     volume        = {2116},
-     year          = {2014}
+   @article{bourgain:14:on*4,
+    author = {Bourgain, Jean},
+    doi = {10.1007/s11856-014-1037-z},
+    fjournal = {Israel Journal of Mathematics},
+    issn = {0021-2172,1565-8511},
+    journal = {Israel J. Math.},
+    mrclass = {60G15 (35J05 35P20)},
+    mrnumber = {3265298},
+    mrreviewer = {Isamu\ D\^{o}ku},
+    number = {2},
+    pages = {611--630},
+    title = {On toral eigenfunctions and the random wave model},
+    url = {https://doi.org/10.1007/s11856-014-1037-z},
+    volume = {201},
+    year = {2014}
    }
 
-`The URL link to the source <https://doi.org/10.1007/978-3-319-09477-9\_8>`__
+`The URL link to the source <ttps://doi.org/10.1007/s11856-014-1037-z}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

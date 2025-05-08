@@ -8,23 +8,24 @@ bourgain.lindenstrauss:88:distribution
 .. code-block:: bibtex
 
    @article{bourgain.lindenstrauss:88:distribution,
-     author        = {Bourgain, J. and Lindenstrauss, J.},
-     doi           = {10.1007/BF02767366},
-     fjournal      = {Israel Journal of Mathematics},
-     issn          = {0021-2172},
-     journal       = {Israel J. Math.},
-     mrclass       = {46B20 (52A25 52A45)},
-     mrnumber      = {981745},
-     mrreviewer    = {T.\ Figiel},
-     number        = {1},
-     pages         = {25--31},
-     title         = {Distribution of points on spheres and approximation by zonotopes},
-     url           = {https://doi.org/10.1007/BF02767366},
-     volume        = {64},
-     year          = {1988}
+    author = {Bourgain, J. and Lindenstrauss, J.},
+    doi = {10.1007/BF02767366},
+    fjournal = {Israel Journal of Mathematics},
+    issn = {0021-2172},
+    journal = {Israel J. Math.},
+    mrclass = {46B20 (52A25 52A45)},
+    mrnumber = {981745},
+    mrreviewer = {T.\ Figiel},
+    number = {1},
+    pages = {25--31},
+    title = {Distribution of points on spheres and approximation by
+   zonotopes},
+    url = {https://doi.org/10.1007/BF02767366},
+    volume = {64},
+    year = {1988}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02767366>`__
+`The URL link to the source <ttps://doi.org/10.1007/BF02767366}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

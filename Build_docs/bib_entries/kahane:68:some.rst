@@ -8,14 +8,15 @@ kahane:68:some
 .. code-block:: bibtex
 
    @book{kahane:68:some,
-     author        = {Kahane, Jean-Pierre},
-     mrclass       = {60.08},
-     mrnumber      = {254888},
-     mrreviewer    = {P. Erd\H{o}s},
-     pages         = {viii+184},
-     publisher     = {D. C. Heath and Company Raytheon Education Company, Lexington, MA},
-     title         = {Some random series of functions},
-     year          = {1968}
+    author = {Kahane, Jean-Pierre},
+    mrclass = {60.08},
+    mrnumber = {254888},
+    mrreviewer = {P. Erd\H{o}s},
+    pages = {viii+184},
+    publisher = {D. C. Heath and Company Raytheon Education Company,
+   Lexington, MA},
+    title = {Some random series of functions},
+    year = {1968}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,23 @@ peng.li:13:diffusions
 .. code-block:: bibtex
 
    @article{peng.li:13:diffusions,
-     author        = {Peng, Jun and Li, WenBo V.},
-     doi           = {10.1007/s11425-012-4416-9},
-     fjournal      = {Science China. Mathematics},
-     issn          = {1674-7283,1869-1862},
-     journal       = {Sci. China Math.},
-     mrclass       = {60J50 (60J60)},
-     mrnumber      = {3016590},
-     mrreviewer    = {Ren\ Ming\ Song},
-     number        = {1},
-     pages         = {161--176},
-     title         = {Diffusions with holding and jumping boundary},
-     url           = {https://doi.org/10.1007/s11425-012-4416-9},
-     volume        = {56},
-     year          = {2013}
+    author = {Peng, Jun and Li, WenBo V.},
+    doi = {10.1007/s11425-012-4416-9},
+    fjournal = {Science China. Mathematics},
+    issn = {1674-7283,1869-1862},
+    journal = {Sci. China Math.},
+    mrclass = {60J50 (60J60)},
+    mrnumber = {3016590},
+    mrreviewer = {Ren\ Ming\ Song},
+    number = {1},
+    pages = {161--176},
+    title = {Diffusions with holding and jumping boundary},
+    url = {https://doi.org/10.1007/s11425-012-4416-9},
+    volume = {56},
+    year = {2013}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s11425-012-4416-9>`__
+`The URL link to the source <ttps://doi.org/10.1007/s11425-012-4416-9}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,23 @@ kochubeui:91:parabolic
 .. code-block:: bibtex
 
    @article{kochubeui:91:parabolic,
-     author        = {Kochubeu{i}, A. N.},
-     doi           = {10.1070/IM1992v039n03ABEH002247},
-     fjournal      = {Izvestiya Akademii Nauk SSSR. Seriya Matematicheskaya},
-     issn          = {0373-2436},
-     journal       = {Izv. Akad. Nauk SSSR Ser. Mat.},
-     mrclass       = {35K30 (35A08 35B35)},
-     mrnumber      = {1152215},
-     mrreviewer    = {A.\ Borzymowski},
-     number        = {6},
-     pages         = {1312--1330},
-     title         = {Parabolic equations over the field of {$p$}-adic numbers},
-     url           = {https://doi.org/10.1070/IM1992v039n03ABEH002247},
-     volume        = {55},
-     year          = {1991}
+    author = {Kochubeu{i}, A. N.},
+    doi = {10.1070/IM1992v039n03ABEH002247},
+    fjournal = {Izvestiya Akademii Nauk SSSR. Seriya Matematicheskaya},
+    issn = {0373-2436},
+    journal = {Izv. Akad. Nauk SSSR Ser. Mat.},
+    mrclass = {35K30 (35A08 35B35)},
+    mrnumber = {1152215},
+    mrreviewer = {A.\ Borzymowski},
+    number = {6},
+    pages = {1312--1330},
+    title = {Parabolic equations over the field of {$p$}-adic numbers},
+    url = {https://doi.org/10.1070/IM1992v039n03ABEH002247},
+    volume = {55},
+    year = {1991}
    }
 
-`The URL link to the source <https://doi.org/10.1070/IM1992v039n03ABEH002247>`__
+`The URL link to the source <ttps://doi.org/10.1070/IM1992v039n03ABEH002247}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,21 +8,24 @@ nourdin.reveillac.ea:10:weak
 .. code-block:: bibtex
 
    @article{nourdin.reveillac.ea:10:weak,
-     author        = {Nourdin, Ivan and R\'{e}veillac, Anthony and Swanson, Jason},
-     doi           = {10.1214/EJP.v15-843},
-     fjournal      = {Electronic Journal of Probability},
-     journal       = {Electron. J. Probab.},
-     mrclass       = {60H05 (60F05 60G22 60H07)},
-     mrnumber      = {2745728},
-     mrreviewer    = {Fabrice Baudoin},
-     pages         = {no. 70, 2117--2162},
-     title         = {The weak {S}tratonovich integral with respect to fractional {B}rownian motion with {H}urst parameter {$1/6$}},
-     url           = {https://doi.org/10.1214/EJP.v15-843},
-     volume        = {15},
-     year          = {2010}
+    author = {Nourdin, Ivan and R\'{e}veillac, Anthony and Swanson,
+   Jason},
+    doi = {10.1214/EJP.v15-843},
+    fjournal = {Electronic Journal of Probability},
+    journal = {Electron. J. Probab.},
+    mrclass = {60H05 (60F05 60G22 60H07)},
+    mrnumber = {2745728},
+    mrreviewer = {Fabrice Baudoin},
+    pages = {no. 70, 2117--2162},
+    title = {The weak {S}tratonovich integral with respect to
+   fractional {B}rownian motion with {H}urst parameter
+   {$1/6$}},
+    url = {https://doi.org/10.1214/EJP.v15-843},
+    volume = {15},
+    year = {2010}
    }
 
-`The URL link to the source <https://doi.org/10.1214/EJP.v15-843>`__
+`The URL link to the source <ttps://doi.org/10.1214/EJP.v15-843}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

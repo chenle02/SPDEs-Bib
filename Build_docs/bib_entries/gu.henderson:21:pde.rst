@@ -8,23 +8,24 @@ gu.henderson:21:pde
 .. code-block:: bibtex
 
    @article{gu.henderson:21:pde,
-     author        = {Gu, Yu and Henderson, Christopher},
-     doi           = {10.1088/1361-6544/ac23b7},
-     fjournal      = {Nonlinearity},
-     issn          = {0951-7715},
-     journal       = {Nonlinearity},
-     mrclass       = {82D60 (35K57 60H15)},
-     mrnumber      = {4321407},
-     mrreviewer    = {G\"{o}khan Yi ldi ri m},
-     number        = {10},
-     pages         = {7335--7370},
-     title         = {A {PDE} hierarchy for directed polymers in random environments},
-     url           = {https://doi.org/10.1088/1361-6544/ac23b7},
-     volume        = {34},
-     year          = {2021}
+    author = {Gu, Yu and Henderson, Christopher},
+    doi = {10.1088/1361-6544/ac23b7},
+    fjournal = {Nonlinearity},
+    issn = {0951-7715},
+    journal = {Nonlinearity},
+    mrclass = {82D60 (35K57 60H15)},
+    mrnumber = {4321407},
+    mrreviewer = {G\"{o}khan Yi ldi ri m},
+    number = {10},
+    pages = {7335--7370},
+    title = {A {PDE} hierarchy for directed polymers in random
+   environments},
+    url = {https://doi.org/10.1088/1361-6544/ac23b7},
+    volume = {34},
+    year = {2021}
    }
 
-`The URL link to the source <https://doi.org/10.1088/1361-6544/ac23b7>`__
+`The URL link to the source <ttps://doi.org/10.1088/1361-6544/ac23b7}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

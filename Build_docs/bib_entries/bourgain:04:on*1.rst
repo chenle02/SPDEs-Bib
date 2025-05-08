@@ -8,23 +8,24 @@ bourgain:04:on*1
 .. code-block:: bibtex
 
    @incollection{bourgain:04:on*1,
-     author        = {Bourgain, Jean},
-     doi           = {10.3934/dcds.2004.10.75},
-     fjournal      = {Discrete and Continuous Dynamical Systems. Series A},
-     issn          = {1078-0947,1553-5231},
-     journal       = {Discrete Contin. Dyn. Syst.},
-     mrclass       = {47B80 (35P20 35Q40 37J40 37K55 81Q10)},
-     mrnumber      = {2026184},
-     note          = {Partial differential equations and applications},
-     number        = {1-2},
-     pages         = {75--88},
-     title         = {On quasi-periodic lattice {S}chr\"{o}dinger operators},
-     url           = {https://doi.org/10.3934/dcds.2004.10.75},
-     volume        = {10},
-     year          = {2004}
+    author = {Bourgain, J.},
+    booktitle = {Geometric aspects of functional analysis},
+    doi = {10.1007/978-3-540-44489-3\_9},
+    isbn = {3-540-22360-6},
+    mrclass = {82B44 (47B39 47B80 47N55)},
+    mrnumber = {2087153},
+    mrreviewer = {David\ Damanik},
+    pages = {77--99},
+    publisher = {Springer, Berlin},
+    series = {Lecture Notes in Math.},
+    title = {On localization for lattice {S}chr\"{o}dinger operators
+   involving {B}ernoulli variables},
+    url = {https://doi.org/10.1007/978-3-540-44489-3_9},
+    volume = {1850},
+    year = {2004}
    }
 
-`The URL link to the source <https://doi.org/10.3934/dcds.2004.10.75>`__
+`The URL link to the source <ttps://doi.org/10.1007/978-3-540-44489-3_9}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,24 @@ xue.xiao:11:fractal
 .. code-block:: bibtex
 
    @article{xue.xiao:11:fractal,
-     author        = {Xue, Yun and Xiao, Yimin},
-     doi           = {10.1007/s11464-011-0126-9},
-     fjournal      = {Frontiers of Mathematics in China},
-     issn          = {1673-3452,1673-3576},
-     journal       = {Front. Math. China},
-     mrclass       = {62M40 (28A80 60G15 60G17 60G60 62M30)},
-     mrnumber      = {2862654},
-     mrreviewer    = {A.\ Ya.\ Olenko},
-     number        = {6},
-     pages         = {1217--1248},
-     title         = {Fractal and smoothness properties of space-time {G}aussian models},
-     url           = {https://doi.org/10.1007/s11464-011-0126-9},
-     volume        = {6},
-     year          = {2011}
+    author = {Xue, Yun and Xiao, Yimin},
+    doi = {10.1007/s11464-011-0126-9},
+    fjournal = {Frontiers of Mathematics in China},
+    issn = {1673-3452,1673-3576},
+    journal = {Front. Math. China},
+    mrclass = {62M40 (28A80 60G15 60G17 60G60 62M30)},
+    mrnumber = {2862654},
+    mrreviewer = {A.\ Ya.\ Olenko},
+    number = {6},
+    pages = {1217--1248},
+    title = {Fractal and smoothness properties of space-time {G}aussian
+   models},
+    url = {https://doi.org/10.1007/s11464-011-0126-9},
+    volume = {6},
+    year = {2011}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s11464-011-0126-9>`__
+`The URL link to the source <ttps://doi.org/10.1007/s11464-011-0126-9}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

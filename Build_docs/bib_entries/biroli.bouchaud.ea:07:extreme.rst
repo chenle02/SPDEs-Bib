@@ -8,21 +8,23 @@ biroli.bouchaud.ea:07:extreme
 .. code-block:: bibtex
 
    @article{biroli.bouchaud.ea:07:extreme,
-     author        = {Biroli, Giulio and Bouchaud, Jean-Philippe and Potters, Marc},
-     doi           = {10.1088/1742-5468/2007/07/p07019},
-     fjournal      = {Journal of Statistical Mechanics: Theory and Experiment},
-     journal       = {J. Stat. Mech. Theory Exp.},
-     mrclass       = {82B44 (82B41)},
-     mrnumber      = {2335697},
-     mrreviewer    = {Nick Laskin},
-     number        = {7},
-     pages         = {P07019, 15},
-     title         = {Extreme value problems in random matrix theory and other disordered systems},
-     url           = {https://doi.org/10.1088/1742-5468/2007/07/p07019},
-     year          = {2007}
+    author = {Biroli, Giulio and Bouchaud, Jean-Philippe and Potters,
+   Marc},
+    doi = {10.1088/1742-5468/2007/07/p07019},
+    fjournal = {Journal of Statistical Mechanics: Theory and Experiment},
+    journal = {J. Stat. Mech. Theory Exp.},
+    mrclass = {82B44 (82B41)},
+    mrnumber = {2335697},
+    mrreviewer = {Nick Laskin},
+    number = {7},
+    pages = {P07019, 15},
+    title = {Extreme value problems in random matrix theory and other
+   disordered systems},
+    url = {https://doi.org/10.1088/1742-5468/2007/07/p07019},
+    year = {2007}
    }
 
-`The URL link to the source <https://doi.org/10.1088/1742-5468/2007/07/p07019>`__
+`The URL link to the source <ttps://doi.org/10.1088/1742-5468/2007/07/p07019}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,24 @@ harnett.nualart:12:weak
 .. code-block:: bibtex
 
    @article{harnett.nualart:12:weak,
-     author        = {Harnett, Daniel and Nualart, David},
-     doi           = {10.1016/j.spa.2012.06.008},
-     fjournal      = {Stochastic Processes and their Applications},
-     issn          = {0304-4149},
-     journal       = {Stochastic Process. Appl.},
-     mrclass       = {60H07 (60F05 60G15 60G22 60H05)},
-     mrnumber      = {2956113},
-     mrreviewer    = {Stefano Bonaccorsi},
-     number        = {10},
-     pages         = {3460--3505},
-     title         = {Weak convergence of the {S}tratonovich integral with respect to a class of {G}aussian processes},
-     url           = {https://doi.org/10.1016/j.spa.2012.06.008},
-     volume        = {122},
-     year          = {2012}
+    author = {Harnett, Daniel and Nualart, David},
+    doi = {10.1016/j.spa.2012.06.008},
+    fjournal = {Stochastic Processes and their Applications},
+    issn = {0304-4149},
+    journal = {Stochastic Process. Appl.},
+    mrclass = {60H07 (60F05 60G15 60G22 60H05)},
+    mrnumber = {2956113},
+    mrreviewer = {Stefano Bonaccorsi},
+    number = {10},
+    pages = {3460--3505},
+    title = {Weak convergence of the {S}tratonovich integral with
+   respect to a class of {G}aussian processes},
+    url = {https://doi.org/10.1016/j.spa.2012.06.008},
+    volume = {122},
+    year = {2012}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.spa.2012.06.008>`__
+`The URL link to the source <ttps://doi.org/10.1016/j.spa.2012.06.008}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,24 @@ talagrand:10:construction
 .. code-block:: bibtex
 
    @article{talagrand:10:construction,
-     author        = {Talagrand, Michel},
-     doi           = {10.1007/s00440-009-0242-6},
-     fjournal      = {Probability Theory and Related Fields},
-     issn          = {0178-8051},
-     journal       = {Probab. Theory Related Fields},
-     mrclass       = {82B44 (82D30)},
-     mrnumber      = {2678900},
-     mrreviewer    = {Nicoletta Cancrini},
-     number        = {3-4},
-     pages         = {601--643},
-     title         = {Construction of pure states in mean field models for spin glasses},
-     url           = {https://doi.org/10.1007/s00440-009-0242-6},
-     volume        = {148},
-     year          = {2010}
+    author = {Talagrand, Michel},
+    doi = {10.1007/s00440-009-0242-6},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {82B44 (82D30)},
+    mrnumber = {2678900},
+    mrreviewer = {Nicoletta Cancrini},
+    number = {3-4},
+    pages = {601--643},
+    title = {Construction of pure states in mean field models for spin
+   glasses},
+    url = {https://doi.org/10.1007/s00440-009-0242-6},
+    volume = {148},
+    year = {2010}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00440-009-0242-6>`__
+`The URL link to the source <ttps://doi.org/10.1007/s00440-009-0242-6}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

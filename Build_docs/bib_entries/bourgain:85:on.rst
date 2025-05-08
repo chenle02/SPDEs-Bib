@@ -7,23 +7,17 @@ bourgain:85:on
 
 .. code-block:: bibtex
 
-   @article{bourgain:85:on,
-     author        = {Bourgain, Jean},
-     fjournal      = {Universit\'{e} de Grenoble. Annales de l'Institut Fourier},
-     issn          = {0373-0956,1777-5310},
-     journal       = {Ann. Inst. Fourier (Grenoble)},
-     mrclass       = {46J15 (30H05 46J20)},
-     mrnumber      = {812323},
-     mrreviewer    = {Richard\ Rochberg},
-     number        = {4},
-     pages         = {163--174},
-     title         = {On finitely generated closed ideals in {$H^infty(D)$}},
-     url           = {http://www.numdam.org/item?id=AIF\_1985\_\_35\_4\_163\_0},
-     volume        = {35},
-     year          = {1985}
+   @incollection{bourgain:85:on,
+    author = {Bourgain, J.},
+    booktitle = {Texas functional analysis seminar 1984--1985 ({A}ustin,
+   {T}ex.)},
+    mrclass = {43A46 (43A25)},
+    mrnumber = {832256},
+    pages = {125--129},
+    publisher = {Univ. Texas Press, Austin, TX},
+    series = {Longhorn Notes},
+    title = {On the dichotomy problem in harmonic analysis},
+    year = {1985}
    }
-
-`The URL link to the source <http://www.numdam.org/item?id=AIF\_1985\_\_35\_4\_163\_0>`__
-
 
 `Back to index <../By-Cite-Keys.html>`__

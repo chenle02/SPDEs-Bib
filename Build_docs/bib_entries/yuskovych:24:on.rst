@@ -8,18 +8,20 @@ yuskovych:24:on
 .. code-block:: bibtex
 
    @article{yuskovych:24:on,
-     author        = {Yuskovych, Viktor},
-     fjournal      = {Ukrainian Mathematical Journal},
-     issn          = {0041-5995},
-     journal       = {Ukrainian Math. J.},
-     mrclass       = {60H10},
-     mrnumber      = {4747122},
-     note          = {Translation of Ukra\"{\i}n. Mat. Zh. {{\bf{7}}5} (2023), no. 11, 1570--1584},
-     number        = {11},
-     pages         = {1778--1795},
-     title         = {On the asymptotics of solutions of stochastic differential equations with jumps},
-     volume        = {75},
-     year          = {2024}
+    author = {Yuskovych, Viktor},
+    fjournal = {Ukrainian Mathematical Journal},
+    issn = {0041-5995},
+    journal = {Ukrainian Math. J.},
+    mrclass = {60H10},
+    mrnumber = {4747122},
+    note = {Translation of Ukra\"{\i}n. Mat. Zh. {{\bf{7}}5} (2023),
+   no. 11, 1570--1584},
+    number = {11},
+    pages = {1778--1795},
+    title = {On the asymptotics of solutions of stochastic differential
+   equations with jumps},
+    volume = {75},
+    year = {2024}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

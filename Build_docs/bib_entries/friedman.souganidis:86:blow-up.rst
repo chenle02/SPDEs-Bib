@@ -8,23 +8,23 @@ friedman.souganidis:86:blow-up
 .. code-block:: bibtex
 
    @article{friedman.souganidis:86:blow-up,
-     author        = {Friedman, Avner and Souganidis, Panagiotis E.},
-     doi           = {10.1080/03605308608820429},
-     fjournal      = {Communications in Partial Differential Equations},
-     issn          = {0360-5302},
-     journal       = {Comm. Partial Differential Equations},
-     mrclass       = {35F25},
-     mrnumber      = {829323},
-     mrreviewer    = {P.-L. Lions},
-     number        = {4},
-     pages         = {397--443},
-     title         = {Blow-up of solutions of {H}amilton-{J}acobi equations},
-     url           = {https://doi.org/10.1080/03605308608820429},
-     volume        = {11},
-     year          = {1986}
+    author = {Friedman, Avner and Souganidis, Panagiotis E.},
+    doi = {10.1080/03605308608820429},
+    fjournal = {Communications in Partial Differential Equations},
+    issn = {0360-5302},
+    journal = {Comm. Partial Differential Equations},
+    mrclass = {35F25},
+    mrnumber = {829323},
+    mrreviewer = {P.-L. Lions},
+    number = {4},
+    pages = {397--443},
+    title = {Blow-up of solutions of {H}amilton-{J}acobi equations},
+    url = {https://doi.org/10.1080/03605308608820429},
+    volume = {11},
+    year = {1986}
    }
 
-`The URL link to the source <https://doi.org/10.1080/03605308608820429>`__
+`The URL link to the source <ttps://doi.org/10.1080/03605308608820429}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

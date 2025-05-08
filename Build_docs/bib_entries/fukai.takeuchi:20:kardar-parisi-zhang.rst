@@ -8,21 +8,22 @@ fukai.takeuchi:20:kardar-parisi-zhang
 .. code-block:: bibtex
 
    @article{fukai.takeuchi:20:kardar-parisi-zhang,
-     author        = {Fukai, Yohsuke T. and Takeuchi, Kazumasa A.},
-     doi           = {10.1103/PhysRevLett.124.060601},
-     issue         = {6},
-     journal       = {Phys. Rev. Lett.},
-     month         = {Feb},
-     numpages      = {6},
-     pages         = {060601},
-     publisher     = {American Physical Society},
-     title         = {Kardar-Parisi-Zhang Interfaces with Curved Initial Shapes and Variational Formula},
-     url           = {https://link.aps.org/doi/10.1103/PhysRevLett.124.060601},
-     volume        = {124},
-     year          = {2020}
+    author = {Fukai, Yohsuke T. and Takeuchi, Kazumasa A.},
+    doi = {10.1103/PhysRevLett.124.060601},
+    issue = {6},
+    journal = {Phys. Rev. Lett.},
+    month = {Feb},
+    numpages = {6},
+    pages = {060601},
+    publisher = {American Physical Society},
+    title = {Kardar-Parisi-Zhang Interfaces with Curved Initial Shapes
+   and Variational Formula},
+    url = {https://link.aps.org/doi/10.1103/PhysRevLett.124.060601},
+    volume = {124},
+    year = {2020}
    }
 
-`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.124.060601>`__
+`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevLett.124.060601}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

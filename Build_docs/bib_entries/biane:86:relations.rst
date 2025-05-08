@@ -8,22 +8,24 @@ biane:86:relations
 .. code-block:: bibtex
 
    @article{biane:86:relations,
-     author        = {Biane, Ph.},
-     fjournal      = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistique},
-     issn          = {0246-0203},
-     journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
-     mrclass       = {60J65 (60J55)},
-     mrnumber      = {838369},
-     mrreviewer    = {F. B. Knight},
-     number        = {1},
-     pages         = {1--7},
-     title         = {Relations entre pont et excursion du mouvement brownien r\'{e}el},
-     url           = {http://www.numdam.org/item?id=AIHPB\_1986\_\_22\_1\_1\_0},
-     volume        = {22},
-     year          = {1986}
+    author = {Biane, Ph.},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s
+   et Statistique},
+    issn = {0246-0203},
+    journal = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
+    mrclass = {60J65 (60J55)},
+    mrnumber = {838369},
+    mrreviewer = {F. B. Knight},
+    number = {1},
+    pages = {1--7},
+    title = {Relations entre pont et excursion du mouvement brownien
+   r\'{e}el},
+    url = {http://www.numdam.org/item?id=AIHPB_1986__22_1_1_0},
+    volume = {22},
+    year = {1986}
    }
 
-`The URL link to the source <http://www.numdam.org/item?id=AIHPB\_1986\_\_22\_1\_1\_0>`__
+`The URL link to the source <ttp://www.numdam.org/item?id=AIHPB_1986__22_1_1_0}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,23 +8,24 @@ flandoli.gubinelli.ea:10:flow
 .. code-block:: bibtex
 
    @article{flandoli.gubinelli.ea:10:flow,
-     author        = {Flandoli, F. and Gubinelli, M. and Priola, E.},
-     doi           = {10.1016/j.bulsci.2010.02.003},
-     fjournal      = {Bulletin des Sciences Math\'{e}matiques},
-     issn          = {0007-4497,1952-4773},
-     journal       = {Bull. Sci. Math.},
-     mrclass       = {60H10 (35R60 47D07)},
-     mrnumber      = {2651899},
-     mrreviewer    = {Wei\ Liu},
-     number        = {4},
-     pages         = {405--422},
-     title         = {Flow of diffeomorphisms for {SDE}s with unbounded {H}\"{o}lder continuous drift},
-     url           = {https://doi.org/10.1016/j.bulsci.2010.02.003},
-     volume        = {134},
-     year          = {2010}
+    author = {Flandoli, F. and Gubinelli, M. and Priola, E.},
+    doi = {10.1016/j.bulsci.2010.02.003},
+    fjournal = {Bulletin des Sciences Math\'{e}matiques},
+    issn = {0007-4497,1952-4773},
+    journal = {Bull. Sci. Math.},
+    mrclass = {60H10 (35R60 47D07)},
+    mrnumber = {2651899},
+    mrreviewer = {Wei\ Liu},
+    number = {4},
+    pages = {405--422},
+    title = {Flow of diffeomorphisms for {SDE}s with unbounded
+   {H}\"{o}lder continuous drift},
+    url = {https://doi.org/10.1016/j.bulsci.2010.02.003},
+    volume = {134},
+    year = {2010}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.bulsci.2010.02.003>`__
+`The URL link to the source <ttps://doi.org/10.1016/j.bulsci.2010.02.003}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,15 +8,16 @@ guo.song.ea:24:sample
 .. code-block:: bibtex
 
    @article{guo.song.ea:24:sample,
-     author        = {Yuhui Guo and Jian Song and Ran Wang and Yimin Xiao},
-     journal       = {Preprint arXiv:2411.12192},
-     month         = {November},
-     title         = {Sample path properties and small ball probabilities for stochastic fractional diffusion equations},
-     url           = {http://arXiv.org/abs/2411.12192},
-     year          = {2024}
+    author = {Yuhui Guo and Jian Song and Ran Wang and Yimin Xiao},
+    journal = {Preprint arXiv:2411.12192},
+    month = {November},
+    title = {Sample path properties and small ball probabilities for
+   stochastic fractional diffusion equations},
+    url = {http://arXiv.org/abs/2411.12192},
+    year = {2024}
    }
 
-`The URL link to the source <http://arXiv.org/abs/2411.12192>`__
+`The URL link to the source <ttp://arXiv.org/abs/2411.12192}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

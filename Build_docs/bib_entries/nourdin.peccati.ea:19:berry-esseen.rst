@@ -8,21 +8,22 @@ nourdin.peccati.ea:19:berry-esseen
 .. code-block:: bibtex
 
    @article{nourdin.peccati.ea:19:berry-esseen,
-     author        = {Nourdin, Ivan and Peccati, Giovanni and Yang, Xiaochuan},
-     doi           = {10.1214/19-ECP241},
-     fjournal      = {Electronic Communications in Probability},
-     journal       = {Electron. Commun. Probab.},
-     mrclass       = {60F05 (60G15 60H07)},
-     mrnumber      = {3978683},
-     mrreviewer    = {Ehsan Azmoodeh},
-     pages         = {Paper No. 34, 12},
-     title         = {Berry-{E}sseen bounds in the {B}reuer-{M}ajor {CLT} and {G}ebelein's inequality},
-     url           = {https://doi.org/10.1214/19-ECP241},
-     volume        = {24},
-     year          = {2019}
+    author = {Nourdin, Ivan and Peccati, Giovanni and Yang, Xiaochuan},
+    doi = {10.1214/19-ECP241},
+    fjournal = {Electronic Communications in Probability},
+    journal = {Electron. Commun. Probab.},
+    mrclass = {60F05 (60G15 60H07)},
+    mrnumber = {3978683},
+    mrreviewer = {Ehsan Azmoodeh},
+    pages = {Paper No. 34, 12},
+    title = {Berry-{E}sseen bounds in the {B}reuer-{M}ajor {CLT} and
+   {G}ebelein's inequality},
+    url = {https://doi.org/10.1214/19-ECP241},
+    volume = {24},
+    year = {2019}
    }
 
-`The URL link to the source <https://doi.org/10.1214/19-ECP241>`__
+`The URL link to the source <ttps://doi.org/10.1214/19-ECP241}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

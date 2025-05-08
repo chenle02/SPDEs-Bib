@@ -8,16 +8,18 @@ stratonovich:63:topics
 .. code-block:: bibtex
 
    @book{stratonovich:63:topics,
-     author        = {Stratonovich, R. L.},
-     edition       = {English},
-     mrclass       = {60.90 (94.10)},
-     mrnumber      = {158437},
-     mrreviewer    = {A. T. Bharucha-Reid},
-     note          = {Translated from the Russian by Richard A. Silverman},
-     pages         = {xiii+292},
-     publisher     = {Gordon and Breach Science Publishers, New York-London},
-     title         = {Topics in the theory of random noise. {V}ol. {I}: {G}eneral theory of random processes. {N}onlinear transformations of signals and noise},
-     year          = {1963}
+    author = {Stratonovich, R. L.},
+    edition = {English},
+    mrclass = {60.90 (94.10)},
+    mrnumber = {158437},
+    mrreviewer = {A. T. Bharucha-Reid},
+    note = {Translated from the Russian by Richard A. Silverman},
+    pages = {xiii+292},
+    publisher = {Gordon and Breach Science Publishers, New York-London},
+    title = {Topics in the theory of random noise. {V}ol. {I}:
+   {G}eneral theory of random processes. {N}onlinear
+   transformations of signals and noise},
+    year = {1963}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

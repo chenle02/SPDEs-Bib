@@ -8,23 +8,24 @@ cambronero.mckean:99:ground
 .. code-block:: bibtex
 
    @article{cambronero.mckean:99:ground,
-     author        = {Cambronero, S. and McKean, H. P.},
-     doi           = {10.1002/(SICI)1097-0312(199910)52:10<1277::AID-CPA5>3.0.CO;2-L},
-     fjournal      = {Communications on Pure and Applied Mathematics},
-     issn          = {0010-3640},
-     journal       = {Comm. Pure Appl. Math.},
-     mrclass       = {60H25 (34B30 34F05 60J65 82B44)},
-     mrnumber      = {1699969},
-     mrreviewer    = {Nariyuki Minami},
-     number        = {10},
-     pages         = {1277--1294},
-     title         = {The ground state eigenvalue of {H}ill's equation with white noise potential},
-     url           = {https://doi.org/10.1002/(SICI)1097-0312(199910)52:10<1277::AID-CPA5>3.0.CO;2-L},
-     volume        = {52},
-     year          = {1999}
+    author = {Cambronero, S. and McKean, H. P.},
+    doi = {10.1002/(SICI)1097-0312(199910)52:10<1277::AID-CPA5>3.0.CO;2-L},
+    fjournal = {Communications on Pure and Applied Mathematics},
+    issn = {0010-3640},
+    journal = {Comm. Pure Appl. Math.},
+    mrclass = {60H25 (34B30 34F05 60J65 82B44)},
+    mrnumber = {1699969},
+    mrreviewer = {Nariyuki Minami},
+    number = {10},
+    pages = {1277--1294},
+    title = {The ground state eigenvalue of {H}ill's equation with
+   white noise potential},
+    url = {https://doi.org/10.1002/(SICI)1097-0312(199910)52:10<1277::AID-CPA5>3.0.CO;2-L},
+    volume = {52},
+    year = {1999}
    }
 
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199910)52:10<1277::AID-CPA5>3.0.CO;2-L>`__
+`The URL link to the source <ttps://doi.org/10.1002/(SICI)1097-0312(199910)52:10<1277::AID-CPA5>3.0.CO;2-L}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

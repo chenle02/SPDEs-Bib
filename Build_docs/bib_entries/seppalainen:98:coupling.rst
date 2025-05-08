@@ -8,18 +8,19 @@ seppalainen:98:coupling
 .. code-block:: bibtex
 
    @incollection{seppalainen:98:coupling,
-     author        = {Sepp\"{a}l\"{a}inen, T.},
-     fjournal      = {Markov Processes and Related Fields},
-     issn          = {1024-2953},
-     journal       = {Markov Process. Related Fields},
-     mrclass       = {60K35 (60F10 82C22 82C24)},
-     mrnumber      = {1677061},
-     note          = {I Brazilian School in Probability (Rio de Janeiro, 1997)},
-     number        = {4},
-     pages         = {593--628},
-     title         = {Coupling the totally asymmetric simple exclusion process with a moving interface},
-     volume        = {4},
-     year          = {1998}
+    author = {Sepp\"{a}l\"{a}inen, T.},
+    fjournal = {Markov Processes and Related Fields},
+    issn = {1024-2953},
+    journal = {Markov Process. Related Fields},
+    mrclass = {60K35 (60F10 82C22 82C24)},
+    mrnumber = {1677061},
+    note = {I Brazilian School in Probability (Rio de Janeiro, 1997)},
+    number = {4},
+    pages = {593--628},
+    title = {Coupling the totally asymmetric simple exclusion process
+   with a moving interface},
+    volume = {4},
+    year = {1998}
    }
 
 `Back to index <../By-Cite-Keys.html>`__

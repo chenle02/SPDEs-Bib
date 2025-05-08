@@ -8,22 +8,23 @@ sznitman:93:brownian*1
 .. code-block:: bibtex
 
    @article{sznitman:93:brownian*1,
-     author        = {Sznitman, Alain-Sol},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
-     mrclass       = {60K35 (60J65 82D30)},
-     mrnumber      = {1207235},
-     mrreviewer    = {Ingemar Kaj},
-     number        = {1},
-     pages         = {490--508},
-     title         = {Brownian survival among {G}ibbsian traps},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199301)21:1<490:BSAGT>2.0.CO;2-9\&origin=MSN},
-     volume        = {21},
-     year          = {1993}
+    author = {Sznitman, Alain-Sol},
+    doi = {10.1007/BF01192268},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60K35 (60J65 82D30)},
+    mrnumber = {1214085},
+    mrreviewer = {Francis Comets},
+    number = {2},
+    pages = {155--174},
+    title = {Brownian asymptotics in a {P}oissonian environment},
+    url = {https://doi.org/10.1007/BF01192268},
+    volume = {95},
+    year = {1993}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199301)21:1<490:BSAGT>2.0.CO;2-9\&origin=MSN>`__
+`The URL link to the source <ttps://doi.org/10.1007/BF01192268}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

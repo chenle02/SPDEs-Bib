@@ -8,17 +8,17 @@ bennett.sharpley:88:interpolation
 .. code-block:: bibtex
 
    @book{bennett.sharpley:88:interpolation,
-     author        = {Bennett, Colin and Sharpley, Robert},
-     isbn          = {0-12-088730-4},
-     mrclass       = {46-02 (46E30 46Exx 46M35)},
-     mrnumber      = {928802},
-     mrreviewer    = {Mario Milman},
-     pages         = {xiv+469},
-     publisher     = {Academic Press, Inc., Boston, MA},
-     series        = {Pure and Applied Mathematics},
-     title         = {Interpolation of operators},
-     volume        = {129},
-     year          = {1988}
+    author = {Bennett, Colin and Sharpley, Robert},
+    isbn = {0-12-088730-4},
+    mrclass = {46-02 (46E30 46Exx 46M35)},
+    mrnumber = {928802},
+    mrreviewer = {Mario Milman},
+    pages = {xiv+469},
+    publisher = {Academic Press, Inc., Boston, MA},
+    series = {Pure and Applied Mathematics},
+    title = {Interpolation of operators},
+    volume = {129},
+    year = {1988}
    }
 
 `Back to index <../By-Cite-Keys.html>`__
