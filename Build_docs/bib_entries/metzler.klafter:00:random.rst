@@ -8,23 +8,23 @@ metzler.klafter:00:random
 .. code-block:: bibtex
 
    @article{metzler.klafter:00:random,
-    author = {Ralf Metzler and Joseph Klafter},
-    doi = {https://doi.org/10.1016/S0370-1573(00)00070-3},
+    author = {Metzler, Ralf and Klafter, Joseph},
+    doi = {10.1016/S0370-1573(00)00070-3},
+    fjournal = {Physics Reports. A Review Section of Physics Letters},
     issn = {0370-1573},
-    journal = {Physics Reports},
-    keywords = {Anomalous diffusion, Fractional diffusion equation,
-   Fractional Fokker–Planck equation, Anomalous relaxation,
-   Mittag–Leffler relaxation, Dynamics in complex systems},
+    journal = {Phys. Rep.},
+    mrclass = {82C31 (82C70)},
+    mrnumber = {1809268},
     number = {1},
-    pages = {1--77},
+    pages = {77},
     title = {The random walk's guide to anomalous diffusion: a
    fractional dynamics approach},
-    url = {https://www.sciencedirect.com/science/article/pii/S0370157300000703},
+    url = {https://doi.org/10.1016/S0370-1573(00)00070-3},
     volume = {339},
     year = {2000}
    }
 
-`The URL link to the source <ttps://www.sciencedirect.com/science/article/pii/S0370157300000703}>`__
+`The URL link to the source <ttps://doi.org/10.1016/S0370-1573(00)00070-3}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

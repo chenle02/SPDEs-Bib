@@ -9,21 +9,22 @@ talagrand:06:parisi*1
 
    @article{talagrand:06:parisi*1,
     author = {Talagrand, Michel},
-    doi = {10.1016/j.jfa.2005.03.001},
-    fjournal = {Journal of Functional Analysis},
-    issn = {0022-1236},
-    journal = {J. Funct. Anal.},
-    mrclass = {82B44 (28A33 82D30)},
-    mrnumber = {2195333},
-    number = {2},
-    pages = {269--286},
-    title = {Parisi measures},
-    url = {https://doi.org/10.1016/j.jfa.2005.03.001},
-    volume = {231},
+    doi = {10.4007/annals.2006.163.221},
+    fjournal = {Annals of Mathematics. Second Series},
+    issn = {0003-486X},
+    journal = {Ann. of Math. (2)},
+    mrclass = {82B44 (82D30)},
+    mrnumber = {2195134},
+    mrreviewer = {Fran\c{c}ois Germinet},
+    number = {1},
+    pages = {221--263},
+    title = {The {P}arisi formula},
+    url = {https://doi.org/10.4007/annals.2006.163.221},
+    volume = {163},
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2005.03.001}>`__
+`The URL link to the source <ttps://doi.org/10.4007/annals.2006.163.221}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

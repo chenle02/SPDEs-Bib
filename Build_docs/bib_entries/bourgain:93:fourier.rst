@@ -9,24 +9,24 @@ bourgain:93:fourier
 
    @article{bourgain:93:fourier,
     author = {Bourgain, J.},
-    doi = {10.1007/BF01895688},
+    doi = {10.1007/BF01896020},
     fjournal = {Geometric and Functional Analysis},
     issn = {1016-443X},
     journal = {Geom. Funct. Anal.},
-    mrclass = {35Q55},
-    mrnumber = {1215780},
+    mrclass = {35Q55 (11L07 35B10)},
+    mrnumber = {1209299},
     mrreviewer = {Yun Mei Chen},
-    number = {3},
-    pages = {209--262},
+    number = {2},
+    pages = {107--156},
     title = {Fourier transform restriction phenomena for certain
    lattice subsets and applications to nonlinear evolution
-   equations. {II}. {T}he {K}d{V}-equation},
-    url = {https://doi.org/10.1007/BF01895688},
+   equations. {I}. {S}chr\"{o}dinger equations},
+    url = {https://doi.org/10.1007/BF01896020},
     volume = {3},
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01895688}>`__
+`The URL link to the source <ttps://doi.org/10.1007/BF01896020}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

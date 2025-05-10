@@ -9,23 +9,24 @@ xiao:96:packing*1
 
    @article{xiao:96:packing*1,
     author = {Xiao, Yimin},
-    doi = {10.1090/S0002-9947-96-01712-6},
-    fjournal = {Transactions of the American Mathematical Society},
-    issn = {0002-9947,1088-6850},
-    journal = {Trans. Amer. Math. Soc.},
-    mrclass = {60G17 (60J65)},
-    mrnumber = {1370655},
-    mrreviewer = {Bert\ Fristedt},
-    number = {8},
-    pages = {3193--3213},
-    title = {Packing measure of the sample paths of fractional
-   {B}rownian motion},
-    url = {https://doi.org/10.1090/S0002-9947-96-01712-6},
-    volume = {348},
+    doi = {10.1017/S030500410007506X},
+    fjournal = {Mathematical Proceedings of the Cambridge Philosophical
+   Society},
+    issn = {0305-0041,1469-8064},
+    journal = {Math. Proc. Cambridge Philos. Soc.},
+    mrclass = {28A78 (28A80)},
+    mrnumber = {1388205},
+    mrreviewer = {Claude\ Tricot},
+    number = {3},
+    pages = {535--546},
+    title = {Packing dimension, {H}ausdorff dimension and {C}artesian
+   product sets},
+    url = {https://doi.org/10.1017/S030500410007506X},
+    volume = {120},
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0002-9947-96-01712-6}>`__
+`The URL link to the source <ttps://doi.org/10.1017/S030500410007506X}>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
