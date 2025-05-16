@@ -101,21 +101,16 @@ with open(parent_rst_name, "w") as parent_rst:
             file.write("**BibTeX Entry:**\n\n")
             file.write(".. code-block:: bibtex\n\n")
 
-            url = None
-            # Read and write the content of the .bib file
+            # Write raw BibTeX entry
             with open(bib_entry_filename, "r") as bibfile:
                 for line in bibfile:
                     file.write(f"   {line}")
-                    # Check if the line contains a URL key
-                    normalized_line = line.strip().lower()
-                    if 'url' in line.strip().lower():
-                        start = normalized_line.find('{') + 3
-                        end = normalized_line.find('}') + 2
-                        if start > 0 and end > start:
-                            url = line[start:end].strip()
 
-            # If a URL is found, append a clickable link
+            # Append clickable link if entry has a URL field
+            url = entry.get("url")
             if url:
+                # Strip any surrounding braces, commas, or spaces
+                url = url.strip().strip("{} ,")
                 file.write(f"\n`The URL link to the source <{url}>`__\n\n")
 
             file.write(f"\n`Back to index <../{parent_rst_html}>`__\n")
