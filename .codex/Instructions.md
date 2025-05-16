@@ -55,6 +55,12 @@ Codex should support tasks such as:
 
    * Prefer `.rst` over `.md` unless Markdown support is explicitly configured.
    * All math expressions should use `.. math::` or `:math:` syntax.
+   * Avoid scanning large auto-generated directories such as:
+
+     * `Build_docs/bib_entries/`
+     * `Build_docs/bib_files/`
+     * `Build_docs/audio_files/*.wav`
+   * When generating or editing files (e.g., `README.md`, scripts), **remove all trailing spaces** to maintain clean formatting.
 
 ---
 
@@ -68,8 +74,9 @@ Below is a simplified view of the relevant directory structure:
 ├── Build_docs/              # Sphinx documentation source
 │   ├── conf.py              # Sphinx configuration file
 │   ├── index.rst            # Main entry point for documentation
+│   ├── README.md            # Explains documentation build system, scripts, and deployment
 │   ├── *.rst                # Additional documentation sections
-│   ├── bib_entries/         # Parsed bibliographic content
+│   ├── bib_entries/         # Parsed bibliographic content (auto-generated, ~7000 files)
 │   └── _static/, _templates/ # Sphinx assets
 ├── .readthedocs.yaml        # Configuration for Read the Docs
 ├── .codex/                  # Codex configuration and instructions
@@ -80,7 +87,7 @@ Below is a simplified view of the relevant directory structure:
 └── Sample_setup_using_neovim.md # Editor configuration example
 ```
 
-> Note: All documentation build tasks should operate within `Build_docs/`, and bibliographic parsing centers around `All.bib`.
+> Note: All documentation build tasks should operate within `Build_docs/`, and bibliographic parsing centers around `All.bib`. The `bib_entries/` directory is auto-generated and contains thousands of files; avoid indexing it unless required.
 
 ---
 
