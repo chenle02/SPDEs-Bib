@@ -1,0 +1,27 @@
+varadhan:93:nonlinear
+=====================
+
+:cite:t:`varadhan:93:nonlinear`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{varadhan:93:nonlinear,
+    author = {Varadhan, S. R. S.},
+    booktitle = {Asymptotic problems in probability theory: stochastic
+   models and diffusions on fractals ({S}anda/{K}yoto, 1990)},
+    isbn = {0-582-08656-6},
+    mrclass = {60K35 (60J60)},
+    mrnumber = {1354152},
+    mrreviewer = {Ingemar\ Kaj},
+    pages = {75--128},
+    publisher = {Longman Sci. Tech., Harlow},
+    series = {Pitman Res. Notes Math. Ser.},
+    title = {Nonlinear diffusion limit for a system with nearest
+   neighbor interactions. {II}},
+    volume = {283},
+    year = {1993}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__
