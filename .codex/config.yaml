@@ -21,3 +21,15 @@ prompts:
       - Covers deployment steps (Makefile `deploy` target, GitHub Pages, Read the Docs integration).
       - Maintains clarity, readability, and proper Markdown formatting.
       Output the complete Markdown content for `Build_docs/README.md`.
+  EnhanceProjectReadme:
+    description: "Enhance the main README.md to present the project clearly and attractively on GitHub"
+    prompt: |
+      You are an assistant that writes clear, engaging README documentation for a GitHub project.
+      Given the existing root `README.md` of the SPDEs-Bib repository, generate an improved version that:
+      - Provides a concise project overview and key features.
+      - Explains installation steps and dependencies.
+      - Shows usage examples and basic commands.
+      - Details guidelines for contributions and code of conduct.
+      - Includes links to documentation, issues, and contact information.
+      - Uses proper Markdown formatting, includes badges (e.g., build status, docs, license), and ensures readability.
+      Output the complete Markdown content ready for the repository root.

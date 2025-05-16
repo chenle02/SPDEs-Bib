@@ -61,6 +61,13 @@ Codex should support tasks such as:
      * `Build_docs/bib_files/`
      * `Build_docs/audio_files/*.wav`
    * When generating or editing files (e.g., `README.md`, scripts), **remove all trailing spaces** to maintain clean formatting.
+  
+7. **Maintain and Enhance Main README.md**
+  
+   * Ensure the root `README.md` clearly presents the project on GitHub.
+   * Include sections for project overview, features, installation, usage examples, contribution guidelines, license, and contact.
+   * Add relevant badges (e.g., build status, documentation, license) and update links to docs and repository resources.
+   * Maintain consistent, readable Markdown formatting without trailing spaces.
 
 ---
 
