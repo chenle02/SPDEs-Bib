@@ -26,7 +26,7 @@ rassoul-agha.seppalainen.ea:13:quenched
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.21417}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.21417>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

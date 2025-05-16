@@ -26,7 +26,7 @@ cerrai:01:stationary
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/S0363012999359949}>`__
+`The URL link to the source <https://doi.org/10.1137/S0363012999359949>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

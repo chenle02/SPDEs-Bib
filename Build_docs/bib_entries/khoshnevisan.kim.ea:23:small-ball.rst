@@ -17,7 +17,7 @@ khoshnevisan.kim.ea:23:small-ball
     year = {2023}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2312.05789}>`__
+`The URL link to the source <http://arXiv.org/abs/2312.05789>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

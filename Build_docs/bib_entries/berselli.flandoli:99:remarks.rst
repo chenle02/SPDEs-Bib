@@ -24,7 +24,7 @@ berselli.flandoli:99:remarks
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.1999.5.197}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.1999.5.197>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

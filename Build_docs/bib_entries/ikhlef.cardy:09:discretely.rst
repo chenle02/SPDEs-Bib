@@ -25,7 +25,7 @@ ikhlef.cardy:09:discretely
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1751-8113/42/10/102001}>`__
+`The URL link to the source <https://doi.org/10.1088/1751-8113/42/10/102001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

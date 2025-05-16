@@ -25,7 +25,7 @@ nualart:85:variations
     year = {1985}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442508508833348}>`__
+`The URL link to the source <https://doi.org/10.1080/17442508508833348>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

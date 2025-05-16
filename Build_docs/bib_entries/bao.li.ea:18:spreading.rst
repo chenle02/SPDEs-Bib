@@ -25,7 +25,7 @@ bao.li.ea:18:spreading
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2018.05.003}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2018.05.003>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

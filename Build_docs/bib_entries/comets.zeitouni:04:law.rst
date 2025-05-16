@@ -25,7 +25,7 @@ comets.zeitouni:04:law
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1079021467}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1079021467>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

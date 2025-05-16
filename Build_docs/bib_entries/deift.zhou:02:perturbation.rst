@@ -25,7 +25,7 @@ deift.zhou:02:perturbation
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02392683}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02392683>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ corwin.seppalainen.ea:15:strict-weak
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-015-1267-0}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-015-1267-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

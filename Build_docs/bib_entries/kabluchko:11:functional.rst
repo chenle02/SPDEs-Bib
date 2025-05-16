@@ -26,7 +26,7 @@ kabluchko:11:functional
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/10-BEJ299}>`__
+`The URL link to the source <https://doi.org/10.3150/10-BEJ299>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ berestycki.brunet.ea:18:exact
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1751-8121/aa899f}>`__
+`The URL link to the source <https://doi.org/10.1088/1751-8121/aa899f>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

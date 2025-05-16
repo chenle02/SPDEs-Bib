@@ -26,7 +26,7 @@ dold.galaktionov.ea:98:rate
     year = {1998}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=ASNSP_1998_4_26_4_663_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=ASNSP_1998_4_26_4_663_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

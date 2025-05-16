@@ -24,7 +24,7 @@ hillen.potapov:04:one-dimensional
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/mma.569}>`__
+`The URL link to the source <https://doi.org/10.1002/mma.569>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

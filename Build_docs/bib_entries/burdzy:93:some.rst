@@ -24,7 +24,7 @@ burdzy:93:some
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4612-0339-1_3}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-0339-1_3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

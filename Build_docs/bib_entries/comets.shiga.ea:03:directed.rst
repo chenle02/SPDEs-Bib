@@ -26,7 +26,7 @@ comets.shiga.ea:03:directed
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/bj/1066223275}>`__
+`The URL link to the source <https://doi.org/10.3150/bj/1066223275>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

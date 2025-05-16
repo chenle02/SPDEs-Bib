@@ -25,7 +25,7 @@ labbe.lacoin:19:cutoff
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/18-AOP1290}>`__
+`The URL link to the source <https://doi.org/10.1214/18-AOP1290>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ gross.miljkovic:90:nonperturbative
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0370-2693(90)91724-P}>`__
+`The URL link to the source <https://doi.org/10.1016/0370-2693(90)91724-P>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

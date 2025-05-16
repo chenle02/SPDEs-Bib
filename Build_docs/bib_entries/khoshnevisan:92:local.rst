@@ -24,7 +24,7 @@ khoshnevisan:92:local
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01193057}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01193057>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

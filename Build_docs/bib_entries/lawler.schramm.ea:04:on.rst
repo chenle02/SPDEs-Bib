@@ -25,7 +25,7 @@ lawler.schramm.ea:04:on
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/pspum/072.2/2112127}>`__
+`The URL link to the source <https://doi.org/10.1090/pspum/072.2/2112127>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ evans:10:partial
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/gsm/019}>`__
+`The URL link to the source <https://doi.org/10.1090/gsm/019>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

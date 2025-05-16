@@ -26,7 +26,7 @@ budhiraja.dupuis.ea:08:large
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/07-AOP362}>`__
+`The URL link to the source <https://doi.org/10.1214/07-AOP362>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

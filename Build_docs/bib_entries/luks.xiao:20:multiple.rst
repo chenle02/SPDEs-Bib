@@ -25,7 +25,7 @@ luks.xiao:20:multiple
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10959-018-0859-4}>`__
+`The URL link to the source <https://doi.org/10.1007/s10959-018-0859-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

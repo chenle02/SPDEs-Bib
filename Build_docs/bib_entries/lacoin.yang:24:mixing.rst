@@ -24,7 +24,7 @@ lacoin.yang:24:mixing
     year = {2024}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/23-aap1967}>`__
+`The URL link to the source <https://doi.org/10.1214/23-aap1967>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

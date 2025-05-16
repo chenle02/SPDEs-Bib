@@ -23,7 +23,7 @@ flandoli.huang:23:noise
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1063/5.0128120}>`__
+`The URL link to the source <https://doi.org/10.1063/5.0128120>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

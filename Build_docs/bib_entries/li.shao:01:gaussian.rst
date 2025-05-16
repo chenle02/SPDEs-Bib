@@ -23,7 +23,7 @@ li.shao:01:gaussian
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0169-7161(01)19019-X}>`__
+`The URL link to the source <https://doi.org/10.1016/S0169-7161(01)19019-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

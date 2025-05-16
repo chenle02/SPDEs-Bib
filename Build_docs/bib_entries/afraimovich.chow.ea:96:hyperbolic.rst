@@ -27,7 +27,7 @@ afraimovich.chow.ea:96:hyperbolic
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0218127496000576}>`__
+`The URL link to the source <https://doi.org/10.1142/S0218127496000576>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

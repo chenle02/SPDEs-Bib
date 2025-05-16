@@ -25,7 +25,7 @@ fromm:94:regularity
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1307/mmj/1029005075}>`__
+`The URL link to the source <https://doi.org/10.1307/mmj/1029005075>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

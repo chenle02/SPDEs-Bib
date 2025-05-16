@@ -25,7 +25,7 @@ hu.nualart.ea:09:fractional
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/09-AOP464}>`__
+`The URL link to the source <https://doi.org/10.1214/09-AOP464>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

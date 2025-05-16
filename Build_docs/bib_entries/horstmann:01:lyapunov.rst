@@ -25,7 +25,7 @@ horstmann:01:lyapunov
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/cm87-1-7}>`__
+`The URL link to the source <https://doi.org/10.4064/cm87-1-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

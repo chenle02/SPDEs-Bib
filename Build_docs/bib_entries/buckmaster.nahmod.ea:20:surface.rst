@@ -25,7 +25,7 @@ buckmaster.nahmod.ea:20:surface
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/imrn/rny261}>`__
+`The URL link to the source <https://doi.org/10.1093/imrn/rny261>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

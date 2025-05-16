@@ -23,7 +23,7 @@ berard.gouere:11:survival
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v16-861}>`__
+`The URL link to the source <https://doi.org/10.1214/EJP.v16-861>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

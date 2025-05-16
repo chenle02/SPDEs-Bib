@@ -25,7 +25,7 @@ bena.droz.ea:05:statistical
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0217979205032759}>`__
+`The URL link to the source <https://doi.org/10.1142/S0217979205032759>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

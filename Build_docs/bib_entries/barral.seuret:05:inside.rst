@@ -23,7 +23,7 @@ barral.seuret:05:inside
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-005-5458-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-005-5458-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

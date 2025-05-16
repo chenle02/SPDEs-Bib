@@ -26,7 +26,7 @@ arumugam.erhardt.ea:20:existence
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.nonrwa.2020.103090}>`__
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2020.103090>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

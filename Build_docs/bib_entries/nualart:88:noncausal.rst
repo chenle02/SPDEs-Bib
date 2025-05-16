@@ -23,7 +23,7 @@ nualart:88:noncausal
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0081930}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0081930>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

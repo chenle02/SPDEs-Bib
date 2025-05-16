@@ -25,7 +25,7 @@ kriecherbauer.krug:10:pedestrians
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1751-8113/43/40/403001}>`__
+`The URL link to the source <https://doi.org/10.1088/1751-8113/43/40/403001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

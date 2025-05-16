@@ -27,7 +27,7 @@ caravenna.hollander.ea:16:annealed
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11040-016-9205-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s11040-016-9205-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

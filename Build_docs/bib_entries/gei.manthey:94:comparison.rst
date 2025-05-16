@@ -25,7 +25,7 @@ gei.manthey:94:comparison
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0304-4149(94)90055-8}>`__
+`The URL link to the source <https://doi.org/10.1016/0304-4149(94)90055-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

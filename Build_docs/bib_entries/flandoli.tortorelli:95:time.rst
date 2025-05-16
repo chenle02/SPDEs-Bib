@@ -26,7 +26,7 @@ flandoli.tortorelli:95:time
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442509508834022}>`__
+`The URL link to the source <https://doi.org/10.1080/17442509508834022>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

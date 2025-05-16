@@ -25,7 +25,7 @@ nourdin.peccati.ea:16:multidimensional
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1051/ps/2016014}>`__
+`The URL link to the source <https://doi.org/10.1051/ps/2016014>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

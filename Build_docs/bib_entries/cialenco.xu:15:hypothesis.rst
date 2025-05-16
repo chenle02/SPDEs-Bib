@@ -25,7 +25,7 @@ cialenco.xu:15:hypothesis
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2014.09.022}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2014.09.022>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

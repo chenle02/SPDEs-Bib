@@ -23,7 +23,7 @@ barral.seuret:07:information
     year = {2007}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.rae/1199377482}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.rae/1199377482>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ sasorov.meerson.ea:17:large
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1742-5468/aa73f8}>`__
+`The URL link to the source <https://doi.org/10.1088/1742-5468/aa73f8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

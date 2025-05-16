@@ -23,7 +23,7 @@ calvez.corrias:08:parabolic-parabolic
     year = {2008}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cms/1214949930}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cms/1214949930>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

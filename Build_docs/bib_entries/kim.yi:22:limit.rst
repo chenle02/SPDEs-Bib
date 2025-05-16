@@ -25,7 +25,7 @@ kim.yi:22:limit
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/21-bej1339}>`__
+`The URL link to the source <https://doi.org/10.3150/21-bej1339>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

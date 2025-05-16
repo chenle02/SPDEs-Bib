@@ -26,7 +26,7 @@ bedrossian:15:large
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/03605302.2014.999938}>`__
+`The URL link to the source <https://doi.org/10.1080/03605302.2014.999938>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -17,7 +17,4 @@ morimoto:14:design-and-analysis-of-algorithms-for-graph-exploration-and-resource
     year = {2014}
    }
 
-`The URL link to the source <url{http://hdl.handle.net/2433/189687}>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

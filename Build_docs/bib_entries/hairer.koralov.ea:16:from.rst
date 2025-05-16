@@ -27,7 +27,7 @@ hairer.koralov.ea:16:from
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/15-AIHP690}>`__
+`The URL link to the source <https://doi.org/10.1214/15-AIHP690>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

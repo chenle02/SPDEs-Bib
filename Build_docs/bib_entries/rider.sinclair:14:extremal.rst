@@ -24,7 +24,7 @@ rider.sinclair:14:extremal
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/13-AAP958}>`__
+`The URL link to the source <https://doi.org/10.1214/13-AAP958>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

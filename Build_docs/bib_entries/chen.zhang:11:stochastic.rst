@@ -24,7 +24,7 @@ chen.zhang:11:stochastic
     year = {2011}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ojm/1315318342}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1315318342>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

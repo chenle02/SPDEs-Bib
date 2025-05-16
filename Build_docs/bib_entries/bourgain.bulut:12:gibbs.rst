@@ -26,7 +26,7 @@ bourgain.bulut:12:gibbs
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2012.05.006}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2012.05.006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

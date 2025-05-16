@@ -25,7 +25,7 @@ fedrigo.flandoli.ea:07:large
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10231-006-0011-4}>`__
+`The URL link to the source <https://doi.org/10.1007/s10231-006-0011-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

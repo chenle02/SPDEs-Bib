@@ -24,7 +24,7 @@ lacey.tzanetis:93:global
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jdeq.1993.1006}>`__
+`The URL link to the source <https://doi.org/10.1006/jdeq.1993.1006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

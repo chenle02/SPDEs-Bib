@@ -25,7 +25,7 @@ kuehn.romano:19:scaling
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/s0956792518000438}>`__
+`The URL link to the source <https://doi.org/10.1017/s0956792518000438>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

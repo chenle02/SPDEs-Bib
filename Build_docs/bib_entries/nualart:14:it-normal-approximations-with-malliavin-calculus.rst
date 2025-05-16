@@ -24,7 +24,7 @@ nualart:14:it-normal-approximations-with-malliavin-calculus
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0273-0979-2013-01432-0}>`__
+`The URL link to the source <https://doi.org/10.1090/S0273-0979-2013-01432-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

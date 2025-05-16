@@ -24,7 +24,7 @@ colbrook.ma.ea:17:scaling
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/mnras/stx261}>`__
+`The URL link to the source <https://doi.org/10.1093/mnras/stx261>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

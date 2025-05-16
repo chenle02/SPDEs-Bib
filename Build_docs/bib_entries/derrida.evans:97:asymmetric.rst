@@ -22,7 +22,7 @@ derrida.evans:97:asymmetric
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9780511564284.020}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9780511564284.020>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

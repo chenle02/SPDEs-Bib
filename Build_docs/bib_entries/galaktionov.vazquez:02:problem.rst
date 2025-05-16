@@ -26,7 +26,7 @@ galaktionov.vazquez:02:problem
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2002.8.399}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2002.8.399>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

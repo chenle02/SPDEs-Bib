@@ -25,7 +25,7 @@ kunstmann.weis:04:maximal
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-540-44653-8_2}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-540-44653-8_2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

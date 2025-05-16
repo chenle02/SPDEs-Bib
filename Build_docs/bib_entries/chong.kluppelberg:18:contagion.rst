@@ -25,7 +25,7 @@ chong.kluppelberg:18:contagion
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/17M1116659}>`__
+`The URL link to the source <https://doi.org/10.1137/17M1116659>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

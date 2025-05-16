@@ -24,7 +24,7 @@ fyodorov.le-doussal.ea:09:statistical
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1742-5468/2009/10/p10005}>`__
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2009/10/p10005>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

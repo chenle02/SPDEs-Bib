@@ -23,7 +23,7 @@ anderson:58:absence
     year = {1958}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRev.109.1492}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRev.109.1492>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

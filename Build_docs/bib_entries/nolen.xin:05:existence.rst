@@ -26,7 +26,7 @@ nolen.xin:05:existence
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2005.13.1217}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2005.13.1217>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

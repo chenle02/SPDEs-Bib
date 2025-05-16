@@ -25,7 +25,7 @@ lieb.simon:77:thomas-fermi
     year = {1977}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0001-8708(77)90108-6}>`__
+`The URL link to the source <https://doi.org/10.1016/0001-8708(77)90108-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

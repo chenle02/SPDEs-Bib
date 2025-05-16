@@ -25,7 +25,7 @@ athreya.kolba.ea:12:propagating
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v17-2410}>`__
+`The URL link to the source <https://doi.org/10.1214/EJP.v17-2410>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

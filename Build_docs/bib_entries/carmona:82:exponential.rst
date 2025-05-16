@@ -23,7 +23,7 @@ carmona:82:exponential
     year = {1982}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.dmj/1077315080}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077315080>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

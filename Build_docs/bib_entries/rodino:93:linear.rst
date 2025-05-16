@@ -21,7 +21,7 @@ rodino:93:linear
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/9789814360036}>`__
+`The URL link to the source <https://doi.org/10.1142/9789814360036>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

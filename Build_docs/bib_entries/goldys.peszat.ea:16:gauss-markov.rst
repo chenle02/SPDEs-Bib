@@ -24,7 +24,7 @@ goldys.peszat.ea:16:gauss-markov
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/tran/6329}>`__
+`The URL link to the source <https://doi.org/10.1090/tran/6329>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

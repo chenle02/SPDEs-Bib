@@ -25,7 +25,7 @@ cerrai:01:optimal
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/S0363012999356465}>`__
+`The URL link to the source <https://doi.org/10.1137/S0363012999356465>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

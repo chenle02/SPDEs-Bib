@@ -25,7 +25,7 @@ donsker.varadhan:75:on
     year = {1975}
    }
 
-`The URL link to the source <ttps://doi.org/10.1073/pnas.72.3.780}>`__
+`The URL link to the source <https://doi.org/10.1073/pnas.72.3.780>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

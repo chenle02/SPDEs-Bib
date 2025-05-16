@@ -24,7 +24,7 @@ oldham.myland.ea:09:atlas
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-0-387-48807-3}>`__
+`The URL link to the source <https://doi.org/10.1007/978-0-387-48807-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

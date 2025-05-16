@@ -25,7 +25,7 @@ chen.kim.ea:10:heat
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.4171/JEMS/231}>`__
+`The URL link to the source <https://doi.org/10.4171/JEMS/231>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

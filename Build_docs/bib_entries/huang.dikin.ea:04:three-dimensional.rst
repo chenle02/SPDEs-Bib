@@ -24,7 +24,7 @@ huang.dikin.ea:04:three-dimensional
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1111/j.0022-2720.2004.01418.x}>`__
+`The URL link to the source <https://doi.org/10.1111/j.0022-2720.2004.01418.x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

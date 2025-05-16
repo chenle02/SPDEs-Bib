@@ -25,7 +25,7 @@ foondun.joseph:14:remarks
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2014.04.015}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2014.04.015>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

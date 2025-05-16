@@ -24,7 +24,7 @@ bourgain:88:almost
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02765022}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02765022>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

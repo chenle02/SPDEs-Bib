@@ -23,7 +23,7 @@ lin.tsai:21:short
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-021-04050-w}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-021-04050-w>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

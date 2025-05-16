@@ -24,7 +24,7 @@ peng.havlin.ea:91:directed-polymer
     year = {1991}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevA.44.R2239}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.44.R2239>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

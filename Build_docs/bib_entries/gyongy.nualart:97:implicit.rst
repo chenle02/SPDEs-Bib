@@ -27,7 +27,7 @@ gyongy.nualart:97:implicit
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1017998901460}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1017998901460>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

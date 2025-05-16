@@ -23,7 +23,7 @@ khoshnevisan.xiao:17:on
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-319-59671-6_9}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-319-59671-6_9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

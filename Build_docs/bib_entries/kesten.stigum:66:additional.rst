@@ -24,7 +24,7 @@ kesten.stigum:66:additional
     year = {1966}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aoms/1177699139}>`__
+`The URL link to the source <https://doi.org/10.1214/aoms/1177699139>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

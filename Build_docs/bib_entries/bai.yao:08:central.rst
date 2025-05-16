@@ -26,7 +26,7 @@ bai.yao:08:central
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/07-AIHP118}>`__
+`The URL link to the source <https://doi.org/10.1214/07-AIHP118>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

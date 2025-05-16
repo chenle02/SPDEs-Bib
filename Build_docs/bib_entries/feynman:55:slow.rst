@@ -22,7 +22,7 @@ feynman:55:slow
     year = {1955}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRev.97.660}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRev.97.660>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

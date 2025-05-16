@@ -25,7 +25,7 @@ bourgain.gamburd:08:expansion
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.4171/JEMS/137}>`__
+`The URL link to the source <https://doi.org/10.4171/JEMS/137>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,7 @@ nourdin.peccati:08:weighted
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v13-534}>`__
+`The URL link to the source <https://doi.org/10.1214/EJP.v13-534>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

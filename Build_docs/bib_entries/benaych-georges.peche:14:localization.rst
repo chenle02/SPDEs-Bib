@@ -26,7 +26,7 @@ benaych-georges.peche:14:localization
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/13-AIHP562}>`__
+`The URL link to the source <https://doi.org/10.1214/13-AIHP562>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

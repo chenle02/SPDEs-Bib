@@ -23,7 +23,7 @@ gel-fand.vilenkin:16:generalized
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/chel/380}>`__
+`The URL link to the source <https://doi.org/10.1090/chel/380>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

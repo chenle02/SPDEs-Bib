@@ -24,7 +24,7 @@ hu:19:preface
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10473-019-0301-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s10473-019-0301-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

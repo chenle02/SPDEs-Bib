@@ -24,7 +24,7 @@ brzezniak.peszat:10:hyperbolic
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/9789814277266_0001}>`__
+`The URL link to the source <https://doi.org/10.1142/9789814277266_0001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

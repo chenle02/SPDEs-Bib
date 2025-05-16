@@ -23,7 +23,7 @@ baer.brock:68:natural
     year = {1968}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2004668}>`__
+`The URL link to the source <https://doi.org/10.2307/2004668>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

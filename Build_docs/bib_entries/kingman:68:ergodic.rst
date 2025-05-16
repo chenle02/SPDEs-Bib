@@ -23,7 +23,7 @@ kingman:68:ergodic
     year = {1968}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0035-9246(1968)30:3<499:TETOSS>2.0.CO;2-E&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0035-9246(1968)30:3<499:TETOSS>2.0.CO;2-E&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

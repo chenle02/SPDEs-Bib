@@ -24,7 +24,7 @@ lacoin:19:marginal
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-030-15096-9_2}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-030-15096-9_2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

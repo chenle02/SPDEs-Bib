@@ -24,7 +24,7 @@ hammersley:62:generalization
     year = {1962}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/s030500410003646x}>`__
+`The URL link to the source <https://doi.org/10.1017/s030500410003646x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

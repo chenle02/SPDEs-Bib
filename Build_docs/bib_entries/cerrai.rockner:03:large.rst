@@ -25,7 +25,7 @@ cerrai.rockner:03:large
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2003.09.015}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2003.09.015>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

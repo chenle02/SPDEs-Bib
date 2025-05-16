@@ -24,7 +24,7 @@ luchko.punzi:11:modeling
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s13137-010-0012-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s13137-010-0012-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

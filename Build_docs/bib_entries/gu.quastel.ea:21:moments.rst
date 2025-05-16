@@ -23,7 +23,7 @@ gu.quastel.ea:21:moments
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.2140/pmp.2021.2.179}>`__
+`The URL link to the source <https://doi.org/10.2140/pmp.2021.2.179>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

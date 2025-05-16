@@ -26,7 +26,7 @@ argyros.bourgain.ea:84:result
     year = {1984}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm-78-1-77-91}>`__
+`The URL link to the source <https://doi.org/10.4064/sm-78-1-77-91>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

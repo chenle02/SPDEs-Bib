@@ -23,7 +23,7 @@ hu.nualart:10:central
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v15-1573}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v15-1573>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

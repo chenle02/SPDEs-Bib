@@ -22,7 +22,7 @@ regner.vucinic.ea:13:anomalous
     year = {2013}
    }
 
-`The URL link to the source <ttps://www.sciencedirect.com/science/article/pii/S0006349513001823}>`__
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0006349513001823>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

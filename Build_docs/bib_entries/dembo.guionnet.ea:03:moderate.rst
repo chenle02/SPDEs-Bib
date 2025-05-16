@@ -26,7 +26,7 @@ dembo.guionnet.ea:03:moderate
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0246-0203(03)00024-4}>`__
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(03)00024-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

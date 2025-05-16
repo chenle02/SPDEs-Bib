@@ -24,7 +24,7 @@ miller.wu:17:intersections
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-015-0677-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-015-0677-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

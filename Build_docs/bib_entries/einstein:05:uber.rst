@@ -22,7 +22,7 @@ einstein:05:uber
     year = {1905}
    }
 
-`The URL link to the source <ttps://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19053220806}>`__
+`The URL link to the source <https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19053220806>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

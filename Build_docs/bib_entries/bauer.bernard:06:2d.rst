@@ -24,7 +24,7 @@ bauer.bernard:06:2d
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.physrep.2006.06.002}>`__
+`The URL link to the source <https://doi.org/10.1016/j.physrep.2006.06.002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

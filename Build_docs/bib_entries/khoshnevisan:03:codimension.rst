@@ -24,7 +24,7 @@ khoshnevisan:03:codimension
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-540-40004-2_9}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-540-40004-2_9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

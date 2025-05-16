@@ -24,7 +24,7 @@ ramirez.rider:17:spiking
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-016-0733-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-016-0733-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

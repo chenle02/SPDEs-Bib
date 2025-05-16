@@ -26,7 +26,7 @@ nourdin.peccati.ea:20:sojourn
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/19-BEJ1105}>`__
+`The URL link to the source <https://doi.org/10.3150/19-BEJ1105>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

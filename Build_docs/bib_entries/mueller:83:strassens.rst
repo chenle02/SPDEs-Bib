@@ -25,7 +25,7 @@ mueller:83:strassens
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF00534174}>`__
+`The URL link to the source <https://doi.org/10.1007/BF00534174>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

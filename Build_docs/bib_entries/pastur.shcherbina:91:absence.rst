@@ -25,7 +25,7 @@ pastur.shcherbina:91:absence
     year = {1991}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01020856}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01020856>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

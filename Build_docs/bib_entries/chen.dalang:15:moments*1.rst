@@ -26,7 +26,7 @@ chen.dalang:15:moments*1
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-015-0054-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-015-0054-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

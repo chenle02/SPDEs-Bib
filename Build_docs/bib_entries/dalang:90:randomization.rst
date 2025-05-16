@@ -23,7 +23,7 @@ dalang:90:randomization
     year = {1990}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(199001)18:1<218:RITTBP>2.0.CO;2-V&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199001)18:1<218:RITTBP>2.0.CO;2-V&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

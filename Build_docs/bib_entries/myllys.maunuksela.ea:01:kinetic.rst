@@ -23,7 +23,7 @@ myllys.maunuksela.ea:01:kinetic
     year = {2001}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevE.64.036101}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevE.64.036101>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

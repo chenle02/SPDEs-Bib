@@ -25,7 +25,7 @@ conus.joseph.ea:13:on*1
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/11-AOP717}>`__
+`The URL link to the source <https://doi.org/10.1214/11-AOP717>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,7 @@ mueller.sowers:95:travelling
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/pspum/057/1335501}>`__
+`The URL link to the source <https://doi.org/10.1090/pspum/057/1335501>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

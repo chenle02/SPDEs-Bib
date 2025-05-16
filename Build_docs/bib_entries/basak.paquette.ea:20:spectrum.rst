@@ -25,7 +25,7 @@ basak.paquette.ea:20:spectrum
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/tran/8040}>`__
+`The URL link to the source <https://doi.org/10.1090/tran/8040>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

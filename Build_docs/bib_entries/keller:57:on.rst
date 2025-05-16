@@ -23,7 +23,7 @@ keller:57:on
     year = {1957}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.3160100404}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.3160100404>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

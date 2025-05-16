@@ -25,7 +25,7 @@ ouhabaz.wang:07:sharp
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00229-006-0065-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s00229-006-0065-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

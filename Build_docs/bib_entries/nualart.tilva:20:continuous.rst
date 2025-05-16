@@ -25,7 +25,7 @@ nualart.tilva:20:continuous
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/07362994.2019.1711118}>`__
+`The URL link to the source <https://doi.org/10.1080/07362994.2019.1711118>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

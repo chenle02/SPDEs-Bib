@@ -22,7 +22,7 @@ quastel:10:kpz
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/9789814304634_0030}>`__
+`The URL link to the source <https://doi.org/10.1142/9789814304634_0030>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

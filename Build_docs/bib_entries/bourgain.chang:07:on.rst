@@ -25,7 +25,7 @@ bourgain.chang:07:on
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/S0012-7094-07-13824-9}>`__
+`The URL link to the source <https://doi.org/10.1215/S0012-7094-07-13824-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

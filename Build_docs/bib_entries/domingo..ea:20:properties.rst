@@ -26,7 +26,7 @@ domingo..ea:20:properties
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/07362994.2019.1694416}>`__
+`The URL link to the source <https://doi.org/10.1080/07362994.2019.1694416>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

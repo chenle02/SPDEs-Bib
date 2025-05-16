@@ -24,7 +24,7 @@ adolfsson:93:lp-integrability
     year = {1993}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.pjm/1102634261}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102634261>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

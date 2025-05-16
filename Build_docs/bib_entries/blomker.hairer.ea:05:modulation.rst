@@ -25,7 +25,7 @@ blomker.hairer.ea:05:modulation
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-005-1368-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-005-1368-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

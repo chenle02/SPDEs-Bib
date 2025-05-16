@@ -25,7 +25,7 @@ meerschaert.scheffler:04:limit
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1239/jap/1091543414}>`__
+`The URL link to the source <https://doi.org/10.1239/jap/1091543414>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ chen.eriksen.ea:95:largest
     year = {1995}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/28/L207}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/28/L207>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

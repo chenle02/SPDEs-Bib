@@ -24,7 +24,7 @@ peng.buldyrev.ea:92:long-range
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1038/356168a0}>`__
+`The URL link to the source <https://doi.org/10.1038/356168a0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

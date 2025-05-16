@@ -25,7 +25,7 @@ derrida.dou-cot.ea:04:current
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/B:JOSS.0000022379.95508.b2}>`__
+`The URL link to the source <https://doi.org/10.1023/B:JOSS.0000022379.95508.b2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

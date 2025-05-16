@@ -22,7 +22,7 @@ bourgain:00:harmonic
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/bf02791532}>`__
+`The URL link to the source <https://doi.org/10.1007/bf02791532>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

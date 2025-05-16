@@ -25,7 +25,7 @@ diel:11:almost
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2011.06.002}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2011.06.002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

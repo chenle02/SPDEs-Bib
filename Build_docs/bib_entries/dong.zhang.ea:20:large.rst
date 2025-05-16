@@ -26,7 +26,7 @@ dong.zhang.ea:20:large
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11118-019-09763-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s11118-019-09763-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

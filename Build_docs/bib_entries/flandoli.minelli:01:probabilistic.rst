@@ -24,7 +24,7 @@ flandoli.minelli:01:probabilistic
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1013708711604}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1013708711604>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

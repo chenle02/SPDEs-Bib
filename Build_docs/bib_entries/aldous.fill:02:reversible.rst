@@ -15,7 +15,4 @@ aldous.fill:02:reversible
     year = {2002}
    }
 
-`The URL link to the source <tps://www.stat.berkeley.edu/~aldous/RWG/book.html}}>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

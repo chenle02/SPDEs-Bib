@@ -24,7 +24,7 @@ frohlich.simon.ea:76:infrared
     year = {1976}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1103900151}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103900151>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

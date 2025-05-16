@@ -25,7 +25,7 @@ barral:15:inverse*1
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.24033/asens.2274}>`__
+`The URL link to the source <https://doi.org/10.24033/asens.2274>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

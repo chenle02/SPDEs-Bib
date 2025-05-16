@@ -26,7 +26,7 @@ bourgain:04:new
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2004.03.027}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2004.03.027>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

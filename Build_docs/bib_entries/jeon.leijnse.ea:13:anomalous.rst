@@ -24,7 +24,7 @@ jeon.leijnse.ea:13:anomalous
     year = {2013}
    }
 
-`The URL link to the source <ttps://dx.doi.org/10.1088/1367-2630/15/4/045011}>`__
+`The URL link to the source <https://dx.doi.org/10.1088/1367-2630/15/4/045011>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

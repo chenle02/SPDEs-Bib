@@ -22,7 +22,7 @@ derrida.gardner:84:renormalisation
     year = {1984}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/17/3223}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/17/3223>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

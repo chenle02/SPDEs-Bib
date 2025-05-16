@@ -23,7 +23,7 @@ broadbent.hammersley:57:percolation
     year = {1957}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/s0305004100032680}>`__
+`The URL link to the source <https://doi.org/10.1017/s0305004100032680>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ hu.oksendal:08:partial
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/060667566}>`__
+`The URL link to the source <https://doi.org/10.1137/060667566>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

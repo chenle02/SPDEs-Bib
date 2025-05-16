@@ -23,7 +23,7 @@ sasaki:65:on
     year = {1965}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.pja/1195522240}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.pja/1195522240>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

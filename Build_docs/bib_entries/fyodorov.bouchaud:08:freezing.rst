@@ -24,7 +24,7 @@ fyodorov.bouchaud:08:freezing
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1751-8113/41/37/372001}>`__
+`The URL link to the source <https://doi.org/10.1088/1751-8113/41/37/372001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

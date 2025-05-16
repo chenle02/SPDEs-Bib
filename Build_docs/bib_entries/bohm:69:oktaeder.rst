@@ -23,7 +23,7 @@ bohm:69:oktaeder
     year = {1969}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01899600}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01899600>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

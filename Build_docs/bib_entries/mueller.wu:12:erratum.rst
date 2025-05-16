@@ -23,7 +23,7 @@ mueller.wu:12:erratum
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v17-1774}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v17-1774>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

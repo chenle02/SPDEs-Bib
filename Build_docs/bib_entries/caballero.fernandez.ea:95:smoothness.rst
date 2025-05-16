@@ -26,7 +26,7 @@ caballero.fernandez.ea:95:smoothness
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442509508833978}>`__
+`The URL link to the source <https://doi.org/10.1080/17442509508833978>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

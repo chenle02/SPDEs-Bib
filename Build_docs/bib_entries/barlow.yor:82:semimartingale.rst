@@ -26,7 +26,7 @@ barlow.yor:82:semimartingale
     year = {1982}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0022-1236(82)90080-5}>`__
+`The URL link to the source <https://doi.org/10.1016/0022-1236(82)90080-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

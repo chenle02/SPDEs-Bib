@@ -24,7 +24,7 @@ khoshnevisan:09:from
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-0346-0030-9_4}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-0346-0030-9_4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

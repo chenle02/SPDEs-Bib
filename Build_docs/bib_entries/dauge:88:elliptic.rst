@@ -24,7 +24,7 @@ dauge:88:elliptic
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0086682}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0086682>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ ayache.roueff.ea:09:linear
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2008.06.004}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2008.06.004>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

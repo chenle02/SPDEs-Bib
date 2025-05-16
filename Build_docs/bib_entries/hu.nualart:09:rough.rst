@@ -24,7 +24,7 @@ hu.nualart:09:rough
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0002-9947-08-04631-X}>`__
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-08-04631-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

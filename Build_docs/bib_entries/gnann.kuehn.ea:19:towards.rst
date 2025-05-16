@@ -24,7 +24,7 @@ gnann.kuehn.ea:19:towards
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/s095679251800061x}>`__
+`The URL link to the source <https://doi.org/10.1017/s095679251800061x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

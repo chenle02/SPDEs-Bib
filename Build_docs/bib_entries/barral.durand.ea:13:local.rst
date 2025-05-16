@@ -26,7 +26,7 @@ barral.durand.ea:13:local
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/conm/601/11919}>`__
+`The URL link to the source <https://doi.org/10.1090/conm/601/11919>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

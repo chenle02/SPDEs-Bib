@@ -24,7 +24,7 @@ huergo.pasquale.ea:10:morphology
     year = {2010}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevE.82.031903}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevE.82.031903>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

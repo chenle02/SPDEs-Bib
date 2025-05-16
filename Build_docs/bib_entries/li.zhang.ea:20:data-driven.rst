@@ -27,7 +27,7 @@ li.zhang.ea:20:data-driven
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/19M1277485}>`__
+`The URL link to the source <https://doi.org/10.1137/19M1277485>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

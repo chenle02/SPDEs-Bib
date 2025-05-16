@@ -25,7 +25,7 @@ adolfsson.jerison:94:lp-integrability
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1512/iumj.1994.43.43049}>`__
+`The URL link to the source <https://doi.org/10.1512/iumj.1994.43.43049>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

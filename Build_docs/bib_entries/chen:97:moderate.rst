@@ -25,7 +25,7 @@ chen:97:moderate
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0167-7152(97)00005-9}>`__
+`The URL link to the source <https://doi.org/10.1016/S0167-7152(97)00005-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

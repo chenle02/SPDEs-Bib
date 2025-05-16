@@ -24,7 +24,7 @@ bradley:05:basic
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/154957805100000104}>`__
+`The URL link to the source <https://doi.org/10.1214/154957805100000104>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

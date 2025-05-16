@@ -24,7 +24,7 @@ chavanis:10:stochastic
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.cnsns.2008.09.002}>`__
+`The URL link to the source <https://doi.org/10.1016/j.cnsns.2008.09.002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

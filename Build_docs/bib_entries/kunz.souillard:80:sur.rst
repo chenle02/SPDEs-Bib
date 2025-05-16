@@ -23,7 +23,7 @@ kunz.souillard:80:sur
     year = {1980/81}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1103908590}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103908590>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

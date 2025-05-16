@@ -25,7 +25,7 @@ deift.its.ea:07:widom-dyson
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.cam.2005.12.040}>`__
+`The URL link to the source <https://doi.org/10.1016/j.cam.2005.12.040>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

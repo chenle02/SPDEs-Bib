@@ -26,7 +26,7 @@ gao.guo.ea:21:persistence
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcdsb.2020199}>`__
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2020199>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ bombieri.bourgain:04:remark
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1155/S1073792804143444}>`__
+`The URL link to the source <https://doi.org/10.1155/S1073792804143444>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

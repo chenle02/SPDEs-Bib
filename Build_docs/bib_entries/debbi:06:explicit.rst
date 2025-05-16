@@ -23,7 +23,7 @@ debbi:06:explicit
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1155/JAMSA/2006/93502}>`__
+`The URL link to the source <https://doi.org/10.1155/JAMSA/2006/93502>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

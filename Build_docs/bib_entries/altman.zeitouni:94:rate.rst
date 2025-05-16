@@ -25,7 +25,7 @@ altman.zeitouni:94:rate
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1287/moor.19.4.955}>`__
+`The URL link to the source <https://doi.org/10.1287/moor.19.4.955>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

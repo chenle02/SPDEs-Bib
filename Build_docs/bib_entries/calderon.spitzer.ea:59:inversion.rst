@@ -23,7 +23,7 @@ calderon.spitzer.ea:59:inversion
     year = {1959}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ijm/1255455456}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255455456>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

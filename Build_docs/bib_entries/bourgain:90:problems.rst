@@ -25,7 +25,7 @@ bourgain:90:problems
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02807252}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02807252>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

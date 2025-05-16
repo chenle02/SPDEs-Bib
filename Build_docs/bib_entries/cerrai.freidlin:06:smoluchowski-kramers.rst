@@ -25,7 +25,7 @@ cerrai.freidlin:06:smoluchowski-kramers
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00028-006-0281-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s00028-006-0281-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

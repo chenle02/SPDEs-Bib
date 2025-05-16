@@ -24,7 +24,7 @@ deift.zhou:95:asymptotics
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.3160480304}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.3160480304>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

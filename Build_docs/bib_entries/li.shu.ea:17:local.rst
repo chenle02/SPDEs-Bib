@@ -25,7 +25,7 @@ li.shu.ea:17:local
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10915-016-0354-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s10915-016-0354-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

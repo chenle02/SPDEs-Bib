@@ -25,7 +25,7 @@ nualart.ouknine:04:regularization
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219493704001012}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219493704001012>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

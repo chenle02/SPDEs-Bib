@@ -24,7 +24,7 @@ li.shao:01:capture
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/PL00008796}>`__
+`The URL link to the source <https://doi.org/10.1007/PL00008796>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ rawal.shen:12:criteria
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10884-012-9276-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s10884-012-9276-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

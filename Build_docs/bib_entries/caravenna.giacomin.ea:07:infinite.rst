@@ -23,7 +23,4 @@ caravenna.giacomin.ea:07:infinite
     year = {2007}
    }
 
-`The URL link to the source <gnieszka Jurlewicz}>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

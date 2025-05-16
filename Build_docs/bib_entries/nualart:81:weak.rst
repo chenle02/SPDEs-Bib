@@ -26,7 +26,7 @@ nualart:81:weak
     year = {1981}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF00532118}>`__
+`The URL link to the source <https://doi.org/10.1007/BF00532118>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

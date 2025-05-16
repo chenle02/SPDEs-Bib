@@ -25,7 +25,7 @@ aronson.weinberger:78:multidimensional
     year = {1978}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0001-8708(78)90130-5}>`__
+`The URL link to the source <https://doi.org/10.1016/0001-8708(78)90130-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

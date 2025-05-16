@@ -24,7 +24,7 @@ bougerol.lacroix:85:products
     year = {1985}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4684-9172-2}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4684-9172-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

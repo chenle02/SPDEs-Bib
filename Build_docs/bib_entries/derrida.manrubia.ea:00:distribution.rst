@@ -27,7 +27,7 @@ derrida.manrubia.ea:00:distribution
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0378-4371(00)00031-5}>`__
+`The URL link to the source <https://doi.org/10.1016/S0378-4371(00)00031-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

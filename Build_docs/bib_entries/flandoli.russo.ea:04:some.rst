@@ -26,7 +26,7 @@ flandoli.russo.ea:04:some
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1163/156939704323074700}>`__
+`The URL link to the source <https://doi.org/10.1163/156939704323074700>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

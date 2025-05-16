@@ -25,7 +25,7 @@ boursier.chafai.ea:23:universal
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-022-01158-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-022-01158-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

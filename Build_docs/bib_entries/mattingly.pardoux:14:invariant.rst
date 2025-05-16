@@ -24,7 +24,7 @@ mattingly.pardoux:14:invariant
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2014.34.4223}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2014.34.4223>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

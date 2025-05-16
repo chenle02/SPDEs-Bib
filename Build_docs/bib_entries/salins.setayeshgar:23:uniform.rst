@@ -28,7 +28,7 @@ salins.setayeshgar:23:uniform
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11118-021-09936-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s11118-021-09936-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

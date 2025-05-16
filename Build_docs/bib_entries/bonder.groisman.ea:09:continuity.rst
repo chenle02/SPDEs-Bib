@@ -26,7 +26,7 @@ bonder.groisman.ea:09:continuity
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/07362990903136504}>`__
+`The URL link to the source <https://doi.org/10.1080/07362990903136504>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

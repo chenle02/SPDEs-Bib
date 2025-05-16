@@ -25,7 +25,7 @@ gine:97:decoupling
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0092618}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0092618>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

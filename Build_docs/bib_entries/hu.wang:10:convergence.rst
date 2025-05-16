@@ -25,7 +25,7 @@ hu.wang:10:convergence
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0252-9602(10)60095-1}>`__
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(10)60095-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

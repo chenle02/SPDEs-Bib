@@ -25,7 +25,7 @@ derrida.jacobsen.ea:00:lyapunov
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1018666620368}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1018666620368>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

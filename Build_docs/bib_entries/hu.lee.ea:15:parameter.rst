@@ -29,7 +29,7 @@ hu.lee.ea:15:parameter
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11203-014-9112-7}>`__
+`The URL link to the source <https://doi.org/10.1007/s11203-014-9112-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

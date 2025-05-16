@@ -24,7 +24,7 @@ clisby:17:scale-free
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1751-8121/aa7231}>`__
+`The URL link to the source <https://doi.org/10.1088/1751-8121/aa7231>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

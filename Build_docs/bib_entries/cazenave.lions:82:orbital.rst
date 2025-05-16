@@ -23,7 +23,7 @@ cazenave.lions:82:orbital
     year = {1982}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1103921547}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103921547>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

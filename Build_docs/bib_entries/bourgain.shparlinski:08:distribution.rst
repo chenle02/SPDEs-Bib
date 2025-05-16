@@ -24,7 +24,7 @@ bourgain.shparlinski:08:distribution
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/aa134-1-6}>`__
+`The URL link to the source <https://doi.org/10.4064/aa134-1-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

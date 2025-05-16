@@ -24,7 +24,7 @@ cuevas.silva.ea:20:on
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/mma.5959}>`__
+`The URL link to the source <https://doi.org/10.1002/mma.5959>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

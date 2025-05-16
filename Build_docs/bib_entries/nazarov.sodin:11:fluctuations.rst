@@ -24,7 +24,7 @@ nazarov.sodin:11:fluctuations
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/imrn/rnr007}>`__
+`The URL link to the source <https://doi.org/10.1093/imrn/rnr007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

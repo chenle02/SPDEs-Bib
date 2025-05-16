@@ -24,7 +24,7 @@ iscoe:88:on
     year = {1988}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198801)16:1<200:OTSOMC>2.0.CO;2-Z&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198801)16:1<200:OTSOMC>2.0.CO;2-Z&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

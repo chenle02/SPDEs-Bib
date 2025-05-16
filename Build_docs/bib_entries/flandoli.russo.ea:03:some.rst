@@ -24,7 +24,7 @@ flandoli.russo.ea:03:some
     year = {2003}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ojm/1153493096}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1153493096>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

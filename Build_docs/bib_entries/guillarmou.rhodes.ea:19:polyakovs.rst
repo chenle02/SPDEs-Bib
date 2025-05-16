@@ -23,7 +23,7 @@ guillarmou.rhodes.ea:19:polyakovs
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10240-019-00109-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s10240-019-00109-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

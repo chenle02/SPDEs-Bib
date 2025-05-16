@@ -24,7 +24,7 @@ mayorcas.tomasevic:23:blow-up
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00028-023-00900-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s00028-023-00900-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -16,7 +16,7 @@ mueller.neuman:20:scaling
     year = {2020}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2006.07189}>`__
+`The URL link to the source <http://arXiv.org/abs/2006.07189>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

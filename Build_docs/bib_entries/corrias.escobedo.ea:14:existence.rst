@@ -25,7 +25,7 @@ corrias.escobedo.ea:14:existence
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2014.05.019}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2014.05.019>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

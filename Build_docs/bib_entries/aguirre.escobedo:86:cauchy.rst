@@ -25,7 +25,7 @@ aguirre.escobedo:86:cauchy
     year = {1986/87}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AFST_1986-1987_5_8_2_175_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AFST_1986-1987_5_8_2_175_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

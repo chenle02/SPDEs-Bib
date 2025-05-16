@@ -25,7 +25,7 @@ flandoli.gozzi:98:kolmogorov
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jfan.1998.3321}>`__
+`The URL link to the source <https://doi.org/10.1006/jfan.1998.3321>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

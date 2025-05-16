@@ -26,7 +26,7 @@ edmunds.triebel:89:entropy
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1112/plms/s3-58.1.137}>`__
+`The URL link to the source <https://doi.org/10.1112/plms/s3-58.1.137>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ du.miao.ea:15:packing
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spl.2015.07.020}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spl.2015.07.020>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

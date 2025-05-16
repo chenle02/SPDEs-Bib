@@ -25,7 +25,7 @@ gao.quastel:03:moderate
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1360/02ys0114}>`__
+`The URL link to the source <https://doi.org/10.1360/02ys0114>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ goldys.le.ea:16:finite
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2015.09.012}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2015.09.012>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

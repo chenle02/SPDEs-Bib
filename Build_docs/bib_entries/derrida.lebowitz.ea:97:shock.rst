@@ -26,7 +26,7 @@ derrida.lebowitz.ea:97:shock
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02770758}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02770758>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

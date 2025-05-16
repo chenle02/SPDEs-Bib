@@ -18,7 +18,7 @@ chen:23:financial
     year = {2023}
    }
 
-`The URL link to the source <ttps://github.com/chenle02/Open_Slides_Financial_Mathematics}>`__
+`The URL link to the source <https://github.com/chenle02/Open_Slides_Financial_Mathematics>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

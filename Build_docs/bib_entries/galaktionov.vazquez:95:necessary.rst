@@ -26,7 +26,7 @@ galaktionov.vazquez:95:necessary
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF00383674}>`__
+`The URL link to the source <https://doi.org/10.1007/BF00383674>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

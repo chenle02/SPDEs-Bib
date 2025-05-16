@@ -24,7 +24,7 @@ fang.zeitouni:10:consistent
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v15-1533}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v15-1533>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ baik.deift.ea:01:optimal
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.4310/ATMP.2001.v5.n6.a7}>`__
+`The URL link to the source <https://doi.org/10.4310/ATMP.2001.v5.n6.a7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

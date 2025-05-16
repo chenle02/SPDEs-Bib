@@ -24,7 +24,7 @@ caruana.friz:09:partial
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2009.01.026}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2009.01.026>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

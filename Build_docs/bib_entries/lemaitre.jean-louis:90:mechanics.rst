@@ -17,7 +17,7 @@ lemaitre.jean-louis:90:mechanics
     year = {1990}
    }
 
-`The URL link to the source <ttps://cir.nii.ac.jp/crid/1360011145309511936}>`__
+`The URL link to the source <https://cir.nii.ac.jp/crid/1360011145309511936>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

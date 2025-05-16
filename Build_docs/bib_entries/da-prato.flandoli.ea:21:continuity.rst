@@ -27,7 +27,7 @@ da-prato.flandoli.ea:21:continuity
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-020-00173-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-020-00173-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

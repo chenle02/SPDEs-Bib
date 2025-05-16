@@ -23,7 +23,7 @@ goldys.peszat:23:linear
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2023.03.003}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2023.03.003>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

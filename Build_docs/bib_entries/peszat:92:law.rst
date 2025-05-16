@@ -25,7 +25,7 @@ peszat:92:law
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm-101-3-269-284}>`__
+`The URL link to the source <https://doi.org/10.4064/sm-101-3-269-284>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

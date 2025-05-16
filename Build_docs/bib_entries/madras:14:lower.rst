@@ -26,7 +26,7 @@ madras:14:lower
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.4153/CMB-2012-022-6}>`__
+`The URL link to the source <https://doi.org/10.4153/CMB-2012-022-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

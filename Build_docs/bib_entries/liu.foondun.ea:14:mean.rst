@@ -24,7 +24,7 @@ liu.foondun.ea:14:mean
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spl.2014.06.002}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spl.2014.06.002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

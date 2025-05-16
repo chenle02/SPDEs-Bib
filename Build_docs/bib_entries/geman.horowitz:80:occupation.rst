@@ -23,7 +23,7 @@ geman.horowitz:80:occupation
     year = {1980}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198002)8:1<1:OD>2.0.CO;2-M&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198002)8:1<1:OD>2.0.CO;2-M&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

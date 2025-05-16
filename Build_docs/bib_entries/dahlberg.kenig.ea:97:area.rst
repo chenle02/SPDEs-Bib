@@ -25,7 +25,7 @@ dahlberg.kenig.ea:97:area
     year = {1997}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIF_1997__47_5_1425_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIF_1997__47_5_1425_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

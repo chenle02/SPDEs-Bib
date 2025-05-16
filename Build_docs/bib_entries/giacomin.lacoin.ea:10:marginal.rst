@@ -24,7 +24,7 @@ giacomin.lacoin.ea:10:marginal
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.20301}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.20301>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

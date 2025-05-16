@@ -25,7 +25,7 @@ bourgain.lindenstrauss.ea:09:some
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/S0143385708000898}>`__
+`The URL link to the source <https://doi.org/10.1017/S0143385708000898>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

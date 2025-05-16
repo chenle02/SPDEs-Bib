@@ -23,7 +23,7 @@ bourgain.lewko:17:sidonicity
     year = {2017}
    }
 
-`The URL link to the source <ttp://aif.cedram.org/item?id=AIF_2017__67_3_1321_0}>`__
+`The URL link to the source <http://aif.cedram.org/item?id=AIF_2017__67_3_1321_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ bou-rabee.hairer:13:nonasymptotic
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/imanum/drs003}>`__
+`The URL link to the source <https://doi.org/10.1093/imanum/drs003>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

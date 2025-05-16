@@ -17,7 +17,7 @@ liu.hu.ea:23:stochastic
     year = {2023}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2305.02425}>`__
+`The URL link to the source <http://arXiv.org/abs/2305.02425>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

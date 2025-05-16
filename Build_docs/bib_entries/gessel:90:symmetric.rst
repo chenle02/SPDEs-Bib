@@ -24,7 +24,7 @@ gessel:90:symmetric
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0097-3165(90)90060-A}>`__
+`The URL link to the source <https://doi.org/10.1016/0097-3165(90)90060-A>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

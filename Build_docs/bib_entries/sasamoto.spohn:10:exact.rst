@@ -26,7 +26,7 @@ sasamoto.spohn:10:exact
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.nuclphysb.2010.03.026}>`__
+`The URL link to the source <https://doi.org/10.1016/j.nuclphysb.2010.03.026>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

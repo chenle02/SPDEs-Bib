@@ -25,7 +25,7 @@ cerrai.paskal:19:large
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/18-AAP1439}>`__
+`The URL link to the source <https://doi.org/10.1214/18-AAP1439>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

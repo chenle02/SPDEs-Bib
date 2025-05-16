@@ -25,7 +25,7 @@ bovier.klimovsky:08:fluctuations
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1063/1.2962982}>`__
+`The URL link to the source <https://doi.org/10.1063/1.2962982>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

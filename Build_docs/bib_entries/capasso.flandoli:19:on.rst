@@ -24,7 +24,7 @@ capasso.flandoli:19:on
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/s0956792518000347}>`__
+`The URL link to the source <https://doi.org/10.1017/s0956792518000347>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

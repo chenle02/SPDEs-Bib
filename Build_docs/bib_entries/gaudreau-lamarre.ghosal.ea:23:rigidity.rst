@@ -23,7 +23,7 @@ gaudreau-lamarre.ghosal.ea:23:rigidity
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/imrn/rnac265}>`__
+`The URL link to the source <https://doi.org/10.1093/imrn/rnac265>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

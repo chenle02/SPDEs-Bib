@@ -26,7 +26,7 @@ osgood:98:beweis
     year = {1898}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01707876}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01707876>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

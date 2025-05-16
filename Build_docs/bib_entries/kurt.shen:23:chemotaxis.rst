@@ -25,7 +25,7 @@ kurt.shen:23:chemotaxis
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.nonrwa.2022.103762}>`__
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2022.103762>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

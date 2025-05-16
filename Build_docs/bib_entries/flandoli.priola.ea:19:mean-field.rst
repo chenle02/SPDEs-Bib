@@ -25,7 +25,7 @@ flandoli.priola.ea:19:mean-field
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2019126}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2019126>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ melo.poonen.ea:15:work
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/noti1317}>`__
+`The URL link to the source <https://doi.org/10.1090/noti1317>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

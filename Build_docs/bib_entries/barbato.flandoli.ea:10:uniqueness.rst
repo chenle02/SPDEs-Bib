@@ -24,7 +24,7 @@ barbato.flandoli.ea:10:uniqueness
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0002-9939-10-10318-9}>`__
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-10-10318-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

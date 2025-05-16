@@ -25,7 +25,7 @@ fuest:20:blow-up
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1361-6544/ab7294}>`__
+`The URL link to the source <https://doi.org/10.1088/1361-6544/ab7294>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

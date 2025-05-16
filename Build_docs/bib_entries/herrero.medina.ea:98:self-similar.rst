@@ -23,7 +23,7 @@ herrero.medina.ea:98:self-similar
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0377-0427(98)00104-6}>`__
+`The URL link to the source <https://doi.org/10.1016/S0377-0427(98)00104-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ mckean:63:winding
     year = {1963}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/kjm/1250524936}>`__
+`The URL link to the source <https://doi.org/10.1215/kjm/1250524936>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

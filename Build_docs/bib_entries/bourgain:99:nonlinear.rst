@@ -25,7 +25,7 @@ bourgain:99:nonlinear
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/coll/046}>`__
+`The URL link to the source <https://doi.org/10.1090/coll/046>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

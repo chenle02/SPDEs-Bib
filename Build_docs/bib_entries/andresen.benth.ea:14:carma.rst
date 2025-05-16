@@ -25,7 +25,7 @@ andresen.benth.ea:14:carma
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219024914500083}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219024914500083>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

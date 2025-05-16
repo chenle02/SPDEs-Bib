@@ -22,7 +22,7 @@ fukai.takeuchi:17:kardar-parisi-zhang
     year = {2017}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevLett.119.030602}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.119.030602>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

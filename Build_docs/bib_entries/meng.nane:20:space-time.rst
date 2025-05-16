@@ -24,7 +24,7 @@ meng.nane:20:space-time
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1515/fca-2020-0009}>`__
+`The URL link to the source <https://doi.org/10.1515/fca-2020-0009>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

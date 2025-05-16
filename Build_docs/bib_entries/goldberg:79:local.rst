@@ -23,7 +23,7 @@ goldberg:79:local
     year = {1979}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.dmj/1077313253}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077313253>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

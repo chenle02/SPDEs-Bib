@@ -25,7 +25,7 @@ corwin.oconnell.ea:14:tropical
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/00127094-2410289}>`__
+`The URL link to the source <https://doi.org/10.1215/00127094-2410289>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

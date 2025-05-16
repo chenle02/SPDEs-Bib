@@ -24,7 +24,7 @@ bouchaud.georges:90:anomalous
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0370-1573(90)90099-N}>`__
+`The URL link to the source <https://doi.org/10.1016/0370-1573(90)90099-N>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

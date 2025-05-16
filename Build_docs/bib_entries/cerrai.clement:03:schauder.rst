@@ -25,7 +25,7 @@ cerrai.clement:03:schauder
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0007-4497(03)00058-7}>`__
+`The URL link to the source <https://doi.org/10.1016/S0007-4497(03)00058-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

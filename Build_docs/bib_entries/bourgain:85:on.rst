@@ -23,7 +23,7 @@ bourgain:85:on
     year = {1985}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIF_1985__35_4_163_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIF_1985__35_4_163_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

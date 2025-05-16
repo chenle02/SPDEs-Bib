@@ -25,7 +25,7 @@ rosinski.zak:96:simple
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0304-4149(95)00083-6}>`__
+`The URL link to the source <https://doi.org/10.1016/0304-4149(95)00083-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

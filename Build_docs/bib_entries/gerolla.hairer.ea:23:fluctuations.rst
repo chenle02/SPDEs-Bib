@@ -17,7 +17,7 @@ gerolla.hairer.ea:23:fluctuations
     year = {2023}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2303.09811}>`__
+`The URL link to the source <http://arXiv.org/abs/2303.09811>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

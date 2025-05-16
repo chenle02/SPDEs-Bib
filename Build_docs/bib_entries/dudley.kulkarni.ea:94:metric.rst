@@ -26,7 +26,7 @@ dudley.kulkarni.ea:94:metric
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1109/18.335898}>`__
+`The URL link to the source <https://doi.org/10.1109/18.335898>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

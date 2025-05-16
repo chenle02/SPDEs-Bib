@@ -26,7 +26,7 @@ brezin.zee:93:universality
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0550-3213(93)90121-5}>`__
+`The URL link to the source <https://doi.org/10.1016/0550-3213(93)90121-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ da-prato.flandoli.ea:19:absolutely
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.matpur.2019.06.010}>`__
+`The URL link to the source <https://doi.org/10.1016/j.matpur.2019.06.010>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

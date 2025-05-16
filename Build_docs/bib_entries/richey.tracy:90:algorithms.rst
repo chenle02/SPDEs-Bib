@@ -27,7 +27,7 @@ richey.tracy:90:algorithms
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0550-3213(90)90127-Y}>`__
+`The URL link to the source <https://doi.org/10.1016/0550-3213(90)90127-Y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

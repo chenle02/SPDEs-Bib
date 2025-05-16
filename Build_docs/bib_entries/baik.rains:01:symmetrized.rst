@@ -23,7 +23,7 @@ baik.rains:01:symmetrized
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.2977/prims/1145475964}>`__
+`The URL link to the source <https://doi.org/10.2977/prims/1145475964>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

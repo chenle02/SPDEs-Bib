@@ -26,7 +26,7 @@ deift.its.ea:13:toeplitz
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.21467}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.21467>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

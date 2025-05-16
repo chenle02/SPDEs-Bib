@@ -24,7 +24,7 @@ pardoux.protter:90:stochastic
     year = {1990}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(199010)18:4<1635:SVEWAC>2.0.CO;2-9&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199010)18:4<1635:SVEWAC>2.0.CO;2-9&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

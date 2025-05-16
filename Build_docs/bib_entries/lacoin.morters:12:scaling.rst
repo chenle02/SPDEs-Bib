@@ -25,7 +25,7 @@ lacoin.morters:12:scaling
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-642-23811-6_10}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-642-23811-6_10>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

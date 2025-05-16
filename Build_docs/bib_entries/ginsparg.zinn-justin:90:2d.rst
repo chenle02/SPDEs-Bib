@@ -25,7 +25,7 @@ ginsparg.zinn-justin:90:2d
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0370-2693(90)91108-N}>`__
+`The URL link to the source <https://doi.org/10.1016/0370-2693(90)91108-N>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

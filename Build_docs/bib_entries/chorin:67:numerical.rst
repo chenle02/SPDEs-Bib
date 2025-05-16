@@ -24,7 +24,7 @@ chorin:67:numerical
     year = {1967}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0021-9991(67)90037-X}>`__
+`The URL link to the source <https://doi.org/10.1016/0021-9991(67)90037-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

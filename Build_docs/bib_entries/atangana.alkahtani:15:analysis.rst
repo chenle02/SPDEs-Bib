@@ -24,7 +24,7 @@ atangana.alkahtani:15:analysis
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.3390/e17064439}>`__
+`The URL link to the source <https://doi.org/10.3390/e17064439>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

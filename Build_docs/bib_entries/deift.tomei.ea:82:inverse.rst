@@ -24,7 +24,7 @@ deift.tomei.ea:82:inverse
     year = {1982}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.3160350502}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.3160350502>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

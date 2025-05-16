@@ -25,7 +25,7 @@ black.lankeit.ea:20:stabilization
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/00036811.2019.1585534}>`__
+`The URL link to the source <https://doi.org/10.1080/00036811.2019.1585534>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

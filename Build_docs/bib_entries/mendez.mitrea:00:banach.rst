@@ -25,7 +25,7 @@ mendez.mitrea:00:banach
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02511543}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02511543>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

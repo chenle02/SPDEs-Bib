@@ -16,7 +16,7 @@ chen:16:third
     year = {2016}
    }
 
-`The URL link to the source <ttps://www.arxiv.org/abs/1609.01005}>`__
+`The URL link to the source <https://www.arxiv.org/abs/1609.01005>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

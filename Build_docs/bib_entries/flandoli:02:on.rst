@@ -26,7 +26,7 @@ flandoli:02:on
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0246-0203(01)01092-5}>`__
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(01)01092-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

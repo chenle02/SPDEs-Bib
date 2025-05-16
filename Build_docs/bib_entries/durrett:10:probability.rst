@@ -24,7 +24,7 @@ durrett:10:probability
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9780511779398}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9780511779398>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

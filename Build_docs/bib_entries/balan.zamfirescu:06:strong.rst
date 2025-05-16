@@ -24,7 +24,7 @@ balan.zamfirescu:06:strong
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v11-1175}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v11-1175>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

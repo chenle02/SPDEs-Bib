@@ -23,7 +23,7 @@ ney.spitzer:66:martin
     year = {1966}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/1994335}>`__
+`The URL link to the source <https://doi.org/10.2307/1994335>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

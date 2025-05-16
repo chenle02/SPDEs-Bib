@@ -25,7 +25,7 @@ cerrai.salins:14:smoluchowski-kramers
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.3233/asy-141220}>`__
+`The URL link to the source <https://doi.org/10.3233/asy-141220>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

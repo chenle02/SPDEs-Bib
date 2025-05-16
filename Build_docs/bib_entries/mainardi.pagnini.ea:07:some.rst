@@ -25,7 +25,7 @@ mainardi.pagnini.ea:07:some
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.amc.2006.08.126}>`__
+`The URL link to the source <https://doi.org/10.1016/j.amc.2006.08.126>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ edgar.sucheston:92:stopping
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9780511574740}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9780511574740>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

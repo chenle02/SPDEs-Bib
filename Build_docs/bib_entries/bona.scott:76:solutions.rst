@@ -24,7 +24,7 @@ bona.scott:76:solutions
     year = {1976}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.dmj/1077311492}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077311492>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

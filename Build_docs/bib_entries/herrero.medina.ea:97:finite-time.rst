@@ -24,7 +24,7 @@ herrero.medina.ea:97:finite-time
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/0951-7715/10/6/016}>`__
+`The URL link to the source <https://doi.org/10.1088/0951-7715/10/6/016>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

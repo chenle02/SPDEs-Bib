@@ -23,7 +23,7 @@ foulis:60:baer
     year = {1960}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2034727}>`__
+`The URL link to the source <https://doi.org/10.2307/2034727>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

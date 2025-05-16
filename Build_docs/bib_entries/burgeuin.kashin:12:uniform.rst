@@ -25,7 +25,7 @@ burgeuin.kashin:12:uniform
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1070/SM2012v203n12ABEH004285}>`__
+`The URL link to the source <https://doi.org/10.1070/SM2012v203n12ABEH004285>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,7 @@ henkel:99:conformal
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-662-03937-3}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-662-03937-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

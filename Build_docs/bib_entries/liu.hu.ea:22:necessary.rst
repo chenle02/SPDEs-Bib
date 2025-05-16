@@ -17,7 +17,7 @@ liu.hu.ea:22:necessary
     year = {2022}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2206.02641}>`__
+`The URL link to the source <http://arXiv.org/abs/2206.02641>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

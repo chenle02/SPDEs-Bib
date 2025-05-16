@@ -25,7 +25,7 @@ nualart.schoutens:00:chaotic
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0304-4149(00)00035-1}>`__
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(00)00035-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

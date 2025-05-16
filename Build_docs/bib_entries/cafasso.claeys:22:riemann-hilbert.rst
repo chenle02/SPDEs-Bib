@@ -24,7 +24,7 @@ cafasso.claeys:22:riemann-hilbert
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.21978}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.21978>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

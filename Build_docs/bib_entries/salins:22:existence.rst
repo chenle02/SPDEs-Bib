@@ -25,7 +25,7 @@ salins:22:existence
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219493722500149}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219493722500149>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

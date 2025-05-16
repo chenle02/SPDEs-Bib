@@ -24,7 +24,7 @@ gubinelli.perkowski:18:energy
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/jams/889}>`__
+`The URL link to the source <https://doi.org/10.1090/jams/889>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

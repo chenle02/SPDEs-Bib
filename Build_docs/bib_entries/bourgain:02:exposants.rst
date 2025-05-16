@@ -25,7 +25,7 @@ bourgain:02:exposants
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S1631-073X(02)02525-6}>`__
+`The URL link to the source <https://doi.org/10.1016/S1631-073X(02)02525-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

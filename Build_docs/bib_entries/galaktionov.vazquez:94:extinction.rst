@@ -25,7 +25,7 @@ galaktionov.vazquez:94:extinction
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/03605309408821046}>`__
+`The URL link to the source <https://doi.org/10.1080/03605309408821046>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

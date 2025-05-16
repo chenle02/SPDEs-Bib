@@ -25,7 +25,7 @@ nane.ni:17:stability
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/proc/13447}>`__
+`The URL link to the source <https://doi.org/10.1090/proc/13447>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

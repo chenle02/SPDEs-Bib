@@ -24,7 +24,7 @@ hu:11:enlargement
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0252-9602(11)60352-4}>`__
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(11)60352-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

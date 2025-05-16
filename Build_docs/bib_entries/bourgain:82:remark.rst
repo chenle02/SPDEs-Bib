@@ -25,7 +25,7 @@ bourgain:82:remark
     year = {1982}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm-72-3-285-289}>`__
+`The URL link to the source <https://doi.org/10.4064/sm-72-3-285-289>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

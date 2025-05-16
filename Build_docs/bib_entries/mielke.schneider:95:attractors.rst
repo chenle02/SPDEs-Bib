@@ -23,7 +23,7 @@ mielke.schneider:95:attractors
     year = {1995}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0951-7715/8/743}>`__
+`The URL link to the source <http://stacks.iop.org/0951-7715/8/743>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

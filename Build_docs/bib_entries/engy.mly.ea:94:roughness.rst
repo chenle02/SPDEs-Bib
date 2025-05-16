@@ -23,7 +23,7 @@ engy.mly.ea:94:roughness
     year = {1994}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevLett.73.834}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.73.834>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

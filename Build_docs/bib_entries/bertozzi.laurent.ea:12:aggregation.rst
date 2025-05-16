@@ -26,7 +26,7 @@ bertozzi.laurent.ea:12:aggregation
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0218202511400057}>`__
+`The URL link to the source <https://doi.org/10.1142/S0218202511400057>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

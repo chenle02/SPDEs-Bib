@@ -24,7 +24,7 @@ bourgain:98:refinements
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1155/S1073792898000191}>`__
+`The URL link to the source <https://doi.org/10.1155/S1073792898000191>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

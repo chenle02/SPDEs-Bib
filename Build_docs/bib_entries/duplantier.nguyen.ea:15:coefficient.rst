@@ -27,7 +27,7 @@ duplantier.nguyen.ea:15:coefficient
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00023-014-0351-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s00023-014-0351-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

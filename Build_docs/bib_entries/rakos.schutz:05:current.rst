@@ -25,7 +25,7 @@ rakos.schutz:05:current
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-004-8819-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-004-8819-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

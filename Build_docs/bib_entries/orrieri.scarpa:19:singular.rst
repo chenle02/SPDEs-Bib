@@ -25,7 +25,7 @@ orrieri.scarpa:19:singular
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2018.10.007}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2018.10.007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

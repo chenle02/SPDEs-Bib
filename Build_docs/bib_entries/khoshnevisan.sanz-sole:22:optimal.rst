@@ -16,7 +16,7 @@ khoshnevisan.sanz-sole:22:optimal
     year = {2022}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2208.01728}>`__
+`The URL link to the source <http://arXiv.org/abs/2208.01728>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

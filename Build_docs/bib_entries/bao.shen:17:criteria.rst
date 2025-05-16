@@ -26,7 +26,7 @@ bao.shen:17:criteria
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/proc/13602}>`__
+`The URL link to the source <https://doi.org/10.1090/proc/13602>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ mierczynski.shen:05:faber-krahn
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/cpaa.2005.4.101}>`__
+`The URL link to the source <https://doi.org/10.3934/cpaa.2005.4.101>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

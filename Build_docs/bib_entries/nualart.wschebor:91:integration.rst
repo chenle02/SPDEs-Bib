@@ -25,7 +25,7 @@ nualart.wschebor:91:integration
     year = {1991}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01321135}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01321135>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

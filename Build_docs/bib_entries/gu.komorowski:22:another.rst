@@ -17,7 +17,7 @@ gu.komorowski:22:another
     year = {2022}
    }
 
-`The URL link to the source <ttps://www.arxiv.org/abs/2203.03733}>`__
+`The URL link to the source <https://www.arxiv.org/abs/2203.03733>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

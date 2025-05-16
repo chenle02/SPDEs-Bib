@@ -25,7 +25,7 @@ bass.burdzy.ea:94:intersection
     year = {1994}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(199404)22:2<566:ILTFPO>2.0.CO;2-R&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199404)22:2<566:ILTFPO>2.0.CO;2-R&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

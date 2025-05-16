@@ -24,7 +24,7 @@ bourgain:84:dimension
     year = {1984}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02760630}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02760630>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

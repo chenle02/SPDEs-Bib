@@ -24,7 +24,7 @@ dunlap.gu:22:quenched
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2021.109372}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2021.109372>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ baudoin.nualart:05:corrigendum
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2004.11.002}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2004.11.002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

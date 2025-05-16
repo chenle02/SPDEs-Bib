@@ -24,7 +24,7 @@ ghosal.mukherjee:20:joint
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/19-AOS1822}>`__
+`The URL link to the source <https://doi.org/10.1214/19-AOS1822>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

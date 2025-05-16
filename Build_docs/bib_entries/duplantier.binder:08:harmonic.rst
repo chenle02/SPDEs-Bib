@@ -27,7 +27,7 @@ duplantier.binder:08:harmonic
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.nuclphysb.2008.05.020}>`__
+`The URL link to the source <https://doi.org/10.1016/j.nuclphysb.2008.05.020>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

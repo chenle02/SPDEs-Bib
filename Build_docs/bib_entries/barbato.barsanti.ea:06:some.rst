@@ -24,7 +24,7 @@ barbato.barsanti.ea:06:some
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-006-9203-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-006-9203-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

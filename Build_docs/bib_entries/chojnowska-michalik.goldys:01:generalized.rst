@@ -26,7 +26,7 @@ chojnowska-michalik.goldys:01:generalized
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jfan.2000.3722}>`__
+`The URL link to the source <https://doi.org/10.1006/jfan.2000.3722>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

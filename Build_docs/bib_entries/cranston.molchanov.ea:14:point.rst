@@ -23,7 +23,7 @@ cranston.molchanov.ea:14:point
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2013.10.033}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2013.10.033>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

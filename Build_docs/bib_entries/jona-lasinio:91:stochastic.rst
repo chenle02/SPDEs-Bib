@@ -25,7 +25,7 @@ jona-lasinio:91:stochastic
     year = {1991}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIHPA_1991__55_2_751_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIHPA_1991__55_2_751_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

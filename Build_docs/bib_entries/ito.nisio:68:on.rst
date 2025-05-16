@@ -23,7 +23,7 @@ ito.nisio:68:on
     year = {1968}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ojm/1200692040}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200692040>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

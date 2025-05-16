@@ -21,7 +21,7 @@ nane:12:fractional
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4614-0457-6_15}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4614-0457-6_15>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

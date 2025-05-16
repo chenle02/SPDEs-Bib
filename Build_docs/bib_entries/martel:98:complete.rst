@@ -26,7 +26,7 @@ martel:98:complete
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0294-1449(99)80002-X}>`__
+`The URL link to the source <https://doi.org/10.1016/S0294-1449(99)80002-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

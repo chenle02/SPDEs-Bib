@@ -25,7 +25,7 @@ benedetto.caglioti.ea:98:non-maxwellian
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1023032000560}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1023032000560>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

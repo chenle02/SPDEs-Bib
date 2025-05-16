@@ -26,7 +26,7 @@ lee.xiao:23:chung-type
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/22-bej1467}>`__
+`The URL link to the source <https://doi.org/10.3150/22-bej1467>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

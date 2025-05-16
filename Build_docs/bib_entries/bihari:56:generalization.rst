@@ -25,7 +25,7 @@ bihari:56:generalization
     year = {1956}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02022967}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02022967>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

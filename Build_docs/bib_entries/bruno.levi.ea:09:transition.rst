@@ -24,7 +24,7 @@ bruno.levi.ea:09:transition
     year = {2009}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevE.80.011912}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevE.80.011912>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

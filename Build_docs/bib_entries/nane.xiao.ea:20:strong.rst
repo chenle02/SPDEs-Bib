@@ -25,7 +25,7 @@ nane.xiao.ea:20:strong
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2019.123737}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2019.123737>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -27,7 +27,7 @@ aida.osaki.ea:05:chemotaxis
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.nonrwa.2004.08.011}>`__
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2004.08.011>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

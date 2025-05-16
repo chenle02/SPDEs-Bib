@@ -24,7 +24,7 @@ applebaum:09:levy
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9780511809781}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9780511809781>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

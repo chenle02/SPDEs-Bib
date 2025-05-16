@@ -25,7 +25,7 @@ ramirez.rider:08:shape
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10959-007-0105-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s10959-007-0105-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

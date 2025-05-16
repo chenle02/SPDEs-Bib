@@ -26,7 +26,7 @@ diejen:04:on
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00023-004-0163-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s00023-004-0163-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

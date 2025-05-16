@@ -25,7 +25,7 @@ lieb:83:sharp
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2007032}>`__
+`The URL link to the source <https://doi.org/10.2307/2007032>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

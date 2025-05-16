@@ -27,7 +27,7 @@ morien:99:holder
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/3318436}>`__
+`The URL link to the source <https://doi.org/10.2307/3318436>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

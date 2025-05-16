@@ -24,7 +24,7 @@ martin:04:small
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/B:JOTP.0000040294.12188.cd}>`__
+`The URL link to the source <https://doi.org/10.1023/B:JOTP.0000040294.12188.cd>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

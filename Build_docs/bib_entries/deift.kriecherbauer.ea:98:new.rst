@@ -25,7 +25,7 @@ deift.kriecherbauer.ea:98:new
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jath.1997.3229}>`__
+`The URL link to the source <https://doi.org/10.1006/jath.1997.3229>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ papini.flandoli.ea:23:turbulence
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.physd.2023.133726}>`__
+`The URL link to the source <https://doi.org/10.1016/j.physd.2023.133726>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

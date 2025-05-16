@@ -27,7 +27,7 @@ besalu.marquez-carreras.ea:21:existence
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442508.2020.1755288}>`__
+`The URL link to the source <https://doi.org/10.1080/17442508.2020.1755288>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

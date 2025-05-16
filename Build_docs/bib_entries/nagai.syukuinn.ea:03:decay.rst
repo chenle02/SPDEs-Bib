@@ -25,7 +25,7 @@ nagai.syukuinn.ea:03:decay
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1619/fesi.46.383}>`__
+`The URL link to the source <https://doi.org/10.1619/fesi.46.383>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -27,7 +27,7 @@ mainardi.pagnini:03:wright
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0096-3003(02)00320-X}>`__
+`The URL link to the source <https://doi.org/10.1016/S0096-3003(02)00320-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

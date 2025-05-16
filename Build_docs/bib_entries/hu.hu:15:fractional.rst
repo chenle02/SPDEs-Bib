@@ -19,7 +19,7 @@ hu.hu:15:fractional
     year = {2015}
    }
 
-`The URL link to the source <ttps://www.mdpi.com/2227-7390/3/2/131}>`__
+`The URL link to the source <https://www.mdpi.com/2227-7390/3/2/131>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

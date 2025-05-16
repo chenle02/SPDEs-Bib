@@ -26,7 +26,7 @@ levi.zeuituni.ea:09:central
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1134/S0032946009010025}>`__
+`The URL link to the source <https://doi.org/10.1134/S0032946009010025>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

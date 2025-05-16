@@ -24,7 +24,7 @@ delarue.menozzi.ea:15:landau
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v20-4012}>`__
+`The URL link to the source <https://doi.org/10.1214/EJP.v20-4012>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

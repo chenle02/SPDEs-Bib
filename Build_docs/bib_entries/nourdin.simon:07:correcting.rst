@@ -25,7 +25,7 @@ nourdin.simon:07:correcting
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/07-BEJ6015}>`__
+`The URL link to the source <https://doi.org/10.3150/07-BEJ6015>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

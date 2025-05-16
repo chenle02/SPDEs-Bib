@@ -24,7 +24,7 @@ derrida.hilhorst:83:singular
     year = {1983}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/16/2641}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/16/2641>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

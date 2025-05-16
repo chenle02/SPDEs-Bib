@@ -25,7 +25,7 @@ salins.spiliopoulos:17:rare
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-017-0100-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-017-0100-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

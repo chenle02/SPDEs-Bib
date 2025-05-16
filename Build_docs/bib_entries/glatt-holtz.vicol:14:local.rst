@@ -25,7 +25,7 @@ glatt-holtz.vicol:14:local
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/12-AOP773}>`__
+`The URL link to the source <https://doi.org/10.1214/12-AOP773>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

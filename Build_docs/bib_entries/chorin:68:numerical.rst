@@ -23,7 +23,7 @@ chorin:68:numerical
     year = {1968}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2004575}>`__
+`The URL link to the source <https://doi.org/10.2307/2004575>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

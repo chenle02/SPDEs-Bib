@@ -22,7 +22,7 @@ ito:44:stochastic
     year = {1944}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.pja/1195572786}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.pja/1195572786>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

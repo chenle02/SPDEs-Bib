@@ -24,7 +24,7 @@ brzezniak.goldys.ea:13:weak
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/amrx/abs009}>`__
+`The URL link to the source <https://doi.org/10.1093/amrx/abs009>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

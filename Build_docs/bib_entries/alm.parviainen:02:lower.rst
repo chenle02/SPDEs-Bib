@@ -25,7 +25,7 @@ alm.parviainen:02:lower
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/S0963548302005266}>`__
+`The URL link to the source <https://doi.org/10.1017/S0963548302005266>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

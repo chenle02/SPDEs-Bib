@@ -25,7 +25,7 @@ miettinen.myllys.ea:05:experimental
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1140/epjb/e2005-00235-y}>`__
+`The URL link to the source <https://doi.org/10.1140/epjb/e2005-00235-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ hu.peng:09:backward
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/070709451}>`__
+`The URL link to the source <https://doi.org/10.1137/070709451>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

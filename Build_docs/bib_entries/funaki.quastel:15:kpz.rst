@@ -26,7 +26,7 @@ funaki.quastel:15:kpz
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-015-0046-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-015-0046-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ bourgain:82:hausdorff-young
     year = {1982}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.pjm/1102724774}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102724774>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

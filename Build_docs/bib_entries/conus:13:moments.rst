@@ -24,7 +24,7 @@ conus:13:moments
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.31390/cosa.7.1.08}>`__
+`The URL link to the source <https://doi.org/10.31390/cosa.7.1.08>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

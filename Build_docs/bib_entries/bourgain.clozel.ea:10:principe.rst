@@ -24,7 +24,7 @@ bourgain.clozel.ea:10:principe
     year = {2010}
    }
 
-`The URL link to the source <ttp://aif.cedram.org/item?id=AIF_2010__60_4_1215_0}>`__
+`The URL link to the source <http://aif.cedram.org/item?id=AIF_2010__60_4_1215_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

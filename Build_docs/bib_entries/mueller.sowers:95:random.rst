@@ -24,7 +24,7 @@ mueller.sowers:95:random
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jfan.1995.1038}>`__
+`The URL link to the source <https://doi.org/10.1006/jfan.1995.1038>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

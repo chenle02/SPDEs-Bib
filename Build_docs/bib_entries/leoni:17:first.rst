@@ -23,7 +23,7 @@ leoni:17:first
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/gsm/181}>`__
+`The URL link to the source <https://doi.org/10.1090/gsm/181>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

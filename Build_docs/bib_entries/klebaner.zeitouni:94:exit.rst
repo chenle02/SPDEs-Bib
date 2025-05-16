@@ -24,7 +24,7 @@ klebaner.zeitouni:94:exit
     year = {1994}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=1050-5164(199411)4:4<1188:TEPFAC>2.0.CO;2-E&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=1050-5164(199411)4:4<1188:TEPFAC>2.0.CO;2-E&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ dembo.zeitouni:98:large
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4612-5320-4}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-5320-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ gardner.derrida:89:probability
     year = {1989}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/22/1975}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/22/1975>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

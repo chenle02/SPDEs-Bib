@@ -25,7 +25,7 @@ kolwankar.gangal:96:fractional
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1063/1.166197}>`__
+`The URL link to the source <https://doi.org/10.1063/1.166197>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ burkholder:66:martingale
     year = {1966}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aoms/1177699141}>`__
+`The URL link to the source <https://doi.org/10.1214/aoms/1177699141>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

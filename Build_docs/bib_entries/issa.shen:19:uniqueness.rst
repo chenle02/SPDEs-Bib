@@ -25,7 +25,7 @@ issa.shen:19:uniqueness
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10884-018-9706-7}>`__
+`The URL link to the source <https://doi.org/10.1007/s10884-018-9706-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ bourgain:89:homogeneous
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02764988}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02764988>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

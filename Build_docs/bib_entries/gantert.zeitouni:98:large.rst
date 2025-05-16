@@ -25,7 +25,7 @@ gantert.zeitouni:98:large
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0246-0203(98)80004-6}>`__
+`The URL link to the source <https://doi.org/10.1016/S0246-0203(98)80004-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

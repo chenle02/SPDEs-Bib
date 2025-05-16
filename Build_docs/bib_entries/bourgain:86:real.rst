@@ -25,7 +25,7 @@ bourgain:86:real
     year = {1986}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2046157}>`__
+`The URL link to the source <https://doi.org/10.2307/2046157>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

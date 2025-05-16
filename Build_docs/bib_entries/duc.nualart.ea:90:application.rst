@@ -25,7 +25,7 @@ duc.nualart.ea:90:application
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01198319}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01198319>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

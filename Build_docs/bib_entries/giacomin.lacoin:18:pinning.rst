@@ -25,7 +25,7 @@ giacomin.lacoin:18:pinning
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.4171/JEMS/764}>`__
+`The URL link to the source <https://doi.org/10.4171/JEMS/764>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

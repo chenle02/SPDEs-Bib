@@ -24,7 +24,7 @@ bass.khoshnevisan:95:laws
     year = {1995}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(199501)23:1<388:LOTILF>2.0.CO;2-0&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199501)23:1<388:LOTILF>2.0.CO;2-0&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

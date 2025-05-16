@@ -24,7 +24,7 @@ dembo.peres.ea:99:thick
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v4-47}>`__
+`The URL link to the source <https://doi.org/10.1214/EJP.v4-47>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

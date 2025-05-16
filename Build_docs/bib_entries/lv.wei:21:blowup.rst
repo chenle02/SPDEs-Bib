@@ -24,7 +24,7 @@ lv.wei:21:blowup
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.aml.2021.107475}>`__
+`The URL link to the source <https://doi.org/10.1016/j.aml.2021.107475>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

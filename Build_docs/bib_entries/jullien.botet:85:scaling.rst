@@ -21,7 +21,7 @@ jullien.botet:85:scaling
     year = {1985}
    }
 
-`The URL link to the source <ttps://dx.doi.org/10.1088/0305-4470/18/12/026}>`__
+`The URL link to the source <https://dx.doi.org/10.1088/0305-4470/18/12/026>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

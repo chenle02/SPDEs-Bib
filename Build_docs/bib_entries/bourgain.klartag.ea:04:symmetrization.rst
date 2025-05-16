@@ -24,7 +24,7 @@ bourgain.klartag.ea:04:symmetrization
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-540-44489-3_10}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-540-44489-3_10>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ rhodes.vargas:14:gaussian
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/13-PS218}>`__
+`The URL link to the source <https://doi.org/10.1214/13-PS218>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

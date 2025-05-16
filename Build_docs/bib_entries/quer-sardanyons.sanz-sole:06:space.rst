@@ -27,7 +27,7 @@ quer-sardanyons.sanz-sole:06:space
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11118-005-9002-0}>`__
+`The URL link to the source <https://doi.org/10.1007/s11118-005-9002-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

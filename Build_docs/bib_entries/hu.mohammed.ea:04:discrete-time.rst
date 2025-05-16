@@ -25,7 +25,7 @@ hu.mohammed.ea:04:discrete-time
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1078415836}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1078415836>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

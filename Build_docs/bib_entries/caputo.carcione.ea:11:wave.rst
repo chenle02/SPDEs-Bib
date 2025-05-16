@@ -22,7 +22,7 @@ caputo.carcione.ea:11:wave
     year = {2011}
    }
 
-`The URL link to the source <ttps://www.sciencedirect.com/science/article/pii/S0301562911001578}>`__
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0301562911001578>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

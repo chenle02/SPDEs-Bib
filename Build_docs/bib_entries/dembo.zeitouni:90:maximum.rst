@@ -25,7 +25,7 @@ dembo.zeitouni:90:maximum
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0047-259X(90)90022-A}>`__
+`The URL link to the source <https://doi.org/10.1016/0047-259X(90)90022-A>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ angenent.tannenbaum.ea:06:curve
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/0-8176-4481-4_12}>`__
+`The URL link to the source <https://doi.org/10.1007/0-8176-4481-4_12>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

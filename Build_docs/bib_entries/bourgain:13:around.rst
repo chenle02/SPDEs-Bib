@@ -24,7 +24,7 @@ bourgain:13:around
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-642-39286-3_4}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-642-39286-3_4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

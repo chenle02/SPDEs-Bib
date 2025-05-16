@@ -25,7 +25,7 @@ lin.zhang:00:on
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2000.6.121}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2000.6.121>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

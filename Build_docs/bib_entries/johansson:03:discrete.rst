@@ -24,7 +24,7 @@ johansson:03:discrete
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-003-0945-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-003-0945-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

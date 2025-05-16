@@ -24,7 +24,7 @@ kim.lubetzky.ea:23:maximum
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/22-aap1848}>`__
+`The URL link to the source <https://doi.org/10.1214/22-aap1848>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

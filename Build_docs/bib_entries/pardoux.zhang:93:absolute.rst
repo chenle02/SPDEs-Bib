@@ -25,7 +25,7 @@ pardoux.zhang:93:absolute
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jfan.1993.1040}>`__
+`The URL link to the source <https://doi.org/10.1006/jfan.1993.1040>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

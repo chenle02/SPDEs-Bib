@@ -24,7 +24,7 @@ duplantier.sheffield:09:duality
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevLett.102.150603}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.102.150603>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

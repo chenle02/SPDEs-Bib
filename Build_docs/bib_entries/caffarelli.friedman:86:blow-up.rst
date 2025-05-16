@@ -24,7 +24,7 @@ caffarelli.friedman:86:blow-up
     year = {1986}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2000465}>`__
+`The URL link to the source <https://doi.org/10.2307/2000465>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

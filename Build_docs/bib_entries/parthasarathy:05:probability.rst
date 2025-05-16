@@ -21,7 +21,7 @@ parthasarathy:05:probability
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/chel/352}>`__
+`The URL link to the source <https://doi.org/10.1090/chel/352>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

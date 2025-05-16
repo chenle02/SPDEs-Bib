@@ -24,7 +24,7 @@ schmidt.spitzer:60:toeplitz
     year = {1960}
    }
 
-`The URL link to the source <ttps://doi.org/10.7146/math.scand.a-10588}>`__
+`The URL link to the source <https://doi.org/10.7146/math.scand.a-10588>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ bevilacqua.flandoli:14:occupation
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2014.04.014}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2014.04.014>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

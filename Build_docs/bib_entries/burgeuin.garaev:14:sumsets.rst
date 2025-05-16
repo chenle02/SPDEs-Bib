@@ -26,7 +26,7 @@ burgeuin.garaev:14:sumsets
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1070/im2014v078n04abeh002703}>`__
+`The URL link to the source <https://doi.org/10.1070/im2014v078n04abeh002703>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

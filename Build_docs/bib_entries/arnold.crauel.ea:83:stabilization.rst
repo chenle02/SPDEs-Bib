@@ -24,7 +24,7 @@ arnold.crauel.ea:83:stabilization
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/0321027}>`__
+`The URL link to the source <https://doi.org/10.1137/0321027>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

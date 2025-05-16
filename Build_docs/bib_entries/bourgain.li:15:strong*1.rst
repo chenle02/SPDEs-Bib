@@ -25,7 +25,7 @@ bourgain.li:15:strong*1
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00039-015-0311-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s00039-015-0311-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

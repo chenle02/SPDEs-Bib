@@ -25,7 +25,7 @@ hu.nualart.ea:11:malliavin
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/11-AAP762}>`__
+`The URL link to the source <https://doi.org/10.1214/11-AAP762>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

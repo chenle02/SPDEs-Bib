@@ -23,7 +23,7 @@ anderson:63:asymptotic
     year = {1963}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aoms/1177704248}>`__
+`The URL link to the source <https://doi.org/10.1214/aoms/1177704248>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

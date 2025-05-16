@@ -24,7 +24,7 @@ dieng:05:distribution
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1155/IMRN.2005.2263}>`__
+`The URL link to the source <https://doi.org/10.1155/IMRN.2005.2263>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

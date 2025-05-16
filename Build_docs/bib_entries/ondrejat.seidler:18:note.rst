@@ -25,7 +25,7 @@ ondrejat.seidler:18:note
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.14736/kyb-2018-5-0888}>`__
+`The URL link to the source <https://doi.org/10.14736/kyb-2018-5-0888>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

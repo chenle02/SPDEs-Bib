@@ -24,7 +24,7 @@ kesten:73:random
     year = {1973}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02392040}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02392040>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

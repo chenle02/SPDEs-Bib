@@ -23,7 +23,7 @@ patlak:53:random
     year = {1953}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/bf02476407}>`__
+`The URL link to the source <https://doi.org/10.1007/bf02476407>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

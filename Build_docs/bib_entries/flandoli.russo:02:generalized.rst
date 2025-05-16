@@ -24,7 +24,7 @@ flandoli.russo:02:generalized
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/10451120290008548}>`__
+`The URL link to the source <https://doi.org/10.1080/10451120290008548>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

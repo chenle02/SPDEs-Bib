@@ -23,7 +23,7 @@ kesten:59:full
     year = {1959}
    }
 
-`The URL link to the source <ttps://doi.org/10.7146/math.scand.a-10568}>`__
+`The URL link to the source <https://doi.org/10.7146/math.scand.a-10568>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

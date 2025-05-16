@@ -25,7 +25,7 @@ nakaguchi.yagi:02:fully
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.14492/hokmj/1350911871}>`__
+`The URL link to the source <https://doi.org/10.14492/hokmj/1350911871>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

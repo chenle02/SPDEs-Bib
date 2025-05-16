@@ -24,7 +24,7 @@ fuest:20:finite-time
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.nonrwa.2019.103022}>`__
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2019.103022>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ crisan.otobe.ea:15:inverse
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/0266-5611/31/1/015005}>`__
+`The URL link to the source <https://doi.org/10.1088/0266-5611/31/1/015005>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ ceyhan.nishino.ea:17:analysis
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.4310/SII.2017.v10.n2.a13}>`__
+`The URL link to the source <https://doi.org/10.4310/SII.2017.v10.n2.a13>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

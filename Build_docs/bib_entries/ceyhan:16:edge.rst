@@ -24,7 +24,7 @@ ceyhan:16:edge
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.stamet.2016.07.003}>`__
+`The URL link to the source <https://doi.org/10.1016/j.stamet.2016.07.003>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

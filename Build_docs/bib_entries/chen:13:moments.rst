@@ -20,7 +20,7 @@ chen:13:moments
     year = {2013}
    }
 
-`The URL link to the source <ttp://infoscience.epfl.ch/record/185885}>`__
+`The URL link to the source <http://infoscience.epfl.ch/record/185885>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

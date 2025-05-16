@@ -25,7 +25,7 @@ baudoin.hairer:07:version
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-006-0035-0}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-006-0035-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

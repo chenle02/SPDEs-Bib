@@ -25,7 +25,7 @@ lei.nualart:09:decomposition
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spl.2008.10.009}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spl.2008.10.009>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

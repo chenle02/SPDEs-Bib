@@ -25,7 +25,7 @@ hetzer.shen.ea:13:effects
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1216/RMJ-2013-43-2-489}>`__
+`The URL link to the source <https://doi.org/10.1216/RMJ-2013-43-2-489>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

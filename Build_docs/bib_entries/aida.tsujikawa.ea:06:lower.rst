@@ -27,7 +27,7 @@ aida.tsujikawa.ea:06:lower
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1112/S0024610706023015}>`__
+`The URL link to the source <https://doi.org/10.1112/S0024610706023015>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

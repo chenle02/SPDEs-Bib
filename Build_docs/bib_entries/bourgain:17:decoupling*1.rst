@@ -25,7 +25,7 @@ bourgain:17:decoupling*1
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/jams/860}>`__
+`The URL link to the source <https://doi.org/10.1090/jams/860>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

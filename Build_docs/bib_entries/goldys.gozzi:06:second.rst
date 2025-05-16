@@ -25,7 +25,7 @@ goldys.gozzi:06:second
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2006.05.006}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2006.05.006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

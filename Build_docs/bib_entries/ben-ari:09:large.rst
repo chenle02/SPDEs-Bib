@@ -26,7 +26,7 @@ ben-ari:09:large
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/08-AIHP185}>`__
+`The URL link to the source <https://doi.org/10.1214/08-AIHP185>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

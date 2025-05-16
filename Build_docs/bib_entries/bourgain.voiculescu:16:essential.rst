@@ -27,7 +27,7 @@ bourgain.voiculescu:16:essential
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-319-29116-1_4}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-319-29116-1_4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

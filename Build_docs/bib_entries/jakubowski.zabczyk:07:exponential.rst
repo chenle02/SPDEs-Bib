@@ -23,7 +23,7 @@ jakubowski.zabczyk:07:exponential
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00780-007-0040-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s00780-007-0040-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

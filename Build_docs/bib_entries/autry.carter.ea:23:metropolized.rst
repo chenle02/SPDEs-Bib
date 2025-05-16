@@ -26,7 +26,7 @@ autry.carter.ea:23:metropolized
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/21M1418010}>`__
+`The URL link to the source <https://doi.org/10.1137/21M1418010>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

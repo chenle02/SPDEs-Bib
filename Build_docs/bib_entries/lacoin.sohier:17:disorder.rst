@@ -23,7 +23,7 @@ lacoin.sohier:17:disorder
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/17-EJP66}>`__
+`The URL link to the source <https://doi.org/10.1214/17-EJP66>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

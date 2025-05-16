@@ -26,7 +26,7 @@ hu.oksendal.ea:03:optimal
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219025703001432}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219025703001432>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

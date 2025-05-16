@@ -24,7 +24,7 @@ baiod.kessler.ea:88:dynamical
     year = {1988}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevA.38.3672}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.38.3672>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

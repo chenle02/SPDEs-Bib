@@ -25,7 +25,7 @@ peszat.zabczyk:97:stochastic
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0304-4149(97)00089-6}>`__
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(97)00089-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

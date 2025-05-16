@@ -25,7 +25,7 @@ barral.mensi:07:gibbs
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/S0143385706001027}>`__
+`The URL link to the source <https://doi.org/10.1017/S0143385706001027>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

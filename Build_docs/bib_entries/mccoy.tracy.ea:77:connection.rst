@@ -24,7 +24,7 @@ mccoy.tracy.ea:77:connection
     year = {1977}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0375-9601(77)90613-2}>`__
+`The URL link to the source <https://doi.org/10.1016/0375-9601(77)90613-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

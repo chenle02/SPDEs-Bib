@@ -26,7 +26,7 @@ duplantier.rhodes.ea:14:renormalization
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-014-2000-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-014-2000-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

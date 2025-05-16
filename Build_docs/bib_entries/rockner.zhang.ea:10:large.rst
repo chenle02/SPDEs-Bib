@@ -25,7 +25,7 @@ rockner.zhang.ea:10:large
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00245-009-9089-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s00245-009-9089-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

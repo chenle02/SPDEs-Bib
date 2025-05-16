@@ -25,7 +25,7 @@ chorin.mccracken.ea:78:product
     year = {1978}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.3160310205}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.3160310205>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

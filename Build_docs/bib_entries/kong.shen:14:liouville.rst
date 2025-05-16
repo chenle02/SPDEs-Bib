@@ -26,7 +26,7 @@ kong.shen:14:liouville
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10884-014-9351-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s10884-014-9351-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

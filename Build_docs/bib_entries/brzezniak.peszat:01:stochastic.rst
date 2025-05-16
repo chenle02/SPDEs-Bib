@@ -24,7 +24,7 @@ brzezniak.peszat:01:stochastic
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1015345773}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1015345773>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

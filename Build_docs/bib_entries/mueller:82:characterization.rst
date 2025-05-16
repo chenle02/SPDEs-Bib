@@ -24,7 +24,7 @@ mueller:82:characterization
     year = {1982}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm-72-1-47-57}>`__
+`The URL link to the source <https://doi.org/10.4064/sm-72-1-47-57>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

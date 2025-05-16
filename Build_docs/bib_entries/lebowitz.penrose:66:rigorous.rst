@@ -24,7 +24,7 @@ lebowitz.penrose:66:rigorous
     year = {1966}
    }
 
-`The URL link to the source <ttps://doi.org/10.1063/1.1704821}>`__
+`The URL link to the source <https://doi.org/10.1063/1.1704821>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

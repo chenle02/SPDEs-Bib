@@ -23,7 +23,7 @@ agram.hu.ea:22:mean-field
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.sysconle.2022.105196}>`__
+`The URL link to the source <https://doi.org/10.1016/j.sysconle.2022.105196>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

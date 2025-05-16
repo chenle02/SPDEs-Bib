@@ -18,7 +18,7 @@ chen:23:graduate
     year = {2023}
    }
 
-`The URL link to the source <ttps://github.com/chenle02/Graduate_Student_Seminars_by_Le_Chen}>`__
+`The URL link to the source <https://github.com/chenle02/Graduate_Student_Seminars_by_Le_Chen>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

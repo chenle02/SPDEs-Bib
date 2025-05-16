@@ -24,7 +24,7 @@ rhodes.vargas:09:scaling
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2009.10.004}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2009.10.004>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

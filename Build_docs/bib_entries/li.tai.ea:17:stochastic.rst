@@ -24,7 +24,7 @@ li.tai.ea:17:stochastic
     year = {2017}
    }
 
-`The URL link to the source <ttps://proceedings.mlr.press/v70/li17f.html}>`__
+`The URL link to the source <https://proceedings.mlr.press/v70/li17f.html>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

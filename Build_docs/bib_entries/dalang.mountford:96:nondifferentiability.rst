@@ -24,7 +24,7 @@ dalang.mountford:96:nondifferentiability
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1042644712}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1042644712>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

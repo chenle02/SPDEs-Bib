@@ -21,7 +21,7 @@ bogachev:07:measure
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-540-34514-5}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-540-34514-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

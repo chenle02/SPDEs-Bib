@@ -25,7 +25,7 @@ foondun.joseph.ea:18:approximation
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/17-AAP1376}>`__
+`The URL link to the source <https://doi.org/10.1214/17-AAP1376>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ beffara:04:hausdorff
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/009117904000000072}>`__
+`The URL link to the source <https://doi.org/10.1214/009117904000000072>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

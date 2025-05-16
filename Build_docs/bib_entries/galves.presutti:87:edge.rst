@@ -24,7 +24,7 @@ galves.presutti:87:edge
     year = {1987}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198707)15:3<1131:EFFTOD>2.0.CO;2-1&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198707)15:3<1131:EFFTOD>2.0.CO;2-1&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

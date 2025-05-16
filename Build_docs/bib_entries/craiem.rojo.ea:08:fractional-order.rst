@@ -22,7 +22,7 @@ craiem.rojo.ea:08:fractional-order
     year = {2008}
    }
 
-`The URL link to the source <ttps://dx.doi.org/10.1088/0031-9155/53/17/006}>`__
+`The URL link to the source <https://dx.doi.org/10.1088/0031-9155/53/17/006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

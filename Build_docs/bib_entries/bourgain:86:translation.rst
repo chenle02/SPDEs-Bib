@@ -23,7 +23,7 @@ bourgain:86:translation
     year = {1986}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIF_1986__36_1_97_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIF_1986__36_1_97_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

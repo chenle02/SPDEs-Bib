@@ -24,7 +24,7 @@ quastel:92:diffusion
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.3160450602}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.3160450602>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

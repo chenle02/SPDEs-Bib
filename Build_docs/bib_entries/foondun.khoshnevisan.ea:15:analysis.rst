@@ -27,7 +27,7 @@ foondun.khoshnevisan.ea:15:analysis
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-015-0045-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-015-0045-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

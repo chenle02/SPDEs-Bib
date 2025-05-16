@@ -25,7 +25,7 @@ derrida.enaud.ea:04:asymmetric
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/B:JOSS.0000019833.35328.b4}>`__
+`The URL link to the source <https://doi.org/10.1023/B:JOSS.0000019833.35328.b4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

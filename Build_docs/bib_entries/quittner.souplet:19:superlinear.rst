@@ -24,7 +24,7 @@ quittner.souplet:19:superlinear
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-030-18222-9}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-030-18222-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

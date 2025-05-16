@@ -26,7 +26,7 @@ schafer.ferber.ea:92:renormalization
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0550-3213(92)90397-T}>`__
+`The URL link to the source <https://doi.org/10.1016/0550-3213(92)90397-T>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

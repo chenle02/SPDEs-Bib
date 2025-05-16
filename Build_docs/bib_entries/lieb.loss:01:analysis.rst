@@ -23,7 +23,7 @@ lieb.loss:01:analysis
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/gsm/014}>`__
+`The URL link to the source <https://doi.org/10.1090/gsm/014>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

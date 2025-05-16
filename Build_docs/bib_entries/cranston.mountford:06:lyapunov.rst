@@ -25,7 +25,7 @@ cranston.mountford:06:lyapunov
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2006.01.007}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2006.01.007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

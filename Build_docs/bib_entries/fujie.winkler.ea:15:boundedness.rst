@@ -25,7 +25,7 @@ fujie.winkler.ea:15:boundedness
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/mma.3149}>`__
+`The URL link to the source <https://doi.org/10.1002/mma.3149>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

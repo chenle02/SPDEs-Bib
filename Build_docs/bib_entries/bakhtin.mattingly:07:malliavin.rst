@@ -25,7 +25,7 @@ bakhtin.mattingly:07:malliavin
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2007.02.011}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.02.011>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

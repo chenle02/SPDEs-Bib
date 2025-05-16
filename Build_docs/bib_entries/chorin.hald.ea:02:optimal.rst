@@ -23,7 +23,7 @@ chorin.hald.ea:02:optimal
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0167-2789(02)00446-3}>`__
+`The URL link to the source <https://doi.org/10.1016/S0167-2789(02)00446-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

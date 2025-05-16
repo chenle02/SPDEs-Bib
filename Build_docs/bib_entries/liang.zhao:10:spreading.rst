@@ -25,7 +25,7 @@ liang.zhao:10:spreading
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2010.04.018}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2010.04.018>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

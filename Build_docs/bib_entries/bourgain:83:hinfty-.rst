@@ -25,7 +25,7 @@ bourgain:83:hinfty-
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm-75-2-193-216}>`__
+`The URL link to the source <https://doi.org/10.4064/sm-75-2-193-216>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

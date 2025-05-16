@@ -16,7 +16,7 @@ mueller.neuman:23:radius
     year = {2023}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2306.01537}>`__
+`The URL link to the source <http://arXiv.org/abs/2306.01537>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

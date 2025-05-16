@@ -26,7 +26,7 @@ ramirez.rider.ea:11:beta
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0894-0347-2011-00703-0}>`__
+`The URL link to the source <https://doi.org/10.1090/S0894-0347-2011-00703-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

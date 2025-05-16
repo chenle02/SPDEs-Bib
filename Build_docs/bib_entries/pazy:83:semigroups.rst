@@ -24,7 +24,7 @@ pazy:83:semigroups
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4612-5561-1}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-5561-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

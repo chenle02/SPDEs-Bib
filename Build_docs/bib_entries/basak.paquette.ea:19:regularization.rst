@@ -25,7 +25,7 @@ basak.paquette.ea:19:regularization
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/fms.2018.29}>`__
+`The URL link to the source <https://doi.org/10.1017/fms.2018.29>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

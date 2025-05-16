@@ -27,7 +27,7 @@ chen.hu.ea:17:space-time
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442508.2016.1146282}>`__
+`The URL link to the source <https://doi.org/10.1080/17442508.2016.1146282>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

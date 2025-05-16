@@ -22,7 +22,7 @@ quastel:96:diffusion
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4613-8468-7_4}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4613-8468-7_4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

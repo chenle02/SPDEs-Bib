@@ -24,7 +24,7 @@ cranston.salisbury:93:martin
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02559496}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02559496>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

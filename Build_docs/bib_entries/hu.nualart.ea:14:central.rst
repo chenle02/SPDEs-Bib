@@ -25,7 +25,7 @@ hu.nualart.ea:14:central
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/12-AOP825}>`__
+`The URL link to the source <https://doi.org/10.1214/12-AOP825>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ carcione:08:theory
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1190/1.3008548}>`__
+`The URL link to the source <https://doi.org/10.1190/1.3008548>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

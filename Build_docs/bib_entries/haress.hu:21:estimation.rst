@@ -27,7 +27,7 @@ haress.hu:21:estimation
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11203-020-09235-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s11203-020-09235-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ cerrai.da-prato:14:basic
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/13-AOP853}>`__
+`The URL link to the source <https://doi.org/10.1214/13-AOP853>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

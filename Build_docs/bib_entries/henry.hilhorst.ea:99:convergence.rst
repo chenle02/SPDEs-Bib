@@ -26,7 +26,7 @@ henry.hilhorst.ea:99:convergence
     year = {1999}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.hmj/1206124856}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.hmj/1206124856>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

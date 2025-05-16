@@ -26,7 +26,7 @@ levy.somekh.ea:09:on
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1109/TIT.2009.2013046}>`__
+`The URL link to the source <https://doi.org/10.1109/TIT.2009.2013046>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

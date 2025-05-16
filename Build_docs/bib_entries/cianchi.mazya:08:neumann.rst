@@ -25,7 +25,7 @@ cianchi.mazya:08:neumann
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.matpur.2007.10.001}>`__
+`The URL link to the source <https://doi.org/10.1016/j.matpur.2007.10.001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

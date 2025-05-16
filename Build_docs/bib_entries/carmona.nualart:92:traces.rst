@@ -25,7 +25,7 @@ carmona.nualart:92:traces
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0022-1236(92)90116-Z}>`__
+`The URL link to the source <https://doi.org/10.1016/0022-1236(92)90116-Z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

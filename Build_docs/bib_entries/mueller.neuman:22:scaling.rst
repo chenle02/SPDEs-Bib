@@ -24,7 +24,7 @@ mueller.neuman:22:scaling
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/22-aap1785}>`__
+`The URL link to the source <https://doi.org/10.1214/22-aap1785>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

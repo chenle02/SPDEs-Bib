@@ -25,7 +25,7 @@ bourgain.wolff:90:remark
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/cm-60-61-1-253-260}>`__
+`The URL link to the source <https://doi.org/10.4064/cm-60-61-1-253-260>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

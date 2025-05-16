@@ -24,7 +24,7 @@ rider:04:deviations
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-004-0355-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-004-0355-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

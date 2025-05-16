@@ -23,7 +23,7 @@ kazdan.warner:74:curvature
     year = {1974}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/1971012}>`__
+`The URL link to the source <https://doi.org/10.2307/1971012>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

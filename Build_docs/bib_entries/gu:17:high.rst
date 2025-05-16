@@ -25,7 +25,7 @@ gu:17:high
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-016-0750-0}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-016-0750-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

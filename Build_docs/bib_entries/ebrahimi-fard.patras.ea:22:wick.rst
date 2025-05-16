@@ -26,7 +26,7 @@ ebrahimi-fard.patras.ea:22:wick
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.4153/s0008414x21000407}>`__
+`The URL link to the source <https://doi.org/10.4153/s0008414x21000407>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

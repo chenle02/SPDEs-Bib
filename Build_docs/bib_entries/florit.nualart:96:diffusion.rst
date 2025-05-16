@@ -25,7 +25,7 @@ florit.nualart:96:diffusion
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0304-4149(96)00098-1}>`__
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(96)00098-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

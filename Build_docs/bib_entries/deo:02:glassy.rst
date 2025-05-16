@@ -24,7 +24,7 @@ deo:02:glassy
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevE.65.056115}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.65.056115>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

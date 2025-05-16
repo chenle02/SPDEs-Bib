@@ -23,7 +23,7 @@ mainardi.mura.ea:10:m-wright
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1155/2010/104505}>`__
+`The URL link to the source <https://doi.org/10.1155/2010/104505>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

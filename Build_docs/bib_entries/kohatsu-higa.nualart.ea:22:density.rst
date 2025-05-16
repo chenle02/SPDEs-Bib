@@ -23,7 +23,7 @@ kohatsu-higa.nualart.ea:22:density
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.amc.2021.126814}>`__
+`The URL link to the source <https://doi.org/10.1016/j.amc.2021.126814>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ gubser.klebanov:94:modified
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0370-2693(94)91294-7}>`__
+`The URL link to the source <https://doi.org/10.1016/0370-2693(94)91294-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

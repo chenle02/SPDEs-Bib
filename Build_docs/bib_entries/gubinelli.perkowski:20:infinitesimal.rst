@@ -25,7 +25,7 @@ gubinelli.perkowski:20:infinitesimal
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-020-00996-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-020-00996-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

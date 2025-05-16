@@ -25,7 +25,7 @@ salins.budhiraja.ea:19:uniform
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/tran/7872}>`__
+`The URL link to the source <https://doi.org/10.1090/tran/7872>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

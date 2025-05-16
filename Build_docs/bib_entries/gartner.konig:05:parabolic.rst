@@ -21,7 +21,7 @@ gartner.konig:05:parabolic
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/3-540-27110-4_8}>`__
+`The URL link to the source <https://doi.org/10.1007/3-540-27110-4_8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

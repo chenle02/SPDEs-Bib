@@ -26,7 +26,7 @@ priola.shirikyan.ea:12:exponential
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2011.10.003}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2011.10.003>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

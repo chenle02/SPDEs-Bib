@@ -25,7 +25,7 @@ barbato.flandoli.ea:10:theorem
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2010.03.007}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2010.03.007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

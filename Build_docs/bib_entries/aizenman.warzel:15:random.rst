@@ -23,7 +23,7 @@ aizenman.warzel:15:random
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/gsm/168}>`__
+`The URL link to the source <https://doi.org/10.1090/gsm/168>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

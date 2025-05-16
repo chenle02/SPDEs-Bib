@@ -25,7 +25,7 @@ onatski:08:tracy-widom
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/07-AAP454}>`__
+`The URL link to the source <https://doi.org/10.1214/07-AAP454>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

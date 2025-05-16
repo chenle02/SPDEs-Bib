@@ -23,7 +23,7 @@ mytnik.xiong:15:well-posedness
     year = {2015}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ijm/1462450710}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1462450710>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

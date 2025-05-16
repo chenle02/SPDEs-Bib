@@ -26,7 +26,7 @@ chong.kluppelberg:15:integrability
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/14-BEJ640}>`__
+`The URL link to the source <https://doi.org/10.3150/14-BEJ640>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

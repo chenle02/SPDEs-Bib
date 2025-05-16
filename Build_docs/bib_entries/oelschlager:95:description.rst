@@ -25,7 +25,7 @@ oelschlager:95:description
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0218202595000486}>`__
+`The URL link to the source <https://doi.org/10.1142/S0218202595000486>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

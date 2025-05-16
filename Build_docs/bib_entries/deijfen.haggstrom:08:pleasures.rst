@@ -23,7 +23,7 @@ deijfen.haggstrom:08:pleasures
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/acprof:oso/9780199239252.003.0002}>`__
+`The URL link to the source <https://doi.org/10.1093/acprof:oso/9780199239252.003.0002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

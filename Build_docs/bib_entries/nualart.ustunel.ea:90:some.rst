@@ -25,7 +25,7 @@ nualart.ustunel.ea:90:some
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01377633}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01377633>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

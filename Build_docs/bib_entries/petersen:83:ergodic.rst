@@ -23,7 +23,7 @@ petersen:83:ergodic
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9780511608728}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9780511608728>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

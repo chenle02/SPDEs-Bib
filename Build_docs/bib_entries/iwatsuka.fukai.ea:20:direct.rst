@@ -24,7 +24,7 @@ iwatsuka.fukai.ea:20:direct
     year = {2020}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevLett.124.250602}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.124.250602>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

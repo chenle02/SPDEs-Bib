@@ -25,7 +25,7 @@ corcuera.guerra.ea:06:optimal
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00245-005-0846-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s00245-005-0846-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

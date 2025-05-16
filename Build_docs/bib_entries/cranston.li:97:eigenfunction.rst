@@ -25,7 +25,7 @@ cranston.li:97:eigenfunction
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/03605309708821321}>`__
+`The URL link to the source <https://doi.org/10.1080/03605309708821321>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

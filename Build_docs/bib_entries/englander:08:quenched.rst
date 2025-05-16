@@ -26,7 +26,7 @@ englander:08:quenched
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/07-AIHP155}>`__
+`The URL link to the source <https://doi.org/10.1214/07-AIHP155>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

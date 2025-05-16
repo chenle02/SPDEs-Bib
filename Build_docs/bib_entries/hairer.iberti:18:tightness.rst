@@ -24,7 +24,7 @@ hairer.iberti:18:tightness
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-018-2033-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-018-2033-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -16,7 +16,7 @@ mayorcas.singh:23:singular
     year = {2023}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2301.05121}>`__
+`The URL link to the source <http://arXiv.org/abs/2301.05121>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

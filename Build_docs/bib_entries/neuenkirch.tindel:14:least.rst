@@ -29,7 +29,7 @@ neuenkirch.tindel:14:least
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11203-013-9084-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s11203-013-9084-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

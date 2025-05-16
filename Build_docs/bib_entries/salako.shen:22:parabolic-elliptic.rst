@@ -25,7 +25,7 @@ salako.shen:22:parabolic-elliptic
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10884-020-09901-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s10884-020-09901-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ flandoli:87:dirichlet
     year = {1987}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0072883}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0072883>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

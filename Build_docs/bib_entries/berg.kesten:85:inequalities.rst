@@ -25,7 +25,7 @@ berg.kesten:85:inequalities
     year = {1985}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/s0021900200029326}>`__
+`The URL link to the source <https://doi.org/10.1017/s0021900200029326>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

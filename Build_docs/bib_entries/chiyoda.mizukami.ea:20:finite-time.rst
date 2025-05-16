@@ -24,7 +24,7 @@ chiyoda.mizukami.ea:20:finite-time
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10440-019-00275-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s10440-019-00275-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

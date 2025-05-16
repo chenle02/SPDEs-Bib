@@ -24,7 +24,7 @@ klebanov:95:touching
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevD.51.1836}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevD.51.1836>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

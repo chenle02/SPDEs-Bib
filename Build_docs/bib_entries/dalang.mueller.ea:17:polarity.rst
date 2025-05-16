@@ -24,7 +24,7 @@ dalang.mueller.ea:17:polarity
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/17-AOP1176}>`__
+`The URL link to the source <https://doi.org/10.1214/17-AOP1176>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

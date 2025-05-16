@@ -25,7 +25,7 @@ min.xian.ea:88:global
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0022-0396(88)90030-7}>`__
+`The URL link to the source <https://doi.org/10.1016/0022-0396(88)90030-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

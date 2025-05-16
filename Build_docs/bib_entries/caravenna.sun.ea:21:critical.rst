@@ -16,7 +16,7 @@ caravenna.sun.ea:21:critical
     year = {2021}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2109.03766}>`__
+`The URL link to the source <http://arXiv.org/abs/2109.03766>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

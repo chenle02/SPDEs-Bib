@@ -27,7 +27,7 @@ imamura.sasamoto:04:fluctuations
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.nuclphysb.2004.07.030}>`__
+`The URL link to the source <https://doi.org/10.1016/j.nuclphysb.2004.07.030>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

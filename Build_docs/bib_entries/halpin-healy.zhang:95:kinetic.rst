@@ -23,7 +23,7 @@ halpin-healy.zhang:95:kinetic
     year = {1995}
    }
 
-`The URL link to the source <ttps://www.sciencedirect.com/science/article/pii/037015739400087J}>`__
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/037015739400087J>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

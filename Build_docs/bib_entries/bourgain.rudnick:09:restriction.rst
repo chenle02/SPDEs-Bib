@@ -24,7 +24,7 @@ bourgain.rudnick:09:restriction
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2009.08.008}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2009.08.008>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

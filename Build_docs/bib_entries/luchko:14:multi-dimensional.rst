@@ -23,7 +23,7 @@ luchko:14:multi-dimensional
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1685/journal.caim.485}>`__
+`The URL link to the source <https://doi.org/10.1685/journal.caim.485>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ bakhtin.mattingly:05:stationary
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219199705001878}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219199705001878>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

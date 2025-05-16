@@ -25,7 +25,7 @@ mueller.neuman.ea:20:improved
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.31390/josa.1.2.01}>`__
+`The URL link to the source <https://doi.org/10.31390/josa.1.2.01>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

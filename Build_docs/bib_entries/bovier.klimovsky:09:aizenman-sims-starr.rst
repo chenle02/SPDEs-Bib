@@ -24,7 +24,7 @@ bovier.klimovsky:09:aizenman-sims-starr
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v14-611}>`__
+`The URL link to the source <https://doi.org/10.1214/EJP.v14-611>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

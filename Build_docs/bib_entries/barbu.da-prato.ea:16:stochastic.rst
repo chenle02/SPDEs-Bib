@@ -24,7 +24,7 @@ barbu.da-prato.ea:16:stochastic
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-319-41069-2}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-319-41069-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

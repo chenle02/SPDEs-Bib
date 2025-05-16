@@ -25,7 +25,7 @@ quastel.remenik:15:tails
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/12-AIHP525}>`__
+`The URL link to the source <https://doi.org/10.1214/12-AIHP525>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

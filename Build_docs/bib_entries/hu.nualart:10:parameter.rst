@@ -25,7 +25,7 @@ hu.nualart:10:parameter
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spl.2010.02.018}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spl.2010.02.018>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

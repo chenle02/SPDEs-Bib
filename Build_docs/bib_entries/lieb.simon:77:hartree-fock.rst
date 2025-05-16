@@ -23,7 +23,7 @@ lieb.simon:77:hartree-fock
     year = {1977}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1103900699}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103900699>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

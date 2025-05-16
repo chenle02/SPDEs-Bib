@@ -24,7 +24,7 @@ bourgain:10:on
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-642-14444-8_4}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-642-14444-8_4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

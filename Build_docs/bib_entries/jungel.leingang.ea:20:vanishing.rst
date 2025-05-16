@@ -24,7 +24,7 @@ jungel.leingang.ea:20:vanishing
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.na.2019.111698}>`__
+`The URL link to the source <https://doi.org/10.1016/j.na.2019.111698>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

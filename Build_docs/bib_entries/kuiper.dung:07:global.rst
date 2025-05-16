@@ -25,7 +25,7 @@ kuiper.dung:07:global
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1216/rmjm/1194275939}>`__
+`The URL link to the source <https://doi.org/10.1216/rmjm/1194275939>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

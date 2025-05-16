@@ -26,7 +26,7 @@ dierickx.nourdin.ea:23:small
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-022-04422-w}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-022-04422-w>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ hayakawa:73:on
     year = {1973}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.pja/1195519254}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.pja/1195519254>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

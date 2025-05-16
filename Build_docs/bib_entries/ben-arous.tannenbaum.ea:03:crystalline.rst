@@ -27,7 +27,7 @@ ben-arous.tannenbaum.ea:03:crystalline
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-0-387-21696-6_2}>`__
+`The URL link to the source <https://doi.org/10.1007/978-0-387-21696-6_2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

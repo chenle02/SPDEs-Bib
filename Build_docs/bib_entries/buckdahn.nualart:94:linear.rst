@@ -25,7 +25,7 @@ buckdahn.nualart:94:linear
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01206230}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01206230>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

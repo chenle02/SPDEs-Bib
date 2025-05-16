@@ -25,7 +25,7 @@ li.linde:99:approximation
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1022677459}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1022677459>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ heydenreich.hofstad.ea:08:mean-field
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-008-9580-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-008-9580-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ bodineau.derrida.ea:10:diffusive
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-010-0012-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-010-0012-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

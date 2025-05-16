@@ -24,7 +24,7 @@ dalang.walsh:93:geography
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01192131}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01192131>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

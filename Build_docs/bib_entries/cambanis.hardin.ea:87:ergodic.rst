@@ -25,7 +25,7 @@ cambanis.hardin.ea:87:ergodic
     year = {1987}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0304-4149(87)90024-X}>`__
+`The URL link to the source <https://doi.org/10.1016/0304-4149(87)90024-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

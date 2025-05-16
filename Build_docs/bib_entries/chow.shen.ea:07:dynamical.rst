@@ -24,7 +24,7 @@ chow.shen.ea:07:dynamical
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10884-007-9095-9}>`__
+`The URL link to the source <https://doi.org/10.1007/s10884-007-9095-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

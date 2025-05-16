@@ -25,7 +25,7 @@ feng.grigorescu.ea:04:diffusive
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/S0036141002409520}>`__
+`The URL link to the source <https://doi.org/10.1137/S0036141002409520>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

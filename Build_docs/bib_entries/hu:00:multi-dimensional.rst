@@ -26,7 +26,7 @@ hu:00:multi-dimensional
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0252-9602(17)30641-0}>`__
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(17)30641-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

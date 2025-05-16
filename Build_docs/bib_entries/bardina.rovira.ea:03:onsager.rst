@@ -25,7 +25,7 @@ bardina.rovira.ea:03:onsager
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1081/SAP-120026105}>`__
+`The URL link to the source <https://doi.org/10.1081/SAP-120026105>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

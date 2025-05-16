@@ -25,7 +25,7 @@ galaktionov.shmarev.ea:99:second-order
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219199799000031}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219199799000031>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ ladyzhenskaya:85:boundary
     year = {1985}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4757-4317-3}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4757-4317-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

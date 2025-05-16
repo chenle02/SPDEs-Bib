@@ -27,7 +27,7 @@ rychkov:99:on
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1112/S0024610799007723}>`__
+`The URL link to the source <https://doi.org/10.1112/S0024610799007723>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

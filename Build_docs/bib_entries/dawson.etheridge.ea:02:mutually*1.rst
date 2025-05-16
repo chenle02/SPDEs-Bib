@@ -27,7 +27,7 @@ dawson.etheridge.ea:02:mutually*1
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1039548370}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1039548370>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ bourgain:97:gibbs
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/pspum/060/1460274}>`__
+`The URL link to the source <https://doi.org/10.1090/pspum/060/1460274>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

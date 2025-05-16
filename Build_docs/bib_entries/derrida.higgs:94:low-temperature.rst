@@ -23,7 +23,7 @@ derrida.higgs:94:low-temperature
     year = {1994}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/27/5485}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/27/5485>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

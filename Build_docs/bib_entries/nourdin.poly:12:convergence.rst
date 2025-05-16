@@ -22,7 +22,7 @@ nourdin.poly:12:convergence
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ecp.v17-2023}>`__
+`The URL link to the source <https://doi.org/10.1214/ecp.v17-2023>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

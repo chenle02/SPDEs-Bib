@@ -25,7 +25,7 @@ derriennic.hachem:88:sur
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01163292}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01163292>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

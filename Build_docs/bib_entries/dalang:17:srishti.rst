@@ -23,7 +23,7 @@ dalang:17:srishti
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.exmath.2017.11.001}>`__
+`The URL link to the source <https://doi.org/10.1016/j.exmath.2017.11.001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

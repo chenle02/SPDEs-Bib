@@ -25,7 +25,7 @@ jolis.sanz:90:on
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0083614}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0083614>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

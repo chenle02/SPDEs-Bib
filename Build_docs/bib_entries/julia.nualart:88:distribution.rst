@@ -25,7 +25,7 @@ julia.nualart:88:distribution
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442508808833538}>`__
+`The URL link to the source <https://doi.org/10.1080/17442508808833538>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

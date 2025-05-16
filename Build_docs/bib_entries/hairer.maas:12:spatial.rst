@@ -25,7 +25,7 @@ hairer.maas:12:spatial
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/11-AOP662}>`__
+`The URL link to the source <https://doi.org/10.1214/11-AOP662>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

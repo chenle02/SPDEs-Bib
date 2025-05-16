@@ -25,7 +25,7 @@ balan.quer-sardanyons.ea:19:holder
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10473-019-0306-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s10473-019-0306-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

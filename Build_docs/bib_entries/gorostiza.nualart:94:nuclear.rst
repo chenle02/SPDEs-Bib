@@ -26,7 +26,7 @@ gorostiza.nualart:94:nuclear
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jfan.1994.1116}>`__
+`The URL link to the source <https://doi.org/10.1006/jfan.1994.1116>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

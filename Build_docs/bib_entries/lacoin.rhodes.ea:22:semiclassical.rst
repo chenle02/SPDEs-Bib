@@ -25,7 +25,7 @@ lacoin.rhodes.ea:22:semiclassical
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.5802/afst.1713}>`__
+`The URL link to the source <https://doi.org/10.5802/afst.1713>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

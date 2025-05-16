@@ -24,7 +24,7 @@ chatterjee.zeitouni:18:thresholds
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/17-AAP1356}>`__
+`The URL link to the source <https://doi.org/10.1214/17-AAP1356>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ nualart.schoutens:01:backward
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/3318541}>`__
+`The URL link to the source <https://doi.org/10.2307/3318541>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

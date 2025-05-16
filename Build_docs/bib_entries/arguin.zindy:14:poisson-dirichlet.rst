@@ -24,7 +24,7 @@ arguin.zindy:14:poisson-dirichlet
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/13-AAP952}>`__
+`The URL link to the source <https://doi.org/10.1214/13-AAP952>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

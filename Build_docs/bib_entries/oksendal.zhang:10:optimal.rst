@@ -22,7 +22,7 @@ oksendal.zhang:10:optimal
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1155/2010/329185}>`__
+`The URL link to the source <https://doi.org/10.1155/2010/329185>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

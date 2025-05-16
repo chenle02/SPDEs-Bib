@@ -24,7 +24,7 @@ comets.neveu:95:sherrington-kirkpatrick
     year = {1995}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1104271703}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104271703>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

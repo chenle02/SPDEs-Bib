@@ -24,7 +24,7 @@ garsia.rodemich.ea:70:real
     year = {1970/71}
    }
 
-`The URL link to the source <ttps://doi.org/10.1512/iumj.1970.20.20046}>`__
+`The URL link to the source <https://doi.org/10.1512/iumj.1970.20.20046>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

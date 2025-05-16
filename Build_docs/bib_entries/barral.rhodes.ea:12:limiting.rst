@@ -24,7 +24,7 @@ barral.rhodes.ea:12:limiting
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2012.05.013}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2012.05.013>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

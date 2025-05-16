@@ -26,7 +26,7 @@ chae.constantin.ea:12:generalized
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.21390}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.21390>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,7 @@ bourdaud:10:calcul
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-0-8176-4888-6_9}>`__
+`The URL link to the source <https://doi.org/10.1007/978-0-8176-4888-6_9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,7 @@ benjamini.tessera:15:first
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v20-3940}>`__
+`The URL link to the source <https://doi.org/10.1214/EJP.v20-3940>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

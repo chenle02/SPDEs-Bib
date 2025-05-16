@@ -24,7 +24,7 @@ bourgain.garaev:14:kloosterman
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/aa164-1-4}>`__
+`The URL link to the source <https://doi.org/10.4064/aa164-1-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

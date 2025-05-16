@@ -24,7 +24,7 @@ hu.oksendal:07:optimal
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1239/jap/1189717542}>`__
+`The URL link to the source <https://doi.org/10.1239/jap/1189717542>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

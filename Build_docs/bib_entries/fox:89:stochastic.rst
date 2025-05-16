@@ -23,7 +23,7 @@ fox:89:stochastic
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevA.39.4148}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevA.39.4148>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

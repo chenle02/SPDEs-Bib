@@ -25,7 +25,7 @@ brzezniak.ondrejat:07:strong
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2007.03.034}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2007.03.034>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

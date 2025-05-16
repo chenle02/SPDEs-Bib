@@ -26,7 +26,7 @@ caffarelli.soria.ea:13:regularity
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.4171/JEMS/401}>`__
+`The URL link to the source <https://doi.org/10.4171/JEMS/401>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

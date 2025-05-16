@@ -23,7 +23,7 @@ bourgain:00:problems
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-0346-0422-2_2}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-0346-0422-2_2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

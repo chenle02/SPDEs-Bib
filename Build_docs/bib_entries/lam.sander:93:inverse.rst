@@ -22,7 +22,7 @@ lam.sander:93:inverse
     year = {1993}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevLett.71.561}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.71.561>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

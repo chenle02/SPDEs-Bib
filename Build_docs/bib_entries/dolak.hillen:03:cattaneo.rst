@@ -24,7 +24,7 @@ dolak.hillen:03:cattaneo
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00285-002-0173-7}>`__
+`The URL link to the source <https://doi.org/10.1007/s00285-002-0173-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

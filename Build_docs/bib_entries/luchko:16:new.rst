@@ -24,7 +24,7 @@ luchko:16:new
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1051/mmnp/201611301}>`__
+`The URL link to the source <https://doi.org/10.1051/mmnp/201611301>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

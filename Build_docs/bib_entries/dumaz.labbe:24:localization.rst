@@ -24,7 +24,7 @@ dumaz.labbe:24:localization
     year = {2024}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00222-023-01225-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s00222-023-01225-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

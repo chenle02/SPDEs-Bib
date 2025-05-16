@@ -25,7 +25,7 @@ david.kupiainen.ea:17:renormalizability
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/17-EJP113}>`__
+`The URL link to the source <https://doi.org/10.1214/17-EJP113>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

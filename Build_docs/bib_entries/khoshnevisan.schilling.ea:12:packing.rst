@@ -24,7 +24,7 @@ khoshnevisan.schilling.ea:12:packing
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1112/blms/bds022}>`__
+`The URL link to the source <https://doi.org/10.1112/blms/bds022>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

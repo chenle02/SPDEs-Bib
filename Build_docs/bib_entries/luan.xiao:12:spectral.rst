@@ -26,7 +26,7 @@ luan.xiao:12:spectral
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00041-011-9193-2}>`__
+`The URL link to the source <https://doi.org/10.1007/s00041-011-9193-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

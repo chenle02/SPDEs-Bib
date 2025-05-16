@@ -26,7 +26,7 @@ burger.carrillo.ea:10:mixed
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/krm.2010.3.59}>`__
+`The URL link to the source <https://doi.org/10.3934/krm.2010.3.59>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

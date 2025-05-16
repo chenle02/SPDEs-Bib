@@ -24,7 +24,7 @@ capitaine.peche:16:fluctuations
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-015-0628-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-015-0628-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

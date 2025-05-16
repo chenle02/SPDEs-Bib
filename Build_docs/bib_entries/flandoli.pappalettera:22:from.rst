@@ -24,7 +24,7 @@ flandoli.pappalettera:22:from
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-022-00249-7}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-022-00249-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

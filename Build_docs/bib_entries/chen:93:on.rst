@@ -24,7 +24,7 @@ chen:93:on
     year = {1993}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(199310)21:4<1991:OTLOTI>2.0.CO;2-#&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199310)21:4<1991:OTLOTI>2.0.CO;2-#&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ sagi.brook.ea:12:observation
     year = {2012}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevLett.108.093002}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.108.093002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

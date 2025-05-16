@@ -25,7 +25,7 @@ cranston.le-jan:89:on
     year = {1989}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIHPB_1989__25_2_99_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB_1989__25_2_99_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

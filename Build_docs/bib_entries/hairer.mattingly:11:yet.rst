@@ -25,7 +25,7 @@ hairer.mattingly:11:yet
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-0348-0021-1_7}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-0348-0021-1_7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

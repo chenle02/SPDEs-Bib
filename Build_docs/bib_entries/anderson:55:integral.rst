@@ -24,7 +24,7 @@ anderson:55:integral
     year = {1955}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2032333}>`__
+`The URL link to the source <https://doi.org/10.2307/2032333>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

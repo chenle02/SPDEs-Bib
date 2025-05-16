@@ -24,7 +24,7 @@ berglund.nader:23:stochastic
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-021-00230-w}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-021-00230-w>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

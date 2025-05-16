@@ -25,7 +25,7 @@ chen.kim:14:lp-theory
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1515/forum-2011-0123}>`__
+`The URL link to the source <https://doi.org/10.1515/forum-2011-0123>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

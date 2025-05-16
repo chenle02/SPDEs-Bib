@@ -24,7 +24,7 @@ ethier.kurtz:86:markov
     year = {1986}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/9780470316658}>`__
+`The URL link to the source <https://doi.org/10.1002/9780470316658>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

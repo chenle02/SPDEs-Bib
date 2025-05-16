@@ -24,7 +24,7 @@ mckane:80:reformulation
     year = {1980}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0375-9601(80)90136-X}>`__
+`The URL link to the source <https://doi.org/10.1016/0375-9601(80)90136-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

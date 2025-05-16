@@ -24,7 +24,7 @@ lacoin:14:non-coincidence
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-013-0520-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-013-0520-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

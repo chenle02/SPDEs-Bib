@@ -25,7 +25,7 @@ bass.burdzy.ea:10:stationary
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-008-0182-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-008-0182-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

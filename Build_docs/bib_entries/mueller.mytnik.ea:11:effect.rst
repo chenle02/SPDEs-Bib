@@ -24,7 +24,7 @@ mueller.mytnik.ea:11:effect
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00222-010-0292-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s00222-010-0292-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

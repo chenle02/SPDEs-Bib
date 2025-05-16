@@ -24,7 +24,7 @@ barral.seuret:07:threshold
     year = {2007}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.rae/1199377483}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.rae/1199377483>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

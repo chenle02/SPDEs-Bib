@@ -23,7 +23,7 @@ lee.xiao:19:local
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/19-ecp264}>`__
+`The URL link to the source <https://doi.org/10.1214/19-ecp264>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ flandoli.maslowski:95:ergodicity
     year = {1995}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1104273961}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104273961>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

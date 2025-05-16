@@ -25,7 +25,7 @@ peszat:11:levy-ornstein-uhlenbeck
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2011.03.002}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2011.03.002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

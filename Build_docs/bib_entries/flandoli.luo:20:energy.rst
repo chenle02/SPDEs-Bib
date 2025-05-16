@@ -24,7 +24,7 @@ flandoli.luo:20:energy
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1063/1.5099359}>`__
+`The URL link to the source <https://doi.org/10.1063/1.5099359>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

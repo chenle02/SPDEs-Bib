@@ -24,7 +24,7 @@ delgado.sanz:92:hu-meyer
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442509208833752}>`__
+`The URL link to the source <https://doi.org/10.1080/17442509208833752>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

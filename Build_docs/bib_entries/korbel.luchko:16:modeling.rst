@@ -26,7 +26,7 @@ korbel.luchko:16:modeling
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1515/fca-2016-0073}>`__
+`The URL link to the source <https://doi.org/10.1515/fca-2016-0073>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ kuto.osaki.ea:12:spatial
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.physd.2012.06.009}>`__
+`The URL link to the source <https://doi.org/10.1016/j.physd.2012.06.009>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ ceyhan:20:domination
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/02331888.2020.1720020}>`__
+`The URL link to the source <https://doi.org/10.1080/02331888.2020.1720020>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

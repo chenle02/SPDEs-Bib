@@ -26,7 +26,7 @@ menoukeu-pamen.meyer-brandis.ea:13:variational
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00208-013-0916-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s00208-013-0916-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

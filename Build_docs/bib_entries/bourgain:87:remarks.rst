@@ -25,7 +25,7 @@ bourgain:87:remarks
     year = {1987}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0078143}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0078143>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

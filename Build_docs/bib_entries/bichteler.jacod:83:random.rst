@@ -24,7 +24,7 @@ bichteler.jacod:83:random
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0044678}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0044678>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

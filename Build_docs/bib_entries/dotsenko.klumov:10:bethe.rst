@@ -23,7 +23,7 @@ dotsenko.klumov:10:bethe
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1742-5468/2010/03/p03022}>`__
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2010/03/p03022>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

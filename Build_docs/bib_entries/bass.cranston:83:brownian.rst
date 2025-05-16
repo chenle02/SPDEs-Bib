@@ -24,7 +24,7 @@ bass.cranston:83:brownian
     year = {1983}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198302)11:1<34:BMWLCM>2.0.CO;2-3&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198302)11:1<34:BMWLCM>2.0.CO;2-3&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

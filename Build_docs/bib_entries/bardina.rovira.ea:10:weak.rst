@@ -23,7 +23,7 @@ bardina.rovira.ea:10:weak
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v15-1561}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v15-1561>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

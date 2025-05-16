@@ -25,7 +25,7 @@ dawson.iscoe.ea:89:super-brownian
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF00333147}>`__
+`The URL link to the source <https://doi.org/10.1007/BF00333147>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

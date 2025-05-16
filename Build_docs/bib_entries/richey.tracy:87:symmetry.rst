@@ -23,7 +23,7 @@ richey.tracy:87:symmetry
     year = {1987}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/20/2667}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/20/2667>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

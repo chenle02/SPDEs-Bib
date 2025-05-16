@@ -26,7 +26,7 @@ dalang.morton.ea:90:equivalent
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442509008833613}>`__
+`The URL link to the source <https://doi.org/10.1080/17442509008833613>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

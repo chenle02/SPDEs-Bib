@@ -24,7 +24,7 @@ bourgain:78:geometric
     year = {1978}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=CM_1978__36_1_3_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=CM_1978__36_1_3_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

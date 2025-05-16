@@ -25,7 +25,7 @@ hinojosa-calleja.sanz-sole:21:anisotropic
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-021-00190-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-021-00190-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

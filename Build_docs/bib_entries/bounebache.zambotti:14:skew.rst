@@ -24,7 +24,7 @@ bounebache.zambotti:14:skew
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10959-012-0421-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s10959-012-0421-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

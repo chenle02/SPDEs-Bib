@@ -25,7 +25,7 @@ dynkin:84:gaussian
     year = {1984}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0022-1236(84)90004-1}>`__
+`The URL link to the source <https://doi.org/10.1016/0022-1236(84)90004-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

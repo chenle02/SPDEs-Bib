@@ -27,7 +27,7 @@ giordano.jolis.ea:20:spdes
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/19-BEJ1128}>`__
+`The URL link to the source <https://doi.org/10.3150/19-BEJ1128>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

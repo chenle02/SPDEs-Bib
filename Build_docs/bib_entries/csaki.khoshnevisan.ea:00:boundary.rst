@@ -25,7 +25,7 @@ csaki.khoshnevisan.ea:00:boundary
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0304-4149(00)00031-4}>`__
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(00)00031-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

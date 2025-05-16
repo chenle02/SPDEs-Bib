@@ -23,7 +23,7 @@ panchenko:05:question
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v10-1145}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v10-1145>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

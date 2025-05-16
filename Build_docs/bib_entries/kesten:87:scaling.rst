@@ -23,7 +23,7 @@ kesten:87:scaling
     year = {1987}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1104116714}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104116714>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

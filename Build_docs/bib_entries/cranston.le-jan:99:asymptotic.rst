@@ -22,7 +22,7 @@ cranston.le-jan:99:asymptotic
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/0-387-22655-9_14}>`__
+`The URL link to the source <https://doi.org/10.1007/0-387-22655-9_14>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ brezin.hikami:98:universal
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevE.57.4140}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.57.4140>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

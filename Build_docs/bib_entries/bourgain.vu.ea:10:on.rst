@@ -25,7 +25,7 @@ bourgain.vu.ea:10:on
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2009.04.016}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2009.04.016>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ bourgain.wang:04:anderson
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-004-1099-2}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-004-1099-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

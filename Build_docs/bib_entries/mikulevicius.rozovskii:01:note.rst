@@ -24,7 +24,7 @@ mikulevicius.rozovskii:01:note
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v6-85}>`__
+`The URL link to the source <https://doi.org/10.1214/EJP.v6-85>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

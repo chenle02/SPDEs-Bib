@@ -23,7 +23,7 @@ eisele:83:on
     year = {1983}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1103940230}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103940230>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

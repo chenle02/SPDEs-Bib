@@ -23,7 +23,7 @@ collins.gaudreau-lamarre:17:-freeness
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.aam.2016.09.002}>`__
+`The URL link to the source <https://doi.org/10.1016/j.aam.2016.09.002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

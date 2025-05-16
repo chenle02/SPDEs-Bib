@@ -26,7 +26,7 @@ carrillo.mccann.ea:06:contractions
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00205-005-0386-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s00205-005-0386-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

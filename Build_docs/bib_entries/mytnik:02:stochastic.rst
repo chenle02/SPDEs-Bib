@@ -25,7 +25,7 @@ mytnik:02:stochastic
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s004400100180}>`__
+`The URL link to the source <https://doi.org/10.1007/s004400100180>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ maslowski.seidler:94:ergodic
     year = {1994}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ojm/1200785644}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200785644>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

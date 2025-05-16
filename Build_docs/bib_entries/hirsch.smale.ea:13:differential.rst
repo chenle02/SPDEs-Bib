@@ -23,7 +23,7 @@ hirsch.smale.ea:13:differential
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/B978-0-12-382010-5.00001-4}>`__
+`The URL link to the source <https://doi.org/10.1016/B978-0-12-382010-5.00001-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

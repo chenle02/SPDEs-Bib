@@ -24,7 +24,7 @@ baik.rains:01:algebraic
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/S0012-7094-01-10911-3}>`__
+`The URL link to the source <https://doi.org/10.1215/S0012-7094-01-10911-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

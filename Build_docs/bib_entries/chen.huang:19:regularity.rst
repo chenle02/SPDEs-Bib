@@ -17,7 +17,7 @@ chen.huang:19:regularity
     year = {2019}
    }
 
-`The URL link to the source <ttps://www.arxiv.org/abs/1902.02382}>`__
+`The URL link to the source <https://www.arxiv.org/abs/1902.02382>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

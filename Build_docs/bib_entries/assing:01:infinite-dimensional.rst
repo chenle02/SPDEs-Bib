@@ -25,7 +25,7 @@ assing:01:infinite-dimensional
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/PL00008778}>`__
+`The URL link to the source <https://doi.org/10.1007/PL00008778>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

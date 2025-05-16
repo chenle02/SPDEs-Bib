@@ -25,7 +25,7 @@ sang.xiao:18:exact
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/jpr.2018.28}>`__
+`The URL link to the source <https://doi.org/10.1017/jpr.2018.28>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

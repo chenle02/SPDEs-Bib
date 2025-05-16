@@ -23,7 +23,7 @@ joffe.spitzer:67:on
     year = {1967}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0022-247X(67)90001-7}>`__
+`The URL link to the source <https://doi.org/10.1016/0022-247X(67)90001-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

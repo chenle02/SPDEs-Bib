@@ -25,7 +25,7 @@ bourgain.gamburd:06:new
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2006.02.032}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2006.02.032>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

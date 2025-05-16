@@ -23,7 +23,7 @@ aksakalli.ceyhan:12:optimal
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/12-AOAS556}>`__
+`The URL link to the source <https://doi.org/10.1214/12-AOAS556>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

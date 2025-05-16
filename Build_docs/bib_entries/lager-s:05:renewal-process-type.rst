@@ -25,7 +25,7 @@ lager-s:05:renewal-process-type
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1239/jap/1134587822}>`__
+`The URL link to the source <https://doi.org/10.1239/jap/1134587822>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

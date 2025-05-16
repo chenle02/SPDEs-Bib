@@ -23,7 +23,7 @@ chafee.infante:74:bifurcation
     year = {1974/75}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/00036817408839081}>`__
+`The URL link to the source <https://doi.org/10.1080/00036817408839081>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

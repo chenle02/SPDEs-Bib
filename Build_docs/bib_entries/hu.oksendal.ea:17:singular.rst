@@ -24,7 +24,7 @@ hu.oksendal.ea:17:singular
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/07362994.2017.1325745}>`__
+`The URL link to the source <https://doi.org/10.1080/07362994.2017.1325745>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

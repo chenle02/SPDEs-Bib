@@ -25,7 +25,7 @@ kim:01:singular
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0362-546X(00)00149-8}>`__
+`The URL link to the source <https://doi.org/10.1016/S0362-546X(00)00149-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

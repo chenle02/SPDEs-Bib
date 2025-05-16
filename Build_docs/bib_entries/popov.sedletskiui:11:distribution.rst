@@ -25,7 +25,7 @@ popov.sedletskiui:11:distribution
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10958-013-1255-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s10958-013-1255-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

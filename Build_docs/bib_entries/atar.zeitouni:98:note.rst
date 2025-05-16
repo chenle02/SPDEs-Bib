@@ -24,7 +24,7 @@ atar.zeitouni:98:note
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0167-6911(98)00045-0}>`__
+`The URL link to the source <https://doi.org/10.1016/S0167-6911(98)00045-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

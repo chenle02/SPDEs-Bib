@@ -24,7 +24,7 @@ polyakov:81:quantum
     year = {1981}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0370-2693(81)90743-7}>`__
+`The URL link to the source <https://doi.org/10.1016/0370-2693(81)90743-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

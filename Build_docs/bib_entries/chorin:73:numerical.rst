@@ -23,7 +23,7 @@ chorin:73:numerical
     year = {1973}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/S0022112073002016}>`__
+`The URL link to the source <https://doi.org/10.1017/S0022112073002016>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

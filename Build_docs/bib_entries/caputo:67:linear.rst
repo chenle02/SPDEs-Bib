@@ -23,7 +23,7 @@ caputo:67:linear
     year = {1967}
    }
 
-`The URL link to the source <ttps://doi.org/10.1111/j.1365-246X.1967.tb02303.x}>`__
+`The URL link to the source <https://doi.org/10.1111/j.1365-246X.1967.tb02303.x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

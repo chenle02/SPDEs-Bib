@@ -23,7 +23,7 @@ meakin.ramanlal.ea:86:ballistic
     year = {1986}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevA.34.5091}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevA.34.5091>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

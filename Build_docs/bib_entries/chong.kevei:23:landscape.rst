@@ -25,7 +25,7 @@ chong.kevei:23:landscape
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/23-aop1623}>`__
+`The URL link to the source <https://doi.org/10.1214/23-aop1623>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

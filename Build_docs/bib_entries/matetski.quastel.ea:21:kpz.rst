@@ -24,7 +24,7 @@ matetski.quastel.ea:21:kpz
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.4310/acta.2021.v227.n1.a3}>`__
+`The URL link to the source <https://doi.org/10.4310/acta.2021.v227.n1.a3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

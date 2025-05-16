@@ -18,7 +18,7 @@ khoshnevisan.swanson.ea:13:weak
     year = {2013}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/1309.3613}>`__
+`The URL link to the source <http://arXiv.org/abs/1309.3613>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

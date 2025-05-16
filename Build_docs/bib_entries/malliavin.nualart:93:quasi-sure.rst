@@ -25,7 +25,7 @@ malliavin.nualart:93:quasi-sure
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jfan.1993.1034}>`__
+`The URL link to the source <https://doi.org/10.1006/jfan.1993.1034>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

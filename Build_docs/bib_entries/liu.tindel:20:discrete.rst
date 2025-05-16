@@ -24,7 +24,7 @@ liu.tindel:20:discrete
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/19-AIHP1015}>`__
+`The URL link to the source <https://doi.org/10.1214/19-AIHP1015>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

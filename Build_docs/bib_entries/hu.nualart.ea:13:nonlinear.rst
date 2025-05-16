@@ -25,7 +25,7 @@ hu.nualart.ea:13:nonlinear
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2012.11.004}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2012.11.004>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

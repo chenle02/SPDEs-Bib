@@ -26,7 +26,7 @@ bauerschmidt.brydges.ea:14:scaling
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-014-1060-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-014-1060-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

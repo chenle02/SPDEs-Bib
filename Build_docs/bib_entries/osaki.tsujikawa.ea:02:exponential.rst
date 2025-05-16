@@ -27,7 +27,7 @@ osaki.tsujikawa.ea:02:exponential
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0362-546X(01)00815-X}>`__
+`The URL link to the source <https://doi.org/10.1016/S0362-546X(01)00815-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ biroli.bouchaud.ea:07:extreme
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1742-5468/2007/07/p07019}>`__
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2007/07/p07019>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

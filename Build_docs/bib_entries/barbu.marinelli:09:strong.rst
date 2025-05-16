@@ -26,7 +26,7 @@ barbu.marinelli:09:strong
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219025709003732}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219025709003732>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

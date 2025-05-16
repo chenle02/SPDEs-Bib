@@ -25,7 +25,7 @@ bertini.landim.ea:97:derivation
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02508476}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02508476>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

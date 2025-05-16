@@ -24,7 +24,7 @@ revuz.yor:99:continuous
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-662-06400-9}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-662-06400-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

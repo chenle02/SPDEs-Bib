@@ -24,7 +24,7 @@ rovira.sanz-sole:96:law
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02214255}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02214255>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

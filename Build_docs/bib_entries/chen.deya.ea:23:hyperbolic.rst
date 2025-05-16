@@ -24,7 +24,7 @@ chen.deya.ea:23:hyperbolic
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/imrn/rnad039}>`__
+`The URL link to the source <https://doi.org/10.1093/imrn/rnad039>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

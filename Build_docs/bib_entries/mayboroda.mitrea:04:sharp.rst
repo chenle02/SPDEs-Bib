@@ -25,7 +25,7 @@ mayboroda.mitrea:04:sharp
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.4310/MRL.2004.v11.n4.a7}>`__
+`The URL link to the source <https://doi.org/10.4310/MRL.2004.v11.n4.a7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

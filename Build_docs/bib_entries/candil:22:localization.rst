@@ -20,7 +20,7 @@ candil:22:localization
     year = {2022}
    }
 
-`The URL link to the source <ttp://infoscience.epfl.ch/record/291119}>`__
+`The URL link to the source <http://infoscience.epfl.ch/record/291119>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

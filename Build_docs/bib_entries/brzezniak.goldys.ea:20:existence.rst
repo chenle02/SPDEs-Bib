@@ -26,7 +26,7 @@ brzezniak.goldys.ea:20:existence
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2020.06.061}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2020.06.061>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

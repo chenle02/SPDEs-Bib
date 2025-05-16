@@ -25,7 +25,7 @@ bahadi-r.ceyhan:21:on
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00454-020-00218-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s00454-020-00218-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

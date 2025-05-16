@@ -18,7 +18,7 @@ bedrossian.blumenthal.ea:24:existence
     year = {2024}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2407.16592}>`__
+`The URL link to the source <http://arXiv.org/abs/2407.16592>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

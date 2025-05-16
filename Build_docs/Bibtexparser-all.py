@@ -81,14 +81,15 @@ with open(parent_rst_name, "w") as parent_rst:
 
         # Skip certain operations if --fast is set
         if not args.fast:
+            # Generate individual .bib file
             with open(bib_entry_filename, "w") as bibfile:
                 db = bibtexparser.bibdatabase.BibDatabase()
                 db.entries = [entry]
                 bibfile.write(writer.write(db))
-            # subprocess.run(["bibtex-tidy", "-m", bib_entry_filename])
-            subprocess.run(["bibtex-tidy", "-m", bib_entry_filename],
-                           stdout=subprocess.DEVNULL,
-                           stderr=subprocess.DEVNULL)
+            # Run bibtex-tidy to align fields (place input file before -m)
+            subprocess.run([
+                "bibtex-tidy", bib_entry_filename, "-m"
+            ], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
         # Create corresponding RST file
         rst_entry_filename = f"bib_entries/{cite_key}.rst"

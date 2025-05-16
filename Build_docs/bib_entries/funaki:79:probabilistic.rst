@@ -25,7 +25,7 @@ funaki:79:probabilistic
     year = {1979}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.pja/1195517312}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.pja/1195517312>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

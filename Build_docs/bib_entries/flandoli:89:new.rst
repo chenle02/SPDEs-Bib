@@ -25,7 +25,7 @@ flandoli:89:new
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0893-9659(89)90083-9}>`__
+`The URL link to the source <https://doi.org/10.1016/0893-9659(89)90083-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

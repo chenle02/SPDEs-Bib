@@ -24,7 +24,7 @@ handcock.wallis:94:approach
     year = {1994}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0162-1459(199406)89:426<368:AATSSM>2.0.CO;2-Z&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0162-1459(199406)89:426<368:AATSSM>2.0.CO;2-Z&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

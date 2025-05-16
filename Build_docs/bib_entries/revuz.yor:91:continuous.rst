@@ -24,7 +24,7 @@ revuz.yor:91:continuous
     year = {1991}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-662-21726-9}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-662-21726-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ alos.leon.ea:01:stochastic
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.11650/twjm/1500574954}>`__
+`The URL link to the source <https://doi.org/10.11650/twjm/1500574954>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

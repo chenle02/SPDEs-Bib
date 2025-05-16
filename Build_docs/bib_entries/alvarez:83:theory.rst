@@ -27,7 +27,7 @@ alvarez:83:theory
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0550-3213(83)90490-X}>`__
+`The URL link to the source <https://doi.org/10.1016/0550-3213(83)90490-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

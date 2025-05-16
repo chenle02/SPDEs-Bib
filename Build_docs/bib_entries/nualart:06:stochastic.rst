@@ -25,7 +25,7 @@ nualart:06:stochastic
     year = {2006}
    }
 
-`The URL link to the source <ttp://afst.cedram.org/item?id=AFST_2006_6_15_1_63_0}>`__
+`The URL link to the source <http://afst.cedram.org/item?id=AFST_2006_6_15_1_63_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

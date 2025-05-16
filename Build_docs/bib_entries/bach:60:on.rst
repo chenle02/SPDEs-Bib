@@ -24,7 +24,7 @@ bach:60:on
     year = {1960/61}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/ap-9-2-137-144}>`__
+`The URL link to the source <https://doi.org/10.4064/ap-9-2-137-144>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

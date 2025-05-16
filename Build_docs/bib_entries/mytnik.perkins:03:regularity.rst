@@ -25,7 +25,7 @@ mytnik.perkins:03:regularity
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1055425785}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1055425785>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

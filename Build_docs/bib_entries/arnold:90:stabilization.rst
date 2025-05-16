@@ -24,7 +24,7 @@ arnold:90:stabilization
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/zamm.19900700704}>`__
+`The URL link to the source <https://doi.org/10.1002/zamm.19900700704>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

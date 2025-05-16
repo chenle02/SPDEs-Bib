@@ -24,7 +24,7 @@ harding:08:explaining
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.econlet.2007.06.001}>`__
+`The URL link to the source <https://doi.org/10.1016/j.econlet.2007.06.001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

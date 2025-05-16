@@ -23,7 +23,7 @@ le:16:remark
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spl.2016.06.004}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spl.2016.06.004>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

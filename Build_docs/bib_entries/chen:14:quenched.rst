@@ -25,7 +25,7 @@ chen:14:quenched
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/12-AOP830}>`__
+`The URL link to the source <https://doi.org/10.1214/12-AOP830>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

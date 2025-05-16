@@ -24,7 +24,7 @@ barral.peyriere:18:mandelbrot
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.4310/AJM.2018.v22.n5.a5}>`__
+`The URL link to the source <https://doi.org/10.4310/AJM.2018.v22.n5.a5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

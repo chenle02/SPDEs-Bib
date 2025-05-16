@@ -24,7 +24,7 @@ liu.selk.ea:23:convergence
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/22-aihp1282}>`__
+`The URL link to the source <https://doi.org/10.1214/22-aihp1282>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

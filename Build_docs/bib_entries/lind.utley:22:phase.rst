@@ -25,7 +25,7 @@ lind.utley:22:phase
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.2140/involve.2022.15.447}>`__
+`The URL link to the source <https://doi.org/10.2140/involve.2022.15.447>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

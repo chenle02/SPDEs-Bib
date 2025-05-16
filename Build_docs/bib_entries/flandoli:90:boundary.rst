@@ -25,7 +25,7 @@ flandoli:90:boundary
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0120091}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0120091>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

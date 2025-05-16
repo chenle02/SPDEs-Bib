@@ -26,7 +26,7 @@ gwynne.holden.ea:20:liouville
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-019-03663-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-019-03663-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

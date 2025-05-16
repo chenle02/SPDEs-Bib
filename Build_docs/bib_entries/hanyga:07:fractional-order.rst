@@ -24,7 +24,7 @@ hanyga:07:fractional-order
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00161-007-0042-0}>`__
+`The URL link to the source <https://doi.org/10.1007/s00161-007-0042-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

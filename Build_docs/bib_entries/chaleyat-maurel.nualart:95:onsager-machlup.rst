@@ -24,7 +24,7 @@ chaleyat-maurel.nualart:95:onsager-machlup
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0094199}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0094199>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

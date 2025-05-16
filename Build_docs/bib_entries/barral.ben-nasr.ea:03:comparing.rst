@@ -26,7 +26,7 @@ barral.ben-nasr.ea:03:comparing
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.4310/AJM.2003.v7.n2.a1}>`__
+`The URL link to the source <https://doi.org/10.4310/AJM.2003.v7.n2.a1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

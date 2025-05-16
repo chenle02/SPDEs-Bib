@@ -23,7 +23,7 @@ larios.yamazaki:20:on
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.physd.2020.132560}>`__
+`The URL link to the source <https://doi.org/10.1016/j.physd.2020.132560>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ bourgain.klein:13:bounds
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00222-012-0440-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s00222-012-0440-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

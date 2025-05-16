@@ -24,7 +24,7 @@ derrida:95:exponents
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/0305-4470/28/6/006}>`__
+`The URL link to the source <https://doi.org/10.1088/0305-4470/28/6/006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

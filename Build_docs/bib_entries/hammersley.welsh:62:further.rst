@@ -25,7 +25,7 @@ hammersley.welsh:62:further
     year = {1962}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/qmath/13.1.108}>`__
+`The URL link to the source <https://doi.org/10.1093/qmath/13.1.108>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

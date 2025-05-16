@@ -25,7 +25,7 @@ bourgain:07:some
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-540-72053-9_6}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-540-72053-9_6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

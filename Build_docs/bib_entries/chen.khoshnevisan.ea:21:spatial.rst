@@ -23,7 +23,7 @@ chen.khoshnevisan.ea:21:spatial
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/21-ejp690}>`__
+`The URL link to the source <https://doi.org/10.1214/21-ejp690>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

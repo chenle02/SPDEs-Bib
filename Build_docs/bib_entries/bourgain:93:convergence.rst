@@ -23,7 +23,7 @@ bourgain:93:convergence
     year = {1993}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ijm/1255986988}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255986988>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ guerra.toninelli:02:thermodynamic
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-002-0699-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-002-0699-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

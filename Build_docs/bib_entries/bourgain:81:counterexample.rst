@@ -23,7 +23,7 @@ bourgain:81:counterexample
     year = {1981}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=CM_1981__43_1_133_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=CM_1981__43_1_133_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

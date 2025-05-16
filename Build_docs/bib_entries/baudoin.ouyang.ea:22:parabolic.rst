@@ -18,7 +18,7 @@ baudoin.ouyang.ea:22:parabolic
     year = {2022}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2206.14139}>`__
+`The URL link to the source <http://arXiv.org/abs/2206.14139>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ metzler.klafter:00:random*1
     year = {2000}
    }
 
-`The URL link to the source <ttps://www.sciencedirect.com/science/article/pii/S0370157300000703}>`__
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0370157300000703>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ damron.hochman:13:examples
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/12-AAP864}>`__
+`The URL link to the source <https://doi.org/10.1214/12-AAP864>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

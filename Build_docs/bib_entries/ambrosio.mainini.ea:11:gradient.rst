@@ -26,7 +26,7 @@ ambrosio.mainini.ea:11:gradient
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.anihpc.2010.11.006}>`__
+`The URL link to the source <https://doi.org/10.1016/j.anihpc.2010.11.006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

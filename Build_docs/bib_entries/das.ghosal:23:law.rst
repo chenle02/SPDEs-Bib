@@ -25,7 +25,7 @@ das.ghosal:23:law
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/22-aop1603}>`__
+`The URL link to the source <https://doi.org/10.1214/22-aop1603>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

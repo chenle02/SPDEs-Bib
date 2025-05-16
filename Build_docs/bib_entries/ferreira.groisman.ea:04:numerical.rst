@@ -26,7 +26,7 @@ ferreira.groisman.ea:04:numerical
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/num.10103}>`__
+`The URL link to the source <https://doi.org/10.1002/num.10103>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

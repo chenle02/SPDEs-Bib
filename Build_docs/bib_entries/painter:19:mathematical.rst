@@ -23,7 +23,7 @@ painter:19:mathematical
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jtbi.2018.06.019}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jtbi.2018.06.019>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

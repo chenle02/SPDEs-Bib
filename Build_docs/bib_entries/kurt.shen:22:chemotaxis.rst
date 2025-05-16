@@ -18,7 +18,7 @@ kurt.shen:22:chemotaxis
     year = {2022}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2205.00096}>`__
+`The URL link to the source <http://arXiv.org/abs/2205.00096>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

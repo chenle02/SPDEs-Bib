@@ -23,7 +23,7 @@ richardson:73:random
     year = {1973}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/s0305004100077288}>`__
+`The URL link to the source <https://doi.org/10.1017/s0305004100077288>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ miyachi:90:hp
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm-95-3-205-228}>`__
+`The URL link to the source <https://doi.org/10.4064/sm-95-3-205-228>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

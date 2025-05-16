@@ -26,7 +26,7 @@ chiodaroli.feireisl.ea:21:ill-posedness
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1512/iumj.2021.70.8591}>`__
+`The URL link to the source <https://doi.org/10.1512/iumj.2021.70.8591>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ holder:33:uber
     year = {1933}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01474611}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01474611>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

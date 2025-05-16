@@ -25,7 +25,7 @@ jonsdottir.r-nn-nielsen.ea:13:levy-based
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/sjos.12000}>`__
+`The URL link to the source <https://doi.org/10.1002/sjos.12000>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

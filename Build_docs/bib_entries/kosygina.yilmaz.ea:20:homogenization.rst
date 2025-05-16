@@ -26,7 +26,7 @@ kosygina.yilmaz.ea:20:homogenization
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/03605302.2019.1657448}>`__
+`The URL link to the source <https://doi.org/10.1080/03605302.2019.1657448>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

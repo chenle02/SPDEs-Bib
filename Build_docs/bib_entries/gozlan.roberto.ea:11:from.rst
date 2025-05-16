@@ -26,7 +26,7 @@ gozlan.roberto.ea:11:from
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2010.11.010}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2010.11.010>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

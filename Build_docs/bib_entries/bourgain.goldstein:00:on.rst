@@ -25,7 +25,7 @@ bourgain.goldstein:00:on
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2661356}>`__
+`The URL link to the source <https://doi.org/10.2307/2661356>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ bourgain.brezis.ea:05:new
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2005.04.007}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2005.04.007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

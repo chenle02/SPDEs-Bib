@@ -24,7 +24,7 @@ bourgain.demeter:16:decouplings
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2015.11.008}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2015.11.008>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

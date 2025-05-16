@@ -24,7 +24,7 @@ lorz:12:coupled
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.4310/CMS.2012.v10.n2.a7}>`__
+`The URL link to the source <https://doi.org/10.4310/CMS.2012.v10.n2.a7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

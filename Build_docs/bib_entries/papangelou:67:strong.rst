@@ -24,7 +24,7 @@ papangelou:67:strong
     year = {1967}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF00531592}>`__
+`The URL link to the source <https://doi.org/10.1007/BF00531592>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

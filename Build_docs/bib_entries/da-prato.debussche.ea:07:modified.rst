@@ -24,7 +24,7 @@ da-prato.debussche.ea:07:modified
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v12-1333}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v12-1333>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

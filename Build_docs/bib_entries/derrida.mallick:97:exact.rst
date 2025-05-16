@@ -25,7 +25,7 @@ derrida.mallick:97:exact
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/0305-4470/30/4/007}>`__
+`The URL link to the source <https://doi.org/10.1088/0305-4470/30/4/007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ bourgain:86:on*1
     year = {1986}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2000037}>`__
+`The URL link to the source <https://doi.org/10.2307/2000037>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

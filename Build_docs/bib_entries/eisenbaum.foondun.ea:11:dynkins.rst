@@ -28,7 +28,7 @@ eisenbaum.foondun.ea:11:dynkins
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11118-010-9193-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s11118-010-9193-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

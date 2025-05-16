@@ -23,7 +23,7 @@ neerven:92:adjoint
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0085008}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0085008>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

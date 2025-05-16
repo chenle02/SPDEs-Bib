@@ -26,7 +26,7 @@ bourgain.wang:97:construction
     year = {1997}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=ASNSP_1997_4_25_1-2_197_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=ASNSP_1997_4_25_1-2_197_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

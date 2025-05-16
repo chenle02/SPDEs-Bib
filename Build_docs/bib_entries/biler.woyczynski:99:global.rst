@@ -25,7 +25,7 @@ biler.woyczynski:99:global
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/S0036139996313447}>`__
+`The URL link to the source <https://doi.org/10.1137/S0036139996313447>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

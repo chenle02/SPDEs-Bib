@@ -27,7 +27,7 @@ misiats.stanzhytskyi.ea:20:invariant
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442508.2019.1691212}>`__
+`The URL link to the source <https://doi.org/10.1080/17442508.2019.1691212>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

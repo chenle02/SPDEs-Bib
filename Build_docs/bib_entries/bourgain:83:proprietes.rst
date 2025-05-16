@@ -24,7 +24,7 @@ bourgain:83:proprietes
     year = {1983}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=BSMF_1983__111__421_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=BSMF_1983__111__421_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

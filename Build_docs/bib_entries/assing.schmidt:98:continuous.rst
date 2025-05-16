@@ -24,7 +24,7 @@ assing.schmidt:98:continuous
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0096151}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0096151>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ gubinelli.perkowski:17:kpz
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-016-2788-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-016-2788-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

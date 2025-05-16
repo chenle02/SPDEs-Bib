@@ -25,7 +25,7 @@ salins:25:solutions
     year = {2025}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/24-aop1704}>`__
+`The URL link to the source <https://doi.org/10.1214/24-aop1704>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

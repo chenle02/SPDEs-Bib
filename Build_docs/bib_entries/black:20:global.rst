@@ -24,7 +24,7 @@ black:20:global
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcdss.2020007}>`__
+`The URL link to the source <https://doi.org/10.3934/dcdss.2020007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

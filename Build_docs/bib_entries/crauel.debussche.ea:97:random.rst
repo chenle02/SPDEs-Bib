@@ -24,7 +24,7 @@ crauel.debussche.ea:97:random
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02219225}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02219225>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

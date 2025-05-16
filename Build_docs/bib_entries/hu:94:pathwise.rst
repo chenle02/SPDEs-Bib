@@ -25,7 +25,7 @@ hu:94:pathwise
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0252-9602(18)30136-X}>`__
+`The URL link to the source <https://doi.org/10.1016/S0252-9602(18)30136-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

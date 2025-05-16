@@ -24,7 +24,7 @@ barral.qu:11:multifractals
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/0951-7715/24/10/008}>`__
+`The URL link to the source <https://doi.org/10.1088/0951-7715/24/10/008>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

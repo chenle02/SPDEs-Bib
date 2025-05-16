@@ -24,7 +24,7 @@ oksendal.sulem.ea:12:optimal
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/9789814383585_0018}>`__
+`The URL link to the source <https://doi.org/10.1142/9789814383585_0018>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

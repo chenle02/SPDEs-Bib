@@ -23,7 +23,7 @@ bourgain.chang:09:sum-product
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11854-009-0033-0}>`__
+`The URL link to the source <https://doi.org/10.1007/s11854-009-0033-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

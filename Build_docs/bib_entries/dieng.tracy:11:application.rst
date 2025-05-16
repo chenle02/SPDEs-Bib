@@ -22,7 +22,7 @@ dieng.tracy:11:application
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4419-9514-8_7}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4419-9514-8_7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

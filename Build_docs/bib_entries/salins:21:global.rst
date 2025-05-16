@@ -18,7 +18,7 @@ salins:21:global
     year = {2021}
    }
 
-`The URL link to the source <ttps://www.arxiv.org/abs/2110.10130}>`__
+`The URL link to the source <https://www.arxiv.org/abs/2110.10130>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ jacka.tribe:03:comparisons
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1055425794}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1055425794>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ quastel.remenik:11:local
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v16-1678}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v16-1678>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

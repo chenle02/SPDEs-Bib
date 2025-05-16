@@ -25,7 +25,7 @@ hu.nualart.ea:11:feynman-kac
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/10-AOP547}>`__
+`The URL link to the source <https://doi.org/10.1214/10-AOP547>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

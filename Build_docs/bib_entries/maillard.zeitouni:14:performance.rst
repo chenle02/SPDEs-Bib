@@ -25,7 +25,7 @@ maillard.zeitouni:14:performance
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/13-AAP972}>`__
+`The URL link to the source <https://doi.org/10.1214/13-AAP972>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ dynkin:84:polynomials
     year = {1984}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0022-1236(84)90031-4}>`__
+`The URL link to the source <https://doi.org/10.1016/0022-1236(84)90031-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

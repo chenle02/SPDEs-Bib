@@ -23,7 +23,7 @@ jabin:14:review
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/krm.2014.7.661}>`__
+`The URL link to the source <https://doi.org/10.3934/krm.2014.7.661>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

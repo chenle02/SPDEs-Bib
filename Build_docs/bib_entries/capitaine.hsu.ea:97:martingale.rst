@@ -24,7 +24,7 @@ capitaine.hsu.ea:97:martingale
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v2-986}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v2-986>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

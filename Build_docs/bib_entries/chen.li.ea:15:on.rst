@@ -25,7 +25,7 @@ chen.li.ea:15:on
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/cpaa.2015.14.1817}>`__
+`The URL link to the source <https://doi.org/10.3934/cpaa.2015.14.1817>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

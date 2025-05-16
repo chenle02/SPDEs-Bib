@@ -25,7 +25,7 @@ gaudreau-lamarre.ghosal.ea:22:on
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.4171/jst/415}>`__
+`The URL link to the source <https://doi.org/10.4171/jst/415>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

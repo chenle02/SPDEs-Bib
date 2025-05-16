@@ -25,7 +25,7 @@ barral.feng:21:on
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00209-020-02622-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s00209-020-02622-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

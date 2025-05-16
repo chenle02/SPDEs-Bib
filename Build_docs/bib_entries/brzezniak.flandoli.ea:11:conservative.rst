@@ -26,7 +26,7 @@ brzezniak.flandoli.ea:11:conservative
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-011-0327-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-011-0327-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -27,7 +27,7 @@ bardina.marquez-carreras.ea:04:p-spin
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/B:POTA.0000034325.04634.f5}>`__
+`The URL link to the source <https://doi.org/10.1023/B:POTA.0000034325.04634.f5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

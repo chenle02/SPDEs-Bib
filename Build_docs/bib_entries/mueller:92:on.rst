@@ -24,7 +24,7 @@ mueller:92:on
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/conm/137/1190995}>`__
+`The URL link to the source <https://doi.org/10.1090/conm/137/1190995>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

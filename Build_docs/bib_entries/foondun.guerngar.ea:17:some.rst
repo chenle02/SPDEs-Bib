@@ -24,7 +24,7 @@ foondun.guerngar.ea:17:some
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.chaos.2017.03.064}>`__
+`The URL link to the source <https://doi.org/10.1016/j.chaos.2017.03.064>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

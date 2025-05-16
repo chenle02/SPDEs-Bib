@@ -23,7 +23,7 @@ mogilner.edelstein-keshet:99:non-local
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s002850050158}>`__
+`The URL link to the source <https://doi.org/10.1007/s002850050158>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

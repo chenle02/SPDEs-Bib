@@ -25,7 +25,7 @@ nualart:09:malliavin
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/cbms/110}>`__
+`The URL link to the source <https://doi.org/10.1090/cbms/110>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

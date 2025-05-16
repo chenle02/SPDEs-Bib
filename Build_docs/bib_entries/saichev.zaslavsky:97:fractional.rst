@@ -23,7 +23,7 @@ saichev.zaslavsky:97:fractional
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1063/1.166272}>`__
+`The URL link to the source <https://doi.org/10.1063/1.166272>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

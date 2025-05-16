@@ -25,7 +25,7 @@ balan.jankovic:19:asymptotic
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.3103/S1066530719020017}>`__
+`The URL link to the source <https://doi.org/10.3103/S1066530719020017>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

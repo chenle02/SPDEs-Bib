@@ -24,7 +24,7 @@ brydges.mitter.ea:03:critical
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-003-0895-4}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-003-0895-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

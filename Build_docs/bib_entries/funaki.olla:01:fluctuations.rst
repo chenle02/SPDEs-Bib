@@ -24,7 +24,7 @@ funaki.olla:01:fluctuations
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0304-4149(00)00104-6}>`__
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(00)00104-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

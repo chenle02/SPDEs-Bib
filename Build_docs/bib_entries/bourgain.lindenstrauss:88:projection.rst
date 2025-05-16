@@ -24,7 +24,7 @@ bourgain.lindenstrauss:88:projection
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0081746}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0081746>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

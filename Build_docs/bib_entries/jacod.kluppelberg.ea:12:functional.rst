@@ -26,7 +26,7 @@ jacod.kluppelberg.ea:12:functional
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/s0021900200012778}>`__
+`The URL link to the source <https://doi.org/10.1017/s0021900200012778>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

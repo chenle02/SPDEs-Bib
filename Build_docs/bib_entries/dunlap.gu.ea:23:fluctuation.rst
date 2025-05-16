@@ -24,7 +24,7 @@ dunlap.gu.ea:23:fluctuation
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.22110}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.22110>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

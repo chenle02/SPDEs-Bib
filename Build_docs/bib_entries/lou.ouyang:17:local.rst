@@ -24,7 +24,7 @@ lou.ouyang:17:local
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2017.03.013}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2017.03.013>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

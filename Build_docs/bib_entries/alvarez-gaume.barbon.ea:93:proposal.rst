@@ -27,7 +27,7 @@ alvarez-gaume.barbon.ea:93:proposal
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0550-3213(93)90020-P}>`__
+`The URL link to the source <https://doi.org/10.1016/0550-3213(93)90020-P>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

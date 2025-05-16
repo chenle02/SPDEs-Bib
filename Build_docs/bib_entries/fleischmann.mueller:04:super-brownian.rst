@@ -24,7 +24,7 @@ fleischmann.mueller:04:super-brownian
     year = {2004/05}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/S0036141002419473}>`__
+`The URL link to the source <https://doi.org/10.1137/S0036141002419473>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

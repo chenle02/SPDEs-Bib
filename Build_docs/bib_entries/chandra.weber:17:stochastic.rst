@@ -26,7 +26,7 @@ chandra.weber:17:stochastic
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.5802/afst.1555}>`__
+`The URL link to the source <https://doi.org/10.5802/afst.1555>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

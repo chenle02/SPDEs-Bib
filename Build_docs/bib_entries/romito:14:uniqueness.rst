@@ -25,7 +25,7 @@ romito:14:uniqueness
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-013-0499-7}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-013-0499-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

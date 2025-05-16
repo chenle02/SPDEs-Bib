@@ -24,7 +24,7 @@ bourgain:80:borel
     year = {1980}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/fm-107-2-149-159}>`__
+`The URL link to the source <https://doi.org/10.4064/fm-107-2-149-159>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

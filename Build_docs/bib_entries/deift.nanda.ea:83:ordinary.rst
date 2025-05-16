@@ -24,7 +24,7 @@ deift.nanda.ea:83:ordinary
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/0720001}>`__
+`The URL link to the source <https://doi.org/10.1137/0720001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

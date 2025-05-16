@@ -23,7 +23,7 @@ derrida.lebowitz.ea:91:dynamics
     year = {1991}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/24/4805}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/24/4805>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

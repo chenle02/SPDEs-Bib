@@ -25,7 +25,7 @@ chen.kuzgun.ea:24:on
     year = {2024}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-023-03227-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-023-03227-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

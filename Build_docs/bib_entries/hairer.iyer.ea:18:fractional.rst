@@ -26,7 +26,7 @@ hairer.iyer.ea:18:fractional
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/17-AOP1196}>`__
+`The URL link to the source <https://doi.org/10.1214/17-AOP1196>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

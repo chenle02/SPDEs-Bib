@@ -25,7 +25,7 @@ baverez.guillarmou.ea:24:virasoro
     year = {2024}
    }
 
-`The URL link to the source <ttps://doi.org/10.2140/pmp.2024.5.269}>`__
+`The URL link to the source <https://doi.org/10.2140/pmp.2024.5.269>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

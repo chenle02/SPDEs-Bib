@@ -26,7 +26,7 @@ bourgain.klartag.ea:03:reduction
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S1631-073X(03)00041-4}>`__
+`The URL link to the source <https://doi.org/10.1016/S1631-073X(03)00041-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

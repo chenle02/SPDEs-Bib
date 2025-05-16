@@ -24,7 +24,7 @@ matsushita.wakita.ea:98:interface
     year = {1998}
    }
 
-`The URL link to the source <ttps://www.sciencedirect.com/science/article/pii/S0378437197005116}>`__
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0378437197005116>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

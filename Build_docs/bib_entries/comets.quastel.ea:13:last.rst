@@ -25,7 +25,7 @@ comets.quastel.ea:13:last
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-013-0779-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-013-0779-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ basse-oconnor.graversen.ea:14:stochastic
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/S0040585X97986540}>`__
+`The URL link to the source <https://doi.org/10.1137/S0040585X97986540>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

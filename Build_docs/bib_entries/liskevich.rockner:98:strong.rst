@@ -26,7 +26,7 @@ liskevich.rockner:98:strong
     year = {1998}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=ASNSP_1998_4_27_1_69_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=ASNSP_1998_4_27_1_69_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

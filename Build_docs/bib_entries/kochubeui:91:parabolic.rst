@@ -24,7 +24,7 @@ kochubeui:91:parabolic
     year = {1991}
    }
 
-`The URL link to the source <ttps://doi.org/10.1070/IM1992v039n03ABEH002247}>`__
+`The URL link to the source <https://doi.org/10.1070/IM1992v039n03ABEH002247>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

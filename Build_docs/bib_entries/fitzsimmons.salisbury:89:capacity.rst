@@ -25,7 +25,7 @@ fitzsimmons.salisbury:89:capacity
     year = {1989}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIHPB_1989__25_3_325_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB_1989__25_3_325_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

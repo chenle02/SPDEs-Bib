@@ -23,7 +23,7 @@ kwon.hopkins.ea:96:dynamic
     year = {1996}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevE.54.685}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevE.54.685>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

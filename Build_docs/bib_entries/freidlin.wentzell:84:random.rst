@@ -24,7 +24,7 @@ freidlin.wentzell:84:random
     year = {1984}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4684-0176-9}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4684-0176-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -21,7 +21,7 @@ kardar.parisi.ea:86:dynamic
     year = {1986}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevLett.56.889}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.56.889>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

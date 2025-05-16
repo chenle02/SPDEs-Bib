@@ -24,7 +24,7 @@ kobayashi.sirao.ea:77:on
     year = {1977}
    }
 
-`The URL link to the source <ttps://doi.org/10.2969/jmsj/02930407}>`__
+`The URL link to the source <https://doi.org/10.2969/jmsj/02930407>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

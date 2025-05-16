@@ -25,7 +25,7 @@ lyons:91:on
     year = {1991}
    }
 
-`The URL link to the source <ttps://doi.org/10.1098/rspa.1991.0017}>`__
+`The URL link to the source <https://doi.org/10.1098/rspa.1991.0017>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

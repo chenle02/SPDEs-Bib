@@ -24,7 +24,7 @@ gu:20:gaussian
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-019-00144-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-019-00144-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

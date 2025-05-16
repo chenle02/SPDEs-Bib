@@ -24,7 +24,7 @@ sato:04:stochastic
     year = {2004}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ojm/1153493451}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1153493451>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

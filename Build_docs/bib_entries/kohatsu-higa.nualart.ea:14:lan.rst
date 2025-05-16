@@ -25,7 +25,7 @@ kohatsu-higa.nualart.ea:14:lan
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2014.08.013}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2014.08.013>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

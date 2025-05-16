@@ -23,7 +23,7 @@ garsia.rodemich:74:monotonicity
     year = {1974}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIF_1974__24_2_67_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIF_1974__24_2_67_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

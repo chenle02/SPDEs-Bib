@@ -23,7 +23,7 @@ liggett:85:improved
     year = {1985}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198511)13:4<1279:AISET>2.0.CO;2-1&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198511)13:4<1279:AISET>2.0.CO;2-1&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

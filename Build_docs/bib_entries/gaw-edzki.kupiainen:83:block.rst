@@ -24,7 +24,7 @@ gaw-edzki.kupiainen:83:block
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0003-4916(83)90071-4}>`__
+`The URL link to the source <https://doi.org/10.1016/0003-4916(83)90071-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

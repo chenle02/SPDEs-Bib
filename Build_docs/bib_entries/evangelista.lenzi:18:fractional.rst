@@ -21,7 +21,7 @@ evangelista.lenzi:18:fractional
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/9781316534649}>`__
+`The URL link to the source <https://doi.org/10.1017/9781316534649>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

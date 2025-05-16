@@ -23,7 +23,7 @@ marcus.rosen:06:markov
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9780511617997}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9780511617997>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

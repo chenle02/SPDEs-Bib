@@ -26,7 +26,7 @@ bodineau.derrida.ea:08:long
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-008-9647-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-008-9647-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ bruned.hairer.ea:20:renormalisation
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.4171/news/115/3}>`__
+`The URL link to the source <https://doi.org/10.4171/news/115/3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

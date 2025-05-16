@@ -25,7 +25,7 @@ bona.saut:93:dispersive
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jdeq.1993.1040}>`__
+`The URL link to the source <https://doi.org/10.1006/jdeq.1993.1040>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

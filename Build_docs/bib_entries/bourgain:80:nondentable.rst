@@ -25,7 +25,7 @@ bourgain:80:nondentable
     year = {1980}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm-68-2-131-139}>`__
+`The URL link to the source <https://doi.org/10.4064/sm-68-2-131-139>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

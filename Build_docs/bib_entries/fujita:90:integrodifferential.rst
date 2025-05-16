@@ -24,7 +24,7 @@ fujita:90:integrodifferential
     year = {1990}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ojm/1200782677}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200782677>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

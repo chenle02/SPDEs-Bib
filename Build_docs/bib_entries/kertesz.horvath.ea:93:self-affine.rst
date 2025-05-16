@@ -22,7 +22,7 @@ kertesz.horvath.ea:93:self-affine
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0218348X93000101}>`__
+`The URL link to the source <https://doi.org/10.1142/S0218348X93000101>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

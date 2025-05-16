@@ -26,7 +26,7 @@ salins:22:global*1
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/tran/8763}>`__
+`The URL link to the source <https://doi.org/10.1090/tran/8763>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

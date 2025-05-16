@@ -24,7 +24,7 @@ neveu:88:multiplicative
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4684-0550-7_10}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4684-0550-7_10>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

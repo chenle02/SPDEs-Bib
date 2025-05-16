@@ -23,7 +23,7 @@ nourdin.pu:22:gaussian
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spl.2021.109269}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spl.2021.109269>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

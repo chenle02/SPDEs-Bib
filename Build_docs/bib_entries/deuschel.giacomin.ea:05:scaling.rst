@@ -26,7 +26,7 @@ deuschel.giacomin.ea:05:scaling
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-004-0401-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-004-0401-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ duplantier.ho.ea:18:logarithmic
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-017-3046-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-017-3046-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

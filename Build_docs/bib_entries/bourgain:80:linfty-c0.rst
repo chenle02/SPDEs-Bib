@@ -25,7 +25,7 @@ bourgain:80:linfty-c0
     year = {1980}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2042258}>`__
+`The URL link to the source <https://doi.org/10.2307/2042258>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

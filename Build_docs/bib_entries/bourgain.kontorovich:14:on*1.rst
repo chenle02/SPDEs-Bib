@@ -24,7 +24,7 @@ bourgain.kontorovich:14:on*1
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.4007/annals.2014.180.1.3}>`__
+`The URL link to the source <https://doi.org/10.4007/annals.2014.180.1.3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

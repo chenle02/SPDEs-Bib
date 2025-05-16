@@ -25,7 +25,7 @@ cieslak.winkler:17:global
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.nonrwa.2016.10.002}>`__
+`The URL link to the source <https://doi.org/10.1016/j.nonrwa.2016.10.002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

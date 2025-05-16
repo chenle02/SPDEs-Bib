@@ -21,7 +21,7 @@ biswas.cherayil:95:dynamics
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1021/j100002a052}>`__
+`The URL link to the source <https://doi.org/10.1021/j100002a052>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

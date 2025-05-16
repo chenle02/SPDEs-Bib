@@ -26,7 +26,7 @@ pskhu:09:fundamental
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1070/IM2009v073n02ABEH002450}>`__
+`The URL link to the source <https://doi.org/10.1070/IM2009v073n02ABEH002450>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

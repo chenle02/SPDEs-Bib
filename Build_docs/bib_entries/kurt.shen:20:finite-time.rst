@@ -18,7 +18,7 @@ kurt.shen:20:finite-time
     year = {2020}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2008.01887}>`__
+`The URL link to the source <http://arXiv.org/abs/2008.01887>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

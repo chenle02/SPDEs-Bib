@@ -24,7 +24,7 @@ epshteyn:09:discontinuous
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.cam.2008.04.030}>`__
+`The URL link to the source <https://doi.org/10.1016/j.cam.2008.04.030>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

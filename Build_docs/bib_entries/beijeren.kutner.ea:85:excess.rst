@@ -23,7 +23,7 @@ beijeren.kutner.ea:85:excess
     year = {1985}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevLett.54.2026}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevLett.54.2026>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ rhodes.vargas:11:kpz
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1051/ps/2010007}>`__
+`The URL link to the source <https://doi.org/10.1051/ps/2010007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

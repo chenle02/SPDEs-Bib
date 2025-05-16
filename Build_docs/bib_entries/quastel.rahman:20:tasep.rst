@@ -22,7 +22,7 @@ quastel.rahman:20:tasep
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.5802/ahl.52}>`__
+`The URL link to the source <https://doi.org/10.5802/ahl.52>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

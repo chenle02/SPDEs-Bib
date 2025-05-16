@@ -27,7 +27,7 @@ anderson.mattingly.ea:07:propagation
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11538-007-9192-2}>`__
+`The URL link to the source <https://doi.org/10.1007/s11538-007-9192-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

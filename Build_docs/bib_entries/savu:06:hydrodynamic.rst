@@ -23,7 +23,7 @@ savu:06:hydrodynamic
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1155/JAM/2006/69101}>`__
+`The URL link to the source <https://doi.org/10.1155/JAM/2006/69101>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

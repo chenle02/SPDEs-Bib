@@ -26,7 +26,7 @@ bo.zhang:09:large
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442500801981084}>`__
+`The URL link to the source <https://doi.org/10.1080/17442500801981084>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

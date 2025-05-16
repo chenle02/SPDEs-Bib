@@ -22,7 +22,7 @@ calabrese.caux:07:dynamics
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1742-5468/2007/08/p08032}>`__
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2007/08/p08032>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

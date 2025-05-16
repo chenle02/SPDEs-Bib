@@ -23,7 +23,7 @@ hartung.klimovsky:18:phase
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/18-EJP245}>`__
+`The URL link to the source <https://doi.org/10.1214/18-EJP245>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

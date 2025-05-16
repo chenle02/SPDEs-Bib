@@ -26,7 +26,7 @@ mizoguchi.souplet:14:nondegeneracy
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.anihpc.2013.07.007}>`__
+`The URL link to the source <https://doi.org/10.1016/j.anihpc.2013.07.007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

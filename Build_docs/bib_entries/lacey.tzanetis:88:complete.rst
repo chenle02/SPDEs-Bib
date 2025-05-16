@@ -25,7 +25,7 @@ lacey.tzanetis:88:complete
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/imamat/41.3.207}>`__
+`The URL link to the source <https://doi.org/10.1093/imamat/41.3.207>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

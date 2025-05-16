@@ -25,7 +25,7 @@ friedman.tello:02:stability
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0022-247X(02)00147-6}>`__
+`The URL link to the source <https://doi.org/10.1016/S0022-247X(02)00147-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,7 @@ liu.hu.ea:22:nonlinear
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2022.05.016}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2022.05.016>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

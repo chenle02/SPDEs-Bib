@@ -24,7 +24,7 @@ bourgain:90:double
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1515/crll.1990.404.140}>`__
+`The URL link to the source <https://doi.org/10.1515/crll.1990.404.140>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ mitter:17:erratum
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-016-1687-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-016-1687-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

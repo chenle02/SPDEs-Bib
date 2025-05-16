@@ -25,7 +25,7 @@ balazs.seppalainen:10:order
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.4007/annals.2010.171.1237}>`__
+`The URL link to the source <https://doi.org/10.4007/annals.2010.171.1237>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

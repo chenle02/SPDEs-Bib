@@ -25,7 +25,7 @@ budd.carretero-gonzalez.ea:05:precise
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jcp.2004.07.010}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jcp.2004.07.010>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

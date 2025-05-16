@@ -25,7 +25,7 @@ luchko:18:subordination
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/tpms/1067}>`__
+`The URL link to the source <https://doi.org/10.1090/tpms/1067>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

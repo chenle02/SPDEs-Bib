@@ -24,7 +24,7 @@ nualart.pardoux:94:markov
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442509408833896}>`__
+`The URL link to the source <https://doi.org/10.1080/17442509408833896>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

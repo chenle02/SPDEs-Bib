@@ -26,7 +26,7 @@ bourgain.shao.ea:15:on
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-014-2077-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-014-2077-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

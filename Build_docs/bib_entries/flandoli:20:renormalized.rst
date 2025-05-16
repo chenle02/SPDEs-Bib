@@ -24,7 +24,7 @@ flandoli:20:renormalized
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219493720400109}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219493720400109>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ ben-arous.gruadinaru.ea:94:holder
     year = {1994}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIHPB_1994__30_3_415_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB_1994__30_3_415_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

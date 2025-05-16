@@ -25,7 +25,7 @@ rider:03:fluctuations
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1026072819239}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1026072819239>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

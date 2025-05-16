@@ -27,7 +27,7 @@ bernis.hulshof.ea:93:very
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1515/crll.1993.435.1}>`__
+`The URL link to the source <https://doi.org/10.1515/crll.1993.435.1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

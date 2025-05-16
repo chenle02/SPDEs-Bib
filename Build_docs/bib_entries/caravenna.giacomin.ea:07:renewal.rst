@@ -26,7 +26,7 @@ caravenna.giacomin.ea:07:renewal
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/105051607000000159}>`__
+`The URL link to the source <https://doi.org/10.1214/105051607000000159>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

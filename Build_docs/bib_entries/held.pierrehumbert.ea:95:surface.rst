@@ -23,7 +23,7 @@ held.pierrehumbert.ea:95:surface
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/S0022112095000012}>`__
+`The URL link to the source <https://doi.org/10.1017/S0022112095000012>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

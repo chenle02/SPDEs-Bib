@@ -24,7 +24,7 @@ bourgain.chang:18:on
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11854-018-0060-9}>`__
+`The URL link to the source <https://doi.org/10.1007/s11854-018-0060-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

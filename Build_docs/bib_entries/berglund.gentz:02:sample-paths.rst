@@ -25,7 +25,7 @@ berglund.gentz:02:sample-paths
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aoap/1037125869}>`__
+`The URL link to the source <https://doi.org/10.1214/aoap/1037125869>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

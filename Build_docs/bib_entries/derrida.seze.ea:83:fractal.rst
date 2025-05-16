@@ -23,7 +23,7 @@ derrida.seze.ea:83:fractal
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01018834}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01018834>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ candil.chen.ea:24:parabolic
     year = {2024}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-023-00310-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-023-00310-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

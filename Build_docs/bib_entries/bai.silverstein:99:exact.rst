@@ -24,7 +24,7 @@ bai.silverstein:99:exact
     year = {1999}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1022677458}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1022677458>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

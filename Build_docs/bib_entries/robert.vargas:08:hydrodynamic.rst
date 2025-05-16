@@ -24,7 +24,7 @@ robert.vargas:08:hydrodynamic
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-008-0642-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-008-0642-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

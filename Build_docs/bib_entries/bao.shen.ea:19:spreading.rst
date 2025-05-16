@@ -24,7 +24,7 @@ bao.shen.ea:19:spreading
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/cpaa.2019019}>`__
+`The URL link to the source <https://doi.org/10.3934/cpaa.2019019>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

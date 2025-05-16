@@ -24,7 +24,7 @@ nane.wu.ea:12:-time
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1051/ps/2011103}>`__
+`The URL link to the source <https://doi.org/10.1051/ps/2011103>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

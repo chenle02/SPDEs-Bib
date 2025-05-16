@@ -25,7 +25,7 @@ barbato.flandoli.ea:11:energy
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0002-9947-2010-05302-4}>`__
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-2010-05302-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

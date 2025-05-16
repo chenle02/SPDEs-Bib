@@ -24,7 +24,7 @@ berman:73:local
     year = {1973/74}
    }
 
-`The URL link to the source <ttps://doi.org/10.1512/iumj.1973.23.23006}>`__
+`The URL link to the source <https://doi.org/10.1512/iumj.1973.23.23006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -27,7 +27,7 @@ delgado-vences.sanz-sole:16:approximation
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/15-BEJ704}>`__
+`The URL link to the source <https://doi.org/10.3150/15-BEJ704>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

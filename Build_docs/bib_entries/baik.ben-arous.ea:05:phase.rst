@@ -26,7 +26,7 @@ baik.ben-arous.ea:05:phase
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/009117905000000233}>`__
+`The URL link to the source <https://doi.org/10.1214/009117905000000233>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

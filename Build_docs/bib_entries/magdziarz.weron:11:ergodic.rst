@@ -24,7 +24,7 @@ magdziarz.weron:11:ergodic
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.aop.2011.04.015}>`__
+`The URL link to the source <https://doi.org/10.1016/j.aop.2011.04.015>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

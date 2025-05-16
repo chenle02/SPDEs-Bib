@@ -25,7 +25,7 @@ hofstad.morters.ea:08:weak
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/08-AAP526}>`__
+`The URL link to the source <https://doi.org/10.1214/08-AAP526>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

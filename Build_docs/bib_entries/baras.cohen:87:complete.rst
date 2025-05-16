@@ -25,7 +25,7 @@ baras.cohen:87:complete
     year = {1987}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0022-1236(87)90020-6}>`__
+`The URL link to the source <https://doi.org/10.1016/0022-1236(87)90020-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ gardner.greene.ea:67:method
     year = {1967}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevLett.19.1095}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.19.1095>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

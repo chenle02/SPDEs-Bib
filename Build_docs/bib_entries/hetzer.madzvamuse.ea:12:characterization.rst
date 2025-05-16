@@ -25,7 +25,7 @@ hetzer.madzvamuse.ea:12:characterization
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2012.32.3975}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2012.32.3975>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

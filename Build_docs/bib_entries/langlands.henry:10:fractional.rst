@@ -24,7 +24,7 @@ langlands.henry:10:fractional
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevE.81.051102}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.81.051102>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ hu.khoshnevisan:10:strong
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10998-010-3213-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s10998-010-3213-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

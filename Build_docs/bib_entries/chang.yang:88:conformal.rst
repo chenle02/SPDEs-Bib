@@ -23,7 +23,7 @@ chang.yang:88:conformal
     year = {1988}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.jdg/1214441783}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.jdg/1214441783>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

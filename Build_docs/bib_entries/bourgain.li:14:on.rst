@@ -24,7 +24,7 @@ bourgain.li:14:on
     year = {2014}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.die/1408366784}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.die/1408366784>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

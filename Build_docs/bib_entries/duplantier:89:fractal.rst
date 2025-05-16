@@ -23,7 +23,7 @@ duplantier:89:fractal
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4899-3499-4_4}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4899-3499-4_4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

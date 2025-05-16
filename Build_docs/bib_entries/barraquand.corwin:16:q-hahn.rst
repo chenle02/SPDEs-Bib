@@ -24,7 +24,7 @@ barraquand.corwin:16:q-hahn
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/15-AAP1148}>`__
+`The URL link to the source <https://doi.org/10.1214/15-AAP1148>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

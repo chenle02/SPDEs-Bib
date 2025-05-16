@@ -24,7 +24,7 @@ brislawn:91:traceable
     year = {1991}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.pjm/1102637666}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.pjm/1102637666>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

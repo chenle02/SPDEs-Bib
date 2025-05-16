@@ -26,7 +26,7 @@ cerrai.freidlin:17:spdes
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/16-AIHP740}>`__
+`The URL link to the source <https://doi.org/10.1214/16-AIHP740>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ campese.nourdin.ea:16:multivariate
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/16-ECP4615}>`__
+`The URL link to the source <https://doi.org/10.1214/16-ECP4615>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

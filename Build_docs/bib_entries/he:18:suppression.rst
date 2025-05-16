@@ -26,7 +26,7 @@ he:18:suppression
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1361-6544/aac1ce}>`__
+`The URL link to the source <https://doi.org/10.1088/1361-6544/aac1ce>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

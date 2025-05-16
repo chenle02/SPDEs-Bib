@@ -21,7 +21,7 @@ meakin.jullien:89:spatially
     year = {1989}
    }
 
-`The URL link to the source <ttps://dx.doi.org/10.1209/0295-5075/9/1/013}>`__
+`The URL link to the source <https://dx.doi.org/10.1209/0295-5075/9/1/013>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

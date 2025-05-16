@@ -26,7 +26,7 @@ fernandez-baca.seppalainen.ea:04:parametric
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S1570-8667(03)00078-9}>`__
+`The URL link to the source <https://doi.org/10.1016/S1570-8667(03)00078-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

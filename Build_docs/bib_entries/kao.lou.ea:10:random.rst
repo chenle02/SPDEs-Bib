@@ -24,7 +24,7 @@ kao.lou.ea:10:random
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2010.26.551}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2010.26.551>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

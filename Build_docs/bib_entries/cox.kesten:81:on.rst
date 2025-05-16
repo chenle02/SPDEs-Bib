@@ -25,7 +25,7 @@ cox.kesten:81:on
     year = {1981}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/s0021900200034161}>`__
+`The URL link to the source <https://doi.org/10.1017/s0021900200034161>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

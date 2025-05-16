@@ -23,7 +23,7 @@ kesten:63:on
     year = {1963}
    }
 
-`The URL link to the source <ttps://doi.org/10.1063/1.1704022}>`__
+`The URL link to the source <https://doi.org/10.1063/1.1704022>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

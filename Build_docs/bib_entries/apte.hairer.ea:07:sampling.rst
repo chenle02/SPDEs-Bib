@@ -24,7 +24,7 @@ apte.hairer.ea:07:sampling
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.physd.2006.06.009}>`__
+`The URL link to the source <https://doi.org/10.1016/j.physd.2006.06.009>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

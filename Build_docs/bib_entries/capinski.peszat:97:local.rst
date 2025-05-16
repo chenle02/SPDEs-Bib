@@ -25,7 +25,7 @@ capinski.peszat:97:local
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/PL00001415}>`__
+`The URL link to the source <https://doi.org/10.1007/PL00001415>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

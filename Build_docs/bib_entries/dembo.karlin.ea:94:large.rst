@@ -24,7 +24,7 @@ dembo.karlin.ea:94:large
     year = {1994}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=1050-5164(199405)4:2<432:LEFMLP>2.0.CO;2-B&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=1050-5164(199405)4:2<432:LEFMLP>2.0.CO;2-B&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

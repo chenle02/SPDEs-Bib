@@ -24,7 +24,7 @@ dembo.peres.ea:96:tail
     year = {1996}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1104287907}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104287907>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

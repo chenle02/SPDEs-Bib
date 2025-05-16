@@ -24,7 +24,7 @@ lanjri-zadi.nualart:03:smoothness
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v8-1079}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v8-1079>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

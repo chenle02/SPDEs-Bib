@@ -23,7 +23,7 @@ derrida:81:phenomenological
     year = {1981}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/14/L5}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/14/L5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

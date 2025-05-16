@@ -24,7 +24,7 @@ chorin:76:random
     year = {1976}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0021-9991(76)90047-4}>`__
+`The URL link to the source <https://doi.org/10.1016/0021-9991(76)90047-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

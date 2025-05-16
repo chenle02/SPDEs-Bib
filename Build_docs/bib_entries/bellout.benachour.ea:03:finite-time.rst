@@ -25,7 +25,7 @@ bellout.benachour.ea:03:finite-time
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/0951-7715/16/6/305}>`__
+`The URL link to the source <https://doi.org/10.1088/0951-7715/16/6/305>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

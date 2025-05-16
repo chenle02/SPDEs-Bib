@@ -25,7 +25,7 @@ khoshnevisan.lewis:96:chungs
     year = {1996}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIHPB_1996__32_3_349_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB_1996__32_3_349_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

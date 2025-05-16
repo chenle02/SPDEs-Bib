@@ -25,7 +25,7 @@ bourgain.szarek:88:banach-mazur
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02787120}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02787120>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

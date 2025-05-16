@@ -25,7 +25,7 @@ djellout.guillin.ea:04:transportation
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/009117904000000531}>`__
+`The URL link to the source <https://doi.org/10.1214/009117904000000531>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

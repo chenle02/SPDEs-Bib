@@ -24,7 +24,7 @@ dinner.mattingly.ea:18:trajectory
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/16M1104329}>`__
+`The URL link to the source <https://doi.org/10.1137/16M1104329>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

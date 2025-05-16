@@ -23,7 +23,7 @@ beals.deift.ea:88:direct
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/surv/028}>`__
+`The URL link to the source <https://doi.org/10.1090/surv/028>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

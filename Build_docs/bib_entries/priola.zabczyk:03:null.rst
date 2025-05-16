@@ -24,7 +24,7 @@ priola.zabczyk:03:null
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/S0363012902409970}>`__
+`The URL link to the source <https://doi.org/10.1137/S0363012902409970>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

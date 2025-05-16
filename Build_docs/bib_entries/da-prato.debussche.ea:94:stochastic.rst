@@ -25,7 +25,7 @@ da-prato.debussche.ea:94:stochastic
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01194987}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01194987>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

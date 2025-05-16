@@ -24,7 +24,7 @@ horstmann.stevens:04:constructive
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00332-003-0548-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s00332-003-0548-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

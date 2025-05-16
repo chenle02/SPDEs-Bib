@@ -24,7 +24,7 @@ graczyk.smirnov:09:non-uniform
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00222-008-0152-8}>`__
+`The URL link to the source <https://doi.org/10.1007/s00222-008-0152-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

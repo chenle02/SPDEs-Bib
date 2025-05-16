@@ -23,7 +23,7 @@ flandoli.leocata.ea:23:mathematical
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jtbi.2023.111432}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jtbi.2023.111432>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ chouk.gubinelli:15:nonlinear
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/03605302.2015.1073300}>`__
+`The URL link to the source <https://doi.org/10.1080/03605302.2015.1073300>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

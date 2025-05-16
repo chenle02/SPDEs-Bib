@@ -24,7 +24,7 @@ cole:51:on
     year = {1951}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/qam/42889}>`__
+`The URL link to the source <https://doi.org/10.1090/qam/42889>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

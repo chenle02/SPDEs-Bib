@@ -25,7 +25,7 @@ bourgain.konyagin.ea:09:on
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/aa140-1-3}>`__
+`The URL link to the source <https://doi.org/10.4064/aa140-1-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

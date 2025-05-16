@@ -27,7 +27,7 @@ galaktionov.hulshof.ea:97:extinction
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0021-7824(97)89963-1}>`__
+`The URL link to the source <https://doi.org/10.1016/S0021-7824(97)89963-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

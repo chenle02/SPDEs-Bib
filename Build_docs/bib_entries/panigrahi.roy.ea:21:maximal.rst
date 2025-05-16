@@ -24,7 +24,7 @@ panigrahi.roy.ea:21:maximal
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2021.02.002}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2021.02.002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

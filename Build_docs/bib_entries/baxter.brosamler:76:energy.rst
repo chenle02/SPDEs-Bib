@@ -24,7 +24,7 @@ baxter.brosamler:76:energy
     year = {1976}
    }
 
-`The URL link to the source <ttps://doi.org/10.7146/math.scand.a-11622}>`__
+`The URL link to the source <https://doi.org/10.7146/math.scand.a-11622>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

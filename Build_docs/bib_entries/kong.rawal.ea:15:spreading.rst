@@ -26,7 +26,7 @@ kong.rawal.ea:15:spreading
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1051/mmnp/201510609}>`__
+`The URL link to the source <https://doi.org/10.1051/mmnp/201510609>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

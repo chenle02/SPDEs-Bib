@@ -25,7 +25,7 @@ peszat:02:cauchy
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/PL00013197}>`__
+`The URL link to the source <https://doi.org/10.1007/PL00013197>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

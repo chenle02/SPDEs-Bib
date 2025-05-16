@@ -23,7 +23,7 @@ cuneo.eckmann.ea:18:non-equilibrium
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/18-ejp177}>`__
+`The URL link to the source <https://doi.org/10.1214/18-ejp177>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

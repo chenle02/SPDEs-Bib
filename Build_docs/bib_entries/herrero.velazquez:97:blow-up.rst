@@ -24,7 +24,7 @@ herrero.velazquez:97:blow-up
     year = {1997}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=ASNSP_1997_4_24_4_633_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=ASNSP_1997_4_24_4_633_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

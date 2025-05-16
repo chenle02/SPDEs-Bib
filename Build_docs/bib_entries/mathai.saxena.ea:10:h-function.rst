@@ -23,7 +23,7 @@ mathai.saxena.ea:10:h-function
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4419-0916-9}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4419-0916-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

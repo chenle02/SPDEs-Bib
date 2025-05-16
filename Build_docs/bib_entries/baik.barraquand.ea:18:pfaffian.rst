@@ -26,7 +26,7 @@ baik.barraquand.ea:18:pfaffian
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/17-AOP1226}>`__
+`The URL link to the source <https://doi.org/10.1214/17-AOP1226>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

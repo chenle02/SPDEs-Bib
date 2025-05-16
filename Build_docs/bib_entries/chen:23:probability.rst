@@ -18,7 +18,7 @@ chen:23:probability
     year = {2023}
    }
 
-`The URL link to the source <ttps://github.com/chenle02/2022_SSI-AU_Probability_by_Le}>`__
+`The URL link to the source <https://github.com/chenle02/2022_SSI-AU_Probability_by_Le>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

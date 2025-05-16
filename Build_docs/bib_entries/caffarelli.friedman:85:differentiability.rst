@@ -25,7 +25,7 @@ caffarelli.friedman:85:differentiability
     year = {1985}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF00280224}>`__
+`The URL link to the source <https://doi.org/10.1007/BF00280224>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

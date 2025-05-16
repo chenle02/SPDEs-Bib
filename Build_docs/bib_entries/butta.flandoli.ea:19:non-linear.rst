@@ -25,7 +25,7 @@ butta.flandoli.ea:19:non-linear
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/krm.2019031}>`__
+`The URL link to the source <https://doi.org/10.3934/krm.2019031>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

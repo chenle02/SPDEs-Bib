@@ -25,7 +25,7 @@ nourdin.peccati.ea:22:multivariate
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10959-021-01112-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s10959-021-01112-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ bourgain:04:remarks
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/S0143385703000750}>`__
+`The URL link to the source <https://doi.org/10.1017/S0143385703000750>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ mischaikow.nanda:13:morse
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00454-013-9529-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s00454-013-9529-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

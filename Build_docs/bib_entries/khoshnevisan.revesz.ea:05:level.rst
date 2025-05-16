@@ -25,7 +25,7 @@ khoshnevisan.revesz.ea:05:level
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2004.09.010}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2004.09.010>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

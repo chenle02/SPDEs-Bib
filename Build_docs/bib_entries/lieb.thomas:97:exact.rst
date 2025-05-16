@@ -24,7 +24,7 @@ lieb.thomas:97:exact
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s002200050040}>`__
+`The URL link to the source <https://doi.org/10.1007/s002200050040>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

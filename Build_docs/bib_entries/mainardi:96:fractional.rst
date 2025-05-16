@@ -25,7 +25,7 @@ mainardi:96:fractional
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0960-0779(95)00125-5}>`__
+`The URL link to the source <https://doi.org/10.1016/0960-0779(95)00125-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

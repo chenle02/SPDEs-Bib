@@ -24,7 +24,7 @@ bourgain.kahane:10:sur
     year = {2010}
    }
 
-`The URL link to the source <ttp://aif.cedram.org/item?id=AIF_2010__60_4_1201_0}>`__
+`The URL link to the source <http://aif.cedram.org/item?id=AIF_2010__60_4_1201_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

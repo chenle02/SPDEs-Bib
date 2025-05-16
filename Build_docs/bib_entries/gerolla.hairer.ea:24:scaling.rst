@@ -17,7 +17,7 @@ gerolla.hairer.ea:24:scaling
     year = {2024}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2407.13215}>`__
+`The URL link to the source <http://arXiv.org/abs/2407.13215>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

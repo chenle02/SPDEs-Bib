@@ -24,7 +24,7 @@ bourgain.chang:10:on
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2009.12.013}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2009.12.013>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

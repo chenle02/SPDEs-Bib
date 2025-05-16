@@ -24,7 +24,7 @@ duc.nualart.ea:89:planar
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0084000}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0084000>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

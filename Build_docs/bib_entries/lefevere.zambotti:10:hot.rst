@@ -25,7 +25,7 @@ lefevere.zambotti:10:hot
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-010-9962-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-010-9962-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

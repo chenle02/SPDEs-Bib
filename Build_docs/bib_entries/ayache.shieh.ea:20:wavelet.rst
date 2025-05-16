@@ -26,7 +26,7 @@ ayache.shieh.ea:20:wavelet
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442508.2019.1594811}>`__
+`The URL link to the source <https://doi.org/10.1080/17442508.2019.1594811>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

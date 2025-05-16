@@ -24,7 +24,7 @@ quastel.remenik:13:supremum
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-012-0633-4}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-012-0633-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

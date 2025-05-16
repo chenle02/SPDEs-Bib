@@ -25,7 +25,7 @@ hetzer.shen:15:preface
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2015.35.4i}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2015.35.4i>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

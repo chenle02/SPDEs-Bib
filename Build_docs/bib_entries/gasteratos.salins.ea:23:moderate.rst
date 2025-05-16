@@ -26,7 +26,7 @@ gasteratos.salins.ea:23:moderate
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40072-022-00236-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s40072-022-00236-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

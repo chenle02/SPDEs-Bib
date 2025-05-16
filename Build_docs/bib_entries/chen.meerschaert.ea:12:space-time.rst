@@ -23,7 +23,7 @@ chen.meerschaert.ea:12:space-time
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2012.04.032}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2012.04.032>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

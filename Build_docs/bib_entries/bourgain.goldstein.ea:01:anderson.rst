@@ -26,7 +26,7 @@ bourgain.goldstein.ea:01:anderson
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/PL00005570}>`__
+`The URL link to the source <https://doi.org/10.1007/PL00005570>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ dembo.gantert.ea:04:large
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1079021470}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1079021470>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

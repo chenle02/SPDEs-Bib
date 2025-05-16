@@ -25,7 +25,7 @@ forster.nelson.ea:77:large-distance
     year = {1977}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevA.16.732}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevA.16.732>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

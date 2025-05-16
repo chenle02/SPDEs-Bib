@@ -24,7 +24,7 @@ kemppainen.smirnov:18:configurations
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.4310/MRL.2018.v25.n3.a7}>`__
+`The URL link to the source <https://doi.org/10.4310/MRL.2018.v25.n3.a7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

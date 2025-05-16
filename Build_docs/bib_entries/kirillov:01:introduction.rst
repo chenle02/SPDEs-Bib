@@ -21,7 +21,7 @@ kirillov:01:introduction
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/9789812810007_0005}>`__
+`The URL link to the source <https://doi.org/10.1142/9789812810007_0005>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

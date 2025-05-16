@@ -24,7 +24,7 @@ farre.nualart:93:nonlinear
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0304-4149(93)90004-N}>`__
+`The URL link to the source <https://doi.org/10.1016/0304-4149(93)90004-N>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

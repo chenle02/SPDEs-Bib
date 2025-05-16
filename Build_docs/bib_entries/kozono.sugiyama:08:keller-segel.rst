@@ -26,7 +26,7 @@ kozono.sugiyama:08:keller-segel
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1512/iumj.2008.57.3316}>`__
+`The URL link to the source <https://doi.org/10.1512/iumj.2008.57.3316>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

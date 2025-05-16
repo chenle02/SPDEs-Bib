@@ -26,7 +26,7 @@ meerschaert.benson.ea:02:stochastic
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevE.65.041103}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.65.041103>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

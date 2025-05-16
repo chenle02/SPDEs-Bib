@@ -25,7 +25,7 @@ giga:81:analyticity
     year = {1981}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01214869}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01214869>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

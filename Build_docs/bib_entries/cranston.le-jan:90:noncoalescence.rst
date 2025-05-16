@@ -25,7 +25,7 @@ cranston.le-jan:90:noncoalescence
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01198431}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01198431>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

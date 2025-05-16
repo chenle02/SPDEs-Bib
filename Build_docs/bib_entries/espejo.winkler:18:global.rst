@@ -26,7 +26,7 @@ espejo.winkler:18:global
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1361-6544/aa9d5f}>`__
+`The URL link to the source <https://doi.org/10.1088/1361-6544/aa9d5f>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

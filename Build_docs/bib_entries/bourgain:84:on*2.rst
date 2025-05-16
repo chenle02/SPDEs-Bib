@@ -24,7 +24,7 @@ bourgain:84:on*2
     year = {1984}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/mana.19841190104}>`__
+`The URL link to the source <https://doi.org/10.1002/mana.19841190104>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

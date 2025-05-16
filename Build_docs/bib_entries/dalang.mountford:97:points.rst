@@ -23,7 +23,7 @@ dalang.mountford:97:points
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s004400050099}>`__
+`The URL link to the source <https://doi.org/10.1007/s004400050099>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

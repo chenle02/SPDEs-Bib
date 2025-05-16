@@ -17,7 +17,7 @@ guo.song.ea:24:sample
     year = {2024}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2411.12192}>`__
+`The URL link to the source <http://arXiv.org/abs/2411.12192>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

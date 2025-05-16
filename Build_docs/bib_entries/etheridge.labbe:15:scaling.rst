@@ -23,7 +23,7 @@ etheridge.labbe:15:scaling
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-014-2243-2}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-014-2243-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

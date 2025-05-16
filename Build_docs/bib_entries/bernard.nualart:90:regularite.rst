@@ -25,7 +25,7 @@ bernard.nualart:90:regularite
     year = {1990}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIHPB_1990__26_2_287_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB_1990__26_2_287_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

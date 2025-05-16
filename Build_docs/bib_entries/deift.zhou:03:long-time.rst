@@ -26,7 +26,7 @@ deift.zhou:03:long-time
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.3034}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.3034>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

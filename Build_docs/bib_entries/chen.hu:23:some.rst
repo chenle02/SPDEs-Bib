@@ -18,7 +18,7 @@ chen.hu:23:some
     year = {2023}
    }
 
-`The URL link to the source <ttps://github.com/chenle02/Fox-H_Symbolic_Tools}>`__
+`The URL link to the source <https://github.com/chenle02/Fox-H_Symbolic_Tools>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

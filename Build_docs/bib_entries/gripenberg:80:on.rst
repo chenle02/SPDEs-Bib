@@ -23,7 +23,7 @@ gripenberg:80:on
     year = {1980}
    }
 
-`The URL link to the source <ttp://www.math.kobe-u.ac.jp/~fe/xml/mr0586277.xml}>`__
+`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr0586277.xml>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ meerschaert.nane.ea:09:fractional
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/08-AOP426}>`__
+`The URL link to the source <https://doi.org/10.1214/08-AOP426>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ nualart.yeh:89:existence
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0047-259X(89)90101-2}>`__
+`The URL link to the source <https://doi.org/10.1016/0047-259X(89)90101-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

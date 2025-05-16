@@ -24,7 +24,7 @@ lacoin.rhodes.ea:23:probabilistic
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-022-01174-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-022-01174-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

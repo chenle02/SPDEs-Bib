@@ -24,7 +24,7 @@ hu.liu.ea:21:crank-nicolson
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/20-aap1582}>`__
+`The URL link to the source <https://doi.org/10.1214/20-aap1582>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

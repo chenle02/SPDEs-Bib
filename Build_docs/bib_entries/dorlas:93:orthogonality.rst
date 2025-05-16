@@ -24,7 +24,7 @@ dorlas:93:orthogonality
     year = {1993}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1104252974}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104252974>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

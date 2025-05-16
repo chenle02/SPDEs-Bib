@@ -26,7 +26,7 @@ chen.hu:22:holder
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s13540-022-00033-3}>`__
+`The URL link to the source <https://doi.org/10.1007/s13540-022-00033-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

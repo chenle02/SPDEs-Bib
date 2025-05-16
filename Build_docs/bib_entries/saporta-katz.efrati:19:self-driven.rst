@@ -23,7 +23,7 @@ saporta-katz.efrati:19:self-driven
     year = {2019}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevLett.122.024102}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.122.024102>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

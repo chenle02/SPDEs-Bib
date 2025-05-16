@@ -26,7 +26,7 @@ ouvrard:75:representation
     year = {1975/76}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF00534964}>`__
+`The URL link to the source <https://doi.org/10.1007/BF00534964>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

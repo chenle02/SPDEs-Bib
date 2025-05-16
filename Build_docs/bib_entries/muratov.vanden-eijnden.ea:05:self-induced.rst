@@ -25,7 +25,7 @@ muratov.vanden-eijnden.ea:05:self-induced
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.physd.2005.07.014}>`__
+`The URL link to the source <https://doi.org/10.1016/j.physd.2005.07.014>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ he.kiselev:21:small-scale
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/00127094-2020-0064}>`__
+`The URL link to the source <https://doi.org/10.1215/00127094-2020-0064>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

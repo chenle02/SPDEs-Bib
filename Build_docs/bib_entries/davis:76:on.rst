@@ -24,7 +24,7 @@ davis:76:on
     year = {1976}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.dmj/1077311944}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077311944>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ flandoli.lisei:04:stationary
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1081/SAP-200029481}>`__
+`The URL link to the source <https://doi.org/10.1081/SAP-200029481>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

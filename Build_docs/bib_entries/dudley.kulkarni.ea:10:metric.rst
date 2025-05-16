@@ -24,7 +24,7 @@ dudley.kulkarni.ea:10:metric
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4419-5821-1_28}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4419-5821-1_28>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ bourgain:16:on*1
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1353/ajm.2016.0018}>`__
+`The URL link to the source <https://doi.org/10.1353/ajm.2016.0018>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ friz.hairer:20:course
     year = {[2020] \copyright 2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-030-41556-3}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-030-41556-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

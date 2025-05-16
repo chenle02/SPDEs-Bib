@@ -25,7 +25,7 @@ luchko:00:asymptotics
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.4171/ZAA/970}>`__
+`The URL link to the source <https://doi.org/10.4171/ZAA/970>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

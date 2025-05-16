@@ -25,7 +25,7 @@ maslowski.seidler:01:strong
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm148-2-2}>`__
+`The URL link to the source <https://doi.org/10.4064/sm148-2-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

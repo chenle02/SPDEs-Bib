@@ -26,7 +26,7 @@ bourgain.mirek.ea:19:dimension-free
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1353/ajm.2019.0023}>`__
+`The URL link to the source <https://doi.org/10.1353/ajm.2019.0023>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

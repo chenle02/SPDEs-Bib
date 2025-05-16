@@ -17,7 +17,7 @@ dalang.sanz-sole:24:stochastic
     year = {2024}
    }
 
-`The URL link to the source <ttp://arXiv.org/abs/2402.02119}>`__
+`The URL link to the source <http://arXiv.org/abs/2402.02119>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

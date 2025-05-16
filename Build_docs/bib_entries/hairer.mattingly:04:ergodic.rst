@@ -26,7 +26,7 @@ hairer.mattingly:04:ergodic
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2004.09.035}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2004.09.035>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

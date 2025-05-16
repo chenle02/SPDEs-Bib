@@ -24,7 +24,7 @@ gyongy:82:on
     year = {1982}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442508208833220}>`__
+`The URL link to the source <https://doi.org/10.1080/17442508208833220>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

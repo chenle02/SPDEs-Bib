@@ -25,7 +25,7 @@ duplantier:03:higher
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1022107818494}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1022107818494>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

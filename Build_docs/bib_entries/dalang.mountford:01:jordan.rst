@@ -25,7 +25,7 @@ dalang.mountford:01:jordan
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0002-9947-01-02811-2}>`__
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-01-02811-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

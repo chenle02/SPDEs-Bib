@@ -24,7 +24,7 @@ cranston.fabes.ea:86:potential
     year = {1986}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0273-0979-1986-15478-9}>`__
+`The URL link to the source <https://doi.org/10.1090/S0273-0979-1986-15478-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ dittrich:90:travelling
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01198168}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01198168>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

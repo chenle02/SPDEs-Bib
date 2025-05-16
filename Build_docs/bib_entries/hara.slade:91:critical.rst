@@ -25,7 +25,7 @@ hara.slade:91:critical
     year = {1991}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0273-0979-1991-16085-4}>`__
+`The URL link to the source <https://doi.org/10.1090/S0273-0979-1991-16085-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

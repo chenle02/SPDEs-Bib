@@ -22,7 +22,7 @@ bourgain.yehudayoff:12:monotone
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1145/2213977.2214073}>`__
+`The URL link to the source <https://doi.org/10.1145/2213977.2214073>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

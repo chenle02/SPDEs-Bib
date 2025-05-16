@@ -25,7 +25,7 @@ gesztesy.simon:00:inverse
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0002-9947-99-02544-1}>`__
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-99-02544-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

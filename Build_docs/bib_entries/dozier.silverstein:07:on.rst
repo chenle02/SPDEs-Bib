@@ -24,7 +24,7 @@ dozier.silverstein:07:on
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jmva.2006.09.006}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jmva.2006.09.006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

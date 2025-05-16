@@ -24,7 +24,7 @@ giacomin.lacoin:18:disorder
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/17-AAP1312}>`__
+`The URL link to the source <https://doi.org/10.1214/17-AAP1312>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ fukushima.nakao:76:on
     year = {1976/77}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF00537493}>`__
+`The URL link to the source <https://doi.org/10.1007/BF00537493>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

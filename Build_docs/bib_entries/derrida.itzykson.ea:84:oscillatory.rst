@@ -23,7 +23,7 @@ derrida.itzykson.ea:84:oscillatory
     year = {1984}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1103941233}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103941233>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ ceyhan.bahadi-r:17:nearest
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10651-016-0361-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s10651-016-0361-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

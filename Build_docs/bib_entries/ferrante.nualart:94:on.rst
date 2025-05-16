@@ -25,7 +25,7 @@ ferrante.nualart:94:on
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0304-4149(94)90027-2}>`__
+`The URL link to the source <https://doi.org/10.1016/0304-4149(94)90027-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

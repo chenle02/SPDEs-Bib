@@ -24,7 +24,7 @@ mai.nane.ea:22:terminal
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/era.2022072}>`__
+`The URL link to the source <https://doi.org/10.3934/era.2022072>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

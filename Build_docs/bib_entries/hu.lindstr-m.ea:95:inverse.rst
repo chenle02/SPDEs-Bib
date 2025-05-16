@@ -24,7 +24,7 @@ hu.lindstr-m.ea:95:inverse
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/pspum/057/1335488}>`__
+`The URL link to the source <https://doi.org/10.1090/pspum/057/1335488>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

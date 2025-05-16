@@ -27,7 +27,7 @@ duplantier.kostov:90:geometrical
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0550-3213(90)90456-N}>`__
+`The URL link to the source <https://doi.org/10.1016/0550-3213(90)90456-N>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

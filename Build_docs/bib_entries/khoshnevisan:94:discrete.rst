@@ -24,7 +24,7 @@ khoshnevisan:94:discrete
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2159899}>`__
+`The URL link to the source <https://doi.org/10.2307/2159899>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

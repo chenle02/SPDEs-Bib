@@ -24,7 +24,7 @@ lankeit:15:chemotaxis
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcdsb.2015.20.1499}>`__
+`The URL link to the source <https://doi.org/10.3934/dcdsb.2015.20.1499>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

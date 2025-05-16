@@ -24,7 +24,4 @@ hirsch.smale.ea:04:differential
     year = {2004}
    }
 
-`The URL link to the source <ichael Hurley}>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

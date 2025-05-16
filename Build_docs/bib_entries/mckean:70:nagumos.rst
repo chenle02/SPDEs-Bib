@@ -23,7 +23,7 @@ mckean:70:nagumos
     year = {1970}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0001-8708(70)90023-X}>`__
+`The URL link to the source <https://doi.org/10.1016/0001-8708(70)90023-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

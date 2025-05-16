@@ -26,7 +26,7 @@ barral.seuret:08:ubiquity
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/S030500410800159X}>`__
+`The URL link to the source <https://doi.org/10.1017/S030500410800159X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

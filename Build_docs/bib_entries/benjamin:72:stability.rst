@@ -24,7 +24,7 @@ benjamin:72:stability
     year = {1972}
    }
 
-`The URL link to the source <ttps://doi.org/10.1098/rspa.1972.0074}>`__
+`The URL link to the source <https://doi.org/10.1098/rspa.1972.0074>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

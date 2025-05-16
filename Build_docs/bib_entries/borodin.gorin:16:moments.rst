@@ -24,7 +24,7 @@ borodin.gorin:16:moments
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.3842/SIGMA.2016.102}>`__
+`The URL link to the source <https://doi.org/10.3842/SIGMA.2016.102>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ bass.khoshnevisan:93:rates
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0304-4149(93)90014-U}>`__
+`The URL link to the source <https://doi.org/10.1016/0304-4149(93)90014-U>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

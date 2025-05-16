@@ -24,7 +24,7 @@ lax:68:integrals
     year = {1968}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.3160210503}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.3160210503>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

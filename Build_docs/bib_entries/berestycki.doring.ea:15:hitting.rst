@@ -26,7 +26,7 @@ berestycki.doring.ea:15:hitting
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2014.10.012}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2014.10.012>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

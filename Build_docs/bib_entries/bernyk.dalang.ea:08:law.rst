@@ -25,7 +25,7 @@ bernyk.dalang.ea:08:law
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/07-AOP376}>`__
+`The URL link to the source <https://doi.org/10.1214/07-AOP376>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

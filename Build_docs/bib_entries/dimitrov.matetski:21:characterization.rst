@@ -24,7 +24,7 @@ dimitrov.matetski:21:characterization
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/21-aop1513}>`__
+`The URL link to the source <https://doi.org/10.1214/21-aop1513>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

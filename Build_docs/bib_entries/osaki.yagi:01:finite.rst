@@ -24,7 +24,7 @@ osaki.yagi:01:finite
     year = {2001}
    }
 
-`The URL link to the source <ttp://www.math.kobe-u.ac.jp/~fe/xml/mr1893940.xml}>`__
+`The URL link to the source <http://www.math.kobe-u.ac.jp/~fe/xml/mr1893940.xml>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

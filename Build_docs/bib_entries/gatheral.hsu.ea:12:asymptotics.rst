@@ -27,7 +27,7 @@ gatheral.hsu.ea:12:asymptotics
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1111/j.1467-9965.2010.00472.x}>`__
+`The URL link to the source <https://doi.org/10.1111/j.1467-9965.2010.00472.x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

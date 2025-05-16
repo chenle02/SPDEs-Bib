@@ -25,7 +25,7 @@ marchand:02:strict
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aoap/1031863179}>`__
+`The URL link to the source <https://doi.org/10.1214/aoap/1031863179>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

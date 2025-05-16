@@ -23,7 +23,7 @@ duplantier:81:linking
     year = {1981/82}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1103920454}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103920454>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

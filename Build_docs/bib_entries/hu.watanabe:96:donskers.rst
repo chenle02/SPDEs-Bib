@@ -25,7 +25,7 @@ hu.watanabe:96:donskers
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/kjm/1250518506}>`__
+`The URL link to the source <https://doi.org/10.1215/kjm/1250518506>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

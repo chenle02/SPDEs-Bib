@@ -25,7 +25,7 @@ guionnet.zeitouni:04:addendum
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2003.11.013}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2003.11.013>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ flandoli:87:invertibility
     year = {1987}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0167-6911(87)90010-7}>`__
+`The URL link to the source <https://doi.org/10.1016/0167-6911(87)90010-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

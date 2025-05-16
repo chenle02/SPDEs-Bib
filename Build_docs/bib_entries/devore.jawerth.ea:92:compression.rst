@@ -24,7 +24,7 @@ devore.jawerth.ea:92:compression
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/2374796}>`__
+`The URL link to the source <https://doi.org/10.2307/2374796>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

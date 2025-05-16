@@ -23,7 +23,7 @@ barral.jin:22:on
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1093/imrn/rnab125}>`__
+`The URL link to the source <https://doi.org/10.1093/imrn/rnab125>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

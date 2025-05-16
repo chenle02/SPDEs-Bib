@@ -26,7 +26,7 @@ borodin.ivanova:14:combinatorial
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1134/s0037446614010030}>`__
+`The URL link to the source <https://doi.org/10.1134/s0037446614010030>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

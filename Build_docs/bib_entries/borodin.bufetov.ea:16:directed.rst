@@ -22,7 +22,7 @@ borodin.bufetov.ea:16:directed
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.aop.2016.02.001}>`__
+`The URL link to the source <https://doi.org/10.1016/j.aop.2016.02.001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

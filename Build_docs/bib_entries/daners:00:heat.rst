@@ -24,7 +24,7 @@ daners:00:heat
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/1522-2616(200009)217:1<13::AID-MANA13>3.3.CO;2-Y}>`__
+`The URL link to the source <https://doi.org/10.1002/1522-2616(200009)217:1<13::AID-MANA13>3.3.CO;2-Y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

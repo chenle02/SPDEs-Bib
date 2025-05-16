@@ -25,7 +25,7 @@ killip.simon:03:sum
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.4007/annals.2003.158.253}>`__
+`The URL link to the source <https://doi.org/10.4007/annals.2003.158.253>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

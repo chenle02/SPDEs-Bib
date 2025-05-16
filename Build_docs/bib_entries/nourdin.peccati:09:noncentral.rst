@@ -24,7 +24,7 @@ nourdin.peccati:09:noncentral
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/08-AOP435}>`__
+`The URL link to the source <https://doi.org/10.1214/08-AOP435>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

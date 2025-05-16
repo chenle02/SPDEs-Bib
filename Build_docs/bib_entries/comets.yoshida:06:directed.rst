@@ -25,7 +25,7 @@ comets.yoshida:06:directed
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/009117905000000828}>`__
+`The URL link to the source <https://doi.org/10.1214/009117905000000828>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

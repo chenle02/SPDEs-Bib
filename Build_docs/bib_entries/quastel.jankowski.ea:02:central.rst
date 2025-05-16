@@ -26,7 +26,7 @@ quastel.jankowski.ea:02:central
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.4310/MAA.2002.v9.n3.a6}>`__
+`The URL link to the source <https://doi.org/10.4310/MAA.2002.v9.n3.a6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

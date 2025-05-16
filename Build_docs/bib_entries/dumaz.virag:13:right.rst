@@ -26,7 +26,7 @@ dumaz.virag:13:right
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/11-AIHP475}>`__
+`The URL link to the source <https://doi.org/10.1214/11-AIHP475>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

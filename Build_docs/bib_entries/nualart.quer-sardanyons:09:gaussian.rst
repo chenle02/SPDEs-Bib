@@ -25,7 +25,7 @@ nualart.quer-sardanyons:09:gaussian
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2009.09.001}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2009.09.001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

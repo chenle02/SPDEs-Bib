@@ -23,7 +23,7 @@ forrester:10:log-gases
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1515/9781400835416}>`__
+`The URL link to the source <https://doi.org/10.1515/9781400835416>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

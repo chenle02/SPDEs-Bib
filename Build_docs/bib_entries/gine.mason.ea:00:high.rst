@@ -24,7 +24,7 @@ gine.mason.ea:00:high
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4612-1358-1}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-1358-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

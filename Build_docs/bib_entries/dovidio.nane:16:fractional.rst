@@ -23,7 +23,7 @@ dovidio.nane:16:fractional
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/07362994.2015.1116997}>`__
+`The URL link to the source <https://doi.org/10.1080/07362994.2015.1116997>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

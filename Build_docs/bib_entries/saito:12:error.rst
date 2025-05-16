@@ -26,7 +26,7 @@ saito:12:error
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/cpaa.2012.11.339}>`__
+`The URL link to the source <https://doi.org/10.3934/cpaa.2012.11.339>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

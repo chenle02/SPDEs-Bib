@@ -25,7 +25,7 @@ dahlberg:79:lq-estimates
     year = {1979}
    }
 
-`The URL link to the source <ttps://doi.org/10.7146/math.scand.a-11800}>`__
+`The URL link to the source <https://doi.org/10.7146/math.scand.a-11800>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

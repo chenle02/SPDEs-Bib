@@ -26,7 +26,7 @@ ayache.roueff.ea:07:joint
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.crma.2007.03.028}>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2007.03.028>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

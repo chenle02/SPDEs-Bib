@@ -26,7 +26,7 @@ kostov:92:strings
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0550-3213(92)90120-Z}>`__
+`The URL link to the source <https://doi.org/10.1016/0550-3213(92)90120-Z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ herrero.velazquez:93:blow-up
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0294-1449(16)30217-7}>`__
+`The URL link to the source <https://doi.org/10.1016/S0294-1449(16)30217-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

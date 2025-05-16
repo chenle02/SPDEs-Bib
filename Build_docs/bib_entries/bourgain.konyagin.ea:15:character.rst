@@ -26,7 +26,7 @@ bourgain.konyagin.ea:15:character
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/mcom/2946}>`__
+`The URL link to the source <https://doi.org/10.1090/mcom/2946>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

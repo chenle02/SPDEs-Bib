@@ -26,7 +26,7 @@ kenig:94:harmonic
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/cbms/083}>`__
+`The URL link to the source <https://doi.org/10.1090/cbms/083>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ samarskii.galaktionov.ea:95:blow-up
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1515/9783110889864.535}>`__
+`The URL link to the source <https://doi.org/10.1515/9783110889864.535>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

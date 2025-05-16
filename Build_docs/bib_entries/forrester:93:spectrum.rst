@@ -26,7 +26,7 @@ forrester:93:spectrum
     year = {1993}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0550-3213(93)90126-A}>`__
+`The URL link to the source <https://doi.org/10.1016/0550-3213(93)90126-A>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

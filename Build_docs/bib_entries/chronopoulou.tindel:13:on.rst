@@ -27,7 +27,7 @@ chronopoulou.tindel:13:on
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11203-013-9076-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s11203-013-9076-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

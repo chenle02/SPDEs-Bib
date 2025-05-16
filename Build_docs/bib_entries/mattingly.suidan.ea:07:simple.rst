@@ -26,7 +26,7 @@ mattingly.suidan.ea:07:simple
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-007-0333-0}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-007-0333-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

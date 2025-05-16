@@ -23,7 +23,7 @@ etheridge:00:introduction
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/ulect/020}>`__
+`The URL link to the source <https://doi.org/10.1090/ulect/020>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

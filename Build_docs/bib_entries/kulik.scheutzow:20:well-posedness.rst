@@ -25,7 +25,7 @@ kulik.scheutzow:20:well-posedness
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/20-AOP1449}>`__
+`The URL link to the source <https://doi.org/10.1214/20-AOP1449>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

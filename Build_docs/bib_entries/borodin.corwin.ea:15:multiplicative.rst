@@ -26,7 +26,7 @@ borodin.corwin.ea:15:multiplicative
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/13-AIHP579}>`__
+`The URL link to the source <https://doi.org/10.1214/13-AIHP579>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

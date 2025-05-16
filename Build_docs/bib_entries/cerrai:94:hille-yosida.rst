@@ -25,7 +25,7 @@ cerrai:94:hille-yosida
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02573496}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02573496>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

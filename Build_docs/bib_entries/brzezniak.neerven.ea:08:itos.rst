@@ -25,7 +25,7 @@ brzezniak.neerven.ea:08:itos
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2008.03.026}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2008.03.026>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

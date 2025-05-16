@@ -24,7 +24,7 @@ lacoin.rhodes.ea:22:path
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/00127094-2021-0007}>`__
+`The URL link to the source <https://doi.org/10.1215/00127094-2021-0007>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

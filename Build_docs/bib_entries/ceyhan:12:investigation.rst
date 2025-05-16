@@ -25,7 +25,7 @@ ceyhan:12:investigation
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11009-010-9204-9}>`__
+`The URL link to the source <https://doi.org/10.1007/s11009-010-9204-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

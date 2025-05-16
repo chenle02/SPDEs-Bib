@@ -24,7 +24,7 @@ delgado.sanz-sole:95:green
     year = {1995}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0304-4149(94)00070-A}>`__
+`The URL link to the source <https://doi.org/10.1016/0304-4149(94)00070-A>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ janjigian:15:large
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-015-1269-y}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-015-1269-y>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

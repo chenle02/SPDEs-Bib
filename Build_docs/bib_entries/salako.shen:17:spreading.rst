@@ -25,7 +25,7 @@ salako.shen:17:spreading
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/dcds.2017268}>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2017268>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ li.wang.ea:12:joint
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-011-0351-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-011-0351-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

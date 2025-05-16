@@ -28,7 +28,7 @@ mohammed.zhang.ea:08:stable
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/memo/0917}>`__
+`The URL link to the source <https://doi.org/10.1090/memo/0917>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

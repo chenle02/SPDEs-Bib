@@ -25,7 +25,7 @@ brunet.derrida:04:exactly
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevE.70.016106}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.70.016106>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

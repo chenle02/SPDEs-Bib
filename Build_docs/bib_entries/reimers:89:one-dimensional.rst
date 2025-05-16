@@ -24,7 +24,7 @@ reimers:89:one-dimensional
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF00340057}>`__
+`The URL link to the source <https://doi.org/10.1007/BF00340057>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

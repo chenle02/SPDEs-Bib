@@ -24,7 +24,7 @@ bourgain.gromov:89:estimates
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BFb0090054}>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0090054>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

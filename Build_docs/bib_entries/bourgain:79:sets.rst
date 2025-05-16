@@ -26,7 +26,7 @@ bourgain:79:sets
     year = {1979/80}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm-66-3-291-297}>`__
+`The URL link to the source <https://doi.org/10.4064/sm-66-3-291-297>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

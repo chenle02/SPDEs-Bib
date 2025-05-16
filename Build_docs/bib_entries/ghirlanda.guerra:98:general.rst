@@ -25,7 +25,7 @@ ghirlanda.guerra:98:general
     year = {1998}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/0305-4470/31/46/006}>`__
+`The URL link to the source <https://doi.org/10.1088/0305-4470/31/46/006>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

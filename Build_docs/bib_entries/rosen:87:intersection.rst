@@ -25,7 +25,7 @@ rosen:87:intersection
     year = {1987}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0047-259X(87)90176-X}>`__
+`The URL link to the source <https://doi.org/10.1016/0047-259X(87)90176-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

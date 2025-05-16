@@ -24,7 +24,7 @@ flandoli.schaumloffel:90:stochastic
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442509008833628}>`__
+`The URL link to the source <https://doi.org/10.1080/17442509008833628>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

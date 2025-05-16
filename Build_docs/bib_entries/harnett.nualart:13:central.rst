@@ -25,7 +25,7 @@ harnett.nualart:13:central
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/12-AOP769}>`__
+`The URL link to the source <https://doi.org/10.1214/12-AOP769>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

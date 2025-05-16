@@ -24,7 +24,7 @@ bass.khoshnevisan:93:intersection
     year = {1993}
    }
 
-`The URL link to the source <ttp://www.numdam.org/item?id=AIHPB_1993__29_3_419_0}>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB_1993__29_3_419_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

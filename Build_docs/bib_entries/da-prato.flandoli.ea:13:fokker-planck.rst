@@ -25,7 +25,7 @@ da-prato.flandoli.ea:13:fokker-planck
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40304-013-0015-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s40304-013-0015-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ lee.leung:23:regularity
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2022.126589}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2022.126589>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

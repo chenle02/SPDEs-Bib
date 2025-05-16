@@ -25,7 +25,7 @@ chen.li:03:quadratic
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/aop/1048516545}>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1048516545>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

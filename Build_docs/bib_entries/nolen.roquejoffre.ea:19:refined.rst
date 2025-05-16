@@ -25,7 +25,7 @@ nolen.roquejoffre.ea:19:refined
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219199718500724}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219199718500724>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

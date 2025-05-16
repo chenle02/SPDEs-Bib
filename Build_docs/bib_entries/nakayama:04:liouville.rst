@@ -25,7 +25,7 @@ nakayama:04:liouville
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0217751X04019500}>`__
+`The URL link to the source <https://doi.org/10.1142/S0217751X04019500>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

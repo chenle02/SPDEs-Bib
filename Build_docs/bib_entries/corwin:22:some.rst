@@ -25,7 +25,7 @@ corwin:22:some
     year = {[2022] \copyright 2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-3-031-13851-5_15}>`__
+`The URL link to the source <https://doi.org/10.1007/978-3-031-13851-5_15>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

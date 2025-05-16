@@ -25,7 +25,7 @@ bellomo.bellouquid.ea:15:toward
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S021820251550044X}>`__
+`The URL link to the source <https://doi.org/10.1142/S021820251550044X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ brydges.frohlich.ea:83:new
     year = {1983}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1103940528}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103940528>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

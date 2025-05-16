@@ -28,7 +28,7 @@ glatt-holtz.herzog.ea:18:scaling
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40818-018-0052-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s40818-018-0052-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

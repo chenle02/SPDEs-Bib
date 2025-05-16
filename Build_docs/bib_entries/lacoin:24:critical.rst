@@ -23,7 +23,7 @@ lacoin:24:critical
     year = {2024}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.spa.2024.104388}>`__
+`The URL link to the source <https://doi.org/10.1016/j.spa.2024.104388>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

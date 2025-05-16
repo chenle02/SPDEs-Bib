@@ -24,7 +24,7 @@ mueller.starr:13:length
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10959-011-0364-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s10959-011-0364-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

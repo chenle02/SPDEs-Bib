@@ -25,7 +25,7 @@ da-prato.kwapien.ea:87:regularity
     year = {1987}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442508708833480}>`__
+`The URL link to the source <https://doi.org/10.1080/17442508708833480>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

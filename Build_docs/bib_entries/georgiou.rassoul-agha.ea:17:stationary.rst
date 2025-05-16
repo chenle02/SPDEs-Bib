@@ -26,7 +26,7 @@ georgiou.rassoul-agha.ea:17:stationary
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-016-0729-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-016-0729-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

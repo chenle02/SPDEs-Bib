@@ -24,7 +24,7 @@ goldys.maslowski:01:uniform
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1013712812513}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1013712812513>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

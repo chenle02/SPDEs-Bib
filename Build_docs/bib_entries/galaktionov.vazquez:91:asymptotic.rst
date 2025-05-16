@@ -25,7 +25,7 @@ galaktionov.vazquez:91:asymptotic
     year = {1991}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0022-1236(91)90120-T}>`__
+`The URL link to the source <https://doi.org/10.1016/0022-1236(91)90120-T>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

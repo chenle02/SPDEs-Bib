@@ -22,7 +22,7 @@ majda.wang:06:non-linear
     year = {2006}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9780511616778}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9780511616778>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

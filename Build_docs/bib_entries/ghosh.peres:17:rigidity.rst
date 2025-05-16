@@ -24,7 +24,7 @@ ghosh.peres:17:rigidity
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/00127094-2017-0002}>`__
+`The URL link to the source <https://doi.org/10.1215/00127094-2017-0002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

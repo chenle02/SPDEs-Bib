@@ -24,7 +24,7 @@ iwata:87:infinite-dimensional
     year = {1987}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01845644}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01845644>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

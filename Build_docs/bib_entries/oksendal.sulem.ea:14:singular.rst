@@ -25,7 +25,7 @@ oksendal.sulem.ea:14:singular
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1287/moor.2013.0602}>`__
+`The URL link to the source <https://doi.org/10.1287/moor.2013.0602>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

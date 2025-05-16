@@ -25,7 +25,7 @@ barndorff-nielsen.shephard:01:non-gaussian
     year = {2001}
    }
 
-`The URL link to the source <ttps://doi.org/10.1111/1467-9868.00282}>`__
+`The URL link to the source <https://doi.org/10.1111/1467-9868.00282>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

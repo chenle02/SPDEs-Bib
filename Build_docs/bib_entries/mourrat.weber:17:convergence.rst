@@ -25,7 +25,7 @@ mourrat.weber:17:convergence
     year = {2017}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/cpa.21655}>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.21655>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

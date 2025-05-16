@@ -23,7 +23,7 @@ aggarwal.corwin.ea:23:asep
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.aim.2023.109004}>`__
+`The URL link to the source <https://doi.org/10.1016/j.aim.2023.109004>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

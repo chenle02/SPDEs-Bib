@@ -23,7 +23,7 @@ ceyhan:14:segregation
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/sim.6053}>`__
+`The URL link to the source <https://doi.org/10.1002/sim.6053>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

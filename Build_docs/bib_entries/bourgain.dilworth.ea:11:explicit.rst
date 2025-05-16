@@ -26,7 +26,7 @@ bourgain.dilworth.ea:11:explicit
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/00127094-1384809}>`__
+`The URL link to the source <https://doi.org/10.1215/00127094-1384809>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

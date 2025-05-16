@@ -27,7 +27,7 @@ lee:22:hausdorff
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/21-bej1342}>`__
+`The URL link to the source <https://doi.org/10.3150/21-bej1342>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

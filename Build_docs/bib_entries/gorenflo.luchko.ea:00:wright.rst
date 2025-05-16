@@ -27,7 +27,7 @@ gorenflo.luchko.ea:00:wright
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0377-0427(00)00288-0}>`__
+`The URL link to the source <https://doi.org/10.1016/S0377-0427(00)00288-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

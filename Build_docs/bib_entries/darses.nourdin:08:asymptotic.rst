@@ -26,7 +26,7 @@ darses.nourdin:08:asymptotic
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/08-BEJ124}>`__
+`The URL link to the source <https://doi.org/10.3150/08-BEJ124>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

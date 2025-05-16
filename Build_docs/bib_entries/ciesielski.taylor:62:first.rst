@@ -25,7 +25,7 @@ ciesielski.taylor:62:first
     year = {1962}
    }
 
-`The URL link to the source <ttps://doi.org/10.2307/1993838}>`__
+`The URL link to the source <https://doi.org/10.2307/1993838>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

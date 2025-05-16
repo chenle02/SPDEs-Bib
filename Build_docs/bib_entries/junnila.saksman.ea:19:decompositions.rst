@@ -24,7 +24,7 @@ junnila.saksman.ea:19:decompositions
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/19-AAP1492}>`__
+`The URL link to the source <https://doi.org/10.1214/19-AAP1492>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

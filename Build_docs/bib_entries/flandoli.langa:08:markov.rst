@@ -25,7 +25,7 @@ flandoli.langa:08:markov
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219493708002202}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219493708002202>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

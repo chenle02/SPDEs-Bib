@@ -25,7 +25,7 @@ aronson.caffarelli.ea:83:how
     year = {1983}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/0514049}>`__
+`The URL link to the source <https://doi.org/10.1137/0514049>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

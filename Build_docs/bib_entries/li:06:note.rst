@@ -24,7 +24,7 @@ li:06:note
     year = {2006/07}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.rae/1184700051}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.rae/1184700051>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

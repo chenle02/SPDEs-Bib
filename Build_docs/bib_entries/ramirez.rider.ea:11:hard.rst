@@ -23,7 +23,7 @@ ramirez.rider.ea:11:hard
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/ECP.v16-1682}>`__
+`The URL link to the source <https://doi.org/10.1214/ECP.v16-1682>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

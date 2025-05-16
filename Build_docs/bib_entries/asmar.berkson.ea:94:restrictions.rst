@@ -25,7 +25,7 @@ asmar.berkson.ea:94:restrictions
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/sm-108-3-291-299}>`__
+`The URL link to the source <https://doi.org/10.4064/sm-108-3-291-299>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

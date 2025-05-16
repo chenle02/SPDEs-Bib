@@ -24,7 +24,7 @@ parthasarathy.ranga-rao.ea:63:probability
     year = {1963}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.ijm/1255644642}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255644642>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ mueller.tribe:11:phase
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-010-0265-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-010-0265-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ koukiou:93:analyticity
     year = {1993}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/26/L1207}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/26/L1207>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

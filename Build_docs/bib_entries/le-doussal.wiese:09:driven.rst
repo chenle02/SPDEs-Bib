@@ -26,7 +26,7 @@ le-doussal.wiese:09:driven
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1103/PhysRevE.79.051105}>`__
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.79.051105>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

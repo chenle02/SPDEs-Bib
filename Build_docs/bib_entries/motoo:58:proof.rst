@@ -24,7 +24,7 @@ motoo:58:proof
     year = {1958}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02883984}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02883984>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

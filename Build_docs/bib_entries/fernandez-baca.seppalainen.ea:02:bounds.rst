@@ -25,7 +25,7 @@ fernandez-baca.seppalainen.ea:02:bounds
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0166-218X(01)00206-2}>`__
+`The URL link to the source <https://doi.org/10.1016/S0166-218X(01)00206-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

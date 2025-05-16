@@ -27,7 +27,7 @@ es-sebaiy.nualart.ea:10:occupation
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/17442500903045531}>`__
+`The URL link to the source <https://doi.org/10.1080/17442500903045531>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

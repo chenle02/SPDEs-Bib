@@ -23,7 +23,7 @@ gromak.laine.ea:02:painleve
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1515/9783110198096}>`__
+`The URL link to the source <https://doi.org/10.1515/9783110198096>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

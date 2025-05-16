@@ -24,7 +24,7 @@ lacey.philipp:90:note
     year = {1990}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0167-7152(90)90056-D}>`__
+`The URL link to the source <https://doi.org/10.1016/0167-7152(90)90056-D>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

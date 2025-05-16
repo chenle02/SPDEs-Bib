@@ -25,7 +25,7 @@ chow.shen:94:free*1
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1006/jdeq.1994.1039}>`__
+`The URL link to the source <https://doi.org/10.1006/jdeq.1994.1039>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

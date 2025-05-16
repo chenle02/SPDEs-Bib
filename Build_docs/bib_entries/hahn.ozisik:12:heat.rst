@@ -18,7 +18,7 @@ hahn.ozisik:12:heat
     year = {2012}
    }
 
-`The URL link to the source <ttps://books.google.com/books?id=C9qwb9Vymy8C}>`__
+`The URL link to the source <https://books.google.com/books?id=C9qwb9Vymy8C>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

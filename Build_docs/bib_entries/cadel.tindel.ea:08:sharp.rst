@@ -26,7 +26,7 @@ cadel.tindel.ea:08:sharp
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s11118-008-9092-6}>`__
+`The URL link to the source <https://doi.org/10.1007/s11118-008-9092-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

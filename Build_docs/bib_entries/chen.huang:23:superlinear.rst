@@ -23,7 +23,7 @@ chen.huang:23:superlinear
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/proc/16436}>`__
+`The URL link to the source <https://doi.org/10.1090/proc/16436>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

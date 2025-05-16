@@ -24,7 +24,7 @@ balan.kim:08:stochastic
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.31390/cosa.2.2.04}>`__
+`The URL link to the source <https://doi.org/10.31390/cosa.2.2.04>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

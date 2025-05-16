@@ -26,7 +26,7 @@ guo.yan.ea:18:approximate
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2017.08.004}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2017.08.004>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

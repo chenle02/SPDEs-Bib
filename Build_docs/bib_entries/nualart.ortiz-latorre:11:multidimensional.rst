@@ -23,7 +23,7 @@ nualart.ortiz-latorre:11:multidimensional
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/9789814355711_0001}>`__
+`The URL link to the source <https://doi.org/10.1142/9789814355711_0001>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -16,7 +16,7 @@ jakubowski:91:asymptotic
     year = {1991}
    }
 
-`The URL link to the source <ttp://www-users.mat.uni.torun.pl/~adjakubo/hab.pdf}>`__
+`The URL link to the source <http://www-users.mat.uni.torun.pl/~adjakubo/hab.pdf>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

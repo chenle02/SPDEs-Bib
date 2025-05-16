@@ -25,7 +25,7 @@ da-prato.flandoli:10:pathwise
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jfa.2009.11.019}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2009.11.019>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

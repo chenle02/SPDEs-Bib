@@ -24,7 +24,7 @@ baik.liu:19:multipoint
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/jams/915}>`__
+`The URL link to the source <https://doi.org/10.1090/jams/915>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

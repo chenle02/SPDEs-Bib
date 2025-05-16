@@ -24,7 +24,7 @@ merzbach.nualart:86:characterization
     year = {1986}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198610)14:4<1380:ACOTSP>2.0.CO;2-S&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198610)14:4<1380:ACOTSP>2.0.CO;2-S&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

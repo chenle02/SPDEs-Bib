@@ -26,7 +26,7 @@ cerrai.da-prato:12:schauder
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00028-011-0124-0}>`__
+`The URL link to the source <https://doi.org/10.1007/s00028-011-0124-0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

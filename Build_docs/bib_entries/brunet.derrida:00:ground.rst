@@ -22,7 +22,7 @@ brunet.derrida:00:ground
     year = {2000}
    }
 
-`The URL link to the source <ttps://www.sciencedirect.com/science/article/pii/S0378437199005269}>`__
+`The URL link to the source <https://www.sciencedirect.com/science/article/pii/S0378437199005269>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

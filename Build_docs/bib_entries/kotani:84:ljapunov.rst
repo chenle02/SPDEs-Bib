@@ -25,7 +25,7 @@ kotani:84:ljapunov
     year = {1984}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/S0924-6509(08)70395-7}>`__
+`The URL link to the source <https://doi.org/10.1016/S0924-6509(08)70395-7>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

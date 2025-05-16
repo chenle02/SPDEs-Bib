@@ -22,7 +22,7 @@ kunita.watanabe:67:on
     year = {1967}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.nmj/1118796812}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.nmj/1118796812>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

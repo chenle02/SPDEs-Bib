@@ -24,7 +24,7 @@ chen:15:limit
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10959-013-0481-4}>`__
+`The URL link to the source <https://doi.org/10.1007/s10959-013-0481-4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

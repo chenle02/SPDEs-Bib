@@ -26,7 +26,7 @@ bourgain.grunbaum.ea:14:quantum
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00220-014-1929-9}>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-014-1929-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -26,7 +26,7 @@ riviere:08:discontinuous
     year = {2008}
    }
 
-`The URL link to the source <ttps://doi.org/10.1137/1.9780898717440}>`__
+`The URL link to the source <https://doi.org/10.1137/1.9780898717440>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

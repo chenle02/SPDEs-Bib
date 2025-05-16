@@ -24,7 +24,7 @@ li.shao:05:recent
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219607705000103}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219607705000103>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

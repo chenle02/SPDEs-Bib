@@ -25,7 +25,7 @@ dalang.khoshnevisan.ea:12:critical
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/11-AOP665}>`__
+`The URL link to the source <https://doi.org/10.1214/11-AOP665>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

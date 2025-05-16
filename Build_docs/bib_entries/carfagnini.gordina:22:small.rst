@@ -25,7 +25,7 @@ carfagnini.gordina:22:small
     year = {2022}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/btran/102}>`__
+`The URL link to the source <https://doi.org/10.1090/btran/102>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

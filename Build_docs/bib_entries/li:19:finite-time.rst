@@ -24,7 +24,7 @@ li:19:finite-time
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2019.123376}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2019.123376>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

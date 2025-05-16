@@ -24,7 +24,7 @@ chen.guo.ea:24:moments
     year = {2024}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/tran/9138}>`__
+`The URL link to the source <https://doi.org/10.1090/tran/9138>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

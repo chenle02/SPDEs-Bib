@@ -21,7 +21,7 @@ gu:14:probabilistic
     year = {2014}
    }
 
-`The URL link to the source <ttp://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:3619978}>`__
+`The URL link to the source <http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:3619978>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

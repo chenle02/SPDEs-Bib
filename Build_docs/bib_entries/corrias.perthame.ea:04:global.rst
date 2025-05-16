@@ -24,7 +24,7 @@ corrias.perthame.ea:04:global
     year = {2004}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00032-003-0026-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s00032-003-0026-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

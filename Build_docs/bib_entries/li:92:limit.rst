@@ -25,7 +25,7 @@ li:92:limit
     year = {1992}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/0304-4149(92)90123-8}>`__
+`The URL link to the source <https://doi.org/10.1016/0304-4149(92)90123-8>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

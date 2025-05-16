@@ -23,7 +23,7 @@ bernstein:10:sur
     year = {1910}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF01455154}>`__
+`The URL link to the source <https://doi.org/10.1007/BF01455154>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

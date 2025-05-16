@@ -24,7 +24,7 @@ fernandez-bonder.groisman:09:time-space
     year = {2009}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.physd.2008.09.005}>`__
+`The URL link to the source <https://doi.org/10.1016/j.physd.2008.09.005>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

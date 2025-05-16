@@ -22,7 +22,7 @@ deift:78:applications
     year = {1978}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.dmj/1077312819}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.dmj/1077312819>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

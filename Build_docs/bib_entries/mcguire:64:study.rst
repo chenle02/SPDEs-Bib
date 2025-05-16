@@ -24,7 +24,7 @@ mcguire:64:study
     year = {1964}
    }
 
-`The URL link to the source <ttps://doi.org/10.1063/1.1704156}>`__
+`The URL link to the source <https://doi.org/10.1063/1.1704156>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

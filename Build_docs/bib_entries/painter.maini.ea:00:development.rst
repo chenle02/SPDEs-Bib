@@ -24,7 +24,7 @@ painter.maini.ea:00:development
     year = {2000}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s002850000035}>`__
+`The URL link to the source <https://doi.org/10.1007/s002850000035>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

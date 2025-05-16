@@ -25,7 +25,7 @@ kong.nguyen.ea:19:effects
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.3934/cpaa.2019077}>`__
+`The URL link to the source <https://doi.org/10.3934/cpaa.2019077>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

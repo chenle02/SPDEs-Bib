@@ -25,7 +25,7 @@ bourgain:94:on
     year = {1994}
    }
 
-`The URL link to the source <ttps://doi.org/10.1215/S0012-7094-94-07607-2}>`__
+`The URL link to the source <https://doi.org/10.1215/S0012-7094-94-07607-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

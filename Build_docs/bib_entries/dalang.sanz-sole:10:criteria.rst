@@ -26,7 +26,7 @@ dalang.sanz-sole:10:criteria
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.3150/09-BEJ247}>`__
+`The URL link to the source <https://doi.org/10.3150/09-BEJ247>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

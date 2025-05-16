@@ -25,7 +25,7 @@ benfatto.cassandro.ea:78:some
     year = {1978}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1103901608}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103901608>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -25,7 +25,7 @@ constantin.majda.ea:94:formation
     year = {1994}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0951-7715/7/1495}>`__
+`The URL link to the source <http://stacks.iop.org/0951-7715/7/1495>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

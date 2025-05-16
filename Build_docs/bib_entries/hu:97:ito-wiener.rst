@@ -25,7 +25,7 @@ hu:97:ito-wiener
     year = {1997}
    }
 
-`The URL link to the source <ttps://doi.org/10.1023/A:1022654314791}>`__
+`The URL link to the source <https://doi.org/10.1023/A:1022654314791>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

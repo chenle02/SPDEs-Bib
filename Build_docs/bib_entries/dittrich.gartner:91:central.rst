@@ -24,7 +24,7 @@ dittrich.gartner:91:central
     year = {1991}
    }
 
-`The URL link to the source <ttps://doi.org/10.1002/mana.19911510107}>`__
+`The URL link to the source <https://doi.org/10.1002/mana.19911510107>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

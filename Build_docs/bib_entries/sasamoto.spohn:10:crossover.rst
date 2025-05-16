@@ -25,7 +25,7 @@ sasamoto.spohn:10:crossover
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10955-010-9990-z}>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-010-9990-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

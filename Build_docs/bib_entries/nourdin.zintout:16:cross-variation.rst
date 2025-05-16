@@ -25,7 +25,7 @@ nourdin.zintout:16:cross-variation
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1109/mcs.2015.2495000}>`__
+`The URL link to the source <https://doi.org/10.1109/mcs.2015.2495000>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

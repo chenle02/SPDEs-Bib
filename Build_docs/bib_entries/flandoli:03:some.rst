@@ -22,7 +22,7 @@ flandoli:03:some
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/9789812703989_0010}>`__
+`The URL link to the source <https://doi.org/10.1142/9789812703989_0010>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ deuschel:88:central
     year = {1988}
    }
 
-`The URL link to the source <ttp://links.jstor.org/sici?sici=0091-1798(198804)16:2<700:CLTFAI>2.0.CO;2-2&origin=MSN}>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198804)16:2<700:CLTFAI>2.0.CO;2-2&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ derrida:88:dynamics
     year = {1988}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4613-1017-4_17}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4613-1017-4_17>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

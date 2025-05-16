@@ -24,7 +24,7 @@ bourgain.demeter:15:proof
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.4007/annals.2015.182.1.9}>`__
+`The URL link to the source <https://doi.org/10.4007/annals.2015.182.1.9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

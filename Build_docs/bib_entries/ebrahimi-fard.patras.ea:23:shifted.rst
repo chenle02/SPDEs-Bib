@@ -26,7 +26,7 @@ ebrahimi-fard.patras.ea:23:shifted
     year = {2023}
    }
 
-`The URL link to the source <ttps://doi.org/10.3842/SIGMA.2023.038}>`__
+`The URL link to the source <https://doi.org/10.3842/SIGMA.2023.038>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

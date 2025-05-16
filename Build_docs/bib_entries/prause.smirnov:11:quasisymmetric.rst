@@ -24,7 +24,7 @@ prause.smirnov:11:quasisymmetric
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1112/blms/bdq098}>`__
+`The URL link to the source <https://doi.org/10.1112/blms/bdq098>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

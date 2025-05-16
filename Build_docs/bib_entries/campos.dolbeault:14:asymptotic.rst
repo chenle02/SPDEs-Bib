@@ -25,7 +25,7 @@ campos.dolbeault:14:asymptotic
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/03605302.2014.885046}>`__
+`The URL link to the source <https://doi.org/10.1080/03605302.2014.885046>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

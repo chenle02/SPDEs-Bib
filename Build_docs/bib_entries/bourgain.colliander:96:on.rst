@@ -23,7 +23,7 @@ bourgain.colliander:96:on
     year = {1996}
    }
 
-`The URL link to the source <ttps://doi.org/10.1155/S1073792896000359}>`__
+`The URL link to the source <https://doi.org/10.1155/S1073792896000359>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

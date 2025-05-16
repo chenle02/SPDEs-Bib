@@ -24,7 +24,7 @@ gazi.passino:03:stability
     year = {2003}
    }
 
-`The URL link to the source <ttps://doi.org/10.1109/TAC.2003.809765}>`__
+`The URL link to the source <https://doi.org/10.1109/TAC.2003.809765>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ capasso.flandoli:16:on
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.2140/memocs.2016.4.373}>`__
+`The URL link to the source <https://doi.org/10.2140/memocs.2016.4.373>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

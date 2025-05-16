@@ -26,7 +26,7 @@ mizukami.ono.ea:19:extensibility
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jde.2019.05.026}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jde.2019.05.026>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

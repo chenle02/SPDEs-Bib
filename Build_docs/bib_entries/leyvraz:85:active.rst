@@ -23,7 +23,7 @@ leyvraz:85:active
     year = {1985}
    }
 
-`The URL link to the source <ttp://stacks.iop.org/0305-4470/18/L941}>`__
+`The URL link to the source <http://stacks.iop.org/0305-4470/18/L941>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

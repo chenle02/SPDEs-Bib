@@ -22,7 +22,7 @@ quastel.remenik:14:airy
     year = {2014}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/978-1-4939-0339-9_5}>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4939-0339-9_5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

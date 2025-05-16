@@ -23,7 +23,7 @@ bichteler:02:stochastic
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1017/CBO9780511549878}>`__
+`The URL link to the source <https://doi.org/10.1017/CBO9780511549878>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

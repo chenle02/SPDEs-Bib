@@ -25,7 +25,7 @@ marcus.rosinski:05:continuity
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10959-004-2579-1}>`__
+`The URL link to the source <https://doi.org/10.1007/s10959-004-2579-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

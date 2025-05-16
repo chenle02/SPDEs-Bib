@@ -24,7 +24,7 @@ luo.saal:20:scaling
     year = {2020}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/S0219493720400018}>`__
+`The URL link to the source <https://doi.org/10.1142/S0219493720400018>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

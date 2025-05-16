@@ -23,7 +23,7 @@ derrida:11:microscopic
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.1088/1742-5468/2011/01/p01030}>`__
+`The URL link to the source <https://doi.org/10.1088/1742-5468/2011/01/p01030>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

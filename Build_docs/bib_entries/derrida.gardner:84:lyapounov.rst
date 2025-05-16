@@ -24,7 +24,7 @@ derrida.gardner:84:lyapounov
     year = {1984}
    }
 
-`The URL link to the source <ttps://doi.org/10.1051/jphys:019840045080128300}>`__
+`The URL link to the source <https://doi.org/10.1051/jphys:019840045080128300>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

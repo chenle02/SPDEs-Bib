@@ -24,7 +24,7 @@ bronstein.israel.ea:09:transient
     year = {2009}
    }
 
-`The URL link to the source <ttps://link.aps.org/doi/10.1103/PhysRevLett.103.018102}>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.103.018102>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

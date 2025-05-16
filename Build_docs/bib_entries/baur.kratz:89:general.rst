@@ -26,7 +26,7 @@ baur.kratz:89:general
     year = {1989}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02850019}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02850019>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

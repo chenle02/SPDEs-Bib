@@ -25,7 +25,7 @@ dong.peszat.ea:16:on
     year = {2016}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.jmaa.2015.10.003}>`__
+`The URL link to the source <https://doi.org/10.1016/j.jmaa.2015.10.003>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

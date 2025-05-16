@@ -24,7 +24,7 @@ mytnik.xiong:07:local
     year = {2007}
    }
 
-`The URL link to the source <ttps://doi.org/10.1214/EJP.v12-457}>`__
+`The URL link to the source <https://doi.org/10.1214/EJP.v12-457>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

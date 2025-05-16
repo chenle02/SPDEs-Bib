@@ -26,7 +26,7 @@ berger.giacomin.ea:19:disorder
     year = {2019}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s00440-018-0870-9}>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-018-0870-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -27,7 +27,7 @@ kilbas.luchko.ea:10:fractional
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1080/10652461003676099}>`__
+`The URL link to the source <https://doi.org/10.1080/10652461003676099>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

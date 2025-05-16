@@ -25,7 +25,7 @@ di-nezza.palatucci.ea:12:hitchhikers
     year = {2012}
    }
 
-`The URL link to the source <ttps://doi.org/10.1016/j.bulsci.2011.12.004}>`__
+`The URL link to the source <https://doi.org/10.1016/j.bulsci.2011.12.004>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

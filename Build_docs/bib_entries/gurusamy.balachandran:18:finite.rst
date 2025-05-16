@@ -24,7 +24,7 @@ gurusamy.balachandran:18:finite
     year = {2018}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s40435-017-0335-5}>`__
+`The URL link to the source <https://doi.org/10.1007/s40435-017-0335-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ peszat.zawisza:21:investor
     year = {2021}
    }
 
-`The URL link to the source <ttps://doi.org/10.4064/ap210429-12-11}>`__
+`The URL link to the source <https://doi.org/10.4064/ap210429-12-11>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

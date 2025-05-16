@@ -23,7 +23,7 @@ lawler:05:conformally
     year = {2005}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/surv/114}>`__
+`The URL link to the source <https://doi.org/10.1090/surv/114>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

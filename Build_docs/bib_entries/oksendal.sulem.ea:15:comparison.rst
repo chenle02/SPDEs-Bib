@@ -23,7 +23,7 @@ oksendal.sulem.ea:15:comparison
     year = {2015}
    }
 
-`The URL link to the source <ttps://doi.org/10.1142/9789814596534_0023}>`__
+`The URL link to the source <https://doi.org/10.1142/9789814596534_0023>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

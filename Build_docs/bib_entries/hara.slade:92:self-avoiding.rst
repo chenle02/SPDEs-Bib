@@ -24,7 +24,7 @@ hara.slade:92:self-avoiding
     year = {1992}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.cmp/1104250528}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104250528>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

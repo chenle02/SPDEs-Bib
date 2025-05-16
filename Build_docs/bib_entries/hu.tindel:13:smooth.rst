@@ -25,7 +25,7 @@ hu.tindel:13:smooth
     year = {2013}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/s10959-011-0388-x}>`__
+`The URL link to the source <https://doi.org/10.1007/s10959-011-0388-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

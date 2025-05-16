@@ -25,7 +25,7 @@ gao.li.ea:10:how
     year = {2010}
    }
 
-`The URL link to the source <ttps://doi.org/10.1090/S0002-9939-2010-10448-3}>`__
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-2010-10448-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

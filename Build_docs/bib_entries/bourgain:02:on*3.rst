@@ -25,7 +25,7 @@ bourgain:02:on*3
     year = {2002}
    }
 
-`The URL link to the source <ttps://doi.org/10.1007/BF02868469}>`__
+`The URL link to the source <https://doi.org/10.1007/BF02868469>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

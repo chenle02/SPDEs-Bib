@@ -24,7 +24,7 @@ dkhil:04:singular
     year = {2004}
    }
 
-`The URL link to the source <ttp://projecteuclid.org/euclid.hmj/1150998073}>`__
+`The URL link to the source <http://projecteuclid.org/euclid.hmj/1150998073>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

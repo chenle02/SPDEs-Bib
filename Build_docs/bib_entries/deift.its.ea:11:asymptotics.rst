@@ -26,7 +26,7 @@ deift.its.ea:11:asymptotics
     year = {2011}
    }
 
-`The URL link to the source <ttps://doi.org/10.4007/annals.2011.174.2.12}>`__
+`The URL link to the source <https://doi.org/10.4007/annals.2011.174.2.12>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
