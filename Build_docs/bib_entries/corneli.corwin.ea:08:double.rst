@@ -1,0 +1,25 @@
+corneli.corwin.ea:08:double
+===========================
+
+:cite:t:`corneli.corwin.ea:08:double`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{corneli.corwin.ea:08:double,
+     author        = {Corneli, J. and Corwin, I. and Hurder, S. and Sesum, V. and Xu, Y. and Adams, E. and Davis, D. and Lee, M. and Visocchi, R. and Hoffman, N.},
+     fjournal      = {Houston Journal of Mathematics},
+     issn          = {0362-1588},
+     journal       = {Houston J. Math.},
+     mrclass       = {53A10},
+     mrnumber      = {2383703},
+     mrreviewer    = {Fei-Tsen Liang},
+     number        = {1},
+     pages         = {181--204},
+     title         = {Double bubbles in {G}auss space and spheres},
+     volume        = {34},
+     year          = {2008}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

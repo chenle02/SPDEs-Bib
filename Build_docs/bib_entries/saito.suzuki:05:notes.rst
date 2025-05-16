@@ -1,0 +1,29 @@
+saito.suzuki:05:notes
+=====================
+
+:cite:t:`saito.suzuki:05:notes`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{saito.suzuki:05:notes,
+     author        = {Saito, Norikazu and Suzuki, Takashi},
+     doi           = {10.1016/j.amc.2005.01.037},
+     fjournal      = {Applied Mathematics and Computation},
+     issn          = {0096-3003},
+     journal       = {Appl. Math. Comput.},
+     mrclass       = {92C17 (35K50 35Q80 65M06)},
+     mrnumber      = {2192860},
+     number        = {1},
+     pages         = {72--90},
+     title         = {Notes on finite difference schemes to a parabolic-elliptic system modelling chemotaxis},
+     url           = {https://doi.org/10.1016/j.amc.2005.01.037},
+     volume        = {171},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.amc.2005.01.037>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

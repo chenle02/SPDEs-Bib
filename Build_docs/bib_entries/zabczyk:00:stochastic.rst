@@ -1,0 +1,25 @@
+zabczyk:00:stochastic
+=====================
+
+:cite:t:`zabczyk:00:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{zabczyk:00:stochastic,
+     author        = {Zabczyk, Jerzy},
+     fjournal      = {Atti della Accademia Nazionale dei Lincei. Classe di Scienze Fisiche, Matematiche e Naturali. Rendiconti Lincei. Serie IX. Matematica e Applicazioni},
+     issn          = {1120-6330},
+     journal       = {Atti Accad. Naz. Lincei Cl. Sci. Fis. Mat. Natur. Rend. Lincei (9) Mat. Appl.},
+     mrclass       = {60G35 (91B70)},
+     mrnumber      = {1797512},
+     mrreviewer    = {Monique Pontier},
+     number        = {2},
+     pages         = {67--80},
+     title         = {Stochastic invariance and consistency of financial models},
+     volume        = {11},
+     year          = {2000}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

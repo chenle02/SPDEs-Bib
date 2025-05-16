@@ -1,0 +1,30 @@
+oh.okamoto.ea:24:focusing
+=========================
+
+:cite:t:`oh.okamoto.ea:24:focusing`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{oh.okamoto.ea:24:focusing,
+     author        = {Oh, Tadahiro and Okamoto, Mamoru and Tolomeo, Leonardo},
+     doi           = {10.1090/memo/1529},
+     fjournal      = {Memoirs of the American Mathematical Society},
+     isbn          = {978-1-4704-7193-4; 978-1-4704-8008-0},
+     issn          = {0065-9266},
+     journal       = {Mem. Amer. Math. Soc.},
+     mrclass       = {35L71 (35K15 35R60 60H15 60L40 81T08)},
+     mrnumber      = {4850409},
+     number        = {1529},
+     pages         = {vi+143},
+     title         = {Focusing {$\Phi^4_3$}-model with a {H}artree-type nonlinearity},
+     url           = {https://doi.org/10.1090/memo/1529},
+     volume        = {304},
+     year          = {2024}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/memo/1529>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

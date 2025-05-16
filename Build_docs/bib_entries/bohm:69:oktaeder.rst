@@ -1,0 +1,29 @@
+bohm:69:oktaeder
+================
+
+:cite:t:`bohm:69:oktaeder`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bohm:69:oktaeder,
+     author        = {B\"{o}hm, Wolfgang},
+     doi           = {10.1007/BF01899600},
+     fjournal      = {Archiv der Mathematik},
+     issn          = {0003-889X},
+     journal       = {Arch. Math. (Basel)},
+     mrclass       = {50.10},
+     mrnumber      = {250167},
+     mrreviewer    = {H. Lenz},
+     pages         = {444--447},
+     title         = {Oktaeder mit einbeschriebener {K}ugel},
+     url           = {https://doi.org/10.1007/BF01899600},
+     volume        = {20},
+     year          = {1969}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BF01899600>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

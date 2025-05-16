@@ -1,0 +1,30 @@
+flandoli:94:dissipativity
+=========================
+
+:cite:t:`flandoli:94:dissipativity`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{flandoli:94:dissipativity,
+     author        = {Flandoli, Franco},
+     doi           = {10.1007/BF01194988},
+     fjournal      = {NoDEA. Nonlinear Differential Equations and Applications},
+     issn          = {1021-9722,1420-9004},
+     journal       = {NoDEA Nonlinear Differential Equations Appl.},
+     mrclass       = {35R60 (35Q30 60H15)},
+     mrnumber      = {1300150},
+     mrreviewer    = {Jan\ I.\ Seidler},
+     number        = {4},
+     pages         = {403--423},
+     title         = {Dissipativity and invariant measures for stochastic {N}avier-{S}tokes equations},
+     url           = {https://doi.org/10.1007/BF01194988},
+     volume        = {1},
+     year          = {1994}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BF01194988>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

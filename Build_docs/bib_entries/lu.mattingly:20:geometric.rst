@@ -1,0 +1,29 @@
+lu.mattingly:20:geometric
+=========================
+
+:cite:t:`lu.mattingly:20:geometric`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lu.mattingly:20:geometric,
+     author        = {Lu, Yulong and Mattingly, Jonathan C.},
+     doi           = {10.1088/1361-6544/ab514a},
+     fjournal      = {Nonlinearity},
+     issn          = {0951-7715,1361-6544},
+     journal       = {Nonlinearity},
+     mrclass       = {60K35 (37A60 60B20 65C35 82C31)},
+     mrnumber      = {4048775},
+     number        = {2},
+     pages         = {675--699},
+     title         = {Geometric ergodicity of {L}angevin dynamics with {C}oulomb interactions},
+     url           = {https://doi.org/10.1088/1361-6544/ab514a},
+     volume        = {33},
+     year          = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.1088/1361-6544/ab514a>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

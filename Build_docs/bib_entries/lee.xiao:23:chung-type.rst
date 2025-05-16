@@ -1,0 +1,29 @@
+lee.xiao:23:chung-type
+======================
+
+:cite:t:`lee.xiao:23:chung-type`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lee.xiao:23:chung-type,
+     author        = {Lee, Cheuk Yin and Xiao, Yimin},
+     doi           = {10.3150/22-bej1467},
+     fjournal      = {Bernoulli. Official Journal of the Bernoulli Society for Mathematical Statistics and Probability},
+     issn          = {1350-7265},
+     journal       = {Bernoulli},
+     mrclass       = {60G15 (60F15 60G17 60G60)},
+     mrnumber      = {4497257},
+     number        = {1},
+     pages         = {523--550},
+     title         = {Chung-type law of the iterated logarithm and exact moduli of continuity for a class of anisotropic {G}aussian random fields},
+     url           = {https://doi.org/10.3150/22-bej1467},
+     volume        = {29},
+     year          = {2023}
+   }
+
+`The URL link to the source <https://doi.org/10.3150/22-bej1467>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

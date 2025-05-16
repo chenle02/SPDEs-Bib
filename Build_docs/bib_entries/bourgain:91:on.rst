@@ -1,0 +1,30 @@
+bourgain:91:on
+==============
+
+:cite:t:`bourgain:91:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{bourgain:91:on,
+     author        = {Bourgain, Jean},
+     booktitle     = {Geometric aspects of functional analysis (1989--90)},
+     doi           = {10.1007/BFb0089225},
+     isbn          = {3-540-54024-5},
+     mrclass       = {42B15 (42B25 46E30)},
+     mrnumber      = {1122623},
+     mrreviewer    = {Peter\ I.\ Lizorkin},
+     pages         = {179--191},
+     publisher     = {Springer, Berlin},
+     series        = {Lecture Notes in Math.},
+     title         = {On the restriction and multiplier problems in {${\bf R}^3$}},
+     url           = {https://doi.org/10.1007/BFb0089225},
+     volume        = {1469},
+     year          = {1991}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BFb0089225>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

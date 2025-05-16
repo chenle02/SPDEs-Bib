@@ -1,0 +1,24 @@
+nourdin.peccati:17:fourth
+=========================
+
+:cite:t:`nourdin.peccati:17:fourth`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{nourdin.peccati:17:fourth,
+     author        = {Nourdin, Ivan and Peccati, Giovanni},
+     booktitle     = {Convexity and concentration},
+     mrclass       = {60F05 (60G15 60G60 60H07 60J35)},
+     mrnumber      = {3837275},
+     mrreviewer    = {Daniel M. Harnett},
+     pages         = {285--295},
+     publisher     = {Springer, New York},
+     series        = {IMA Vol. Math. Appl.},
+     title         = {Fourth moments and products: unified estimates},
+     volume        = {161},
+     year          = {2017}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

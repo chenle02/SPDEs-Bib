@@ -1,0 +1,30 @@
+flandoli.imkeller.ea:14:2d-stochastic
+=====================================
+
+:cite:t:`flandoli.imkeller.ea:14:2d-stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{flandoli.imkeller.ea:14:2d-stochastic,
+     author        = {Flandoli, Franco and Imkeller, Peter and Tudor, Ciprian A.},
+     doi           = {10.1007/s10959-012-0453-0},
+     fjournal      = {Journal of Theoretical Probability},
+     issn          = {0894-9840,1572-9230},
+     journal       = {J. Theoret. Probab.},
+     mrclass       = {60G15 (60G22 60G60 60H05 60H07)},
+     mrnumber      = {3195826},
+     mrreviewer    = {David\ Nualart},
+     number        = {2},
+     pages         = {552--575},
+     title         = {2{D}-stochastic currents over the {W}iener sheet},
+     url           = {https://doi.org/10.1007/s10959-012-0453-0},
+     volume        = {27},
+     year          = {2014}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10959-012-0453-0>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

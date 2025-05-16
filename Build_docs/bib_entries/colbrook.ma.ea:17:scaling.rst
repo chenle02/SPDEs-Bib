@@ -1,0 +1,28 @@
+colbrook.ma.ea:17:scaling
+=========================
+
+:cite:t:`colbrook.ma.ea:17:scaling`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{colbrook.ma.ea:17:scaling,
+     author        = {Colbrook, Matthew J. and Ma, Xiangcheng and Hopkins, Philip F. and Squire, Jonathan},
+     doi           = {10.1093/mnras/stx261},
+     eprint        = {https://academic.oup.com/mnras/article-pdf/467/2/2421/10874800/stx261.pdf},
+     issn          = {0035-8711},
+     journal       = {Monthly Notices of the Royal Astronomical Society},
+     month         = {02},
+     number        = {2},
+     pages         = {2421--2429},
+     title         = {Scaling laws of passive-scalar diffusion in the interstellar medium},
+     url           = {https://doi.org/10.1093/mnras/stx261},
+     volume        = {467},
+     year          = {2017}
+   }
+
+`The URL link to the source <https://doi.org/10.1093/mnras/stx261>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

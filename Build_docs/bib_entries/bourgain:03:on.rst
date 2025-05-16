@@ -1,0 +1,30 @@
+bourgain:03:on
+==============
+
+:cite:t:`bourgain:03:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bourgain:03:on,
+     author        = {Bourgain, J.},
+     doi           = {10.1007/s000390300008},
+     fjournal      = {Geometric and Functional Analysis},
+     issn          = {1016-443X,1420-8970},
+     journal       = {Geom. Funct. Anal.},
+     mrclass       = {11K55 (28A80)},
+     mrnumber      = {1982147},
+     mrreviewer    = {Ben\ Joseph\ Green},
+     number        = {2},
+     pages         = {334--365},
+     title         = {On the {E}rd\H{o}s-{V}olkmann and {K}atz-{T}ao ring conjectures},
+     url           = {https://doi.org/10.1007/s000390300008},
+     volume        = {13},
+     year          = {2003}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s000390300008>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

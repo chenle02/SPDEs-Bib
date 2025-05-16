@@ -1,0 +1,30 @@
+nualart.vives:92:chaos
+======================
+
+:cite:t:`nualart.vives:92:chaos`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{nualart.vives:92:chaos,
+     author        = {Nualart, David and Vives, Josep},
+     doi           = {10.5565/PUBLMAT\_362B92\_07},
+     fjournal      = {Publicacions Matem\`atiques},
+     issn          = {0214-1493},
+     journal       = {Publ. Mat.},
+     mrclass       = {60H07},
+     mrnumber      = {1210022},
+     mrreviewer    = {J. Walsh},
+     number        = {2B},
+     pages         = {827--836 (1993)},
+     title         = {Chaos expansions and local times},
+     url           = {https://doi.org/10.5565/PUBLMAT_362B92_07},
+     volume        = {36},
+     year          = {1992}
+   }
+
+`The URL link to the source <https://doi.org/10.5565/PUBLMAT_362B92_07>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

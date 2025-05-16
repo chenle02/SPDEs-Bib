@@ -1,0 +1,26 @@
+tao.vu:07:condition
+===================
+
+:cite:t:`tao.vu:07:condition`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @inproceedings{tao.vu:07:condition,
+     author        = {Tao, Terence and Vu, Van},
+     booktitle     = {S{TOC}'07---{P}roceedings of the 39th {A}nnual {ACM} {S}ymposium on {T}heory of {C}omputing},
+     doi           = {10.1145/1250790.1250828},
+     mrclass       = {65F35 (60E15)},
+     mrnumber      = {2402448},
+     pages         = {248--255},
+     publisher     = {ACM, New York},
+     title         = {The condition number of a randomly perturbed matrix},
+     url           = {https://doi.org/10.1145/1250790.1250828},
+     year          = {2007}
+   }
+
+`The URL link to the source <https://doi.org/10.1145/1250790.1250828>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

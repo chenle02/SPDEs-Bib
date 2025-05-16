@@ -1,0 +1,30 @@
+sznitman:93:brownian
+====================
+
+:cite:t:`sznitman:93:brownian`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{sznitman:93:brownian,
+     author        = {Sznitman, Alain-Sol},
+     doi           = {10.1007/BF01192268},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60K35 (60J65 82D30)},
+     mrnumber      = {1214085},
+     mrreviewer    = {Francis Comets},
+     number        = {2},
+     pages         = {155--174},
+     title         = {Brownian asymptotics in a {P}oissonian environment},
+     url           = {https://doi.org/10.1007/BF01192268},
+     volume        = {95},
+     year          = {1993}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BF01192268>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+goldys.maslowski:05:exponential
+===============================
+
+:cite:t:`goldys.maslowski:05:exponential`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{goldys.maslowski:05:exponential,
+     author        = {Goldys, B. and Maslowski, B.},
+     doi           = {10.1016/j.jfa.2004.12.009},
+     fjournal      = {Journal of Functional Analysis},
+     issn          = {0022-1236,1096-0783},
+     journal       = {J. Funct. Anal.},
+     mrclass       = {35R60 (35Q30 35Q53 37L55 60H10 76D05 76M35)},
+     mrnumber      = {2158741},
+     mrreviewer    = {Ana\ Bela\ Cruzeiro},
+     number        = {1},
+     pages         = {230--255},
+     title         = {Exponential ergodicity for stochastic {B}urgers and 2{D} {N}avier-{S}tokes equations},
+     url           = {https://doi.org/10.1016/j.jfa.2004.12.009},
+     volume        = {226},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2004.12.009>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

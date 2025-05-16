@@ -1,0 +1,30 @@
+yin.bai.ea:88:on
+================
+
+:cite:t:`yin.bai.ea:88:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{yin.bai.ea:88:on,
+     author        = {Yin, Y. Q. and Bai, Z. D. and Krishnaiah, P. R.},
+     doi           = {10.1007/BF00353874},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60F15 (62H99)},
+     mrnumber      = {950344},
+     mrreviewer    = {S\'{a}ndor Cs\"{o}rg\H{o}},
+     number        = {4},
+     pages         = {509--521},
+     title         = {On the limit of the largest eigenvalue of the large-dimensional sample covariance matrix},
+     url           = {https://doi.org/10.1007/BF00353874},
+     volume        = {78},
+     year          = {1988}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BF00353874>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+bakhtin.hurth.ea:18:smooth
+==========================
+
+:cite:t:`bakhtin.hurth.ea:18:smooth`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bakhtin.hurth.ea:18:smooth,
+     author        = {Bakhtin, Yuri and Hurth, Tobias and Lawley, Sean D. and Mattingly, Jonathan C.},
+     doi           = {10.1088/1361-6544/aaa04f},
+     fjournal      = {Nonlinearity},
+     issn          = {0951-7715,1361-6544},
+     journal       = {Nonlinearity},
+     mrclass       = {37H10 (37E30 60J25)},
+     mrnumber      = {3816636},
+     mrreviewer    = {M.\ L.\ Blank},
+     number        = {4},
+     pages         = {1331--1350},
+     title         = {Smooth invariant densities for random switching on the torus},
+     url           = {https://doi.org/10.1088/1361-6544/aaa04f},
+     volume        = {31},
+     year          = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.1088/1361-6544/aaa04f>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

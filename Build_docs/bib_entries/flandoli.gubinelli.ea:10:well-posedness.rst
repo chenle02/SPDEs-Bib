@@ -1,0 +1,30 @@
+flandoli.gubinelli.ea:10:well-posedness
+=======================================
+
+:cite:t:`flandoli.gubinelli.ea:10:well-posedness`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{flandoli.gubinelli.ea:10:well-posedness,
+     author        = {Flandoli, F. and Gubinelli, M. and Priola, E.},
+     doi           = {10.1007/s00222-009-0224-4},
+     fjournal      = {Inventiones Mathematicae},
+     issn          = {0020-9910},
+     journal       = {Invent. Math.},
+     mrclass       = {35R60 (35A02 35Q35 60H30 76M35)},
+     mrnumber      = {2593276},
+     mrreviewer    = {Nikolaos Halidias},
+     number        = {1},
+     pages         = {1--53},
+     title         = {Well-posedness of the transport equation by stochastic perturbation},
+     url           = {https://doi.org/10.1007/s00222-009-0224-4},
+     volume        = {180},
+     year          = {2010}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00222-009-0224-4>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

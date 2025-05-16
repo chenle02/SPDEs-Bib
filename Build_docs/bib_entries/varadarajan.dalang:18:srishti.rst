@@ -1,0 +1,29 @@
+varadarajan.dalang:18:srishti
+=============================
+
+:cite:t:`varadarajan.dalang:18:srishti`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{varadarajan.dalang:18:srishti,
+     author        = {Varadarajan, V. S. and Dalang, Robert C.},
+     doi           = {10.1016/j.exmath.2018.09.005},
+     fjournal      = {Expositiones Mathematicae},
+     issn          = {0723-0869},
+     journal       = {Expo. Math.},
+     mrclass       = {01A70},
+     mrnumber      = {3907329},
+     number        = {3-4},
+     pages         = {231--252},
+     title         = {Srishti {D}har {C}hatterji (1935--2017): in memoriam},
+     url           = {https://doi.org/10.1016/j.exmath.2018.09.005},
+     volume        = {36},
+     year          = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.exmath.2018.09.005>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

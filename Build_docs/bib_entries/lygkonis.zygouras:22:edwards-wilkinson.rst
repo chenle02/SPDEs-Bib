@@ -1,0 +1,30 @@
+lygkonis.zygouras:22:edwards-wilkinson
+======================================
+
+:cite:t:`lygkonis.zygouras:22:edwards-wilkinson`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lygkonis.zygouras:22:edwards-wilkinson,
+     author        = {Lygkonis, Dimitris and Zygouras, Nikos},
+     doi           = {10.1214/21-aihp1173},
+     fjournal      = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+     issn          = {0246-0203},
+     journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
+     mrclass       = {82B44 (60K35 82D60)},
+     mrnumber      = {4374673},
+     mrreviewer    = {Xiaolin Zeng},
+     number        = {1},
+     pages         = {65--104},
+     title         = {Edwards-{W}ilkinson fluctuations for the directed polymer in the full {$L^2$}-regime for dimensions {$d\geq3$}},
+     url           = {https://doi.org/10.1214/21-aihp1173},
+     volume        = {58},
+     year          = {2022}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/21-aihp1173>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

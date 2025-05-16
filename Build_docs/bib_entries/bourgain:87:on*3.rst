@@ -1,0 +1,30 @@
+bourgain:87:on*3
+================
+
+:cite:t:`bourgain:87:on*3`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bourgain:87:on*3,
+     author        = {Bourgain, Jean},
+     doi           = {10.1007/BF02698838},
+     fjournal      = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
+     issn          = {0249-6291},
+     journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
+     mrclass       = {28D05 (11L15 11L40 82A99)},
+     mrnumber      = {916338},
+     mrreviewer    = {F.\ Schweiger},
+     number        = {10},
+     pages         = {397--402},
+     title         = {On pointwise ergodic theorems for arithmetic sets},
+     url           = {https://doi.org/10.1007/BF02698838},
+     volume        = {305},
+     year          = {1987}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BF02698838>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

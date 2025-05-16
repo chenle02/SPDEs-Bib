@@ -1,0 +1,26 @@
+weigel.simon.ea:11:ergodic
+==========================
+
+:cite:t:`weigel.simon.ea:11:ergodic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{weigel.simon.ea:11:ergodic,
+     author        = {Aubrey V. Weigel and Blair Simon and Michael M. Tamkun and Diego Krapf},
+     doi           = {10.1073/pnas.1016325108},
+     eprint        = {https://www.pnas.org/doi/pdf/10.1073/pnas.1016325108},
+     journal       = {Proceedings of the National Academy of Sciences},
+     number        = {16},
+     pages         = {6438--6443},
+     title         = {Ergodic and nonergodic processes coexist in the plasma membrane as observed by single-molecule tracking},
+     url           = {https://www.pnas.org/doi/abs/10.1073/pnas.1016325108},
+     volume        = {108},
+     year          = {2011}
+   }
+
+`The URL link to the source <https://www.pnas.org/doi/abs/10.1073/pnas.1016325108>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

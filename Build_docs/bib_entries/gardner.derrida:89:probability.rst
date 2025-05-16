@@ -1,0 +1,30 @@
+gardner.derrida:89:probability
+==============================
+
+:cite:t:`gardner.derrida:89:probability`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{gardner.derrida:89:probability,
+     author        = {Gardner, E. and Derrida, B.},
+     fjournal      = {Journal of Physics. A. Mathematical and General},
+     issn          = {0305-4470,1751-8121},
+     journal       = {J. Phys. A},
+     mrclass       = {82A57},
+     mrnumber      = {1004905},
+     mrreviewer    = {A.\ Comtet},
+     note          = {Special issue in memory of Elizabeth Gardner, 1957--1988},
+     number        = {12},
+     pages         = {1975--1981},
+     title         = {The probability distribution of the partition function of the random energy model},
+     url           = {http://stacks.iop.org/0305-4470/22/1975},
+     volume        = {22},
+     year          = {1989}
+   }
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/22/1975>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

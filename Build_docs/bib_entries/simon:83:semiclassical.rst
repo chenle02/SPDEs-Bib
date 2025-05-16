@@ -1,0 +1,25 @@
+simon:83:semiclassical
+======================
+
+:cite:t:`simon:83:semiclassical`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{simon:83:semiclassical,
+     author        = {Simon, Barry},
+     fjournal      = {Annales de l'Institut Henri Poincar\'e. Section A. Physique Th\'eorique. Nouvelle S\'erie},
+     issn          = {0246-0211},
+     journal       = {Ann. Inst. H. Poincar\'e{} Sect. A (N.S.)},
+     mrclass       = {81C12 (35P20)},
+     mrnumber      = {708966},
+     mrreviewer    = {Jean\ Michel\ Combes},
+     number        = {3},
+     pages         = {295--308},
+     title         = {Semiclassical analysis of low lying eigenvalues. {I}. {N}ondegenerate minima: asymptotic expansions},
+     volume        = {38},
+     year          = {1983}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

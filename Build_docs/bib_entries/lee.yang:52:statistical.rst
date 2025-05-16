@@ -1,0 +1,24 @@
+lee.yang:52:statistical
+=======================
+
+:cite:t:`lee.yang:52:statistical`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lee.yang:52:statistical,
+     author        = {Lee, T. D. and Yang, C. N.},
+     fjournal      = {Physical Review. Series II},
+     issn          = {0031-899X},
+     journal       = {Phys. Rev. (2)},
+     mrclass       = {80.1X},
+     mrnumber      = {53029},
+     mrreviewer    = {L. Van Hove},
+     pages         = {410--419},
+     title         = {Statistical theory of equations of state and phase transitions. {II}. {L}attice gas and {I}sing model},
+     volume        = {87},
+     year          = {1952}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

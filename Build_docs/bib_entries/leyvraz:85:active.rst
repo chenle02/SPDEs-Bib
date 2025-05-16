@@ -1,0 +1,28 @@
+leyvraz:85:active
+=================
+
+:cite:t:`leyvraz:85:active`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{leyvraz:85:active,
+     author        = {Leyvraz, Fran\c{c}ois},
+     fjournal      = {Journal of Physics. A. Mathematical and General},
+     issn          = {0305-4470},
+     journal       = {J. Phys. A},
+     mrclass       = {82A43},
+     mrnumber      = {814624},
+     number        = {15},
+     pages         = {L941--L945},
+     title         = {The ``active perimeter'' in cluster growth models: a rigorous bound},
+     url           = {http://stacks.iop.org/0305-4470/18/L941},
+     volume        = {18},
+     year          = {1985}
+   }
+
+`The URL link to the source <http://stacks.iop.org/0305-4470/18/L941>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

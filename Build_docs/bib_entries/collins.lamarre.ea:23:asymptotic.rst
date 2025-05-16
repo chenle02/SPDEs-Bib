@@ -1,0 +1,29 @@
+collins.lamarre.ea:23:asymptotic
+================================
+
+:cite:t:`collins.lamarre.ea:23:asymptotic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{collins.lamarre.ea:23:asymptotic,
+     author        = {Collins, Beno\^{i}t and Lamarre, Pierre Yves Gaudreau and Male, Camille},
+     doi           = {10.1142/S2010326322500526},
+     fjournal      = {Random Matrices. Theory and Applications},
+     issn          = {2010-3263,2010-3271},
+     journal       = {Random Matrices Theory Appl.},
+     mrclass       = {60B20 (46L54 60B15)},
+     mrnumber      = {4592456},
+     number        = {2},
+     pages         = {Paper No. 2250052, 39},
+     title         = {Asymptotic freeness of unitary matrices in tensor product spaces for invariant states},
+     url           = {https://doi.org/10.1142/S2010326322500526},
+     volume        = {12},
+     year          = {2023}
+   }
+
+`The URL link to the source <https://doi.org/10.1142/S2010326322500526>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

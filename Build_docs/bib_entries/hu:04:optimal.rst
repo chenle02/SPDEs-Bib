@@ -1,0 +1,22 @@
+hu:04:optimal
+=============
+
+:cite:t:`hu:04:optimal`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{hu:04:optimal,
+     author        = {Hu, Yaozhong},
+     booktitle     = {Probability, finance and insurance},
+     mrclass       = {60H30 (60H10 91B28)},
+     mrnumber      = {2189205},
+     mrreviewer    = {Josef Teichmann},
+     pages         = {164--173},
+     publisher     = {World Sci. Publ., River Edge, NJ},
+     title         = {Optimal consumption and portfolio in a market where the volatility is driven by fractional {B}rownian motion},
+     year          = {2004}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

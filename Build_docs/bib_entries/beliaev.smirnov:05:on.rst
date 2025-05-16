@@ -1,0 +1,30 @@
+beliaev.smirnov:05:on
+=====================
+
+:cite:t:`beliaev.smirnov:05:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{beliaev.smirnov:05:on,
+     author        = {Beliaev, D. and Smirnov, S.},
+     doi           = {10.1112/S0024609305004522},
+     fjournal      = {The Bulletin of the London Mathematical Society},
+     issn          = {0024-6093,1469-2120},
+     journal       = {Bull. London Math. Soc.},
+     mrclass       = {30C10 (30C55 30C85 30D35)},
+     mrnumber      = {2164834},
+     mrreviewer    = {D.\ H.\ Hamilton},
+     number        = {5},
+     pages         = {719--726},
+     title         = {On {L}ittlewoods's constants},
+     url           = {https://doi.org/10.1112/S0024609305004522},
+     volume        = {37},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1112/S0024609305004522>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

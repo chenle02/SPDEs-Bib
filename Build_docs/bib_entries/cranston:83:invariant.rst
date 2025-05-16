@@ -1,0 +1,30 @@
+cranston:83:invariant
+=====================
+
+:cite:t:`cranston:83:invariant`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cranston:83:invariant,
+     author        = {Cranston, M.},
+     doi           = {10.1007/BF00532479},
+     fjournal      = {Zeitschrift f\"{u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+     issn          = {0044-3719},
+     journal       = {Z. Wahrsch. Verw. Gebiete},
+     mrclass       = {60J60 (31A35 60J50)},
+     mrnumber      = {722128},
+     mrreviewer    = {Uwe\ R\"{o}sler},
+     number        = {2},
+     pages         = {161--180},
+     title         = {Invariant {$\sigma $}-fields for a class of diffusions},
+     url           = {https://doi.org/10.1007/BF00532479},
+     volume        = {65},
+     year          = {1983}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BF00532479>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

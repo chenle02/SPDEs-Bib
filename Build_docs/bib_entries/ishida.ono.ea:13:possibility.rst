@@ -1,0 +1,29 @@
+ishida.ono.ea:13:possibility
+============================
+
+:cite:t:`ishida.ono.ea:13:possibility`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{ishida.ono.ea:13:possibility,
+     author        = {Ishida, Sachiko and Ono, Takashi and Yokota, Tomomi},
+     doi           = {10.1002/mma.2622},
+     fjournal      = {Mathematical Methods in the Applied Sciences},
+     issn          = {0170-4214},
+     journal       = {Math. Methods Appl. Sci.},
+     mrclass       = {35K51 (35A01 35B44)},
+     mrnumber      = {3056933},
+     number        = {7},
+     pages         = {745--760},
+     title         = {Possibility of the existence of blow-up solutions to quasilinear degenerate {K}eller-{S}egel systems of parabolic-parabolic type},
+     url           = {https://doi.org/10.1002/mma.2622},
+     volume        = {36},
+     year          = {2013}
+   }
+
+`The URL link to the source <https://doi.org/10.1002/mma.2622>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

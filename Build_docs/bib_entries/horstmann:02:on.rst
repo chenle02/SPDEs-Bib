@@ -1,0 +1,30 @@
+horstmann:02:on
+===============
+
+:cite:t:`horstmann:02:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{horstmann:02:on,
+     author        = {Horstmann, Dirk},
+     doi           = {10.1007/s002850100134},
+     fjournal      = {Journal of Mathematical Biology},
+     issn          = {0303-6812,1432-1416},
+     journal       = {J. Math. Biol.},
+     mrclass       = {35K57 (35B40 35K50 92C37 92D25)},
+     mrnumber      = {1908133},
+     mrreviewer    = {Song\ Mu\ Zheng},
+     number        = {5},
+     pages         = {463--478},
+     title         = {On the existence of radially symmetric blow-up solutions for the {K}eller-{S}egel model},
+     url           = {https://doi.org/10.1007/s002850100134},
+     volume        = {44},
+     year          = {2002}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s002850100134>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

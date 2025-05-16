@@ -1,0 +1,29 @@
+byrne.owen:04:new
+=================
+
+:cite:t:`byrne.owen:04:new`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{byrne.owen:04:new,
+     author        = {Byrne, Helen M. and Owen, Markus R.},
+     doi           = {10.1007/s00285-004-0276-4},
+     fjournal      = {Journal of Mathematical Biology},
+     issn          = {0303-6812},
+     journal       = {J. Math. Biol.},
+     mrclass       = {92C17 (35K50 35K57 92E20)},
+     mrnumber      = {2109458},
+     number        = {6},
+     pages         = {604--626},
+     title         = {A new interpretation of the {K}eller-{S}egel model based on multiphase modelling},
+     url           = {https://doi.org/10.1007/s00285-004-0276-4},
+     volume        = {49},
+     year          = {2004}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00285-004-0276-4>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,29 @@
+barkai.metzler.ea:00:from
+=========================
+
+:cite:t:`barkai.metzler.ea:00:from`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{barkai.metzler.ea:00:from,
+     author        = {Barkai, E. and Metzler, R. and Klafter, J.},
+     doi           = {10.1103/PhysRevE.61.132},
+     fjournal      = {Physical Review E. Statistical, Nonlinear, and Soft Matter Physics},
+     issn          = {1539-3755},
+     journal       = {Phys. Rev. E (3)},
+     mrclass       = {82C41 (82B41)},
+     mrnumber      = {1736459},
+     number        = {1},
+     pages         = {132--138},
+     title         = {From continuous time random walks to the fractional {F}okker-{P}lanck equation},
+     url           = {https://doi.org/10.1103/PhysRevE.61.132},
+     volume        = {61},
+     year          = {2000}
+   }
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.61.132>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

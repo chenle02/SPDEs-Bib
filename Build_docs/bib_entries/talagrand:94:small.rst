@@ -1,0 +1,29 @@
+talagrand:94:small
+==================
+
+:cite:t:`talagrand:94:small`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{talagrand:94:small,
+     author        = {Talagrand, Michel},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60E15 (28C20 60B11 60G17)},
+     mrnumber      = {1303647},
+     mrreviewer    = {Wenbo V. Li},
+     number        = {3},
+     pages         = {1331--1354},
+     title         = {The small ball problem for the {B}rownian sheet},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199407)22:3<1331:TSBPFT>2.0.CO;2-4&origin=MSN},
+     volume        = {22},
+     year          = {1994}
+   }
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199407)22:3<1331:TSBPFT>2.0.CO;2-4&origin=MSN>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

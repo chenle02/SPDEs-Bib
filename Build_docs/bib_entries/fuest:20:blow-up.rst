@@ -1,0 +1,30 @@
+fuest:20:blow-up
+================
+
+:cite:t:`fuest:20:blow-up`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{fuest:20:blow-up,
+     author        = {Fuest, Mario},
+     doi           = {10.1088/1361-6544/ab7294},
+     fjournal      = {Nonlinearity},
+     issn          = {0951-7715},
+     journal       = {Nonlinearity},
+     mrclass       = {35K40 (35B44 35K59)},
+     mrnumber      = {4105360},
+     mrreviewer    = {Paulo R. Zingano},
+     number        = {5},
+     pages         = {2306--2334},
+     title         = {Blow-up profiles in quasilinear fully parabolic {K}eller-{S}egel systems},
+     url           = {https://doi.org/10.1088/1361-6544/ab7294},
+     volume        = {33},
+     year          = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.1088/1361-6544/ab7294>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

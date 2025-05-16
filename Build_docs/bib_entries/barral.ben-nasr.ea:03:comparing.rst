@@ -1,0 +1,30 @@
+barral.ben-nasr.ea:03:comparing
+===============================
+
+:cite:t:`barral.ben-nasr.ea:03:comparing`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{barral.ben-nasr.ea:03:comparing,
+     author        = {Barral, Julien and Ben Nasr, Fathi and Peyri\`ere, Jacques},
+     doi           = {10.4310/AJM.2003.v7.n2.a1},
+     fjournal      = {Asian Journal of Mathematics},
+     issn          = {1093-6106,1945-0036},
+     journal       = {Asian J. Math.},
+     mrclass       = {28A80 (37C45)},
+     mrnumber      = {2014962},
+     mrreviewer    = {Esa\ J\"arvenp\"a\"a},
+     number        = {2},
+     pages         = {149--165},
+     title         = {Comparing multifractal formalisms: the neighboring boxes condition},
+     url           = {https://doi.org/10.4310/AJM.2003.v7.n2.a1},
+     volume        = {7},
+     year          = {2003}
+   }
+
+`The URL link to the source <https://doi.org/10.4310/AJM.2003.v7.n2.a1>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

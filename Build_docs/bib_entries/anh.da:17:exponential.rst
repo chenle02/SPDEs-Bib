@@ -1,0 +1,30 @@
+anh.da:17:exponential
+=====================
+
+:cite:t:`anh.da:17:exponential`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{anh.da:17:exponential,
+     author        = {Anh, Cung The and Da, Nguyen Tien},
+     doi           = {10.1080/17442508.2016.1269767},
+     fjournal      = {Stochastics. An International Journal of Probability and Stochastic Processes},
+     issn          = {1744-2508,1744-2516},
+     journal       = {Stochastics},
+     mrclass       = {60H15 (35R60)},
+     mrnumber      = {3607743},
+     mrreviewer    = {Le\ Chen},
+     number        = {3-4},
+     pages         = {593--618},
+     title         = {The exponential behaviour and stabilizability of stochastic 2{D} hydrodynamical type systems},
+     url           = {https://doi.org/10.1080/17442508.2016.1269767},
+     volume        = {89},
+     year          = {2017}
+   }
+
+`The URL link to the source <https://doi.org/10.1080/17442508.2016.1269767>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
