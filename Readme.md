@@ -65,6 +65,8 @@ the research area of the author: _Stochastic Partial Differential Equations
 
 https://spdes-bib.readthedocs.io/
 
+Some entries include associated podcast episodes. On the Read the Docs site, search for ``podcast`` in the search bar to view all references with podcasts.
+
 ## Some other related tools
 
 1. [papis](https://github.com/papis/papis)

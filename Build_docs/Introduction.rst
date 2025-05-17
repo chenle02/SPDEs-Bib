@@ -9,6 +9,10 @@ correct and updated. This process is also very time-consuming. Through this
 repo, we provide a uniform access to the latest bibliography entries related to
 the research area of the author: *Stochastic Partial Differential Equations*
 (SPDEs) and related fields.
+ 
+.. note::
+
+   Some bibliography entries include associated podcast episodes. On the Read the Docs site, search for ``podcast`` in the search bar to view all entries with podcasts.
 
 Sources
 -------
