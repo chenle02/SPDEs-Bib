@@ -1,0 +1,30 @@
+swanson:07:weak
+===============
+
+:cite:t:`swanson:07:weak`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{swanson:07:weak,
+     author        = {Swanson, Jason},
+     doi           = {10.1007/s00440-006-0024-3},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051,1432-2064},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60F17 (60G15)},
+     mrnumber      = {2288071},
+     mrreviewer    = {Xavier\ Bardina},
+     number        = {1-2},
+     pages         = {269--304},
+     title         = {Weak convergence of the scaled median of independent {B}rownian motions},
+     url           = {https://doi.org/10.1007/s00440-006-0024-3},
+     volume        = {138},
+     year          = {2007}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00440-006-0024-3>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

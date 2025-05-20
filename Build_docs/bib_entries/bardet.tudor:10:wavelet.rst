@@ -1,0 +1,29 @@
+bardet.tudor:10:wavelet
+=======================
+
+:cite:t:`bardet.tudor:10:wavelet`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bardet.tudor:10:wavelet,
+     author        = {Bardet, J.-M. and Tudor, C. A.},
+     doi           = {10.1016/j.spa.2010.08.003},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149,1879-209X},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60G18 (60F05 60H05 62F12)},
+     mrnumber      = {2728168},
+     number        = {12},
+     pages         = {2331--2362},
+     title         = {A wavelet analysis of the {R}osenblatt process: chaos expansion and estimation of the self-similarity parameter},
+     url           = {https://doi.org/10.1016/j.spa.2010.08.003},
+     volume        = {120},
+     year          = {2010}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2010.08.003>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

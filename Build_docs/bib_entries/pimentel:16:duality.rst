@@ -1,0 +1,30 @@
+pimentel:16:duality
+===================
+
+:cite:t:`pimentel:16:duality`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{pimentel:16:duality,
+     author        = {Pimentel, Leandro P. R.},
+     doi           = {10.1214/15-AOP1044},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798,2168-894X},
+     journal       = {Ann. Probab.},
+     mrclass       = {60C05 (60F05 60K35)},
+     mrnumber      = {3551194},
+     mrreviewer    = {Anatoly\ Yambartsev},
+     number        = {5},
+     pages         = {3187--3206},
+     title         = {Duality between coalescence times and exit points in last-passage percolation models},
+     url           = {https://doi.org/10.1214/15-AOP1044},
+     volume        = {44},
+     year          = {2016}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/15-AOP1044>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

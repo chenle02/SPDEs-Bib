@@ -1,0 +1,24 @@
+mountford.pimentel.ea:06:on
+===========================
+
+:cite:t:`mountford.pimentel.ea:06:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{mountford.pimentel.ea:06:on,
+     author        = {Mountford, Thomas and Pimentel, Leandro P. R. and Valle, Glauco},
+     fjournal      = {ALEA. Latin American Journal of Probability and Mathematical Statistics},
+     issn          = {1980-0436},
+     journal       = {ALEA Lat. Am. J. Probab. Math. Stat.},
+     mrclass       = {60J10 (60K37)},
+     mrnumber      = {2285733},
+     mrreviewer    = {Serguei\ Popov},
+     pages         = {279--296},
+     title         = {On the speed of the one-dimensional excited random walk in the transient regime},
+     volume        = {2},
+     year          = {2006}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,29 @@
+torres.tudor.ea:14:quadratic
+============================
+
+:cite:t:`torres.tudor.ea:14:quadratic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{torres.tudor.ea:14:quadratic,
+     author        = {Torres, Soledad and Tudor, Ciprian A. and Viens, Frederi G.},
+     doi           = {10.1214/EJP.v19-2698},
+     fjournal      = {Electronic Journal of Probability},
+     issn          = {1083-6489},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {60H15 (60G18)},
+     mrnumber      = {3256876},
+     mrreviewer    = {No\`elia\ Viles},
+     pages         = {no. 76, 51},
+     title         = {Quadratic variations for the fractional-colored stochastic heat equation},
+     url           = {https://doi.org/10.1214/EJP.v19-2698},
+     volume        = {19},
+     year          = {2014}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v19-2698>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+chen.zili:15:one-dimensional
+============================
+
+:cite:t:`chen.zili:15:one-dimensional`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{chen.zili:15:one-dimensional,
+     author        = {Chen, Zhen-Qing and Zili, Mounir},
+     doi           = {10.1007/s11425-014-4912-1},
+     fjournal      = {Science China. Mathematics},
+     issn          = {1674-7283,1869-1862},
+     journal       = {Sci. China Math.},
+     mrclass       = {60H10 (35K08 35K10 60J55)},
+     mrnumber      = {3296333},
+     mrreviewer    = {Dejun\ Luo},
+     number        = {1},
+     pages         = {97--108},
+     title         = {One-dimensional heat equation with discontinuous conductance},
+     url           = {https://doi.org/10.1007/s11425-014-4912-1},
+     volume        = {58},
+     year          = {2015}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s11425-014-4912-1>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

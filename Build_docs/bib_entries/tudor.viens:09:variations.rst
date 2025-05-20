@@ -1,0 +1,30 @@
+tudor.viens:09:variations
+=========================
+
+:cite:t:`tudor.viens:09:variations`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{tudor.viens:09:variations,
+     author        = {Tudor, Ciprian A. and Viens, Frederi G.},
+     doi           = {10.1214/09-AOP459},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798,2168-894X},
+     journal       = {Ann. Probab.},
+     mrclass       = {60G18 (60F05 60G22 60H05 60H07 62F12)},
+     mrnumber      = {2573552},
+     mrreviewer    = {Anthony\ R\'eveillac},
+     number        = {6},
+     pages         = {2093--2134},
+     title         = {Variations and estimators for self-similarity parameters via {M}alliavin calculus},
+     url           = {https://doi.org/10.1214/09-AOP459},
+     volume        = {37},
+     year          = {2009}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/09-AOP459>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

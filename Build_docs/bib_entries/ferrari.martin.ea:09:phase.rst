@@ -1,0 +1,29 @@
+ferrari.martin.ea:09:phase
+==========================
+
+:cite:t:`ferrari.martin.ea:09:phase`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{ferrari.martin.ea:09:phase,
+     author        = {Ferrari, Pablo A. and Martin, James B. and Pimentel, Leandro P. R.},
+     doi           = {10.1214/08-AAP542},
+     fjournal      = {The Annals of Applied Probability},
+     issn          = {1050-5164,2168-8737},
+     journal       = {Ann. Appl. Probab.},
+     mrclass       = {60K35 (82B26)},
+     mrnumber      = {2498679},
+     number        = {1},
+     pages         = {281--317},
+     title         = {A phase transition for competition interfaces},
+     url           = {https://doi.org/10.1214/08-AAP542},
+     volume        = {19},
+     year          = {2009}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/08-AAP542>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

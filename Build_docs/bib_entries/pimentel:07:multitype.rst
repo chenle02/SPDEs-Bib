@@ -1,0 +1,30 @@
+pimentel:07:multitype
+=====================
+
+:cite:t:`pimentel:07:multitype`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{pimentel:07:multitype,
+     author        = {Pimentel, Leandro P. R.},
+     doi           = {10.1239/aap/1175266469},
+     fjournal      = {Advances in Applied Probability},
+     issn          = {0001-8678,1475-6064},
+     journal       = {Adv. in Appl. Probab.},
+     mrclass       = {60K35 (60D05)},
+     mrnumber      = {2307871},
+     mrreviewer    = {Masato\ Takei},
+     number        = {1},
+     pages         = {53--76},
+     title         = {Multitype shape theorems for first passage percolation models},
+     url           = {https://doi.org/10.1239/aap/1175266469},
+     volume        = {39},
+     year          = {2007}
+   }
+
+`The URL link to the source <https://doi.org/10.1239/aap/1175266469>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -10,12 +10,12 @@ erdelyi.magnus.ea:54:tables*1
    @book{erdelyi.magnus.ea:54:tables*1,
      author        = {Erd\'{e}lyi, A. and Magnus, W. and Oberhettinger, F. and Tricomi, F. G.},
      mrclass       = {42.4X},
-     mrnumber      = {0061695},
+     mrnumber      = {0065685},
      mrreviewer    = {H. Kober},
      note          = {Based, in part, on notes left by Harry Bateman},
-     pages         = {xx+391},
+     pages         = {xvi+451},
      publisher     = {McGraw-Hill Book Company, Inc., New York-Toronto-London},
-     title         = {Tables of integral transforms. {V}ol. {I}},
+     title         = {Tables of integral transforms. {V}ol. {II}},
      year          = {1954}
    }
 

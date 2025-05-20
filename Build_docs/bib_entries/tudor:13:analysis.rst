@@ -1,0 +1,29 @@
+tudor:13:analysis
+=================
+
+:cite:t:`tudor:13:analysis`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{tudor:13:analysis,
+     author        = {Tudor, Ciprian A.},
+     doi           = {10.1007/978-3-319-00936-0},
+     isbn          = {978-3-319-00935-3; 978-3-319-00936-0},
+     mrclass       = {60G18 (60F05 60H05 60H07)},
+     mrnumber      = {3112799},
+     mrreviewer    = {Anthony\ R\'eveillac},
+     note          = {A stochastic calculus approach},
+     pages         = {xii+268},
+     publisher     = {Springer, Cham},
+     series        = {Probability and its Applications (New York)},
+     title         = {Analysis of variations for self-similar processes},
+     url           = {https://doi.org/10.1007/978-3-319-00936-0},
+     year          = {2013}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-00936-0>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

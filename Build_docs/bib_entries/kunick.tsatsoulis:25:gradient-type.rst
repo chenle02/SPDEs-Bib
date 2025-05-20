@@ -1,0 +1,28 @@
+kunick.tsatsoulis:25:gradient-type
+==================================
+
+:cite:t:`kunick.tsatsoulis:25:gradient-type`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kunick.tsatsoulis:25:gradient-type,
+     author        = {Kunick, Florian and Tsatsoulis, Pavlos},
+     doi           = {10.1016/j.spa.2024.104548},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60H17 (47D07)},
+     mrnumber      = {4843971},
+     pages         = {Paper No. 104548, 21},
+     title         = {Gradient-type estimates for the dynamic {$\varphi _2^4$}-model},
+     url           = {https://doi.org/10.1016/j.spa.2024.104548},
+     volume        = {181},
+     year          = {2025}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2024.104548>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

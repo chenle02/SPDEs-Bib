@@ -1,0 +1,30 @@
+pimentel:11:asymptotics
+=======================
+
+:cite:t:`pimentel:11:asymptotics`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{pimentel:11:asymptotics,
+     author        = {Pimentel, Leandro P. R.},
+     doi           = {10.1017/S0963548310000477},
+     fjournal      = {Combinatorics, Probability and Computing},
+     issn          = {0963-5483,1469-2163},
+     journal       = {Combin. Probab. Comput.},
+     mrclass       = {60K35 (60G55)},
+     mrnumber      = {2784636},
+     mrreviewer    = {Dimitri\ Petritis},
+     number        = {3},
+     pages         = {435--453},
+     title         = {Asymptotics for first-passage times on {D}elaunay triangulations},
+     url           = {https://doi.org/10.1017/S0963548310000477},
+     volume        = {20},
+     year          = {2011}
+   }
+
+`The URL link to the source <https://doi.org/10.1017/S0963548310000477>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

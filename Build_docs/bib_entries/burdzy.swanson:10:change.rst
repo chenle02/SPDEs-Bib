@@ -1,0 +1,30 @@
+burdzy.swanson:10:change
+========================
+
+:cite:t:`burdzy.swanson:10:change`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{burdzy.swanson:10:change,
+     author        = {Burdzy, Krzysztof and Swanson, Jason},
+     doi           = {10.1214/09-AOP523},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798,2168-894X},
+     journal       = {Ann. Probab.},
+     mrclass       = {60H05 (60G15 60G18 60H15)},
+     mrnumber      = {2722787},
+     mrreviewer    = {Marco\ Dozzi},
+     number        = {5},
+     pages         = {1817--1869},
+     title         = {A change of variable formula with {I}t\^o{} correction term},
+     url           = {https://doi.org/10.1214/09-AOP523},
+     volume        = {38},
+     year          = {2010}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/09-AOP523>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

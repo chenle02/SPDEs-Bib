@@ -1,0 +1,30 @@
+eddahbi.lacayo.ea:05:regularity
+===============================
+
+:cite:t:`eddahbi.lacayo.ea:05:regularity`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{eddahbi.lacayo.ea:05:regularity,
+     author        = {Eddahbi, M. and Lacayo, R. and Sol\'e, J. L. and Vives, J. and Tudor, C. A.},
+     doi           = {10.1081/SAP-200050121},
+     fjournal      = {Stochastic Analysis and Applications},
+     issn          = {0736-2994,1532-9356},
+     journal       = {Stoch. Anal. Appl.},
+     mrclass       = {60J55 (60G15 60H07)},
+     mrnumber      = {2130355},
+     mrreviewer    = {David\ Nualart},
+     number        = {2},
+     pages         = {383--400},
+     title         = {Regularity of the local time for the {$d$}-dimensional fractional {B}rownian motion with {$N$}-parameters},
+     url           = {https://doi.org/10.1081/SAP-200050121},
+     volume        = {23},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1081/SAP-200050121>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+swanson:07:variations
+=====================
+
+:cite:t:`swanson:07:variations`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{swanson:07:variations,
+     author        = {Swanson, Jason},
+     doi           = {10.1214/009117907000000196},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798,2168-894X},
+     journal       = {Ann. Probab.},
+     mrclass       = {60H15 (60F17 60G15 60G18 60H05)},
+     mrnumber      = {2353385},
+     mrreviewer    = {Anna\ Talarczyk},
+     number        = {6},
+     pages         = {2122--2159},
+     title         = {Variations of the solution to a stochastic heat equation},
+     url           = {https://doi.org/10.1214/009117907000000196},
+     volume        = {35},
+     year          = {2007}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/009117907000000196>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
