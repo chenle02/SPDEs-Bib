@@ -1,0 +1,29 @@
+cialenco.huang:20:note
+======================
+
+:cite:t:`cialenco.huang:20:note`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cialenco.huang:20:note,
+     author        = {Cialenco, Igor and Huang, Yicong},
+     doi           = {10.1142/S0219493720500161},
+     fjournal      = {Stochastics and Dynamics},
+     issn          = {0219-4937,1793-6799},
+     journal       = {Stoch. Dyn.},
+     mrclass       = {60H15 (35Q30 35R60 62F10 65M32)},
+     mrnumber      = {4101083},
+     number        = {3},
+     pages         = {2050016, 28},
+     title         = {A note on parameter estimation for discretely sampled {SPDE}s},
+     url           = {https://doi.org/10.1142/S0219493720500161},
+     volume        = {20},
+     year          = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.1142/S0219493720500161>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
