@@ -1,0 +1,29 @@
+maes.thiery:17:midpoint
+=======================
+
+:cite:t:`maes.thiery:17:midpoint`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{maes.thiery:17:midpoint,
+     author        = {Maes, Christian and Thiery, Thimoth\'{e}e},
+     doi           = {10.1007/s10955-017-1839-2},
+     fjournal      = {Journal of Statistical Physics},
+     issn          = {0022-4715},
+     journal       = {J. Stat. Phys.},
+     mrclass       = {82D60},
+     mrnumber      = {3682959},
+     number        = {5},
+     pages         = {937--963},
+     title         = {Midpoint distribution of directed polymers in the stationary regime: exact result through linear response},
+     url           = {https://doi.org/10.1007/s10955-017-1839-2},
+     volume        = {168},
+     year          = {2017}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10955-017-1839-2>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

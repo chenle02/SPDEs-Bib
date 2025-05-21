@@ -13,17 +13,17 @@ fujita:90:integrodifferential*1
      issn          = {0030-6126},
      journal       = {Osaka J. Math.},
      mrclass       = {45K05},
-     mrnumber      = {1088183},
-     mrreviewer    = {Hana Petzeltov\'{a}},
-     number        = {4},
-     pages         = {797--804},
-     title         = {Integrodifferential equation which interpolates the heat equation and the wave equation. {II}},
-     url           = {http://projecteuclid.org/euclid.ojm/1200782677},
+     mrnumber      = {1066629},
+     mrreviewer    = {O. Diekmann},
+     number        = {2},
+     pages         = {309--321},
+     title         = {Integrodifferential equation which interpolates the heat equation and the wave equation},
+     url           = {http://projecteuclid.org/euclid.ojm/1200782311},
      volume        = {27},
      year          = {1990}
    }
 
-`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200782677>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200782311>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

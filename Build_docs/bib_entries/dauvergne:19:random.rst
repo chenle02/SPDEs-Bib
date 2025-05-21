@@ -1,0 +1,26 @@
+dauvergne:19:random
+===================
+
+:cite:t:`dauvergne:19:random`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{dauvergne:19:random,
+     author        = {Dauvergne, Duncan},
+     isbn          = {978-1085-60302-7},
+     mrclass       = {Thesis},
+     mrnumber      = {4035169},
+     note          = {Thesis (Ph.D.)--University of Toronto (Canada)},
+     pages         = {269},
+     publisher     = {ProQuest LLC, Ann Arbor, MI},
+     title         = {Random {S}orting {N}etworks, the {D}irected {L}andscape, and {R}andom {P}olynomials},
+     url           = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:13813605},
+     year          = {2019}
+   }
+
+`The URL link to the source <http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:13813605>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

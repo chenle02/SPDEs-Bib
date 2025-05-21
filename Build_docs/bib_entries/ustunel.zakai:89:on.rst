@@ -1,0 +1,29 @@
+ustunel.zakai:89:on
+===================
+
+:cite:t:`ustunel.zakai:89:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{ustunel.zakai:89:on,
+     author        = {\"{U}st\"{u}nel, Ali S\"{u}leyman and Zakai, Moshe},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60H07},
+     mrnumber      = {1048936},
+     mrreviewer    = {David Nualart},
+     number        = {4},
+     pages         = {1441--1453},
+     title         = {On independence and conditioning on {W}iener space},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198910)17:4<1441:OIACOW>2.0.CO;2-5&origin=MSN},
+     volume        = {17},
+     year          = {1989}
+   }
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198910)17:4<1441:OIACOW>2.0.CO;2-5&origin=MSN>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

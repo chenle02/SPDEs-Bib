@@ -1,0 +1,30 @@
+sarkar.virag:21:brownian
+========================
+
+:cite:t:`sarkar.virag:21:brownian`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{sarkar.virag:21:brownian,
+     author        = {Sarkar, Sourav and Vir\'{a}g, B\'{a}lint},
+     doi           = {10.1214/20-aop1491},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {82C22 (60H15 82C43)},
+     mrnumber      = {4260466},
+     mrreviewer    = {Yu-Ting Chen},
+     number        = {4},
+     pages         = {1718--1737},
+     title         = {Brownian absolute continuity of the {KPZ} fixed point with arbitrary initial condition},
+     url           = {https://doi.org/10.1214/20-aop1491},
+     volume        = {49},
+     year          = {2021}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/20-aop1491>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

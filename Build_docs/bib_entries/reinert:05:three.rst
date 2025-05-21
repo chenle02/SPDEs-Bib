@@ -1,0 +1,28 @@
+reinert:05:three
+================
+
+:cite:t:`reinert:05:three`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{reinert:05:three,
+     author        = {Reinert, Gesine},
+     booktitle     = {An introduction to {S}tein's method},
+     doi           = {10.1142/9789812567680\_0004},
+     mrclass       = {62E17 (60F05 62P10)},
+     mrnumber      = {2235451},
+     pages         = {183--221},
+     publisher     = {Singapore Univ. Press, Singapore},
+     series        = {Lect. Notes Ser. Inst. Math. Sci. Natl. Univ. Singap.},
+     title         = {Three general approaches to {S}tein's method},
+     url           = {https://doi.org/10.1142/9789812567680_0004},
+     volume        = {4},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1142/9789812567680_0004>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
