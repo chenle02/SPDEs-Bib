@@ -9,22 +9,21 @@ dalang.walsh:92:sharp*1
 
    @article{dalang.walsh:92:sharp*1,
      author        = {Dalang, Robert C. and Walsh, John B.},
-     doi           = {10.1007/BF02392978},
-     fjournal      = {Acta Mathematica},
-     issn          = {0001-5962},
-     journal       = {Acta Math.},
-     mrclass       = {60G60 (60G20 60J25 60J30)},
-     mrnumber      = {1161265},
-     mrreviewer    = {Peter Imkeller},
-     number        = {3-4},
-     pages         = {153--218},
-     title         = {The sharp {M}arkov property of the {B}rownian sheet and related processes},
-     url           = {https://doi.org/10.1007/BF02392978},
-     volume        = {168},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60G60 (60J30 60J75)},
+     mrnumber      = {1159561},
+     mrreviewer    = {Ditlev Monrad},
+     number        = {2},
+     pages         = {591--626},
+     title         = {The sharp {M}arkov property of {L}\'{e}vy sheets},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199204)20:2<591:TSMPOL>2.0.CO;2-N&origin=MSN},
+     volume        = {20},
      year          = {1992}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02392978>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199204)20:2<591:TSMPOL>2.0.CO;2-N&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

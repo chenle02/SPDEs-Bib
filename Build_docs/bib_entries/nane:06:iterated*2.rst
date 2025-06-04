@@ -7,20 +7,24 @@ nane:06:iterated*2
 
 .. code-block:: bibtex
 
-   @book{nane:06:iterated*2,
+   @article{nane:06:iterated*2,
      author        = {Nane, Erkan},
-     isbn          = {978-0542-86606-7},
-     mrclass       = {Thesis},
-     mrnumber      = {2709290},
-     note          = {Thesis (Ph.D.)--Purdue University},
-     pages         = {47},
-     publisher     = {ProQuest LLC, Ann Arbor, MI},
-     title         = {Iterated {B}rownian motion: {L}ifetime asymptotics and isoperimetric-type inequalities},
-     url           = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:3232219},
+     doi           = {10.1007/s11118-005-2611-9},
+     fjournal      = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
+     issn          = {0926-2601},
+     journal       = {Potential Anal.},
+     mrclass       = {60J65},
+     mrnumber      = {2217416},
+     mrreviewer    = {Endre Cs\'{a}ki},
+     number        = {2},
+     pages         = {105--123},
+     title         = {Iterated {B}rownian motion in parabola-shaped domains},
+     url           = {https://doi.org/10.1007/s11118-005-2611-9},
+     volume        = {24},
      year          = {2006}
    }
 
-`The URL link to the source <http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:3232219>`__
+`The URL link to the source <https://doi.org/10.1007/s11118-005-2611-9>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
