@@ -1,0 +1,29 @@
+berg.cohen.ea:21:lie-trotter
+============================
+
+:cite:t:`berg.cohen.ea:21:lie-trotter`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{berg.cohen.ea:21:lie-trotter,
+     author        = {Berg, Andr\'e{} and Cohen, David and Dujardin, Guillaume},
+     doi           = {10.1007/s10915-021-01514-y},
+     fjournal      = {Journal of Scientific Computing},
+     issn          = {0885-7474,1573-7691},
+     journal       = {J. Sci. Comput.},
+     mrclass       = {60H35 (35Q55 60-08 60H15 65J08 65M75)},
+     mrnumber      = {4263224},
+     number        = {1},
+     pages         = {Paper No. 6, 31},
+     title         = {Lie-trotter splitting for the nonlinear stochastic {M}anakov system},
+     url           = {https://doi.org/10.1007/s10915-021-01514-y},
+     volume        = {88},
+     year          = {2021}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10915-021-01514-y>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

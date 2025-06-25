@@ -1,0 +1,30 @@
+cohen.hairer.ea:05:numerical
+============================
+
+:cite:t:`cohen.hairer.ea:05:numerical`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cohen.hairer.ea:05:numerical,
+     author        = {Cohen, D. and Hairer, E. and Lubich, Ch.},
+     doi           = {10.1007/s10543-005-7121-z},
+     fjournal      = {BIT. Numerical Mathematics},
+     issn          = {0006-3835,1572-9125},
+     journal       = {BIT},
+     mrclass       = {65L05 (65P10)},
+     mrnumber      = {2176195},
+     mrreviewer    = {Juan\ I.\ Montijano},
+     number        = {2},
+     pages         = {287--305},
+     title         = {Numerical energy conservation for multi-frequency oscillatory differential equations},
+     url           = {https://doi.org/10.1007/s10543-005-7121-z},
+     volume        = {45},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10543-005-7121-z>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

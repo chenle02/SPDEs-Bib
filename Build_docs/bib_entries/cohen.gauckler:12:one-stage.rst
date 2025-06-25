@@ -1,0 +1,30 @@
+cohen.gauckler:12:one-stage
+===========================
+
+:cite:t:`cohen.gauckler:12:one-stage`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cohen.gauckler:12:one-stage,
+     author        = {Cohen, David and Gauckler, Ludwig},
+     doi           = {10.1007/s10543-012-0385-1},
+     fjournal      = {BIT. Numerical Mathematics},
+     issn          = {0006-3835,1572-9125},
+     journal       = {BIT},
+     mrclass       = {65M70},
+     mrnumber      = {2995211},
+     mrreviewer    = {Fernando\ Casas},
+     number        = {4},
+     pages         = {877--903},
+     title         = {One-stage exponential integrators for nonlinear {S}chr\"odinger equations over long times},
+     url           = {https://doi.org/10.1007/s10543-012-0385-1},
+     volume        = {52},
+     year          = {2012}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10543-012-0385-1>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

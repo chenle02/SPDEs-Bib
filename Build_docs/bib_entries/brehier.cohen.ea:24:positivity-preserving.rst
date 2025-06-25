@@ -1,0 +1,24 @@
+brehier.cohen.ea:24:positivity-preserving
+=========================================
+
+:cite:t:`brehier.cohen.ea:24:positivity-preserving`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{brehier.cohen.ea:24:positivity-preserving,
+     author        = {Br\'ehier, Charles-Edouard and Cohen, David and Ulander, Johan},
+     booktitle     = {Sixteenth {I}nternational {C}onference {Z}aragoza-{P}au on {M}athematics and its {A}pplications},
+     isbn          = {978-84-1340-791-3},
+     mrclass       = {65C30 (60H15 60H35)},
+     mrnumber      = {4729657},
+     pages         = {31--40},
+     publisher     = {Prensas Univ. Zaragoza, Zaragoza},
+     series        = {Monogr. Mat. Garc\'ia Galdeano},
+     title         = {Positivity-preserving schemes for some nonlinear stochastic {PDE}s},
+     volume        = {43},
+     year          = {2024}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

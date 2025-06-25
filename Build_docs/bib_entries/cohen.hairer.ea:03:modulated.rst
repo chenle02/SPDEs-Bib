@@ -1,0 +1,30 @@
+cohen.hairer.ea:03:modulated
+============================
+
+:cite:t:`cohen.hairer.ea:03:modulated`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cohen.hairer.ea:03:modulated,
+     author        = {Cohen, David and Hairer, Ernst and Lubich, Christian},
+     doi           = {10.1007/s10208-002-0062-x},
+     fjournal      = {Foundations of Computational Mathematics. The Journal of the Society for the Foundations of Computational Mathematics},
+     issn          = {1615-3375,1615-3383},
+     journal       = {Found. Comput. Math.},
+     mrclass       = {34C15 (34E13 37J40 82C05)},
+     mrnumber      = {2009682},
+     mrreviewer    = {Iulian\ Coroian},
+     number        = {4},
+     pages         = {327--345},
+     title         = {Modulated {F}ourier expansions of highly oscillatory differential equations},
+     url           = {https://doi.org/10.1007/s10208-002-0062-x},
+     volume        = {3},
+     year          = {2003}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10208-002-0062-x>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+brehier.cohen:24:splitting
+==========================
+
+:cite:t:`brehier.cohen:24:splitting`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{brehier.cohen:24:splitting,
+     author        = {Br\'ehier, Charles-Edouard and Cohen, David},
+     doi           = {10.3934/jcd.2024014},
+     fjournal      = {Journal of Computational Dynamics},
+     issn          = {2158-2491,2158-2505},
+     journal       = {J. Comput. Dyn.},
+     mrclass       = {35Q83 (35B20 35R60 60H15 60H35 65C30 65J08)},
+     mrnumber      = {4795576},
+     mrreviewer    = {Lucio\ Galeati},
+     number        = {4},
+     pages         = {494--532},
+     title         = {Splitting integrators for linear {V}lasov equations with stochastic perturbations},
+     url           = {https://doi.org/10.3934/jcd.2024014},
+     volume        = {11},
+     year          = {2024}
+   }
+
+`The URL link to the source <https://doi.org/10.3934/jcd.2024014>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

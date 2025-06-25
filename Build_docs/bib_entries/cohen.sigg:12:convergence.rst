@@ -1,0 +1,30 @@
+cohen.sigg:12:convergence
+=========================
+
+:cite:t:`cohen.sigg:12:convergence`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cohen.sigg:12:convergence,
+     author        = {Cohen, David and Sigg, Magdalena},
+     doi           = {10.1007/s00211-011-0426-8},
+     fjournal      = {Numerische Mathematik},
+     issn          = {0029-599X,0945-3245},
+     journal       = {Numer. Math.},
+     mrclass       = {65C30 (34F05 60H10 65L04)},
+     mrnumber      = {2909913},
+     mrreviewer    = {Roger\ Pettersson},
+     number        = {1},
+     pages         = {1--29},
+     title         = {Convergence analysis of trigonometric methods for stiff second-order stochastic differential equations},
+     url           = {https://doi.org/10.1007/s00211-011-0426-8},
+     volume        = {121},
+     year          = {2012}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00211-011-0426-8>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+komori.cohen.ea:17:weak
+=======================
+
+:cite:t:`komori.cohen.ea:17:weak`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{komori.cohen.ea:17:weak,
+     author        = {Komori, Yoshio and Cohen, David and Burrage, Kevin},
+     doi           = {10.1137/15M1041341},
+     fjournal      = {SIAM Journal on Scientific Computing},
+     issn          = {1064-8275,1095-7197},
+     journal       = {SIAM J. Sci. Comput.},
+     mrclass       = {65C30 (60H10)},
+     mrnumber      = {3735294},
+     mrreviewer    = {Nikolaos\ Halidias},
+     number        = {6},
+     pages         = {A2857--A2878},
+     title         = {Weak second order explicit exponential {R}unge-{K}utta methods for stochastic differential equations},
+     url           = {https://doi.org/10.1137/15M1041341},
+     volume        = {39},
+     year          = {2017}
+   }
+
+`The URL link to the source <https://doi.org/10.1137/15M1041341>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

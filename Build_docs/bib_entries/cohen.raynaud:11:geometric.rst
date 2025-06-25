@@ -1,0 +1,30 @@
+cohen.raynaud:11:geometric
+==========================
+
+:cite:t:`cohen.raynaud:11:geometric`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cohen.raynaud:11:geometric,
+     author        = {Cohen, David and Raynaud, Xavier},
+     doi           = {10.1016/j.cam.2010.09.015},
+     fjournal      = {Journal of Computational and Applied Mathematics},
+     issn          = {0377-0427,1879-1778},
+     journal       = {J. Comput. Appl. Math.},
+     mrclass       = {65M06 (35Q53)},
+     mrnumber      = {2763115},
+     mrreviewer    = {Sergio\ Amat},
+     number        = {8},
+     pages         = {1925--1940},
+     title         = {Geometric finite difference schemes for the generalized hyperelastic-rod wave equation},
+     url           = {https://doi.org/10.1016/j.cam.2010.09.015},
+     volume        = {235},
+     year          = {2011}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.cam.2010.09.015>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
