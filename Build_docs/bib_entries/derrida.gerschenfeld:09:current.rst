@@ -9,22 +9,22 @@ derrida.gerschenfeld:09:current
 
    @article{derrida.gerschenfeld:09:current,
      author        = {Derrida, Bernard and Gerschenfeld, Antoine},
-     doi           = {10.1007/s10955-009-9772-7},
+     doi           = {10.1007/s10955-009-9830-1},
      fjournal      = {Journal of Statistical Physics},
      issn          = {0022-4715,1572-9613},
      journal       = {J. Stat. Phys.},
-     mrclass       = {82C21 (82C31)},
-     mrnumber      = {2525223},
-     mrreviewer    = {Peter\ Eichelsbacher},
-     number        = {1},
-     pages         = {1--15},
-     title         = {Current fluctuations of the one dimensional symmetric simple exclusion process with step initial condition},
-     url           = {https://doi.org/10.1007/s10955-009-9772-7},
-     volume        = {136},
+     mrclass       = {82C05 (60F10 82C70)},
+     mrnumber      = {2570758},
+     mrreviewer    = {Enza\ Orlandi},
+     number        = {5-6},
+     pages         = {978--1000},
+     title         = {Current fluctuations in one dimensional diffusive systems with a step initial density profile},
+     url           = {https://doi.org/10.1007/s10955-009-9830-1},
+     volume        = {137},
      year          = {2009}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s10955-009-9772-7>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-009-9830-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

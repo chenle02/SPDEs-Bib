@@ -1,0 +1,30 @@
+lorist.veraar:21:singular
+=========================
+
+:cite:t:`lorist.veraar:21:singular`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lorist.veraar:21:singular,
+     author        = {Lorist, Emiel and Veraar, Mark},
+     doi           = {10.2140/apde.2021.14.1443},
+     fjournal      = {Analysis \& PDE},
+     issn          = {2157-5045,1948-206X},
+     journal       = {Anal. PDE},
+     mrclass       = {60H15 (35B65 35R60 42B20 42B37 47D06)},
+     mrnumber      = {4307214},
+     mrreviewer    = {Baris\ Evren\ Ugurcan},
+     number        = {5},
+     pages         = {1443--1507},
+     title         = {Singular stochastic integral operators},
+     url           = {https://doi.org/10.2140/apde.2021.14.1443},
+     volume        = {14},
+     year          = {2021}
+   }
+
+`The URL link to the source <https://doi.org/10.2140/apde.2021.14.1443>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

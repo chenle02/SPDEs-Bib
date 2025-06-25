@@ -1,0 +1,30 @@
+rozendaal.veraar:18:stability
+=============================
+
+:cite:t:`rozendaal.veraar:18:stability`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{rozendaal.veraar:18:stability,
+     author        = {Rozendaal, Jan and Veraar, Mark},
+     doi           = {10.1016/j.jfa.2018.06.015},
+     fjournal      = {Journal of Functional Analysis},
+     issn          = {0022-1236,1096-0783},
+     journal       = {J. Funct. Anal.},
+     mrclass       = {47D06 (34D05 35B40 35K90 42B15 46B20)},
+     mrnumber      = {3853082},
+     mrreviewer    = {Irina\ V.\ Melnikova},
+     number        = {10},
+     pages         = {2845--2894},
+     title         = {Stability theory for semigroups using {$(L^p,L^q)$} {F}ourier multipliers},
+     url           = {https://doi.org/10.1016/j.jfa.2018.06.015},
+     volume        = {275},
+     year          = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2018.06.015>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

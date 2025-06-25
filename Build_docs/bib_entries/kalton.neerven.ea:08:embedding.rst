@@ -1,0 +1,29 @@
+kalton.neerven.ea:08:embedding
+==============================
+
+:cite:t:`kalton.neerven.ea:08:embedding`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kalton.neerven.ea:08:embedding,
+     author        = {Kalton, Nigel and van Neerven, Jan and Veraar, Mark and Weis, Lutz},
+     doi           = {10.1002/mana.200510598},
+     fjournal      = {Mathematische Nachrichten},
+     issn          = {0025-584X,1522-2616},
+     journal       = {Math. Nachr.},
+     mrclass       = {46B09 (46E35 46E40)},
+     mrnumber      = {2387363},
+     number        = {2},
+     pages         = {238--252},
+     title         = {Embedding vector-valued {B}esov spaces into spaces of {$\gamma$}-radonifying operators},
+     url           = {https://doi.org/10.1002/mana.200510598},
+     volume        = {281},
+     year          = {2008}
+   }
+
+`The URL link to the source <https://doi.org/10.1002/mana.200510598>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

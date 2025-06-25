@@ -1,0 +1,30 @@
+lindemulder.veraar:20:heat
+==========================
+
+:cite:t:`lindemulder.veraar:20:heat`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lindemulder.veraar:20:heat,
+     author        = {Lindemulder, Nick and Veraar, Mark},
+     doi           = {10.1016/j.jde.2020.04.023},
+     fjournal      = {Journal of Differential Equations},
+     issn          = {0022-0396,1090-2732},
+     journal       = {J. Differential Equations},
+     mrclass       = {47A60 (35K20 46B70 46E35 46E40)},
+     mrnumber      = {4104944},
+     mrreviewer    = {Elena\ Cordero},
+     number        = {7},
+     pages         = {5832--5899},
+     title         = {The heat equation with rough boundary conditions and holomorphic functional calculus},
+     url           = {https://doi.org/10.1016/j.jde.2020.04.023},
+     volume        = {269},
+     year          = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.jde.2020.04.023>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

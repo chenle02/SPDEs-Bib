@@ -1,0 +1,30 @@
+meyries.veraar:14:traces
+========================
+
+:cite:t:`meyries.veraar:14:traces`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{meyries.veraar:14:traces,
+     author        = {Meyries, Martin and Veraar, Mark C.},
+     doi           = {10.1007/s00208-014-1042-6},
+     fjournal      = {Mathematische Annalen},
+     issn          = {0025-5831,1432-1807},
+     journal       = {Math. Ann.},
+     mrclass       = {46E35 (46E40 80A22)},
+     mrnumber      = {3273638},
+     mrreviewer    = {Leszek\ Skrzypczak},
+     number        = {3-4},
+     pages         = {571--606},
+     title         = {Traces and embeddings of anisotropic function spaces},
+     url           = {https://doi.org/10.1007/s00208-014-1042-6},
+     volume        = {360},
+     year          = {2014}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00208-014-1042-6>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

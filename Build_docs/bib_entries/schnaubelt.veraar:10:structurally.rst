@@ -1,0 +1,25 @@
+schnaubelt.veraar:10:structurally
+=================================
+
+:cite:t:`schnaubelt.veraar:10:structurally`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{schnaubelt.veraar:10:structurally,
+     author        = {Schnaubelt, Roland and Veraar, Mark},
+     fjournal      = {Differential and Integral Equations. An International Journal for Theory \& Applications},
+     issn          = {0893-4983},
+     journal       = {Differential Integral Equations},
+     mrclass       = {60H15 (35R60 47D06 47N20)},
+     mrnumber      = {2675589},
+     mrreviewer    = {Feng-Yu\ Wang},
+     number        = {9-10},
+     pages         = {957--988},
+     title         = {Structurally damped plate and wave equations with random point force in arbitrary space dimensions},
+     volume        = {23},
+     year          = {2010}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__
