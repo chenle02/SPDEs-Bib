@@ -1,0 +1,30 @@
+gu.komorowski:24:kpz
+====================
+
+:cite:t:`gu.komorowski:24:kpz`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{gu.komorowski:24:kpz,
+     author        = {Gu, Yu and Komorowski, Tomasz},
+     doi           = {10.1214/23-aihp1392},
+     fjournal      = {Annales de l'Institut Henri Poincar\'e{} Probabilit\'es et Statistiques},
+     issn          = {0246-0203,1778-7017},
+     journal       = {Ann. Inst. Henri Poincar\'e{} Probab. Stat.},
+     mrclass       = {60H15 (35K05 35Q82 35R60 37A25)},
+     mrnumber      = {4780499},
+     mrreviewer    = {Charles-Edouard\ Br\'ehier},
+     number        = {3},
+     pages         = {1570--1618},
+     title         = {K{PZ} on torus: {G}aussian fluctuations},
+     url           = {https://doi.org/10.1214/23-aihp1392},
+     volume        = {60},
+     year          = {2024}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/23-aihp1392>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

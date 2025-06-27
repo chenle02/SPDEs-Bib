@@ -9,22 +9,17 @@ bourgain:14:on*4
 
    @incollection{bourgain:14:on*4,
      author        = {Bourgain, Jean},
-     booktitle     = {Geometric aspects of functional analysis},
-     doi           = {10.1007/978-3-319-09477-9\_7},
-     isbn          = {978-3-319-09476-2; 978-3-319-09477-9},
-     mrclass       = {35P15 (35J10 35P05 81Q12 82B44)},
-     mrnumber      = {3364681},
-     mrreviewer    = {Michael\ A.\ Perelmuter},
-     pages         = {85--96},
-     publisher     = {Springer, Cham},
-     series        = {Lecture Notes in Math.},
-     title         = {On the local eigenvalue spacings for certain {A}nderson-{B}ernoulli {H}amiltonians},
-     url           = {https://doi.org/10.1007/978-3-319-09477-9_7},
-     volume        = {2116},
+     booktitle     = {Advances in analysis: the legacy of {E}lias {M}. {S}tein},
+     isbn          = {978-0-691-15941-6},
+     mrclass       = {42B20 (42B25)},
+     mrnumber      = {3329846},
+     mrreviewer    = {Brett\ D.\ Wick},
+     pages         = {47--62},
+     publisher     = {Princeton Univ. Press, Princeton, NJ},
+     series        = {Princeton Math. Ser.},
+     title         = {On oscillatory integral operators in higher dimensions},
+     volume        = {50},
      year          = {2014}
    }
-
-`The URL link to the source <https://doi.org/10.1007/978-3-319-09477-9_7>`__
-
 
 `Back to index <../By-Cite-Keys.html>`__

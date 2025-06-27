@@ -1,0 +1,30 @@
+dunlap.gu:24:jointly
+====================
+
+:cite:t:`dunlap.gu:24:jointly`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{dunlap.gu:24:jointly,
+     author        = {Dunlap, Alexander and Gu, Yu},
+     doi           = {10.1016/j.jfa.2024.110656},
+     fjournal      = {Journal of Functional Analysis},
+     issn          = {0022-1236,1096-0783},
+     journal       = {J. Funct. Anal.},
+     mrclass       = {60H15 (35Q53 35R60 60K35)},
+     mrnumber      = {4794508},
+     mrreviewer    = {Jorge\ A.\ Le\'on},
+     number        = {12},
+     pages         = {Paper No. 110656, 43},
+     title         = {Jointly stationary solutions of periodic {B}urgers flow},
+     url           = {https://doi.org/10.1016/j.jfa.2024.110656},
+     volume        = {287},
+     year          = {2024}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2024.110656>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
