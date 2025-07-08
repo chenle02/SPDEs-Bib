@@ -1,0 +1,30 @@
+barashkov.gubinelli:20:variational
+==================================
+
+:cite:t:`barashkov.gubinelli:20:variational`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{barashkov.gubinelli:20:variational,
+     author        = {Barashkov, N. and Gubinelli, M.},
+     doi           = {10.1215/00127094-2020-0029},
+     fjournal      = {Duke Mathematical Journal},
+     issn          = {0012-7094},
+     journal       = {Duke Math. J.},
+     mrclass       = {81T08 (60B10 60L40 93E20)},
+     mrnumber      = {4173157},
+     mrreviewer    = {Jiang Lun Wu},
+     number        = {17},
+     pages         = {3339--3415},
+     title         = {A variational method for {$\Phi^4_3$}},
+     url           = {https://doi.org/10.1215/00127094-2020-0029},
+     volume        = {169},
+     year          = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.1215/00127094-2020-0029>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

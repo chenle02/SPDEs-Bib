@@ -1,0 +1,30 @@
+shigekawa:04:stochastic
+=======================
+
+:cite:t:`shigekawa:04:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{shigekawa:04:stochastic,
+     author        = {Shigekawa, Ichiro},
+     doi           = {10.1090/mmono/224},
+     isbn          = {0-8218-2626-3},
+     mrclass       = {60-01 (46E30 47D07 60H05 60H07 60H10)},
+     mrnumber      = {2060917},
+     mrreviewer    = {Rimas Norvai\v{s}a},
+     note          = {Translated from the 1998 Japanese original by the author, Iwanami Series in Modern Mathematics},
+     pages         = {xii+182},
+     publisher     = {American Mathematical Society, Providence, RI},
+     series        = {Translations of Mathematical Monographs},
+     title         = {Stochastic analysis},
+     url           = {https://doi.org/10.1090/mmono/224},
+     volume        = {224},
+     year          = {2004}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/mmono/224>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

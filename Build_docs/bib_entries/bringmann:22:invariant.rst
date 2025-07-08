@@ -15,6 +15,7 @@ bringmann:22:invariant
      journal       = {Stoch. Partial Differ. Equ. Anal. Comput.},
      mrclass       = {35R60},
      mrnumber      = {4385403},
+     mrreviewer    = {Le Chen},
      number        = {1},
      pages         = {1--89},
      title         = {Invariant {G}ibbs measures for the three-dimensional wave equation with a {H}artree nonlinearity {I}: measures},

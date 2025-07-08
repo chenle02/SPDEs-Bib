@@ -1,0 +1,29 @@
+oh.okamoto.ea:24:uniqueness
+===========================
+
+:cite:t:`oh.okamoto.ea:24:uniqueness`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{oh.okamoto.ea:24:uniqueness,
+     author        = {Oh, Tadahiro and Okamoto, Mamoru and Tzvetkov, Nikolay},
+     doi           = {10.1214/23-aihp1380},
+     fjournal      = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s et Statistiques},
+     issn          = {0246-0203},
+     journal       = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
+     mrclass       = {60H15 (37D35 60G15 60G60 60H30)},
+     mrnumber      = {4780502},
+     number        = {3},
+     pages         = {1684--1728},
+     title         = {Uniqueness and non-uniqueness of the {G}aussian free field evolution under the two-dimensional {W}ick ordered cubic wave equation},
+     url           = {https://doi.org/10.1214/23-aihp1380},
+     volume        = {60},
+     year          = {2024}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/23-aihp1380>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

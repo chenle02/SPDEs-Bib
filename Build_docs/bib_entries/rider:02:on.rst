@@ -18,7 +18,7 @@ rider:02:on
      mrreviewer    = {Kiyomasa Narita},
      number        = {10},
      pages         = {1231--1248},
-     title         = {On the {$infty$}-volume limit of the focusing cubic {S}chr\"{o}dinger equation},
+     title         = {On the {$\infty$}-volume limit of the focusing cubic {S}chr\"{o}dinger equation},
      url           = {https://doi.org/10.1002/cpa.10043},
      volume        = {55},
      year          = {2002}

@@ -1,0 +1,28 @@
+feldman:74:43
+=============
+
+:cite:t:`feldman:74:43`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{feldman:74:43,
+     author        = {Feldman, Joel},
+     fjournal      = {Communications in Mathematical Physics},
+     issn          = {0010-3616},
+     journal       = {Comm. Math. Phys.},
+     mrclass       = {81.46},
+     mrnumber      = {384003},
+     mrreviewer    = {S. Aramaki},
+     pages         = {93--120},
+     title         = {The {$\lambda \varphi ^{4}_{3}$} field theory in a finite volume},
+     url           = {http://projecteuclid.org/euclid.cmp/1103859849},
+     volume        = {37},
+     year          = {1974}
+   }
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1103859849>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

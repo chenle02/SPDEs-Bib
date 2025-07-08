@@ -1,0 +1,30 @@
+park:75:43
+==========
+
+:cite:t:`park:75:43`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{park:75:43,
+     author        = {Park, Yong Moon},
+     doi           = {10.1063/1.522464},
+     fjournal      = {Journal of Mathematical Physics},
+     issn          = {0022-2488},
+     journal       = {J. Mathematical Phys.},
+     mrclass       = {81.46},
+     mrnumber      = {386524},
+     mrreviewer    = {Pierre Hillion},
+     number        = {11},
+     pages         = {2183--2188},
+     title         = {The {$\lambda \phi^{4}_{3}$} {E}uclidean quantum field theory in a periodic box},
+     url           = {https://doi.org/10.1063/1.522464},
+     volume        = {16},
+     year          = {1975}
+   }
+
+`The URL link to the source <https://doi.org/10.1063/1.522464>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
