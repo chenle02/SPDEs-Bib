@@ -9,22 +9,20 @@ carmona.nualart:88:random*1
 
    @article{carmona.nualart:88:random*1,
      author        = {Carmona, Ren\'{e} and Nualart, David},
-     doi           = {10.1007/BF00318783},
-     fjournal      = {Probability Theory and Related Fields},
-     issn          = {0178-8051},
-     journal       = {Probab. Theory Related Fields},
-     mrclass       = {60H15 (35L70 35R60 60H07)},
-     mrnumber      = {966173},
-     mrreviewer    = {M. Zakai},
-     number        = {4},
-     pages         = {469--508},
-     title         = {Random nonlinear wave equations: smoothness of the solutions},
-     url           = {https://doi.org/10.1007/BF00318783},
-     volume        = {79},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60H15 (35L05 35R60)},
+     mrnumber      = {929075},
+     number        = {2},
+     pages         = {730--751},
+     title         = {Random nonlinear wave equations: propagation of singularities},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198804)16:2<730:RNWEPO>2.0.CO;2-D&origin=MSN},
+     volume        = {16},
      year          = {1988}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF00318783>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198804)16:2<730:RNWEPO>2.0.CO;2-D&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

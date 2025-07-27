@@ -7,17 +7,16 @@ bourgain:83:sur*1
 
 .. code-block:: bibtex
 
-   @article{bourgain:83:sur*1,
+   @incollection{bourgain:83:sur*1,
      author        = {Bourgain, Jean},
-     fjournal      = {Comptes Rendus des S\'{e}ances de l'Acad\'{e}mie des Sciences. S\'{e}rie I. Math\'{e}matique},
-     issn          = {0249-6291},
-     journal       = {C. R. Acad. Sci. Paris S\'{e}r. I Math.},
-     mrclass       = {43A46},
-     mrnumber      = {693188},
-     number        = {3},
-     pages         = {149--151},
-     title         = {Sur les ensembles d'interpolation pour les mesures discr\`etes},
-     volume        = {296},
+     booktitle     = {Harmonic analysis: study group on translation-invariant {B}anach spaces},
+     mrclass       = {44A15 (42A50)},
+     mrnumber      = {697396},
+     pages         = {Exp. No. 3, 9},
+     publisher     = {Univ. Paris XI, Orsay},
+     series        = {Publ. Math. Orsay 83},
+     title         = {Sur les sommes de sinus},
+     volume        = {1},
      year          = {1983}
    }
 
