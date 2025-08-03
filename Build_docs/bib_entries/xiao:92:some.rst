@@ -12,11 +12,11 @@ xiao:92:some
      fjournal      = {Journal of Mathematics. Shuxue Zazhi},
      issn          = {0255-7797},
      journal       = {J. Math. (Wuhan)},
-     mrclass       = {60J65},
-     mrnumber      = {1204570},
-     number        = {1},
-     pages         = {11--19},
-     title         = {Some properties of the algebraic sum of fractional {B}rownian motions},
+     mrclass       = {60G15 (60G60 60J65)},
+     mrnumber      = {1205076},
+     number        = {2},
+     pages         = {237--240},
+     title         = {Some properties of the image sets of two-parameter {O}rnstein-{U}hlenbeck processes},
      volume        = {12},
      year          = {1992}
    }

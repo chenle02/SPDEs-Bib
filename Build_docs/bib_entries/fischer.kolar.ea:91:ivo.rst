@@ -9,15 +9,15 @@ fischer.kolar.ea:91:ivo
 
    @article{fischer.kolar.ea:91:ivo,
      author        = {Fischer, Jan and Kol\'{a}\v{r}, Pavel and Maslowski, Bohdan and Seidler, Jan and Schwabik, \v{S}tefan},
-     fjournal      = {Czechoslovak Mathematical Journal},
-     issn          = {0011-4642},
-     journal       = {Czechoslovak Math. J.},
+     fjournal      = {Czechoslovak Academy of Sciences. Mathematical Institute. Mathematica Bohemica},
+     issn          = {0862-7959},
+     journal       = {Math. Bohem.},
      mrclass       = {01A70},
-     mrnumber      = {1134964},
+     mrnumber      = {1146401},
      number        = {4},
-     pages         = {737--750},
-     title         = {Ivo {V}rko\v{c} sexagenarian},
-     volume        = {41(116)},
+     pages         = {412--424},
+     title         = {Ivo {V}rko\v{c} (on the occasion of his sixtieth birthday)},
+     volume        = {116},
      year          = {1991}
    }
 

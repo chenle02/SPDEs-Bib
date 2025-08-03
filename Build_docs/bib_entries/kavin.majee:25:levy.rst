@@ -1,0 +1,29 @@
+kavin.majee:25:levy
+===================
+
+:cite:t:`kavin.majee:25:levy`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kavin.majee:25:levy,
+     author        = {Kavin, R. and Majee, Ananta K.},
+     doi           = {10.1007/s00245-025-10247-5},
+     fjournal      = {Applied Mathematics and Optimization},
+     issn          = {0095-4616},
+     journal       = {Appl. Math. Optim.},
+     mrclass       = {60H15 (35D35 35K20 35R09 35R60 60F10)},
+     mrnumber      = {4881026},
+     number        = {2},
+     pages         = {Paper No. 51, 48},
+     title         = {L\'{e}vy driven stochastic heat equation with logarithmic nonlinearity: well-posedness and large deviation principle},
+     url           = {https://doi.org/10.1007/s00245-025-10247-5},
+     volume        = {91},
+     year          = {2025}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00245-025-10247-5>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

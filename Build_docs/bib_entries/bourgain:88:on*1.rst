@@ -7,24 +7,24 @@ bourgain:88:on*1
 
 .. code-block:: bibtex
 
-   @article{bourgain:88:on*1,
+   @incollection{bourgain:88:on*1,
      author        = {Bourgain, J.},
-     doi           = {10.1007/BF02776301},
-     fjournal      = {Israel Journal of Mathematics},
-     issn          = {0021-2172},
-     journal       = {Israel J. Math.},
-     mrclass       = {28D05},
-     mrnumber      = {937581},
-     mrreviewer    = {Alberto\ de la Torre},
-     number        = {1},
-     pages         = {39--72},
-     title         = {On the maximal ergodic theorem for certain subsets of the integers},
-     url           = {https://doi.org/10.1007/BF02776301},
-     volume        = {61},
+     booktitle     = {Geometric aspects of functional analysis (1986/87)},
+     doi           = {10.1007/BFb0081744},
+     isbn          = {3-540-19353-7},
+     mrclass       = {46B20},
+     mrnumber      = {950984},
+     mrreviewer    = {T.\ Figiel},
+     pages         = {232--238},
+     publisher     = {Springer, Berlin},
+     series        = {Lecture Notes in Math.},
+     title         = {On finite-dimensional homogeneous {B}anach spaces},
+     url           = {https://doi.org/10.1007/BFb0081744},
+     volume        = {1317},
      year          = {1988}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02776301>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0081744>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
