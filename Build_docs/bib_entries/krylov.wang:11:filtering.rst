@@ -1,0 +1,30 @@
+krylov.wang:11:filtering
+========================
+
+:cite:t:`krylov.wang:11:filtering`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{krylov.wang:11:filtering,
+     author        = {Krylov, N. V. and Wang, Teng},
+     doi           = {10.1016/j.spa.2011.04.008},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60J60 (60H15)},
+     mrnumber      = {2811024},
+     mrreviewer    = {Jian Song},
+     number        = {8},
+     pages         = {1785--1815},
+     title         = {Filtering partially observable diffusions up to the exit time from a domain},
+     url           = {https://doi.org/10.1016/j.spa.2011.04.008},
+     volume        = {121},
+     year          = {2011}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2011.04.008>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

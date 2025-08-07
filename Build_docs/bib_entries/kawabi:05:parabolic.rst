@@ -1,0 +1,30 @@
+kawabi:05:parabolic
+===================
+
+:cite:t:`kawabi:05:parabolic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kawabi:05:parabolic,
+     author        = {Kawabi, Hiroshi},
+     doi           = {10.1007/s11118-004-6456-4},
+     fjournal      = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
+     issn          = {0926-2601},
+     journal       = {Potential Anal.},
+     mrclass       = {60H15 (47D07 60J60)},
+     mrnumber      = {2127731},
+     mrreviewer    = {Wilhelm Stannat},
+     number        = {1},
+     pages         = {61--84},
+     title         = {The parabolic {H}arnack inequality for the time dependent {G}inzburg-{L}andau type {SPDE} and its application},
+     url           = {https://doi.org/10.1007/s11118-004-6456-4},
+     volume        = {22},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s11118-004-6456-4>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

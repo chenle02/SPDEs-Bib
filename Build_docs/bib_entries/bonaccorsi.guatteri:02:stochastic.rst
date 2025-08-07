@@ -1,0 +1,30 @@
+bonaccorsi.guatteri:02:stochastic
+=================================
+
+:cite:t:`bonaccorsi.guatteri:02:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bonaccorsi.guatteri:02:stochastic,
+     author        = {Bonaccorsi, S. and Guatteri, G.},
+     doi           = {10.1080/10451120290024865},
+     fjournal      = {Stochastics and Stochastics Reports},
+     issn          = {1045-1129},
+     journal       = {Stoch. Stoch. Rep.},
+     mrclass       = {60H15 (35R60 47F05)},
+     mrnumber      = {1940491},
+     mrreviewer    = {Hakima Bessaih},
+     number        = {1-2},
+     pages         = {349--370},
+     title         = {Stochastic partial differential equations in bounded domains with {D}irichlet boundary conditions},
+     url           = {https://doi.org/10.1080/10451120290024865},
+     volume        = {74},
+     year          = {2002}
+   }
+
+`The URL link to the source <https://doi.org/10.1080/10451120290024865>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

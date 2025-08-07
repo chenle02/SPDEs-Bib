@@ -1,0 +1,30 @@
+pardoux:79:stochastic
+=====================
+
+:cite:t:`pardoux:79:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{pardoux:79:stochastic,
+     author        = {Pardoux, E.},
+     doi           = {10.1080/17442507908833142},
+     fjournal      = {Stochastics},
+     issn          = {0090-9491},
+     journal       = {Stochastics},
+     mrclass       = {60H15 (60G25 62M20)},
+     mrnumber      = {553909},
+     mrreviewer    = {B. L. Rozovski\u{\i}},
+     number        = {2},
+     pages         = {127--167},
+     title         = {Stochastic partial differential equations and filtering of diffusion processes},
+     url           = {https://doi.org/10.1080/17442507908833142},
+     volume        = {3},
+     year          = {1979}
+   }
+
+`The URL link to the source <https://doi.org/10.1080/17442507908833142>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

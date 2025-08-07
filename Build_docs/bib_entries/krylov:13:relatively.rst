@@ -1,0 +1,30 @@
+krylov:13:relatively
+====================
+
+:cite:t:`krylov:13:relatively`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{krylov:13:relatively,
+     author        = {Krylov, N. V.},
+     doi           = {10.1007/s40072-013-0003-5},
+     fjournal      = {Stochastic Partial Differential Equations. Analysis and Computations},
+     issn          = {2194-0401},
+     journal       = {Stoch. Partial Differ. Equ. Anal. Comput.},
+     mrclass       = {60H15 (35B50 35R60)},
+     mrnumber      = {3327504},
+     mrreviewer    = {Guangying Lv},
+     number        = {1},
+     pages         = {152--174},
+     title         = {A relatively short proof of {I}t\^{o}'s formula for {SPDE}s and its applications},
+     url           = {https://doi.org/10.1007/s40072-013-0003-5},
+     volume        = {1},
+     year          = {2013}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s40072-013-0003-5>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

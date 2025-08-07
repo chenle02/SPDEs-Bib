@@ -1,0 +1,30 @@
+bauerschmidt.dagallier:24:log-sobolev
+=====================================
+
+:cite:t:`bauerschmidt.dagallier:24:log-sobolev`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bauerschmidt.dagallier:24:log-sobolev,
+     author        = {Bauerschmidt, Roland and Dagallier, Benoit},
+     doi           = {10.1002/cpa.22173},
+     fjournal      = {Communications on Pure and Applied Mathematics},
+     issn          = {0010-3640},
+     journal       = {Comm. Pure Appl. Math.},
+     mrclass       = {82B20 (60E15 82B28)},
+     mrnumber      = {4720217},
+     mrreviewer    = {Jian Wang},
+     number        = {5},
+     pages         = {2579--2612},
+     title         = {Log-{S}obolev inequality for the {$\varphi^4_2$} and {$\varphi^4_3$} measures},
+     url           = {https://doi.org/10.1002/cpa.22173},
+     volume        = {77},
+     year          = {2024}
+   }
+
+`The URL link to the source <https://doi.org/10.1002/cpa.22173>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

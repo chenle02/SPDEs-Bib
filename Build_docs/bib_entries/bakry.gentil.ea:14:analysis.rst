@@ -1,0 +1,29 @@
+bakry.gentil.ea:14:analysis
+===========================
+
+:cite:t:`bakry.gentil.ea:14:analysis`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{bakry.gentil.ea:14:analysis,
+     author        = {Bakry, Dominique and Gentil, Ivan and Ledoux, Michel},
+     doi           = {10.1007/978-3-319-00227-9},
+     isbn          = {978-3-319-00226-2; 978-3-319-00227-9},
+     mrclass       = {60J25 (58J65 60J35 60J60)},
+     mrnumber      = {3155209},
+     mrreviewer    = {Ming Liao},
+     pages         = {xx+552},
+     publisher     = {Springer, Cham},
+     series        = {Grundlehren der mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences]},
+     title         = {Analysis and geometry of {M}arkov diffusion operators},
+     url           = {https://doi.org/10.1007/978-3-319-00227-9},
+     volume        = {348},
+     year          = {2014}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-00227-9>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

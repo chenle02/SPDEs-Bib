@@ -1,0 +1,30 @@
+otto:01:geometry
+================
+
+:cite:t:`otto:01:geometry`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{otto:01:geometry,
+     author        = {Otto, Felix},
+     doi           = {10.1081/PDE-100002243},
+     fjournal      = {Communications in Partial Differential Equations},
+     issn          = {0360-5302},
+     journal       = {Comm. Partial Differential Equations},
+     mrclass       = {35K57 (35K65 76S05)},
+     mrnumber      = {1842429},
+     mrreviewer    = {Antonio Fasano},
+     number        = {1-2},
+     pages         = {101--174},
+     title         = {The geometry of dissipative evolution equations: the porous medium equation},
+     url           = {https://doi.org/10.1081/PDE-100002243},
+     volume        = {26},
+     year          = {2001}
+   }
+
+`The URL link to the source <https://doi.org/10.1081/PDE-100002243>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

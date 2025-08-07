@@ -1,0 +1,24 @@
+krylov.rozovski:82:characteristics
+==================================
+
+:cite:t:`krylov.rozovski:82:characteristics`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{krylov.rozovski:82:characteristics,
+     author        = {Krylov, N. V. and Rozovski\u{\i}, B. L.},
+     fjournal      = {Moskovski\u{\i} Universitet. Trudy Seminara imeni I. G. Petrovskogo},
+     issn          = {0321-2971},
+     journal       = {Trudy Sem. Petrovsk.},
+     mrclass       = {35R60 (35K65 60H15)},
+     mrnumber      = {673162},
+     mrreviewer    = {Z. Schuss},
+     number        = {8},
+     pages         = {153--168},
+     title         = {Characteristics of second-order degenerate parabolic {I}t\^{o} equations},
+     year          = {1982}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,27 @@
+da-prato.debussche:20:gradient
+==============================
+
+:cite:t:`da-prato.debussche:20:gradient`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{da-prato.debussche:20:gradient,
+     author        = {Da Prato, Giuseppe and Debussche, Arnaud},
+     doi           = {10.1214/20-ecp294},
+     fjournal      = {Electronic Communications in Probability},
+     journal       = {Electron. Commun. Probab.},
+     mrclass       = {60H15 (35R60 81S20)},
+     mrnumber      = {4066302},
+     pages         = {Paper No. 9, 16},
+     title         = {Gradient estimates and maximal dissipativity for the {K}olmogorov operator in {$\Phi^4_2$}},
+     url           = {https://doi.org/10.1214/20-ecp294},
+     volume        = {25},
+     year          = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/20-ecp294>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

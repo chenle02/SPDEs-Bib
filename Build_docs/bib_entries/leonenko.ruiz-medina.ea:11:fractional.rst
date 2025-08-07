@@ -1,0 +1,28 @@
+leonenko.ruiz-medina.ea:11:fractional
+=====================================
+
+:cite:t:`leonenko.ruiz-medina.ea:11:fractional`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{leonenko.ruiz-medina.ea:11:fractional,
+     author        = {Leonenko, N. N. and Ruiz-Medina, M. D. and Taqqu, M. S.},
+     doi           = {10.1214/EJP.v16-891},
+     fjournal      = {Electronic Journal of Probability},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {60G60 (35R11 35R60 60G18 60G20 60G22 60H15)},
+     mrnumber      = {2820073},
+     mrreviewer    = {Mirko D'Ovidio},
+     pages         = {no. 40, 1134--1172},
+     title         = {Fractional elliptic, hyperbolic and parabolic random fields},
+     url           = {https://doi.org/10.1214/EJP.v16-891},
+     volume        = {16},
+     year          = {2011}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v16-891>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
