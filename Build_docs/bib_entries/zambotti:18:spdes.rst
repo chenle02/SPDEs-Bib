@@ -18,7 +18,7 @@ zambotti:18:spdes
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},
      title         = {S{PDE}s and renormalisation},
-     url           = {https://doi.org/10.1007/978-3-319-74929-7_16},
+     url           = {https://doi.org/10.1007/978-3-319-74929-7\_16},
      volume        = {229},
      year          = {2018}
    }

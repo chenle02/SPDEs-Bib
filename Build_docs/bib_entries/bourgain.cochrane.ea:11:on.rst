@@ -18,7 +18,7 @@ bourgain.cochrane.ea:11:on
      mrreviewer    = {Igor\ E.\ Shparlinski},
      number        = {2},
      pages         = {173--203},
-     title         = {On the parity of {$k$}-th powers modulo {$p$}. {A} generalization of a problem of {L}ehmer},
+     title         = {On the parity of {$k$}-th powers modulo {\$p\$}. {A} generalization of a problem of {L}ehmer},
      url           = {https://doi.org/10.4064/aa147-2-6},
      volume        = {147},
      year          = {2011}

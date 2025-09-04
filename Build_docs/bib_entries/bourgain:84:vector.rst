@@ -15,7 +15,7 @@ bourgain:84:vector
      mrreviewer    = {Mario\ Milman},
      pages         = {XVI, 23},
      publisher     = {Tel Aviv Univ., Tel Aviv},
-     title         = {Vector valued singular integrals and the {$H^1$}-{${\rm BMO}$} duality},
+     title         = {Vector valued singular integrals and the {$H^1$}-{\${\rm BMO}\$} duality},
      year          = {1984}
    }
 

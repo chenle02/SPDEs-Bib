@@ -18,7 +18,7 @@ varadhan:95:self-diffusion
      number        = {1},
      pages         = {273--285},
      title         = {Self-diffusion of a tagged particle in equilibrium for asymmetric mean zero random walk with simple exclusion},
-     url           = {http://www.numdam.org/item?id=AIHPB_1995__31_1_273_0},
+     url           = {http://www.numdam.org/item?id=AIHPB\_1995\_\_31\_1\_273\_0},
      volume        = {31},
      year          = {1995}
    }

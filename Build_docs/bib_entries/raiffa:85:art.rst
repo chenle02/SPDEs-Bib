@@ -1,0 +1,22 @@
+raiffa:85:art
+=============
+
+:cite:t:`raiffa:85:art`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{raiffa:85:art,
+     address       = {Cambridge, MA},
+     author        = {Raiffa, Howard},
+     isbn          = {978-0-674-25566-1},
+     month         = {March},
+     note          = {Ebook edition; originally published 1982},
+     pages         = {384},
+     publisher     = {Harvard University Press},
+     title         = {The Art and Science of Negotiation: How to Resolve Conflicts and Get the Best Out of Bargaining},
+     year          = {1985}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -18,7 +18,7 @@ brzezniak.peszat:10:hyperbolic
      publisher     = {World Sci. Publ., Hackensack, NJ},
      series        = {Interdiscip. Math. Sci.},
      title         = {Hyperbolic equations with random boundary conditions},
-     url           = {https://doi.org/10.1142/9789814277266_0001},
+     url           = {https://doi.org/10.1142/9789814277266\_0001},
      volume        = {8},
      year          = {2010}
    }

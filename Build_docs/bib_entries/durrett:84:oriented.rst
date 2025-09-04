@@ -18,7 +18,7 @@ durrett:84:oriented
      number        = {4},
      pages         = {999--1040},
      title         = {Oriented percolation in two dimensions},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198411)12:4<999:OPITD>2.0.CO;2-4&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198411)12:4<999:OPITD>2.0.CO;2-4\&origin=MSN},
      volume        = {12},
      year          = {1984}
    }

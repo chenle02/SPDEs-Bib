@@ -19,7 +19,7 @@ rosen:05:derivatives
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {Derivatives of self-intersection local times},
-     url           = {https://doi.org/10.1007/978-3-540-31449-3_18},
+     url           = {https://doi.org/10.1007/978-3-540-31449-3\_18},
      volume        = {1857},
      year          = {2005}
    }

@@ -1,0 +1,23 @@
+harsanyi:75:can
+===============
+
+:cite:t:`harsanyi:75:can`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{harsanyi:75:can,
+     author        = {Harsanyi, John C.},
+     doi           = {10.2307/1959080},
+     fjournal      = {The American Political Science Review},
+     journal       = {Amer. Political Sci. Rev.},
+     number        = {2},
+     pages         = {594--606},
+     publisher     = {Cambridge University Press},
+     title         = {Can the maximin principle serve as a basis for morality? {A} critique of {John Rawls}'s theory},
+     volume        = {69},
+     year          = {1975}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -18,7 +18,7 @@ nualart:06:stochastic
      number        = {1},
      pages         = {63--78},
      title         = {Stochastic calculus with respect to fractional {B}rownian motion},
-     url           = {http://afst.cedram.org/item?id=AFST_2006_6_15_1_63_0},
+     url           = {http://afst.cedram.org/item?id=AFST\_2006\_6\_15\_1\_63\_0},
      volume        = {15},
      year          = {2006}
    }

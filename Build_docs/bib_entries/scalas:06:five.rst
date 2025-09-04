@@ -17,7 +17,7 @@ scalas:06:five
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Econom. and Math. Systems},
      title         = {Five years of continuous-time random walks in econophysics},
-     url           = {https://doi.org/10.1007/3-540-28727-2_1},
+     url           = {https://doi.org/10.1007/3-540-28727-2\_1},
      volume        = {567},
      year          = {2006}
    }

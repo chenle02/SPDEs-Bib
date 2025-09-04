@@ -17,7 +17,7 @@ corwin:14:two
      publisher     = {Springer, New York},
      series        = {Springer Proc. Math. Stat.},
      title         = {Two ways to solve {ASEP}},
-     url           = {https://doi.org/10.1007/978-1-4939-0339-9_1},
+     url           = {https://doi.org/10.1007/978-1-4939-0339-9\_1},
      volume        = {69},
      year          = {2014}
    }

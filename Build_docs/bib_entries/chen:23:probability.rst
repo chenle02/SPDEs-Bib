@@ -14,7 +14,7 @@ chen:23:probability
      month         = {nov},
      publisher     = {GitHub \& Zenodo},
      title         = {Probability: Summer Science Institute at {Auburn}},
-     url           = {https://github.com/chenle02/2022_SSI-AU_Probability_by_Le},
+     url           = {https://github.com/chenle02/2022\_SSI-AU\_Probability\_by\_Le},
      year          = {2023}
    }
 

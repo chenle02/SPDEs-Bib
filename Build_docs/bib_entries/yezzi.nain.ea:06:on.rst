@@ -17,7 +17,7 @@ yezzi.nain.ea:06:on
      pages         = {161--174},
      publisher     = {Springer, New York},
      title         = {On a stochastic model of geometric snakes},
-     url           = {https://doi.org/10.1007/0-387-28831-7_10},
+     url           = {https://doi.org/10.1007/0-387-28831-7\_10},
      year          = {2006}
    }
 

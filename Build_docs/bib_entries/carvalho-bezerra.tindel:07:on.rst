@@ -19,7 +19,7 @@ carvalho-bezerra.tindel:07:on
      number        = {1},
      pages         = {163--199},
      title         = {On the multiple overlap function of the {SK} model},
-     url           = {https://doi.org/10.5565/PUBLMAT_51107_08},
+     url           = {https://doi.org/10.5565/PUBLMAT\_51107\_08},
      volume        = {51},
      year          = {2007}
    }

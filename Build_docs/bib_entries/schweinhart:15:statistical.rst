@@ -16,7 +16,7 @@ schweinhart:15:statistical
      pages         = {138},
      publisher     = {ProQuest LLC, Ann Arbor, MI},
      title         = {Statistical {T}opology of {E}mbedded {G}raphs},
-     url           = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:3729732},
+     url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:3729732},
      year          = {2015}
    }
 

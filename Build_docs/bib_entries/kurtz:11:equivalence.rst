@@ -17,7 +17,7 @@ kurtz:11:equivalence
      pages         = {113--130},
      publisher     = {Springer, Heidelberg},
      title         = {Equivalence of stochastic equations and martingale problems},
-     url           = {https://doi.org/10.1007/978-3-642-15358-7_6},
+     url           = {https://doi.org/10.1007/978-3-642-15358-7\_6},
      year          = {2011}
    }
 

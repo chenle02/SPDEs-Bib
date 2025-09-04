@@ -16,7 +16,7 @@ cosco.nakajima.ea:22:law
      mrclass       = {60K37 (60F05 60G44 60H15 60K35 82D60)},
      mrnumber      = {4441505},
      pages         = {127--173},
-     title         = {Law of large numbers and fluctuations in the sub-critical and {$L^2$} regions for {SHE} and {KPZ} equation in dimension {$d\geq3$}},
+     title         = {Law of large numbers and fluctuations in the sub-critical and {$L^2$} regions for {SHE} and {KPZ} equation in dimension {\$d\geq3\$}},
      url           = {https://doi.org/10.1016/j.spa.2022.05.010},
      volume        = {151},
      year          = {2022}

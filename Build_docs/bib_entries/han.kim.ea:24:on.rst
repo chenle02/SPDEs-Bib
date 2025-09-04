@@ -8,15 +8,20 @@ han.kim.ea:24:on
 .. code-block:: bibtex
 
    @article{han.kim.ea:24:on,
-     author        = {Beom-Seok Han and Kunwoo Kim and Jaeyun Yi},
-     journal       = {Preprint arXiv:2407.06827},
-     month         = {July},
+     author        = {Han, Beom-Seok and Kim, Kunwoo and Yi, Jaeyun},
+     doi           = {10.1214/24-ejp1261},
+     fjournal      = {Electronic Journal of Probability},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {60H15 (35K10 35K55 35R60)},
+     mrnumber      = {4842851},
+     pages         = {Paper No. 201, 29},
      title         = {On the support of solutions to nonlinear stochastic heat equations},
-     url           = {http://arXiv.org/abs/2407.06827},
+     url           = {https://doi.org/10.1214/24-ejp1261},
+     volume        = {29},
      year          = {2024}
    }
 
-`The URL link to the source <http://arXiv.org/abs/2407.06827>`__
+`The URL link to the source <https://doi.org/10.1214/24-ejp1261>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

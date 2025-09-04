@@ -18,7 +18,7 @@ lacey:90:large
      number        = {4},
      pages         = {1669--1675},
      title         = {Large deviations for the maximum local time of stable {L}\'{e}vy processes},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199010)18:4<1669:LDFTML>2.0.CO;2-Q&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199010)18:4<1669:LDFTML>2.0.CO;2-Q\&origin=MSN},
      volume        = {18},
      year          = {1990}
    }

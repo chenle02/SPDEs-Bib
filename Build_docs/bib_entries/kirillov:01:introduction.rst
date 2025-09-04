@@ -17,7 +17,7 @@ kirillov:01:introduction
      pages         = {82--150},
      publisher     = {World Sci. Publ., River Edge, NJ},
      title         = {Introduction to tropical combinatorics},
-     url           = {https://doi.org/10.1142/9789812810007_0005},
+     url           = {https://doi.org/10.1142/9789812810007\_0005},
      year          = {2001}
    }
 

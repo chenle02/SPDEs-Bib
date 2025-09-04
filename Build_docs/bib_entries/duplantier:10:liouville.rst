@@ -16,7 +16,7 @@ duplantier:10:liouville
      pages         = {56--85},
      publisher     = {World Sci. Publ., Hackensack, NJ},
      title         = {Liouville quantum gravity \& the {KPZ} relation: a rigorous perspective},
-     url           = {https://doi.org/10.1142/9789814304634_0003},
+     url           = {https://doi.org/10.1142/9789814304634\_0003},
      year          = {2010}
    }
 

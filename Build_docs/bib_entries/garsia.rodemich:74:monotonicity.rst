@@ -18,7 +18,7 @@ garsia.rodemich:74:monotonicity
      number        = {2},
      pages         = {vi, 67--116},
      title         = {Monotonicity of certain functionals under rearrangement},
-     url           = {http://www.numdam.org/item?id=AIF_1974__24_2_67_0},
+     url           = {http://www.numdam.org/item?id=AIF\_1974\_\_24\_2\_67\_0},
      volume        = {24},
      year          = {1974}
    }

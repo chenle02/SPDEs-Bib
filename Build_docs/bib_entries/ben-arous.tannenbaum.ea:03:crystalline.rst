@@ -19,7 +19,7 @@ ben-arous.tannenbaum.ea:03:crystalline
      publisher     = {Springer, New York},
      series        = {IMA Vol. Math. Appl.},
      title         = {Crystalline stochastic systems and curvature driven flows},
-     url           = {https://doi.org/10.1007/978-0-387-21696-6_2},
+     url           = {https://doi.org/10.1007/978-0-387-21696-6\_2},
      volume        = {134},
      year          = {2003}
    }

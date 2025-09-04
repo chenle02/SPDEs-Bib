@@ -18,7 +18,7 @@ sanz-sole.su:14:logarithmic
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},
      title         = {Logarithmic asymptotics of the densities of {SPDE}s driven by spatially correlated noise},
-     url           = {https://doi.org/10.1007/978-3-319-11292-3_16},
+     url           = {https://doi.org/10.1007/978-3-319-11292-3\_16},
      volume        = {100},
      year          = {2014}
    }

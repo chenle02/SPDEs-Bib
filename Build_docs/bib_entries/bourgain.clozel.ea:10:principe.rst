@@ -18,7 +18,7 @@ bourgain.clozel.ea:10:principe
      number        = {4},
      pages         = {1215--1232},
      title         = {Principe d'{H}eisenberg et fonctions positives},
-     url           = {http://aif.cedram.org/item?id=AIF_2010__60_4_1215_0},
+     url           = {http://aif.cedram.org/item?id=AIF\_2010\_\_60\_4\_1215\_0},
      volume        = {60},
      year          = {2010}
    }

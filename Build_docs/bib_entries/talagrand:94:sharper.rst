@@ -18,7 +18,7 @@ talagrand:94:sharper
      number        = {1},
      pages         = {28--76},
      title         = {Sharper bounds for {G}aussian and empirical processes},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199401)22:1<28:SBFGAE>2.0.CO;2-W&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199401)22:1<28:SBFGAE>2.0.CO;2-W\&origin=MSN},
      volume        = {22},
      year          = {1994}
    }

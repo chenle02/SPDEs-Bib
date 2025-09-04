@@ -17,7 +17,7 @@ chang.krantz.ea:93:hp
      mrnumber      = {1223705},
      number        = {2},
      pages         = {286--347},
-     title         = {{$H^p$} theory on a smooth domain in {${\bf R}^N$} and elliptic boundary value problems},
+     title         = {{$H^p$} theory on a smooth domain in {\${\bf R}^N\$} and elliptic boundary value problems},
      url           = {https://doi.org/10.1006/jfan.1993.1069},
      volume        = {114},
      year          = {1993}

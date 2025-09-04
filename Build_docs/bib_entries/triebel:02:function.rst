@@ -19,7 +19,7 @@ triebel:02:function
      number        = {2},
      pages         = {475--524},
      title         = {Function spaces in {L}ipschitz domains and on {L}ipschitz manifolds. {C}haracteristic functions as pointwise multipliers},
-     url           = {https://doi.org/10.5209/rev_REMA.2002.v15.n2.16910},
+     url           = {https://doi.org/10.5209/rev\_REMA.2002.v15.n2.16910},
      volume        = {15},
      year          = {2002}
    }

@@ -17,7 +17,7 @@ ambj-rn.durhuus.ea:94:solvable
      mrnumber      = {1279108},
      number        = {13},
      pages         = {1221--1228},
-     title         = {A solvable {$2$}{D} gravity model with {$\gamma>0$}},
+     title         = {A solvable {$2$}{D} gravity model with {\$\gamma>0\$}},
      url           = {https://doi.org/10.1142/S0217732394001040},
      volume        = {9},
      year          = {1994}

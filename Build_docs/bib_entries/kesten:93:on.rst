@@ -18,7 +18,7 @@ kesten:93:on
      number        = {2},
      pages         = {296--338},
      title         = {On the speed of convergence in first-passage percolation},
-     url           = {http://links.jstor.org/sici?sici=1050-5164(199305)3:2<296:OTSOCI>2.0.CO;2-U&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=1050-5164(199305)3:2<296:OTSOCI>2.0.CO;2-U\&origin=MSN},
      volume        = {3},
      year          = {1993}
    }

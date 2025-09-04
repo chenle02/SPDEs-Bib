@@ -19,7 +19,7 @@ schramm.smirnov:11:on*1
      publisher     = {Springer, New York},
      series        = {Sel. Works Probab. Stat.},
      title         = {On the scaling limits of planar percolation [MR2884873]},
-     url           = {https://doi.org/10.1007/978-1-4419-9675-6_35},
+     url           = {https://doi.org/10.1007/978-1-4419-9675-6\_35},
      year          = {2011}
    }
 

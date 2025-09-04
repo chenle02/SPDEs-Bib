@@ -18,7 +18,7 @@ hirsch.song:95:symmetric
      mrreviewer    = {Patrick Fitzsimmons},
      number        = {1},
      pages         = {25--43},
-     title         = {Symmetric {S}korohod topology on {$n$}-variable functions and hierarchical {M}arkov properties of {$n$}-parameter processes},
+     title         = {Symmetric {S}korohod topology on {$n$}-variable functions and hierarchical {M}arkov properties of {\$n\$}-parameter processes},
      url           = {https://doi.org/10.1007/BF01199030},
      volume        = {103},
      year          = {1995}

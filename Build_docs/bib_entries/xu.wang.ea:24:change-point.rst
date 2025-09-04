@@ -1,0 +1,30 @@
+xu.wang.ea:24:change-point
+==========================
+
+:cite:t:`xu.wang.ea:24:change-point`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{xu.wang.ea:24:change-point,
+     author        = {Xu, Haotian and Wang, Daren and Zhao, Zifeng and Yu, Yi},
+     doi           = {10.1214/24-aos2380},
+     fjournal      = {The Annals of Statistics},
+     issn          = {0090-5364},
+     journal       = {Ann. Statist.},
+     mrclass       = {62J05 (62F30 62F35 91B84)},
+     mrnumber      = {4784067},
+     mrreviewer    = {Ryo Okui},
+     number        = {3},
+     pages         = {999--1026},
+     title         = {Change-point inference in high-dimensional regression models under temporal dependence},
+     url           = {https://doi.org/10.1214/24-aos2380},
+     volume        = {52},
+     year          = {2024}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/24-aos2380>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

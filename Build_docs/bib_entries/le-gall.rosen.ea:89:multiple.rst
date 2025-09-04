@@ -18,7 +18,7 @@ le-gall.rosen.ea:89:multiple
      number        = {2},
      pages         = {503--515},
      title         = {Multiple points of {L}\'{e}vy processes},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198904)17:2<503:MPOLP>2.0.CO;2-Q&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198904)17:2<503:MPOLP>2.0.CO;2-Q\&origin=MSN},
      volume        = {17},
      year          = {1989}
    }

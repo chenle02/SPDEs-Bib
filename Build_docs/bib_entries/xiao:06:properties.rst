@@ -18,7 +18,7 @@ xiao:06:properties
      number        = {1},
      pages         = {157--193},
      title         = {Properties of local-nondeterminism of {G}aussian and stable random fields and their applications},
-     url           = {http://afst.cedram.org/item?id=AFST_2006_6_15_1_157_0},
+     url           = {http://afst.cedram.org/item?id=AFST\_2006\_6\_15\_1\_157\_0},
      volume        = {15},
      year          = {2006}
    }

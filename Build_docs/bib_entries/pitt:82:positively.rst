@@ -17,7 +17,7 @@ pitt:82:positively
      number        = {2},
      pages         = {496--499},
      title         = {Positively correlated normal variables are associated},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198205)10:2<496:PCNVAA>2.0.CO;2-Q&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198205)10:2<496:PCNVAA>2.0.CO;2-Q\&origin=MSN},
      volume        = {10},
      year          = {1982}
    }

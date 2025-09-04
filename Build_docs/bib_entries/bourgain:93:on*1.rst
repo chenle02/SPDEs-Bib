@@ -9,22 +9,22 @@ bourgain:93:on*1
 
    @article{bourgain:93:on*1,
      author        = {Bourgain, J.},
-     doi           = {10.1215/S0012-7094-93-06928-1},
-     fjournal      = {Duke Mathematical Journal},
-     issn          = {0012-7094,1547-7398},
-     journal       = {Duke Math. J.},
-     mrclass       = {30D50},
-     mrnumber      = {1208816},
-     mrreviewer    = {Krzysztof\ Samotij},
-     number        = {3},
-     pages         = {671--682},
-     title         = {On the radial variation of bounded analytic functions on the disc},
-     url           = {https://doi.org/10.1215/S0012-7094-93-06928-1},
-     volume        = {69},
+     doi           = {10.1007/BF01896259},
+     fjournal      = {Geometric and Functional Analysis},
+     issn          = {1016-443X,1420-8970},
+     journal       = {Geom. Funct. Anal.},
+     mrclass       = {35Q53 (42B05)},
+     mrnumber      = {1223434},
+     mrreviewer    = {Daniel\ B\"{a}ttig},
+     number        = {4},
+     pages         = {315--341},
+     title         = {On the {C}auchy problem for the {K}adomtsev-{P}etviashvili equation},
+     url           = {https://doi.org/10.1007/BF01896259},
+     volume        = {3},
      year          = {1993}
    }
 
-`The URL link to the source <https://doi.org/10.1215/S0012-7094-93-06928-1>`__
+`The URL link to the source <https://doi.org/10.1007/BF01896259>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

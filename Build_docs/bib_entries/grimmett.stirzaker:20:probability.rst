@@ -1,0 +1,22 @@
+grimmett.stirzaker:20:probability
+=================================
+
+:cite:t:`grimmett.stirzaker:20:probability`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{grimmett.stirzaker:20:probability,
+     author        = {Grimmett, Geoffrey R. and Stirzaker, David R.},
+     isbn          = {978-0-19-884759-5; 978-0-19-884760-1},
+     mrclass       = {60-01},
+     mrnumber      = {4229142},
+     note          = {Fourth edition [of 0667520]},
+     pages         = {xii+669},
+     publisher     = {Oxford University Press, Oxford},
+     title         = {Probability and random processes},
+     year          = {2020}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

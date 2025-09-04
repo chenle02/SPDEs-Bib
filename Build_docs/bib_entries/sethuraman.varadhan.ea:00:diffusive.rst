@@ -9,7 +9,7 @@ sethuraman.varadhan.ea:00:diffusive
 
    @article{sethuraman.varadhan.ea:00:diffusive,
      author        = {Sethuraman, Sunder and Varadhan, S. R. S. and Yau, Horng-Tzer},
-     doi           = {10.1002/1097-0312(200008)53:8<972::AID-CPA2>3.0.CO;2-#},
+     doi           = {10.1002/1097-0312(200008)53:8<972::AID-CPA2>3.0.CO;2-\#},
      fjournal      = {Communications on Pure and Applied Mathematics},
      issn          = {0010-3640,1097-0312},
      journal       = {Comm. Pure Appl. Math.},
@@ -19,7 +19,7 @@ sethuraman.varadhan.ea:00:diffusive
      number        = {8},
      pages         = {972--1006},
      title         = {Diffusive limit of a tagged particle in asymmetric simple exclusion processes},
-     url           = {https://doi.org/10.1002/1097-0312(200008)53:8<972::AID-CPA2>3.0.CO;2-#},
+     url           = {https://doi.org/10.1002/1097-0312(200008)53:8<972::AID-CPA2>3.0.CO;2-\#},
      volume        = {53},
      year          = {2000}
    }

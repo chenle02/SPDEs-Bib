@@ -18,7 +18,7 @@ mayer-wolf.zeitouni:93:probability
      number        = {1},
      pages         = {14--24},
      title         = {The probability of small {G}aussian ellipsoids and associated conditional moments},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199301)21:1<14:TPOSGE>2.0.CO;2-N&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199301)21:1<14:TPOSGE>2.0.CO;2-N\&origin=MSN},
      volume        = {21},
      year          = {1993}
    }

@@ -19,7 +19,7 @@ bourgain.demeter:20:three
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},
      title         = {Three applications of the {S}iegel mass formula},
-     url           = {https://doi.org/10.1007/978-3-030-36020-7_6},
+     url           = {https://doi.org/10.1007/978-3-030-36020-7\_6},
      volume        = {2256},
      year          = {[2020] \copyright 2020}
    }

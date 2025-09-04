@@ -18,7 +18,7 @@ berman:85:asymptotic
      number        = {1},
      pages         = {47--57},
      title         = {An asymptotic bound for the tail of the distribution of the maximum of a {G}aussian process},
-     url           = {http://www.numdam.org/item?id=AIHPB_1985__21_1_47_0},
+     url           = {http://www.numdam.org/item?id=AIHPB\_1985\_\_21\_1\_47\_0},
      volume        = {21},
      year          = {1985}
    }

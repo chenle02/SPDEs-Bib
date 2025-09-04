@@ -18,7 +18,7 @@ remillard:94:on
      number        = {4},
      pages         = {1794--1802},
      title         = {On {C}hung's law of the iterated logarithm for some stochastic integrals},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199410)22:4<1794:OCLOTI>2.0.CO;2-8&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199410)22:4<1794:OCLOTI>2.0.CO;2-8\&origin=MSN},
      volume        = {22},
      year          = {1994}
    }

@@ -18,7 +18,7 @@ bernard.nualart:90:regularite
      number        = {2},
      pages         = {287--297},
      title         = {R\'{e}gularit\'{e} {$C^infty$} des noyaux de {W}iener d'une diffusion},
-     url           = {http://www.numdam.org/item?id=AIHPB_1990__26_2_287_0},
+     url           = {http://www.numdam.org/item?id=AIHPB\_1990\_\_26\_2\_287\_0},
      volume        = {26},
      year          = {1990}
    }

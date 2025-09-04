@@ -19,7 +19,7 @@ flandoli:08:remarks
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Progr. Probab.},
      title         = {Remarks on 3{D} stochastic {N}avier-{S}tokes equations},
-     url           = {https://doi.org/10.1007/978-3-7643-8458-6_8},
+     url           = {https://doi.org/10.1007/978-3-7643-8458-6\_8},
      volume        = {59},
      year          = {2008}
    }

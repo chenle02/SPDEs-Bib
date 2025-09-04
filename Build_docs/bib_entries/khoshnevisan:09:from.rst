@@ -18,7 +18,7 @@ khoshnevisan:09:from
      publisher     = {Birkh\"{a}user Verlag, Basel},
      series        = {Progr. Probab.},
      title         = {From fractals and probability to {L}\'{e}vy processes and stochastic {PDE}s},
-     url           = {https://doi.org/10.1007/978-3-0346-0030-9_4},
+     url           = {https://doi.org/10.1007/978-3-0346-0030-9\_4},
      volume        = {61},
      year          = {2009}
    }

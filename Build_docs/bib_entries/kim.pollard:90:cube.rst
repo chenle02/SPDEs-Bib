@@ -1,0 +1,30 @@
+kim.pollard:90:cube
+===================
+
+:cite:t:`kim.pollard:90:cube`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kim.pollard:90:cube,
+     author        = {Kim, JeanKyung and Pollard, David},
+     doi           = {10.1214/aos/1176347498},
+     fjournal      = {The Annals of Statistics},
+     issn          = {0090-5364},
+     journal       = {Ann. Statist.},
+     mrclass       = {62F12 (60F17 60G15 62G30)},
+     mrnumber      = {1041391},
+     mrreviewer    = {R. M. Dudley},
+     number        = {1},
+     pages         = {191--219},
+     title         = {Cube root asymptotics},
+     url           = {https://doi.org/10.1214/aos/1176347498},
+     volume        = {18},
+     year          = {1990}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/aos/1176347498>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

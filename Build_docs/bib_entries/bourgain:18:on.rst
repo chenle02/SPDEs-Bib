@@ -9,22 +9,22 @@ bourgain:18:on
 
    @article{bourgain:18:on,
      author        = {Bourgain, J.},
-     doi           = {10.1007/s00029-017-0380-0},
-     fjournal      = {Selecta Mathematica. New Series},
-     issn          = {1022-1824,1420-9020},
-     journal       = {Selecta Math. (N.S.)},
-     mrclass       = {11D09 (11K50 11L05)},
-     mrnumber      = {3816517},
-     mrreviewer    = {P.\ Bundschuh},
-     number        = {3},
-     pages         = {2831--2839},
-     title         = {On quadratic irrationals with bounded partial quotients},
-     url           = {https://doi.org/10.1007/s00029-017-0380-0},
-     volume        = {24},
+     doi           = {10.1007/s10955-018-1981-5},
+     fjournal      = {Journal of Statistical Physics},
+     issn          = {0022-4715,1572-9613},
+     journal       = {J. Stat. Phys.},
+     mrclass       = {35B27 (35J15 35R60 60H25)},
+     mrnumber      = {3824939},
+     mrreviewer    = {Isabelle\ Gruais},
+     number        = {2},
+     pages         = {314--320},
+     title         = {On a homogenization problem},
+     url           = {https://doi.org/10.1007/s10955-018-1981-5},
+     volume        = {172},
      year          = {2018}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00029-017-0380-0>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-018-1981-5>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

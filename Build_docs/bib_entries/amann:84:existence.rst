@@ -18,7 +18,7 @@ amann:84:existence
      number        = {4},
      pages         = {593--676},
      title         = {Existence and regularity for semilinear parabolic evolution equations},
-     url           = {http://www.numdam.org/item?id=ASNSP_1984_4_11_4_593_0},
+     url           = {http://www.numdam.org/item?id=ASNSP\_1984\_4\_11\_4\_593\_0},
      volume        = {11},
      year          = {1984}
    }

@@ -18,7 +18,7 @@ bourgain:14:improved
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},
      title         = {An improved estimate in the restricted isometry problem},
-     url           = {https://doi.org/10.1007/978-3-319-09477-9_5},
+     url           = {https://doi.org/10.1007/978-3-319-09477-9\_5},
      volume        = {2116},
      year          = {2014}
    }

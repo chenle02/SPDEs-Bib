@@ -17,7 +17,7 @@ starke.reichert.ea:07:stochastic
      pages         = {341--370},
      publisher     = {Springer, Berlin},
      title         = {Stochastic modeling and deterministic limit of catalytic surface processes},
-     url           = {https://doi.org/10.1007/978-3-540-28396-6_13},
+     url           = {https://doi.org/10.1007/978-3-540-28396-6\_13},
      year          = {2007}
    }
 

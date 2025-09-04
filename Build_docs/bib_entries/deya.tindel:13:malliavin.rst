@@ -18,7 +18,7 @@ deya.tindel:13:malliavin
      publisher     = {Springer, New York},
      series        = {Springer Proc. Math. Stat.},
      title         = {Malliavin calculus for fractional heat equation},
-     url           = {https://doi.org/10.1007/978-1-4614-5906-4_16},
+     url           = {https://doi.org/10.1007/978-1-4614-5906-4\_16},
      volume        = {34},
      year          = {2013}
    }

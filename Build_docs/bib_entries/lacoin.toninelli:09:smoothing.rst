@@ -18,7 +18,7 @@ lacoin.toninelli:09:smoothing
      publisher     = {Birkh\"auser Verlag, Basel},
      series        = {Progr. Probab.},
      title         = {A smoothing inequality for hierarchical pinning models},
-     url           = {https://doi.org/10.1007/978-3-7643-9891-0_12},
+     url           = {https://doi.org/10.1007/978-3-7643-9891-0\_12},
      volume        = {62},
      year          = {2009}
    }

@@ -17,7 +17,7 @@ bourgain:83:embedding
      mrnumber      = {701518},
      number        = {2},
      pages         = {689--702},
-     title         = {Embedding {$L\sp{1}$} in {$L\sp{1}/H\sp{1}$}},
+     title         = {Embedding {$L\sp{1}$} in {\$L\sp{1}/H\sp{1}\$}},
      url           = {https://doi.org/10.2307/1999178},
      volume        = {278},
      year          = {1983}

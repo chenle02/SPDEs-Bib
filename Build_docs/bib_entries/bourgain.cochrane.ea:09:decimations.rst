@@ -18,7 +18,7 @@ bourgain.cochrane.ea:09:decimations
      mrreviewer    = {Igor\ E.\ Shparlinski},
      number        = {2},
      pages         = {842--857},
-     title         = {Decimations of {$l$}-sequences and permutations of even residues mod {$p$}},
+     title         = {Decimations of {$l$}-sequences and permutations of even residues mod {\$p\$}},
      url           = {https://doi.org/10.1137/080737678},
      volume        = {23},
      year          = {2009}

@@ -19,7 +19,7 @@ zeitouni:00:map
      publisher     = {Kluwer Acad. Publ., Boston, MA},
      series        = {Kluwer Internat. Ser. Engrg. Comput. Sci.},
      title         = {M{AP} estimation of diffusions---an updated account},
-     url           = {https://doi.org/10.1007/978-1-4615-5223-9_11},
+     url           = {https://doi.org/10.1007/978-1-4615-5223-9\_11},
      volume        = {518},
      year          = {2000}
    }

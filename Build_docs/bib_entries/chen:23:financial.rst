@@ -14,7 +14,7 @@ chen:23:financial
      month         = {nov},
      publisher     = {GitHub \& Zenodo},
      title         = {Financial Mathematics: Open Slides},
-     url           = {https://github.com/chenle02/Open_Slides_Financial_Mathematics},
+     url           = {https://github.com/chenle02/Open\_Slides\_Financial\_Mathematics},
      year          = {2023}
    }
 

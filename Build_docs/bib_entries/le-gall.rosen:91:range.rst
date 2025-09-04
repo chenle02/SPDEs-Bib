@@ -18,7 +18,7 @@ le-gall.rosen:91:range
      number        = {2},
      pages         = {650--705},
      title         = {The range of stable random walks},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199104)19:2<650:TROSRW>2.0.CO;2-P&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199104)19:2<650:TROSRW>2.0.CO;2-P\&origin=MSN},
      volume        = {19},
      year          = {1991}
    }

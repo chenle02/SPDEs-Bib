@@ -19,7 +19,7 @@ bourgain.mirek.ea:20:on
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},
      title         = {On discrete {H}ardy-{L}ittlewood maximal functions over the balls in {$\Bbb Z^d$}: dimension-free estimates},
-     url           = {https://doi.org/10.1007/978-3-030-36020-7_8},
+     url           = {https://doi.org/10.1007/978-3-030-36020-7\_8},
      volume        = {2256},
      year          = {[2020] \copyright 2020}
    }

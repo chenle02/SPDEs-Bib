@@ -18,7 +18,7 @@ dawson.li.ea:95:support
      number        = {4},
      pages         = {1692--1718},
      title         = {The support of measure-valued branching processes in a random environment},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199510)23:4<1692:TSOMBP>2.0.CO;2-S&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199510)23:4<1692:TSOMBP>2.0.CO;2-S\&origin=MSN},
      volume        = {23},
      year          = {1995}
    }

@@ -18,7 +18,7 @@ conus.joseph.ea:13:intermittency
      publisher     = {Springer, New York},
      series        = {Springer Proc. Math. Stat.},
      title         = {Intermittency and chaos for a nonlinear stochastic wave equation in dimension 1},
-     url           = {https://doi.org/10.1007/978-1-4614-5906-4_11},
+     url           = {https://doi.org/10.1007/978-1-4614-5906-4\_11},
      volume        = {34},
      year          = {2013}
    }

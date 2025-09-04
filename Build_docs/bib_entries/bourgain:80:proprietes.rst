@@ -16,7 +16,7 @@ bourgain:80:proprietes
      mrnumber      = {603156},
      number        = {11},
      pages         = {A607--A609},
-     title         = {Propri\'{e}t\'{e}s de rel\`evement et projections dans les espaces {$L\sp{1}/H\sp{1}\sb{0}$} et {$H\sp{infty }$}},
+     title         = {Propri\'{e}t\'{e}s de rel\`evement et projections dans les espaces {$L\sp{1}/H\sp{1}\sb{0}$} et {\$H\sp{infty }\$}},
      volume        = {291},
      year          = {1980}
    }

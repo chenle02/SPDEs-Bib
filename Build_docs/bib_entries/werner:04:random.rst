@@ -18,7 +18,7 @@ werner:04:random
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {Random planar curves and {S}chramm-{L}oewner evolutions},
-     url           = {https://doi.org/10.1007/978-3-540-39982-7_2},
+     url           = {https://doi.org/10.1007/978-3-540-39982-7\_2},
      volume        = {1840},
      year          = {2004}
    }

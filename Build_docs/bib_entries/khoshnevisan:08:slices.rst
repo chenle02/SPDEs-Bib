@@ -18,7 +18,7 @@ khoshnevisan:08:slices
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Progr. Probab.},
      title         = {Slices of a {B}rownian sheet: new results and open problems},
-     url           = {https://doi.org/10.1007/978-3-7643-8458-6_9},
+     url           = {https://doi.org/10.1007/978-3-7643-8458-6\_9},
      volume        = {59},
      year          = {2008}
    }

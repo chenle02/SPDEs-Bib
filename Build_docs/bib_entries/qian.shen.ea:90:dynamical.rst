@@ -18,7 +18,7 @@ qian.shen.ea:90:dynamical
      mrreviewer    = {Douglas\ S.\ Shafer},
      number        = {1},
      pages         = {175--212},
-     title         = {Dynamical behavior in coupled systems of {$J$}-{$J$} type},
+     title         = {Dynamical behavior in coupled systems of {$J$}-{\$J\$} type},
      url           = {https://doi.org/10.1016/0022-0396(90)90114-5},
      volume        = {88},
      year          = {1990}

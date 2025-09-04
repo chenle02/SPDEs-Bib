@@ -18,7 +18,7 @@ kesten:86:subdiffusive
      number        = {4},
      pages         = {425--487},
      title         = {Subdiffusive behavior of random walk on a random cluster},
-     url           = {http://www.numdam.org/item?id=AIHPB_1986__22_4_425_0},
+     url           = {http://www.numdam.org/item?id=AIHPB\_1986\_\_22\_4\_425\_0},
      volume        = {22},
      year          = {1986}
    }

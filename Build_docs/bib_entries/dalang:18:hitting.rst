@@ -18,7 +18,7 @@ dalang:18:hitting
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},
      title         = {Hitting probabilities for systems of stochastic {PDE}s: an overview},
-     url           = {https://doi.org/10.1007/978-3-319-74929-7_8},
+     url           = {https://doi.org/10.1007/978-3-319-74929-7\_8},
      volume        = {229},
      year          = {2018}
    }

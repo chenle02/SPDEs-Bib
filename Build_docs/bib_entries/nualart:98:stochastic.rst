@@ -18,7 +18,7 @@ nualart:98:stochastic
      publisher     = {Springer, New York},
      series        = {Lect. Notes Stat.},
      title         = {Stochastic anticipating calculus},
-     url           = {https://doi.org/10.1007/978-1-4612-2224-8_15},
+     url           = {https://doi.org/10.1007/978-1-4612-2224-8\_15},
      volume        = {128},
      year          = {1998}
    }

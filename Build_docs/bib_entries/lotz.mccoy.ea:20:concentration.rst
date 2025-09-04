@@ -17,7 +17,7 @@ lotz.mccoy.ea:20:concentration
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},
      title         = {Concentration of the intrinsic volumes of a convex body},
-     url           = {https://doi.org/10.1007/978-3-030-46762-3_6},
+     url           = {https://doi.org/10.1007/978-3-030-46762-3\_6},
      volume        = {2266},
      year          = {[2020] \copyright 2020}
    }

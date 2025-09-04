@@ -17,8 +17,8 @@ kunstmann.weis:04:maximal
      pages         = {65--311},
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
-     title         = {Maximal {$L_p$}-regularity for parabolic equations, {F}ourier multiplier theorems and {$H^infty$}-functional calculus},
-     url           = {https://doi.org/10.1007/978-3-540-44653-8_2},
+     title         = {Maximal {$L_p$}-regularity for parabolic equations, {F}ourier multiplier theorems and {\$H^infty\$}-functional calculus},
+     url           = {https://doi.org/10.1007/978-3-540-44653-8\_2},
      volume        = {1855},
      year          = {2004}
    }

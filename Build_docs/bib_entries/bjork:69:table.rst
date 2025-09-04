@@ -17,7 +17,7 @@ bjork:69:table
      number        = {107},
      pages         = {691},
      title         = {Table errata: {it {H}andbook of mathematical functions with formulas, graphs, and mathematical tables} ({N}at. {B}ur. {S}tandards, {W}ashington, {D}. {C}., 1964) edited by {M}ilton {A}bramowitz and {I}rene {A}. {S}tegun},
-     url           = {http://links.jstor.org/sici?sici=0025-5718(196907)23:107<691:TE>2.0.CO;2-Y&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0025-5718(196907)23:107<691:TE>2.0.CO;2-Y\&origin=MSN},
      volume        = {23},
      year          = {1969}
    }

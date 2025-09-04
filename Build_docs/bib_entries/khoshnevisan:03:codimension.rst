@@ -18,7 +18,7 @@ khoshnevisan:03:codimension
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {The codimension of the zeros of a stable process in random scenery},
-     url           = {https://doi.org/10.1007/978-3-540-40004-2_9},
+     url           = {https://doi.org/10.1007/978-3-540-40004-2\_9},
      volume        = {1832},
      year          = {2003}
    }

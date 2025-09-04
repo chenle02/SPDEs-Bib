@@ -19,7 +19,7 @@ bourgain:89:pointwise
      number        = {69},
      pages         = {5--45},
      title         = {Pointwise ergodic theorems for arithmetic sets},
-     url           = {http://www.numdam.org/item?id=PMIHES_1989__69__5_0},
+     url           = {http://www.numdam.org/item?id=PMIHES\_1989\_\_69\_\_5\_0},
      year          = {1989}
    }
 

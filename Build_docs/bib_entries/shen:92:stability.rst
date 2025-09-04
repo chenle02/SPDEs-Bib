@@ -15,7 +15,7 @@ shen:92:stability
      pages         = {101},
      publisher     = {ProQuest LLC, Ann Arbor, MI},
      title         = {Stability and bifurcation of traveling wave solutions},
-     url           = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:9303143},
+     url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:9303143},
      year          = {1992}
    }
 

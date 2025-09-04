@@ -18,7 +18,7 @@ alabert.ferrante.ea:95:markov
      number        = {3},
      pages         = {1262--1288},
      title         = {Markov field property of stochastic differential equations},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199507)23:3<1262:MFPOSD>2.0.CO;2-O&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199507)23:3<1262:MFPOSD>2.0.CO;2-O\&origin=MSN},
      volume        = {23},
      year          = {1995}
    }

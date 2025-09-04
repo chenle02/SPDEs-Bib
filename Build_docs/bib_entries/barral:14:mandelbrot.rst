@@ -18,7 +18,7 @@ barral:14:mandelbrot
      publisher     = {Springer, Heidelberg},
      series        = {Springer Proc. Math. Stat.},
      title         = {Mandelbrot cascades and related topics},
-     url           = {https://doi.org/10.1007/978-3-662-43920-3_1},
+     url           = {https://doi.org/10.1007/978-3-662-43920-3\_1},
      volume        = {88},
      year          = {2014}
    }

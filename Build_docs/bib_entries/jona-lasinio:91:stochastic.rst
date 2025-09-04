@@ -18,7 +18,7 @@ jona-lasinio:91:stochastic
      number        = {2},
      pages         = {751--758},
      title         = {Stochastic reaction diffusion equations and interacting particle systems},
-     url           = {http://www.numdam.org/item?id=AIHPA_1991__55_2_751_0},
+     url           = {http://www.numdam.org/item?id=AIHPA\_1991\_\_55\_2\_751\_0},
      volume        = {55},
      year          = {1991}
    }

@@ -15,7 +15,7 @@ smirnov:96:spectral
      pages         = {137},
      publisher     = {ProQuest LLC, Ann Arbor, MI},
      title         = {Spectral analysis of {J}ulia sets},
-     url           = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:9629194},
+     url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:9629194},
      year          = {1996}
    }
 

@@ -17,7 +17,7 @@ bourgain:82:on
      mrreviewer    = {Bernard\ Beauzamy},
      number        = {2},
      pages         = {187--194},
-     title         = {On the embedding problem of {$L\sp{1}$} in {$L\sp{1}/H\sp{1}\sb{0}$}},
+     title         = {On the embedding problem of {$L\sp{1}$} in {\$L\sp{1}/H\sp{1}\sb{0}\$}},
      volume        = {34},
      year          = {1982}
    }

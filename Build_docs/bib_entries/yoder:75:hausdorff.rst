@@ -17,7 +17,7 @@ yoder:75:hausdorff
      mrnumber      = {359033},
      mrreviewer    = {S. J. Taylor},
      pages         = {169--171},
-     title         = {The {H}ausdorff dimensions of the graph and range of {$N$}-parameter {B}rownian motion in {$d$}-space},
+     title         = {The {H}ausdorff dimensions of the graph and range of {$N$}-parameter {B}rownian motion in {\$d\$}-space},
      url           = {https://doi.org/10.1214/aop/1176996458},
      volume        = {3},
      year          = {1975}

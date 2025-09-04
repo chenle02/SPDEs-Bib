@@ -19,7 +19,7 @@ zeitouni:04:random
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {Random walks in random environment},
-     url           = {https://doi.org/10.1007/978-3-540-39874-5_2},
+     url           = {https://doi.org/10.1007/978-3-540-39874-5\_2},
      volume        = {1837},
      year          = {2004}
    }

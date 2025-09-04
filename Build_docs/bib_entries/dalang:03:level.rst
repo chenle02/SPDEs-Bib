@@ -18,7 +18,7 @@ dalang:03:level
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {Level sets and excursions of the {B}rownian sheet},
-     url           = {https://doi.org/10.1007/978-3-540-36259-3_5},
+     url           = {https://doi.org/10.1007/978-3-540-36259-3\_5},
      volume        = {1802},
      year          = {2003}
    }

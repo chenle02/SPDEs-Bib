@@ -18,7 +18,7 @@ liskevich.rockner:98:strong
      number        = {1},
      pages         = {69--91 (1999)},
      title         = {Strong uniqueness for certain infinite-dimensional {D}irichlet operators and applications to stochastic quantization},
-     url           = {http://www.numdam.org/item?id=ASNSP_1998_4_27_1_69_0},
+     url           = {http://www.numdam.org/item?id=ASNSP\_1998\_4\_27\_1\_69\_0},
      volume        = {27},
      year          = {1998}
    }

@@ -17,7 +17,7 @@ corwin.petrov:15:q-pushasep
      mrnumber      = {3373649},
      number        = {4},
      pages         = {1005--1026},
-     title         = {The {$q$}-{P}ush{ASEP}: a new integrable model for traffic in {$1+1$} dimension},
+     title         = {The {$q$}-{P}ush{ASEP}: a new integrable model for traffic in {\$1+1\$} dimension},
      url           = {https://doi.org/10.1007/s10955-015-1218-9},
      volume        = {160},
      year          = {2015}

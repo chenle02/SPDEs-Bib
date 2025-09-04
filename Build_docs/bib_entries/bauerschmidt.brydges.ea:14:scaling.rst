@@ -18,7 +18,7 @@ bauerschmidt.brydges.ea:14:scaling
      mrreviewer    = {Mei Yin},
      number        = {4-5},
      pages         = {692--742},
-     title         = {Scaling limits and critical behaviour of the 4-dimensional {$n$}-component {$|\phi|^4$} spin model},
+     title         = {Scaling limits and critical behaviour of the 4-dimensional {$n$}-component {\$\vert{}\phi\vert{}^4\$} spin model},
      url           = {https://doi.org/10.1007/s10955-014-1060-5},
      volume        = {157},
      year          = {2014}

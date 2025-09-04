@@ -7,24 +7,24 @@ bourgain:88:on*2
 
 .. code-block:: bibtex
 
-   @incollection{bourgain:88:on*2,
+   @article{bourgain:88:on*2,
      author        = {Bourgain, J.},
-     booktitle     = {Geometric aspects of functional analysis (1986/87)},
-     doi           = {10.1007/BFb0081744},
-     isbn          = {3-540-19353-7},
-     mrclass       = {46B20},
-     mrnumber      = {950984},
-     mrreviewer    = {T.\ Figiel},
-     pages         = {232--238},
-     publisher     = {Springer, Berlin},
-     series        = {Lecture Notes in Math.},
-     title         = {On finite-dimensional homogeneous {B}anach spaces},
-     url           = {https://doi.org/10.1007/BFb0081744},
-     volume        = {1317},
+     doi           = {10.1007/BF02776302},
+     fjournal      = {Israel Journal of Mathematics},
+     issn          = {0021-2172},
+     journal       = {Israel J. Math.},
+     mrclass       = {28D05},
+     mrnumber      = {937582},
+     mrreviewer    = {Alberto\ de la Torre},
+     number        = {1},
+     pages         = {73--84},
+     title         = {On the pointwise ergodic theorem on {$L^p$} for arithmetic sets},
+     url           = {https://doi.org/10.1007/BF02776302},
+     volume        = {61},
      year          = {1988}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BFb0081744>`__
+`The URL link to the source <https://doi.org/10.1007/BF02776302>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

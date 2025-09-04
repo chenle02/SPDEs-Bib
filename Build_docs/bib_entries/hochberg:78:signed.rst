@@ -18,7 +18,7 @@ hochberg:78:signed
      number        = {3},
      pages         = {433--458},
      title         = {A signed measure on path space related to {W}iener measure},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(197806)6:3<433:ASMOPS>2.0.CO;2-N&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(197806)6:3<433:ASMOPS>2.0.CO;2-N\&origin=MSN},
      volume        = {6},
      year          = {1978}
    }

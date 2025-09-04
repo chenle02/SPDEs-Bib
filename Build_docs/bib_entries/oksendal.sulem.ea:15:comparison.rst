@@ -18,7 +18,7 @@ oksendal.sulem.ea:15:comparison
      publisher     = {World Sci. Publ., Hackensack, NJ},
      series        = {Interdiscip. Math. Sci.},
      title         = {A comparison theorem for backward {SPDE}s with jumps},
-     url           = {https://doi.org/10.1142/9789814596534_0023},
+     url           = {https://doi.org/10.1142/9789814596534\_0023},
      volume        = {17},
      year          = {2015}
    }

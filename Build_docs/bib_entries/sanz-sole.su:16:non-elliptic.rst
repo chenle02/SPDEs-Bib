@@ -18,7 +18,7 @@ sanz-sole.su:16:non-elliptic
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},
      title         = {Non-elliptic {SPDE}s and ambit fields: existence of densities},
-     url           = {https://doi.org/10.1007/978-3-319-23425-0_5},
+     url           = {https://doi.org/10.1007/978-3-319-23425-0\_5},
      volume        = {138},
      year          = {2016}
    }

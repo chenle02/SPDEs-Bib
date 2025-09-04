@@ -18,7 +18,7 @@ herrero.velazquez:97:blow-up
      number        = {4},
      pages         = {633--683 (1998)},
      title         = {A blow-up mechanism for a chemotaxis model},
-     url           = {http://www.numdam.org/item?id=ASNSP_1997_4_24_4_633_0},
+     url           = {http://www.numdam.org/item?id=ASNSP\_1997\_4\_24\_4\_633\_0},
      volume        = {24},
      year          = {1997}
    }

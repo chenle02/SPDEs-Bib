@@ -17,8 +17,8 @@ fleischmann.mytnik.ea:12:properties
      pages         = {409--421},
      publisher     = {Springer, Heidelberg},
      series        = {Springer Proc. Math.},
-     title         = {Properties of states of super-{$\alpha$}-stable motion with branching of index {$1+\beta$}},
-     url           = {https://doi.org/10.1007/978-3-642-23811-6_16},
+     title         = {Properties of states of super-{$\alpha$}-stable motion with branching of index {\$1+\beta\$}},
+     url           = {https://doi.org/10.1007/978-3-642-23811-6\_16},
      volume        = {11},
      year          = {2012}
    }

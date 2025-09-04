@@ -18,7 +18,7 @@ baik.ferrari.ea:14:convergence
      pages         = {91--110},
      publisher     = {Springer, Cham},
      title         = {Convergence of the two-point function of the stationary {TASEP}},
-     url           = {https://doi.org/10.1007/978-3-319-00786-1_5},
+     url           = {https://doi.org/10.1007/978-3-319-00786-1\_5},
      year          = {2014}
    }
 

@@ -19,7 +19,7 @@ wang.winkler.ea:18:global
      number        = {2},
      pages         = {421--466},
      title         = {Global classical solutions in a two-dimensional chemotaxis-{N}avier-{S}tokes system with subcritical sensitivity},
-     url           = {https://doi.org/10.2422/2036-2145.201603_004},
+     url           = {https://doi.org/10.2422/2036-2145.201603\_004},
      volume        = {18},
      year          = {2018}
    }

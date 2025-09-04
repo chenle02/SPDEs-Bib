@@ -16,7 +16,7 @@ kim.lee:11:w12-theory
      mrnumber      = {2827460},
      mrreviewer    = {Mar\'{\i}a J. Garrido-Atienza},
      pages         = {no. 47, 1296--1317},
-     title         = {A {$W^1_2$}-theory of stochastic partial differential systems of divergence type on {$C^1$} domains},
+     title         = {A {$W^1_2$}-theory of stochastic partial differential systems of divergence type on {\$C^1\$} domains},
      url           = {https://doi.org/10.1214/ejp.v16-913},
      volume        = {16},
      year          = {2011}

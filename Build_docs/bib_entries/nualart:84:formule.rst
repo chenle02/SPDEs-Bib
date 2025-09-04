@@ -18,7 +18,7 @@ nualart:84:formule
      number        = {3},
      pages         = {251--275},
      title         = {Une formule d'{I}t\^{o} pour les martingales continues \`a deux indices et quelques applications},
-     url           = {http://www.numdam.org/item?id=AIHPB_1984__20_3_251_0},
+     url           = {http://www.numdam.org/item?id=AIHPB\_1984\_\_20\_3\_251\_0},
      volume        = {20},
      year          = {1984}
    }

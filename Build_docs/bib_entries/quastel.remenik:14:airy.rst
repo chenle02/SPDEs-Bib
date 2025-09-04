@@ -17,7 +17,7 @@ quastel.remenik:14:airy
      publisher     = {Springer, New York},
      series        = {Springer Proc. Math. Stat.},
      title         = {Airy processes and variational problems},
-     url           = {https://doi.org/10.1007/978-1-4939-0339-9_5},
+     url           = {https://doi.org/10.1007/978-1-4939-0339-9\_5},
      volume        = {69},
      year          = {2014}
    }

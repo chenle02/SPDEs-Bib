@@ -18,7 +18,7 @@ bourgain.kahane:10:sur
      number        = {4},
      pages         = {1201--1214},
      title         = {Sur les s\'{e}ries de {F}ourier des fonctions continues unimodulaires},
-     url           = {http://aif.cedram.org/item?id=AIF_2010__60_4_1201_0},
+     url           = {http://aif.cedram.org/item?id=AIF\_2010\_\_60\_4\_1201\_0},
      volume        = {60},
      year          = {2010}
    }

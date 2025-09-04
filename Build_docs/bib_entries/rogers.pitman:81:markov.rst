@@ -18,7 +18,7 @@ rogers.pitman:81:markov
      number        = {4},
      pages         = {573--582},
      title         = {Markov functions},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198108)9:4<573:MF>2.0.CO;2-G&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198108)9:4<573:MF>2.0.CO;2-G\&origin=MSN},
      volume        = {9},
      year          = {1981}
    }

@@ -18,7 +18,7 @@ talagrand:95:concentration
      number        = {81},
      pages         = {73--205},
      title         = {Concentration of measure and isoperimetric inequalities in product spaces},
-     url           = {http://www.numdam.org/item?id=PMIHES_1995__81__73_0},
+     url           = {http://www.numdam.org/item?id=PMIHES\_1995\_\_81\_\_73\_0},
      year          = {1995}
    }
 

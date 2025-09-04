@@ -18,7 +18,7 @@ fasen.kluppelberg:07:extremes
      publisher     = {Springer, Berlin},
      series        = {Abel Symp.},
      title         = {Extremes of sup{OU} processes},
-     url           = {https://doi.org/10.1007/978-3-540-70847-6_14},
+     url           = {https://doi.org/10.1007/978-3-540-70847-6\_14},
      volume        = {2},
      year          = {2007}
    }

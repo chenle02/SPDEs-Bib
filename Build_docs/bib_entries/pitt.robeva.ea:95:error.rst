@@ -18,7 +18,7 @@ pitt.robeva.ea:95:error
      number        = {1},
      pages         = {171--197},
      title         = {An error analysis for the numerical calculation of certain random integrals. {I}},
-     url           = {http://links.jstor.org/sici?sici=1050-5164(199502)5:1<171:AEAFTN>2.0.CO;2-3&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=1050-5164(199502)5:1<171:AEAFTN>2.0.CO;2-3\&origin=MSN},
      volume        = {5},
      year          = {1995}
    }

@@ -18,7 +18,7 @@ pimentel:21:brownian
      publisher     = {Birkh\"auser/Springer, Cham},
      series        = {Progr. Probab.},
      title         = {Brownian aspects of the {KPZ} fixed point},
-     url           = {https://doi.org/10.1007/978-3-030-60754-8_29},
+     url           = {https://doi.org/10.1007/978-3-030-60754-8\_29},
      volume        = {77},
      year          = {[2021] \copyright 2021}
    }

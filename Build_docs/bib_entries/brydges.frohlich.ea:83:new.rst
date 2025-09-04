@@ -17,7 +17,7 @@ brydges.frohlich.ea:83:new
      mrreviewer    = {Gerhard C. Hegerfeldt},
      number        = {2},
      pages         = {141--186},
-     title         = {A new proof of the existence and nontriviality of the continuum {$\varphi ^{4}_{2}$} and {$\varphi ^{4}_{3}$} quantum field theories},
+     title         = {A new proof of the existence and nontriviality of the continuum {$\varphi ^{4}_{2}$} and {\$\varphi ^{4}\_{3}\$} quantum field theories},
      url           = {http://projecteuclid.org/euclid.cmp/1103940528},
      volume        = {91},
      year          = {1983}

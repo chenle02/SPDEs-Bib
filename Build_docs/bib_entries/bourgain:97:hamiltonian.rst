@@ -19,7 +19,7 @@ bourgain:97:hamiltonian
      publisher     = {World Sci. Publ., River Edge, NJ},
      series        = {World Sci. Ser. 20th Century Math.},
      title         = {Hamiltonian methods in nonlinear evolution equations},
-     url           = {https://doi.org/10.1142/9789812385215_0059},
+     url           = {https://doi.org/10.1142/9789812385215\_0059},
      volume        = {5},
      year          = {1997}
    }

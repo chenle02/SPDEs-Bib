@@ -14,7 +14,7 @@ chen.hu:23:some
      month         = {nov},
      publisher     = {GitHub \& Zenodo},
      title         = {Some symbolic tools for the {Fox} {$H$}-function},
-     url           = {https://github.com/chenle02/Fox-H_Symbolic_Tools},
+     url           = {https://github.com/chenle02/Fox-H\_Symbolic\_Tools},
      year          = {2023}
    }
 

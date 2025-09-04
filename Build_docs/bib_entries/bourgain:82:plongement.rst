@@ -16,7 +16,7 @@ bourgain:82:plongement
      mrnumber      = {664298},
      number        = {18},
      pages         = {633--636},
-     title         = {Plongement de {$L\sp{1}$} dans l'espace {$L\sp{1}/H\sp{1}$}},
+     title         = {Plongement de {$L\sp{1}$} dans l'espace {\$L\sp{1}/H\sp{1}\$}},
      volume        = {294},
      year          = {1982}
    }

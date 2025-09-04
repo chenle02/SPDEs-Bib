@@ -17,7 +17,7 @@ bourgain.korobkov.ea:15:on
      mrnumber      = {3318511},
      mrreviewer    = {Hossein\ Movahedi-Lankarani},
      pages         = {93--112},
-     title         = {On the {M}orse-{S}ard property and level sets of {${\rm W}^{n,1}$} {S}obolev functions on {$\Bbb{R}^n$}},
+     title         = {On the {M}orse-{S}ard property and level sets of {${\rm W}^{n,1}$} {S}obolev functions on {\$\Bbb{R}^n\$}},
      url           = {https://doi.org/10.1515/crelle-2013-0002},
      volume        = {700},
      year          = {2015}

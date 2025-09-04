@@ -18,7 +18,7 @@ hu.le:16:nonlinear
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},
      title         = {Nonlinear {Y}oung integrals via fractional calculus},
-     url           = {https://doi.org/10.1007/978-3-319-23425-0_3},
+     url           = {https://doi.org/10.1007/978-3-319-23425-0\_3},
      volume        = {138},
      year          = {2016}
    }

@@ -1,0 +1,28 @@
+ivanhoe.salins:25:preventing
+============================
+
+:cite:t:`ivanhoe.salins:25:preventing`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{ivanhoe.salins:25:preventing,
+     author        = {Ivanhoe, John and Salins, Michael},
+     doi           = {10.1016/j.spa.2025.104627},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149,1879-209X},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60H15 (35B44 35K20 35K57 35R60)},
+     mrnumber      = {4878890},
+     pages         = {Paper No. 104627, 11},
+     title         = {Preventing finite-time blowup in a constrained potential for reaction-diffusion equations},
+     url           = {https://doi.org/10.1016/j.spa.2025.104627},
+     volume        = {185},
+     year          = {2025}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2025.104627>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

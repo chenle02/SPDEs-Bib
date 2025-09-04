@@ -17,7 +17,7 @@ hilfer:00:fractional
      pages         = {87--130},
      publisher     = {World Sci. Publ., River Edge, NJ},
      title         = {Fractional time evolution},
-     url           = {https://doi.org/10.1142/9789812817747_0002},
+     url           = {https://doi.org/10.1142/9789812817747\_0002},
      year          = {2000}
    }
 
