@@ -2644,6 +2644,7 @@ D
 - :cite:t:`damron.hanson.ea:18:size` : `damron.hanson.ea:18:size <bib_entries/damron.hanson.ea:18:size.html>`_
 - :cite:t:`damron.hanson:14:busemann` : `damron.hanson:14:busemann <bib_entries/damron.hanson:14:busemann.html>`_
 - :cite:t:`damron.hochman:13:examples` : `damron.hochman:13:examples <bib_entries/damron.hochman:13:examples.html>`_
+- :cite:t:`damron.lam:25:asymptotics` : `damron.lam:25:asymptotics <bib_entries/damron.lam:25:asymptotics.html>`_
 - :cite:t:`damron.rassoul-agha.ea:16:random` : `damron.rassoul-agha.ea:16:random <bib_entries/damron.rassoul-agha.ea:16:random.html>`_
 - :cite:t:`daners:00:heat` : `daners:00:heat <bib_entries/daners:00:heat.html>`_
 - :cite:t:`dang.nane.ea:18:continuity` : `dang.nane.ea:18:continuity <bib_entries/dang.nane.ea:18:continuity.html>`_
