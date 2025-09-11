@@ -4742,6 +4742,7 @@ K
 - :cite:t:`khoshnevisan.kim.ea:24:small-ball` : `khoshnevisan.kim.ea:24:small-ball <bib_entries/khoshnevisan.kim.ea:24:small-ball.html>`_
 - :cite:t:`khoshnevisan.kim:15:non-linear` : `khoshnevisan.kim:15:non-linear <bib_entries/khoshnevisan.kim:15:non-linear.html>`_
 - :cite:t:`khoshnevisan.kim:15:nonlinear` : `khoshnevisan.kim:15:nonlinear <bib_entries/khoshnevisan.kim:15:nonlinear.html>`_
+- :cite:t:`khoshnevisan.lee:25:on` : `khoshnevisan.lee:25:on <bib_entries/khoshnevisan.lee:25:on.html>`_
 - :cite:t:`khoshnevisan.levin.ea:05:extreme-value` : `khoshnevisan.levin.ea:05:extreme-value <bib_entries/khoshnevisan.levin.ea:05:extreme-value.html>`_
 - :cite:t:`khoshnevisan.levin.ea:05:on` : `khoshnevisan.levin.ea:05:on <bib_entries/khoshnevisan.levin.ea:05:on.html>`_
 - :cite:t:`khoshnevisan.levin.ea:06:exceptional` : `khoshnevisan.levin.ea:06:exceptional <bib_entries/khoshnevisan.levin.ea:06:exceptional.html>`_
