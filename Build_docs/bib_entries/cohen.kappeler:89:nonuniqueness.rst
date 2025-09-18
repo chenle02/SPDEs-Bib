@@ -1,0 +1,29 @@
+cohen.kappeler:89:nonuniqueness
+===============================
+
+:cite:t:`cohen.kappeler:89:nonuniqueness`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cohen.kappeler:89:nonuniqueness,
+     author        = {Cohen, Amy and Kappeler, Thomas},
+     doi           = {10.2307/2001012},
+     fjournal      = {Transactions of the American Mathematical Society},
+     issn          = {0002-9947},
+     journal       = {Trans. Amer. Math. Soc.},
+     mrclass       = {35Q20},
+     mrnumber      = {988885},
+     number        = {2},
+     pages         = {819--840},
+     title         = {Nonuniqueness for solutions of the {K}orteweg-de {V}ries equation},
+     url           = {https://doi.org/10.2307/2001012},
+     volume        = {312},
+     year          = {1989}
+   }
+
+`The URL link to the source <https://doi.org/10.2307/2001012>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

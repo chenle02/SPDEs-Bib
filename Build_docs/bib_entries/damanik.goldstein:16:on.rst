@@ -1,0 +1,30 @@
+damanik.goldstein:16:on
+=======================
+
+:cite:t:`damanik.goldstein:16:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{damanik.goldstein:16:on,
+     author        = {Damanik, David and Goldstein, Michael},
+     doi           = {10.1090/jams/837},
+     fjournal      = {Journal of the American Mathematical Society},
+     issn          = {0894-0347},
+     journal       = {J. Amer. Math. Soc.},
+     mrclass       = {35Q53 (35A01 35A02 35B15)},
+     mrnumber      = {3486173},
+     mrreviewer    = {Alain Haraux},
+     number        = {3},
+     pages         = {825--856},
+     title         = {On the existence and uniqueness of global solutions for the {K}d{V} equation with quasi-periodic initial data},
+     url           = {https://doi.org/10.1090/jams/837},
+     volume        = {29},
+     year          = {2016}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/jams/837>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

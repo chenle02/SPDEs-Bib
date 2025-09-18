@@ -9,17 +9,22 @@ bourgain:14:on*2
 
    @incollection{bourgain:14:on*2,
      author        = {Bourgain, Jean},
-     booktitle     = {Advances in analysis: the legacy of {E}lias {M}. {S}tein},
-     isbn          = {978-0-691-15941-6},
-     mrclass       = {42B20 (42B25)},
-     mrnumber      = {3329846},
-     mrreviewer    = {Brett\ D.\ Wick},
-     pages         = {47--62},
-     publisher     = {Princeton Univ. Press, Princeton, NJ},
-     series        = {Princeton Math. Ser.},
-     title         = {On oscillatory integral operators in higher dimensions},
-     volume        = {50},
+     booktitle     = {Geometric aspects of functional analysis},
+     doi           = {10.1007/978-3-319-09477-9\_8},
+     isbn          = {978-3-319-09476-2; 978-3-319-09477-9},
+     mrclass       = {35Q41 (47B39 47N50 81Q05)},
+     mrnumber      = {3364682},
+     mrreviewer    = {G.\ V.\ Rozenblum},
+     pages         = {97--105},
+     publisher     = {Springer, Cham},
+     series        = {Lecture Notes in Math.},
+     title         = {On the control problem for {S}chr\"{o}dinger operators on tori},
+     url           = {https://doi.org/10.1007/978-3-319-09477-9\_8},
+     volume        = {2116},
      year          = {2014}
    }
+
+`The URL link to the source <https://doi.org/10.1007/978-3-319-09477-9_8>`__
+
 
 `Back to index <../By-Cite-Keys.html>`__

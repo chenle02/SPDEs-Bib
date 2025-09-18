@@ -9,22 +9,21 @@ bourgain:93:on*3
 
    @article{bourgain:93:on*3,
      author        = {Bourgain, J.},
-     doi           = {10.1007/BF01896259},
-     fjournal      = {Geometric and Functional Analysis},
-     issn          = {1016-443X,1420-8970},
-     journal       = {Geom. Funct. Anal.},
-     mrclass       = {35Q53 (42B05)},
-     mrnumber      = {1223434},
-     mrreviewer    = {Daniel\ B\"{a}ttig},
-     number        = {4},
-     pages         = {315--341},
-     title         = {On the {C}auchy problem for the {K}adomtsev-{P}etviashvili equation},
-     url           = {https://doi.org/10.1007/BF01896259},
-     volume        = {3},
+     doi           = {10.1007/BF03341964},
+     fjournal      = {Journal d'Analyse Math\'{e}matique},
+     issn          = {0021-7670,1565-8538},
+     journal       = {J. Anal. Math.},
+     mrclass       = {11M99 (28A75)},
+     mrnumber      = {1253227},
+     mrreviewer    = {D.\ R.\ Heath-Brown},
+     pages         = {21--32},
+     title         = {On the distribution of {D}irichlet sums},
+     url           = {https://doi.org/10.1007/BF03341964},
+     volume        = {60},
      year          = {1993}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF01896259>`__
+`The URL link to the source <https://doi.org/10.1007/BF03341964>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

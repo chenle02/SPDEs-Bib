@@ -1,0 +1,28 @@
+deift:17:some
+=============
+
+:cite:t:`deift:17:some`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{deift:17:some,
+     author        = {Deift, Percy},
+     doi           = {10.3842/SIGMA.2017.016},
+     fjournal      = {SIGMA. Symmetry, Integrability and Geometry. Methods and Applications},
+     journal       = {SIGMA Symmetry Integrability Geom. Methods Appl.},
+     mrclass       = {37K15 (15B52 34M55 35Q53 60F05 60K35 81R12)},
+     mrnumber      = {3622647},
+     mrreviewer    = {Julia B. Prada},
+     pages         = {Paper No. 016, 23},
+     title         = {Some open problems in random matrix theory and the theory of integrable systems. {II}},
+     url           = {https://doi.org/10.3842/SIGMA.2017.016},
+     volume        = {13},
+     year          = {2017}
+   }
+
+`The URL link to the source <https://doi.org/10.3842/SIGMA.2017.016>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

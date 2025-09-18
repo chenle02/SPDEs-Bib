@@ -7,23 +7,24 @@ flandoli:91:stochastic
 
 .. code-block:: bibtex
 
-   @article{flandoli:91:stochastic,
+   @incollection{flandoli:91:stochastic,
      author        = {Flandoli, Franco},
-     doi           = {10.1016/0893-9659(91)90052-W},
-     fjournal      = {Applied Mathematics Letters. An International Journal of Rapid Publication},
-     issn          = {0893-9659,1873-5452},
-     journal       = {Appl. Math. Lett.},
-     mrclass       = {35R60 (35K57)},
-     mrnumber      = {1117768},
-     number        = {4},
-     pages         = {45--48},
-     title         = {A stochastic reaction-diffusion equation with multiplicative noise},
-     url           = {https://doi.org/10.1016/0893-9659(91)90052-W},
-     volume        = {4},
+     booktitle     = {Lyapunov exponents ({O}berwolfach, 1990)},
+     doi           = {10.1007/BFb0086669},
+     isbn          = {3-540-54662-6},
+     mrclass       = {60H15 (35R60)},
+     mrnumber      = {1178958},
+     mrreviewer    = {Bohdan\ Maslowski},
+     pages         = {196--205},
+     publisher     = {Springer, Berlin},
+     series        = {Lecture Notes in Math.},
+     title         = {Stochastic flow and {L}yapunov exponents for abstract stochastic {PDE}s of parabolic type},
+     url           = {https://doi.org/10.1007/BFb0086669},
+     volume        = {1486},
      year          = {1991}
    }
 
-`The URL link to the source <https://doi.org/10.1016/0893-9659(91)90052-W>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0086669>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

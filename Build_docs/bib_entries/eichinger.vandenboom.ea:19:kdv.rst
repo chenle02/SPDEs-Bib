@@ -1,0 +1,28 @@
+eichinger.vandenboom.ea:19:kdv
+==============================
+
+:cite:t:`eichinger.vandenboom.ea:19:kdv`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{eichinger.vandenboom.ea:19:kdv,
+     author        = {Eichinger, B. and VandenBoom, T. and Yuditskii, P.},
+     doi           = {10.1090/btran/30},
+     fjournal      = {Transactions of the American Mathematical Society. Series B},
+     journal       = {Trans. Amer. Math. Soc. Ser. B},
+     mrclass       = {37K10 (34L40 35Q53 37K15)},
+     mrnumber      = {3894927},
+     mrreviewer    = {Julia Bernatska},
+     pages         = {1--44},
+     title         = {Kd{V} hierarchy via abelian coverings and operator identities},
+     url           = {https://doi.org/10.1090/btran/30},
+     volume        = {6},
+     year          = {2019}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/btran/30>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

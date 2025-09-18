@@ -1,0 +1,29 @@
+zhou:97:uniqueness
+==================
+
+:cite:t:`zhou:97:uniqueness`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{zhou:97:uniqueness,
+     author        = {Zhou, Yi},
+     doi           = {10.1155/S1073792897000202},
+     fjournal      = {International Mathematics Research Notices},
+     issn          = {1073-7928},
+     journal       = {Internat. Math. Res. Notices},
+     mrclass       = {35Q53 (35D05)},
+     mrnumber      = {1440304},
+     mrreviewer    = {Vladislav G. Dubrovsky},
+     number        = {6},
+     pages         = {271--283},
+     title         = {Uniqueness of weak solution of the {K}d{V} equation},
+     url           = {https://doi.org/10.1155/S1073792897000202},
+     year          = {1997}
+   }
+
+`The URL link to the source <https://doi.org/10.1155/S1073792897000202>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

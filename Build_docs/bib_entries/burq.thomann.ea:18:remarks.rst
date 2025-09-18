@@ -1,0 +1,30 @@
+burq.thomann.ea:18:remarks
+==========================
+
+:cite:t:`burq.thomann.ea:18:remarks`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{burq.thomann.ea:18:remarks,
+     author        = {Burq, Nicolas and Thomann, Laurent and Tzvetkov, Nikolay},
+     doi           = {10.5802/afst.1578},
+     fjournal      = {Annales de la Facult\'{e} des Sciences de Toulouse. Math\'{e}matiques. S\'{e}rie 6},
+     issn          = {0240-2963},
+     journal       = {Ann. Fac. Sci. Toulouse Math. (6)},
+     mrclass       = {35Q55 (35D30 37K05 37L50)},
+     mrnumber      = {3869074},
+     mrreviewer    = {Thierry Cazenave},
+     number        = {3},
+     pages         = {527--597},
+     title         = {Remarks on the {G}ibbs measures for nonlinear dispersive equations},
+     url           = {https://doi.org/10.5802/afst.1578},
+     volume        = {27},
+     year          = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.5802/afst.1578>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

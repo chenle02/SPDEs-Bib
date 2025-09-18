@@ -1,0 +1,29 @@
+mckean.vaninsky:94:statistical
+==============================
+
+:cite:t:`mckean.vaninsky:94:statistical`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{mckean.vaninsky:94:statistical,
+     author        = {McKean, H. P. and Vaninsky, K. L.},
+     booktitle     = {Trends and perspectives in applied mathematics},
+     doi           = {10.1007/978-1-4612-0859-4\_8},
+     mrclass       = {35Q99 (35L70 82C03)},
+     mrnumber      = {1277197},
+     mrreviewer    = {Piotr Biler},
+     pages         = {239--264},
+     publisher     = {Springer, New York},
+     series        = {Appl. Math. Sci.},
+     title         = {Statistical mechanics of nonlinear wave equations},
+     url           = {https://doi.org/10.1007/978-1-4612-0859-4\_8},
+     volume        = {100},
+     year          = {1994}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-0859-4_8>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -7,24 +7,24 @@ bourgain:02:on*3
 
 .. code-block:: bibtex
 
-   @incollection{bourgain:02:on*3,
-     author        = {Bourgain, J.},
-     doi           = {10.1007/BF02868469},
-     fjournal      = {Journal d'Analyse Math\'{e}matique},
-     issn          = {0021-7670,1565-8538},
-     journal       = {J. Anal. Math.},
-     mrclass       = {47B39 (35P20 47A10 47N50 81Q10)},
-     mrnumber      = {1945277},
-     mrreviewer    = {David\ Damanik},
-     note          = {Dedicated to the memory of Thomas H. Wolff},
-     pages         = {37--75},
-     title         = {On the spectrum of lattice {S}chr\"{o}dinger operators with deterministic potential},
-     url           = {https://doi.org/10.1007/BF02868469},
-     volume        = {87},
+   @article{bourgain:02:on*3,
+     author        = {Bourgain, Jean},
+     doi           = {10.3934/dcds.2002.8.1},
+     fjournal      = {Discrete and Continuous Dynamical Systems. Series A},
+     issn          = {1078-0947,1553-5231},
+     journal       = {Discrete Contin. Dyn. Syst.},
+     mrclass       = {47B80 (35J10 35R60 47A10 47B39 47N55 82B44)},
+     mrnumber      = {1877824},
+     mrreviewer    = {Vadim\ V.\ Kostrykin},
+     number        = {1},
+     pages         = {1--15},
+     title         = {On random {S}chr\"{o}dinger operators on {$\Bbb Z^2$}},
+     url           = {https://doi.org/10.3934/dcds.2002.8.1},
+     volume        = {8},
      year          = {2002}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02868469>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2002.8.1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

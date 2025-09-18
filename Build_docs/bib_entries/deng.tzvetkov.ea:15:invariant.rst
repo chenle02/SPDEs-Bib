@@ -1,0 +1,30 @@
+deng.tzvetkov.ea:15:invariant
+=============================
+
+:cite:t:`deng.tzvetkov.ea:15:invariant`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{deng.tzvetkov.ea:15:invariant,
+     author        = {Deng, Yu and Tzvetkov, Nikolay and Visciglia, Nicola},
+     doi           = {10.1007/s00220-015-2431-8},
+     fjournal      = {Communications in Mathematical Physics},
+     issn          = {0010-3616},
+     journal       = {Comm. Math. Phys.},
+     mrclass       = {37L40 (35B40 35Q53)},
+     mrnumber      = {3385985},
+     mrreviewer    = {Daniel \v{S}ev\v{c}ovi\v{c}},
+     number        = {3},
+     pages         = {815--857},
+     title         = {Invariant measures and long time behaviour for the {B}enjamin-{O}no equation {III}},
+     url           = {https://doi.org/10.1007/s00220-015-2431-8},
+     volume        = {339},
+     year          = {2015}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00220-015-2431-8>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

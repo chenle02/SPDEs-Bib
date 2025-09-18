@@ -1,0 +1,29 @@
+genovese.luca.ea:16:gibbs
+=========================
+
+:cite:t:`genovese.luca.ea:16:gibbs`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{genovese.luca.ea:16:gibbs,
+     author        = {Genovese, Giuseppe and Luc\`a, Renato and Valeri, Daniele},
+     doi           = {10.1007/s00029-016-0225-2},
+     fjournal      = {Selecta Mathematica. New Series},
+     issn          = {1022-1824},
+     journal       = {Selecta Math. (N.S.)},
+     mrclass       = {35Q55 (35B10 37K05 37K10 37K30 37L50)},
+     mrnumber      = {3518561},
+     number        = {3},
+     pages         = {1663--1702},
+     title         = {Gibbs measures associated to the integrals of motion of the periodic derivative nonlinear {S}chr\"{o}dinger equation},
+     url           = {https://doi.org/10.1007/s00029-016-0225-2},
+     volume        = {22},
+     year          = {2016}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00029-016-0225-2>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
