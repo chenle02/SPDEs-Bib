@@ -14,7 +14,15 @@ GHPAGEDIR     = ../../SPDEs-Bib-Docs/
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-.PHONY: help Makefile
+.PHONY: help Makefile gen-audio html
+
+# Generate recent-audio page
+gen-audio:
+	@python3 generate_audio_recent.py
+
+# Build HTML after generating audio index
+html: gen-audio
+	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O) -w warnings.log
 
 # Add new deploy target
 deploy:
