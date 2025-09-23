@@ -1,0 +1,30 @@
+pierre.schmitt:97:blowup
+========================
+
+:cite:t:`pierre.schmitt:97:blowup`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{pierre.schmitt:97:blowup,
+     author        = {Pierre, Michel and Schmitt, Didier},
+     doi           = {10.1137/S0036141095295437},
+     fjournal      = {SIAM Journal on Mathematical Analysis},
+     issn          = {0036-1410},
+     journal       = {SIAM J. Math. Anal.},
+     mrclass       = {35K57 (35B05)},
+     mrnumber      = {1434034},
+     mrreviewer    = {Siegfried Carl},
+     number        = {2},
+     pages         = {259--269},
+     title         = {Blowup in reaction-diffusion systems with dissipation of mass},
+     url           = {https://doi.org/10.1137/S0036141095295437},
+     volume        = {28},
+     year          = {1997}
+   }
+
+`The URL link to the source <https://doi.org/10.1137/S0036141095295437>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

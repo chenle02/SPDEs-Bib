@@ -1,0 +1,29 @@
+purwins.bodeker.ea:05:dissipative
+=================================
+
+:cite:t:`purwins.bodeker.ea:05:dissipative`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{purwins.bodeker.ea:05:dissipative,
+     author        = {Purwins, H.-G. and B\"{o}deker, H. U. and Liehr, A. W.},
+     booktitle     = {Dissipative solitons},
+     doi           = {10.1007/10928028\_11},
+     mrclass       = {35Q51 (35K57 37L99)},
+     mrnumber      = {2174298},
+     mrreviewer    = {Wen-Xiu Ma},
+     pages         = {267--308},
+     publisher     = {Springer, Berlin},
+     series        = {Lecture Notes in Phys.},
+     title         = {Dissipative solitons in reaction-diffusion systems},
+     url           = {https://doi.org/10.1007/10928028\_11},
+     volume        = {661},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/10928028_11>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

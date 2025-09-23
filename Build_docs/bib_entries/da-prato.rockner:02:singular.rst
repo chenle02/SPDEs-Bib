@@ -1,0 +1,30 @@
+da-prato.rockner:02:singular
+============================
+
+:cite:t:`da-prato.rockner:02:singular`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{da-prato.rockner:02:singular,
+     author        = {Da Prato, Giuseppe and R\"{o}ckner, Michael},
+     doi           = {10.1007/s004400200214},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60H15 (47D07 47N30)},
+     mrnumber      = {1936019},
+     mrreviewer    = {Sandra Cerrai},
+     number        = {2},
+     pages         = {261--303},
+     title         = {Singular dissipative stochastic equations in {H}ilbert spaces},
+     url           = {https://doi.org/10.1007/s004400200214},
+     volume        = {124},
+     year          = {2002}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s004400200214>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

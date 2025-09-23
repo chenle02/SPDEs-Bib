@@ -1,0 +1,24 @@
+erdi.toth:89:mathematical
+=========================
+
+:cite:t:`erdi.toth:89:mathematical`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{erdi.toth:89:mathematical,
+     author        = {\'{E}rdi, P. and T\'{o}th, J.},
+     isbn          = {0-691-08532-3},
+     mrclass       = {92A40 (34C35 35B32 35Q20 58F14 80A30 92A09)},
+     mrnumber      = {981593},
+     mrreviewer    = {Yoram Schiffmann},
+     note          = {Theory and applications of deterministic and stochastic models},
+     pages         = {xxiv+259},
+     publisher     = {Princeton University Press, Princeton, NJ},
+     series        = {Nonlinear Science: Theory and Applications},
+     title         = {Mathematical models of chemical reactions},
+     year          = {1989}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

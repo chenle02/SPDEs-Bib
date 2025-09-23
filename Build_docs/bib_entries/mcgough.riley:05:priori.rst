@@ -1,0 +1,29 @@
+mcgough.riley:05:priori
+=======================
+
+:cite:t:`mcgough.riley:05:priori`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{mcgough.riley:05:priori,
+     author        = {McGough, Jeff S. and Riley, Kyle L.},
+     doi           = {10.1016/j.amc.2003.10.016},
+     fjournal      = {Applied Mathematics and Computation},
+     issn          = {0096-3003},
+     journal       = {Appl. Math. Comput.},
+     mrclass       = {92E20 (35B45 35K50 35K57 92D25)},
+     mrnumber      = {2115570},
+     number        = {1},
+     pages         = {1--16},
+     title         = {A priori bounds for reaction-diffusion systems arising in chemical and biological dynamics},
+     url           = {https://doi.org/10.1016/j.amc.2003.10.016},
+     volume        = {163},
+     year          = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.amc.2003.10.016>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

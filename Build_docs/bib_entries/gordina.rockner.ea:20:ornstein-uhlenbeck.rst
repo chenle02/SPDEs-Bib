@@ -1,0 +1,30 @@
+gordina.rockner.ea:20:ornstein-uhlenbeck
+========================================
+
+:cite:t:`gordina.rockner.ea:20:ornstein-uhlenbeck`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{gordina.rockner.ea:20:ornstein-uhlenbeck,
+     author        = {Gordina, Maria and R\"{o}ckner, Michael and Teplyaev, Alexander},
+     doi           = {10.1007/s00440-020-00991-w},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {60H10 (35R15 47D07 47N30 60H15)},
+     mrnumber      = {4168390},
+     mrreviewer    = {Stefan Tappe},
+     number        = {3-4},
+     pages         = {861--891},
+     title         = {Ornstein-{U}hlenbeck processes with singular drifts: integral estimates and {G}irsanov densities},
+     url           = {https://doi.org/10.1007/s00440-020-00991-w},
+     volume        = {178},
+     year          = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00440-020-00991-w>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

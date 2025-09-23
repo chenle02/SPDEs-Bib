@@ -1,0 +1,25 @@
+bisi.conforto.ea:07:quasi-steady-state
+======================================
+
+:cite:t:`bisi.conforto.ea:07:quasi-steady-state`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bisi.conforto.ea:07:quasi-steady-state,
+     author        = {Bisi, Marzia and Conforto, Fiammetta and Desvillettes, Laurent},
+     fjournal      = {Bulletin of the Institute of Mathematics. Academia Sinica. New Series},
+     issn          = {2304-7909},
+     journal       = {Bull. Inst. Math. Acad. Sin. (N.S.)},
+     mrclass       = {35K57 (34A45 34E15 35B25 80A30 92E20)},
+     mrnumber      = {2363980},
+     mrreviewer    = {Peter L. Simon},
+     number        = {4},
+     pages         = {823--850},
+     title         = {Quasi-steady-state approximation for reaction-diffusion equations},
+     volume        = {2},
+     year          = {2007}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

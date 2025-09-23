@@ -1,0 +1,28 @@
+zel-dovich.molchanov.ea:87:intermittency
+========================================
+
+:cite:t:`zel-dovich.molchanov.ea:87:intermittency`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{zel-dovich.molchanov.ea:87:intermittency,
+     author        = {Zel{\cprime}dovich, Ya. B. and Molchanov, S. A. and Ruzma\u{\i}kin, A. A. and Sokolov, D. D.},
+     doi           = {10.1070/PU1987v030n05ABEH002867},
+     fjournal      = {Akademiya Nauk SSSR. Uspekhi Fizicheskikh Nauk},
+     journal       = {Uspekhi Fiz. Nauk},
+     mrclass       = {82A42 (80A30 92A40)},
+     mrnumber      = {921018},
+     number        = {1},
+     pages         = {3--32},
+     title         = {Intermittency in random media},
+     url           = {https://doi.org/10.1070/PU1987v030n05ABEH002867},
+     volume        = {152},
+     year          = {1987}
+   }
+
+`The URL link to the source <https://doi.org/10.1070/PU1987v030n05ABEH002867>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

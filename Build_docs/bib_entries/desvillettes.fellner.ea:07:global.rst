@@ -1,0 +1,29 @@
+desvillettes.fellner.ea:07:global
+=================================
+
+:cite:t:`desvillettes.fellner.ea:07:global`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{desvillettes.fellner.ea:07:global,
+     author        = {Desvillettes, Laurent and Fellner, Klemens and Pierre, Michel and Vovelle, Julien},
+     doi           = {10.1515/ans-2007-0309},
+     fjournal      = {Advanced Nonlinear Studies},
+     issn          = {1536-1365},
+     journal       = {Adv. Nonlinear Stud.},
+     mrclass       = {35K57 (35D05)},
+     mrnumber      = {2340282},
+     number        = {3},
+     pages         = {491--511},
+     title         = {Global existence for quadratic systems of reaction-diffusion},
+     url           = {https://doi.org/10.1515/ans-2007-0309},
+     volume        = {7},
+     year          = {2007}
+   }
+
+`The URL link to the source <https://doi.org/10.1515/ans-2007-0309>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

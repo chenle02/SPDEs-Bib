@@ -1,0 +1,30 @@
+hollis.morgan:94:on
+===================
+
+:cite:t:`hollis.morgan:94:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{hollis.morgan:94:on,
+     author        = {Hollis, S. L. and Morgan, J. J.},
+     doi           = {10.1216/rmjm/1181072348},
+     fjournal      = {The Rocky Mountain Journal of Mathematics},
+     issn          = {0035-7596},
+     journal       = {Rocky Mountain J. Math.},
+     mrclass       = {35K57 (35B40 80A30)},
+     mrnumber      = {1322238},
+     mrreviewer    = {Jes\'{u}s Hern\'{a}ndez},
+     number        = {4},
+     pages         = {1447--1465},
+     title         = {On the blow-up of solutions to some semilinear and quasilinear reaction-diffusion systems},
+     url           = {https://doi.org/10.1216/rmjm/1181072348},
+     volume        = {24},
+     year          = {1994}
+   }
+
+`The URL link to the source <https://doi.org/10.1216/rmjm/1181072348>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

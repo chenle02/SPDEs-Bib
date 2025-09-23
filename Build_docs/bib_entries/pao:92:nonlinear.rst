@@ -1,0 +1,22 @@
+pao:92:nonlinear
+================
+
+:cite:t:`pao:92:nonlinear`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{pao:92:nonlinear,
+     author        = {Pao, C. V.},
+     isbn          = {0-306-44343-0},
+     mrclass       = {35-02 (35B35 35J60 35K55 35K57)},
+     mrnumber      = {1212084},
+     mrreviewer    = {Yoshihito Tomita},
+     pages         = {xvi+777},
+     publisher     = {Plenum Press, New York},
+     title         = {Nonlinear parabolic and elliptic equations},
+     year          = {1992}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

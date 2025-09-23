@@ -1,0 +1,30 @@
+marinelli.rockner:10:on
+=======================
+
+:cite:t:`marinelli.rockner:10:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{marinelli.rockner:10:on,
+     author        = {Marinelli, Carlo and R\"{o}ckner, Michael},
+     doi           = {10.1142/S0219025710004152},
+     fjournal      = {Infinite Dimensional Analysis, Quantum Probability and Related Topics},
+     issn          = {0219-0257},
+     journal       = {Infin. Dimens. Anal. Quantum Probab. Relat. Top.},
+     mrclass       = {60H15 (60G57)},
+     mrnumber      = {2729590},
+     mrreviewer    = {Xinghua Zheng},
+     number        = {3},
+     pages         = {363--376},
+     title         = {On uniqueness of mild solutions for dissipative stochastic evolution equations},
+     url           = {https://doi.org/10.1142/S0219025710004152},
+     volume        = {13},
+     year          = {2010}
+   }
+
+`The URL link to the source <https://doi.org/10.1142/S0219025710004152>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

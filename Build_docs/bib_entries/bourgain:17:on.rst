@@ -11,13 +11,13 @@ bourgain:17:on
      author        = {Bourgain, Jean},
      booktitle     = {Geometric aspects of functional analysis},
      isbn          = {978-3-319-45281-4; 978-3-319-45282-1},
-     mrclass       = {60B20},
-     mrnumber      = {3645115},
-     mrreviewer    = {Tatyana\ Shcherbina},
-     pages         = {65--69},
+     mrclass       = {22D40 (60G50)},
+     mrnumber      = {3645114},
+     mrreviewer    = {S.\ G.\ Dani},
+     pages         = {55--63},
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},
-     title         = {On a problem of {F}arrell and {V}ershynin in random matrix theory},
+     title         = {On random walks in large compact {L}ie groups},
      volume        = {2169},
      year          = {2017}
    }

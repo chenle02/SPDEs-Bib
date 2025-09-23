@@ -1,0 +1,30 @@
+kallianpur.xiong:96:large
+=========================
+
+:cite:t:`kallianpur.xiong:96:large`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kallianpur.xiong:96:large,
+     author        = {Kallianpur, Gopinath and Xiong, Jie},
+     doi           = {10.1214/aop/1042644719},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798},
+     journal       = {Ann. Probab.},
+     mrclass       = {60H15 (35R60 60F10 60G60)},
+     mrnumber      = {1387638},
+     mrreviewer    = {Richard B. Sowers},
+     number        = {1},
+     pages         = {320--345},
+     title         = {Large deviations for a class of stochastic partial differential equations},
+     url           = {https://doi.org/10.1214/aop/1042644719},
+     volume        = {24},
+     year          = {1996}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/aop/1042644719>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

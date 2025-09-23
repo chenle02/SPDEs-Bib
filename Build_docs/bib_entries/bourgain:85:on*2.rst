@@ -7,24 +7,16 @@ bourgain:85:on*2
 
 .. code-block:: bibtex
 
-   @article{bourgain:85:on*2,
+   @incollection{bourgain:85:on*2,
      author        = {Bourgain, J.},
-     doi           = {10.1007/BF02776078},
-     fjournal      = {Israel Journal of Mathematics},
-     issn          = {0021-2172},
-     journal       = {Israel J. Math.},
-     mrclass       = {46B99 (05C80 58B05)},
-     mrnumber      = {815600},
-     mrreviewer    = {Michel\ Deza},
-     number        = {1-2},
-     pages         = {46--52},
-     title         = {On {L}ipschitz embedding of finite metric spaces in {H}ilbert space},
-     url           = {https://doi.org/10.1007/BF02776078},
-     volume        = {52},
+     booktitle     = {Texas functional analysis seminar 1984--1985 ({A}ustin, {T}ex.)},
+     mrclass       = {43A46 (43A25)},
+     mrnumber      = {832256},
+     pages         = {125--129},
+     publisher     = {Univ. Texas Press, Austin, TX},
+     series        = {Longhorn Notes},
+     title         = {On the dichotomy problem in harmonic analysis},
      year          = {1985}
    }
-
-`The URL link to the source <https://doi.org/10.1007/BF02776078>`__
-
 
 `Back to index <../By-Cite-Keys.html>`__
