@@ -9,17 +9,22 @@ bourgain:83:on*1
 
    @article{bourgain:83:on*1,
      author        = {Bourgain, J.},
-     fjournal      = {Bulletin de la Soci\'{e}t\'{e} Math\'{e}matique de Belgique. S\'{e}rie B},
-     issn          = {0037-9476},
-     journal       = {Bull. Soc. Math. Belg. S\'{e}r. B},
-     mrclass       = {46E15 (46J15)},
-     mrnumber      = {712065},
-     mrreviewer    = {S.\ V.\ Kislyakov},
-     number        = {1},
-     pages         = {111--118},
-     title         = {On weak completeness of the dual of spaces of analytic and smooth functions},
-     volume        = {35},
+     doi           = {10.1007/BF02804016},
+     fjournal      = {Israel Journal of Mathematics},
+     issn          = {0021-2172},
+     journal       = {Israel J. Math.},
+     mrclass       = {46J15 (30H05 46B20)},
+     mrnumber      = {720307},
+     mrreviewer    = {P.\ Wojtaszczyk},
+     number        = {4},
+     pages         = {329--336},
+     title         = {On the primarity of {$H\sp{infty }$}-spaces},
+     url           = {https://doi.org/10.1007/BF02804016},
+     volume        = {45},
      year          = {1983}
    }
+
+`The URL link to the source <https://doi.org/10.1007/BF02804016>`__
+
 
 `Back to index <../By-Cite-Keys.html>`__

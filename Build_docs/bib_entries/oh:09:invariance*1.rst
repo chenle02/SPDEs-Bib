@@ -9,22 +9,22 @@ oh:09:invariance*1
 
    @article{oh:09:invariance*1,
      author        = {Oh, Tadahiro},
-     doi           = {10.1007/s00220-009-0856-7},
-     fjournal      = {Communications in Mathematical Physics},
-     issn          = {0010-3616},
-     journal       = {Comm. Math. Phys.},
-     mrclass       = {35Q53 (35R60 60B11 60G15)},
-     mrnumber      = {2540076},
-     mrreviewer    = {Mark C. Veraar},
-     number        = {1},
-     pages         = {217--236},
-     title         = {Invariance of the white noise for {K}d{V}},
-     url           = {https://doi.org/10.1007/s00220-009-0856-7},
-     volume        = {292},
-     year          = {2009}
+     doi           = {10.1137/080738180},
+     fjournal      = {SIAM Journal on Mathematical Analysis},
+     issn          = {0036-1410},
+     journal       = {SIAM J. Math. Anal.},
+     mrclass       = {35Q53 (35B30 35Q55 37L40 60H30)},
+     mrnumber      = {2579711},
+     mrreviewer    = {Boris Ettinger},
+     number        = {6},
+     pages         = {2207--2225},
+     title         = {Invariance of the {G}ibbs measure for the {S}chr\"{o}dinger-{B}enjamin-{O}no system},
+     url           = {https://doi.org/10.1137/080738180},
+     volume        = {41},
+     year          = {2009/10}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00220-009-0856-7>`__
+`The URL link to the source <https://doi.org/10.1137/080738180>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -9,21 +9,22 @@ flandoli:96:stochastic*2
 
    @article{flandoli:96:stochastic*2,
      author        = {Flandoli, Franco},
-     doi           = {10.1007/BF02925357},
-     fjournal      = {Rendiconti del Seminario Matematico e Fisico di Milano},
-     issn          = {0370-7377},
-     journal       = {Rend. Sem. Mat. Fis. Milano},
-     mrclass       = {35R60 (35Q30 60H15 76M35)},
-     mrnumber      = {1639835},
-     mrreviewer    = {Alp\ O.\ Eden},
-     pages         = {121--148},
-     title         = {Stochastic differential equations in fluid dynamics},
-     url           = {https://doi.org/10.1007/BF02925357},
-     volume        = {66},
+     doi           = {10.1214/aop/1039639354},
+     fjournal      = {The Annals of Probability},
+     issn          = {0091-1798,2168-894X},
+     journal       = {Ann. Probab.},
+     mrclass       = {60H15 (35K57 35R60)},
+     mrnumber      = {1404520},
+     mrreviewer    = {Marek\ Capi\'{n}ski},
+     number        = {2},
+     pages         = {547--558},
+     title         = {Stochastic flows for nonlinear second-order parabolic {SPDE}},
+     url           = {https://doi.org/10.1214/aop/1039639354},
+     volume        = {24},
      year          = {1996}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02925357>`__
+`The URL link to the source <https://doi.org/10.1214/aop/1039639354>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
