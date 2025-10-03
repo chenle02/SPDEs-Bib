@@ -17,6 +17,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 import re
+from typing import Optional
 
 
 def find_audio_files(docs_dir: Path):
@@ -62,7 +63,7 @@ def human_size(nbytes: int) -> str:
     return f"{nbytes / (1024*1024):.1f} MB"
 
 
-def audio_name_to_bib_doc(docs_dir: Path, wav_name: str) -> tuple[str | None, str | None]:
+def audio_name_to_bib_doc(docs_dir: Path, wav_name: str) -> tuple[Optional[str], Optional[str]]:
     """
     Attempt to map a WAV basename to a bib entry document (without extension).
 
