@@ -7,24 +7,20 @@ hairer.manson:10:periodic*1
 
 .. code-block:: bibtex
 
-   @article{hairer.manson:10:periodic*1,
+   @incollection{hairer.manson:10:periodic*1,
      author        = {Hairer, Martin and Manson, Charles},
-     doi           = {10.1016/j.spa.2010.03.016},
-     fjournal      = {Stochastic Processes and their Applications},
-     issn          = {0304-4149},
-     journal       = {Stochastic Process. Appl.},
-     mrclass       = {60J60 (60B10)},
-     mrnumber      = {2653267},
-     mrreviewer    = {Nicolas Saintier},
-     number        = {8},
-     pages         = {1589--1605},
-     title         = {Periodic homogenization with an interface: the one-dimensional case},
-     url           = {https://doi.org/10.1016/j.spa.2010.03.016},
-     volume        = {120},
+     booktitle     = {Progress in analysis and its applications},
+     doi           = {10.1142/9789814313179\_0053},
+     mrclass       = {60J60 (60F05)},
+     mrnumber      = {2766949},
+     pages         = {410--416},
+     publisher     = {World Sci. Publ., Hackensack, NJ},
+     title         = {Periodic homogenization with an interface},
+     url           = {https://doi.org/10.1142/9789814313179\_0053},
      year          = {2010}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.spa.2010.03.016>`__
+`The URL link to the source <https://doi.org/10.1142/9789814313179_0053>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

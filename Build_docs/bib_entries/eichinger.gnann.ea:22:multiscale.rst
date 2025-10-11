@@ -1,0 +1,29 @@
+eichinger.gnann.ea:22:multiscale
+================================
+
+:cite:t:`eichinger.gnann.ea:22:multiscale`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{eichinger.gnann.ea:22:multiscale,
+     author        = {Eichinger, Katharina and Gnann, Manuel V. and Kuehn, Christian},
+     doi           = {10.1214/21-aap1759},
+     fjournal      = {The Annals of Applied Probability},
+     issn          = {1050-5164},
+     journal       = {Ann. Appl. Probab.},
+     mrclass       = {35C07 (35K57 60H15)},
+     mrnumber      = {4497845},
+     number        = {5},
+     pages         = {3229--3282},
+     title         = {Multiscale analysis for traveling-pulse solutions to the stochastic {F}itz{H}ugh-{N}agumo equations},
+     url           = {https://doi.org/10.1214/21-aap1759},
+     volume        = {32},
+     year          = {2022}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/21-aap1759>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
