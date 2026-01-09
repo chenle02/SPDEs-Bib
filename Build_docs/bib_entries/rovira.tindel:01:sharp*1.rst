@@ -7,24 +7,18 @@ rovira.tindel:01:sharp*1
 
 .. code-block:: bibtex
 
-   @article{rovira.tindel:01:sharp*1,
-     author        = {Rovira, Carles and Tindel, Samy},
-     doi           = {10.1023/A:1011286304117},
-     fjournal      = {Potential Analysis. An International Journal Devoted to the Interactions between Potential Theory, Probability Theory, Geometry and Functional Analysis},
-     issn          = {0926-2601},
-     journal       = {Potential Anal.},
+   @incollection{rovira.tindel:01:sharp*1,
+     author        = {Rovira, C. and Tindel, S.},
+     booktitle     = {Stochastic analysis and related topics, {VII} ({K}usadasi, 1998)},
      mrclass       = {60H15 (60F10)},
-     mrnumber      = {1825694},
-     mrreviewer    = {Zhongmin Qian},
-     number        = {4},
-     pages         = {409--435},
-     title         = {Sharp large deviation estimates for the stochastic heat equation},
-     url           = {https://doi.org/10.1023/A:1011286304117},
-     volume        = {14},
+     mrnumber      = {1915457},
+     mrreviewer    = {Giambattista Giacomin},
+     pages         = {225--244},
+     publisher     = {Birkh\"{a}user Boston, Boston, MA},
+     series        = {Progr. Probab.},
+     title         = {Sharp {L}aplace asymptotics for a hyperbolic {SPDE}},
+     volume        = {48},
      year          = {2001}
    }
-
-`The URL link to the source <https://doi.org/10.1023/A:1011286304117>`__
-
 
 `Back to index <../By-Cite-Keys.html>`__

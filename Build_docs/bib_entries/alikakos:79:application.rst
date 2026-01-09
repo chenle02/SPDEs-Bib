@@ -1,0 +1,30 @@
+alikakos:79:application
+=======================
+
+:cite:t:`alikakos:79:application`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{alikakos:79:application,
+     author        = {Alikakos, Nicholas D.},
+     doi           = {10.1016/0022-0396(79)90088-3},
+     fjournal      = {Journal of Differential Equations},
+     issn          = {0022-0396},
+     journal       = {J. Differential Equations},
+     mrclass       = {35B35 (92A15)},
+     mrnumber      = {542670},
+     mrreviewer    = {Hans Kaper},
+     number        = {2},
+     pages         = {201--225},
+     title         = {An application of the invariance principle to reaction-diffusion equations},
+     url           = {https://doi.org/10.1016/0022-0396(79)90088-3},
+     volume        = {33},
+     year          = {1979}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/0022-0396(79)90088-3>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

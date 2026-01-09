@@ -1,0 +1,29 @@
+chen:24:small
+=============
+
+:cite:t:`chen:24:small`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{chen:24:small,
+     author        = {Chen, Jiaming},
+     doi           = {10.1016/j.spa.2024.104455},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149,1879-209X},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60H15 (60G60)},
+     mrnumber      = {4782455},
+     mrreviewer    = {Cheuk\ Yin\ Lee},
+     pages         = {Paper No. 104455, 22},
+     title         = {Small ball probabilities for the stochastic heat equation with colored noise},
+     url           = {https://doi.org/10.1016/j.spa.2024.104455},
+     volume        = {177},
+     year          = {2024}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2024.104455>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

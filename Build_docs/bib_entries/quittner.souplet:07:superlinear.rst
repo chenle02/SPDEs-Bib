@@ -1,0 +1,24 @@
+quittner.souplet:07:superlinear
+===============================
+
+:cite:t:`quittner.souplet:07:superlinear`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{quittner.souplet:07:superlinear,
+     author        = {Quittner, Pavol and Souplet, Philippe},
+     isbn          = {978-3-7643-8441-8},
+     mrclass       = {35-02 (35K50 35K55)},
+     mrnumber      = {2346798},
+     mrreviewer    = {Vicen\c{t}iu\ D.\ R\u{a}dulescu},
+     note          = {Blow-up, global existence and steady states},
+     pages         = {xii+584},
+     publisher     = {Birkh\"{a}user Verlag, Basel},
+     series        = {Birkh\"{a}user Advanced Texts: Basler Lehrb\"{u}cher. [Birkh\"{a}user Advanced Texts: Basel Textbooks]},
+     title         = {Superlinear parabolic problems},
+     year          = {2007}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

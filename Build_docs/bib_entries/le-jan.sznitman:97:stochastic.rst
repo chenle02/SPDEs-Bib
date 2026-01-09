@@ -1,0 +1,30 @@
+le-jan.sznitman:97:stochastic
+=============================
+
+:cite:t:`le-jan.sznitman:97:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{le-jan.sznitman:97:stochastic,
+     author        = {Le Jan, Y. and Sznitman, A. S.},
+     doi           = {10.1007/s004400050135},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051,1432-2064},
+     journal       = {Probab. Theory Related Fields},
+     mrclass       = {35Q30 (35R60 60J80 76D05 76M35)},
+     mrnumber      = {1481125},
+     mrreviewer    = {Peter\ E.\ Kloeden},
+     number        = {3},
+     pages         = {343--366},
+     title         = {Stochastic cascades and {$3$}-dimensional {N}avier-{S}tokes equations},
+     url           = {https://doi.org/10.1007/s004400050135},
+     volume        = {109},
+     year          = {1997}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s004400050135>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

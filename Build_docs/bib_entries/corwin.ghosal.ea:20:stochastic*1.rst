@@ -8,23 +8,22 @@ corwin.ghosal.ea:20:stochastic*1
 .. code-block:: bibtex
 
    @article{corwin.ghosal.ea:20:stochastic*1,
-     author        = {Corwin, Ivan and Ghosal, Promit and Matetski, Konstantin},
-     doi           = {10.1007/s00220-020-03905-y},
+     author        = {Corwin, Ivan and Ghosal, Promit and Shen, Hao and Tsai, Li-Cheng},
+     doi           = {10.1007/s00220-019-03678-z},
      fjournal      = {Communications in Mathematical Physics},
      issn          = {0010-3616},
      journal       = {Comm. Math. Phys.},
-     mrclass       = {60H15 (60K35)},
-     mrnumber      = {4179723},
-     mrreviewer    = {Ya. \={I}. B\={i}lopol{\cprime}s{\cprime}ka},
+     mrclass       = {60K35 (35R60 60H15 82C22)},
+     mrnumber      = {4091508},
      number        = {3},
-     pages         = {1025--1089},
-     title         = {Stochastic {PDE} limit of the dynamic {ASEP}},
-     url           = {https://doi.org/10.1007/s00220-020-03905-y},
-     volume        = {380},
+     pages         = {1945--2038},
+     title         = {Stochastic {PDE} limit of the six vertex model},
+     url           = {https://doi.org/10.1007/s00220-019-03678-z},
+     volume        = {375},
      year          = {2020}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00220-020-03905-y>`__
+`The URL link to the source <https://doi.org/10.1007/s00220-019-03678-z>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

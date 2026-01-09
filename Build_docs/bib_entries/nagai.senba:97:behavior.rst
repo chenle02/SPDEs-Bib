@@ -1,0 +1,31 @@
+nagai.senba:97:behavior
+=======================
+
+:cite:t:`nagai.senba:97:behavior`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @inproceedings{nagai.senba:97:behavior,
+     author        = {Nagai, Toshitaka and Senba, Takasi},
+     booktitle     = {Proceedings of the {S}econd {W}orld {C}ongress of {N}onlinear {A}nalysts, {P}art 6 ({A}thens, 1996)},
+     doi           = {10.1016/S0362-546X(96)00256-8},
+     fjournal      = {Nonlinear Analysis. Theory, Methods \& Applications. An International Multidisciplinary Journal},
+     issn          = {0362-546X,1873-5215},
+     journal       = {Nonlinear Anal.},
+     mrclass       = {35Q80 (80A30)},
+     mrnumber      = {1602939},
+     mrreviewer    = {Yuzo\ Hosono},
+     number        = {6},
+     pages         = {3837--3842},
+     title         = {Behavior of radially symmetric solutions of a system related to chemotaxis},
+     url           = {https://doi.org/10.1016/S0362-546X(96)00256-8},
+     volume        = {30},
+     year          = {1997}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/S0362-546X(96)00256-8>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

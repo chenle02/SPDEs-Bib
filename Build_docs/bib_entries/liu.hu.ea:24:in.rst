@@ -1,0 +1,28 @@
+liu.hu.ea:24:in
+===============
+
+:cite:t:`liu.hu.ea:24:in`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{liu.hu.ea:24:in,
+     author        = {Liu, Shuhui and Hu, Yaozhong and Wang, Xiong},
+     doi           = {10.1214/24-ejp1200},
+     fjournal      = {Electronic Journal of Probability},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {60H15 (35K15 35R60 60H05 60H07)},
+     mrnumber      = {4798614},
+     mrreviewer    = {Dejun Luo},
+     pages         = {Paper No. 140, 48},
+     title         = {In search of necessary and sufficient conditions to solve the parabolic {A}nderson model with fractional {G}aussian noises},
+     url           = {https://doi.org/10.1214/24-ejp1200},
+     volume        = {29},
+     year          = {2024}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/24-ejp1200>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

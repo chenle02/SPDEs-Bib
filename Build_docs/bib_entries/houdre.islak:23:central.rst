@@ -1,0 +1,28 @@
+houdre.islak:23:central
+=======================
+
+:cite:t:`houdre.islak:23:central`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{houdre.islak:23:central,
+     author        = {Houdr\'{e}, Christian and I\c{s}lak, \"{U}mit},
+     doi           = {10.1214/22-ejp894},
+     fjournal      = {Electronic Journal of Probability},
+     journal       = {Electron. J. Probab.},
+     mrclass       = {60C05 (05A05 60F05 60F10)},
+     mrnumber      = {4529088},
+     mrreviewer    = {Michael Voit},
+     pages         = {Paper No. 3, 24},
+     title         = {A central limit theorem for the length of the longest common subsequences in random words},
+     url           = {https://doi.org/10.1214/22-ejp894},
+     volume        = {28},
+     year          = {2023}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/22-ejp894>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

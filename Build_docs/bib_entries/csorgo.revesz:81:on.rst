@@ -1,0 +1,23 @@
+csorgo.revesz:81:on
+===================
+
+:cite:t:`csorgo.revesz:81:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{csorgo.revesz:81:on,
+     author        = {Cs\"{o}rg\H{o}, M. and R\'{e}v\'{e}sz, P.},
+     booktitle     = {Contributions to probability},
+     isbn          = {0-12-274460-8},
+     mrclass       = {60G17 (60J65)},
+     mrnumber      = {618684},
+     mrreviewer    = {M.\ D.\ Burke},
+     pages         = {143--150},
+     publisher     = {Academic Press, New York-London},
+     title         = {On the nondifferentiability of the {W}iener sheet},
+     year          = {1981}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

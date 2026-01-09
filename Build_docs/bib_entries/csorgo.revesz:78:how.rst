@@ -1,0 +1,30 @@
+csorgo.revesz:78:how
+====================
+
+:cite:t:`csorgo.revesz:78:how`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{csorgo.revesz:78:how,
+     author        = {Cs\"{o}rg\H{o}, M. and R\'{e}v\'{e}sz, P.},
+     doi           = {10.1016/0304-4149(78)90001-7},
+     fjournal      = {Stochastic Processes and their Applications},
+     issn          = {0304-4149,1879-209X},
+     journal       = {Stochastic Process. Appl.},
+     mrclass       = {60F15 (60G17 60J65)},
+     mrnumber      = {520824},
+     mrreviewer    = {S.\ J.\ Taylor},
+     number        = {2},
+     pages         = {119--129},
+     title         = {How small are the increments of a {W}iener process?},
+     url           = {https://doi.org/10.1016/0304-4149(78)90001-7},
+     volume        = {8},
+     year          = {1978}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/0304-4149(78)90001-7>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

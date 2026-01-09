@@ -9,22 +9,21 @@ berman:85:asymptotic*1
 
    @article{berman:85:asymptotic*1,
      author        = {Berman, Simeon M.},
-     doi           = {10.2307/3213789},
-     fjournal      = {Journal of Applied Probability},
-     issn          = {0021-9002},
-     journal       = {J. Appl. Probab.},
-     mrclass       = {60G15},
-     mrnumber      = {789369},
-     mrreviewer    = {P. Laurie Davies},
-     number        = {2},
-     pages         = {454--460},
-     title         = {An asymptotic formula for the distribution of the maximum of a {G}aussian process with stationary increments},
-     url           = {https://doi.org/10.2307/3213789},
-     volume        = {22},
+     fjournal      = {Annales de l'Institut Henri Poincar\'{e}. Probabilit\'{e}s et Statistique},
+     issn          = {0246-0203},
+     journal       = {Ann. Inst. H. Poincar\'{e} Probab. Statist.},
+     mrclass       = {60G15 (60G17)},
+     mrnumber      = {791269},
+     mrreviewer    = {T. Hida},
+     number        = {1},
+     pages         = {47--57},
+     title         = {An asymptotic bound for the tail of the distribution of the maximum of a {G}aussian process},
+     url           = {http://www.numdam.org/item?id=AIHPB\_1985\_\_21\_1\_47\_0},
+     volume        = {21},
      year          = {1985}
    }
 
-`The URL link to the source <https://doi.org/10.2307/3213789>`__
+`The URL link to the source <http://www.numdam.org/item?id=AIHPB_1985__21_1_47_0>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
