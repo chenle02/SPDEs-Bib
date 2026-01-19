@@ -1,14 +1,11 @@
 name: deploy
 
 on:
-  # Trigger the workflow on push to main branch
   push:
     branches:
       - main
-  # Allow manual trigger
   workflow_dispatch:
 
-# This job installs dependencies, builds the docs, and pushes to `gh-pages`
 jobs:
   build-and-deploy-book:
     runs-on: ubuntu-latest
@@ -17,23 +14,25 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    # Install dependencies
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.12'
-        
+
     - name: Install dependencies
       run: |
         pip install -r Build_docs/requirements.txt
-        
-    # Build the book
-    - name: Build the book
-      run: |
-        cd Build_docs && make html
+        pip install bibtexparser
 
-    # Deploy the book's HTML to gh-pages branch
-    - name: GitHub Pages action
+    - name: Regenerate RST files from All.bib
+      run: |
+        cd Build_docs && python3 Bibtexparser-all.py --fast
+
+    - name: Build HTML (suppress warnings)
+      run: |
+        cd Build_docs && sphinx-build -b html -q . _build/html
+
+    - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
