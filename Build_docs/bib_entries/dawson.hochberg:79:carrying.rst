@@ -23,7 +23,7 @@ dawson.hochberg:79:carrying
      year          = {1979}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(197908)7:4<693:TCDOAS>2.0.CO;2-E&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(197908)7:4%3C693:TCDOAS%3E2.0.CO;2-E&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ xin:98:blowup
      year          = {1998}
    }
 
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199803)51:3<229::AID-CPA1>3.3.CO;2-K>`__
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199803)51:3%3C229::AID-CPA1%3E3.3.CO;2-K>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

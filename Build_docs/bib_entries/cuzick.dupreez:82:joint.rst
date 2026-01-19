@@ -23,7 +23,7 @@ cuzick.dupreez:82:joint
      year          = {1982}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198208)10:3<810:JCOGLT>2.0.CO;2-O&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198208)10:3%3C810:JCOGLT%3E2.0.CO;2-O&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

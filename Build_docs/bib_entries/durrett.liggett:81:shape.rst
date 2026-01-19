@@ -23,7 +23,7 @@ durrett.liggett:81:shape
      year          = {1981}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198104)9:2<186:TSOTLS>2.0.CO;2-H&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198104)9:2%3C186:TSOTLS%3E2.0.CO;2-H&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

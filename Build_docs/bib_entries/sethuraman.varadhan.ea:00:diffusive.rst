@@ -24,7 +24,7 @@ sethuraman.varadhan.ea:00:diffusive
      year          = {2000}
    }
 
-`The URL link to the source <https://doi.org/10.1002/1097-0312(200008)53:8<972::AID-CPA2>3.0.CO;2-#>`__
+`The URL link to the source <https://doi.org/10.1002/1097-0312(200008)53:8%3C972::AID-CPA2%3E3.0.CO;2-#>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

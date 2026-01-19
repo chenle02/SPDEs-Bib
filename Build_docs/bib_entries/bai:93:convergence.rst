@@ -23,7 +23,7 @@ bai:93:convergence
      year          = {1993}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199304)21:2<625:CROESD>2.0.CO;2-W&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199304)21:2%3C625:CROESD%3E2.0.CO;2-W&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

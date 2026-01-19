@@ -23,7 +23,7 @@ brox:86:one-dimensional
      year          = {1986}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198610)14:4<1206:AODPIA>2.0.CO;2-F&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198610)14:4%3C1206:AODPIA%3E2.0.CO;2-F&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

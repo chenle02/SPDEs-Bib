@@ -23,7 +23,7 @@ rogers.pitman:81:markov
      year          = {1981}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198108)9:4<573:MF>2.0.CO;2-G&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198108)9:4%3C573:MF%3E2.0.CO;2-G&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

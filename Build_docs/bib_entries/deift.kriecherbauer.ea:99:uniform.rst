@@ -24,7 +24,7 @@ deift.kriecherbauer.ea:99:uniform
      year          = {1999}
    }
 
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199911)52:11<1335::AID-CPA1>3.0.CO;2-1>`__
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199911)52:11%3C1335::AID-CPA1%3E3.0.CO;2-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

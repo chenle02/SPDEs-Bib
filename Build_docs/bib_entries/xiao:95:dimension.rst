@@ -23,7 +23,7 @@ xiao:95:dimension
      year          = {1995}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199501)23:1<273:DRFGVF>2.0.CO;2-I&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199501)23:1%3C273:DRFGVF%3E2.0.CO;2-I&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

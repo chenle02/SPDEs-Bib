@@ -23,7 +23,7 @@ oelschlager:88:homogenization
      year          = {1988}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198807)16:3<1084:HOADPI>2.0.CO;2-O&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198807)16:3%3C1084:HOADPI%3E2.0.CO;2-O&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ talagrand:95:hausdorff
      year          = {1995}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199504)23:2<767:HMOTOM>2.0.CO;2-P&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199504)23:2%3C767:HMOTOM%3E2.0.CO;2-P&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

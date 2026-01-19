@@ -23,7 +23,7 @@ merzbach.nualart:90:markov
      year          = {1990}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199001)18:1<342:MPFPPO>2.0.CO;2-Q&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199001)18:1%3C342:MPFPPO%3E2.0.CO;2-Q&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ greven.hollander:94:large
      year          = {1994}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199407)22:3<1381:LDFARW>2.0.CO;2-P&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199407)22:3%3C1381:LDFARW%3E2.0.CO;2-P&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

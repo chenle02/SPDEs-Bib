@@ -22,7 +22,7 @@ pitt:82:positively
      year          = {1982}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198205)10:2<496:PCNVAA>2.0.CO;2-Q&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198205)10:2%3C496:PCNVAA%3E2.0.CO;2-Q&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

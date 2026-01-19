@@ -23,7 +23,7 @@ csorgo:81:limit
      year          = {1981}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198102)9:1<130:LBOTEC>2.0.CO;2-7&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198102)9:1%3C130:LBOTEC%3E2.0.CO;2-7&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

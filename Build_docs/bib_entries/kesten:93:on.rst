@@ -23,7 +23,7 @@ kesten:93:on
      year          = {1993}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=1050-5164(199305)3:2<296:OTSOCI>2.0.CO;2-U&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=1050-5164(199305)3:2%3C296:OTSOCI%3E2.0.CO;2-U&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

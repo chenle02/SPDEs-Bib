@@ -23,7 +23,7 @@ seppalainen:94:large
      year          = {1994}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199404)22:2<713:LDFMCW>2.0.CO;2-9&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199404)22:2%3C713:LDFMCW%3E2.0.CO;2-9&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -8,19 +8,17 @@ corwin:16:kardar-parisi-zhang*1
 .. code-block:: bibtex
 
    @article{corwin:16:kardar-parisi-zhang*1,
-     author        = {Corwin, I.},
-     doi           = {10.1090/noti1334},
-     fjournal      = {Notices of the American Mathematical Society},
-     issn          = {0002-9920},
-     journal       = {Notices Amer. Math. Soc.},
+     author        = {Corwin, Ivan},
+     doi           = {10.4171/news/101/6},
+     fjournal      = {European Mathematical Society. Newsletter},
+     issn          = {1027-488X},
+     journal       = {Eur. Math. Soc. Newsl.},
      mrclass       = {82B23 (35K59 35R60 60H15 60K35)},
-     mrnumber      = {3445162},
-     mrreviewer    = {Flora Koukiou},
-     number        = {3},
-     pages         = {230--239},
-     title         = {Kardar-{P}arisi-{Z}hang universality},
-     url           = {https://doi.org/10.1090/noti1334},
-     volume        = {63},
+     mrnumber      = {3526310},
+     number        = {101},
+     pages         = {19--27},
+     title         = {Kardar-{P}arisi-{Z}hang universality [reprint of {MR}3445162]},
+     url           = {https://doi.org/10.4171/news/101/6},
      year          = {2016}
    }
 

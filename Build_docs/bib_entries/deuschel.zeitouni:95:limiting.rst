@@ -23,7 +23,7 @@ deuschel.zeitouni:95:limiting
      year          = {1995}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199504)23:2<852:LCFIR>2.0.CO;2-U&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199504)23:2%3C852:LCFIR%3E2.0.CO;2-U&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

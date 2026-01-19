@@ -23,7 +23,7 @@ talagrand:94:small
      year          = {1994}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199407)22:3<1331:TSBPFT>2.0.CO;2-4&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199407)22:3%3C1331:TSBPFT%3E2.0.CO;2-4&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

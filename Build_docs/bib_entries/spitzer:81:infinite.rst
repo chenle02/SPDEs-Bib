@@ -23,7 +23,7 @@ spitzer:81:infinite
      year          = {1981}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198106)9:3<349:ISWLIC>2.0.CO;2-P&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198106)9:3%3C349:ISWLIC%3E2.0.CO;2-P&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

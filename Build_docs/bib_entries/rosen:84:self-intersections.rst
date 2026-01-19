@@ -23,7 +23,7 @@ rosen:84:self-intersections
      year          = {1984}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198402)12:1<108:SORF>2.0.CO;2-R&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198402)12:1%3C108:SORF%3E2.0.CO;2-R&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ carlen.kree:91:lp
      year          = {1991}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199101)19:1<354:EOISI>2.0.CO;2-C&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199101)19:1%3C354:EOISI%3E2.0.CO;2-C&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

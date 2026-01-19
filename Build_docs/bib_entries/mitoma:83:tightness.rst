@@ -23,7 +23,7 @@ mitoma:83:tightness
      year          = {1983}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198311)11:4<989:TOPOA>2.0.CO;2-P&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198311)11:4%3C989:TOPOA%3E2.0.CO;2-P&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

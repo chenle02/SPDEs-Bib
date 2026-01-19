@@ -24,7 +24,7 @@ cambronero.mckean:99:ground
      year          = {1999}
    }
 
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199910)52:10<1277::AID-CPA5>3.0.CO;2-L>`__
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199910)52:10%3C1277::AID-CPA5%3E3.0.CO;2-L>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -23,7 +23,7 @@ millet.nualart.ea:92:large
      year          = {1992}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199210)20:4<1902:LDFACO>2.0.CO;2-G&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199210)20:4%3C1902:LDFACO%3E2.0.CO;2-G&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

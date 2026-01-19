@@ -22,7 +22,7 @@ carmona.nualart:88:random
      year          = {1988}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198804)16:2<730:RNWEPO>2.0.CO;2-D&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198804)16:2%3C730:RNWEPO%3E2.0.CO;2-D&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

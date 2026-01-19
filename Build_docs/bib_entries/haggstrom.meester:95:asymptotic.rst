@@ -23,7 +23,7 @@ haggstrom.meester:95:asymptotic
      year          = {1995}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199510)23:4<1511:ASFSFP>2.0.CO;2-N&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199510)23:4%3C1511:ASFSFP%3E2.0.CO;2-N&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

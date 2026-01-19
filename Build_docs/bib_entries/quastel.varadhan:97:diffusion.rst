@@ -24,7 +24,7 @@ quastel.varadhan:97:diffusion
      year          = {1997}
    }
 
-`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199707)50:7<667::AID-CPA3>3.3.CO;2-T>`__
+`The URL link to the source <https://doi.org/10.1002/(SICI)1097-0312(199707)50:7%3C667::AID-CPA3%3E3.3.CO;2-T>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

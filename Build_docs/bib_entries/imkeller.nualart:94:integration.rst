@@ -23,7 +23,7 @@ imkeller.nualart:94:integration
      year          = {1994}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199401)22:1<469:IBPOWS>2.0.CO;2-N&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199401)22:1%3C469:IBPOWS%3E2.0.CO;2-N&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

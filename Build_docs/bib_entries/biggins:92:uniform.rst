@@ -23,7 +23,7 @@ biggins:92:uniform
      year          = {1992}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199201)20:1<137:UCOMIT>2.0.CO;2-B&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199201)20:1%3C137:UCOMIT%3E2.0.CO;2-B&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

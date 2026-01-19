@@ -23,7 +23,7 @@ nolan.pollard:88:functional
      year          = {1988}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198807)16:3<1291:FLTF>2.0.CO;2-D&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198807)16:3%3C1291:FLTF%3E2.0.CO;2-D&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

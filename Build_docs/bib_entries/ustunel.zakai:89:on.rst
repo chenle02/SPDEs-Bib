@@ -23,7 +23,7 @@ ustunel.zakai:89:on
      year          = {1989}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198910)17:4<1441:OIACOW>2.0.CO;2-5&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198910)17:4%3C1441:OIACOW%3E2.0.CO;2-5&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

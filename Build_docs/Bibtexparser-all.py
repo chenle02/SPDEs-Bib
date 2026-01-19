@@ -93,6 +93,8 @@ with open(parent_rst_name, "w") as parent_rst:
             url = entry.get("url")
             if url:
                 url = url.strip().strip("{} ,")
+                # URL-encode < and > characters to prevent RST hyperlink parsing issues
+                url = url.replace("<", "%3C").replace(">", "%3E")
                 file.write(f"\n`The URL link to the source <{url}>`__\n\n")
 
             file.write(f"\n`Back to index <../{parent_rst_html}>`__\n")

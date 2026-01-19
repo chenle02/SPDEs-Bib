@@ -23,7 +23,7 @@ nualart.pardoux:91:boundary
      year          = {1991}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199107)19:3<1118:BVPFSD>2.0.CO;2-B&origin=MSN>`__
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199107)19:3%3C1118:BVPFSD%3E2.0.CO;2-B&origin=MSN>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
