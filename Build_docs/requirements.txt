@@ -1,4 +1,4 @@
-sphinx>=7.2.6
+sphinx>=7.2.6,<9
 sphinxcontrib-bibtex
 sphinx_press_theme
 # myst_parser
