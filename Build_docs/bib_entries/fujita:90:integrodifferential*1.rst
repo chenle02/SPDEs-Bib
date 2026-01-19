@@ -23,7 +23,7 @@ fujita:90:integrodifferential*1
      year          = {1990}
    }
 
-`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200782677>`__
+`The URL link to the source <http://projecteuclid.org/euclid.ojm/1200782311>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

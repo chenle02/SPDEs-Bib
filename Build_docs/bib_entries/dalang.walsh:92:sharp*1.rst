@@ -23,7 +23,7 @@ dalang.walsh:92:sharp*1
      year          = {1992}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199204)20:2<591:TSMPOL>2.0.CO;2-N&origin=MSN>`__
+`The URL link to the source <https://doi.org/10.1007/BF02392978>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
