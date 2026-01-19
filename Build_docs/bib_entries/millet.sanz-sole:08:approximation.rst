@@ -18,7 +18,7 @@ millet.sanz-sole:08:approximation
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Progr. Probab.},
      title         = {Approximation of rough paths of fractional {B}rownian motion},
-     url           = {https://doi.org/10.1007/978-3-7643-8458-6\_16},
+     url           = {https://doi.org/10.1007/978-3-7643-8458-6_16},
      volume        = {59},
      year          = {2008}
    }

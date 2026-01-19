@@ -17,7 +17,7 @@ bornales.oliveira.ea:13:self-repelling
      publisher     = {World Sci. Publ., Hackensack, NJ},
      series        = {QP--PQ: Quantum Probab. White Noise Anal.},
      title         = {Self-repelling fractional {B}rownian motion---a generalized {E}dwards model for chain polymers},
-     url           = {https://doi.org/10.1142/9789814460026\_0033},
+     url           = {https://doi.org/10.1142/9789814460026_0033},
      volume        = {30},
      year          = {2013}
    }

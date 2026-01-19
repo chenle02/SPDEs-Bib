@@ -18,7 +18,7 @@ bourgain.chang:06:exponential
      mrreviewer    = {Sergeu{i}\ V.\ Konyagin},
      number        = {2},
      pages         = {327--366},
-     title         = {Exponential sum estimates over subgroups and almost subgroups of {$\Bbb Z_Q^*$}, where {\$Q\$} is composite with few prime factors},
+     title         = {Exponential sum estimates over subgroups and almost subgroups of {$\Bbb Z_Q^*$}, where {$Q$} is composite with few prime factors},
      url           = {https://doi.org/10.1007/s00039-006-0558-7},
      volume        = {16},
      year          = {2006}

@@ -16,7 +16,7 @@ sasorov.meerson.ea:17:large
      mrnumber      = {3673439},
      number        = {6},
      pages         = {063203, 13},
-     title         = {Large deviations of surface height in the {$1+1$}-dimensional {K}ardar-{P}arisi-{Z}hang equation: exact long-time results for {\$\lambda H<0\$}},
+     title         = {Large deviations of surface height in the {$1+1$}-dimensional {K}ardar-{P}arisi-{Z}hang equation: exact long-time results for {$\lambda H<0$}},
      url           = {https://doi.org/10.1088/1742-5468/aa73f8},
      year          = {2017}
    }

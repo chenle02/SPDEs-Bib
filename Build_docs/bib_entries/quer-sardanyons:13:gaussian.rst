@@ -17,7 +17,7 @@ quer-sardanyons:13:gaussian
      publisher     = {Springer, New York},
      series        = {Springer Proc. Math. Stat.},
      title         = {Gaussian upper density estimates for spatially homogeneous {SPDE}s},
-     url           = {https://doi.org/10.1007/978-1-4614-5906-4\_13},
+     url           = {https://doi.org/10.1007/978-1-4614-5906-4_13},
      volume        = {34},
      year          = {2013}
    }

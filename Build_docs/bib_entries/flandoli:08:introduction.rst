@@ -18,7 +18,7 @@ flandoli:08:introduction
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {An introduction to 3{D} stochastic fluid dynamics},
-     url           = {https://doi.org/10.1007/978-3-540-78493-7\_2},
+     url           = {https://doi.org/10.1007/978-3-540-78493-7_2},
      volume        = {1942},
      year          = {2008}
    }

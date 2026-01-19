@@ -18,7 +18,7 @@ joseph.rassoul-agha.ea:19:independent
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},
      title         = {Independent particles in a dynamical random environment},
-     url           = {https://doi.org/10.1007/978-3-030-15338-0\_4},
+     url           = {https://doi.org/10.1007/978-3-030-15338-0_4},
      volume        = {283},
      year          = {2019}
    }

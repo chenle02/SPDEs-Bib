@@ -16,7 +16,7 @@ chen:97:limit
      pages         = {200},
      publisher     = {ProQuest LLC, Ann Arbor, MI},
      title         = {Limit theorems for functionals of ergodic {M}arkov chains with general state space},
-     url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqdiss\&rft\_dat=xri:pqdiss:9813015},
+     url           = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:9813015},
      year          = {1997}
    }
 

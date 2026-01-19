@@ -17,7 +17,7 @@ nourdin.zheng:19:exchangeable
      publisher     = {Birkh\"{a}user/Springer, Cham},
      series        = {Progr. Probab.},
      title         = {Exchangeable pairs on {W}iener chaos},
-     url           = {https://doi.org/10.1007/978-3-030-26391-1\_14},
+     url           = {https://doi.org/10.1007/978-3-030-26391-1_14},
      volume        = {74},
      year          = {[2019] \copyright 2019}
    }

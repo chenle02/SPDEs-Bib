@@ -14,7 +14,7 @@ chen:23:open
      month         = {nov},
      publisher     = {GitHub \& Zenodo},
      title         = {Open slides for linear algebra},
-     url           = {https://github.com/chenle02/Open\_Slides\_for\_Linear\_Algebra},
+     url           = {https://github.com/chenle02/Open_Slides_for_Linear_Algebra},
      year          = {2023}
    }
 

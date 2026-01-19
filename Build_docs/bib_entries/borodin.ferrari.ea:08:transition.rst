@@ -18,7 +18,7 @@ borodin.ferrari.ea:08:transition
      mrreviewer    = {Ofer Zeitouni},
      number        = {11},
      pages         = {1603--1629},
-     title         = {Transition between {${\rm Airy}_1$} and {\${\rm Airy}\_2\$} processes and {TASEP} fluctuations},
+     title         = {Transition between {${\rm Airy}_1$} and {${\rm Airy}_2$} processes and {TASEP} fluctuations},
      url           = {https://doi.org/10.1002/cpa.20234},
      volume        = {61},
      year          = {2008}

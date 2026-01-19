@@ -18,7 +18,7 @@ nolan.pollard:88:functional
      number        = {3},
      pages         = {1291--1298},
      title         = {Functional limit theorems for {$U$}-processes},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198807)16:3<1291:FLTF>2.0.CO;2-D\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198807)16:3<1291:FLTF>2.0.CO;2-D&origin=MSN},
      volume        = {16},
      year          = {1988}
    }

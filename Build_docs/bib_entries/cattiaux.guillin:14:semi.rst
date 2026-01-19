@@ -18,7 +18,7 @@ cattiaux.guillin:14:semi
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},
      title         = {Semi log-concave {M}arkov diffusions},
-     url           = {https://doi.org/10.1007/978-3-319-11970-0\_9},
+     url           = {https://doi.org/10.1007/978-3-319-11970-0_9},
      volume        = {2123},
      year          = {2014}
    }

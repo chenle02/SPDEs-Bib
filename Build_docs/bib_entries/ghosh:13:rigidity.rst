@@ -16,7 +16,7 @@ ghosh:13:rigidity
      pages         = {134},
      publisher     = {ProQuest LLC, Ann Arbor, MI},
      title         = {Rigidity {P}henomena in random point sets},
-     url           = {http://gateway.proquest.com/openurl?url\_ver=Z39.88-2004\&rft\_val\_fmt=info:ofi/fmt:kev:mtx:dissertation\&res\_dat=xri:pqm\&rft\_dat=xri:pqdiss:3593834},
+     url           = {http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:3593834},
      year          = {2013}
    }
 

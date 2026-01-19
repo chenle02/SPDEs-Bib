@@ -18,7 +18,7 @@ xiao:09:sample
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {Sample path properties of anisotropic {G}aussian random fields},
-     url           = {https://doi.org/10.1007/978-3-540-85994-9\_5},
+     url           = {https://doi.org/10.1007/978-3-540-85994-9_5},
      volume        = {1962},
      year          = {2009}
    }

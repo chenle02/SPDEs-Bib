@@ -18,7 +18,7 @@ nourdin.peccati:10:steins
      publisher     = {World Sci. Publ., Hackensack, NJ},
      series        = {Interdiscip. Math. Sci.},
      title         = {Stein's method meets {M}alliavin calculus: a short survey with new estimates},
-     url           = {https://doi.org/10.1142/9789814277266\_0014},
+     url           = {https://doi.org/10.1142/9789814277266_0014},
      volume        = {8},
      year          = {2010}
    }

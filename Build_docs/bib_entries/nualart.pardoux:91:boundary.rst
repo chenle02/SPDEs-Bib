@@ -18,7 +18,7 @@ nualart.pardoux:91:boundary
      number        = {3},
      pages         = {1118--1144},
      title         = {Boundary value problems for stochastic differential equations},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199107)19:3<1118:BVPFSD>2.0.CO;2-B\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199107)19:3<1118:BVPFSD>2.0.CO;2-B&origin=MSN},
      volume        = {19},
      year          = {1991}
    }

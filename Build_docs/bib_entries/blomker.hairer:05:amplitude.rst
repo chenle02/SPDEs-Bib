@@ -17,7 +17,7 @@ blomker.hairer:05:amplitude
      publisher     = {Springer, New York},
      series        = {IMA Vol. Math. Appl.},
      title         = {Amplitude equations for {SPDE}s: approximate centre manifolds and invariant measures},
-     url           = {https://doi.org/10.1007/978-0-387-29371-4\_4},
+     url           = {https://doi.org/10.1007/978-0-387-29371-4_4},
      volume        = {140},
      year          = {2005}
    }

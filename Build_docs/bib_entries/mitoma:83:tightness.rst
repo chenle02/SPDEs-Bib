@@ -17,8 +17,8 @@ mitoma:83:tightness
      mrreviewer    = {Peter Z. Daffer},
      number        = {4},
      pages         = {989--999},
-     title         = {Tightness of probabilities on {$C([0,1];{\cal S}^{\prime} )$} and {\$D([0,1];{\cal S}^{\prime} )\$}},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198311)11:4<989:TOPOA>2.0.CO;2-P\&origin=MSN},
+     title         = {Tightness of probabilities on {$C([0,1];{\cal S}^{\prime} )$} and {$D([0,1];{\cal S}^{\prime} )$}},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198311)11:4<989:TOPOA>2.0.CO;2-P&origin=MSN},
      volume        = {11},
      year          = {1983}
    }

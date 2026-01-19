@@ -18,7 +18,7 @@ mckean.vaninsky:94:statistical
      publisher     = {Springer, New York},
      series        = {Appl. Math. Sci.},
      title         = {Statistical mechanics of nonlinear wave equations},
-     url           = {https://doi.org/10.1007/978-1-4612-0859-4\_8},
+     url           = {https://doi.org/10.1007/978-1-4612-0859-4_8},
      volume        = {100},
      year          = {1994}
    }

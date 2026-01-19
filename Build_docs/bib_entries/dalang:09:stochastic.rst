@@ -18,7 +18,7 @@ dalang:09:stochastic
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {The stochastic wave equation},
-     url           = {https://doi.org/10.1007/978-3-540-85994-9\_2},
+     url           = {https://doi.org/10.1007/978-3-540-85994-9_2},
      volume        = {1962},
      year          = {2009}
    }

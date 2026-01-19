@@ -18,7 +18,7 @@ durrett.liggett:81:shape
      number        = {2},
      pages         = {186--193},
      title         = {The shape of the limit set in {R}ichardson's growth model},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198104)9:2<186:TSOTLS>2.0.CO;2-H\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198104)9:2<186:TSOTLS>2.0.CO;2-H&origin=MSN},
      volume        = {9},
      year          = {1981}
    }

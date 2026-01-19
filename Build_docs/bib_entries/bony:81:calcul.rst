@@ -18,7 +18,7 @@ bony:81:calcul
      number        = {2},
      pages         = {209--246},
      title         = {Calcul symbolique et propagation des singularit\'{e}s pour les \'{e}quations aux d\'{e}riv\'{e}es partielles non lin\'{e}aires},
-     url           = {http://www.numdam.org/item?id=ASENS\_1981\_4\_14\_2\_209\_0},
+     url           = {http://www.numdam.org/item?id=ASENS_1981_4_14_2_209_0},
      volume        = {14},
      year          = {1981}
    }

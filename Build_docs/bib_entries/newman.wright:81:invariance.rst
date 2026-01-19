@@ -18,7 +18,7 @@ newman.wright:81:invariance
      number        = {4},
      pages         = {671--675},
      title         = {An invariance principle for certain dependent sequences},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198108)9:4<671:AIPFCD>2.0.CO;2-A\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198108)9:4<671:AIPFCD>2.0.CO;2-A&origin=MSN},
      volume        = {9},
      year          = {1981}
    }

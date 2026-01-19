@@ -18,7 +18,7 @@ harnett.nualart:17:decomposition
      publisher     = {Birkh\"{a}user/Springer, Cham},
      series        = {Progr. Probab.},
      title         = {Decomposition and limit theorems for a class of self-similar {G}aussian processes},
-     url           = {https://doi.org/10.1007/978-3-319-59671-6\_5},
+     url           = {https://doi.org/10.1007/978-3-319-59671-6_5},
      volume        = {72},
      year          = {2017}
    }

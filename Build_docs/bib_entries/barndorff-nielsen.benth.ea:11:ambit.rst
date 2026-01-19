@@ -17,7 +17,7 @@ barndorff-nielsen.benth.ea:11:ambit
      pages         = {35--74},
      publisher     = {Springer, Heidelberg},
      title         = {Ambit processes and stochastic partial differential equations},
-     url           = {https://doi.org/10.1007/978-3-642-18412-3\_2},
+     url           = {https://doi.org/10.1007/978-3-642-18412-3_2},
      year          = {2011}
    }
 

@@ -614,6 +614,7 @@ B
 - :cite:t:`basse-oconnor.graversen.ea:12:multiparameter` : `basse-oconnor.graversen.ea:12:multiparameter <bib_entries/basse-oconnor.graversen.ea:12:multiparameter.html>`_
 - :cite:t:`basse-oconnor.graversen.ea:14:stochastic` : `basse-oconnor.graversen.ea:14:stochastic <bib_entries/basse-oconnor.graversen.ea:14:stochastic.html>`_
 - :cite:t:`bassler.forrester.ea:10:edge` : `bassler.forrester.ea:10:edge <bib_entries/bassler.forrester.ea:10:edge.html>`_
+- :cite:t:`basu.busani.ea:23:on` : `basu.busani.ea:23:on <bib_entries/basu.busani.ea:23:on.html>`_
 - :cite:t:`basu.dembo.ea:20:exponential` : `basu.dembo.ea:20:exponential <bib_entries/basu.dembo.ea:20:exponential.html>`_
 - :cite:t:`bates.chatterjee:20:endpoint` : `bates.chatterjee:20:endpoint <bib_entries/bates.chatterjee:20:endpoint.html>`_
 - :cite:t:`bates.chatterjee:20:localization` : `bates.chatterjee:20:localization <bib_entries/bates.chatterjee:20:localization.html>`_

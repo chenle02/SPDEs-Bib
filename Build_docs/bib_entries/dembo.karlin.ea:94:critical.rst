@@ -17,7 +17,7 @@ dembo.karlin.ea:94:critical
      number        = {4},
      pages         = {1993--2021},
      title         = {Critical phenomena for sequence matching with scoring},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199410)22:4<1993:CPFSMW>2.0.CO;2-D\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199410)22:4<1993:CPFSMW>2.0.CO;2-D&origin=MSN},
      volume        = {22},
      year          = {1994}
    }

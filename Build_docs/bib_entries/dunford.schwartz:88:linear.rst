@@ -9,14 +9,14 @@ dunford.schwartz:88:linear
 
    @book{dunford.schwartz:88:linear,
      author        = {Dunford, Nelson and Schwartz, Jacob T.},
-     isbn          = {0-471-60848-3},
+     isbn          = {0-471-60847-5},
      mrclass       = {47-01 (46-01)},
-     mrnumber      = {1009162},
-     note          = {General theory, With the assistance of William G. Bade and Robert G. Bartle, Reprint of the 1958 original, A Wiley-Interscience Publication},
-     pages         = {xiv+858},
+     mrnumber      = {1009163},
+     note          = {Spectral theory. Selfadjoint operators in Hilbert space, With the assistance of William G. Bade and Robert G. Bartle, Reprint of the 1963 original, A Wiley-Interscience Publication},
+     pages         = {i--x, 859--1923 and 1--7},
      publisher     = {John Wiley \& Sons, Inc., New York},
      series        = {Wiley Classics Library},
-     title         = {Linear operators. {P}art {I}},
+     title         = {Linear operators. {P}art {II}},
      year          = {1988}
    }
 

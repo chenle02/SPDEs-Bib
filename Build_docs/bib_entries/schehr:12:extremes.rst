@@ -18,7 +18,7 @@ schehr:12:extremes
      mrreviewer    = {Flora Koukiou},
      number        = {3},
      pages         = {385--410},
-     title         = {Extremes of {$N$} vicious walkers for large {\$N\$}: application to the directed polymer and {KPZ} interfaces},
+     title         = {Extremes of {$N$} vicious walkers for large {$N$}: application to the directed polymer and {KPZ} interfaces},
      url           = {https://doi.org/10.1007/s10955-012-0593-8},
      volume        = {149},
      year          = {2012}

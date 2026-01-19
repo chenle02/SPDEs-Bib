@@ -16,7 +16,7 @@ ortiz-lopez.sanz-sole:11:laplace
      pages         = {31--49},
      publisher     = {Springer, Heidelberg},
      title         = {A {L}aplace principle for a stochastic wave equation in spatial dimension three},
-     url           = {https://doi.org/10.1007/978-3-642-15358-7\_3},
+     url           = {https://doi.org/10.1007/978-3-642-15358-7_3},
      year          = {2011}
    }
 

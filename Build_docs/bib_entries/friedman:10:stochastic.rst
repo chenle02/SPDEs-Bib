@@ -17,7 +17,7 @@ friedman:10:stochastic
      publisher     = {Springer, Heidelberg},
      series        = {C.I.M.E. Summer Sch.},
      title         = {Stochastic differential equations and applications},
-     url           = {https://doi.org/10.1007/978-3-642-11079-5\_2},
+     url           = {https://doi.org/10.1007/978-3-642-11079-5_2},
      volume        = {77},
      year          = {2010}
    }

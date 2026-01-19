@@ -18,7 +18,7 @@ gubinelli.perkowski:18:introduction
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},
      title         = {An introduction to singular {SPDE}s},
-     url           = {https://doi.org/10.1007/978-3-319-74929-7\_4},
+     url           = {https://doi.org/10.1007/978-3-319-74929-7_4},
      volume        = {229},
      year          = {2018}
    }

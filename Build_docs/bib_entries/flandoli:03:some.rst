@@ -18,7 +18,7 @@ flandoli:03:some
      pages         = {144--160},
      publisher     = {World Sci. Publ., River Edge, NJ},
      title         = {Some remarks on a statistical theory of turbulent flows},
-     url           = {https://doi.org/10.1142/9789812703989\_0010},
+     url           = {https://doi.org/10.1142/9789812703989_0010},
      year          = {2003}
    }
 

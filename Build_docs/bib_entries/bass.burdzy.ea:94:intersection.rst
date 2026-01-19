@@ -18,7 +18,7 @@ bass.burdzy.ea:94:intersection
      number        = {2},
      pages         = {566--625},
      title         = {Intersection local time for points of infinite multiplicity},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199404)22:2<566:ILTFPO>2.0.CO;2-R\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199404)22:2<566:ILTFPO>2.0.CO;2-R&origin=MSN},
      volume        = {22},
      year          = {1994}
    }

@@ -18,7 +18,7 @@ lepingle.nualart.ea:89:derivation
      number        = {3},
      pages         = {283--305},
      title         = {D\'{e}rivation stochastique de diffusions r\'{e}fl\'{e}chies},
-     url           = {http://www.numdam.org/item?id=AIHPB\_1989\_\_25\_3\_283\_0},
+     url           = {http://www.numdam.org/item?id=AIHPB_1989__25_3_283_0},
      volume        = {25},
      year          = {1989}
    }

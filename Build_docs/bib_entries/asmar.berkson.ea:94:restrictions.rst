@@ -18,7 +18,7 @@ asmar.berkson.ea:94:restrictions
      mrreviewer    = {Javier\ Duoandikoetxea},
      number        = {3},
      pages         = {291--299},
-     title         = {Restrictions from {$\bold R^n$} to {\$\bold Z^n\$} of weak type {\$(1,1)\$} multipliers},
+     title         = {Restrictions from {$\bold R^n$} to {$\bold Z^n$} of weak type {$(1,1)$} multipliers},
      url           = {https://doi.org/10.4064/sm-108-3-291-299},
      volume        = {108},
      year          = {1994}

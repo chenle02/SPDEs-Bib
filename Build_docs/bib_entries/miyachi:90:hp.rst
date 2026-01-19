@@ -18,7 +18,7 @@ miyachi:90:hp
      mrreviewer    = {M. Cotlar},
      number        = {3},
      pages         = {205--228},
-     title         = {{$H^p$} spaces over open subsets of {\${\bf R}^n\$}},
+     title         = {{$H^p$} spaces over open subsets of {${\bf R}^n$}},
      url           = {https://doi.org/10.4064/sm-95-3-205-228},
      volume        = {95},
      year          = {1990}

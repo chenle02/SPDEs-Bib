@@ -19,7 +19,7 @@ bourgain:13:around
      publisher     = {J\'{a}nos Bolyai Math. Soc., Budapest},
      series        = {Bolyai Soc. Math. Stud.},
      title         = {Around the sum-product phenomenon},
-     url           = {https://doi.org/10.1007/978-3-642-39286-3\_4},
+     url           = {https://doi.org/10.1007/978-3-642-39286-3_4},
      volume        = {25},
      year          = {2013}
    }

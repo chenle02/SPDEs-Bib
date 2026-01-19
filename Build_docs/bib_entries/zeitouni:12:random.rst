@@ -17,7 +17,7 @@ zeitouni:12:random
      pages         = {2564--2577},
      publisher     = {Springer, New York},
      title         = {Random walks in random environment},
-     url           = {https://doi.org/10.1007/978-1-4614-1800-9\_157},
+     url           = {https://doi.org/10.1007/978-1-4614-1800-9_157},
      year          = {2012}
    }
 

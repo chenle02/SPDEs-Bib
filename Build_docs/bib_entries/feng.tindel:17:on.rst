@@ -17,7 +17,7 @@ feng.tindel:17:on
      publisher     = {Birkh\"{a}user/Springer, Cham},
      series        = {Progr. Probab.},
      title         = {On a priori estimates for rough {PDE}s},
-     url           = {https://doi.org/10.1007/978-3-319-59671-6\_6},
+     url           = {https://doi.org/10.1007/978-3-319-59671-6_6},
      volume        = {72},
      year          = {2017}
    }

@@ -18,7 +18,7 @@ merzbach.nualart:90:markov
      number        = {1},
      pages         = {342--358},
      title         = {Markov properties for point processes on the plane},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199001)18:1<342:MPFPPO>2.0.CO;2-Q\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199001)18:1<342:MPFPPO>2.0.CO;2-Q&origin=MSN},
      volume        = {18},
      year          = {1990}
    }

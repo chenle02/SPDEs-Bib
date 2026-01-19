@@ -19,7 +19,7 @@ bourgain.klartag.ea:04:symmetrization
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {Symmetrization and isotropic constants of convex bodies},
-     url           = {https://doi.org/10.1007/978-3-540-44489-3\_10},
+     url           = {https://doi.org/10.1007/978-3-540-44489-3_10},
      volume        = {1850},
      year          = {2004}
    }

@@ -18,7 +18,7 @@ bass.khoshnevisan:95:laws
      number        = {1},
      pages         = {388--399},
      title         = {Laws of the iterated logarithm for local times of the empirical process},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199501)23:1<388:LOTILF>2.0.CO;2-0\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199501)23:1<388:LOTILF>2.0.CO;2-0&origin=MSN},
      volume        = {23},
      year          = {1995}
    }

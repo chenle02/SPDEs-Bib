@@ -18,7 +18,7 @@ collet:94:nonlinear
      publisher     = {Kluwer Acad. Publ., Dordrecht},
      series        = {NATO Adv. Sci. Inst. Ser. C: Math. Phys. Sci.},
      title         = {Nonlinear parabolic evolutions in unbounded domains},
-     url           = {https://doi.org/10.1007/978-94-011-0956-7\_8},
+     url           = {https://doi.org/10.1007/978-94-011-0956-7_8},
      volume        = {437},
      year          = {1994}
    }

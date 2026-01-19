@@ -17,7 +17,7 @@ bessaih.flandoli:03:mean
      pages         = {22--34},
      publisher     = {World Sci. Publ., River Edge, NJ},
      title         = {A mean field result for 3{D} vortex filaments},
-     url           = {https://doi.org/10.1142/9789812703989\_0002},
+     url           = {https://doi.org/10.1142/9789812703989_0002},
      year          = {2003}
    }
 

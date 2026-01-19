@@ -19,7 +19,7 @@ hu:96:on
      number        = {2},
      pages         = {337--350},
      title         = {On the self-intersection local time of {B}rownian motion-via chaos expansion},
-     url           = {https://doi.org/10.5565/PUBLMAT\_40296\_06},
+     url           = {https://doi.org/10.5565/PUBLMAT_40296_06},
      volume        = {40},
      year          = {1996}
    }

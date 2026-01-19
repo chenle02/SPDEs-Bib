@@ -18,7 +18,7 @@ carlen.kree:91:lp
      number        = {1},
      pages         = {354--368},
      title         = {{$L^p$} estimates on iterated stochastic integrals},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199101)19:1<354:EOISI>2.0.CO;2-C\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199101)19:1<354:EOISI>2.0.CO;2-C&origin=MSN},
      volume        = {19},
      year          = {1991}
    }

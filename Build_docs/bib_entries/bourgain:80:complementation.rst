@@ -15,7 +15,7 @@ bourgain:80:complementation
      mrreviewer    = {A.\ V.\ Bukhvalov},
      pages         = {Exp. No. 27, 7},
      publisher     = {\'{E}cole Polytech., Palaiseau},
-     title         = {Compl\'{e}mentation de sous-espaces {$L\sp{1}$} dans les espaces {\$L\sp{1}\$}},
+     title         = {Compl\'{e}mentation de sous-espaces {$L\sp{1}$} dans les espaces {$L\sp{1}$}},
      year          = {1980}
    }
 

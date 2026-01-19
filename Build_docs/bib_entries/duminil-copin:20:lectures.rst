@@ -18,7 +18,7 @@ duminil-copin:20:lectures
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},
      title         = {Lectures on the {I}sing and {P}otts models on the hypercubic lattice},
-     url           = {https://doi.org/10.1007/978-3-030-32011-9\_2},
+     url           = {https://doi.org/10.1007/978-3-030-32011-9_2},
      volume        = {304},
      year          = {[2020] \copyright 2020}
    }

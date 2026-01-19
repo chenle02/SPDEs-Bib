@@ -18,7 +18,7 @@ silverstein:85:smallest
      number        = {4},
      pages         = {1364--1368},
      title         = {The smallest eigenvalue of a large-dimensional {W}ishart matrix},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198511)13:4<1364:TSEOAL>2.0.CO;2-L\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198511)13:4<1364:TSEOAL>2.0.CO;2-L&origin=MSN},
      volume        = {13},
      year          = {1985}
    }

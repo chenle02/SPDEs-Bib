@@ -19,7 +19,7 @@ bourgain.wang:97:construction
      number        = {1-2},
      pages         = {197--215},
      title         = {Construction of blowup solutions for the nonlinear {S}chr\"{o}dinger equation with critical nonlinearity},
-     url           = {http://www.numdam.org/item?id=ASNSP\_1997\_4\_25\_1-2\_197\_0},
+     url           = {http://www.numdam.org/item?id=ASNSP_1997_4_25_1-2_197_0},
      volume        = {25},
      year          = {1997}
    }

@@ -19,7 +19,7 @@ derrida.shi:17:large
      publisher     = {Springer, Cham},
      series        = {Springer Proc. Math. Stat.},
      title         = {Large deviations for the rightmost position in a branching {B}rownian motion},
-     url           = {https://doi.org/10.1007/978-3-319-65313-6\_12},
+     url           = {https://doi.org/10.1007/978-3-319-65313-6_12},
      volume        = {208},
      year          = {2017}
    }

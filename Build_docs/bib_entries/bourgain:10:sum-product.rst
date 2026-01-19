@@ -18,7 +18,7 @@ bourgain:10:sum-product
      pages         = {9--38},
      publisher     = {Springer, New York},
      title         = {Sum-product theorems and applications},
-     url           = {https://doi.org/10.1007/978-0-387-68361-4\_2},
+     url           = {https://doi.org/10.1007/978-0-387-68361-4_2},
      year          = {2010}
    }
 

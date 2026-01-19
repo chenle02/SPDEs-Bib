@@ -18,7 +18,7 @@ purwins.bodeker.ea:05:dissipative
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Phys.},
      title         = {Dissipative solitons in reaction-diffusion systems},
-     url           = {https://doi.org/10.1007/10928028\_11},
+     url           = {https://doi.org/10.1007/10928028_11},
      volume        = {661},
      year          = {2005}
    }

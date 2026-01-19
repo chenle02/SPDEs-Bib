@@ -18,7 +18,7 @@ oksendal.sulem.ea:12:optimal
      publisher     = {World Sci. Publ., Hackensack, NJ},
      series        = {Interdiscip. Math. Sci.},
      title         = {Optimal partial information control of {SPDE}s with delay and time-advanced backward {SPDE}s},
-     url           = {https://doi.org/10.1142/9789814383585\_0018},
+     url           = {https://doi.org/10.1142/9789814383585_0018},
      volume        = {13},
      year          = {2012}
    }

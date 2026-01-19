@@ -18,7 +18,7 @@ mierczynski.shen:13:spectral
      publisher     = {Springer, New York},
      series        = {Fields Inst. Commun.},
      title         = {Spectral theory for forward nonautonomous parabolic equations and applications},
-     url           = {https://doi.org/10.1007/978-1-4614-4523-4\_2},
+     url           = {https://doi.org/10.1007/978-1-4614-4523-4_2},
      volume        = {64},
      year          = {2013}
    }

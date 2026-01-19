@@ -19,7 +19,7 @@ bourgain.sarnak.ea:13:disjointness
      publisher     = {Springer, New York},
      series        = {Dev. Math.},
      title         = {Disjointness of {M}oebius from horocycle flows},
-     url           = {https://doi.org/10.1007/978-1-4614-4075-8\_5},
+     url           = {https://doi.org/10.1007/978-1-4614-4075-8_5},
      volume        = {28},
      year          = {2013}
    }

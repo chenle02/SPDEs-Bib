@@ -19,7 +19,7 @@ xiao:11:properties
      publisher     = {Birkh\"{a}user/Springer Basel AG, Basel},
      series        = {Progr. Probab.},
      title         = {Properties of strong local nondeterminism and local times of stable random fields},
-     url           = {https://doi.org/10.1007/978-3-0348-0021-1\_18},
+     url           = {https://doi.org/10.1007/978-3-0348-0021-1_18},
      volume        = {63},
      year          = {2011}
    }

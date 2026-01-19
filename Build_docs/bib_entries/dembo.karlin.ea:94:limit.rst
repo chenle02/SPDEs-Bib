@@ -17,7 +17,7 @@ dembo.karlin.ea:94:limit
      number        = {4},
      pages         = {2022--2039},
      title         = {Limit distribution of maximal non-aligned two-sequence segmental score},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199410)22:4<2022:LDOMNT>2.0.CO;2-B\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199410)22:4<2022:LDOMNT>2.0.CO;2-B&origin=MSN},
      volume        = {22},
      year          = {1994}
    }

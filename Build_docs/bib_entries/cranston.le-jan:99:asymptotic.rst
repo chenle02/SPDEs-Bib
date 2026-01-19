@@ -18,7 +18,7 @@ cranston.le-jan:99:asymptotic
      pages         = {327--338},
      publisher     = {Springer, New York},
      title         = {Asymptotic curvature for stochastic dynamical systems},
-     url           = {https://doi.org/10.1007/0-387-22655-9\_14},
+     url           = {https://doi.org/10.1007/0-387-22655-9_14},
      year          = {1999}
    }
 

@@ -16,7 +16,7 @@ carcione:08:theory
      month         = {12},
      number        = {1},
      pages         = {T1-T11},
-     title         = {Theory and modeling of constant-$Q$ \$P\$- and \$S\$-waves using fractional time derivatives},
+     title         = {Theory and modeling of constant-$Q$ $P$- and $S$-waves using fractional time derivatives},
      url           = {https://doi.org/10.1190/1.3008548},
      volume        = {74},
      year          = {2008}

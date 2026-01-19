@@ -18,7 +18,7 @@ nualart:09:application
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {Application of {M}alliavin calculus to stochastic partial differential equations},
-     url           = {https://doi.org/10.1007/978-3-540-85994-9\_3},
+     url           = {https://doi.org/10.1007/978-3-540-85994-9_3},
      volume        = {1962},
      year          = {2009}
    }

@@ -19,7 +19,7 @@ angenent.tannenbaum.ea:06:curve
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Model. Simul. Sci. Eng. Technol.},
      title         = {Curve shortening and interacting particle systems},
-     url           = {https://doi.org/10.1007/0-8176-4481-4\_12},
+     url           = {https://doi.org/10.1007/0-8176-4481-4_12},
      year          = {2006}
    }
 

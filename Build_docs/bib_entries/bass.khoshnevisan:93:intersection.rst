@@ -18,7 +18,7 @@ bass.khoshnevisan:93:intersection
      number        = {3},
      pages         = {419--451},
      title         = {Intersection local times and {T}anaka formulas},
-     url           = {http://www.numdam.org/item?id=AIHPB\_1993\_\_29\_3\_419\_0},
+     url           = {http://www.numdam.org/item?id=AIHPB_1993__29_3_419_0},
      volume        = {29},
      year          = {1993}
    }

@@ -18,7 +18,7 @@ corwin:22:some
      publisher     = {Birkh\"{a}user/Springer, Cham},
      series        = {Oper. Theory Adv. Appl.},
      title         = {Some recent progress on the stationary measure for the open {KPZ} equation},
-     url           = {https://doi.org/10.1007/978-3-031-13851-5\_15},
+     url           = {https://doi.org/10.1007/978-3-031-13851-5_15},
      volume        = {289},
      year          = {[2022] \copyright 2022}
    }

@@ -18,7 +18,7 @@ iscoe:88:on
      number        = {1},
      pages         = {200--221},
      title         = {On the supports of measure-valued critical branching {B}rownian motion},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198801)16:1<200:OTSOMC>2.0.CO;2-Z\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198801)16:1<200:OTSOMC>2.0.CO;2-Z&origin=MSN},
      volume        = {16},
      year          = {1988}
    }

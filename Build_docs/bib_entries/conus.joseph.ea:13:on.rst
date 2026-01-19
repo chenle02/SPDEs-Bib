@@ -8,23 +8,23 @@ conus.joseph.ea:13:on
 .. code-block:: bibtex
 
    @article{conus.joseph.ea:13:on,
-     author        = {Conus, Daniel and Joseph, Mathew and Khoshnevisan, Davar},
-     doi           = {10.1214/11-AOP717},
-     fjournal      = {The Annals of Probability},
-     issn          = {0091-1798},
-     journal       = {Ann. Probab.},
+     author        = {Conus, Daniel and Joseph, Mathew and Khoshnevisan, Davar and Shiu, Shang-Yuan},
+     doi           = {10.1007/s00440-012-0434-3},
+     fjournal      = {Probability Theory and Related Fields},
+     issn          = {0178-8051},
+     journal       = {Probab. Theory Related Fields},
      mrclass       = {60H15 (35R60)},
-     mrnumber      = {3098071},
+     mrnumber      = {3078278},
      mrreviewer    = {Sergey V. Lototsky},
-     number        = {3B},
-     pages         = {2225--2260},
-     title         = {On the chaotic character of the stochastic heat equation, before the onset of intermitttency},
-     url           = {https://doi.org/10.1214/11-AOP717},
-     volume        = {41},
+     number        = {3-4},
+     pages         = {483--533},
+     title         = {On the chaotic character of the stochastic heat equation, {II}},
+     url           = {https://doi.org/10.1007/s00440-012-0434-3},
+     volume        = {156},
      year          = {2013}
    }
 
-`The URL link to the source <https://doi.org/10.1214/11-AOP717>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-012-0434-3>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

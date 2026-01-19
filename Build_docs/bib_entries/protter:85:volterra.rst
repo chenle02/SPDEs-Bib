@@ -18,7 +18,7 @@ protter:85:volterra
      number        = {2},
      pages         = {519--530},
      title         = {Volterra equations driven by semimartingales},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198505)13:2<519:VEDBS>2.0.CO;2-3\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198505)13:2<519:VEDBS>2.0.CO;2-3&origin=MSN},
      volume        = {13},
      year          = {1985}
    }

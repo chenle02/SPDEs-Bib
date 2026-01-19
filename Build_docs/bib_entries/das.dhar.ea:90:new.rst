@@ -18,7 +18,7 @@ das.dhar.ea:90:new
      mrreviewer    = {Markku Lehto},
      number        = {13},
      pages         = {1041--1056},
-     title         = {New critical behavior in {$d=0$} large-{\$N\$} matrix models},
+     title         = {New critical behavior in {$d=0$} large-{$N$} matrix models},
      url           = {https://doi.org/10.1142/S0217732390001165},
      volume        = {5},
      year          = {1990}

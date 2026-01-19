@@ -18,7 +18,7 @@ zakai.zeitouni:92:when
      number        = {3},
      pages         = {1436--1440},
      title         = {When does the {R}amer formula look like the {G}irsanov formula?},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199207)20:3<1436:WDTRFL>2.0.CO;2-B\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199207)20:3<1436:WDTRFL>2.0.CO;2-B&origin=MSN},
      volume        = {20},
      year          = {1992}
    }

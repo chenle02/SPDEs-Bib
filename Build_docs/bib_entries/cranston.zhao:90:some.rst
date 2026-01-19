@@ -19,7 +19,7 @@ cranston.zhao:90:some
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Progr. Probab.},
      title         = {Some regularity results and eigenfunction estimates for the {S}chr\"{o}dinger operator},
-     url           = {https://doi.org/10.1007/978-1-4684-0564-4\_9},
+     url           = {https://doi.org/10.1007/978-1-4684-0564-4_9},
      volume        = {22},
      year          = {1990}
    }

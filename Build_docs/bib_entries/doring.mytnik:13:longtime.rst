@@ -18,7 +18,7 @@ doring.mytnik:13:longtime
      publisher     = {Springer, New York},
      series        = {Springer Proc. Math. Stat.},
      title         = {Longtime behavior for mutually catalytic branching with negative correlations},
-     url           = {https://doi.org/10.1007/978-1-4614-6240-8\_6},
+     url           = {https://doi.org/10.1007/978-1-4614-6240-8_6},
      volume        = {38},
      year          = {2013}
    }

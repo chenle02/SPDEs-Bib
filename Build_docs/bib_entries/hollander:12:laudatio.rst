@@ -17,7 +17,7 @@ hollander:12:laudatio
      publisher     = {Springer, Heidelberg},
      series        = {Springer Proc. Math.},
      title         = {Laudatio: the mathematical work of {J}\"{u}rgen {G}\"{a}rtner},
-     url           = {https://doi.org/10.1007/978-3-642-23811-6\_1},
+     url           = {https://doi.org/10.1007/978-3-642-23811-6_1},
      volume        = {11},
      year          = {2012}
    }

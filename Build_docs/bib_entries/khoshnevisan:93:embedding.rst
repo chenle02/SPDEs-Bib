@@ -18,7 +18,7 @@ khoshnevisan:93:embedding
      number        = {1},
      pages         = {340--361},
      title         = {An embedding of compensated compound {P}oisson processes with applications to local times},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199301)21:1<340:AEOCCP>2.0.CO;2-Y\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199301)21:1<340:AEOCCP>2.0.CO;2-Y&origin=MSN},
      volume        = {21},
      year          = {1993}
    }

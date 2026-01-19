@@ -18,7 +18,7 @@ bourgain:85:on
      number        = {4},
      pages         = {163--174},
      title         = {On finitely generated closed ideals in {$H^infty(D)$}},
-     url           = {http://www.numdam.org/item?id=AIF\_1985\_\_35\_4\_163\_0},
+     url           = {http://www.numdam.org/item?id=AIF_1985__35_4_163_0},
      volume        = {35},
      year          = {1985}
    }

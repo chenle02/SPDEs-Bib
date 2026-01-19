@@ -18,7 +18,7 @@ duplantier:06:brownian
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Prog. Math. Phys.},
      title         = {Brownian motion, ``diverse and undulating''},
-     url           = {https://doi.org/10.1007/3-7643-7436-5\_8},
+     url           = {https://doi.org/10.1007/3-7643-7436-5_8},
      volume        = {47},
      year          = {2006}
    }

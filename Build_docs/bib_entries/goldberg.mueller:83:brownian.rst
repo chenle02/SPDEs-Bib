@@ -18,7 +18,7 @@ goldberg.mueller:83:brownian
      number        = {4},
      pages         = {833--846},
      title         = {Brownian motion, geometry, and generalizations of {P}icard's little theorem},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198311)11:4<833:BMGAGO>2.0.CO;2-H\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198311)11:4<833:BMGAGO>2.0.CO;2-H&origin=MSN},
      volume        = {11},
      year          = {1983}
    }

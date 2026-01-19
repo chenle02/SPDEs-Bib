@@ -19,7 +19,7 @@ nualart.vives:92:chaos
      number        = {2B},
      pages         = {827--836 (1993)},
      title         = {Chaos expansions and local times},
-     url           = {https://doi.org/10.5565/PUBLMAT\_362B92\_07},
+     url           = {https://doi.org/10.5565/PUBLMAT_362B92_07},
      volume        = {36},
      year          = {1992}
    }

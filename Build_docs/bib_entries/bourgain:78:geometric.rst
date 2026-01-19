@@ -18,7 +18,7 @@ bourgain:78:geometric
      number        = {1},
      pages         = {3--6},
      title         = {A geometric characterization of the {R}adon-{N}ikod\'{y}m property in {B}anach spaces},
-     url           = {http://www.numdam.org/item?id=CM\_1978\_\_36\_1\_3\_0},
+     url           = {http://www.numdam.org/item?id=CM_1978__36_1_3_0},
      volume        = {36},
      year          = {1978}
    }

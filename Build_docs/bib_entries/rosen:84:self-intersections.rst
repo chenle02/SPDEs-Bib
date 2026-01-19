@@ -18,7 +18,7 @@ rosen:84:self-intersections
      number        = {1},
      pages         = {108--119},
      title         = {Self-intersections of random fields},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198402)12:1<108:SORF>2.0.CO;2-R\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198402)12:1<108:SORF>2.0.CO;2-R&origin=MSN},
      volume        = {12},
      year          = {1984}
    }

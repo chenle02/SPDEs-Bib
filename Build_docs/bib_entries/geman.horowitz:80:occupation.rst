@@ -18,7 +18,7 @@ geman.horowitz:80:occupation
      number        = {1},
      pages         = {1--67},
      title         = {Occupation densities},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198002)8:1<1:OD>2.0.CO;2-M\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198002)8:1<1:OD>2.0.CO;2-M&origin=MSN},
      volume        = {8},
      year          = {1980}
    }

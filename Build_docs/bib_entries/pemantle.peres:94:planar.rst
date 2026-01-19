@@ -18,7 +18,7 @@ pemantle.peres:94:planar
      publisher     = {Kluwer Acad. Publ., Dordrecht},
      series        = {NATO Adv. Sci. Inst. Ser. C: Math. Phys. Sci.},
      title         = {Planar first-passage percolation times are not tight},
-     url           = {https://doi.org/10.1007/978-94-015-8326-8\_16},
+     url           = {https://doi.org/10.1007/978-94-015-8326-8_16},
      volume        = {420},
      year          = {1994}
    }

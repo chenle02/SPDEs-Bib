@@ -18,7 +18,7 @@ fitzsimmons.salisbury:89:capacity
      number        = {3},
      pages         = {325--350},
      title         = {Capacity and energy for multiparameter {M}arkov processes},
-     url           = {http://www.numdam.org/item?id=AIHPB\_1989\_\_25\_3\_325\_0},
+     url           = {http://www.numdam.org/item?id=AIHPB_1989__25_3_325_0},
      volume        = {25},
      year          = {1989}
    }

@@ -17,7 +17,7 @@ cohen.jahnke.ea:06:numerical
      pages         = {553--576},
      publisher     = {Springer, Berlin},
      title         = {Numerical integrators for highly oscillatory {H}amiltonian systems: a review},
-     url           = {https://doi.org/10.1007/3-540-35657-6\_20},
+     url           = {https://doi.org/10.1007/3-540-35657-6_20},
      year          = {2006}
    }
 

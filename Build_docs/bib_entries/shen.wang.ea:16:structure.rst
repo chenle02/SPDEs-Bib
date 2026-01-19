@@ -18,7 +18,7 @@ shen.wang.ea:16:structure
      mrreviewer    = {Andrea\ Tellini},
      number        = {12},
      pages         = {6633--6667},
-     title         = {Structure of {$\omega$}-limit sets for almost-periodic parabolic equations on {\$S^1\$} with reflection symmetry},
+     title         = {Structure of {$\omega$}-limit sets for almost-periodic parabolic equations on {$S^1$} with reflection symmetry},
      url           = {https://doi.org/10.1016/j.jde.2016.08.048},
      volume        = {261},
      year          = {2016}

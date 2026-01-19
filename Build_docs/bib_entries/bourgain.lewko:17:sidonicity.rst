@@ -18,7 +18,7 @@ bourgain.lewko:17:sidonicity
      number        = {3},
      pages         = {1321--1352},
      title         = {Sidonicity and variants of {K}aczmarz's problem},
-     url           = {http://aif.cedram.org/item?id=AIF\_2017\_\_67\_3\_1321\_0},
+     url           = {http://aif.cedram.org/item?id=AIF_2017__67_3_1321_0},
      volume        = {67},
      year          = {2017}
    }

@@ -17,7 +17,7 @@ bertsch.dal-passo.ea:94:parameter
      mrreviewer    = {Hong Ming Yin},
      number        = {5-6},
      pages         = {1195--1214},
-     title         = {Parameter dependence in the {$b$}-{\$\epsilon\$} model},
+     title         = {Parameter dependence in the {$b$}-{$\epsilon$} model},
      volume        = {7},
      year          = {1994}
    }

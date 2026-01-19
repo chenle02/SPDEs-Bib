@@ -18,7 +18,7 @@ flandoli:15:stochastic
      publisher     = {Birkh\"{a}user/Springer, Basel},
      series        = {Progr. Probab.},
      title         = {A stochastic view over the open problem of well-posedness for the 3{D} {N}avier-{S}tokes equations},
-     url           = {https://doi.org/10.1007/978-3-0348-0909-2\_8},
+     url           = {https://doi.org/10.1007/978-3-0348-0909-2_8},
      volume        = {68},
      year          = {2015}
    }

@@ -17,7 +17,7 @@ cook.derrida:90:directed
      mrreviewer    = {Preben\ Alstr\o m},
      number        = {9},
      pages         = {1523--1554},
-     title         = {Directed polymers in a random medium: {$1/d$} expansion and the {\$n\$}-tree approximation},
+     title         = {Directed polymers in a random medium: {$1/d$} expansion and the {$n$}-tree approximation},
      url           = {http://stacks.iop.org/0305-4470/23/1523},
      volume        = {23},
      year          = {1990}

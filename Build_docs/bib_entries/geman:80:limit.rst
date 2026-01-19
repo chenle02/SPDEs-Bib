@@ -18,7 +18,7 @@ geman:80:limit
      number        = {2},
      pages         = {252--261},
      title         = {A limit theorem for the norm of random matrices},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198004)8:2<252:ALTFTN>2.0.CO;2-4\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198004)8:2<252:ALTFTN>2.0.CO;2-4&origin=MSN},
      volume        = {8},
      year          = {1980}
    }

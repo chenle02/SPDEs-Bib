@@ -17,7 +17,7 @@ bourdaud:10:calcul
      publisher     = {Birkh\"{a}user Boston, Boston, MA},
      series        = {Appl. Numer. Harmon. Anal.},
      title         = {Le calcul symbolique dans certaines alg\`ebres de type {S}obolev},
-     url           = {https://doi.org/10.1007/978-0-8176-4888-6\_9},
+     url           = {https://doi.org/10.1007/978-0-8176-4888-6_9},
      year          = {2010}
    }
 

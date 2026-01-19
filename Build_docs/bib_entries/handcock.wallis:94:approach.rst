@@ -18,7 +18,7 @@ handcock.wallis:94:approach
      number        = {426},
      pages         = {368--390},
      title         = {An approach to statistical spatial-temporal modeling of meteorological fields},
-     url           = {http://links.jstor.org/sici?sici=0162-1459(199406)89:426<368:AATSSM>2.0.CO;2-Z\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0162-1459(199406)89:426<368:AATSSM>2.0.CO;2-Z&origin=MSN},
      volume        = {89},
      year          = {1994}
    }

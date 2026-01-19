@@ -18,7 +18,7 @@ es-sebaiy.nourdin:13:parameter
      publisher     = {Springer, New York},
      series        = {Springer Proc. Math. Stat.},
      title         = {Parameter estimation for {$\alpha$}-fractional bridges},
-     url           = {https://doi.org/10.1007/978-1-4614-5906-4\_17},
+     url           = {https://doi.org/10.1007/978-1-4614-5906-4_17},
      volume        = {34},
      year          = {2013}
    }

@@ -18,7 +18,7 @@ bass:88:probability
      number        = {1},
      pages         = {251--264},
      title         = {Probability estimates for multiparameter {B}rownian processes},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198801)16:1<251:PEFMBP>2.0.CO;2-H\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198801)16:1<251:PEFMBP>2.0.CO;2-H&origin=MSN},
      volume        = {16},
      year          = {1988}
    }

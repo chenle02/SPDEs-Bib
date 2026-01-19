@@ -17,7 +17,7 @@ quastel:10:kpz
      pages         = {401--405},
      publisher     = {World Sci. Publ., Hackensack, NJ},
      title         = {K{PZ} universality for {KPZ}},
-     url           = {https://doi.org/10.1142/9789814304634\_0030},
+     url           = {https://doi.org/10.1142/9789814304634_0030},
      year          = {2010}
    }
 

@@ -18,7 +18,7 @@ bass.cranston:83:brownian
      number        = {1},
      pages         = {34--39},
      title         = {Brownian motion with lower class moving boundaries which grow faster than {$t\sp{1/2}$}},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198302)11:1<34:BMWLCM>2.0.CO;2-3\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198302)11:1<34:BMWLCM>2.0.CO;2-3&origin=MSN},
      volume        = {11},
      year          = {1983}
    }

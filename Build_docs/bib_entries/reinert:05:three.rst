@@ -17,7 +17,7 @@ reinert:05:three
      publisher     = {Singapore Univ. Press, Singapore},
      series        = {Lect. Notes Ser. Inst. Math. Sci. Natl. Univ. Singap.},
      title         = {Three general approaches to {S}tein's method},
-     url           = {https://doi.org/10.1142/9789812567680\_0004},
+     url           = {https://doi.org/10.1142/9789812567680_0004},
      volume        = {4},
      year          = {2005}
    }

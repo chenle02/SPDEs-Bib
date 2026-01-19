@@ -18,7 +18,7 @@ sznitman:93:brownian*1
      number        = {1},
      pages         = {490--508},
      title         = {Brownian survival among {G}ibbsian traps},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199301)21:1<490:BSAGT>2.0.CO;2-9\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199301)21:1<490:BSAGT>2.0.CO;2-9&origin=MSN},
      volume        = {21},
      year          = {1993}
    }

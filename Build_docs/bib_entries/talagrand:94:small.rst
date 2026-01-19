@@ -18,7 +18,7 @@ talagrand:94:small
      number        = {3},
      pages         = {1331--1354},
      title         = {The small ball problem for the {B}rownian sheet},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199407)22:3<1331:TSBPFT>2.0.CO;2-4\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199407)22:3<1331:TSBPFT>2.0.CO;2-4&origin=MSN},
      volume        = {22},
      year          = {1994}
    }

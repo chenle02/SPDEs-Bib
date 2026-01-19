@@ -18,7 +18,7 @@ cuzick.dupreez:82:joint
      number        = {3},
      pages         = {810--817},
      title         = {Joint continuity of {G}aussian local times},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198208)10:3<810:JCOGLT>2.0.CO;2-O\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198208)10:3<810:JCOGLT>2.0.CO;2-O&origin=MSN},
      volume        = {10},
      year          = {1982}
    }

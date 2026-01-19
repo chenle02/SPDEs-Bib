@@ -17,7 +17,7 @@ hoeffding:63:probability
      mrreviewer    = {E. H. Lehman},
      pages         = {13--30},
      title         = {Probability inequalities for sums of bounded random variables},
-     url           = {http://links.jstor.org/sici?sici=0162-1459(196303)58:301<13:PIFSOB>2.0.CO;2-D\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0162-1459(196303)58:301<13:PIFSOB>2.0.CO;2-D&origin=MSN},
      volume        = {58},
      year          = {1963}
    }

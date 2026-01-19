@@ -18,7 +18,7 @@ nourdin:13:lectures
      publisher     = {Springer, Cham},
      series        = {Lecture Notes in Math.},
      title         = {Lectures on {G}aussian approximations with {M}alliavin calculus},
-     url           = {https://doi.org/10.1007/978-3-319-00321-4\_1},
+     url           = {https://doi.org/10.1007/978-3-319-00321-4_1},
      volume        = {2078},
      year          = {2013}
    }

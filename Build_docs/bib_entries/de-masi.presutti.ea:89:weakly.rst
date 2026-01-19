@@ -18,7 +18,7 @@ de-masi.presutti.ea:89:weakly
      number        = {1},
      pages         = {1--38},
      title         = {The weakly asymmetric simple exclusion process},
-     url           = {http://www.numdam.org/item?id=AIHPB\_1989\_\_25\_1\_1\_0},
+     url           = {http://www.numdam.org/item?id=AIHPB_1989__25_1_1_0},
      volume        = {25},
      year          = {1989}
    }

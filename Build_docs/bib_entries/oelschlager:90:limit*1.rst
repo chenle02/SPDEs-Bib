@@ -18,7 +18,7 @@ oelschlager:90:limit*1
      number        = {1},
      pages         = {290--318},
      title         = {Limit theorems for age-structured populations},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199001)18:1<290:LTFAP>2.0.CO;2-7\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199001)18:1<290:LTFAP>2.0.CO;2-7&origin=MSN},
      volume        = {18},
      year          = {1990}
    }

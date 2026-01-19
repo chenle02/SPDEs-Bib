@@ -18,7 +18,7 @@ bourgain:86:translation
      number        = {1},
      pages         = {97--104},
      title         = {Translation invariant forms on {$L^p(G)\ (1<p<infty)$}},
-     url           = {http://www.numdam.org/item?id=AIF\_1986\_\_36\_1\_97\_0},
+     url           = {http://www.numdam.org/item?id=AIF_1986__36_1_97_0},
      volume        = {36},
      year          = {1986}
    }

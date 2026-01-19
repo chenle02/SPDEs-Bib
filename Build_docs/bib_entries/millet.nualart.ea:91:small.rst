@@ -18,7 +18,7 @@ millet.nualart.ea:91:small
      publisher     = {Birkh\"{a}user, Basel},
      series        = {Internat. Ser. Numer. Math.},
      title         = {Small perturbations for quasilinear anticipating stochastic differential equations},
-     url           = {https://doi.org/10.1007/978-3-0348-6413-8\_12},
+     url           = {https://doi.org/10.1007/978-3-0348-6413-8_12},
      volume        = {102},
      year          = {1991}
    }

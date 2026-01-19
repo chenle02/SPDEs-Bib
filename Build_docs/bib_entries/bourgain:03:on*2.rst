@@ -19,7 +19,7 @@ bourgain:03:on*2
      publisher     = {Springer, Berlin},
      series        = {Lecture Notes in Math.},
      title         = {On long-time behaviour of solutions of linear {S}chr\"{o}dinger equations with smooth time-dependent potential},
-     url           = {https://doi.org/10.1007/978-3-540-36428-3\_8},
+     url           = {https://doi.org/10.1007/978-3-540-36428-3_8},
      volume        = {1807},
      year          = {2003}
    }

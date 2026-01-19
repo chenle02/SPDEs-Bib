@@ -18,7 +18,7 @@ xiao:95:dimension
      number        = {1},
      pages         = {273--291},
      title         = {Dimension results for {G}aussian vector fields and index-{$\alpha$} stable fields},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199501)23:1<273:DRFGVF>2.0.CO;2-I\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199501)23:1<273:DRFGVF>2.0.CO;2-I&origin=MSN},
      volume        = {23},
      year          = {1995}
    }

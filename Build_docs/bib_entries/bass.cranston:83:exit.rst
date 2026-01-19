@@ -18,7 +18,7 @@ bass.cranston:83:exit
      number        = {3},
      pages         = {578--588},
      title         = {Exit times for symmetric stable processes in {${\bf R}\sp{n}$}},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198308)11:3<578:ETFSSP>2.0.CO;2-3\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198308)11:3<578:ETFSSP>2.0.CO;2-3&origin=MSN},
      volume        = {11},
      year          = {1983}
    }

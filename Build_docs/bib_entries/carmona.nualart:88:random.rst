@@ -17,7 +17,7 @@ carmona.nualart:88:random
      number        = {2},
      pages         = {730--751},
      title         = {Random nonlinear wave equations: propagation of singularities},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(198804)16:2<730:RNWEPO>2.0.CO;2-D\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(198804)16:2<730:RNWEPO>2.0.CO;2-D&origin=MSN},
      volume        = {16},
      year          = {1988}
    }

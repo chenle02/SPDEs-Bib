@@ -18,7 +18,7 @@ quastel.valko:07:t13
      mrreviewer    = {C\'{e}dric Bernardin},
      number        = {2},
      pages         = {379--394},
-     title         = {{$t^{1/3}$} {S}uperdiffusivity of finite-range asymmetric exclusion processes on {\$\mathbb{Z}\$}},
+     title         = {{$t^{1/3}$} {S}uperdiffusivity of finite-range asymmetric exclusion processes on {$\mathbb{Z}$}},
      url           = {https://doi.org/10.1007/s00220-007-0242-2},
      volume        = {273},
      year          = {2007}

@@ -18,7 +18,7 @@ hu.nualart:07:differential
      publisher     = {Springer, Berlin},
      series        = {Abel Symp.},
      title         = {Differential equations driven by {H}\"{o}lder continuous functions of order greater than 1/2},
-     url           = {https://doi.org/10.1007/978-3-540-70847-6\_17},
+     url           = {https://doi.org/10.1007/978-3-540-70847-6_17},
      volume        = {2},
      year          = {2007}
    }

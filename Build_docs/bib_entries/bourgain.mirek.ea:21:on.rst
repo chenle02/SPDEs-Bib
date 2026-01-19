@@ -18,7 +18,7 @@ bourgain.mirek.ea:21:on
      publisher     = {Springer, Cham},
      series        = {Springer INdAM Ser.},
      title         = {On the {H}ardy-{L}ittlewood maximal functions in high dimensions: continuous and discrete perspective},
-     url           = {https://doi.org/10.1007/978-3-030-72058-2\_3},
+     url           = {https://doi.org/10.1007/978-3-030-72058-2_3},
      volume        = {45},
      year          = {[2021] \copyright 2021}
    }

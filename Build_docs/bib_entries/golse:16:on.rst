@@ -17,7 +17,7 @@ golse:16:on
      publisher     = {Springer, [Cham]},
      series        = {Lect. Notes Appl. Math. Mech.},
      title         = {On the dynamics of large particle systems in the mean field limit},
-     url           = {https://doi.org/10.1007/978-3-319-26883-5\_1},
+     url           = {https://doi.org/10.1007/978-3-319-26883-5_1},
      volume        = {3},
      year          = {2016}
    }

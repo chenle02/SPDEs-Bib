@@ -17,7 +17,7 @@ krylov:07:maximum
      publisher     = {World Sci. Publ., Hackensack, NJ},
      series        = {Interdiscip. Math. Sci.},
      title         = {Maximum principle for {SPDE}s and its applications},
-     url           = {https://doi.org/10.1142/9789812770639\_0012},
+     url           = {https://doi.org/10.1142/9789812770639_0012},
      volume        = {2},
      year          = {2007}
    }

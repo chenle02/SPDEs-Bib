@@ -17,7 +17,7 @@ kingman:68:ergodic
      mrreviewer    = {W. F. Stout},
      pages         = {499--510},
      title         = {The ergodic theory of subadditive stochastic processes},
-     url           = {http://links.jstor.org/sici?sici=0035-9246(1968)30:3<499:TETOSS>2.0.CO;2-E\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0035-9246(1968)30:3<499:TETOSS>2.0.CO;2-E&origin=MSN},
      volume        = {30},
      year          = {1968}
    }

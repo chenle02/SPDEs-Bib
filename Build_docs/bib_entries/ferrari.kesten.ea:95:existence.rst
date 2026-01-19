@@ -18,7 +18,7 @@ ferrari.kesten.ea:95:existence
      number        = {2},
      pages         = {501--521},
      title         = {Existence of quasi-stationary distributions. {A} renewal dynamical approach},
-     url           = {http://links.jstor.org/sici?sici=0091-1798(199504)23:2<501:EOQDAR>2.0.CO;2-J\&origin=MSN},
+     url           = {http://links.jstor.org/sici?sici=0091-1798(199504)23:2<501:EOQDAR>2.0.CO;2-J&origin=MSN},
      volume        = {23},
      year          = {1995}
    }
