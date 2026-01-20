@@ -24,7 +24,7 @@ bourgain.kontorovich:10:on
      year          = {2010}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00039-010-0093-4>`__
+`The URL link to the source <https://doi.org/10.1016/j.crma.2010.08.004>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

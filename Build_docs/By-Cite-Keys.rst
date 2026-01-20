@@ -81,6 +81,7 @@ A
 - :cite:t:`alabert.nualart:92:some` : `alabert.nualart:92:some <bib_entries/alabert.nualart:92:some.html>`_
 - :cite:t:`alabert.nualart:97:second-order` : `alabert.nualart:97:second-order <bib_entries/alabert.nualart:97:second-order.html>`_
 - :cite:t:`alama.deift.ea:89:eigenvalue` : `alama.deift.ea:89:eigenvalue <bib_entries/alama.deift.ea:89:eigenvalue.html>`_
+- :cite:t:`alberts.janjigian.ea:22:greens` : `alberts.janjigian.ea:22:greens <bib_entries/alberts.janjigian.ea:22:greens.html>`_
 - :cite:t:`alberts.khanin.ea:14:continuum` : `alberts.khanin.ea:14:continuum <bib_entries/alberts.khanin.ea:14:continuum.html>`_
 - :cite:t:`alberts.khanin.ea:14:intermediate` : `alberts.khanin.ea:14:intermediate <bib_entries/alberts.khanin.ea:14:intermediate.html>`_
 - :cite:t:`alberts.sheffield:08:hausdorff` : `alberts.sheffield:08:hausdorff <bib_entries/alberts.sheffield:08:hausdorff.html>`_

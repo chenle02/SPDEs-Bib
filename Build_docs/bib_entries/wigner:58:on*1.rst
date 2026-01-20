@@ -16,4 +16,7 @@ wigner:58:on*1
      year          = {1958}
    }
 
+`The URL link to the source <https://doi.org/10.2307/1970008>`__
+
+
 `Back to index <../By-Cite-Keys.html>`__
