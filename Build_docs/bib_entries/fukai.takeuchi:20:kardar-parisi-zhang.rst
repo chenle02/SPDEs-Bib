@@ -23,7 +23,7 @@ fukai.takeuchi:20:kardar-parisi-zhang
      year          = {2020}
    }
 
-`The URL link to the source <https://doi.org/10.1103/PhysRevLett.124.060601>`__
+`The URL link to the source <https://link.aps.org/doi/10.1103/PhysRevLett.124.060601>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

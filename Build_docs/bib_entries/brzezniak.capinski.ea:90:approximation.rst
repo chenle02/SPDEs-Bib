@@ -20,7 +20,4 @@ brzezniak.capinski.ea:90:approximation
      year          = {1990}
    }
 
-`The URL link to the source <https://doi.org/10.1080/07362999008809210>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

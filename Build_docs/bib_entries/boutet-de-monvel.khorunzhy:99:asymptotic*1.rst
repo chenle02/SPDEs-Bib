@@ -24,7 +24,7 @@ boutet-de-monvel.khorunzhy:99:asymptotic*1
      year          = {1999}
    }
 
-`The URL link to the source <https://doi.org/10.1515/rose.1999.7.2.149>`__
+`The URL link to the source <https://doi.org/10.1515/rose.1999.7.1.1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

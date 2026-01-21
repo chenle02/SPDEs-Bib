@@ -22,7 +22,7 @@ gu.komorowski:22:gaussian*1
      year          = {2022}
    }
 
-`The URL link to the source <https://doi.org/10.18287/2541-7525-2021-27-2-33-47>`__
+`The URL link to the source <https://www.arxiv.org/abs/2201.07097>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

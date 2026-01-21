@@ -24,7 +24,7 @@ bourgain:93:on*3
      year          = {1993}
    }
 
-`The URL link to the source <https://doi.org/10.1215/S0012-7094-93-06928-1>`__
+`The URL link to the source <https://doi.org/10.1007/BF01896259>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

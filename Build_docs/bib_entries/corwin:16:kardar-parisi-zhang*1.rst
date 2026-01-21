@@ -22,7 +22,7 @@ corwin:16:kardar-parisi-zhang*1
      year          = {2016}
    }
 
-`The URL link to the source <https://doi.org/10.1090/noti1334>`__
+`The URL link to the source <https://doi.org/10.4171/news/101/6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
