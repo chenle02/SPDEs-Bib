@@ -24,7 +24,7 @@ mckean:95:statistical
      year          = {1995}
    }
 
-`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104272486>`__
+`The URL link to the source <https://doi.org/10.1007/BF02184878>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

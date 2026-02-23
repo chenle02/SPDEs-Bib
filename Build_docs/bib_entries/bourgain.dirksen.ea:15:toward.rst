@@ -20,7 +20,4 @@ bourgain.dirksen.ea:15:toward
      year          = {2015}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00039-015-0332-9>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

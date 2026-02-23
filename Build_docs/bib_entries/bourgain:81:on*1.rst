@@ -24,4 +24,7 @@ bourgain:81:on*1
      year          = {1981}
    }
 
+`The URL link to the source <https://doi.org/10.1112/jlms/s2-24.1.165>`__
+
+
 `Back to index <../By-Cite-Keys.html>`__

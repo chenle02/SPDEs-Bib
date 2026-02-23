@@ -22,7 +22,4 @@ bourgain:80:on
      year          = {1980}
    }
 
-`The URL link to the source <https://doi.org/10.2307/2043243>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,31 @@
+qiu:18:viscosity
+================
+
+:cite:t:`qiu:18:viscosity`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{qiu:18:viscosity,
+    author = {Qiu, Jinniao},
+    doi = {10.1137/17M1148232},
+    fjournal = {SIAM Journal on Control and Optimization},
+    issn = {0363-0129,1095-7138},
+    journal = {SIAM J. Control Optim.},
+    mrclass = {49L25 (35D40 35K55 35R60 49L20 60H15 93E20)},
+    mrnumber = {3864678},
+    mrreviewer = {Xiang\ Yu},
+    number = {5},
+    pages = {3708--3730},
+    title = {Viscosity solutions of stochastic
+   {H}amilton-{J}acobi-{B}ellman equations},
+    url = {https://doi.org/10.1137/17M1148232},
+    volume = {56},
+    year = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.1137/17M1148232>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

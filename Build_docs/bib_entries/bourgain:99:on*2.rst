@@ -23,7 +23,7 @@ bourgain:99:on*2
      year          = {1999}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s000390050087>`__
+`The URL link to the source <https://doi.org/10.1007/BF02791265>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

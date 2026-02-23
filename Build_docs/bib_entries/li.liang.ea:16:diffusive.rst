@@ -24,7 +24,7 @@ li.liang.ea:16:diffusive
      year          = {2016}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.jde.2016.04.035>`__
+`The URL link to the source <https://doi.org/10.3934/dcds.2016.36.3317>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

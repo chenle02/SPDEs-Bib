@@ -1,0 +1,24 @@
+chung:82:lectures
+=================
+
+:cite:t:`chung:82:lectures`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{chung:82:lectures,
+    author = {Chung, Kai Lai},
+    isbn = {0-387-90618-5},
+    mrclass = {60Jxx (60J40 60J45 60J65)},
+    mrnumber = {648601},
+    mrreviewer = {H.-J.\ Engelbert},
+    pages = {viii+239},
+    publisher = {Springer-Verlag, New York-Berlin},
+    series = {Grundlehren der Mathematischen Wissenschaften},
+    title = {Lectures from {M}arkov processes to {B}rownian motion},
+    volume = {249},
+    year = {1982}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

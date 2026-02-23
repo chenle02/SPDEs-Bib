@@ -24,6 +24,9 @@ tracy.widom:02:on
      year          = {2002}
    }
 
+`The URL link to the source <https://doi.org/10.1137/S0895479801395367>`__
+
+
 
 
 .. raw:: html

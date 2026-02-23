@@ -24,7 +24,7 @@ breuer.simon.ea:18:large*1
      year          = {2018}
    }
 
-`The URL link to the source <https://doi.org/10.4171/JST/235>`__
+`The URL link to the source <https://doi.org/10.1215/00127094-2018-0027>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

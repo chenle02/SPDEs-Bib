@@ -23,7 +23,7 @@ bourgain:00:on*1
      year          = {2000}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02791532>`__
+`The URL link to the source <https://doi.org/10.1155/S107379280000009X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

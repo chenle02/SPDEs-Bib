@@ -1,0 +1,30 @@
+lodhia.sheffield.ea:16:fractional
+=================================
+
+:cite:t:`lodhia.sheffield.ea:16:fractional`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lodhia.sheffield.ea:16:fractional,
+    author = {Lodhia, Asad and Sheffield, Scott and Sun, Xin and Watson,
+   Samuel S.},
+    doi = {10.1214/14-PS243},
+    fjournal = {Probability Surveys},
+    issn = {1549-5787},
+    journal = {Probab. Surv.},
+    mrclass = {60G15 (60G20 60G60)},
+    mrnumber = {3466837},
+    mrreviewer = {Serge\ Cohen},
+    pages = {1--56},
+    title = {Fractional {G}aussian fields: a survey},
+    url = {https://doi.org/10.1214/14-PS243},
+    volume = {13},
+    year = {2016}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/14-PS243>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

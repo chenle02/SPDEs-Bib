@@ -21,7 +21,4 @@ sierocinski.zabczyk:89:on
      year          = {1989}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BFb0002695>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

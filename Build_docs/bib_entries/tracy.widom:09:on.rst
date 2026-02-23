@@ -24,7 +24,7 @@ tracy.widom:09:on
      year          = {2009}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s10955-009-9867-1>`__
+`The URL link to the source <https://doi.org/10.1088/1751-8113/42/42/425002>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

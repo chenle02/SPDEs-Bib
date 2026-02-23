@@ -1,0 +1,32 @@
+fujie.senba:18:sufficient
+=========================
+
+:cite:t:`fujie.senba:18:sufficient`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{fujie.senba:18:sufficient,
+    author = {Fujie, Kentarou and Senba, Takasi},
+    doi = {10.1088/1361-6544/aaa2df},
+    fjournal = {Nonlinearity},
+    issn = {0951-7715,1361-6544},
+    journal = {Nonlinearity},
+    mrclass = {35K51 (35B45 35Q92 92C17)},
+    mrnumber = {3816648},
+    mrreviewer = {Karoline\ Disser},
+    number = {4},
+    pages = {1639--1672},
+    title = {A sufficient condition of sensitivity functions for
+   boundedness of solutions to a parabolic-parabolic
+   chemotaxis system},
+    url = {https://doi.org/10.1088/1361-6544/aaa2df},
+    volume = {31},
+    year = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.1088/1361-6544/aaa2df>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

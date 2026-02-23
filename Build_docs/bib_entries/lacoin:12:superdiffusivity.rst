@@ -24,7 +24,7 @@ lacoin:12:superdiffusivity
      year          = {2012}
    }
 
-`The URL link to the source <https://doi.org/10.1214/11-AIHP467>`__
+`The URL link to the source <https://doi.org/10.1214/11-AIHP457>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

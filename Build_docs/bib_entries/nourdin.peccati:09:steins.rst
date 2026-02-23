@@ -24,7 +24,7 @@ nourdin.peccati:09:steins
      year          = {2009}
    }
 
-`The URL link to the source <https://doi.org/10.1214/09-AOP461>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-008-0162-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

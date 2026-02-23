@@ -1,0 +1,22 @@
+puaun:10:active
+===============
+
+:cite:t:`puaun:10:active`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{puaun:10:active,
+    author = {Pu{a}un, Gheorghe},
+    booktitle = {The {O}xford handbook of membrane computing},
+    isbn = {978-0-19-955667-0},
+    mrclass = {68Q05},
+    mrnumber = {3676003},
+    pages = {282--301},
+    publisher = {Oxford Univ. Press, Oxford},
+    title = {Active membranes},
+    year = {2010}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__
