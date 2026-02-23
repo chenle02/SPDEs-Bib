@@ -24,7 +24,7 @@ dembo.zeitouni:96:large*1
      year          = {1996}
    }
 
-`The URL link to the source <https://doi.org/10.1016/0167-7152(95)00065-8>`__
+`The URL link to the source <https://doi.org/10.1007/978-1-4612-0719-1_4>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
