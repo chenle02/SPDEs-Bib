@@ -61,6 +61,12 @@ def run_add_podcast(app):
 
 
 def run_generate_audio_recent(app):
+    # Skip on Read the Docs: git clone sets all mtimes to checkout time,
+    # so the generated listing would have wrong dates. We rely on the
+    # pre-committed Audio_Recent.rst instead.
+    if os.environ.get('READTHEDOCS'):
+        print("[audio] Skipping generate_audio_recent.py on RTD (using committed version)")
+        return
     docs_dir = os.path.dirname(__file__)
     script_path = os.path.join(docs_dir, 'generate_audio_recent.py')
     if not os.path.exists(script_path):
