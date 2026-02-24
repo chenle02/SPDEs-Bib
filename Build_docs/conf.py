@@ -59,7 +59,22 @@ def run_add_podcast(app):
     except subprocess.CalledProcessError as e:
         print(f"[audio] add_podcast.py failed: {e}")
 
+
+def run_generate_audio_recent(app):
+    docs_dir = os.path.dirname(__file__)
+    script_path = os.path.join(docs_dir, 'generate_audio_recent.py')
+    if not os.path.exists(script_path):
+        print(f"[audio] generate_audio_recent.py not found at {script_path}")
+        return
+    print(f"[audio] Running generate_audio_recent.py to update Audio_Recent.rst")
+    try:
+        subprocess.run([sys.executable, script_path], cwd=docs_dir, check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"[audio] generate_audio_recent.py failed: {e}")
+
+
 def setup(app):
+    app.connect('builder-inited', run_generate_audio_recent)
     app.connect('builder-inited', run_add_podcast)
 
 # -- Options for latex pdf output -------------------------------------------------
