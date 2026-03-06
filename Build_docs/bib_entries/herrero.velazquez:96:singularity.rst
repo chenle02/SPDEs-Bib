@@ -24,7 +24,7 @@ herrero.velazquez:96:singularity
      year          = {1996}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF01445268>`__
+`The URL link to the source <https://doi.org/10.1017/S0956792500002266>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

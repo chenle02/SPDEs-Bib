@@ -23,7 +23,7 @@ zhang:09:variational*1
      year          = {2009}
    }
 
-`The URL link to the source <https://doi.org/10.1215/kjm/1260975036>`__
+`The URL link to the source <https://doi.org/10.1137/080737630>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

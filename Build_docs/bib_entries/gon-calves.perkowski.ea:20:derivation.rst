@@ -1,0 +1,31 @@
+gon-calves.perkowski.ea:20:derivation
+=====================================
+
+:cite:t:`gon-calves.perkowski.ea:20:derivation`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{gon-calves.perkowski.ea:20:derivation,
+    author = {Gon\c calves, Patr\'icia and Perkowski, Nicolas and Simon,
+   Marielle},
+    doi = {10.5802/ahl.28},
+    fjournal = {Annales Henri Lebesgue},
+    issn = {2644-9463},
+    journal = {Ann. H. Lebesgue},
+    mrclass = {60K35 (60F17 60H15)},
+    mrnumber = {4060852},
+    mrreviewer = {Ya.\ \=I.\ B\=\i lopol{\cprime}s{\cprime}ka},
+    pages = {87--167},
+    title = {Derivation of the stochastic {B}urgers equation with
+   {D}irichlet boundary conditions from the {WASEP}},
+    url = {https://doi.org/10.5802/ahl.28},
+    volume = {3},
+    year = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.5802/ahl.28>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

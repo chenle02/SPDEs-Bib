@@ -24,7 +24,7 @@ klenke.mytnik:12:infinite
      year          = {2012}
    }
 
-`The URL link to the source <https://doi.org/10.1214/10-AOP621>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-011-0376-1>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

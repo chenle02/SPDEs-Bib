@@ -24,7 +24,7 @@ bourgain:87:on*3
      year          = {1987}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF01389238>`__
+`The URL link to the source <https://doi.org/10.1007/BFb0078132>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

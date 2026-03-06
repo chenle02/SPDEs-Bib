@@ -1,0 +1,27 @@
+bernardin.gon-calves.ea:19:slow
+===============================
+
+:cite:t:`bernardin.gon-calves.ea:19:slow`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bernardin.gon-calves.ea:19:slow,
+    author = {Bernardin, C\'edric and Gon\c calves, P. and
+   Jim\'enez-Oviedo, B.},
+    fjournal = {Markov Processes and Related Fields},
+    issn = {1024-2953},
+    journal = {Markov Process. Related Fields},
+    mrclass = {60K35},
+    mrnumber = {3967543},
+    mrreviewer = {Tertuliano\ Franco},
+    number = {2},
+    pages = {217--274},
+    title = {Slow to fast infinitely extended reservoirs for the
+   symmetric exclusion process with long jumps},
+    volume = {25},
+    year = {2019}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

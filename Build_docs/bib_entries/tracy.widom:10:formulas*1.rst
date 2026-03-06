@@ -23,7 +23,7 @@ tracy.widom:10:formulas*1
      year          = {2010}
    }
 
-`The URL link to the source <https://doi.org/10.1063/1.3431977>`__
+`The URL link to the source <https://doi.org/10.1007/s10955-010-0013-x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

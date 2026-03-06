@@ -1,0 +1,32 @@
+franco.gon-calves.ea:15:phase
+=============================
+
+:cite:t:`franco.gon-calves.ea:15:phase`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{franco.gon-calves.ea:15:phase,
+    author = {Franco, Tertuliano and Gon\c calves, Patr\'icia and
+   Neumann, Adriana},
+    doi = {10.1090/S0002-9947-2014-06260-0},
+    fjournal = {Transactions of the American Mathematical Society},
+    issn = {0002-9947,1088-6850},
+    journal = {Trans. Amer. Math. Soc.},
+    mrclass = {35K20 (35K05 60K35)},
+    mrnumber = {3356932},
+    mrreviewer = {Ross\ Pinsky},
+    number = {9},
+    pages = {6131--6158},
+    title = {Phase transition of a heat equation with {R}obin's
+   boundary conditions and exclusion process},
+    url = {https://doi.org/10.1090/S0002-9947-2014-06260-0},
+    volume = {367},
+    year = {2015}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-2014-06260-0>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

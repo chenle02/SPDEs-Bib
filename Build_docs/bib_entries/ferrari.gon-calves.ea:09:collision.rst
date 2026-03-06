@@ -1,0 +1,33 @@
+ferrari.gon-calves.ea:09:collision
+==================================
+
+:cite:t:`ferrari.gon-calves.ea:09:collision`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{ferrari.gon-calves.ea:09:collision,
+    author = {Ferrari, Pablo A. and Gon\c calves, Patricia and Martin,
+   James B.},
+    doi = {10.1214/08-AIHP303},
+    fjournal = {Annales de l'Institut Henri Poincar\'e{} Probabilit\'es et
+   Statistiques},
+    issn = {0246-0203,1778-7017},
+    journal = {Ann. Inst. Henri Poincar\'e{} Probab. Stat.},
+    mrclass = {60K35},
+    mrnumber = {2572163},
+    mrreviewer = {Daniel\ Remenik},
+    number = {4},
+    pages = {1048--1064},
+    title = {Collision probabilities in the rarefaction fan of
+   asymmetric exclusion processes},
+    url = {https://doi.org/10.1214/08-AIHP303},
+    volume = {45},
+    year = {2009}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/08-AIHP303>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

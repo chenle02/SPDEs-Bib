@@ -1,0 +1,30 @@
+tsirelson:04:scaling
+====================
+
+:cite:t:`tsirelson:04:scaling`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{tsirelson:04:scaling,
+    author = {Tsirelson, Boris},
+    booktitle = {Lectures on probability theory and statistics},
+    doi = {10.1007/978-3-540-39982-7\_1},
+    isbn = {3-540-21316-3},
+    mrclass = {60G20 (28A35 46N30 60D05 60H05 60K35 82B41)},
+    mrnumber = {2079671},
+    mrreviewer = {Olivier\ Raimond},
+    pages = {1--106},
+    publisher = {Springer, Berlin},
+    series = {Lecture Notes in Math.},
+    title = {Scaling limit, noise, stability},
+    url = {https://doi.org/10.1007/978-3-540-39982-7_1},
+    volume = {1840},
+    year = {2004}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/978-3-540-39982-7_1>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

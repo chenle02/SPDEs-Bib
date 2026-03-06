@@ -22,7 +22,7 @@ pilipenko.proske:18:on
      year          = {2018}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.spl.2017.09.005>`__
+`The URL link to the source <https://doi.org/10.1142/S0219493718500454>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

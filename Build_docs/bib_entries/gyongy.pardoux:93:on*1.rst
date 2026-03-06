@@ -24,7 +24,7 @@ gyongy.pardoux:93:on*1
      year          = {1993}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF01192556>`__
+`The URL link to the source <https://doi.org/10.1007/BF01199321>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
