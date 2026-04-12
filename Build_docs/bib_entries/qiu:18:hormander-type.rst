@@ -1,0 +1,32 @@
+qiu:18:hormander-type
+=====================
+
+:cite:t:`qiu:18:hormander-type`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{qiu:18:hormander-type,
+    author = {Qiu, Jinniao},
+    doi = {10.3150/16-BEJ816},
+    fjournal = {Bernoulli. Official Journal of the Bernoulli Society for
+   Mathematical Statistics and Probability},
+    issn = {1350-7265,1573-9759},
+    journal = {Bernoulli},
+    mrclass = {60H15 (35R60 60G35)},
+    mrnumber = {3706782},
+    mrreviewer = {Sergey\ V.\ Lototsky},
+    number = {2},
+    pages = {956--970},
+    title = {H\"{o}rmander-type theorem for {I}t\^{o} processes and
+   related backward {SPDE}s},
+    url = {https://doi.org/10.3150/16-BEJ816},
+    volume = {24},
+    year = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.3150/16-BEJ816>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

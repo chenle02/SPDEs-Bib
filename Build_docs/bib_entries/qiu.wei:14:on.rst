@@ -1,0 +1,31 @@
+qiu.wei:14:on
+=============
+
+:cite:t:`qiu.wei:14:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{qiu.wei:14:on,
+    author = {Qiu, Jinniao and Wei, Wenning},
+    doi = {10.1016/j.jfa.2014.08.023},
+    fjournal = {Journal of Functional Analysis},
+    issn = {0022-1236,1096-0783},
+    journal = {J. Funct. Anal.},
+    mrclass = {60H15 (31B15 35K59 35R25 35R60)},
+    mrnumber = {3266242},
+    mrreviewer = {Xiang\ Xing\ Tao},
+    number = {10},
+    pages = {3598--3656},
+    title = {On the quasi-linear reflected backward stochastic partial
+   differential equations},
+    url = {https://doi.org/10.1016/j.jfa.2014.08.023},
+    volume = {267},
+    year = {2014}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2014.08.023>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

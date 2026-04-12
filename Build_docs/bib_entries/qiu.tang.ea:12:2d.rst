@@ -1,0 +1,30 @@
+qiu.tang.ea:12:2d
+=================
+
+:cite:t:`qiu.tang.ea:12:2d`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{qiu.tang.ea:12:2d,
+    author = {Qiu, Jinniao and Tang, Shanjian and You, Yuncheng},
+    doi = {10.1016/j.spa.2011.08.010},
+    fjournal = {Stochastic Processes and their Applications},
+    issn = {0304-4149,1879-209X},
+    journal = {Stochastic Process. Appl.},
+    mrclass = {60H15 (35A01 35A02 35D35 35Q30 35R60 76D05 76D06)},
+    mrnumber = {2860452},
+    number = {1},
+    pages = {334--356},
+    title = {2{D} backward stochastic {N}avier-{S}tokes equations with
+   nonlinear forcing},
+    url = {https://doi.org/10.1016/j.spa.2011.08.010},
+    volume = {122},
+    year = {2012}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2011.08.010>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

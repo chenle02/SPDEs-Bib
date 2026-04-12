@@ -1,0 +1,31 @@
+caravenna.cottini.ea:25:quasi-critical
+======================================
+
+:cite:t:`caravenna.cottini.ea:25:quasi-critical`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{caravenna.cottini.ea:25:quasi-critical,
+    author = {Caravenna, Francesco and Cottini, Francesca and Rossi,
+   Maurizia},
+    doi = {10.1214/25-AAP2182},
+    fjournal = {The Annals of Applied Probability},
+    issn = {1050-5164,2168-8737},
+    journal = {Ann. Appl. Probab.},
+    mrclass = {60K35 (35R60 60F05 82B44)},
+    mrnumber = {4945087},
+    mrreviewer = {Olivier\ Couronn\'{e}},
+    number = {4},
+    pages = {2604--2643},
+    title = {Quasi-critical fluctuations for 2{D} directed polymers},
+    url = {https://doi.org/10.1214/25-AAP2182},
+    volume = {35},
+    year = {2025}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/25-AAP2182>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

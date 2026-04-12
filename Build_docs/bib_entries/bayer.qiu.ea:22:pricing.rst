@@ -1,0 +1,31 @@
+bayer.qiu.ea:22:pricing
+=======================
+
+:cite:t:`bayer.qiu.ea:22:pricing`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bayer.qiu.ea:22:pricing,
+    author = {Bayer, Christian and Qiu, Jinniao and Yao, Yao},
+    doi = {10.1137/20M1357639},
+    fjournal = {SIAM Journal on Financial Mathematics},
+    issn = {1945-497X},
+    journal = {SIAM J. Financial Math.},
+    mrclass = {91G20 (60H15 60H35 91G60 91G80)},
+    mrnumber = {4386480},
+    mrreviewer = {Christian\ Bender},
+    number = {1},
+    pages = {179--212},
+    title = {Pricing options under rough volatility with backward
+   {SPDE}s},
+    url = {https://doi.org/10.1137/20M1357639},
+    volume = {13},
+    year = {2022}
+   }
+
+`The URL link to the source <https://doi.org/10.1137/20M1357639>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

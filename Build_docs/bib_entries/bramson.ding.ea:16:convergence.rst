@@ -24,7 +24,7 @@ bramson.ding.ea:16:convergence
      year          = {2016}
    }
 
-`The URL link to the source <https://doi.org/10.1214/15-AIHP703>`__
+`The URL link to the source <https://doi.org/10.1002/cpa.21621>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

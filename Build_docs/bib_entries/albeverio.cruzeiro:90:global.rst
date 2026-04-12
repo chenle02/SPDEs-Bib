@@ -1,0 +1,30 @@
+albeverio.cruzeiro:90:global
+============================
+
+:cite:t:`albeverio.cruzeiro:90:global`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{albeverio.cruzeiro:90:global,
+    author = {Albeverio, Sergio and Cruzeiro, Ana Bela},
+    fjournal = {Communications in Mathematical Physics},
+    issn = {0010-3616,1432-0916},
+    journal = {Comm. Math. Phys.},
+    mrclass = {58D20 (35Q30 35R60 60H99 76C05 76D05)},
+    mrnumber = {1051499},
+    mrreviewer = {Yu.\ E.\ Gliklikh},
+    number = {3},
+    pages = {431--444},
+    title = {Global flows with invariant ({G}ibbs) measures for {E}uler
+   and {N}avier-{S}tokes two-dimensional fluids},
+    url = {http://projecteuclid.org/euclid.cmp/1104180846},
+    volume = {129},
+    year = {1990}
+   }
+
+`The URL link to the source <http://projecteuclid.org/euclid.cmp/1104180846>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

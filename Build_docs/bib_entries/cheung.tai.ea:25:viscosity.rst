@@ -1,0 +1,31 @@
+cheung.tai.ea:25:viscosity
+==========================
+
+:cite:t:`cheung.tai.ea:25:viscosity`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cheung.tai.ea:25:viscosity,
+    author = {Cheung, Hang and Tai, Ho Man and Qiu, Jinniao},
+    doi = {10.1007/s00245-025-10219-9},
+    fjournal = {Applied Mathematics and Optimization},
+    issn = {0095-4616,1432-0606},
+    journal = {Appl. Math. Optim.},
+    mrclass = {49L25 (35B51 35Q93 49N80 58E30)},
+    mrnumber = {4856173},
+    number = {1},
+    pages = {Paper No. 23, 61},
+    title = {Viscosity solutions of a class of second order
+   {H}amilton-{J}acob-{B}ellman equations in the {W}asserstein
+   space},
+    url = {https://doi.org/10.1007/s00245-025-10219-9},
+    volume = {91},
+    year = {2025}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00245-025-10219-9>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

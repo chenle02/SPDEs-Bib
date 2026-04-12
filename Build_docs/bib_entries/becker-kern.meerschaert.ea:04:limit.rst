@@ -24,7 +24,7 @@ becker-kern.meerschaert.ea:04:limit
      year          = {2004}
    }
 
-`The URL link to the source <https://doi.org/10.1214/aop/1079021462>`__
+`The URL link to the source <https://doi.org/10.1017/s002190020001442x>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

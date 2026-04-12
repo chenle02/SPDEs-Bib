@@ -23,7 +23,7 @@ chorin:67:numerical*1
      year          = {1967}
    }
 
-`The URL link to the source <https://doi.org/10.1016/0021-9991(67)90037-X>`__
+`The URL link to the source <https://doi.org/10.1090/S0002-9904-1967-11853-6>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

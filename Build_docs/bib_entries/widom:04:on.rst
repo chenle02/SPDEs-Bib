@@ -1,0 +1,27 @@
+widom:04:on
+===========
+
+:cite:t:`widom:04:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{widom:04:on,
+    archiveprefix = {arXiv},
+    author = {Widom, Harold},
+    doi = {10.1023/B:JOSS.0000022384.58696.61},
+    eprint = {math/0308157},
+    fjournal = {Journal of Statistical Physics},
+    journal = {J. Statist. Phys.},
+    mrclass = {60G15 (33E17 60K35 82B44)},
+    mrnumber = {2040024},
+    number = {3-4},
+    pages = {1129--1134},
+    primaryclass = {math.PR},
+    title = {On asymptotics for the {A}iry process},
+    volume = {115},
+    year = {2004}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

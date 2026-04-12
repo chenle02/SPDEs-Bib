@@ -24,7 +24,7 @@ sowers:92:large*1
      year          = {1992}
    }
 
-`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199201)20:1%3C504:LDFARE%3E2.0.CO;2-W&origin=MSN>`__
+`The URL link to the source <https://doi.org/10.1007/BF01300562>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,31 @@
+cipriani.huang.ea:22:zero-inertia
+=================================
+
+:cite:t:`cipriani.huang.ea:22:zero-inertia`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cipriani.huang.ea:22:zero-inertia,
+    author = {Cipriani, Cristina and Huang, Hui and Qiu, Jinniao},
+    doi = {10.1137/21M1412323},
+    fjournal = {SIAM Journal on Mathematical Analysis},
+    issn = {0036-1410,1095-7154},
+    journal = {SIAM J. Math. Anal.},
+    mrclass = {90C59 (37N40 60H30 68W50)},
+    mrnumber = {4426887},
+    mrreviewer = {Lisa\ Morhaim},
+    number = {3},
+    pages = {3091--3121},
+    title = {Zero-inertia limit: from particle swarm optimization to
+   consensus-based optimization},
+    url = {https://doi.org/10.1137/21M1412323},
+    volume = {54},
+    year = {2022}
+   }
+
+`The URL link to the source <https://doi.org/10.1137/21M1412323>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

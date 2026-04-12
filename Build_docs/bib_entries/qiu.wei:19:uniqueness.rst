@@ -1,0 +1,31 @@
+qiu.wei:19:uniqueness
+=====================
+
+:cite:t:`qiu.wei:19:uniqueness`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{qiu.wei:19:uniqueness,
+    author = {Qiu, Jinniao and Wei, Wenning},
+    doi = {10.1007/s10473-019-0314-3},
+    fjournal = {Acta Mathematica Scientia. Series B. English Edition},
+    issn = {0252-9602,1572-9087},
+    journal = {Acta Math. Sci. Ser. B (Engl. Ed.)},
+    mrclass = {49L25 (35D40 35F21 35R60 49J55 60H15 93E20)},
+    mrnumber = {4066509},
+    mrreviewer = {Annalisa\ Cesaroni},
+    number = {3},
+    pages = {857--873},
+    title = {Uniqueness of viscosity solutions of stochastic
+   {H}amilton-{J}acobi equations},
+    url = {https://doi.org/10.1007/s10473-019-0314-3},
+    volume = {39},
+    year = {2019}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10473-019-0314-3>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,22 @@
+pinsky:02:introduction
+======================
+
+:cite:t:`pinsky:02:introduction`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{pinsky:02:introduction,
+    author = {Pinsky, Mark A.},
+    isbn = {0-534-37660-6},
+    mrclass = {42-02 (42C40)},
+    mrnumber = {2100936},
+    pages = {xviii+376},
+    publisher = {Brooks/Cole, Pacific Grove, CA},
+    series = {Brooks/Cole Series in Advanced Mathematics},
+    title = {Introduction to {F}ourier analysis and wavelets},
+    year = {2002}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

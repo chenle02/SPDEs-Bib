@@ -1,0 +1,28 @@
+nagasawa:64:time
+================
+
+:cite:t:`nagasawa:64:time`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{nagasawa:64:time,
+    author = {Nagasawa, Masao},
+    fjournal = {Nagoya Mathematical Journal},
+    issn = {0027-7630,2152-6842},
+    journal = {Nagoya Math. J.},
+    mrclass = {60.60},
+    mrnumber = {169290},
+    mrreviewer = {H.\ P.\ McKean, Jr.},
+    pages = {177--204},
+    title = {Time reversions of {M}arkov processes},
+    url = {http://projecteuclid.org/euclid.nmj/1118801344},
+    volume = {24},
+    year = {1964}
+   }
+
+`The URL link to the source <http://projecteuclid.org/euclid.nmj/1118801344>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

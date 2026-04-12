@@ -1,0 +1,30 @@
+bayer.horst.ea:17:functional
+============================
+
+:cite:t:`bayer.horst.ea:17:functional`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bayer.horst.ea:17:functional,
+    author = {Bayer, Christian and Horst, Ulrich and Qiu, Jinniao},
+    doi = {10.1214/16-AAP1265},
+    fjournal = {The Annals of Applied Probability},
+    issn = {1050-5164,2168-8737},
+    journal = {Ann. Appl. Probab.},
+    mrclass = {60B11 (60F17 60H15 90B22 91B70)},
+    mrnumber = {3719946},
+    number = {5},
+    pages = {2753--2806},
+    title = {A functional limit theorem for limit order books with
+   state dependent price dynamics},
+    url = {https://doi.org/10.1214/16-AAP1265},
+    volume = {27},
+    year = {2017}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/16-AAP1265>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

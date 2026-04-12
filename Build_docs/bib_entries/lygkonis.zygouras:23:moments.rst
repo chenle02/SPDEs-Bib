@@ -1,0 +1,31 @@
+lygkonis.zygouras:23:moments
+============================
+
+:cite:t:`lygkonis.zygouras:23:moments`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lygkonis.zygouras:23:moments,
+    author = {Lygkonis, Dimitris and Zygouras, Nikos},
+    doi = {10.1007/s00220-023-04694-w},
+    fjournal = {Communications in Mathematical Physics},
+    issn = {0010-3616,1432-0916},
+    journal = {Comm. Math. Phys.},
+    mrclass = {82B44 (60K35 82D60)},
+    mrnumber = {4616647},
+    number = {3},
+    pages = {2483--2520},
+    title = {Moments of the 2{D} directed polymer in the subcritical
+   regime and a generalisation of the {E}rd\"{o}s-{T}aylor
+   theorem},
+    url = {https://doi.org/10.1007/s00220-023-04694-w},
+    volume = {401},
+    year = {2023}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00220-023-04694-w>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

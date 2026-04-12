@@ -1,0 +1,26 @@
+colombeau:84:new
+================
+
+:cite:t:`colombeau:84:new`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{colombeau:84:new,
+    author = {Colombeau, Jean-Fran\c{c}ois},
+    isbn = {0-444-86830-5},
+    mrclass = {46Fxx (46G20 58B12 58C10 81E99)},
+    mrnumber = {738781},
+    mrreviewer = {Richard\ M.\ Aron},
+    note = {Notas de Matem\'{a}tica [Mathematical Notes], 90},
+    pages = {xii+375},
+    publisher = {North-Holland Publishing Co., Amsterdam},
+    series = {North-Holland Mathematics Studies},
+    title = {New generalized functions and multiplication of
+   distributions},
+    volume = {84},
+    year = {1984}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

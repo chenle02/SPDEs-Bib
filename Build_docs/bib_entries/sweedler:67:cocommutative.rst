@@ -1,0 +1,29 @@
+sweedler:67:cocommutative
+=========================
+
+:cite:t:`sweedler:67:cocommutative`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{sweedler:67:cocommutative,
+    author = {Sweedler, Moss E.},
+    doi = {10.1090/S0002-9904-1967-11677-X},
+    fjournal = {Bulletin of the American Mathematical Society},
+    issn = {0002-9904},
+    journal = {Bull. Amer. Math. Soc.},
+    mrclass = {18.20 (16.00)},
+    mrnumber = {214646},
+    mrreviewer = {W.\ D.\ Barcus},
+    pages = {126--128},
+    title = {Cocommutative {H}opf algebras with antipode},
+    url = {https://doi.org/10.1090/S0002-9904-1967-11677-X},
+    volume = {73},
+    year = {1967}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9904-1967-11677-X>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

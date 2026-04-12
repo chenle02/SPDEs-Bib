@@ -18,4 +18,7 @@ spitzer:75:random
      year          = {1975}
    }
 
+`The URL link to the source <https://doi.org/10.1016/0001-8708(75)90146-2>`__
+
+
 `Back to index <../By-Cite-Keys.html>`__

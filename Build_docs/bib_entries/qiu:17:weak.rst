@@ -1,0 +1,31 @@
+qiu:17:weak
+===========
+
+:cite:t:`qiu:17:weak`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{qiu:17:weak,
+    author = {Qiu, Jinniao},
+    doi = {10.1016/j.spa.2016.09.010},
+    fjournal = {Stochastic Processes and their Applications},
+    issn = {0304-4149,1879-209X},
+    journal = {Stochastic Process. Appl.},
+    mrclass = {60H15 (35D30 35K55 35R60 49L20 93E20)},
+    mrnumber = {3646436},
+    mrreviewer = {Qi\ Zhang},
+    number = {6},
+    pages = {1926--1959},
+    title = {Weak solution for a class of fully nonlinear stochastic
+   {H}amilton-{J}acobi-{B}ellman equations},
+    url = {https://doi.org/10.1016/j.spa.2016.09.010},
+    volume = {127},
+    year = {2017}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.spa.2016.09.010>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

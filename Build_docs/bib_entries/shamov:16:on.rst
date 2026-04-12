@@ -1,0 +1,30 @@
+shamov:16:on
+============
+
+:cite:t:`shamov:16:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{shamov:16:on,
+    author = {Shamov, Alexander},
+    doi = {10.1016/j.jfa.2016.03.001},
+    fjournal = {Journal of Functional Analysis},
+    issn = {0022-1236,1096-0783},
+    journal = {J. Funct. Anal.},
+    mrclass = {60G15 (60B10 60G57)},
+    mrnumber = {3475456},
+    mrreviewer = {Anna\ Talarczyk},
+    number = {9},
+    pages = {3224--3261},
+    title = {On {G}aussian multiplicative chaos},
+    url = {https://doi.org/10.1016/j.jfa.2016.03.001},
+    volume = {270},
+    year = {2016}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.jfa.2016.03.001>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

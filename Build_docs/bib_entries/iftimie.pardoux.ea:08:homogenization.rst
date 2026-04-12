@@ -1,0 +1,33 @@
+iftimie.pardoux.ea:08:homogenization
+====================================
+
+:cite:t:`iftimie.pardoux.ea:08:homogenization`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{iftimie.pardoux.ea:08:homogenization,
+    author = {Iftimie, Bogdan and Pardoux, \'{E}tienne and Piatnitski,
+   Andrey},
+    doi = {10.1214/07-AIHP134},
+    fjournal = {Annales de l'Institut Henri Poincar\'{e} Probabilit\'{e}s
+   et Statistiques},
+    issn = {0246-0203,1778-7017},
+    journal = {Ann. Inst. Henri Poincar\'{e} Probab. Stat.},
+    mrclass = {35B27 (35K15 60H15)},
+    mrnumber = {2451056},
+    mrreviewer = {Marco\ Veneroni},
+    number = {3},
+    pages = {519--543},
+    title = {Homogenization of a singular random one-dimensional
+   {PDE}},
+    url = {https://doi.org/10.1214/07-AIHP134},
+    volume = {44},
+    year = {2008}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/07-AIHP134>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

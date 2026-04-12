@@ -24,7 +24,7 @@ flandoli.gess.ea:17:synchronization
      year          = {2017}
    }
 
-`The URL link to the source <https://doi.org/10.1214/16-AOP1088>`__
+`The URL link to the source <https://doi.org/10.1007/s00440-016-0716-2>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

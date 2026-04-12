@@ -24,4 +24,7 @@ dalang.leveque:04:second-order*1
      year          = {2004}
    }
 
+`The URL link to the source <https://doi.org/10.1214/aop/1079021472>`__
+
+
 `Back to index <../By-Cite-Keys.html>`__

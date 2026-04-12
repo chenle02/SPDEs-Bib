@@ -1,0 +1,30 @@
+huang.qiu:22:on
+===============
+
+:cite:t:`huang.qiu:22:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{huang.qiu:22:on,
+    author = {Huang, Hui and Qiu, Jinniao},
+    doi = {10.1002/mma.8279},
+    fjournal = {Mathematical Methods in the Applied Sciences},
+    issn = {0170-4214,1099-1476},
+    journal = {Math. Methods Appl. Sci.},
+    mrclass = {60K35 (34F05 35Q70 35Q84 60B10 68W50 90C26 90C59)},
+    mrnumber = {4456068},
+    number = {12},
+    pages = {7814--7831},
+    title = {On the mean-field limit for the consensus-based
+   optimization},
+    url = {https://doi.org/10.1002/mma.8279},
+    volume = {45},
+    year = {2022}
+   }
+
+`The URL link to the source <https://doi.org/10.1002/mma.8279>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

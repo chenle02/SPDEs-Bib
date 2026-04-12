@@ -1,0 +1,28 @@
+surendranath.tsai:25:two-dimensional
+====================================
+
+:cite:t:`surendranath.tsai:25:two-dimensional`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{surendranath.tsai:25:two-dimensional,
+    author = {Surendranath, Sudheesh and Tsai, Li-Cheng},
+    doi = {10.1214/25-ecp685},
+    fjournal = {Electronic Communications in Probability},
+    issn = {1083-589X},
+    journal = {Electron. Commun. Probab.},
+    mrclass = {46N30},
+    mrnumber = {4893420},
+    pages = {Paper No. 35, 10},
+    title = {Two-dimensional delta {B}ose gas in a weighted space},
+    url = {https://doi.org/10.1214/25-ecp685},
+    volume = {30},
+    year = {2025}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/25-ecp685>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

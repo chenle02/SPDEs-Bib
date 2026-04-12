@@ -1,0 +1,32 @@
+qiu.zhang:23:stochastic
+=======================
+
+:cite:t:`qiu.zhang:23:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{qiu.zhang:23:stochastic,
+    author = {Qiu, Jinniao and Zhang, Jing},
+    doi = {10.1214/22-aap1831},
+    fjournal = {The Annals of Applied Probability},
+    issn = {1050-5164,2168-8737},
+    journal = {Ann. Appl. Probab.},
+    mrclass = {49N70 (35D40 49K45 49L25 60H15 91A15 91A23 93E20)},
+    mrnumber = {4564416},
+    mrreviewer = {Hiroaki\ Mukaidani},
+    number = {2},
+    pages = {689--730},
+    title = {Stochastic differential games with random coefficients and
+   stochastic {H}amilton-{J}acobi-{B}ellman-{I}saacs
+   equations},
+    url = {https://doi.org/10.1214/22-aap1831},
+    volume = {33},
+    year = {2023}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/22-aap1831>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

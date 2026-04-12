@@ -1,0 +1,30 @@
+cox.greven:94:ergodic
+=====================
+
+:cite:t:`cox.greven:94:ergodic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cox.greven:94:ergodic,
+    author = {Cox, J. T. and Greven, Andreas},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60K35 (60B12)},
+    mrnumber = {1288134},
+    mrreviewer = {Ingemar\ Kaj},
+    number = {2},
+    pages = {833--853},
+    title = {Ergodic theorems for infinite systems of locally
+   interacting diffusions},
+    url = {http://links.jstor.org/sici?sici=0091-1798(199404)22:2<833:ETFISO>2.0.CO;2-I&origin=MSN},
+    volume = {22},
+    year = {1994}
+   }
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(199404)22:2%3C833:ETFISO%3E2.0.CO;2-I&origin=MSN>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

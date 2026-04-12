@@ -1,0 +1,30 @@
+chenchene.huang.ea:25:consensus-based
+=====================================
+
+:cite:t:`chenchene.huang.ea:25:consensus-based`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{chenchene.huang.ea:25:consensus-based,
+    author = {Chenchene, Enis and Huang, Hui and Qiu, Jinniao},
+    doi = {10.1007/s10957-025-02719-z},
+    fjournal = {Journal of Optimization Theory and Applications},
+    issn = {0022-3239,1573-2878},
+    journal = {J. Optim. Theory Appl.},
+    mrclass = {91A06 (37N40 65C35 65K10 90C26 91A10)},
+    mrnumber = {4914021},
+    number = {2},
+    pages = {Paper No. 45, 30},
+    title = {A consensus-based algorithm for non-convex multiplayer
+   games},
+    url = {https://doi.org/10.1007/s10957-025-02719-z},
+    volume = {206},
+    year = {2025}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s10957-025-02719-z>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
