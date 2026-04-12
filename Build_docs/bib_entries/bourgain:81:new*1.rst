@@ -21,7 +21,4 @@ bourgain:81:new*1
      year          = {1981}
    }
 
-`The URL link to the source <https://doi.org/10.1007/BF02762857>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__
