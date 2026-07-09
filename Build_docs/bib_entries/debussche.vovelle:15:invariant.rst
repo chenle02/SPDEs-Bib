@@ -1,0 +1,31 @@
+debussche.vovelle:15:invariant
+==============================
+
+:cite:t:`debussche.vovelle:15:invariant`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{debussche.vovelle:15:invariant,
+    author = {Debussche, A. and Vovelle, J.},
+    doi = {10.1007/s00440-014-0599-z},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051,1432-2064},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60H15 (35L65 35R60)},
+    mrnumber = {3418750},
+    mrreviewer = {Gabriel\ Deugoue},
+    number = {3-4},
+    pages = {575--611},
+    title = {Invariant measure of scalar first-order conservation laws
+   with stochastic forcing},
+    url = {https://doi.org/10.1007/s00440-014-0599-z},
+    volume = {163},
+    year = {2015}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00440-014-0599-z>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,32 @@
+pu:22:gaussian
+==============
+
+:cite:t:`pu:22:gaussian`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{pu:22:gaussian,
+    author = {Pu, Fei},
+    doi = {10.1090/tran/8565},
+    fjournal = {Transactions of the American Mathematical Society},
+    issn = {0002-9947,1088-6850},
+    journal = {Trans. Amer. Math. Soc.},
+    mrclass = {60H15 (60F05 60H07)},
+    mrnumber = {4391725},
+    mrreviewer = {Jorge\ A.\ Le\'{o}n},
+    number = {4},
+    pages = {2481--2509},
+    title = {Gaussian fluctuation for spatial average of parabolic
+   {A}nderson model with {N}eumann/{D}irichlet/periodic
+   boundary conditions},
+    url = {https://doi.org/10.1090/tran/8565},
+    volume = {375},
+    year = {2022}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/tran/8565>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

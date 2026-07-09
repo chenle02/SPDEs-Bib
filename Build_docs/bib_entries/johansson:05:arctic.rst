@@ -1,0 +1,30 @@
+johansson:05:arctic
+===================
+
+:cite:t:`johansson:05:arctic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{johansson:05:arctic,
+    author = {Johansson, Kurt},
+    doi = {10.1214/009117904000000937},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60K35 (15A52 33C90 52C20 82B20)},
+    mrnumber = {2118857},
+    mrreviewer = {Thomas\ Polaski},
+    number = {1},
+    pages = {1--30},
+    title = {The arctic circle boundary and the {A}iry process},
+    url = {https://doi.org/10.1214/009117904000000937},
+    volume = {33},
+    year = {2005}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/009117904000000937>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

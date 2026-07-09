@@ -1,0 +1,31 @@
+berg.bolthausen:94:asymptotics
+==============================
+
+:cite:t:`berg.bolthausen:94:asymptotics`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{berg.bolthausen:94:asymptotics,
+    author = {van den Berg, Michiel and Bolthausen, Erwin},
+    doi = {10.1007/BF01199898},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051,1432-2064},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60J65 (60F10)},
+    mrnumber = {1283118},
+    mrreviewer = {B\'alint\ T\'oth},
+    number = {3},
+    pages = {389--397},
+    title = {Asymptotics of the generating function for the volume of
+   the {W}iener sausage},
+    url = {https://doi.org/10.1007/BF01199898},
+    volume = {99},
+    year = {1994}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BF01199898>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,31 @@
+aizenman.newman:84:tree
+=======================
+
+:cite:t:`aizenman.newman:84:tree`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{aizenman.newman:84:tree,
+    author = {Aizenman, Michael and Newman, Charles M.},
+    doi = {10.1007/BF01015729},
+    fjournal = {Journal of Statistical Physics},
+    issn = {0022-4715,1572-9613},
+    journal = {J. Statist. Phys.},
+    mrclass = {82A43 (60K35 82A25)},
+    mrnumber = {762034},
+    mrreviewer = {R.\ T.\ Smythe},
+    number = {1-2},
+    pages = {107--143},
+    title = {Tree graph inequalities and critical behavior in
+   percolation models},
+    url = {https://doi.org/10.1007/BF01015729},
+    volume = {36},
+    year = {1984}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BF01015729>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

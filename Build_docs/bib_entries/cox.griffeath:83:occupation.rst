@@ -1,0 +1,29 @@
+cox.griffeath:83:occupation
+===========================
+
+:cite:t:`cox.griffeath:83:occupation`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{cox.griffeath:83:occupation,
+    author = {Cox, J. Theodore and Griffeath, David},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60K35},
+    mrnumber = {714952},
+    mrreviewer = {Maury\ D.\ Bramson},
+    number = {4},
+    pages = {876--893},
+    title = {Occupation time limit theorems for the voter model},
+    url = {https://doi.org/10.1214/aop/1176993438},
+    volume = {11},
+    year = {1983}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/aop/1176993438>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

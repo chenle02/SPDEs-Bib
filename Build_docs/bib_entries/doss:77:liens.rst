@@ -1,0 +1,27 @@
+doss:77:liens
+=============
+
+:cite:t:`doss:77:liens`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{doss:77:liens,
+    author = {Doss, Halim},
+    fjournal = {Annales de l'Institut Henri Poincar\'e. Section B. Calcul
+   des Probabilit\'es et Statistique. Nouvelle S\'erie},
+    issn = {0020-2347},
+    journal = {Ann. Inst. H. Poincar\'e{} Sect. B (N.S.)},
+    mrclass = {60H10 (34F05)},
+    mrnumber = {451404},
+    mrreviewer = {Toshio\ Yamada},
+    number = {2},
+    pages = {99--125},
+    title = {Liens entre \'equations diff\'erentielles stochastiques et
+   ordinaires},
+    volume = {13},
+    year = {1977}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

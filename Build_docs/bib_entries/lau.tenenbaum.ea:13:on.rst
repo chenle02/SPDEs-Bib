@@ -1,0 +1,30 @@
+lau.tenenbaum.ea:13:on
+======================
+
+:cite:t:`lau.tenenbaum.ea:13:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{lau.tenenbaum.ea:13:on,
+    author = {Lau, Yuk-Kam and Tenenbaum, G\'erald and Wu, Jie},
+    doi = {10.1090/S0002-9939-2012-11332-2},
+    fjournal = {Proceedings of the American Mathematical Society},
+    issn = {0002-9939,1088-6826},
+    journal = {Proc. Amer. Math. Soc.},
+    mrclass = {11A25 (11K99 11N37 60F15)},
+    mrnumber = {2996946},
+    mrreviewer = {Olivier\ Bordell\`es},
+    number = {2},
+    pages = {409--420},
+    title = {On mean values of random multiplicative functions},
+    url = {https://doi.org/10.1090/S0002-9939-2012-11332-2},
+    volume = {141},
+    year = {2013}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-2012-11332-2>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

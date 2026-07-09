@@ -1,0 +1,31 @@
+johansson:19:two-time
+=====================
+
+:cite:t:`johansson:19:two-time`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{johansson:19:two-time,
+    author = {Johansson, Kurt},
+    doi = {10.1007/s00440-019-00901-9},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051,1432-2064},
+    journal = {Probab. Theory Related Fields},
+    mrclass = {60K35 (60K37 82B43)},
+    mrnumber = {4026607},
+    mrreviewer = {Francis\ Comets},
+    number = {3-4},
+    pages = {849--895},
+    title = {The two-time distribution in geometric last-passage
+   percolation},
+    url = {https://doi.org/10.1007/s00440-019-00901-9},
+    volume = {175},
+    year = {2019}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s00440-019-00901-9>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

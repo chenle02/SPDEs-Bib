@@ -1,0 +1,30 @@
+dyson:62:statistical
+====================
+
+:cite:t:`dyson:62:statistical`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{dyson:62:statistical,
+    author = {Dyson, Freeman J.},
+    doi = {10.1063/1.1703773},
+    fjournal = {Journal of Mathematical Physics},
+    issn = {0022-2488,1089-7658},
+    journal = {J. Mathematical Phys.},
+    mrclass = {81.60},
+    mrnumber = {143556},
+    mrreviewer = {G.\ K\"all\'en},
+    pages = {140--156},
+    title = {Statistical theory of the energy levels of complex
+   systems. {I}},
+    url = {https://doi.org/10.1063/1.1703773},
+    volume = {3},
+    year = {1962}
+   }
+
+`The URL link to the source <https://doi.org/10.1063/1.1703773>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

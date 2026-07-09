@@ -1,0 +1,30 @@
+dauvergne.sarkar.ea:22:three-halves
+===================================
+
+:cite:t:`dauvergne.sarkar.ea:22:three-halves`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{dauvergne.sarkar.ea:22:three-halves,
+    author = {Dauvergne, Duncan and Sarkar, Sourav and Vir\'ag, B\'alint},
+    doi = {10.1214/22-aop1574},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60K35 (82B23 82C22)},
+    mrnumber = {4474505},
+    number = {5},
+    pages = {1947--1985},
+    title = {Three-halves variation of geodesics in the directed
+   landscape},
+    url = {https://doi.org/10.1214/22-aop1574},
+    volume = {50},
+    year = {2022}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/22-aop1574>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

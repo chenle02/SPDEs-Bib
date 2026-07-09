@@ -1,0 +1,31 @@
+de-masi.presutti.ea:86:asymptotic
+=================================
+
+:cite:t:`de-masi.presutti.ea:86:asymptotic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{de-masi.presutti.ea:86:asymptotic,
+    author = {De Masi, A. and Presutti, E. and Spohn, H. and Wick, W.
+   D.},
+    fjournal = {The Annals of Probability},
+    issn = {0091-1798,2168-894X},
+    journal = {Ann. Probab.},
+    mrclass = {60K35 (60F05 82A05)},
+    mrnumber = {832017},
+    mrreviewer = {Hans-Otto\ Georgii},
+    number = {2},
+    pages = {409--423},
+    title = {Asymptotic equivalence of fluctuation fields for
+   reversible exclusion processes with speed change},
+    url = {http://links.jstor.org/sici?sici=0091-1798(198604)14:2<409:AEOFFF>2.0.CO;2-#&origin=MSN},
+    volume = {14},
+    year = {1986}
+   }
+
+`The URL link to the source <http://links.jstor.org/sici?sici=0091-1798(198604)14:2%3C409:AEOFFF%3E2.0.CO;2-#&origin=MSN>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

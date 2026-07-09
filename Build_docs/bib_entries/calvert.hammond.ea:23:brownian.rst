@@ -1,0 +1,27 @@
+calvert.hammond.ea:23:brownian
+==============================
+
+:cite:t:`calvert.hammond.ea:23:brownian`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{calvert.hammond.ea:23:brownian,
+    author = {Calvert, Jacob and Hammond, Alan and Hegde, Milind},
+    doi = {10.24033/ast.1200},
+    isbn = {978-2-85629-973-9},
+    journal = {Ast\'erisque},
+    mrnumber = {4612529},
+    note = {Originally circulated as arXiv:1912.00992 (2019)},
+    number = {441},
+    pages = {v+119},
+    title = {Brownian structure in the {KPZ} fixed point},
+    url = {https://arxiv.org/abs/1912.00992},
+    year = {2023}
+   }
+
+`The URL link to the source <https://arxiv.org/abs/1912.00992>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

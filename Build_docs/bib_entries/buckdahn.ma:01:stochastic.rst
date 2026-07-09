@@ -1,0 +1,31 @@
+buckdahn.ma:01:stochastic
+=========================
+
+:cite:t:`buckdahn.ma:01:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{buckdahn.ma:01:stochastic,
+    author = {Buckdahn, Rainer and Ma, Jin},
+    doi = {10.1016/S0304-4149(00)00093-4},
+    fjournal = {Stochastic Processes and their Applications},
+    issn = {0304-4149,1879-209X},
+    journal = {Stochastic Process. Appl.},
+    mrclass = {60H15 (35R60 49L25 60G46 60G60 60H30)},
+    mrnumber = {1828772},
+    mrreviewer = {Fred\ Espen\ Benth},
+    number = {2},
+    pages = {181--204},
+    title = {Stochastic viscosity solutions for nonlinear stochastic
+   partial differential equations. {I}},
+    url = {https://doi.org/10.1016/S0304-4149(00)00093-4},
+    volume = {93},
+    year = {2001}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(00)00093-4>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

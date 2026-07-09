@@ -1,0 +1,29 @@
+bec.khanin:07:burgers
+=====================
+
+:cite:t:`bec.khanin:07:burgers`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bec.khanin:07:burgers,
+    author = {Bec, J\'{e}r\'{e}mie and Khanin, Konstantin},
+    doi = {10.1016/j.physrep.2007.04.002},
+    fjournal = {Physics Reports. A Review Section of Physics Letters},
+    issn = {0370-1573,1873-6270},
+    journal = {Phys. Rep.},
+    mrclass = {35Q53 (37N10 60H10 76F02 76M35)},
+    mrnumber = {2318582},
+    number = {1-2},
+    pages = {1--66},
+    title = {Burgers turbulence},
+    url = {https://doi.org/10.1016/j.physrep.2007.04.002},
+    volume = {447},
+    year = {2007}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.physrep.2007.04.002>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

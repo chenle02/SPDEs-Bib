@@ -1,0 +1,28 @@
+hunt:57:markoff
+===============
+
+:cite:t:`hunt:57:markoff`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{hunt:57:markoff,
+    author = {Hunt, G. A.},
+    fjournal = {Illinois Journal of Mathematics},
+    issn = {0019-2082},
+    journal = {Illinois J. Math.},
+    mrclass = {31.0X},
+    mrnumber = {91349},
+    mrreviewer = {J.\ Deny},
+    pages = {44--93, 316--369},
+    title = {Markoff processes and potentials. {I}, {II}},
+    url = {http://projecteuclid.org/euclid.ijm/1255378505},
+    volume = {1},
+    year = {1957}
+   }
+
+`The URL link to the source <http://projecteuclid.org/euclid.ijm/1255378505>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

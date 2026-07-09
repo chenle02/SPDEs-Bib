@@ -1,0 +1,31 @@
+edwards.sokal:88:generalization
+===============================
+
+:cite:t:`edwards.sokal:88:generalization`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{edwards.sokal:88:generalization,
+    author = {Edwards, Robert G. and Sokal, Alan D.},
+    doi = {10.1103/PhysRevD.38.2009},
+    fjournal = {Physical Review. D. Particles and Fields. Third Series},
+    issn = {0556-2821},
+    journal = {Phys. Rev. D (3)},
+    mrclass = {82-04 (81-08 81E25 82-08 82A68)},
+    mrnumber = {965465},
+    number = {6},
+    pages = {2009--2012},
+    title = {Generalization of the
+   {F}ortuin-{K}asteleyn-{S}wendsen-{W}ang representation and
+   {M}onte {C}arlo algorithm},
+    url = {https://doi.org/10.1103/PhysRevD.38.2009},
+    volume = {38},
+    year = {1988}
+   }
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevD.38.2009>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

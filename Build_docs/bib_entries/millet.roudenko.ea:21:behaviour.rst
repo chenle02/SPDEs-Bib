@@ -1,0 +1,31 @@
+millet.roudenko.ea:21:behaviour
+===============================
+
+:cite:t:`millet.roudenko.ea:21:behaviour`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{millet.roudenko.ea:21:behaviour,
+    author = {Millet, Annie and Roudenko, Svetlana and Yang, Kai},
+    doi = {10.1093/imamat/hxab040},
+    fjournal = {IMA Journal of Applied Mathematics},
+    issn = {0272-4960,1464-3634},
+    journal = {IMA J. Appl. Math.},
+    mrclass = {35Q55},
+    mrnumber = {4338212},
+    number = {6},
+    pages = {1349--1396},
+    title = {Behaviour of solutions to the 1{D} focusing stochastic
+   {$L^2$}-critical and supercritical nonlinear
+   {S}chr\"{o}dinger equation with space-time white noise},
+    url = {https://doi.org/10.1093/imamat/hxab040},
+    volume = {86},
+    year = {2021}
+   }
+
+`The URL link to the source <https://doi.org/10.1093/imamat/hxab040>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

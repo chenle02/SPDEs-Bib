@@ -1,0 +1,31 @@
+fleming.viot:79:some
+====================
+
+:cite:t:`fleming.viot:79:some`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{fleming.viot:79:some,
+    author = {Fleming, Wendell H. and Viot, Michel},
+    doi = {10.1512/iumj.1979.28.28058},
+    fjournal = {Indiana University Mathematics Journal},
+    issn = {0022-2518,1943-5258},
+    journal = {Indiana Univ. Math. J.},
+    mrclass = {60G44 (60J25 92A10)},
+    mrnumber = {542340},
+    mrreviewer = {Frank\ J. S. Wang},
+    number = {5},
+    pages = {817--843},
+    title = {Some measure-valued {M}arkov processes in population
+   genetics theory},
+    url = {https://doi.org/10.1512/iumj.1979.28.28058},
+    volume = {28},
+    year = {1979}
+   }
+
+`The URL link to the source <https://doi.org/10.1512/iumj.1979.28.28058>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

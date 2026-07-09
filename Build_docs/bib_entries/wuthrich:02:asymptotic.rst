@@ -1,0 +1,26 @@
+wuthrich:02:asymptotic
+======================
+
+:cite:t:`wuthrich:02:asymptotic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @incollection{wuthrich:02:asymptotic,
+    author = {W\"{u}thrich, Mario V.},
+    booktitle = {In and out of equilibrium ({M}ambucaba, 2000)},
+    isbn = {0-8176-4289-7},
+    mrclass = {60K35 (82B41)},
+    mrnumber = {1901954},
+    mrreviewer = {Wolfgang\ Freudenberg},
+    pages = {205--226},
+    publisher = {Birkh\"{a}user Boston, Boston, MA},
+    series = {Progr. Probab.},
+    title = {Asymptotic behaviour of semi-infinite geodesics for
+   maximal increasing subsequences in the plane},
+    volume = {51},
+    year = {2002}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

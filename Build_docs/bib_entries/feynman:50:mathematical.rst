@@ -1,0 +1,25 @@
+feynman:50:mathematical
+=======================
+
+:cite:t:`feynman:50:mathematical`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{feynman:50:mathematical,
+    author = {Feynman, R. P.},
+    fjournal = {Physical Review. Series II},
+    issn = {0031-899X,1536-6065},
+    journal = {Phys. Rev. (2)},
+    mrclass = {81.0X},
+    mrnumber = {41726},
+    mrreviewer = {Freeman\ J.\ Dyson},
+    pages = {440--457},
+    title = {Mathematical formulation of the quantum theory of
+   electromagnetic interaction},
+    volume = {80},
+    year = {1950}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

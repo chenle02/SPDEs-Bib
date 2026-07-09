@@ -1,0 +1,31 @@
+anderson.schoen:85:positive
+===========================
+
+:cite:t:`anderson.schoen:85:positive`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{anderson.schoen:85:positive,
+    author = {Anderson, Michael T. and Schoen, Richard},
+    doi = {10.2307/1971181},
+    fjournal = {Annals of Mathematics. Second Series},
+    issn = {0003-486X,1939-8980},
+    journal = {Ann. of Math. (2)},
+    mrclass = {58G20 (31C12 53C21 58E20)},
+    mrnumber = {794369},
+    mrreviewer = {H.\ C. J. Sealey},
+    number = {3},
+    pages = {429--461},
+    title = {Positive harmonic functions on complete manifolds of
+   negative curvature},
+    url = {https://doi.org/10.2307/1971181},
+    volume = {121},
+    year = {1985}
+   }
+
+`The URL link to the source <https://doi.org/10.2307/1971181>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,31 @@
+jimbo.miwa.ea:80:density
+========================
+
+:cite:t:`jimbo.miwa.ea:80:density`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{jimbo.miwa.ea:80:density,
+    author = {Jimbo, Michio and Miwa, Tetsuji and M\^ori, Yasuko and
+   Sato, Mikio},
+    doi = {10.1016/0167-2789(80)90006-8},
+    fjournal = {Physica D. Nonlinear Phenomena},
+    issn = {0167-2789,1872-8022},
+    journal = {Phys. D},
+    mrclass = {82A15 (14D05 58F07)},
+    mrnumber = {573370},
+    number = {1},
+    pages = {80--158},
+    title = {Density matrix of an impenetrable {B}ose gas and the fifth
+   {P}ainlev\'e{} transcendent},
+    url = {https://doi.org/10.1016/0167-2789(80)90006-8},
+    volume = {1},
+    year = {1980}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/0167-2789(80)90006-8>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

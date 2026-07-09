@@ -1,0 +1,31 @@
+iscoe:86:weighted
+=================
+
+:cite:t:`iscoe:86:weighted`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{iscoe:86:weighted,
+    author = {Iscoe, I.},
+    doi = {10.1007/BF00366274},
+    fjournal = {Probability Theory and Related Fields},
+    issn = {0178-8051,1432-2064},
+    journal = {Probab. Theory Relat. Fields},
+    mrclass = {60J80},
+    mrnumber = {814663},
+    mrreviewer = {Harry\ I.\ Cohn},
+    number = {1},
+    pages = {85--116},
+    title = {A weighted occupation time for a class of measure-valued
+   branching processes},
+    url = {https://doi.org/10.1007/BF00366274},
+    volume = {71},
+    year = {1986}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/BF00366274>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,30 @@
+logan.shepp:77:variational
+==========================
+
+:cite:t:`logan.shepp:77:variational`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{logan.shepp:77:variational,
+    author = {Logan, B. F. and Shepp, L. A.},
+    doi = {10.1016/0001-8708(77)90030-5},
+    fjournal = {Advances in Mathematics},
+    issn = {0001-8708},
+    journal = {Advances in Math.},
+    mrclass = {05E10 (49Q10 60C05)},
+    mrnumber = {1417317},
+    mrreviewer = {Graham\ Brightwell},
+    number = {2},
+    pages = {206--222},
+    title = {A variational problem for random {Y}oung tableaux},
+    url = {https://doi.org/10.1016/0001-8708(77)90030-5},
+    volume = {26},
+    year = {1977}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/0001-8708(77)90030-5>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

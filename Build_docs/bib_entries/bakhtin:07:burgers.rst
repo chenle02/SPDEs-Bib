@@ -1,0 +1,30 @@
+bakhtin:07:burgers
+==================
+
+:cite:t:`bakhtin:07:burgers`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bakhtin:07:burgers,
+    author = {Bakhtin, Yuri},
+    doi = {10.1090/S0002-9939-07-08736-9},
+    fjournal = {Proceedings of the American Mathematical Society},
+    issn = {0002-9939,1088-6826},
+    journal = {Proc. Amer. Math. Soc.},
+    mrclass = {35Q53 (35R60 76M35)},
+    mrnumber = {2299503},
+    mrreviewer = {Azzouz\ Dermoune},
+    number = {7},
+    pages = {2257--2262},
+    title = {Burgers equation with random boundary conditions},
+    url = {https://doi.org/10.1090/S0002-9939-07-08736-9},
+    volume = {135},
+    year = {2007}
+   }
+
+`The URL link to the source <https://doi.org/10.1090/S0002-9939-07-08736-9>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

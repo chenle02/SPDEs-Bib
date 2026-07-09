@@ -1,0 +1,30 @@
+alexander.zygouras:13:subgaussian
+=================================
+
+:cite:t:`alexander.zygouras:13:subgaussian`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{alexander.zygouras:13:subgaussian,
+    author = {Alexander, Kenneth S. and Zygouras, Nikos},
+    doi = {10.1214/EJP.v18-2005},
+    fjournal = {Electronic Journal of Probability},
+    issn = {1083-6489},
+    journal = {Electron. J. Probab.},
+    mrclass = {60K37 (60K35 82B44 82D60)},
+    mrnumber = {3024099},
+    mrreviewer = {Elena\ A.\ Zhizhina},
+    pages = {no. 5, 28},
+    title = {Subgaussian concentration and rates of convergence in
+   directed polymers},
+    url = {https://doi.org/10.1214/EJP.v18-2005},
+    volume = {18},
+    year = {2013}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/EJP.v18-2005>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

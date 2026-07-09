@@ -1,0 +1,23 @@
+halpin-healy.takeuchi:15:kpz
+============================
+
+:cite:t:`halpin-healy.takeuchi:15:kpz`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{halpin-healy.takeuchi:15:kpz,
+    author = {Timothy Halpin-Healy and Kazumasa A. Takeuchi},
+    journal = {Preprint arXiv:1505.01910},
+    month = {May},
+    title = {A KPZ Cocktail- Shaken, not stirred: Toasting 30 years of
+   kinetically roughened surfaces},
+    url = {http://arXiv.org/abs/1505.01910},
+    year = {2015}
+   }
+
+`The URL link to the source <http://arXiv.org/abs/1505.01910>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

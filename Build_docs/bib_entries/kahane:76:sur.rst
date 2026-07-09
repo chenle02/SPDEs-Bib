@@ -1,0 +1,27 @@
+kahane:76:sur
+=============
+
+:cite:t:`kahane:76:sur`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kahane:76:sur,
+    author = {Kahane, Jean-Pierre},
+    fjournal = {Comptes Rendus Hebdomadaires des S\'{e}ances de
+   l'Acad\'{e}mie des Sciences. S\'{e}ries A et B},
+    issn = {0151-0509},
+    journal = {C. R. Acad. Sci. Paris S\'{e}r. A-B},
+    mrclass = {60J65},
+    mrnumber = {397903},
+    mrreviewer = {N.\ H.\ Bingham},
+    number = {8},
+    pages = {Aii, A431--A433},
+    title = {Sur les z\'{e}ros et les instants de ralentissement du
+   mouvement brownien},
+    volume = {282},
+    year = {1976}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

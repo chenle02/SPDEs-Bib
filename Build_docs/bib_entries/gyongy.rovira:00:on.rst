@@ -1,0 +1,27 @@
+gyongy.rovira:00:on
+===================
+
+:cite:t:`gyongy.rovira:00:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{gyongy.rovira:00:on,
+    author = {Gy{\"o}ngy, Istv{\'a}n and Rovira, Carles},
+    doi = {10.1016/S0304-4149(00)00033-8},
+    fjournal = {Stochastic Processes and their Applications},
+    journal = {Stochastic Process. Appl.},
+    number = {1},
+    pages = {83--108},
+    title = {On {$L\sp p$}-solutions of semilinear stochastic partial
+   differential equations},
+    url = {https://doi.org/10.1016/S0304-4149(00)00033-8},
+    volume = {90},
+    year = {2000}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/S0304-4149(00)00033-8>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

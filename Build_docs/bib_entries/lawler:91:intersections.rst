@@ -1,0 +1,23 @@
+lawler:91:intersections
+=======================
+
+:cite:t:`lawler:91:intersections`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @book{lawler:91:intersections,
+    author = {Lawler, Gregory F.},
+    isbn = {0-8176-3557-2},
+    mrclass = {60J15 (60G17 60K99)},
+    mrnumber = {1117680},
+    mrreviewer = {Krzysztof\ Burdzy},
+    pages = {219},
+    publisher = {Birkh\"auser Boston, Inc., Boston, MA},
+    series = {Probability and its Applications},
+    title = {Intersections of random walks},
+    year = {1991}
+   }
+
+`Back to index <../By-Cite-Keys.html>`__

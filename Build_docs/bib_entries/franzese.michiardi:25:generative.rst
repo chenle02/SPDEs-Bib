@@ -1,0 +1,31 @@
+franzese.michiardi:25:generative
+================================
+
+:cite:t:`franzese.michiardi:25:generative`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{franzese.michiardi:25:generative,
+    author = {Franzese, Giulio and Michiardi, Pietro},
+    doi = {10.1098/rsta.2024.0322},
+    fjournal = {Philosophical Transactions of the Royal Society A.
+   Mathematical, Physical and Engineering Sciences},
+    issn = {1364-503X,1471-2962},
+    journal = {Philos. Trans. Roy. Soc. A},
+    mrclass = {60J70},
+    mrnumber = {4942963},
+    number = {2299},
+    pages = {Paper No. 20240322, 22},
+    title = {Generative diffusion models in infinite dimensions: a
+   survey},
+    url = {https://doi.org/10.1098/rsta.2024.0322},
+    volume = {383},
+    year = {2025}
+   }
+
+`The URL link to the source <https://doi.org/10.1098/rsta.2024.0322>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__
