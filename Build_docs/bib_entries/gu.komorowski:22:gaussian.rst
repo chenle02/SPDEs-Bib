@@ -8,15 +8,25 @@ gu.komorowski:22:gaussian
 .. code-block:: bibtex
 
    @article{gu.komorowski:22:gaussian,
-     author        = {Yu Gu and Tomasz Komorowski},
-     journal       = {Preprint arXiv:2201.07097},
-     month         = {January},
+     archiveprefix = {arXiv},
+     author        = {Gu, Yu and Komorowski, Tomasz},
+     doi           = {10.1214/22-ECP476},
+     eprint        = {2201.07097},
+     fjournal      = {Electronic Communications in Probability},
+     journal       = {Electron. Commun. Probab.},
+     mrclass       = {60H15 (60H07 82D60)},
+     mrnumber      = {4458031},
+     mrreviewer    = {Achim Klenke},
+     note          = {Published version of arXiv:2201.07097},
+     pages         = {Paper No. 33, 12},
+     primaryclass  = {math.PR},
      title         = {Gaussian fluctuations of replica overlap in directed polymers},
-     url           = {https://www.arxiv.org/abs/2201.07097},
+     url           = {https://doi.org/10.1214/22-ECP476},
+     volume        = {27},
      year          = {2022}
    }
 
-`The URL link to the source <https://www.arxiv.org/abs/2201.07097>`__
+`The URL link to the source <https://doi.org/10.1214/22-ECP476>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
