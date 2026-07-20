@@ -19,4 +19,7 @@ bourgain:85:on*3
      year          = {1985}
    }
 
+`The URL link to the source <https://doi.org/10.1007/BF02776078>`__
+
+
 `Back to index <../By-Cite-Keys.html>`__

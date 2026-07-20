@@ -1,0 +1,34 @@
+hammond:20:exponents
+====================
+
+:cite:t:`hammond:20:exponents`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{hammond:20:exponents,
+    archiveprefix = {arXiv},
+    author = {Hammond, Alan},
+    doi = {10.1112/plms.12292},
+    eprint = {1709.04110},
+    fjournal = {Proceedings of the London Mathematical Society. Third
+   Series},
+    issn = {0024-6115,1460-244X},
+    journal = {Proc. Lond. Math. Soc. (3)},
+    mrclass = {82D60 (60K35)},
+    mrnumber = {4008374},
+    number = {3},
+    pages = {370--433},
+    primaryclass = {math.PR},
+    title = {Exponents governing the rarity of disjoint polymers in
+   {B}rownian last passage percolation},
+    url = {https://doi.org/10.1112/plms.12292},
+    volume = {120},
+    year = {2020}
+   }
+
+`The URL link to the source <https://doi.org/10.1112/plms.12292>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,31 @@
+bentrem.pandey.ea:00:roughening
+===============================
+
+:cite:t:`bentrem.pandey.ea:00:roughening`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{bentrem.pandey.ea:00:roughening,
+    archiveprefix = {arXiv},
+    author = {Bentrem, Frank W. and Pandey, R. B. and Family,
+   Fereydoon},
+    doi = {10.1103/PhysRevE.62.914},
+    eprint = {cond-mat/0607062},
+    journal = {Phys. Rev. E},
+    number = {1},
+    pages = {914--917},
+    primaryclass = {cond-mat.soft},
+    title = {Roughening, deroughening, and nonuniversal scaling of the
+   interface width in electrophoretic deposition of polymer
+   chains},
+    url = {https://doi.org/10.1103/PhysRevE.62.914},
+    volume = {62},
+    year = {2000}
+   }
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.62.914>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

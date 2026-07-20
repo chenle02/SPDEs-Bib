@@ -1,0 +1,30 @@
+kolakowska.novotny:15:nonuniversal
+==================================
+
+:cite:t:`kolakowska.novotny:15:nonuniversal`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{kolakowska.novotny:15:nonuniversal,
+    archiveprefix = {arXiv},
+    author = {Kolakowska, A. and Novotny, M. A.},
+    doi = {10.1103/PhysRevE.91.012147},
+    eprint = {1501.06010},
+    journal = {Phys. Rev. E},
+    number = {1},
+    pages = {012147},
+    primaryclass = {cond-mat.stat-mech},
+    title = {Nonuniversal effects in mixing correlated-growth processes
+   with randomness: interplay between bulk morphology and
+   surface roughening},
+    url = {https://doi.org/10.1103/PhysRevE.91.012147},
+    volume = {91},
+    year = {2015}
+   }
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.91.012147>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

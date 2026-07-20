@@ -23,7 +23,4 @@ stroock.varadhan:72:on
      year          = {1972}
    }
 
-`The URL link to the source <https://doi.org/10.1002/cpa.3160250603>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

@@ -24,7 +24,7 @@ tao.vu:10:random
      year          = {2010}
    }
 
-`The URL link to the source <https://doi.org/10.1007/s00039-010-0057-8>`__
+`The URL link to the source <https://doi.org/10.1214/10-AOP534>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

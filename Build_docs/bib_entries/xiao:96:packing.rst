@@ -24,7 +24,7 @@ xiao:96:packing
      year          = {1996}
    }
 
-`The URL link to the source <https://doi.org/10.1090/S0002-9947-96-01712-6>`__
+`The URL link to the source <https://doi.org/10.1017/S030500410007506X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

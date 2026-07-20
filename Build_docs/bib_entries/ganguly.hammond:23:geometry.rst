@@ -1,0 +1,31 @@
+ganguly.hammond:23:geometry
+===========================
+
+:cite:t:`ganguly.hammond:23:geometry`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{ganguly.hammond:23:geometry,
+    archiveprefix = {arXiv},
+    author = {Ganguly, Shirshendu and Hammond, Alan},
+    doi = {10.1214/22-EJP895},
+    eprint = {2010.05836},
+    fjournal = {Electronic Journal of Probability},
+    issn = {1083-6489},
+    journal = {Electron. J. Probab.},
+    mrnumber = {4583067},
+    pages = {Paper No. 60, 80},
+    primaryclass = {math.PR},
+    title = {The geometry of near ground states in Gaussian polymer
+   models},
+    url = {https://doi.org/10.1214/22-EJP895},
+    volume = {28},
+    year = {2023}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/22-EJP895>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -1,0 +1,24 @@
+hu.li.ea:19:sparse
+==================
+
+:cite:t:`hu.li.ea:19:sparse`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{hu.li.ea:19:sparse,
+    author = {Bingyang Hu and Songxiao Li and Yecheng Shi and Brett D.
+   Wick},
+    journal = {Preprint arXiv:1910.01995},
+    month = {October},
+    title = {Sparse domination of weighted composition operators on
+   weighted Bergman spaces in the upper half-plane},
+    url = {http://arXiv.org/abs/1910.01995},
+    year = {2019}
+   }
+
+`The URL link to the source <http://arXiv.org/abs/1910.01995>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

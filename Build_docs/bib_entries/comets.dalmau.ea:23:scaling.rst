@@ -1,0 +1,30 @@
+comets.dalmau.ea:23:scaling
+===========================
+
+:cite:t:`comets.dalmau.ea:23:scaling`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{comets.dalmau.ea:23:scaling,
+    archiveprefix = {arXiv},
+    author = {Comets, Francis and Dalmau, Joseba and Saglietti,
+   Santiago},
+    doi = {10.1214/23-AOP1635},
+    eprint = {2203.06133},
+    journal = {Ann. Probab.},
+    number = {5},
+    pages = {1870--1931},
+    primaryclass = {math.PR},
+    title = {Scaling limit of the heavy tailed ballistic deposition
+   model with {$p$}-sticking},
+    url = {https://doi.org/10.1214/23-AOP1635},
+    volume = {51},
+    year = {2023}
+   }
+
+`The URL link to the source <https://doi.org/10.1214/23-AOP1635>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

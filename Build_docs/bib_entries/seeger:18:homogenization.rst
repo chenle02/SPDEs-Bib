@@ -1,0 +1,30 @@
+seeger:18:homogenization
+========================
+
+:cite:t:`seeger:18:homogenization`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{seeger:18:homogenization,
+    author = {Seeger, Benjamin},
+    doi = {10.1016/j.matpur.2017.07.012},
+    fjournal = {Journal de Math\'ematiques Pures et Appliqu\'ees.
+   Neuvi\`eme S\'erie},
+    issn = {0021-7824,1776-3371},
+    journal = {J. Math. Pures Appl. (9)},
+    mrclass = {35B27 (35D40 35F21 35R60 60H15)},
+    mrnumber = {3744918},
+    mrreviewer = {Yuhong\ Li},
+    pages = {1--31},
+    title = {Homogenization of pathwise {H}amilton-{J}acobi equations},
+    url = {https://doi.org/10.1016/j.matpur.2017.07.012},
+    volume = {110},
+    year = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.1016/j.matpur.2017.07.012>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

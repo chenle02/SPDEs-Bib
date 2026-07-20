@@ -1,0 +1,31 @@
+imhof:84:density
+================
+
+:cite:t:`imhof:84:density`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{imhof:84:density,
+    author = {Imhof, J.-P.},
+    doi = {10.2307/3213612},
+    fjournal = {Journal of Applied Probability},
+    issn = {0021-9002},
+    journal = {J. Appl. Probab.},
+    mrclass = {60J65},
+    mrnumber = {752015},
+    mrreviewer = {F. B. Knight},
+    number = {3},
+    pages = {500--510},
+    title = {Density factorizations for {B}rownian motion, meander and
+   the three-dimensional {B}essel process, and applications},
+    url = {https://doi.org/10.2307/3213612},
+    volume = {21},
+    year = {1984}
+   }
+
+`The URL link to the source <https://doi.org/10.2307/3213612>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

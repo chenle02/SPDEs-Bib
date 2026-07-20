@@ -24,7 +24,7 @@ rovira.tindel:00:sharp
      year          = {2000}
    }
 
-`The URL link to the source <https://doi.org/10.1016/S0007-4497(00)01062-9>`__
+`The URL link to the source <https://doi.org/10.1080/17442500008834230>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

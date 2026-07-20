@@ -1,0 +1,29 @@
+ferrari.spohn:16:on
+===================
+
+:cite:t:`ferrari.spohn:16:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{ferrari.spohn:16:on,
+    author = {Ferrari, Patrik L. and Spohn, Herbert},
+    doi = {10.3842/SIGMA.2016.074},
+    fjournal = {SIGMA. Symmetry, Integrability and Geometry. Methods and
+   Applications},
+    issn = {1815-0659},
+    journal = {SIGMA Symmetry Integrability Geom. Methods Appl.},
+    mrclass = {60K35 (82B43 82C22)},
+    mrnumber = {3529743},
+    pages = {Paper No. 074, 23},
+    title = {On time correlations for {KPZ} growth in one dimension},
+    url = {https://doi.org/10.3842/SIGMA.2016.074},
+    volume = {12},
+    year = {2016}
+   }
+
+`The URL link to the source <https://doi.org/10.3842/SIGMA.2016.074>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

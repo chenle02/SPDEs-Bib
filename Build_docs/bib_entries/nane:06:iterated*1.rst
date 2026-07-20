@@ -24,7 +24,7 @@ nane:06:iterated*1
      year          = {2006}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.spa.2005.10.007>`__
+`The URL link to the source <http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:3232219>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

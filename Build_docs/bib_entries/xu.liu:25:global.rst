@@ -1,0 +1,29 @@
+xu.liu:25:global
+================
+
+:cite:t:`xu.liu:25:global`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{xu.liu:25:global,
+    author = {Xu, Fan and Liu, Bin},
+    doi = {10.1063/5.0160030},
+    fjournal = {Journal of Mathematical Physics},
+    issn = {0022-2488,1089-7658},
+    journal = {J. Math. Phys.},
+    number = {2},
+    pages = {Paper No. 021512},
+    title = {Global pathwise weak solution for two-dimensional
+   stochastic {K}eller--{S}egel(-{N}avier)--{S}tokes system
+   with logistic source},
+    url = {https://doi.org/10.1063/5.0160030},
+    volume = {66},
+    year = {2025}
+   }
+
+`The URL link to the source <https://doi.org/10.1063/5.0160030>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

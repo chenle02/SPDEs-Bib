@@ -23,7 +23,4 @@ donsker.varadhan:75:asymptotic*1
      year          = {1975}
    }
 
-`The URL link to the source <https://doi.org/10.1002/cpa.3160280102>`__
-
-
 `Back to index <../By-Cite-Keys.html>`__

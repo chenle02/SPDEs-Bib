@@ -1,0 +1,31 @@
+chen.ouyang.ea:26:on
+====================
+
+:cite:t:`chen.ouyang.ea:26:on`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{chen.ouyang.ea:26:on,
+    author = {Chen, Le and Ouyang, Cheng and Tindel, Samy and Xia,
+   Panqiu},
+    doi = {10.1007/s40072-025-00365-0},
+    fjournal = {Stochastics and Partial Differential Equations. Analysis
+   and Computations},
+    issn = {2194-0401,2194-041X},
+    journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
+    mrclass = {60H15 (60H17)},
+    mrnumber = {5015572},
+    number = {1},
+    pages = {189--233},
+    title = {On ergodic properties of stochastic {PDE}s},
+    url = {https://doi.org/10.1007/s40072-025-00365-0},
+    volume = {14},
+    year = {2026}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s40072-025-00365-0>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

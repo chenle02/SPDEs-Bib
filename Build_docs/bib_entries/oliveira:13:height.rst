@@ -1,0 +1,29 @@
+oliveira:13:height
+==================
+
+:cite:t:`oliveira:13:height`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{oliveira:13:height,
+    archiveprefix = {arXiv},
+    author = {Oliveira, Tiago J.},
+    doi = {10.1103/PhysRevE.87.034401},
+    eprint = {1303.1050},
+    journal = {Phys. Rev. E},
+    number = {3},
+    pages = {034401},
+    primaryclass = {cond-mat.stat-mech},
+    title = {Height distributions in competitive one-dimensional
+   {Kardar--Parisi--Zhang} systems},
+    url = {https://doi.org/10.1103/PhysRevE.87.034401},
+    volume = {87},
+    year = {2013}
+   }
+
+`The URL link to the source <https://doi.org/10.1103/PhysRevE.87.034401>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

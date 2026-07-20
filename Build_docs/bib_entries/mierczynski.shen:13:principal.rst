@@ -23,7 +23,7 @@ mierczynski.shen:13:principal
      year          = {2013}
    }
 
-`The URL link to the source <https://doi.org/10.1016/j.jmaa.2013.03.039>`__
+`The URL link to the source <https://doi.org/10.1090/S0002-9947-2013-05814-X>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__

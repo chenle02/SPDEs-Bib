@@ -1,0 +1,30 @@
+schwab:09:stochastic
+====================
+
+:cite:t:`schwab:09:stochastic`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{schwab:09:stochastic,
+    author = {Schwab, Russell W.},
+    doi = {10.1512/iumj.2009.58.3455},
+    fjournal = {Indiana University Mathematics Journal},
+    issn = {0022-2518,1943-5258},
+    journal = {Indiana Univ. Math. J.},
+    mrclass = {35B27 (35F25 60F99)},
+    mrnumber = {2514380},
+    number = {2},
+    pages = {537--581},
+    title = {Stochastic homogenization of {H}amilton-{J}acobi equations
+   in stationary ergodic spatio-temporal media},
+    url = {https://doi.org/10.1512/iumj.2009.58.3455},
+    volume = {58},
+    year = {2009}
+   }
+
+`The URL link to the source <https://doi.org/10.1512/iumj.2009.58.3455>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

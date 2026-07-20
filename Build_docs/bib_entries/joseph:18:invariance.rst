@@ -1,0 +1,35 @@
+joseph:18:invariance
+====================
+
+:cite:t:`joseph:18:invariance`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{joseph:18:invariance,
+    archiveprefix = {arXiv},
+    author = {Joseph, Mathew},
+    doi = {10.1007/s40072-018-0118-9},
+    eprint = {1706.05564},
+    fjournal = {Stochastics and Partial Differential Equations. Analysis and
+   Computations},
+    issn = {2194-0401,2194-041X},
+    journal = {Stoch. Partial Differ. Equ. Anal. Comput.},
+    mrclass = {60H15 (35R60 60F17 60K35)},
+    mrnumber = {3867709},
+    mrreviewer = {Xinghua\ Zheng},
+    note = {Published version of arXiv:1706.05564},
+    number = {4},
+    pages = {690--745},
+    primaryclass = {math.PR},
+    title = {An invariance principle for the stochastic heat equation},
+    url = {https://doi.org/10.1007/s40072-018-0118-9},
+    volume = {6},
+    year = {2018}
+   }
+
+`The URL link to the source <https://doi.org/10.1007/s40072-018-0118-9>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

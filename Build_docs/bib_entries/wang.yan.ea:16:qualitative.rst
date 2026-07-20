@@ -1,0 +1,29 @@
+wang.yan.ea:16:qualitative
+==========================
+
+:cite:t:`wang.yan.ea:16:qualitative`
+
+**BibTeX Entry:**
+
+.. code-block:: bibtex
+
+   @article{wang.yan.ea:16:qualitative,
+    archiveprefix = {arXiv},
+    author = {Qi Wang and Jingda Yan and Chunyi Gai},
+    doi = {10.1007/s00033-016-0648-9},
+    eprint = {1312.0258},
+    journal = {Z. Angew. Math. Phys.},
+    number = {3},
+    pages = {Paper No. 51, 25},
+    primaryclass = {math.AP},
+    title = {Qualitative analysis of stationary {K}eller--{S}egel
+   chemotaxis models with logistic growth},
+    url = {https://arxiv.org/abs/1312.0258},
+    volume = {67},
+    year = {2016}
+   }
+
+`The URL link to the source <https://arxiv.org/abs/1312.0258>`__
+
+
+`Back to index <../By-Cite-Keys.html>`__

@@ -22,7 +22,7 @@ friedman:58:remarks
      year          = {1958}
    }
 
-`The URL link to the source <http://projecteuclid.org/euclid.pjm/1103040096>`__
+`The URL link to the source <https://doi.org/10.2140/pjm.1958.8.201>`__
 
 
 `Back to index <../By-Cite-Keys.html>`__
