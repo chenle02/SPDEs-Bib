@@ -1,0 +1,10 @@
+{
+  "base_commit": "a2961a778771d4ae0519b13e0ae3349fc046d0f3",
+  "blob_count": 7723,
+  "html_count": 7672,
+  "record_html_count": 7666,
+  "wav_count": 28,
+  "blob_map_sha256": "4b923271cd06df4cfdb3803a1d942d4d76c203310100b978e30a5ab953fe2fc1",
+  "html_map_sha256": "b83973e549535b6d4d1565290007bee8002aa6bf0b1bd6379d389a13759636b0",
+  "wav_map_sha256": "197c558e0a88828c11d25bcc55e81baca75e3bf6bd62ddc7d7d46323454a9345"
+}

@@ -1,0 +1,5 @@
+Sphinx==7.2.6
+sphinx-press-theme==0.8.0
+sphinxcontrib-bibtex==2.6.5
+Pygments==2.17.2
+bibtexparser==1.4.1

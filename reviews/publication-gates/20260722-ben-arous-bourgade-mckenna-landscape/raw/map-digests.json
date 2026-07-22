@@ -1,0 +1,14 @@
+{
+  "base_blobs": 7723,
+  "candidate_blobs": 7724,
+  "candidate_record_html": 7667,
+  "preserved_base_map_sha256": "4b923271cd06df4cfdb3803a1d942d4d76c203310100b978e30a5ab953fe2fc1",
+  "candidate_map_sha256": "17534d4a367f988f9eda404ecfa8fead6848836a0a0e06c9e766bc3de4ab0c65",
+  "base_wav_count": 28,
+  "candidate_wav_count": 28,
+  "base_wav_map_sha256": "197c558e0a88828c11d25bcc55e81baca75e3bf6bd62ddc7d7d46323454a9345",
+  "candidate_wav_map_sha256": "197c558e0a88828c11d25bcc55e81baca75e3bf6bd62ddc7d7d46323454a9345",
+  "approved_additions": [
+    "bib_entries/ben-arous.bourgade.ea:24:landscape.html"
+  ]
+}

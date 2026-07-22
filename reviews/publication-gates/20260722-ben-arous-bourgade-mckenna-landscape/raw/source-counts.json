@@ -1,0 +1,14 @@
+{
+  "site_all_bib": 8679,
+  "site_rst_index": 8679,
+  "site_bib_entries": 8679,
+  "site_bib_files": 8679,
+  "authoritative_refdb_all_bib": 8681,
+  "refdb_minus_site": [
+    "chen.pu:26:two-time",
+    "liang:25:parabolic"
+  ],
+  "site_minus_refdb": [],
+  "target_in_numbered_pdf": false,
+  "numbered_pdf_gate": "OPEN: target title/citekey absent; web-only allowlist used; aggregate not copied"
+}
