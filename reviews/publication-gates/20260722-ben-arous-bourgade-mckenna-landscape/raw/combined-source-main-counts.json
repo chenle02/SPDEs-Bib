@@ -1,0 +1,18 @@
+{
+  "source_main_commit": "be59127f9cb4efcab2cde06d376875429a171aba",
+  "site_all_bib": 8680,
+  "site_rst_index": 8680,
+  "site_bib_entries": 8680,
+  "site_bib_files": 8680,
+  "authoritative_refdb_commit": "c4d47ba5e2e798391bcfb947dc49da2efa91fa1a",
+  "authoritative_refdb_all_bib": 8682,
+  "refdb_minus_site": [
+    "chen.pu:26:two-time",
+    "liang:25:parabolic"
+  ],
+  "site_minus_refdb": [],
+  "required_citekeys_present": {
+    "ben-arous.bourgade.ea:24:landscape": true,
+    "mckenna:21:large": true
+  }
+}

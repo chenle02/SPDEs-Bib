@@ -2,6 +2,7 @@
 
 - Date: 2026-07-22
 - Citekey: `ben-arous.bourgade.ea:24:landscape`
+- Coordinated citekey: `mckenna:21:large`
 - Public source: arXiv:2105.05051 and DOI 10.1002/cpa.22146
 - GitHub recovery-mirror URL: <https://chenle02.github.io/SPDEs-Bib/bib_entries/ben-arous.bourgade.ea:24:landscape.html>
 - Scope: one reviewed bibliography record and one bounded missing public HTML leaf
@@ -173,3 +174,53 @@ workflow logs, exact Git API payloads/responses, Pages build object, served targ
 HTTP/hash TSVs, and pre/post sentinel hashes. The large WAV sentinel bodies and
 Sphinx doctree caches were intentionally not committed; their byte hashes and live
 HTTP receipts are retained.
+
+## Deprioritized combined RTD handoff
+
+The final source commit containing both McKenna records is
+`be59127f9cb4efcab2cde06d376875429a171aba`. At that commit the four
+SPDEs-Bib source counts agree at 8,680: `All.bib`, the RST index,
+`bib_entries/*.rst`, and `bib_files/*.bib`. Current authoritative refdb commit
+`c4d47ba5e2e798391bcfb947dc49da2efa91fa1a` contains both required citekeys
+and 8,682 records; the only two refdb records not yet on SPDEs-Bib `main` are
+the unrelated `chen.pu:26:two-time` and `liang:25:parabolic`.
+
+Source push `be59127f9cb4efcab2cde06d376875429a171aba` triggered the one
+combined primary Read the Docs build
+[33711964](https://app.readthedocs.org/projects/spdes-bib/builds/33711964/)
+at 2026-07-22 17:25:21 UTC. The superseded landscape-only build 33711693 was
+cancelled first, so the combined build had no overlap. At the final requested
+handoff check, 2026-07-22 17:32:52 UTC, build 33711964 was still in `cloning`;
+the API had not yet populated its commit, duration, or command timings. The
+user then deprioritized this publication layer. The running build was left
+untouched, active polling stopped, and no retry or further mirror repair was
+started.
+
+At that final check the two exact primary URLs were still HTTP 404:
+
+- <https://spdes-bib.readthedocs.io/en/latest/bib_entries/ben-arous.bourgade.ea:24:landscape.html>
+- <https://spdes-bib.readthedocs.io/en/latest/bib_entries/mckenna:21:large.html>
+
+Consequently the primary publication gate remains open and this receipt does
+not authorize `audited: true`. A later session may make one read-only check of
+build 33711964 and these exact URLs; this session performs no retry.
+
+The podcast-capability sentinels at the same handoff were:
+
+- RTD Alberts podcast page: HTTP 200, SHA-256
+  `143ef9419b6de13c4437ac3f3e5a246380a3363c96f6d9422f67c79d96ffe4fc`;
+- RTD direct Alberts WAV: HTTP 200, SHA-256
+  `b4c8473c3d94ba120c4723d806189b0b36997bc05e949baf08c33bbcfa18820b`;
+- RTD `Audio_Recent.html`: HTTP 200, SHA-256
+  `90d3cb46a9ffd7cc3ac85747f7c6aed7eb11d6fb195da44c1347d12ef242e843`;
+- GitHub mirror Alberts podcast page: HTTP 200, SHA-256
+  `39fc38142f3ccfd14499b1c798a9bc79d8d37784afa543cce8544eb82e530ad8`;
+- GitHub mirror direct Alberts WAV: HTTP 200 with the same WAV SHA-256;
+- GitHub mirror `Audio_Recent.html`: HTTP 404;
+- GitHub mirror landscape leaf: HTTP 200 with the reviewed SHA-256 above;
+- GitHub mirror `mckenna:21:large` leaf: HTTP 404.
+
+The added raw handoff files retain the RTD v2/v3 build objects, exact check
+time, ten-URL HTTP/byte/hash matrix, and final combined source-count parity.
+The stale GitHub mirror index/search surfaces and stale `All_Numbered.pdf`
+remain limitations; neither is represented as current.
